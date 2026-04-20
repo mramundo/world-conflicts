@@ -1,0 +1,400 @@
+{
+  "updated": "2026-04-20T09:41:53Z",
+  "source": "curated seed + Wikipedia freshness (List of ongoing armed conflicts)",
+  "wikipediaRevision": "2026-04-20T07:14:35Z",
+  "items": [
+    {
+      "id": "ru-ua",
+      "name": "Russia–Ukraine War",
+      "countries": [
+        "Ukraine",
+        "Russia"
+      ],
+      "lat": 49.0,
+      "lng": 32.0,
+      "intensity": "high",
+      "startYear": 2022,
+      "casualties": 500000,
+      "displaced": 10000000,
+      "description": "Full-scale invasion that began in February 2022. Main fronts in the Donbas, southern Ukraine and the Black Sea.",
+      "tags": [
+        "Europe",
+        "Interstate conflict"
+      ],
+      "lastUpdate": "2026-04-19"
+    },
+    {
+      "id": "il-ps",
+      "name": "Israel–Hamas / Gaza Conflict",
+      "countries": [
+        "Israel",
+        "Palestine"
+      ],
+      "lat": 31.5,
+      "lng": 34.47,
+      "intensity": "high",
+      "startYear": 2023,
+      "casualties": 70000,
+      "displaced": 1900000,
+      "description": "War that began on 7 October 2023 with the Hamas attack against Israel and the subsequent offensive in Gaza. Severe humanitarian consequences.",
+      "tags": [
+        "Middle East",
+        "Asymmetric"
+      ],
+      "lastUpdate": "2026-04-19"
+    },
+    {
+      "id": "sd-war",
+      "name": "Sudan Civil War",
+      "countries": [
+        "Sudan"
+      ],
+      "lat": 15.5,
+      "lng": 32.5,
+      "intensity": "high",
+      "startYear": 2023,
+      "casualties": 150000,
+      "displaced": 11000000,
+      "description": "Conflict between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF). Humanitarian crisis unprecedented in recent times.",
+      "tags": [
+        "Africa",
+        "Civil war"
+      ],
+      "lastUpdate": "2026-04-18"
+    },
+    {
+      "id": "mm-civ",
+      "name": "Myanmar Civil War",
+      "countries": [
+        "Myanmar"
+      ],
+      "lat": 21.0,
+      "lng": 96.0,
+      "intensity": "high",
+      "startYear": 2021,
+      "casualties": 50000,
+      "displaced": 3500000,
+      "description": "Civil war that broke out after the military coup of February 2021, between the junta and various resistance forces.",
+      "tags": [
+        "Asia",
+        "Civil war"
+      ],
+      "lastUpdate": "2026-04-16"
+    },
+    {
+      "id": "ye-war",
+      "name": "Yemen War",
+      "countries": [
+        "Yemen",
+        "Saudi Arabia"
+      ],
+      "lat": 15.55,
+      "lng": 48.5,
+      "intensity": "medium",
+      "startYear": 2014,
+      "casualties": 377000,
+      "displaced": 4500000,
+      "description": "Conflict between the recognized government, Houthi rebels and the Saudi-led coalition. Attacks in the Red Sea since 2023 have reignited the crisis.",
+      "tags": [
+        "Middle East",
+        "Maritime routes"
+      ],
+      "lastUpdate": "2026-04-17"
+    },
+    {
+      "id": "sy-war",
+      "name": "Syria Crisis",
+      "countries": [
+        "Syria"
+      ],
+      "lat": 35.0,
+      "lng": 38.0,
+      "intensity": "medium",
+      "startYear": 2011,
+      "casualties": 500000,
+      "displaced": 13000000,
+      "description": "After the fall of the Assad regime (2024) the transition is complex: residual clashes in the north and east, tensions with Turkey and Kurdish forces.",
+      "tags": [
+        "Middle East",
+        "Post-transition"
+      ],
+      "lastUpdate": "2026-04-15"
+    },
+    {
+      "id": "cd-east",
+      "name": "Eastern DRC Conflict",
+      "countries": [
+        "Democratic Republic of the Congo",
+        "Rwanda"
+      ],
+      "lat": -1.68,
+      "lng": 29.22,
+      "intensity": "high",
+      "startYear": 2012,
+      "casualties": 40000,
+      "displaced": 7000000,
+      "description": "M23 offensive in North Kivu with support — denounced by the UN — from Rwanda. Goma under pressure.",
+      "tags": [
+        "Africa",
+        "Armed groups"
+      ],
+      "lastUpdate": "2026-04-18"
+    },
+    {
+      "id": "sahel",
+      "name": "Sahel Crisis",
+      "countries": [
+        "Mali",
+        "Burkina Faso",
+        "Niger"
+      ],
+      "lat": 15.5,
+      "lng": -1.0,
+      "intensity": "high",
+      "startYear": 2012,
+      "casualties": 40000,
+      "displaced": 3000000,
+      "description": "Jihadist insurgency (JNIM, ISGS) spreading across the Sahel. Military juntas and withdrawal of French/UN forces.",
+      "tags": [
+        "Africa",
+        "Jihadism"
+      ],
+      "lastUpdate": "2026-04-17"
+    },
+    {
+      "id": "so-als",
+      "name": "Al-Shabaab Insurgency",
+      "countries": [
+        "Somalia"
+      ],
+      "lat": 5.15,
+      "lng": 46.2,
+      "intensity": "medium",
+      "startYear": 2006,
+      "casualties": 90000,
+      "displaced": 3800000,
+      "description": "Jihadist insurgency against the Somali federal government, with support from ATMIS and international partners.",
+      "tags": [
+        "Africa",
+        "Jihadism"
+      ],
+      "lastUpdate": "2026-04-11"
+    },
+    {
+      "id": "ng-bh",
+      "name": "Boko Haram / ISWAP Insurgency",
+      "countries": [
+        "Nigeria",
+        "Chad",
+        "Cameroon",
+        "Niger"
+      ],
+      "lat": 11.85,
+      "lng": 13.15,
+      "intensity": "medium",
+      "startYear": 2009,
+      "casualties": 50000,
+      "displaced": 3000000,
+      "description": "Conflict in the Lake Chad basin between regional forces and jihadist groups.",
+      "tags": [
+        "Africa",
+        "Jihadism"
+      ],
+      "lastUpdate": "2026-04-12"
+    },
+    {
+      "id": "mx-cartels",
+      "name": "Mexican Drug War",
+      "countries": [
+        "Mexico"
+      ],
+      "lat": 23.6,
+      "lng": -102.5,
+      "intensity": "high",
+      "startYear": 2006,
+      "casualties": 450000,
+      "displaced": 400000,
+      "description": "Endemic violence between security forces and drug cartels, with high civilian homicide rates.",
+      "tags": [
+        "Americas",
+        "Crime war"
+      ],
+      "lastUpdate": "2026-04-19"
+    },
+    {
+      "id": "ht-gangs",
+      "name": "Haiti Crisis",
+      "countries": [
+        "Haiti"
+      ],
+      "lat": 18.97,
+      "lng": -72.28,
+      "intensity": "high",
+      "startYear": 2021,
+      "casualties": 8000,
+      "displaced": 700000,
+      "description": "State collapse; a coalition of gangs controls Port-au-Prince. Multinational security mission underway.",
+      "tags": [
+        "Americas",
+        "Fragile state"
+      ],
+      "lastUpdate": "2026-04-18"
+    },
+    {
+      "id": "af-tb",
+      "name": "Afghanistan post-2021",
+      "countries": [
+        "Afghanistan"
+      ],
+      "lat": 34.5,
+      "lng": 67.0,
+      "intensity": "medium",
+      "startYear": 2021,
+      "casualties": 20000,
+      "displaced": 5000000,
+      "description": "Taliban in power with regular attacks by the Islamic State Khorasan (ISKP). Economic and humanitarian crisis.",
+      "tags": [
+        "Asia",
+        "Terrorism"
+      ],
+      "lastUpdate": "2026-04-13"
+    },
+    {
+      "id": "ir-proxy",
+      "name": "Iran–Israel Tensions",
+      "countries": [
+        "Iran",
+        "Israel",
+        "Lebanon"
+      ],
+      "lat": 33.85,
+      "lng": 35.5,
+      "intensity": "medium",
+      "startYear": 2023,
+      "casualties": 12000,
+      "displaced": 1200000,
+      "description": "Direct and proxy clashes (Hezbollah, Houthis, militias in Iraq and Syria). Significant impact on energy markets.",
+      "tags": [
+        "Middle East",
+        "Interstate"
+      ],
+      "lastUpdate": "2026-04-19"
+    },
+    {
+      "id": "et-am",
+      "name": "Ethiopia Conflicts",
+      "countries": [
+        "Ethiopia"
+      ],
+      "lat": 11.0,
+      "lng": 39.5,
+      "intensity": "medium",
+      "startYear": 2020,
+      "casualties": 600000,
+      "displaced": 4500000,
+      "description": "Residual post-Tigray tensions, conflicts in Amhara (Fano) and Oromia (OLA).",
+      "tags": [
+        "Africa",
+        "Civil war"
+      ],
+      "lastUpdate": "2026-04-11"
+    },
+    {
+      "id": "co-fgc",
+      "name": "Colombian Internal Armed Conflict",
+      "countries": [
+        "Colombia"
+      ],
+      "lat": 4.57,
+      "lng": -74.3,
+      "intensity": "low",
+      "startYear": 1964,
+      "casualties": 450000,
+      "displaced": 5000000,
+      "description": "Residual violence from FARC-EP dissidents, ELN and the Clan del Golfo despite the \"paz total\" process.",
+      "tags": [
+        "Americas",
+        "Armed groups"
+      ],
+      "lastUpdate": "2026-04-10"
+    },
+    {
+      "id": "ly-war",
+      "name": "Libya Crisis",
+      "countries": [
+        "Libya"
+      ],
+      "lat": 27.0,
+      "lng": 17.0,
+      "intensity": "low",
+      "startYear": 2011,
+      "casualties": 40000,
+      "displaced": 300000,
+      "description": "Country divided between the Tripoli government and the Haftar-led administration in Benghazi. Instability and foreign actors.",
+      "tags": [
+        "Africa",
+        "Divided state"
+      ],
+      "lastUpdate": "2026-04-06"
+    },
+    {
+      "id": "kashmir",
+      "name": "Kashmir Dispute",
+      "countries": [
+        "India",
+        "Pakistan"
+      ],
+      "lat": 34.08,
+      "lng": 74.8,
+      "intensity": "low",
+      "startYear": 1947,
+      "casualties": 70000,
+      "displaced": 200000,
+      "description": "Periodic tensions along the Line of Control and sporadic attacks in Indian-administered Kashmir.",
+      "tags": [
+        "Asia",
+        "Interstate"
+      ],
+      "lastUpdate": "2026-04-08"
+    },
+    {
+      "id": "red-sea",
+      "name": "Houthi Red Sea Attacks",
+      "countries": [
+        "Yemen",
+        "Red Sea"
+      ],
+      "lat": 15.0,
+      "lng": 42.0,
+      "intensity": "medium",
+      "startYear": 2023,
+      "casualties": 200,
+      "displaced": 0,
+      "description": "Attacks on commercial vessels. Significant impact on Asia–Europe routes and logistics costs.",
+      "tags": [
+        "Maritime routes",
+        "Global economy"
+      ],
+      "lastUpdate": "2026-04-19"
+    },
+    {
+      "id": "wb-isr",
+      "name": "West Bank Tensions",
+      "countries": [
+        "Israel",
+        "Palestine"
+      ],
+      "lat": 31.9,
+      "lng": 35.2,
+      "intensity": "low",
+      "startYear": 2023,
+      "casualties": 900,
+      "displaced": 30000,
+      "description": "Raids, clashes and settler violence in the occupied West Bank, escalated since 7 October 2023.",
+      "tags": [
+        "Middle East"
+      ],
+      "lastUpdate": "2026-04-15"
+    }
+  ]
+}

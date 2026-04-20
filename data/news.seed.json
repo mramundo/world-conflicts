@@ -1,0 +1,166 @@
+{
+  "updated": "2026-04-20T00:00:00Z",
+  "source": "seed (fallback) — representative examples from public sources",
+  "items": [
+    {
+      "id": "seed-1",
+      "title": "Clashes on the eastern front: operations continue in the Donbas",
+      "description": "Ukrainian and Russian forces are contesting key positions along the front line, while the EU debates a new military aid package.",
+      "url": "https://www.reuters.com/world/europe/",
+      "source": "Reuters",
+      "publishedAt": "2026-04-19T23:30:00Z",
+      "categories": ["conflict"],
+      "tags": ["Ukraine", "Russia", "EU"]
+    },
+    {
+      "id": "seed-2",
+      "title": "Oil prices climb: the Red Sea back in the spotlight",
+      "description": "Fresh Houthi attacks push Brent and WTI higher. Shipping operators reroute vessels around the Cape of Good Hope.",
+      "url": "https://www.bloomberg.com/markets/commodities",
+      "source": "Bloomberg",
+      "publishedAt": "2026-04-19T22:10:00Z",
+      "categories": ["economy", "energy"],
+      "tags": ["oil", "Red Sea", "logistics"]
+    },
+    {
+      "id": "seed-3",
+      "title": "Gaza: new humanitarian operations, UN calls for safe access",
+      "description": "United Nations agencies warn of food and medicine shortages. Truce talks are ongoing in Cairo.",
+      "url": "https://www.aljazeera.com/",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-19T21:00:00Z",
+      "categories": ["conflict", "humanitarian"],
+      "tags": ["Gaza", "UN", "ceasefire"]
+    },
+    {
+      "id": "seed-4",
+      "title": "Sudan: RSF and SAF still far from a deal, 11 million displaced",
+      "description": "Sudan's humanitarian crisis is the world's largest by number of internally displaced people, according to IOM.",
+      "url": "https://www.bbc.com/news/world/africa",
+      "source": "BBC",
+      "publishedAt": "2026-04-19T18:15:00Z",
+      "categories": ["conflict", "humanitarian"],
+      "tags": ["Sudan", "RSF", "SAF"]
+    },
+    {
+      "id": "seed-5",
+      "title": "Wheat and corn: prices under pressure from geopolitical tensions",
+      "description": "CBOT posts a rebound after weeks of weakness. Concerns over Black Sea exports persist.",
+      "url": "https://www.ft.com/commodities",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-19T16:40:00Z",
+      "categories": ["economy"],
+      "tags": ["wheat", "corn", "markets"]
+    },
+    {
+      "id": "seed-6",
+      "title": "Myanmar: junta loses ground in some north-eastern regions",
+      "description": "Coordinated resistance forces seize outposts along the border with China.",
+      "url": "https://www.irrawaddy.com/",
+      "source": "The Irrawaddy",
+      "publishedAt": "2026-04-19T14:05:00Z",
+      "categories": ["conflict"],
+      "tags": ["Myanmar", "junta"]
+    },
+    {
+      "id": "seed-7",
+      "title": "Haiti: the multinational mission redefines priorities in Port-au-Prince",
+      "description": "The Kenyan contingent requests more resources as gangs control broad areas of the capital.",
+      "url": "https://apnews.com/hub/haiti",
+      "source": "Associated Press",
+      "publishedAt": "2026-04-19T12:25:00Z",
+      "categories": ["conflict", "humanitarian"],
+      "tags": ["Haiti", "gangs", "MSS"]
+    },
+    {
+      "id": "seed-8",
+      "title": "European gas: contained volatility, stocks above seasonal average",
+      "description": "TTF steady in mid-April. Operators monitor LNG supplies and summer maintenance.",
+      "url": "https://www.reuters.com/business/energy/",
+      "source": "Reuters",
+      "publishedAt": "2026-04-19T10:00:00Z",
+      "categories": ["economy", "energy"],
+      "tags": ["gas", "TTF", "LNG"]
+    },
+    {
+      "id": "seed-9",
+      "title": "Kivu: UN reports rising violence against civilians",
+      "description": "More than 400,000 newly displaced in eastern DRC over the past few months.",
+      "url": "https://news.un.org/en/",
+      "source": "UN News",
+      "publishedAt": "2026-04-19T08:30:00Z",
+      "categories": ["conflict", "humanitarian"],
+      "tags": ["DRC", "M23", "civilians"]
+    },
+    {
+      "id": "seed-10",
+      "title": "Sahel: new jihadist offensive hits villages in northern Burkina",
+      "description": "Dozens of casualties. Authorities call for stronger regional military presence.",
+      "url": "https://www.dw.com/en/africa/s-12451",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-04-19T07:10:00Z",
+      "categories": ["conflict"],
+      "tags": ["Sahel", "Burkina Faso", "JNIM"]
+    },
+    {
+      "id": "seed-11",
+      "title": "Shipping: freight rates remain elevated versus pre-crisis levels",
+      "description": "Drewry reports the SCFI index slightly lower but still 40% above the 2019 average.",
+      "url": "https://www.maersk.com/news",
+      "source": "Maersk",
+      "publishedAt": "2026-04-19T05:50:00Z",
+      "categories": ["economy"],
+      "tags": ["shipping", "SCFI", "logistics"]
+    },
+    {
+      "id": "seed-12",
+      "title": "Russia–Ukraine: pressure on the Kharkiv front, new NATO supplies",
+      "description": "Drone strikes intensify on both fronts, while new air-defence systems arrive for allies.",
+      "url": "https://kyivindependent.com/",
+      "source": "Kyiv Independent",
+      "publishedAt": "2026-04-19T04:20:00Z",
+      "categories": ["conflict"],
+      "tags": ["Ukraine", "NATO", "drones"]
+    },
+    {
+      "id": "seed-13",
+      "title": "Consumer electronics: prices stable despite chip tensions",
+      "description": "Manufacturers optimise inventories; Taiwan risks remain the main source of uncertainty.",
+      "url": "https://asia.nikkei.com/Business/Tech",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-04-18T22:00:00Z",
+      "categories": ["economy"],
+      "tags": ["semiconductors", "Taiwan"]
+    },
+    {
+      "id": "seed-14",
+      "title": "Lebanon: exchanges of fire on the southern border, some families return",
+      "description": "Foreign ministries urge the utmost caution for travellers.",
+      "url": "https://www.ansa.it/sito/notizie/mondo/",
+      "source": "ANSA",
+      "publishedAt": "2026-04-18T18:15:00Z",
+      "categories": ["conflict"],
+      "tags": ["Lebanon", "Israel", "Hezbollah"]
+    },
+    {
+      "id": "seed-15",
+      "title": "Afghanistan: child malnutrition, UNICEF calls for additional funding",
+      "description": "More than 3 million children at risk of severe acute malnutrition in 2026.",
+      "url": "https://www.unicef.org/press-releases",
+      "source": "UNICEF",
+      "publishedAt": "2026-04-18T15:00:00Z",
+      "categories": ["humanitarian"],
+      "tags": ["Afghanistan", "children", "hunger"]
+    },
+    {
+      "id": "seed-16",
+      "title": "Emerging markets: Indian rupee stable, South African rand under pressure",
+      "description": "Investors monitor capital flows amid a complicated geopolitical backdrop.",
+      "url": "https://www.ft.com/markets",
+      "source": "Financial Times",
+      "publishedAt": "2026-04-18T12:45:00Z",
+      "categories": ["economy"],
+      "tags": ["markets", "INR", "ZAR"]
+    }
+  ]
+}

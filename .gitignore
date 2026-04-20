@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python venv
+.venv/
+__pycache__/
+*.pyc
+
+# Node (in case tooling is added later)
+node_modules/
+
+# Log
+*.log
+
+# Claude Code local settings
+.claude/

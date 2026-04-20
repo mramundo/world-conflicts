@@ -122,12 +122,6 @@
         </aside>
       </div>
 
-      <p class="source-attr">
-        <span class="source-attr__label">Conflict sources</span>
-        <span class="source-attr__sep">·</span>
-        UCDP (Uppsala Conflict Data Program), ACLED, and the public Wikipedia list of ongoing armed conflicts,
-        with automatic hourly refresh.
-      </p>
     </section>
 
     <section id="news-section" class="section" aria-labelledby="news-title">
@@ -158,18 +152,22 @@
         <button class="btn btn--ghost" id="loadMore" hidden>Load more</button>
         <p class="news-empty" id="newsEmpty" hidden>No news found for these filters.</p>
       </div>
-
-      <p class="source-attr">
-        <span class="source-attr__label">News sources</span>
-        <span class="source-attr__sep">·</span>
-        <span id="newsSources">Reuters, BBC, Al Jazeera, AP, ANSA, Deutsche Welle, The Guardian, France24, Kyiv Independent, Times of Israel, Le Monde, Nikkei Asia, UN News.</span>
-      </p>
     </section>
   </main>
 
-  <footer class="footer">
+  <footer class="footer" role="contentinfo">
     <div class="footer__inner-wrap">
-      <div class="footer__inner">
+      <div class="footer__sources">
+        <div class="footer__sources-col">
+          <h3 class="footer__sources-label">Conflict sources</h3>
+          <p>UCDP (Uppsala Conflict Data Program), ACLED, and the public Wikipedia list of ongoing armed conflicts — refreshed hourly.</p>
+        </div>
+        <div class="footer__sources-col">
+          <h3 class="footer__sources-label">News sources</h3>
+          <p id="newsSources">Reuters, BBC, Al Jazeera, AP, ANSA, Deutsche Welle, The Guardian, France24, Kyiv Independent, Times of Israel, Le Monde, Nikkei Asia, UN News.</p>
+        </div>
+      </div>
+      <div class="footer__meta-row">
         <p>© <span id="year"></span> World Conflicts — open-source project, data from public sources.</p>
         <p class="footer__meta">Last data update: <span id="footerUpdate">—</span></p>
       </div>
@@ -178,6 +176,7 @@
 
   <script src="https://unpkg.com/three@0.160.0/build/three.min.js"></script>
   <script src="https://unpkg.com/globe.gl@2.32.0/dist/globe.gl.min.js"></script>
+  <script src="https://unpkg.com/topojson-client@3/dist/topojson-client.min.js"></script>
   <script type="module" src="scripts/app.js"></script>
 </body>
 </html>

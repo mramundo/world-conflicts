@@ -17,6 +17,9 @@ const INTENSITY_SIZE = { low: 0.35, medium: 0.6, high: 0.95 };
 // Violet — chosen to stand out against the three intensity hues
 const SELECTED_COLOR = '#a78bfa';
 
+// World-atlas TopoJSON — 110m resolution, fast & light (~100KB).
+const COUNTRIES_URL = 'https://unpkg.com/world-atlas@2/countries-110m.json';
+
 let globe = null;
 let autoRotate = true;
 
@@ -29,6 +32,12 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
 
   const themeDark = document.documentElement.dataset.theme !== 'light';
 
+  // Which countries are currently affected by a conflict — used to highlight
+  // their borders and emphasise the label on hover.
+  const conflictCountries = new Set(
+    conflicts.flatMap(c => (c.countries ?? []).map(name => name.toLowerCase()))
+  );
+
   globe = Globe()(el)
     .backgroundColor('rgba(0,0,0,0)')
     .globeImageUrl(themeDark
@@ -39,6 +48,14 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
     .atmosphereColor(themeDark ? '#4ea8ff' : '#6aaef0')
     .atmosphereAltitude(0.22)
     .showGraticules(false)
+    // Country polygons: subtle fill + stronger borders for conflict countries.
+    // Labels show on hover via polygonLabel.
+    .polygonsData([])   // filled async below once TopoJSON is fetched
+    .polygonCapColor(d => polygonCapColor(d, conflictCountries, themeDark))
+    .polygonSideColor(() => 'rgba(0, 0, 0, 0)')
+    .polygonStrokeColor(d => polygonStrokeColor(d, conflictCountries, themeDark))
+    .polygonAltitude(d => conflictCountries.has(d.properties.name.toLowerCase()) ? 0.008 : 0.004)
+    .polygonLabel(d => polygonLabelHtml(d, conflictCountries))
     .pointsData(conflicts)
     .pointLat('lat')
     .pointLng('lng')
@@ -51,6 +68,11 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
     .onPointClick(d => {
       store?.set('selectedId', d.id);
     });
+
+  // Fetch country borders lazily — doesn't block initial paint.
+  loadCountries()
+    .then(features => globe?.polygonsData(features))
+    .catch(err => console.warn('[globe] countries fetch failed:', err));
 
   updateRings(conflicts, store);
 
@@ -105,10 +127,14 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
   // Theme reactivity
   const mo = new MutationObserver(() => {
     const isDark = document.documentElement.dataset.theme !== 'light';
-    globe.globeImageUrl(isDark
-      ? 'https://unpkg.com/three-globe@2.31.0/example/img/earth-night.jpg'
-      : 'https://unpkg.com/three-globe@2.31.0/example/img/earth-blue-marble.jpg'
-    ).atmosphereColor(isDark ? '#4ea8ff' : '#6aaef0');
+    globe
+      .globeImageUrl(isDark
+        ? 'https://unpkg.com/three-globe@2.31.0/example/img/earth-night.jpg'
+        : 'https://unpkg.com/three-globe@2.31.0/example/img/earth-blue-marble.jpg'
+      )
+      .atmosphereColor(isDark ? '#4ea8ff' : '#6aaef0')
+      .polygonCapColor(d => polygonCapColor(d, conflictCountries, isDark))
+      .polygonStrokeColor(d => polygonStrokeColor(d, conflictCountries, isDark));
   });
   mo.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
 
@@ -191,4 +217,80 @@ function escapeHtml(s) {
   return String(s ?? '').replace(/[&<>"']/g, c => ({
     '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
   }[c]));
+}
+
+/* ---------- Country polygons ---------- */
+
+// Subset of Natural Earth names that differ from the seed's `countries` entries.
+// Key = Natural Earth polygon name, value = normalised name used in the seed.
+const COUNTRY_NAME_ALIASES = {
+  'dem. rep. congo':        'democratic republic of the congo',
+  'central african rep.':   'central african republic',
+  'united states of america': 'united states',
+  "côte d'ivoire":          'ivory coast',
+  'w. sahara':              'western sahara',
+  'bosnia and herz.':       'bosnia and herzegovina',
+};
+
+function normaliseCountryName(name) {
+  const lower = String(name ?? '').toLowerCase().trim();
+  return COUNTRY_NAME_ALIASES[lower] ?? lower;
+}
+
+async function loadCountries() {
+  if (typeof window.topojson === 'undefined') {
+    console.warn('[globe] topojson-client not loaded');
+    return [];
+  }
+  const res = await fetch(COUNTRIES_URL);
+  const topo = await res.json();
+  const fc = window.topojson.feature(topo, topo.objects.countries);
+  return fc.features ?? [];
+}
+
+function polygonCapColor(d, conflictCountries, isDark) {
+  const name = normaliseCountryName(d.properties?.name);
+  const affected = conflictCountries.has(name);
+  if (isDark) {
+    return affected
+      ? 'rgba(255, 90, 95, 0.18)'   // tint countries with conflicts
+      : 'rgba(78, 168, 255, 0.05)'; // near-transparent over the textured globe
+  }
+  return affected
+    ? 'rgba(255, 90, 95, 0.14)'
+    : 'rgba(15, 20, 35, 0.04)';
+}
+
+function polygonStrokeColor(d, conflictCountries, isDark) {
+  const name = normaliseCountryName(d.properties?.name);
+  const affected = conflictCountries.has(name);
+  if (isDark) {
+    return affected
+      ? 'rgba(255, 180, 180, 0.55)'   // stronger stroke on conflict countries
+      : 'rgba(255, 255, 255, 0.18)';
+  }
+  return affected
+    ? 'rgba(140, 20, 40, 0.55)'
+    : 'rgba(15, 20, 35, 0.20)';
+}
+
+function polygonLabelHtml(d, conflictCountries) {
+  const rawName = d.properties?.name ?? '—';
+  const norm = normaliseCountryName(rawName);
+  const affected = conflictCountries.has(norm);
+  const accent = affected ? '#ff5a5f' : '#6aaef0';
+  const tagHtml = affected
+    ? `<div style="margin-top:5px; display:inline-block; padding:2px 7px; border-radius:999px;
+                    background:${accent}22; color:${accent}; font-size:.68rem; font-weight:600;">
+         active conflict
+       </div>`
+    : '';
+  return `
+    <div style="font-family: Inter, sans-serif; padding: 8px 10px; border-radius: 10px;
+                background: rgba(15,20,35,.92); color: #fff; border: 1px solid ${accent};
+                box-shadow: 0 8px 24px rgba(0,0,0,.4);">
+      <div style="font-weight:600; font-size: .82rem;">${escapeHtml(rawName)}</div>
+      ${tagHtml}
+    </div>
+  `;
 }

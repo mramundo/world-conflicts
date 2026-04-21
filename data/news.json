@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T19:31:54Z",
+  "updated": "2026-04-21T20:22:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/japan-weighs-age-based-filtering-on-social-media-to-combat-addiction",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-21T19:31:50Z",
+      "publishedAt": "2026-04-21T20:22:42Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F1%2F5%2F5%2F12405517-1-eng-GB%2F60b68a611d8d-photo_SXM2026042100005409.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-e4ddebcedb2a",
+      "title": "The Gaza war is a major theme of Israel's independence day celebration",
+      "description": "On Israeli independence day, the government is honoring a triple amputee soldier, an Israeli hostage negotiator and a soldier who drew controversy for boasting about destroying homes in Gaza.",
+      "url": "https://www.npr.org/2026/04/21/nx-s1-5791503/the-gaza-war-is-a-major-theme-of-israels-independence-day-celebration",
+      "source": "NPR World",
+      "publishedAt": "2026-04-21T20:10:40Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5791503",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-8ebd457d0598",
+      "title": "Lebanon war puts pregnant women at risk",
+      "description": "Lebanon’s healthcare system is under severe strain despite a temporary ceasefire between Israel and Hezbollah. Thousands of displaced pregnant women are struggling to access medical services.",
+      "url": "https://www.dw.com/en/lebanon-war-puts-pregnant-women-at-risk/a-76884533?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-04-21T19:30:00Z",
+      "image": "https://static.dw.com/image/76877286_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -126,21 +156,6 @@
       "tags": []
     },
     {
-      "id": "npr-80a08fe606e5",
-      "title": "U.S.-Iran ceasefire nears its end. And, Fed chair nominee faces tough hearing",
-      "description": "The ceasefire between the U.S. and Iran is set to expire tomorrow. Peace talks between the countries remain uncertain. And, Trump's pick to lead the Federal Reserve faces a tough confirmation hearing today.",
-      "url": "https://www.npr.org/2026/04/21/g-s1-118194/up-first-newsletter-us-iran-israel-ceasefire-lori-chavez-deremer-kevin-warsh",
-      "source": "NPR World",
-      "publishedAt": "2026-04-21T11:38:06Z",
-      "image": "undefined",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-52218d8a4c94",
       "title": "Rachel Ehrenfeld: Why Targeting Iran's 'Shadow Economy' Hits The IRGC Where It Hurts",
       "description": "With a cease-fire in the US-Israeli war on Iran due to expire on April 22, US actions at sea are drawing renewed attention to a central issue: How deeply Iran’s military establishment is embedded in the country’s economy.",
@@ -183,21 +198,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-c1dfc118c1b0",
-      "title": "Ugandan military reports rescue of some 200 hostages from ADF militants in eastern DRC",
-      "description": "Uganda's military has said that it and forces from the neighboring Democratic Republic of Congo freed some 200 hostages in eastern DRC in a joint operation against Islamist militants known as the ADF.",
-      "url": "https://www.dw.com/en/ugandan-military-reports-rescue-of-some-200-hostages-from-adf-militants-in-eastern-drc/a-76863450?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-04-20T14:47:00Z",
-      "image": "https://static.dw.com/image/76868514_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

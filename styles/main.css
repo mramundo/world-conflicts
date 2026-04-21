@@ -447,7 +447,9 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
 .hero__title {
   font-size: clamp(1.9rem, 1rem + 3.4vw, 3.2rem);
   font-weight: 800; letter-spacing: -0.035em;
-  line-height: 1.05;
+  /* 1.15 gives descenders (g, y, p) room inside the line box — any tighter
+     and `background-clip: text` crops the gradient at their tails. */
+  line-height: 1.15;
   margin: 0 0 14px;
   background: linear-gradient(180deg, var(--text) 0%, color-mix(in srgb, var(--text) 65%, transparent) 100%);
   -webkit-background-clip: text; background-clip: text;

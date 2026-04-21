@@ -431,6 +431,33 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
   padding: 3px 8px; border-radius: 999px;
   flex-shrink: 0;
 }
+/* Live-news "heat" badge — shows how many current headlines mention the
+   conflict or its countries. Populated by fetch_conflicts.py at run time. */
+.conflict-row__heat {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-width: 22px; height: 20px;
+  padding: 0 6px;
+  font-size: .72rem; font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+  background: color-mix(in srgb, var(--accent) 18%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent) 36%, transparent);
+  border-radius: 999px;
+  flex-shrink: 0;
+}
+/* Inline tag to show when a figure is sourced from the live Wikipedia
+   scrape rather than the seed baseline. */
+.source-tag {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 6px;
+  font-size: .68rem; font-weight: 600;
+  letter-spacing: .02em;
+  color: var(--text-dim);
+  background: color-mix(in srgb, var(--text-dim) 12%, transparent);
+  border-radius: 4px;
+  vertical-align: middle;
+}
 .intensity--high {
   color: var(--danger);
   background: color-mix(in srgb, var(--danger) 12%, transparent);

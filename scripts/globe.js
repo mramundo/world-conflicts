@@ -199,16 +199,24 @@ function updateRings(conflicts, store) {
 function htmlTooltip(d) {
   const color = INTENSITY_COLOR[d.intensity] ?? INTENSITY_COLOR.medium;
   const label = INTENSITY_LABEL[d.intensity] ?? '—';
+  const news = Number(d.recentNewsCount ?? 0);
+  const newsChip = news > 0
+    ? `<div style="margin-top:5px; margin-left:6px; display:inline-block; padding:2px 7px; border-radius:999px;
+                   background:rgba(255,255,255,.08); color:#fff; font-size:.68rem; font-weight:600;">
+         ${news} recent ${news === 1 ? 'headline' : 'headlines'}
+       </div>`
+    : '';
   return `
     <div style="font-family: Inter, sans-serif; padding: 9px 11px; border-radius: 10px;
                 background: rgba(15,20,35,.92); color: #fff; border: 1px solid ${color};
-                box-shadow: 0 10px 30px rgba(0,0,0,.4); max-width: 240px;">
+                box-shadow: 0 10px 30px rgba(0,0,0,.4); max-width: 260px;">
       <div style="font-weight:700; margin-bottom:3px; font-size: .88rem;">${escapeHtml(d.name)}</div>
       <div style="font-size:.75rem; color:#9aa4b8;">${escapeHtml((d.countries ?? []).join(', '))}</div>
       <div style="margin-top:5px; display:inline-block; padding:2px 7px; border-radius:999px;
                   background:${color}22; color:${color}; font-size:.68rem; font-weight:600;">
         ${label} intensity
       </div>
+      ${newsChip}
     </div>
   `;
 }

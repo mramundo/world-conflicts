@@ -85,6 +85,12 @@ function getFiltered() {
     const ia = INTENSITY_ORDER[a.intensity] ?? 99;
     const ib = INTENSITY_ORDER[b.intensity] ?? 99;
     if (ia !== ib) return ia - ib;
+    // Within the same intensity, bubble up conflicts with fresh news mentions.
+    // This keeps the list responsive to "what's hot today" without needing
+    // a separate sort mode.
+    const na = Number(a.recentNewsCount ?? 0);
+    const nb = Number(b.recentNewsCount ?? 0);
+    if (na !== nb) return nb - na;
     return (a.name ?? '').localeCompare(b.name ?? '');
   });
 }
@@ -119,6 +125,11 @@ function buildRow(c, selected) {
   const countries = (c.countries ?? []).join(', ');
   const year = c.startYear ? `· since ${c.startYear}` : '';
 
+  const newsCount = Number(c.recentNewsCount ?? 0);
+  const newsBadge = newsCount > 0
+    ? `<span class="conflict-row__heat" title="${newsCount} recent headlines mention this conflict or its countries">${newsCount}</span>`
+    : '';
+
   const details = selected ? detailsHtml(c) : '';
 
   return `
@@ -129,6 +140,7 @@ function buildRow(c, selected) {
           <span class="conflict-row__name">${escapeHtml(c.name ?? '—')}</span>
           <span class="conflict-row__meta">${escapeHtml(countries)} ${year}</span>
         </span>
+        ${newsBadge}
         <span class="conflict-row__intensity intensity--${escapeAttr(c.intensity ?? 'low')}">${escapeHtml(label)}</span>
       </button>
       ${details}
@@ -137,12 +149,17 @@ function buildRow(c, selected) {
 }
 
 function detailsHtml(c) {
+  const casSrc = c.casualtiesSource === 'wikipedia' ? ' <span class="source-tag">Wikipedia</span>' : '';
+  const dispSrc = c.displacedSource === 'wikipedia' ? ' <span class="source-tag">Wikipedia</span>' : '';
+  const newsCount = Number(c.recentNewsCount ?? 0);
+
   return `
     <div class="conflict-row__details">
       <p>${escapeHtml(c.description ?? '')}</p>
       <dl>
-        ${c.casualties ? `<dt>Casualties (est.)</dt><dd>${Number(c.casualties).toLocaleString(LOCALE)}</dd>` : ''}
-        ${c.displaced ? `<dt>Displaced (est.)</dt><dd>${Number(c.displaced).toLocaleString(LOCALE)}</dd>` : ''}
+        ${c.casualties ? `<dt>Casualties (est.)</dt><dd>${Number(c.casualties).toLocaleString(LOCALE)}${casSrc}</dd>` : ''}
+        ${c.displaced ? `<dt>Displaced (est.)</dt><dd>${Number(c.displaced).toLocaleString(LOCALE)}${dispSrc}</dd>` : ''}
+        ${newsCount ? `<dt>Recent headlines</dt><dd>${newsCount}</dd>` : ''}
         ${c.lastUpdate ? `<dt>Last update</dt><dd>${escapeHtml(c.lastUpdate)}</dd>` : ''}
       </dl>
     </div>

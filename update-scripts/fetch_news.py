@@ -17,7 +17,6 @@ import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Iterable
 
 import feedparser
 import requests
@@ -28,20 +27,21 @@ OUT = ROOT / "data" / "news.json"
 # Feeds chosen for geographical coverage and reliability.
 # Mix of Western, Arabic, Asian, African and Latin-American outlets.
 FEEDS: list[dict] = [
-    {"source": "Reuters",          "url": "https://www.reutersagency.com/feed/?best-topics=top-news&post_type=best"},
     {"source": "BBC",              "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
     {"source": "Al Jazeera",       "url": "https://www.aljazeera.com/xml/rss/all.xml"},
     {"source": "Deutsche Welle",   "url": "https://rss.dw.com/rdf/rss-en-world"},
     {"source": "The Guardian",     "url": "https://www.theguardian.com/world/rss"},
     {"source": "France24",         "url": "https://www.france24.com/en/rss"},
     {"source": "ANSA",             "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml"},
-    {"source": "Kyiv Independent", "url": "https://kyivindependent.com/rss/"},
+    {"source": "Kyiv Post",        "url": "https://kyivpost.com/feed"},
     {"source": "Times of Israel",  "url": "https://www.timesofisrael.com/feed/"},
     {"source": "UN News",          "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml"},
     {"source": "The Moscow Times", "url": "https://www.themoscowtimes.com/rss/news"},
     {"source": "Le Monde (EN)",    "url": "https://www.lemonde.fr/en/rss/une.xml"},
     {"source": "Nikkei Asia",      "url": "https://asia.nikkei.com/rss/feed/nar"},
-    {"source": "Reuters Markets",  "url": "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best"},
+    {"source": "RFE/RL",           "url": "https://www.rferl.org/api/epiqq"},
+    {"source": "NPR World",        "url": "https://feeds.npr.org/1004/rss.xml"},
+    {"source": "CS Monitor",       "url": "https://rss.csmonitor.com/feeds/world"},
 ]
 
 # Relevance filters: keywords -> categories.
@@ -188,16 +188,48 @@ def _published(entry) -> str:
     return now_iso()
 
 
-def fetch_feed(source: str, url: str) -> Iterable[dict]:
+class FeedResult:
+    """Per-feed outcome so main() can print a readable summary and decide
+    whether the run is healthy enough to overwrite the previous JSON."""
+
+    __slots__ = ("source", "items", "error", "raw_entries")
+
+    def __init__(self, source: str):
+        self.source = source
+        self.items: list[dict] = []
+        self.error: str | None = None
+        self.raw_entries: int = 0
+
+    @property
+    def ok(self) -> bool:
+        return self.error is None
+
+    @property
+    def status_tag(self) -> str:
+        if self.error:
+            return "fail"
+        if self.raw_entries == 0:
+            return "empty"  # server reachable but returned nothing parseable
+        if not self.items:
+            return "no-match"  # parsed entries, but none matched our keywords
+        return "ok"
+
+
+def fetch_feed(source: str, url: str) -> FeedResult:
+    """Fetch and parse a single RSS feed.
+    Never raises — errors are attached to the returned FeedResult so the
+    caller can log them aggregated and decide what to do."""
+    result = FeedResult(source)
     try:
         resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
         resp.raise_for_status()
         parsed = feedparser.parse(resp.content)
     except Exception as exc:
-        print(f"[warn] {source}: {exc}", file=sys.stderr)
-        return []
+        result.error = f"{type(exc).__name__}: {exc}"
+        print(f"[fail] {source}: {result.error}", file=sys.stderr)
+        return result
 
-    items: list[dict] = []
+    result.raw_entries = len(parsed.entries or [])
     for entry in parsed.entries:
         title = _clean(entry.get("title"))
         desc = _clean(entry.get("summary") or entry.get("description"))
@@ -209,7 +241,7 @@ def fetch_feed(source: str, url: str) -> Iterable[dict]:
         cats = _categorize(title, desc)
         uid = hashlib.sha1(entry["link"].encode("utf-8")).hexdigest()[:12]
 
-        items.append({
+        result.items.append({
             "id": f"{source[:3].lower()}-{uid}",
             "title": title,
             "description": desc[:320] + ("…" if len(desc) > 320 else ""),
@@ -220,15 +252,20 @@ def fetch_feed(source: str, url: str) -> Iterable[dict]:
             "categories": cats,
             "tags": [],
         })
-    print(f"[ok]   {source}: {len(items)} relevant")
-    return items
+
+    tag = result.status_tag
+    if tag == "ok":
+        print(f"[ok]    {source}: {len(result.items)} relevant (of {result.raw_entries} entries)")
+    else:
+        # Non-fatal but worth flagging; these used to pass silently.
+        print(f"[{tag}] {source}: {len(result.items)} relevant (of {result.raw_entries} entries)")
+    return result
 
 
 def main() -> int:
     print(f"→ RSS aggregation ({len(FEEDS)} sources)…")
-    all_items: list[dict] = []
-    for feed in FEEDS:
-        all_items.extend(fetch_feed(feed["source"], feed["url"]))
+    results: list[FeedResult] = [fetch_feed(f["source"], f["url"]) for f in FEEDS]
+    all_items: list[dict] = [item for r in results for item in r.items]
 
     # De-dup by URL
     seen: set[str] = set()
@@ -253,15 +290,49 @@ def main() -> int:
             if img:
                 it["image"] = img
 
+    # Aggregate summary — a single line so GitHub Actions logs are easy
+    # to skim and so silent degradation shows up clearly in the diff.
+    ok_count = sum(1 for r in results if r.ok and r.items)
+    fail_count = sum(1 for r in results if not r.ok)
+    empty_count = sum(1 for r in results if r.ok and not r.items)
+    fail_list = ", ".join(r.source for r in results if not r.ok) or "none"
+    print(
+        f"SUMMARY: {ok_count}/{len(results)} feeds produced items, "
+        f"{empty_count} empty, {fail_count} failed "
+        f"({fail_list}); {len(deduped)} unique articles"
+    )
+
+    # Safety rail: if the whole run produced zero items and there's an
+    # existing news.json, keep the old one rather than clobbering good
+    # data with a blank payload — and exit non-zero so the workflow logs
+    # flag it for attention.
+    if not deduped and OUT.exists():
+        print(
+            f"[abort] zero items from {len(results)} feeds — keeping existing "
+            f"{OUT.relative_to(ROOT)} untouched.",
+            file=sys.stderr,
+        )
+        return 2
+
     output = {
         "updated": now_iso(),
         "source": "Public RSS — international outlets",
+        "feedsOk": ok_count,
+        "feedsTotal": len(results),
         "items": deduped,
     }
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"✓ Wrote {len(deduped)} articles to {OUT.relative_to(ROOT)}")
+
+    # Half of all feeds down → probably an outage on our side worth noticing.
+    if fail_count > len(results) / 2:
+        print(
+            f"[warn] {fail_count}/{len(results)} feeds failed — investigate.",
+            file=sys.stderr,
+        )
+        return 1
     return 0
 
 

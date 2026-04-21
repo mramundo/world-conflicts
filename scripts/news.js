@@ -57,6 +57,14 @@ export function initNews({ listEl, emptyEl, filterBtns, searchEl, loadMoreEl, it
   });
 
   refs.loadMore?.addEventListener('click', () => {
+    // Defensive: if everything is already on screen, don't bump state.page.
+    // Keeps Load More idempotent on stray double-clicks and on clicks that
+    // race filter/search updates.
+    if (refs.loadMore.hidden) return;
+    if (state.page * PAGE_SIZE >= getFiltered().length) {
+      refs.loadMore.hidden = true;
+      return;
+    }
     state.page += 1;
     render({ append: true });
   });

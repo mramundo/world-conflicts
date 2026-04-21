@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-21T05:04:12Z",
-  "source": "curated seed + Wikipedia freshness (List of ongoing armed conflicts)",
-  "wikipediaRevision": "2026-04-20T07:14:35Z",
+  "updated": "2026-04-21T05:21:25Z",
+  "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
+  "wikipediaListRevision": "2026-04-20T07:14:35Z",
   "items": [
     {
       "id": "ru-ua",
@@ -21,7 +21,10 @@
         "Europe",
         "Interstate conflict"
       ],
-      "lastUpdate": "2026-04-19"
+      "wikipediaPage": "Russo-Ukrainian_War",
+      "lastUpdate": "2026-04-21",
+      "wikipediaRevision": "2026-04-21T00:44:39Z",
+      "recentNewsCount": 13
     },
     {
       "id": "il-ps",
@@ -41,7 +44,10 @@
         "Middle East",
         "Asymmetric"
       ],
-      "lastUpdate": "2026-04-19"
+      "wikipediaPage": "Gaza_war",
+      "lastUpdate": "2026-04-20",
+      "wikipediaRevision": "2026-04-20T22:38:34Z",
+      "recentNewsCount": 18
     },
     {
       "id": "sd-war",
@@ -60,7 +66,9 @@
         "Africa",
         "Civil war"
       ],
-      "lastUpdate": "2026-04-18"
+      "wikipediaPage": "Sudanese_civil_war_(2023%E2%80%93present)",
+      "lastUpdate": "2026-04-21",
+      "recentNewsCount": 0
     },
     {
       "id": "mm-civ",
@@ -79,7 +87,9 @@
         "Asia",
         "Civil war"
       ],
-      "lastUpdate": "2026-04-16"
+      "wikipediaPage": "Myanmar_civil_war_(2021%E2%80%93present)",
+      "lastUpdate": "2026-04-21",
+      "recentNewsCount": 0
     },
     {
       "id": "ye-war",
@@ -99,7 +109,9 @@
         "Middle East",
         "Maritime routes"
       ],
-      "lastUpdate": "2026-04-17"
+      "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
+      "lastUpdate": "2026-04-21",
+      "recentNewsCount": 0
     },
     {
       "id": "sy-war",
@@ -111,14 +123,18 @@
       "lng": 38.0,
       "intensity": "medium",
       "startYear": 2011,
-      "casualties": 500000,
+      "casualties": 656493,
       "displaced": 13000000,
       "description": "After the fall of the Assad regime (2024) the transition is complex: residual clashes in the north and east, tensions with Turkey and Kurdish forces.",
       "tags": [
         "Middle East",
         "Post-transition"
       ],
-      "lastUpdate": "2026-04-15"
+      "wikipediaPage": "Syrian_civil_war",
+      "lastUpdate": "2026-04-20",
+      "casualtiesSource": "wikipedia",
+      "wikipediaRevision": "2026-04-20T01:54:36Z",
+      "recentNewsCount": 0
     },
     {
       "id": "cd-east",
@@ -131,14 +147,18 @@
       "lng": 29.22,
       "intensity": "high",
       "startYear": 2012,
-      "casualties": 40000,
+      "casualties": 11873,
       "displaced": 7000000,
       "description": "M23 offensive in North Kivu with support — denounced by the UN — from Rwanda. Goma under pressure.",
       "tags": [
         "Africa",
         "Armed groups"
       ],
-      "lastUpdate": "2026-04-18"
+      "wikipediaPage": "Kivu_conflict",
+      "lastUpdate": "2026-04-08",
+      "casualtiesSource": "wikipedia",
+      "wikipediaRevision": "2026-04-08T21:46:26Z",
+      "recentNewsCount": 0
     },
     {
       "id": "sahel",
@@ -159,7 +179,9 @@
         "Africa",
         "Jihadism"
       ],
-      "lastUpdate": "2026-04-17"
+      "wikipediaPage": "Jihadist_insurgency_in_the_Sahel",
+      "lastUpdate": "2026-04-21",
+      "recentNewsCount": 0
     },
     {
       "id": "so-als",
@@ -178,7 +200,9 @@
         "Africa",
         "Jihadism"
       ],
-      "lastUpdate": "2026-04-11"
+      "wikipediaPage": "Somali_civil_war_(2009%E2%80%93present)",
+      "lastUpdate": "2026-04-21",
+      "recentNewsCount": 0
     },
     {
       "id": "ng-bh",
@@ -200,7 +224,10 @@
         "Africa",
         "Jihadism"
       ],
-      "lastUpdate": "2026-04-12"
+      "wikipediaPage": "Boko_Haram_insurgency",
+      "lastUpdate": "2026-04-16",
+      "wikipediaRevision": "2026-04-16T06:07:48Z",
+      "recentNewsCount": 1
     },
     {
       "id": "mx-cartels",
@@ -219,7 +246,10 @@
         "Americas",
         "Crime war"
       ],
-      "lastUpdate": "2026-04-19"
+      "wikipediaPage": "Mexican_drug_war",
+      "lastUpdate": "2026-04-21",
+      "wikipediaRevision": "2026-04-21T04:21:49Z",
+      "recentNewsCount": 3
     },
     {
       "id": "ht-gangs",
@@ -238,7 +268,9 @@
         "Americas",
         "Fragile state"
       ],
-      "lastUpdate": "2026-04-18"
+      "wikipediaPage": "Haitian_crisis_(2018%E2%80%93present)",
+      "lastUpdate": "2026-04-21",
+      "recentNewsCount": 0
     },
     {
       "id": "af-tb",
@@ -250,14 +282,18 @@
       "lng": 67.0,
       "intensity": "medium",
       "startYear": 2021,
-      "casualties": 20000,
+      "casualties": 2598,
       "displaced": 5000000,
       "description": "Taliban in power with regular attacks by the Islamic State Khorasan (ISKP). Economic and humanitarian crisis.",
       "tags": [
         "Asia",
         "Terrorism"
       ],
-      "lastUpdate": "2026-04-13"
+      "wikipediaPage": "Republican_insurgency_in_Afghanistan",
+      "lastUpdate": "2026-04-20",
+      "casualtiesSource": "wikipedia",
+      "wikipediaRevision": "2026-04-20T00:18:40Z",
+      "recentNewsCount": 0
     },
     {
       "id": "ir-proxy",
@@ -278,7 +314,9 @@
         "Middle East",
         "Interstate"
       ],
-      "lastUpdate": "2026-04-19"
+      "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
+      "lastUpdate": "2026-04-21",
+      "recentNewsCount": 48
     },
     {
       "id": "et-am",
@@ -290,14 +328,18 @@
       "lng": 39.5,
       "intensity": "medium",
       "startYear": 2020,
-      "casualties": 600000,
+      "casualties": 100000,
       "displaced": 4500000,
       "description": "Residual post-Tigray tensions, conflicts in Amhara (Fano) and Oromia (OLA).",
       "tags": [
         "Africa",
         "Civil war"
       ],
-      "lastUpdate": "2026-04-11"
+      "wikipediaPage": "War_in_Amhara",
+      "lastUpdate": "2026-04-21",
+      "casualtiesSource": "wikipedia",
+      "wikipediaRevision": "2026-04-21T04:50:12Z",
+      "recentNewsCount": 1
     },
     {
       "id": "co-fgc",
@@ -316,7 +358,10 @@
         "Americas",
         "Armed groups"
       ],
-      "lastUpdate": "2026-04-10"
+      "wikipediaPage": "Colombian_conflict",
+      "lastUpdate": "2026-04-20",
+      "wikipediaRevision": "2026-04-20T05:14:59Z",
+      "recentNewsCount": 1
     },
     {
       "id": "ly-war",
@@ -335,7 +380,9 @@
         "Africa",
         "Divided state"
       ],
-      "lastUpdate": "2026-04-06"
+      "wikipediaPage": "Libyan_crisis_(2011%E2%80%93present)",
+      "lastUpdate": "2026-04-21",
+      "recentNewsCount": 0
     },
     {
       "id": "kashmir",
@@ -348,14 +395,18 @@
       "lng": 74.8,
       "intensity": "low",
       "startYear": 1947,
-      "casualties": 70000,
+      "casualties": 20000,
       "displaced": 200000,
       "description": "Periodic tensions along the Line of Control and sporadic attacks in Indian-administered Kashmir.",
       "tags": [
         "Asia",
         "Interstate"
       ],
-      "lastUpdate": "2026-04-08"
+      "wikipediaPage": "Insurgency_in_Jammu_and_Kashmir",
+      "lastUpdate": "2026-04-20",
+      "casualtiesSource": "wikipedia",
+      "wikipediaRevision": "2026-04-20T16:17:12Z",
+      "recentNewsCount": 10
     },
     {
       "id": "red-sea",
@@ -375,7 +426,10 @@
         "Maritime routes",
         "Global economy"
       ],
-      "lastUpdate": "2026-04-19"
+      "wikipediaPage": "Red_Sea_crisis",
+      "lastUpdate": "2026-04-10",
+      "wikipediaRevision": "2026-04-10T16:36:05Z",
+      "recentNewsCount": 0
     },
     {
       "id": "wb-isr",
@@ -394,7 +448,9 @@
       "tags": [
         "Middle East"
       ],
-      "lastUpdate": "2026-04-15"
+      "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
+      "lastUpdate": "2026-04-21",
+      "recentNewsCount": 19
     }
   ]
 }

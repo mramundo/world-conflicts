@@ -600,12 +600,25 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
   border: 1px solid var(--border);
   text-transform: uppercase; letter-spacing: .04em;
 }
-/* Highlight analysis/commentary pieces — they're the ones that give
-   context around a news event rather than just reporting it. */
-.news-row__tag:is([data-k="analysis"]) {
-  background: color-mix(in srgb, var(--accent) 14%, transparent);
-  color: var(--accent);
-  border-color: color-mix(in srgb, var(--accent) 40%, transparent);
+/* Each news category gets its own tint so the user can scan categories
+   at a glance. Colours reuse the existing theme palette:
+   - conflict     → danger red (war / violence)
+   - analysis     → selected violet (editorial / commentary)
+   - humanitarian → warn amber  (aid / civilian impact) */
+.news-row__tag[data-k="conflict"] {
+  background: color-mix(in srgb, var(--danger) 14%, transparent);
+  color: var(--danger);
+  border-color: color-mix(in srgb, var(--danger) 40%, transparent);
+}
+.news-row__tag[data-k="analysis"] {
+  background: color-mix(in srgb, var(--selected) 14%, transparent);
+  color: var(--selected);
+  border-color: color-mix(in srgb, var(--selected) 40%, transparent);
+}
+.news-row__tag[data-k="humanitarian"] {
+  background: color-mix(in srgb, var(--warn) 14%, transparent);
+  color: var(--warn);
+  border-color: color-mix(in srgb, var(--warn) 40%, transparent);
 }
 .news-row__meta {
   display: flex; flex-direction: column; justify-content: center;

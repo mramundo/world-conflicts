@@ -125,7 +125,7 @@ function buildRow(n, i) {
       <div class="news-row__body">
         <h3 class="news-row__title">${escapeHtml(n.title ?? '')}</h3>
         ${n.description ? `<p class="news-row__desc">${escapeHtml(n.description)}</p>` : ''}
-        ${firstTags.length ? `<div class="news-row__tags">${firstTags.map(t => `<span class="news-row__tag">${escapeHtml(categoryLabel(t))}</span>`).join('')}</div>` : ''}
+        ${firstTags.length ? `<div class="news-row__tags">${firstTags.map(t => `<span class="news-row__tag" data-k="${escapeAttr(t)}">${escapeHtml(categoryLabel(t))}</span>`).join('')}</div>` : ''}
       </div>
       <div class="news-row__meta">
         <span class="news-row__source">${escapeHtml(n.source ?? 'Source')}</span>
@@ -161,8 +161,7 @@ function paintSkeletons(container, n) {
 
 const CATEGORY_LABELS = {
   conflict: 'Conflict',
-  economy: 'Economy',
-  energy: 'Energy',
+  analysis: 'Analysis',
   humanitarian: 'Humanitarian',
 };
 function categoryLabel(key) { return CATEGORY_LABELS[key] ?? key; }

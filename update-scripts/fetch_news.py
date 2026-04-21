@@ -44,45 +44,175 @@ FEEDS: list[dict] = [
     {"source": "CS Monitor",       "url": "https://rss.csmonitor.com/feeds/world"},
 ]
 
-# Relevance filters: keywords -> categories.
-KEYWORDS: dict[str, list[str]] = {
-    "conflict": [
-        "war", "guerra", "conflict", "conflitto", "strike", "attacco", "raid",
-        "military", "militare", "ceasefire", "cessate il fuoco", "battle", "battaglia",
-        "troops", "truppe", "rebel", "ribell", "insurgen", "insorti", "airstrike",
-        "drone strike", "front line", "frontline", "fronte", "occupied", "occupata",
-        "ukraine", "ucraina", "russia", "gaza", "israel", "israele", "hamas", "hezbollah",
-        "houthi", "sudan", "myanmar", "yemen", "syria", "siria", "congo", "rdc",
-        "sahel", "mali", "burkina", "niger", "haiti", "afghanistan", "iran", "lebanon",
-        "libano", "kashmir", "colombia", "somalia",
-    ],
-    "economy": [
-        "inflation", "inflazione", "gdp", "pil", "recession", "recessione",
-        "market", "mercati", "stocks", "borsa", "bond", "yields", "rendimenti",
-        "dollar", "euro", "trade", "commercio", "tariff", "dazi", "supply chain",
-        "shipping", "noli", "logistics", "logistica",
-        "commodity", "commodities", "grain", "grano", "wheat", "corn", "mais",
-        "oil", "petrolio", "brent", "wti", "gas", "ttf", "lng",
-    ],
-    "energy": [
-        "oil", "petrolio", "brent", "wti", "gas", "lng", "opec", "ttf",
-        "pipeline", "nord stream", "gasdotto", "oleodotto", "energy", "energia",
-        "electricity", "elettricità", "renewable", "rinnovabil",
-    ],
-    "humanitarian": [
-        "humanitarian", "umanitario", "refugee", "rifugiato", "displaced", "sfollati",
-        "famine", "carestia", "aid", "aiuti", "un ", "onu", "unicef", "wfp", "ocha",
-        "civilian", "civili", "hospital", "ospedale", "children", "bambini",
-        "malnutrition", "malnutrizione", "crisis", "crisi",
-    ],
-}
+# ----- Strict relevance filtering ---------------------------------------
+#
+# The old filter let through anything that matched ANY keyword across four
+# loose categories — economy + energy + humanitarian + conflict — which
+# produced 120+ items/hour including sports, tech and market chatter.
+#
+# New rule: a headline must be *unambiguously* about an active armed
+# conflict, a geopolitical crisis that's fueling one, or the humanitarian /
+# diplomatic fallout of one. Everything else is dropped.
+#
+# Gate model:
+#   1. Reject immediately if the headline contains any DENY_KEYWORD
+#      (sports, celebrity, lifestyle, generic tech — sources of the
+#      accidental NBA / entertainment leaks).
+#   2. Score the remaining headline with STRONG_CONFLICT_SIGNALS (hard
+#      war/crisis vocabulary) and ACTIVE_CONFLICT_NAMES (proper nouns of
+#      today's hotspots). Must clear a minimum threshold to pass.
+#   3. Bonus for opinion/analysis pieces — outlets that do
+#      context/analysis around a news event get boosted.
+#   4. Then keep at most MAX_PER_SOURCE item(s) per outlet, preferring the
+#      highest-scored (opinion beats spot news on ties).
 
-# Hourly cadence: cap the total number of articles to keep the payload lean.
-MAX_TOTAL = 120
+# --- Denylist: presence of any of these kills the item outright.
+DENY_KEYWORDS: tuple[str, ...] = (
+    # Sports
+    "nba", "nfl", "mlb", "nhl", "wnba", "ncaa", "mls ",
+    "basketball", "baseball", "ice hockey", "tennis", "cricket",
+    "rugby", "golf ", "formula 1", "formula one", " f1 ", "motogp",
+    "olympics", "olympic games", "world cup", "fifa", "uefa",
+    "premier league", "champions league", "super bowl", "playoffs",
+    "tournament win", "world series",
+    "striker scored", "hat-trick", "own goal",
+    " athlete ", "retires from", "signed to club",
+    # Entertainment / celebrity / royals
+    "celebrity", "celebrities", "hollywood", "grammys", "oscars",
+    "oscar-winning", "met gala", "red carpet", "box office",
+    "film festival", "tv series", "tv show", "netflix series",
+    "taylor swift", "kardashian", "beyoncé",
+    "royal family", "king charles", "prince william", "prince harry",
+    # Lifestyle / filler
+    "travel guide", "recipe", "horoscope", "astrology", "zodiac",
+    "dating app", "wellness tips", "fashion week",
+    # Consumer tech (not geopolitics)
+    "iphone 1", "iphone 2", "galaxy s2", "pixel phone",
+    "tesla model", "app review", "game review", "gameplay",
+    "new emoji",
+)
+
+# --- Strong signals (hard vocabulary of war / crisis / diplomacy).
+# Having at least one of these is worth a lot toward the score.
+STRONG_CONFLICT_SIGNALS: tuple[str, ...] = (
+    "war", "guerra", "warfare", "ceasefire", "cease-fire",
+    "cessate il fuoco", "armistice", "peace talks", "peace deal",
+    "peace plan", "truce", "tregua",
+    "airstrike", "air strike", "air raid", "missile strike",
+    "missile attack", "drone strike", "drone attack", "shelling",
+    "artillery", "bombed", "bombing", "bomb attack", "car bomb",
+    "suicide bomb", "battlefield", "front line", "frontline",
+    "offensive", "counteroffensive", "invasion", "invaded",
+    "troops", "military forces", "armed forces", "soldiers",
+    "combat", "battle", "battaglia", "clash", "clashes", "skirmish",
+    "rebel", "rebels", "ribelli", "insurgen", "insorti",
+    "militant", "militants", "militia", "paramilitary",
+    "hostage", "hostages", "captive", "abducted", "kidnapped",
+    "siege", "besieged", "stormed",
+    "killed in", "dead in", "wounded in", "casualties",
+    "war crime", "war crimes", "atrocity", "atrocities",
+    "massacre", "genocide", "ethnic cleansing",
+    "refugee", "refugees", "displaced people", "idps",
+    "sanctions", "sanzioni",
+    "coup", "putsch", "junta",
+    "attack on", "strike on", "raid on",
+    "terror attack", "terrorist attack", "attentato",
+)
+
+# --- Proper nouns for currently active hotspots.
+ACTIVE_CONFLICT_NAMES: tuple[str, ...] = (
+    "ukraine", "ucraina", "kyiv", "kiev", "donbas", "donetsk",
+    "luhansk", "crimea", "mariupol", "kharkiv", "bakhmut",
+    "zaporizhzhia", "odesa",
+    "russian forces", "russian military", "kremlin", "putin",
+    "zelensky", "zelenskyy",
+    "gaza", "hamas", "west bank", "idf ", "netanyahu", "rafah",
+    "khan younis", "israeli strike", "israeli strikes",
+    "hezbollah", "south lebanon", "beirut strike",
+    "houthi", "houthis", "red sea attack", "ansar allah",
+    "sudan war", "rsf ", "khartoum", "darfur", "sudanese army",
+    "myanmar", "tatmadaw",
+    "yemen war", "yemeni civil war",
+    "syria", "siria", "idlib", "hts ", "syrian transition",
+    "eastern congo", "drc conflict", "goma", "m23 ", "kivu",
+    "rwandan-backed",
+    "sahel", "jnim", "iswap", "boko haram", "mali junta",
+    "burkina faso junta", "niger junta",
+    "haiti gangs", "port-au-prince",
+    "taliban", "kabul", "iskp", "islamic state khorasan",
+    "iranian drone", "iranian proxy", "irgc", "revolutionary guard",
+    "kashmir", "line of control",
+    "farc dissidents", "eln colombia", "clan del golfo",
+    "libyan militia", "tripoli clashes", "haftar",
+    "tigray", "amhara", "oromia", "fano militia",
+    "al-shabaab", "mogadishu",
+    "cartel violence", "narco war", "drug cartel",
+    "ethnic violence in", "civil war in",
+)
+
+# --- Humanitarian / diplomatic signals (boost, not gate).
+SOFT_RELEVANCE_SIGNALS: tuple[str, ...] = (
+    "humanitarian", "humanitarian crisis", "aid convoy",
+    "aid workers", "aid blocked", "famine", "carestia",
+    "malnutrition", "starvation",
+    "un security council", "security council vote",
+    "icc ", "international criminal court", "icj ",
+    "war-torn", "conflict zone", "battle-weary",
+    "evacuation", "evacuated",
+    "foreign minister", "envoy",
+    "diplomatic", "diplomacy",
+    "asylum", "asylum seekers",
+)
+
+# --- Opinion / analysis signals.
+# URL path markers that indicate opinion / analysis / commentary sections.
+OPINION_URL_MARKERS: tuple[str, ...] = (
+    "/opinion/", "/opinions/", "/analysis/", "/commentary/",
+    "/commentisfree/", "/editorial/", "/editorials/", "/viewpoint/",
+    "/idees/", "/longread/", "/features/", "/perspective/",
+    "foreignpolicy.com",      # FP is entirely analysis
+    "rferl.org/a/",           # RFE/RL puts features under /a/
+    "/comment/",
+    "/columns/", "/column/",
+)
+
+# Titles that lead with an explicit analysis prefix or a classic
+# analysis framing ("Why …", "How …", "What … means for …").
+OPINION_TITLE_RE = re.compile(
+    r"^\s*("
+    r"opinion\b|analysis\b|commentary\b|editorial\b|comment\b|"
+    r"explainer\b|perspective\b|profile\b|"
+    r"why\s|how\s|what\s|is\s|are\s|can\s|should\s|will\s"
+    r")",
+    re.I,
+)
+
+# --- Scoring / gating thresholds.
+STRONG_SIGNAL_WEIGHT = 3
+ACTIVE_NAME_WEIGHT = 1
+SOFT_SIGNAL_WEIGHT = 1
+OPINION_BONUS = 3
+# Maximum hits we count per category (prevents "Russia / Russian / Kremlin /
+# Putin / Moscow" from stacking a single article to an unfair score).
+MAX_HITS_PER_CATEGORY = 3
+# Minimum score to even be considered. Calibrated so that a single name
+# match alone ("Russia") is NOT enough — must have a verb/noun of war,
+# or a name + a secondary signal.
+MIN_SCORE = 3
+
+# --- Output caps.
+# At most this many articles from the same outlet per run. Keeps one
+# publication from flooding the list.
+MAX_PER_SOURCE = 1
+# Hard cap on total articles in the JSON payload (15 sources × 1 each
+# gives at most ~15; leave a little slack in case we ever relax the cap).
+MAX_TOTAL = 20
+# Drop anything older than this — avoids RSS feeds that occasionally
+# surface week-old evergreen analysis.
+MAX_AGE_HOURS = 72
 REQUEST_TIMEOUT = 20
-# Max number of articles for which to attempt an og:image fetch when the feed
-# doesn't already carry an image. Kept small to stay fast.
-MAX_OG_FETCH = 40
+# og:image fetch: now cheap because we keep only ~15 items total.
+MAX_OG_FETCH = 20
 USER_AGENT = "world-conflicts-bot/1.0 (+https://github.com)"
 
 
@@ -99,18 +229,82 @@ def _clean(text: str | None) -> str:
     return text
 
 
-def _categorize(title: str, desc: str) -> list[str]:
-    text = f"{title} {desc}".lower()
+def _compile_union(terms: tuple[str, ...]) -> re.Pattern:
+    """Compile a union-of-alternatives regex with word boundaries, so
+    that 'war' doesn't leak into 'warned', 'raid' doesn't leak into
+    'afraid', etc. This was how the Le Monde 'Fed chair' item was
+    slipping through before."""
+    escaped = sorted({re.escape(t.strip().lower()) for t in terms if t.strip()}, key=len, reverse=True)
+    return re.compile(r"\b(?:" + "|".join(escaped) + r")\b", re.I)
+
+
+_DENY_RE = _compile_union(DENY_KEYWORDS)
+_STRONG_RE = _compile_union(STRONG_CONFLICT_SIGNALS)
+_NAMES_RE = _compile_union(ACTIVE_CONFLICT_NAMES)
+_SOFT_RE = _compile_union(SOFT_RELEVANCE_SIGNALS)
+
+
+def _count_unique(text: str, pat: re.Pattern) -> int:
+    """Count DISTINCT matching terms, not occurrences — so a headline
+    that just hammers 'Russia Russia Russia' doesn't get inflated."""
+    matches = {m.lower() for m in pat.findall(text)}
+    return min(len(matches), MAX_HITS_PER_CATEGORY)
+
+
+def _is_opinion(url: str, title: str) -> bool:
+    lu = (url or "").lower()
+    if any(m in lu for m in OPINION_URL_MARKERS):
+        return True
+    if OPINION_TITLE_RE.match(title or ""):
+        return True
+    return False
+
+
+def _score_item(title: str, desc: str, url: str) -> tuple[int, list[str]]:
+    """Return (score, categories). Score of 0 means the item is rejected.
+    Categories are for the UI filter chips ('conflict', 'analysis', etc.)."""
+    text = f"{title}\n{desc}".lower()
+
+    # 1. Denylist — sports / celebrity / lifestyle kill immediately.
+    if _DENY_RE.search(text):
+        return 0, []
+
+    strong_hits = _count_unique(text, _STRONG_RE)
+    name_hits = _count_unique(text, _NAMES_RE)
+    soft_hits = _count_unique(text, _SOFT_RE)
+    opinion = _is_opinion(url, title)
+
+    # 2. Substantive-content gate. Opinion framing alone isn't enough
+    # — we need actual war vocabulary OR a concrete named hotspot +
+    # a secondary signal. A lone "Russia" mention is NOT enough; a
+    # "Why X is doomed" analysis that only touches Iran-as-tangent is
+    # NOT enough. This is what was letting "Fed chair appointment"
+    # pieces through before.
+    if strong_hits == 0:
+        if name_hits == 0:
+            return 0, []
+        if name_hits < 2 and soft_hits == 0:
+            return 0, []
+
+    # 3. Score
+    score = (
+        strong_hits * STRONG_SIGNAL_WEIGHT
+        + name_hits * ACTIVE_NAME_WEIGHT
+        + soft_hits * SOFT_SIGNAL_WEIGHT
+        + (OPINION_BONUS if opinion else 0)
+    )
+    if score < MIN_SCORE:
+        return 0, []
+
+    # 4. Categories (used by the UI filter chips).
     cats: list[str] = []
-    for cat, words in KEYWORDS.items():
-        if any(w in text for w in words):
-            cats.append(cat)
-    return cats
-
-
-def _relevant(title: str, desc: str) -> bool:
-    # Keep only articles that match at least one category.
-    return bool(_categorize(title, desc))
+    if strong_hits or name_hits:
+        cats.append("conflict")
+    if soft_hits:
+        cats.append("humanitarian")
+    if opinion:
+        cats.append("analysis")
+    return score, cats
 
 
 def _first_image(entry) -> str | None:
@@ -215,10 +409,27 @@ class FeedResult:
         return "ok"
 
 
+def _too_old(pub_iso: str) -> bool:
+    """True if the item is older than MAX_AGE_HOURS. Anything we can't
+    parse is kept — better to show a dateless item than to drop it."""
+    if not pub_iso:
+        return False
+    try:
+        dt = datetime.fromisoformat(pub_iso.replace("Z", "+00:00"))
+    except Exception:
+        return False
+    age_s = (datetime.now(tz=timezone.utc) - dt).total_seconds()
+    return age_s > MAX_AGE_HOURS * 3600
+
+
 def fetch_feed(source: str, url: str) -> FeedResult:
     """Fetch and parse a single RSS feed.
     Never raises — errors are attached to the returned FeedResult so the
-    caller can log them aggregated and decide what to do."""
+    caller can log them aggregated and decide what to do.
+
+    After fetching, the best-scored items (up to MAX_PER_SOURCE) are kept
+    — preferring opinion/analysis pieces that give context around an
+    active crisis over raw spot news."""
     result = FeedResult(source)
     try:
         resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
@@ -230,35 +441,52 @@ def fetch_feed(source: str, url: str) -> FeedResult:
         return result
 
     result.raw_entries = len(parsed.entries or [])
+    scored: list[tuple[int, dict]] = []
     for entry in parsed.entries:
         title = _clean(entry.get("title"))
         desc = _clean(entry.get("summary") or entry.get("description"))
-        if not title or not entry.get("link"):
+        link = entry.get("link") or ""
+        if not title or not link:
             continue
-        if not _relevant(title, desc):
+        published = _published(entry)
+        if _too_old(published):
             continue
 
-        cats = _categorize(title, desc)
-        uid = hashlib.sha1(entry["link"].encode("utf-8")).hexdigest()[:12]
+        score, cats = _score_item(title, desc, link)
+        if score <= 0:
+            continue
 
-        result.items.append({
+        uid = hashlib.sha1(link.encode("utf-8")).hexdigest()[:12]
+        scored.append((score, {
             "id": f"{source[:3].lower()}-{uid}",
             "title": title,
             "description": desc[:320] + ("…" if len(desc) > 320 else ""),
-            "url": entry["link"],
+            "url": link,
             "source": source,
-            "publishedAt": _published(entry),
+            "publishedAt": published,
             "image": _first_image(entry),
             "categories": cats,
+            "relevanceScore": score,
+            "isAnalysis": "analysis" in cats,
             "tags": [],
-        })
+        }))
+
+    # Keep only the top MAX_PER_SOURCE, preferring score then recency.
+    scored.sort(key=lambda pair: (pair[0], pair[1]["publishedAt"]), reverse=True)
+    result.items = [it for _, it in scored[:MAX_PER_SOURCE]]
 
     tag = result.status_tag
+    preview = ""
+    if result.items:
+        top = result.items[0]
+        flag = "[analysis] " if top.get("isAnalysis") else ""
+        preview = f" — top: {flag}{top['title'][:70]}"
+    suffix = f"score={scored[0][0]}" if scored else "no pass"
     if tag == "ok":
-        print(f"[ok]    {source}: {len(result.items)} relevant (of {result.raw_entries} entries)")
+        print(f"[ok]    {source}: {len(result.items)}/{result.raw_entries} ({suffix}){preview}")
     else:
         # Non-fatal but worth flagging; these used to pass silently.
-        print(f"[{tag}] {source}: {len(result.items)} relevant (of {result.raw_entries} entries)")
+        print(f"[{tag}] {source}: {len(result.items)}/{result.raw_entries} ({suffix}){preview}")
     return result
 
 
@@ -302,21 +530,22 @@ def main() -> int:
         f"({fail_list}); {len(deduped)} unique articles"
     )
 
-    # Safety rail: if the whole run produced zero items and there's an
-    # existing news.json, keep the old one rather than clobbering good
-    # data with a blank payload — and exit non-zero so the workflow logs
-    # flag it for attention.
-    if not deduped and OUT.exists():
+    # Safety rail: only abort if the whole fetch was a wash — i.e. no
+    # feed returned any raw entries at all. Zero items with healthy
+    # feeds is now a *legitimate* outcome (the strict filter can
+    # genuinely find nothing worth surfacing in a given hour).
+    total_raw = sum(r.raw_entries for r in results)
+    if total_raw == 0:
         print(
-            f"[abort] zero items from {len(results)} feeds — keeping existing "
-            f"{OUT.relative_to(ROOT)} untouched.",
+            f"[abort] zero raw entries across {len(results)} feeds — "
+            f"treating as outage, leaving {OUT.relative_to(ROOT)} untouched.",
             file=sys.stderr,
         )
         return 2
 
     output = {
         "updated": now_iso(),
-        "source": "Public RSS — international outlets",
+        "source": "Public RSS — international outlets (strict filter)",
         "feedsOk": ok_count,
         "feedsTotal": len(results),
         "items": deduped,

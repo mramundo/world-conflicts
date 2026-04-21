@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T08:44:44Z",
+  "updated": "2026-04-21T09:20:42Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-04-20T07:14:35Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-04-21",
       "wikipediaRevision": "2026-04-21T00:44:39Z",
-      "recentNewsCount": 15
+      "recentNewsCount": 2
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-04-20",
       "wikipediaRevision": "2026-04-20T22:38:34Z",
-      "recentNewsCount": 15
+      "recentNewsCount": 3
     },
     {
       "id": "sd-war",
@@ -89,7 +89,7 @@
       ],
       "wikipediaPage": "Myanmar_civil_war_(2021%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "ye-war",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-04-21",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-04-21T08:27:23Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "sahel",
@@ -227,7 +227,7 @@
       "wikipediaPage": "Boko_Haram_insurgency",
       "lastUpdate": "2026-04-21",
       "wikipediaRevision": "2026-04-21T07:04:14Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "mx-cartels",
@@ -249,7 +249,7 @@
       "wikipediaPage": "Mexican_drug_war",
       "lastUpdate": "2026-04-21",
       "wikipediaRevision": "2026-04-21T04:21:49Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 0
     },
     {
       "id": "ht-gangs",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 46
+      "recentNewsCount": 10
     },
     {
       "id": "et-am",
@@ -361,7 +361,7 @@
       "wikipediaPage": "Colombian_conflict",
       "lastUpdate": "2026-04-20",
       "wikipediaRevision": "2026-04-20T05:14:59Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "ly-war",
@@ -406,7 +406,7 @@
       "lastUpdate": "2026-04-20",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-04-20T16:17:12Z",
-      "recentNewsCount": 10
+      "recentNewsCount": 2
     },
     {
       "id": "red-sea",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 16
+      "recentNewsCount": 3
     }
   ]
 }

@@ -37,18 +37,100 @@ function createStore(initial = {}) {
   };
 }
 
-/* ---------- Theme ---------- */
-function initTheme() {
-  const saved = localStorage.getItem('wc-theme');
-  const prefersLight = window.matchMedia('(prefers-color-scheme: light)').matches;
-  const theme = saved ?? (prefersLight ? 'light' : 'dark');
-  document.documentElement.dataset.theme = theme;
+/* ---------- Theme (palette + mode) ----------
+   Two orthogonal preferences:
+   - palette: visual identity (current | press-room | command-center | midnight-atlas | nordic-dusk)
+   - mode:    dark / light
+   Both are persisted independently in localStorage so the user's choices
+   survive reloads. Legacy `wc-theme` is migrated into `wc-mode`.
+*/
+const PALETTES = ['current', 'press-room', 'command-center', 'midnight-atlas', 'nordic-dusk'];
+const MODES    = ['dark', 'light'];
 
+function initTheme() {
+  const root = document.documentElement;
+
+  // --- Read stored prefs, falling back to sensible defaults. ---
+  let storedPalette = localStorage.getItem('wc-palette');
+  if (!PALETTES.includes(storedPalette)) storedPalette = 'current';
+
+  let storedMode = localStorage.getItem('wc-mode');
+  if (!MODES.includes(storedMode)) {
+    // Migrate legacy `wc-theme` key if present, otherwise use the system preference.
+    const legacy = localStorage.getItem('wc-theme');
+    if (MODES.includes(legacy)) {
+      storedMode = legacy;
+      localStorage.setItem('wc-mode', legacy);
+      localStorage.removeItem('wc-theme');
+    } else {
+      const prefersLight = window.matchMedia('(prefers-color-scheme: light)').matches;
+      storedMode = prefersLight ? 'light' : 'dark';
+    }
+  }
+
+  applyTheme(storedPalette, storedMode);
+
+  // --- Dark / light toggle ---
   $('#themeToggle')?.addEventListener('click', () => {
-    const next = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
-    document.documentElement.dataset.theme = next;
-    localStorage.setItem('wc-theme', next);
+    const next = root.dataset.mode === 'light' ? 'dark' : 'light';
+    applyTheme(root.dataset.palette, next);
+    localStorage.setItem('wc-mode', next);
   });
+
+  // --- Palette picker ---
+  const toggle = $('#paletteToggle');
+  const menu   = $('#paletteMenu');
+  if (toggle && menu) {
+    const options = [...menu.querySelectorAll('.palette-picker__option')];
+
+    const markCurrent = (palette) => {
+      options.forEach(o => o.setAttribute('aria-current',
+        o.dataset.palette === palette ? 'true' : 'false'));
+    };
+    markCurrent(storedPalette);
+
+    const closeMenu = () => {
+      menu.hidden = true;
+      toggle.setAttribute('aria-expanded', 'false');
+    };
+    const openMenu = () => {
+      menu.hidden = false;
+      toggle.setAttribute('aria-expanded', 'true');
+    };
+
+    toggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      menu.hidden ? openMenu() : closeMenu();
+    });
+
+    options.forEach(opt => {
+      opt.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const palette = opt.dataset.palette;
+        if (!PALETTES.includes(palette)) return;
+        applyTheme(palette, root.dataset.mode);
+        localStorage.setItem('wc-palette', palette);
+        markCurrent(palette);
+        closeMenu();
+      });
+    });
+
+    // Dismiss on outside click or Escape.
+    document.addEventListener('click', (e) => {
+      if (!menu.hidden && !menu.contains(e.target) && e.target !== toggle) closeMenu();
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && !menu.hidden) closeMenu();
+    });
+  }
+}
+
+function applyTheme(palette, mode) {
+  const root = document.documentElement;
+  root.dataset.palette = palette;
+  root.dataset.mode = mode;
+  // Clean up legacy attribute if ever set by an older build.
+  if (root.hasAttribute('data-theme')) root.removeAttribute('data-theme');
 }
 
 /* ---------- Data loading ---------- */

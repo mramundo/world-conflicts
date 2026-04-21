@@ -31,7 +31,58 @@
 
       <div class="topbar__actions">
         <span class="last-update" id="lastUpdate" aria-live="polite">—</span>
-        <button class="icon-btn" id="themeToggle" aria-label="Toggle theme" title="Toggle theme">
+
+        <div class="palette-picker">
+          <button class="icon-btn palette-picker__toggle" id="paletteToggle"
+                  aria-label="Change colour palette" title="Change colour palette"
+                  aria-haspopup="true" aria-expanded="false">
+            <span class="palette-picker__swatches" aria-hidden="true">
+              <span class="palette-picker__sw" style="background: var(--accent)"></span>
+              <span class="palette-picker__sw" style="background: var(--accent-2)"></span>
+              <span class="palette-picker__sw" style="background: var(--accent-3)"></span>
+              <span class="palette-picker__sw" style="background: var(--bg-elev)"></span>
+            </span>
+          </button>
+          <div class="palette-picker__menu" id="paletteMenu" role="menu" hidden>
+            <button class="palette-picker__option" role="menuitem" data-palette="current">
+              <span class="palette-picker__preview" aria-hidden="true">
+                <span style="background:#0a0e1a"></span><span style="background:#ff5a5f"></span>
+                <span style="background:#4ea8ff"></span><span style="background:#ffb347"></span>
+              </span>
+              <span class="palette-picker__name">Coral Navy <em>(default)</em></span>
+            </button>
+            <button class="palette-picker__option" role="menuitem" data-palette="press-room">
+              <span class="palette-picker__preview" aria-hidden="true">
+                <span style="background:#141413"></span><span style="background:#d4893f"></span>
+                <span style="background:#8ba3c7"></span><span style="background:#4d9b82"></span>
+              </span>
+              <span class="palette-picker__name">Press Room</span>
+            </button>
+            <button class="palette-picker__option" role="menuitem" data-palette="command-center">
+              <span class="palette-picker__preview" aria-hidden="true">
+                <span style="background:#06100c"></span><span style="background:#5fd4a0"></span>
+                <span style="background:#5ab4ff"></span><span style="background:#ffc44d"></span>
+              </span>
+              <span class="palette-picker__name">Command Center</span>
+            </button>
+            <button class="palette-picker__option" role="menuitem" data-palette="midnight-atlas">
+              <span class="palette-picker__preview" aria-hidden="true">
+                <span style="background:#0a0d18"></span><span style="background:#f4a261"></span>
+                <span style="background:#2a9d8f"></span><span style="background:#e76f51"></span>
+              </span>
+              <span class="palette-picker__name">Midnight Atlas</span>
+            </button>
+            <button class="palette-picker__option" role="menuitem" data-palette="nordic-dusk">
+              <span class="palette-picker__preview" aria-hidden="true">
+                <span style="background:#16161a"></span><span style="background:#7f5af0"></span>
+                <span style="background:#2cb67d"></span><span style="background:#ff8906"></span>
+              </span>
+              <span class="palette-picker__name">Nordic Dusk</span>
+            </button>
+          </div>
+        </div>
+
+        <button class="icon-btn" id="themeToggle" aria-label="Toggle dark / light mode" title="Toggle dark / light mode">
           <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <circle cx="12" cy="12" r="4"/>
             <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>

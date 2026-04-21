@@ -277,6 +277,10 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
 
 /* ====== Globe + List Layout ====== */
 .globe-layout {
+  /* Single source of truth for panel height so the globe and the list
+     stay vertically aligned. Both .globe-wrap and .conflicts-list read
+     this value, and the desktop breakpoint only has to override once. */
+  --panel-h: clamp(380px, 58vh, 620px);
   display: grid;
   gap: 16px;
   grid-template-columns: 1fr;
@@ -284,6 +288,7 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
 }
 @media (min-width: 980px) {
   .globe-layout {
+    --panel-h: clamp(460px, 60vh, 660px);
     grid-template-columns: minmax(0, 1fr) minmax(320px, 380px);
     align-items: stretch;
   }
@@ -294,11 +299,8 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
   border-radius: var(--radius-lg);
   border: 1px solid var(--border);
   background: radial-gradient(900px 500px at 50% 120%, rgba(78, 168, 255, .08), transparent 70%), var(--bg-elev);
-  height: clamp(380px, 58vh, 620px);
+  height: var(--panel-h);
   box-shadow: var(--shadow-md);
-}
-@media (min-width: 980px) {
-  .globe-wrap { height: clamp(460px, 60vh, 660px); }
 }
 .globe { width: 100%; height: 100%; }
 .globe canvas { outline: none; }
@@ -334,7 +336,8 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
   border: 1px solid var(--border);
   background: var(--bg-elev);
   overflow: hidden;
-  height: clamp(420px, 58vh, 660px);
+  /* Matches .globe-wrap via the shared --panel-h token on .globe-layout. */
+  height: var(--panel-h);
 }
 .conflicts-list__head {
   padding: 14px 14px 10px;

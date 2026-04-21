@@ -1,17 +1,17 @@
 {
-  "updated": "2026-04-21T14:40:21Z",
+  "updated": "2026-04-21T16:30:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-7c6866b7bb9c",
-      "title": "China cuts gasoline price for 1st time this year despite Iran war",
+      "id": "nik-1d910b16d1c5",
+      "title": "Australia's Lynas flags higher sulfuric acid, fuel costs due to Iran war",
       "description": "",
-      "url": "https://asia.nikkei.com/business/energy/china-cuts-gasoline-price-for-1st-time-this-year-despite-iran-war",
+      "url": "https://asia.nikkei.com/business/markets/commodities/australia-s-lynas-flags-higher-sulfuric-acid-fuel-costs-due-to-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-21T14:40:16Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F3%2F4%2F12404339-1-eng-GB%2F3346c43642b8-2026-03-22T101503Z_1401859460_RC2J9KAX8UPH_RTRMADP_3_IRAN-CRISIS-FUEL-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-04-21T16:30:12Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F5%2F3%2F12403580-1-eng-GB%2F8ce281245530-1c.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
@@ -20,18 +20,64 @@
       "tags": []
     },
     {
-      "id": "fra-e8a068972c60",
-      "title": "Iran signals new military options amid talks uncertainty",
-      "description": "Iran says it has new “cards to play” on the battlefield if the war resumes, while uncertainty remains over whether it will attend talks in Pakistan, as the US prepares to send the vice president to Islamabad. Delano D’Souza reports on internal divisions in Iran, highlighted by mixed messages over the weekend about the …",
-      "url": "https://www.france24.com/en/iran-signals-new-military-options-amid-talks-uncertainty",
-      "source": "France24",
-      "publishedAt": "2026-04-21T14:07:50Z",
-      "image": "https://s.france24.com/media/display/69e19792-3d87-11f1-a5c1-005056bfb2b6/w:1024/p:16x9/EN-20260421-150913-151052-CS.jpg",
+      "id": "bbc-54e2a50626dc",
+      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+      "description": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
+      "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-04-21T16:13:27Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa58/live/35b82990-3d91-11f1-b55d-0f258dce1735.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-933bfe58746d",
+      "title": "Top Lebanese official makes warning",
+      "description": "Israel carried out an airstrike in the Wadi Houjeir valley in southern Lebanon on Tuesday, according to local outlet L’Orient-Le Jour, despite a truce that came into effect on Friday. The Israeli army has also accused Hezbollah of violating the ceasefire, while the Iran-backed group says it is holding mass funerals for…",
+      "url": "https://www.france24.com/en/top-lebanese-official-makes-warning",
+      "source": "France24",
+      "publishedAt": "2026-04-21T16:10:04Z",
+      "image": "https://s.france24.com/media/display/68bed33e-3d9b-11f1-ac80-005056a90284/w:1024/p:16x9/EN-20260421-160646-160839-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-08cd2bc918ca",
+      "title": "Rabbi who boasts of bulldozing Palestinian homes will light torch for Israel’s national day",
+      "description": "Human rights campaigners say honour for Avraham Zarbiv endorses ethnic cleansing and war crimesMiddle East crisis – live updatesAn extremist rabbi known for razing civilian homes in Gaza will light a torch at Israel’s independence day celebration on Tuesday, a role human rights campaigners said marked the embrace of ge…",
+      "url": "https://www.theguardian.com/world/2026/apr/21/rabbi-who-boasts-bulldozing-palestinian-homes-light-torch-israel-national-day",
+      "source": "The Guardian",
+      "publishedAt": "2026-04-21T16:02:58Z",
+      "image": "https://i.guim.co.uk/img/media/052524f38a70ac3d83992e3f6d23ec4efa16c8fe/0_348_1907_1525/master/1907.jpg?width=140&quality=85&auto=format&fit=max&s=e913ce5a67cc630dad9f06928d9a4683",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -e18a1e140832",
+      "title": "Israeli films caught between calls for boycott and government threats",
+      "description": "Their access to international festivals and co-productions has become increasingly complicated as Israel's image has deteriorated since the war of destruction in Gaza that followed the October 7 terrorist attack. The culture minister, for his part, is threatening to cut off state funding.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/04/21/israeli-films-caught-between-calls-for-boycott-and-government-threats_6752680_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-04-21T16:00:08Z",
+      "image": "https://img.lemde.fr/2025/09/26/24/0/1195/597/644/322/60/0/d2de8d7_upload-1-cea5ntrblhrx-5ee3713-upload-1-zzjukrydyxbb-photos-the-seascreen-shot-2023-06-26-at-11-11-37.jpeg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -46,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-ca9a6efdb85b",
-      "title": "As the U.S.-Iran ceasefire deadline looms, here are the main sticking points",
-      "description": "The status of the Strait of Hormuz and Iran's nuclear enrichment program are among the biggest obstacles to extending the truce, which expires Wednesday evening.",
-      "url": "https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-04-21T12:24:15Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x701+0+0/resize/1024x701!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fc2%2F514f4ae8474abad5db7eee4159ef%2Fgettyimages-2272160474.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -95,17 +126,17 @@
       "tags": []
     },
     {
-      "id": "le -b8f507d2acc8",
-      "title": "Discontent with Putin rises among part of the Russian population: 'There is an immense wall between you and us'",
-      "description": "Internet shutdowns, a struggling economy and the ongoing war in Ukraine have exasperated some Russians, while a recent poll shows the president's popularity is slipping.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/04/21/discontent-with-putin-rises-among-part-of-the-russian-population-there-is-an-immense-wall-between-you-and-us_6752645_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-04-21T08:05:27Z",
-      "image": "https://img.lemde.fr/2026/04/21/717/0/8256/4128/644/322/60/0/92c5d11_upload-1-mpxu2c1odpz6-000-978c8t3.jpg",
+      "id": "npr-80a08fe606e5",
+      "title": "U.S.-Iran ceasefire nears its end. And, Fed chair nominee faces tough hearing",
+      "description": "The ceasefire between the U.S. and Iran is set to expire tomorrow. Peace talks between the countries remain uncertain. And, Trump's pick to lead the Federal Reserve faces a tough confirmation hearing today.",
+      "url": "https://www.npr.org/2026/04/21/g-s1-118194/up-first-newsletter-us-iran-israel-ceasefire-lori-chavez-deremer-kevin-warsh",
+      "source": "NPR World",
+      "publishedAt": "2026-04-21T11:38:06Z",
+      "image": "undefined",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -126,6 +157,21 @@
       "tags": []
     },
     {
+      "id": "ans-04951d1ed8b2",
+      "title": "Panama, estradato presunto membro Hezbollah per strage aerea del 1994",
+      "description": "Dal Venezuela arriva Jalil, accusato per l'attentato al volo Alas Chiricanas",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/04/21/panama-estradato-presunto-membro-hezbollah-per-strage-aerea-del-1994_7a037e35-4934-4365-8dab-5177ef728073.html",
+      "source": "ANSA",
+      "publishedAt": "2026-04-21T00:02:59Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/36a425437ac722037b1cdb8cc9e72e70.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -82367932d1dd",
       "title": "Amid ceasefire in Lebanon, a rush home – if it’s reachable and still there",
       "description": "As civilians displaced by the Israel-Hezbollah conflict in Lebanon try to return to their war-damaged homes, a new Israeli occupation zone in the country’s south poses an obstacle for many. Meanwhile, the ceasefire has reduced but not eliminated the fighting.",
@@ -141,21 +187,6 @@
       "tags": []
     },
     {
-      "id": "ans-51f4da096b0f",
-      "title": "Trump, altamente improbabile l'estensione del cessate il fuoco con l'Iran",
-      "description": "La tregua scade mercoledì",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/20/trump-altamente-improbabile-lestensione-del-cessate-il-fuoco-con-liran_13eebc67-c945-4cd7-b7f2-caf682fd57a4.html",
-      "source": "ANSA",
-      "publishedAt": "2026-04-20T15:08:22Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/1443c887e665cea87b8b0fae5dd12406.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-c1dfc118c1b0",
       "title": "Ugandan military reports rescue of some 200 hostages from ADF militants in eastern DRC",
       "description": "Uganda's military has said that it and forces from the neighboring Democratic Republic of Congo freed some 200 hostages in eastern DRC in a joint operation against Islamist militants known as the ADF.",
@@ -167,37 +198,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-de35a606b0ba",
-      "title": "Are insider traders making millions from the Iran war?",
-      "description": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
-      "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-04-20T12:14:56Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf52/live/1f63c960-3cb0-11f1-879d-1b2f5c3919b8.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-126b69f115fa",
-      "title": "Myanmar military regime widens sanitary towel ban, claiming rebels use them for first aid",
-      "description": "Activists say clamp down on period products to target insurgents is gender-based violence and violates rightsMyanmar’s military regime is expanding its ban on the distribution of period products, claiming they are being used to treat wounded resistance fighters, according to local activists.The south-east Asian country…",
-      "url": "https://www.theguardian.com/global-development/2026/apr/20/myanmar-military-regime-widens-sanitary-towel-ban-claiming-rebels-use-them-for-first-aid",
-      "source": "The Guardian",
-      "publishedAt": "2026-04-20T09:00:07Z",
-      "image": "https://i.guim.co.uk/img/media/c2331aaa992303fc2570e84292c3ae55df00f882/194_0_1535_1228/master/1535.jpg?width=140&quality=85&auto=format&fit=max&s=755aecfe98b6435357dc5011cf4d3c5d",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,4 +1,4 @@
-# World Conflicts
+# world-conflicts
 
 A responsive web + mobile site that shows **active conflicts around the world** on an interactive 3D globe and aggregates the **latest news** from reliable international outlets, with a focus on conflict, economy, energy and humanitarian impact.
 

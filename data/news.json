@@ -1,17 +1,17 @@
 {
-  "updated": "2026-04-22T07:38:47Z",
+  "updated": "2026-04-22T08:42:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-88c24d5f3274",
-      "title": "Japan weighs age-based filtering on social media to combat addiction",
+      "id": "nik-ac836b8ae3d4",
+      "title": "Thai banks' Q1 profits hit by low rates as Iran war clouds outlook",
       "description": "",
-      "url": "https://asia.nikkei.com/business/technology/japan-weighs-age-based-filtering-on-social-media-to-combat-addiction",
+      "url": "https://asia.nikkei.com/business/finance/thai-banks-q1-profits-hit-by-low-rates-as-iran-war-clouds-outlook",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-22T07:38:44Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F1%2F5%2F5%2F12405517-1-eng-GB%2F60b68a611d8d-photo_SXM2026042100005409.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-04-22T08:42:33Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F0%2F6%2F4%2F12404605-6-eng-GB%2Fc8850a448acd-1N9A7533.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
@@ -20,18 +20,49 @@
       "tags": []
     },
     {
+      "id": "the-9e4b70c18841",
+      "title": "Woman and Child Killed in Ukrainian Drone Strike on Samara Region",
+      "description": "Ukraine previously attacked an oil refinery in the city of Syzran, where a woman and a child were killed early Wednesday.",
+      "url": "https://www.themoscowtimes.com/2026/04/22/woman-and-child-killed-in-ukrainian-drone-strike-on-samara-region-a92565",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-04-22T08:25:06Z",
+      "image": "https://static.themoscowtimes.com/image/og/00/92565__00c99272ae92fafb8d2da3de93a48801.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-2d9f4b232869",
-      "title": "Middle East crisis live: Trump extends ceasefire but blockade continues; Iran attacks container ship off Oman",
-      "description": "US Treasury secretary says Iran’s Kharg Island storage facilities will be full and their oil wells shut in mere days because of the blockadeTrump announces ceasefire extension Why Trump’s erratic commentary is the real block to an Iran dealIf you’re just joining us, here’s the main news of the day. It is 9.30am in Tehr…",
+      "title": "Middle East crisis live: Trump extends ceasefire but blockade continues as second ship attacked in strait of Hormuz",
+      "description": "Cargo ship attacked northwest of Iran after earlier reports that the IRGC had fired at a gunboat off the coast of OmanTrump announces ceasefire extensionWhy Trump’s erratic commentary is the real block to an Iran dealIf you’re just joining us, here’s the main news of the day. It is 9.30am in Tehran, 9am in Jerusalem an…",
       "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
       "source": "The Guardian",
-      "publishedAt": "2026-04-22T07:26:08Z",
+      "publishedAt": "2026-04-22T08:16:24Z",
       "image": "https://i.guim.co.uk/img/media/d0e98cee0f9fa8611308006d01b8480a8b10f173/511_18_2511_2009/master/2511.jpg?width=140&quality=85&auto=format&fit=max&s=0e5a99542d6df66dd980c0d79e61ac4d",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-44f1334112c0",
+      "title": "On Ukraine's 'Road of Life,' Drones Hunt Targets Near The Front Line",
+      "description": "Ukrainian soldiers patrol near Druzhkivka as Russian drone and air strikes intensify. Along the \"Road of Life\" to Kostyantynivka -- a vital but deadly route -- soldiers hunt drones while civilians who remain say they have nowhere else to go.",
+      "url": "https://www.rferl.org/a/drones-hunt-targets-near-the-front-line-in-ukraine/33737258.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-04-22T07:52:50Z",
+      "image": "https://gdb.rferl.org/34668b1c-5626-42e4-3d42-08de3be37656_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -47,22 +78,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-9b86aedc3d01",
-      "title": "Hunting The Hunters: FPV Drone-Killing Devices Emerge On Ukraine's Front Lines",
-      "description": "First-person-view (FPV) drones controlled via fiber-optic cables have proved nearly impossible to counter since emerging in 2024 in the war in Ukraine. But recent battlefield images suggest both Russia and Ukraine have developed systems that may offer an answer to the threat.",
-      "url": "https://www.rferl.org/a/anti-drone-technology-russia-invasion-ukraine-elka-fpv-threat/33737266.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-04-22T06:24:30Z",
-      "image": "https://gdb.rferl.org/e7ace965-504d-43ee-5d17-08de3c91433d_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -214,21 +229,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-2ea37ff1f58b",
-      "title": "Zelensky Says Oil Sanctions Relief Provides Billions for Russian Military",
-      "description": "\"Every dollar paid for Russian oil is money for the war,\" Zelensky said.",
-      "url": "https://www.themoscowtimes.com/2026/04/19/zelensky-says-oil-sanctions-relief-provides-billions-for-russian-military-a92539",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-04-19T07:59:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/62/92539__62e397cdc09df5d40fb95aac50c323a5.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T14:39:03Z",
+  "updated": "2026-04-22T15:33:18Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-04-20T07:14:35Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-04-20",
       "wikipediaRevision": "2026-04-20T22:38:34Z",
-      "recentNewsCount": 5
+      "recentNewsCount": 6
     },
     {
       "id": "sd-war",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 7
+      "recentNewsCount": 8
     },
     {
       "id": "et-am",
@@ -427,8 +427,8 @@
         "Global economy"
       ],
       "wikipediaPage": "Red_Sea_crisis",
-      "lastUpdate": "2026-04-21",
-      "wikipediaRevision": "2026-04-21T22:23:25Z",
+      "lastUpdate": "2026-04-22",
+      "wikipediaRevision": "2026-04-22T15:04:19Z",
       "recentNewsCount": 0
     },
     {
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 5
+      "recentNewsCount": 6
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T05:02:45Z",
+  "updated": "2026-04-22T06:45:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/japan-weighs-age-based-filtering-on-social-media-to-combat-addiction",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-22T05:02:42Z",
+      "publishedAt": "2026-04-22T06:45:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F1%2F5%2F5%2F12405517-1-eng-GB%2F60b68a611d8d-photo_SXM2026042100005409.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-2d9f4b232869",
+      "title": "Middle East crisis live: Trump extends ceasefire but blockade continues; Iran attacks container ship off Oman",
+      "description": "US Treasury secretary says Iran’s Kharg Island storage facilities will be full and their oil wells shut in mere days because of the blockadeTrump announces ceasefire extension Why Trump’s erratic commentary is the real block to an Iran dealIf you’re just joining us, here’s the main news of the day. It is 9.30am in Tehr…",
+      "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
+      "source": "The Guardian",
+      "publishedAt": "2026-04-22T06:25:16Z",
+      "image": "https://i.guim.co.uk/img/media/d0e98cee0f9fa8611308006d01b8480a8b10f173/511_18_2511_2009/master/2511.jpg?width=140&quality=85&auto=format&fit=max&s=0e5a99542d6df66dd980c0d79e61ac4d",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-9b86aedc3d01",
+      "title": "Hunting The Hunters: FPV Drone-Killing Devices Emerge On Ukraine's Front Lines",
+      "description": "First-person-view (FPV) drones controlled via fiber-optic cables have proved nearly impossible to counter since emerging in 2024 in the war in Ukraine. But recent battlefield images suggest both Russia and Ukraine have developed systems that may offer an answer to the threat.",
+      "url": "https://www.rferl.org/a/anti-drone-technology-russia-invasion-ukraine-elka-fpv-threat/33737266.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-04-22T06:24:30Z",
+      "image": "https://gdb.rferl.org/e7ace965-504d-43ee-5d17-08de3c91433d_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -66,6 +97,21 @@
       "tags": []
     },
     {
+      "id": "fra-25c340e41839",
+      "title": "US-Iran talks are in doubt as ceasefire nears an end",
+      "description": "US officials have announced that Vice President JD Vance's trip to Pakistan for peace talks with Iran is on hold, as a two-week truce was set to expire and both countries warned that, without a deal, they were prepared to resume fighting. Iran said on Tuesday it had still yet to decide whether to attend the talks. FRAN…",
+      "url": "https://www.france24.com/en/us-iran-talks-are-in-doubt-as-ceasefire-nears-an-end",
+      "source": "France24",
+      "publishedAt": "2026-04-21T18:46:20Z",
+      "image": "https://s.france24.com/media/display/dbbef01c-3daf-11f1-965d-005056a90284/w:1024/p:16x9/EN-20260421-200203-200821-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "tim-ec964ab9148c",
       "title": "IDF says Hezbollah breached truce by launching rockets at troops, drone at Israel",
       "description": "Terror group takes responsibility, claims attacks come in response to Israeli violations of ceasefire; military says it struck launcher The post IDF says Hezbollah breached truce by launching rockets at troops, drone at Israel appeared first on The Times of Israel.",
@@ -92,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-933bfe58746d",
-      "title": "Top Lebanese official makes warning",
-      "description": "Israel carried out an airstrike in the Wadi Houjeir valley in southern Lebanon on Tuesday, according to local outlet L’Orient-Le Jour, despite a truce that came into effect on Friday. The Israeli army has also accused Hezbollah of violating the ceasefire, while the Iran-backed group says it is holding mass funerals for…",
-      "url": "https://www.france24.com/en/top-lebanese-official-makes-warning",
-      "source": "France24",
-      "publishedAt": "2026-04-21T16:10:04Z",
-      "image": "https://s.france24.com/media/display/68bed33e-3d9b-11f1-ac80-005056a90284/w:1024/p:16x9/EN-20260421-160646-160839-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -157,22 +188,6 @@
       "tags": []
     },
     {
-      "id": "rfe-52218d8a4c94",
-      "title": "Rachel Ehrenfeld: Why Targeting Iran's 'Shadow Economy' Hits The IRGC Where It Hurts",
-      "description": "With a cease-fire in the US-Israeli war on Iran due to expire on April 22, US actions at sea are drawing renewed attention to a central issue: How deeply Iran’s military establishment is embedded in the country’s economy.",
-      "url": "https://www.rferl.org/a/iran-us-irgc-ships-economy-entreched-shadow/33736577.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-04-21T06:01:14Z",
-      "image": "https://gdb.rferl.org/d4136c22-4fb1-40d4-9de1-011e689767d9_cx2_cy5_cw92_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "cs -82367932d1dd",
       "title": "Amid ceasefire in Lebanon, a rush home – if it’s reachable and still there",
       "description": "As civilians displaced by the Israel-Hezbollah conflict in Lebanon try to return to their war-damaged homes, a new Israeli occupation zone in the country’s south poses an obstacle for many. Meanwhile, the ceasefire has reduced but not eliminated the fighting.",
@@ -188,32 +203,17 @@
       "tags": []
     },
     {
-      "id": "the-126b69f115fa",
-      "title": "Myanmar military regime widens sanitary towel ban, claiming rebels use them for first aid",
-      "description": "Activists say clamp down on period products to target insurgents is gender-based violence and violates rightsMyanmar’s military regime is expanding its ban on the distribution of period products, claiming they are being used to treat wounded resistance fighters, according to local activists.The south-east Asian country…",
-      "url": "https://www.theguardian.com/global-development/2026/apr/20/myanmar-military-regime-widens-sanitary-towel-ban-claiming-rebels-use-them-for-first-aid",
-      "source": "The Guardian",
-      "publishedAt": "2026-04-20T09:00:07Z",
-      "image": "https://i.guim.co.uk/img/media/c2331aaa992303fc2570e84292c3ae55df00f882/194_0_1535_1228/master/1535.jpg?width=140&quality=85&auto=format&fit=max&s=755aecfe98b6435357dc5011cf4d3c5d",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-325d08a0ed5f",
-      "title": "One Dead in Kherson Drone Strike and Three Wounded in Zaporizhzhia Bombing",
-      "description": "Russian forces targeted a civilian car in Kherson and dropped guided aerial bombs on the village of Balabyne, continuing a wave of deadly assaults across southern Ukraine.",
-      "url": "https://www.kyivpost.com/post/74255",
+      "id": "kyi-17918dfee6d7",
+      "title": "Where Drones Are Built and Troops Are Trained – A Journey to the Kharkiv Front",
+      "description": "An inside look at Ukraine’s Khartia Brigade near Kharkiv, where soldiers face a war shaped by drones, pressure and an uncertain future.",
+      "url": "https://www.kyivpost.com/post/74176",
       "source": "Kyiv Post",
-      "publishedAt": "2026-04-19T08:32:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/04/19/05ab8fd6b51e2e2f9994bf5b9a87c534.jpeg?w=640&q=90&f=jpg",
+      "publishedAt": "2026-04-19T13:00:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/04/17/b6ebbc998837b4e6daea20758e987014.png?w=640&q=90&f=jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

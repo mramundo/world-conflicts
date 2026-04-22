@@ -1,21 +1,36 @@
 {
-  "updated": "2026-04-22T00:43:14Z",
+  "updated": "2026-04-22T01:39:34Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-88c24d5f3274",
-      "title": "Japan weighs age-based filtering on social media to combat addiction",
+      "id": "nik-36ea0ac8f322",
+      "title": "Asian stocks wobble early on Iran uncertainty despite ceasefire extension",
       "description": "",
-      "url": "https://asia.nikkei.com/business/technology/japan-weighs-age-based-filtering-on-social-media-to-combat-addiction",
+      "url": "https://asia.nikkei.com/business/markets/asian-stocks-wobble-early-on-iran-uncertainty-despite-ceasefire-extension",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-22T00:43:11Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F1%2F5%2F5%2F12405517-1-eng-GB%2F60b68a611d8d-photo_SXM2026042100005409.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-04-22T01:39:30Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F8%2F6%2F12406839-1-eng-GB%2Fc7e83dafb7e6-photo_SXM2026042200001782.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-d4c16834ea43",
+      "title": "US in talks to send Afghan refugees to DR Congo",
+      "description": "Afghan allies who assisted US forces now face a stark choice: resettle in the war‑torn Democratic Republic of Congo or return to Taliban‑ruled Afghanistan.",
+      "url": "https://www.dw.com/en/us-in-talks-to-send-afghan-refugees-to-dr-congo/a-76889628?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-04-22T01:13:00Z",
+      "image": "https://static.dw.com/image/76889463_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,17 +51,17 @@
       "tags": []
     },
     {
-      "id": "deu-8ebd457d0598",
-      "title": "Lebanon war puts pregnant women at risk",
-      "description": "Lebanon’s healthcare system is under severe strain despite a temporary ceasefire between Israel and Hezbollah. Thousands of displaced pregnant women are struggling to access medical services.",
-      "url": "https://www.dw.com/en/lebanon-war-puts-pregnant-women-at-risk/a-76884533?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-04-21T19:30:00Z",
-      "image": "https://static.dw.com/image/76877286_6.jpg",
+      "id": "ans-ecd0dc0f8244",
+      "title": "Trump estende la tregua fino alla presentazione della proposta dell'Iran",
+      "description": "Ma mantiene il blocco Usa a Hormuz",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/21/trump-estende-la-tregua-fino-alla-presentazione-della-proposta-delliran_effc7c23-c290-4f25-ab2c-ef5a4a3df3d3.html",
+      "source": "ANSA",
+      "publishedAt": "2026-04-21T20:43:58Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/34f5f4e46c94d5b01a4347cb5a0d1e3b.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -170,21 +185,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-04951d1ed8b2",
-      "title": "Panama, estradato presunto membro Hezbollah per strage aerea del 1994",
-      "description": "Dal Venezuela arriva Jalil, accusato per l'attentato al volo Alas Chiricanas",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/04/21/panama-estradato-presunto-membro-hezbollah-per-strage-aerea-del-1994_7a037e35-4934-4365-8dab-5177ef728073.html",
-      "source": "ANSA",
-      "publishedAt": "2026-04-21T00:02:59Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/36a425437ac722037b1cdb8cc9e72e70.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

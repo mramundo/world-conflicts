@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-23T01:39:18Z",
+  "updated": "2026-04-23T03:11:32Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-04-22T22:11:25Z",
+  "wikipediaListRevision": "2026-04-23T02:27:54Z",
   "items": [
     {
       "id": "ru-ua",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-04-20",
       "wikipediaRevision": "2026-04-20T22:38:34Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 4
     },
     {
       "id": "sd-war",
@@ -68,7 +68,7 @@
       ],
       "wikipediaPage": "Sudanese_civil_war_(2023%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "mm-civ",
@@ -227,7 +227,7 @@
       "wikipediaPage": "Boko_Haram_insurgency",
       "lastUpdate": "2026-04-21",
       "wikipediaRevision": "2026-04-21T07:04:14Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "mx-cartels",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 7
+      "recentNewsCount": 8
     },
     {
       "id": "et-am",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 5
     }
   ]
 }

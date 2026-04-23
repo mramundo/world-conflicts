@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T18:31:32Z",
+  "updated": "2026-04-23T19:34:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-drone-exports-to-europe-soar-40-fold-as-ukraine-war-fuels-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-23T18:31:28Z",
+      "publishedAt": "2026-04-23T19:34:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F6%2F4%2F9%2F12409464-1-eng-GB%2F40b7ca1394b7-2024-12-05T102015Z_1601918328_RC2TIBADZZPO_RTRMADP_3_TAIWAN-DRONES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-5dcbce8c379a",
+      "title": "Palestinian teen shot dead, Israeli child lightly hurt in rock-throwing as West Bank roils",
+      "description": "IDF thwarts attempted car-ramming attack on troops; French FM warns that EU might impose sanctions on Israelis linked to violent settler attacks 'in the coming days' The post Palestinian teen shot dead, Israeli child lightly hurt in rock-throwing as West Bank roils appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/palestinian-teen-shot-dead-israeli-child-lightly-hurt-in-rock-throwing-as-west-bank-roils/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-23T19:18:39Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/F260423NI06-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,6 +81,21 @@
       "tags": []
     },
     {
+      "id": "fra-a570b58d009a",
+      "title": "Lebanon to seek ceasefire extension in US-hosted talks with Israel",
+      "description": "The United States will host a second meeting between Lebanese and Israeli envoys on Thursday, with Beirut seeking the extension of a ceasefire between Israel and Hezbollah, a day after Israeli strikes killed at least five people including a journalist. The US-mediated ceasefire, which is set to expire ​on Sunday, has y…",
+      "url": "https://www.france24.com/en/video/20260423-lebanon-to-seek-ceasefire-extension-in-us-hosted-talks-with-israel",
+      "source": "France24",
+      "publishedAt": "2026-04-23T14:00:22Z",
+      "image": "https://s.france24.com/media/display/447d1afa-3f1a-11f1-a571-005056a90284/w:1024/p:16x9/EN-20260423-150323-150855-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -8313ba97deb8",
       "title": "‘Solutions, not slogans’: Gaza holds first election in 21 years",
       "description": "Deir el-Balah holds Gaza&#039;s first local election in 21 years amid war ruins, with residents demanding real solutions.",
@@ -82,22 +112,6 @@
       "tags": []
     },
     {
-      "id": "fra-86d28a4d6a00",
-      "title": "War in Lebanon: Most people 'are severely traumatised', CARE country director says",
-      "description": "Lebanon's country director for the charity CARE has told FRANCE 24 that life for the Lebanese is a perpetual challenge that people have to overcome. Michael Adams says the ceasefire there is very fragile, and the constant infractions mean people don't have confidence in it. He told us about how many people have to live…",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260423-war-in-lebanon-most-people-are-severely-traumatised-care-country-director-says",
-      "source": "France24",
-      "publishedAt": "2026-04-23T12:57:02Z",
-      "image": "https://s.france24.com/media/display/f86a612e-3f12-11f1-9b4c-005056a97e36/w:1024/p:16x9/capture-32225886369ea1585094ea2-12675932.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "le -76b79ba1ba7c",
       "title": "EU contemplates using 'blocking statute' in response to Trump sanctions against ICC",
       "description": "Since the 2025 executive order signed by Donald Trump targeting the International Criminal Court, calls have mounted for the European Commission to activate a law that would soften the impact of US sanctions.",
@@ -110,21 +124,6 @@
         "humanitarian"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-a49c856c1c5b",
-      "title": "Israel, Lebanon set for new round of US talks; Hezbollah fires at IDF troops again",
-      "description": "Israeli ambassador to the US Yechiel Leiter to reportedly meet Lebanese counterpart Nada Hamadeh Moawad in DC at 4 p.m. local time; Beirut expected to seek month's extension of truce The post Israel, Lebanon set for new round of US talks; Hezbollah fires at IDF troops again appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/israel-lebanon-set-for-new-round-of-us-talks-hezbollah-fires-at-idf-troops-again/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-23T11:26:29Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26104694656371-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

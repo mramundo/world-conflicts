@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T08:42:58Z",
+  "updated": "2026-04-23T09:39:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-drone-exports-to-europe-soar-40-fold-as-ukraine-war-fuels-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-23T08:42:53Z",
+      "publishedAt": "2026-04-23T09:39:03Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F6%2F4%2F9%2F12409464-1-eng-GB%2F40b7ca1394b7-2024-12-05T102015Z_1601918328_RC2TIBADZZPO_RTRMADP_3_TAIWAN-DRONES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4ffb3148acb5",
+      "title": "Gaza’s second front: The battle against disease-carrying rats",
+      "description": "Palestinian families in Gaza endure daily terror from rats in unsanitary camps, but help is hard to come by.",
+      "url": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-23T09:07:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/873A9876-1776797018.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -80,22 +96,6 @@
       "tags": []
     },
     {
-      "id": "al -7aab5dbc2980",
-      "title": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians",
-      "description": "Systematic sexual violence and harassment by Israeli soldiers, settlers displacing Palestinians in occupied West Bank.",
-      "url": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-04-22T19:59:22Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/getty_69e91994bd-1776884116.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "ans-fdde95a9e88d",
       "title": "Casa Bianca, non c'è una scadenza tassativa per Iran, decide Trump sulla tregua",
       "description": "Leavitt, inesatta l'ipotesi di '3-5 giorni' di cessate il fuoco",
@@ -126,6 +126,21 @@
       "tags": []
     },
     {
+      "id": "npr-13665beab9fb",
+      "title": "Greetings from an Islamabad park, a peaceful vantage point in an uncertain world",
+      "description": "The park, near the venue where inconclusive Iran-U.S. peace talks took place this month, provides respite to those who visit it.",
+      "url": "https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park",
+      "source": "NPR World",
+      "publishedAt": "2026-04-22T13:46:42Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F22%2F96ec3b2144c3b1742e7b5aae6174%2Ffarflungpostcard-bp.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-d13b6c968a6b",
       "title": "EU unblocks €90 billion loan to Ukraine",
       "description": "Envoys from EU member states have finally paved the way for a €90 billion loan to Ukraine that had long been blocked by Hungary. They also approved a 20th package of sanctions on Russia over its invasion of its neighbor.",
@@ -152,21 +167,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-259ed7edece6",
-      "title": "Iran says it seized ships in Strait of Hormuz as U.S. blockade continues amid ceasefire",
-      "description": "Three vessels came under fire in the Strait of Hormuz, after the U.S. and Iran failed to meet in Pakistan for talks to end the war and as President Trump extended the ceasefire but kept the blockade.",
-      "url": "https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-04-22T10:53:59Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4971x3314+0+0/resize/4971x3314!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2F1e%2F864cebb94e8bbde55c6dcdcc5336%2Fgettyimages-2271813846.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

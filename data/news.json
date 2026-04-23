@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T13:38:11Z",
+  "updated": "2026-04-23T14:52:02Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-drone-exports-to-europe-soar-40-fold-as-ukraine-war-fuels-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-23T13:38:06Z",
+      "publishedAt": "2026-04-23T14:51:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F6%2F4%2F9%2F12409464-1-eng-GB%2F40b7ca1394b7-2024-12-05T102015Z_1601918328_RC2TIBADZZPO_RTRMADP_3_TAIWAN-DRONES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -67,21 +67,6 @@
       "tags": []
     },
     {
-      "id": "npr-625a44c1452d",
-      "title": "The U.S. seizes another oil tanker as peace talks with Iran remain in limbo",
-      "description": "The seizure comes after President Trump told Fox News Wednesday that there was \"no time pressure\" on the ceasefire with Iran, which he has extended indefinitely.",
-      "url": "https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-04-23T11:30:41Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2Fdb%2F12a308ff45a28ca7eaf804f5da95%2Fgettyimages-2271974157.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-a49c856c1c5b",
       "title": "Israel, Lebanon set for new round of US talks; Hezbollah fires at IDF troops again",
       "description": "Israeli ambassador to the US Yechiel Leiter to reportedly meet Lebanese counterpart Nada Hamadeh Moawad in DC at 4 p.m. local time; Beirut expected to seek month's extension of truce The post Israel, Lebanon set for new round of US talks; Hezbollah fires at IDF troops again appeared first on The Times of Israel.",
@@ -93,6 +78,21 @@
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-f752eb024360",
+      "title": "Peace talks between U.S. and Iran at a standstill as Trump extends ceasefire",
+      "description": "President Trump has extended the ceasefire, but Iran says it's not enough if the naval blockade is still in place.",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5795829/peace-talks-between-us-and-iran-at-a-standstill-as-trump-extends-ceasefire",
+      "source": "NPR World",
+      "publishedAt": "2026-04-23T10:49:46Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5795829",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T17:35:41Z",
+  "updated": "2026-04-23T18:31:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-drone-exports-to-europe-soar-40-fold-as-ukraine-war-fuels-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-23T17:35:37Z",
+      "publishedAt": "2026-04-23T18:31:28Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F6%2F4%2F9%2F12409464-1-eng-GB%2F40b7ca1394b7-2024-12-05T102015Z_1601918328_RC2TIBADZZPO_RTRMADP_3_TAIWAN-DRONES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-1c91494b104b",
+      "title": "Extended naval blockade is admission US military escalation poses even greater risk",
+      "description": "Battle of the blockades may still have more time to run as the US and Iran try to assert control over the strait of HormuzDonald Trump’s decision to extend the naval blockade of Iran indefinitely may do nothing to reduce world oil prices – but it could amount to a recognition that further US military escalation in brea…",
+      "url": "https://www.theguardian.com/world/2026/apr/23/extended-naval-blockade-is-an-admission-us-military-escalation-poses-even-greater-risk",
+      "source": "The Guardian",
+      "publishedAt": "2026-04-23T18:15:27Z",
+      "image": "https://i.guim.co.uk/img/media/8a39c65caa840e802daa1f333d44bb5c442fd1aa/661_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=6713d2c5d015a1547549c2d074a257c2",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-2def0159dc10",
+      "title": "Ceasefire extended: What's next in the Iran war?",
+      "description": "With no fixed ceasefire deadline for now, the US and Iran are looking for ways to safeguard their own interests. DW takes a look at the main sticking points and explains some key issues.",
+      "url": "https://www.dw.com/en/ceasefire-extended-what-s-next-in-the-iran-war/a-76916900?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-04-23T18:09:00Z",
+      "image": "https://static.dw.com/image/76900092_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "deu-2e6b8298cc15",
-      "title": "Iran: Daily life shadowed by war, scarcity and fear",
-      "description": "The US naval blockade aims to put pressure on the Iranian regime, but ordinary Iranians mostly feel the effects. Many of them find their lives shaped by growing exhaustion.",
-      "url": "https://www.dw.com/en/iran-daily-life-shadowed-by-war-scarcity-and-fear/a-76912143?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-04-23T13:05:00Z",
-      "image": "https://static.dw.com/image/76790144_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-86d28a4d6a00",
       "title": "War in Lebanon: Most people 'are severely traumatised', CARE country director says",
       "description": "Lebanon's country director for the charity CARE has told FRANCE 24 that life for the Lebanese is a perpetual challenge that people have to overcome. Michael Adams says the ceasefire there is very fragile, and the constant infractions mean people don't have confidence in it. He told us about how many people have to live…",
@@ -80,6 +95,22 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -76b79ba1ba7c",
+      "title": "EU contemplates using 'blocking statute' in response to Trump sanctions against ICC",
+      "description": "Since the 2025 executive order signed by Donald Trump targeting the International Criminal Court, calls have mounted for the European Commission to activate a law that would soften the impact of US sanctions.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/04/23/eu-contemplates-using-blocking-statute-in-response-to-trump-sanctions-against-icc_6752754_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-04-23T12:50:55Z",
+      "image": "https://img.lemde.fr/2025/11/18/334/0/4000/2000/644/322/60/0/5093217_upload-1-yw9zacv3adsg-53574143067-98d5f27f98-4k.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -128,21 +159,6 @@
       "tags": []
     },
     {
-      "id": "the-2d9f4b232869",
-      "title": "Erdogan says Iran war ‘starting to weaken Europe’ – as it happened",
-      "description": "This blog is now closed. Follow our new live blog on the Middle East crisis hereIf you’re just joining us, here’s the main news of the day. It is 9.30am in Tehran, 9am in Jerusalem and Beirut, and 2am in Washington DC.Donald Trump unilaterally said he is extending the ceasefire with Iran at Pakistan’s request while awa…",
-      "url": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
-      "source": "The Guardian",
-      "publishedAt": "2026-04-23T04:09:25Z",
-      "image": "https://i.guim.co.uk/img/media/25b5ca05513e65da9c0e5f2c7d57e3da496ab35d/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a3c9c4a5ca9817fec720bd7c3516e98b",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-fdde95a9e88d",
       "title": "Casa Bianca, non c'è una scadenza tassativa per Iran, decide Trump sulla tregua",
       "description": "Leavitt, inesatta l'ipotesi di '3-5 giorni' di cessate il fuoco",
@@ -154,21 +170,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -da0f4d7f7398",
-      "title": "Ukraine's military chaplains bear witness to the hell of the front lines: 'Everyone started to believe in God after the first bombing'",
-      "description": "Tested by four years of full-scale war, soldiers have found invaluable moral support from military chaplains. Faced with death and destruction on a daily basis, more and more of them have been seeking the presence of priests.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/04/22/ukraine-s-military-chaplains-bear-witness-to-the-hell-of-the-front-lines-everyone-started-to-believe-in-god-after-the-first-bombing_6752724_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-04-22T18:00:10Z",
-      "image": "https://img.lemde.fr/2026/04/21/196/0/4000/2000/644/322/60/0/a59e314_upload-1-fw6qhsjgyltp-sujet-aumoniers-2.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

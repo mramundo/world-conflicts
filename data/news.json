@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-23T19:34:06Z",
+  "updated": "2026-04-23T20:25:13Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-drone-exports-to-europe-soar-40-fold-as-ukraine-war-fuels-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-23T19:34:01Z",
+      "publishedAt": "2026-04-23T20:25:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F6%2F4%2F9%2F12409464-1-eng-GB%2F40b7ca1394b7-2024-12-05T102015Z_1601918328_RC2TIBADZZPO_RTRMADP_3_TAIWAN-DRONES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -32,6 +32,22 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -147e8d8b1699",
+      "title": "How Trump’s Iran war is driving military dissent",
+      "description": "From protests to quiet resistance, dissent is rising inside the United States military over the US-Israel war on Iran.",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-23T19:08:51Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776971013.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -96,22 +112,6 @@
       "tags": []
     },
     {
-      "id": "al -8313ba97deb8",
-      "title": "‘Solutions, not slogans’: Gaza holds first election in 21 years",
-      "description": "Deir el-Balah holds Gaza&#039;s first local election in 21 years amid war ruins, with residents demanding real solutions.",
-      "url": "https://www.aljazeera.com/features/2026/4/23/solutions-not-slogans-gaza-holds-first-election-in-21-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-04-23T13:12:30Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260421__A8K484E__v3__HighRes__PalestinianIsraelConflictPoliticsElectionsGaza-1776937192.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "le -76b79ba1ba7c",
       "title": "EU contemplates using 'blocking statute' in response to Trump sanctions against ICC",
       "description": "Since the 2025 executive order signed by Donald Trump targeting the International Criminal Court, calls have mounted for the European Commission to activate a law that would soften the impact of US sanctions.",
@@ -124,6 +124,21 @@
         "humanitarian"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-263b64692d61",
+      "title": "Via libera finale al prestito Ue a Kiev e alle nuove sanzioni a Mosca",
+      "description": "Conclusa la procedura scritta, le misure passano all'unanimità",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/23/via-libera-finale-al-prestito-ue-a-kiev-e-alle-nuove-sanzioni-a-mosca_c55e3981-4af7-4b6b-9e72-b85ed5822877.html",
+      "source": "ANSA",
+      "publishedAt": "2026-04-23T11:57:23Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/4960f7692f1fa3997fe454ea65de03be.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -154,21 +169,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-fdde95a9e88d",
-      "title": "Casa Bianca, non c'è una scadenza tassativa per Iran, decide Trump sulla tregua",
-      "description": "Leavitt, inesatta l'ipotesi di '3-5 giorni' di cessate il fuoco",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/22/casa-bianca-non-ce-una-scadenza-tassativa-per-iran-decide-trump_86f22c0b-dd4d-4250-851c-4139c4c04a24.html",
-      "source": "ANSA",
-      "publishedAt": "2026-04-22T19:43:50Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/93aab4f26d081dbada22ce37b2886eec.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -214,21 +214,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -82367932d1dd",
-      "title": "Amid ceasefire in Lebanon, a rush home – if it’s reachable and still there",
-      "description": "As civilians displaced by the Israel-Hezbollah conflict in Lebanon try to return to their war-damaged homes, a new Israeli occupation zone in the country’s south poses an obstacle for many. Meanwhile, the ceasefire has reduced but not eliminated the fighting.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0420/lebanon-ceasefire-israel-hezbollah-civilians-homes?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-04-20T19:57:14Z",
-      "image": "https://images.csmonitor.com/csm/2026/04/0420_OCEASEFIRELEB_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

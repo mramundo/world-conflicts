@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T14:52:02Z",
+  "updated": "2026-04-23T15:40:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-drone-exports-to-europe-soar-40-fold-as-ukraine-war-fuels-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-23T14:51:58Z",
+      "publishedAt": "2026-04-23T15:40:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F6%2F4%2F9%2F12409464-1-eng-GB%2F40b7ca1394b7-2024-12-05T102015Z_1601918328_RC2TIBADZZPO_RTRMADP_3_TAIWAN-DRONES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-a518b6c25964",
+      "title": "Zelenskyy Says Ukraine's War Position 'Most Stable' In Months As EU Approves Funds",
+      "description": "The European Union formally approved a major, long-debated loan to Ukraine and a new sanctions package against Russia, as President Volodymyr Zelenskyy said Kyiv was at its \"most stable\" shape on the battlefield in months.",
+      "url": "https://www.rferl.org/a/ukraine-russia-war-eu-loan-battlefield-drone-attack/33740920.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-04-23T14:53:24Z",
+      "image": "https://gdb.rferl.org/8ae4cb97-95af-420a-868d-eea6a83a2fba_cx0_cy2_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 15,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -38,7 +54,7 @@
     {
       "id": "deu-2e6b8298cc15",
       "title": "Iran: Daily life shadowed by war, scarcity and fear",
-      "description": "The US naval blockade aims to put pressure on Tehran, but the effects are mostly felt by ordinary Iranians. Many of them find their lives shaped by growing exhaustion.",
+      "description": "The US naval blockade aims to put pressure on the Iranian regime, but ordinary Iranians mostly feel the effects. Many of them find their lives shaped by growing exhaustion.",
       "url": "https://www.dw.com/en/iran-daily-life-shadowed-by-war-scarcity-and-fear/a-76912143?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-04-23T13:05:00Z",
@@ -184,22 +200,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-44f1334112c0",
-      "title": "On Ukraine's 'Road of Life,' Drones Hunt Targets Near The Front Line",
-      "description": "Ukrainian soldiers patrol near Druzhkivka as Russian drone and air strikes intensify. Along the \"Road of Life\" to Kostyantynivka -- a vital but deadly route -- soldiers hunt drones while civilians who remain say they have nowhere else to go.",
-      "url": "https://www.rferl.org/a/drones-hunt-targets-near-the-front-line-in-ukraine/33737258.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-04-22T07:52:50Z",
-      "image": "https://gdb.rferl.org/34668b1c-5626-42e4-3d42-08de3be37656_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

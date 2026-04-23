@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-23T11:29:40Z",
+  "updated": "2026-04-23T12:29:45Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-drone-exports-to-europe-soar-40-fold-as-ukraine-war-fuels-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-23T11:29:37Z",
+      "publishedAt": "2026-04-23T12:29:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F6%2F4%2F9%2F12409464-1-eng-GB%2F40b7ca1394b7-2024-12-05T102015Z_1601918328_RC2TIBADZZPO_RTRMADP_3_TAIWAN-DRONES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-625a44c1452d",
+      "title": "U.S. seizes another oil tanker as peace talks with Iran still in limbo",
+      "description": "The seizure comes after President Trump told Fox News Wednesday that there was \"no time pressure\" on the ceasefire with Iran, which he has extended indefinitely.",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates",
+      "source": "NPR World",
+      "publishedAt": "2026-04-23T11:30:41Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2Fdb%2F12a308ff45a28ca7eaf804f5da95%2Fgettyimages-2271974157.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-a49c856c1c5b",
+      "title": "Israel, Lebanon set for new round of US talks; Hezbollah fires at IDF troops again",
+      "description": "Israeli ambassador to the US Yechiel Leiter to reportedly meet Lebanese counterpart Nada Hamadeh Moawad in DC at 4 p.m. local time; Beirut expected to seek month's extension of truce The post Israel, Lebanon set for new round of US talks; Hezbollah fires at IDF troops again appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/israel-lebanon-set-for-new-round-of-us-talks-hezbollah-fires-at-idf-troops-again/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-23T11:26:29Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26104694656371-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "tim-c4f85559125f",
-      "title": "Palestinian man shot dead in settler attack on West Bank town near Ramallah",
-      "description": "IDF confirms settler raid in Deir Dibwan, stresses troops didn't fire any shots at local Palestinians; soldiers hand over Israeli suspects to cops, who launch probe, but no arrests made The post Palestinian man shot dead in settler attack on West Bank town near Ramallah appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/palestinian-man-shot-dead-amid-settler-attack-on-west-bank-town-near-ramallah/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-22T22:49:56Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AFP__20260422__A8N38VK__v1__HighRes__PalestinianIsraelConflict-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-fdde95a9e88d",
       "title": "Casa Bianca, non c'è una scadenza tassativa per Iran, decide Trump sulla tregua",
       "description": "Leavitt, inesatta l'ipotesi di '3-5 giorni' di cessate il fuoco",
@@ -122,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-13665beab9fb",
-      "title": "Greetings from an Islamabad park, a peaceful vantage point in an uncertain world",
-      "description": "The park, near the venue where inconclusive Iran-U.S. peace talks took place this month, provides respite to those who visit it.",
-      "url": "https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park",
-      "source": "NPR World",
-      "publishedAt": "2026-04-22T13:46:42Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F22%2F96ec3b2144c3b1742e7b5aae6174%2Ffarflungpostcard-bp.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -199,21 +199,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-60b0045ea20a",
-      "title": "EXCLUSIVE: Are Robots Replacing Soldiers in Ukraine War? What’s Really Happening on the Front Line",
-      "description": "Ukrainian troops say ground robots are rapidly expanding on the front line to deliver supplies and evacuate wounded, reducing risks for soldiers but not replacing them.",
-      "url": "https://www.kyivpost.com/post/74407",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-04-21T13:11:50Z",
-      "image": "https://static.kyivpost.com/storage/2026/04/21/effb8d1b1dcea30e6f84821c5a54095d.png?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {

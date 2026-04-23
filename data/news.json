@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-23T12:29:45Z",
+  "updated": "2026-04-23T13:38:11Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-drone-exports-to-europe-soar-40-fold-as-ukraine-war-fuels-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-23T12:29:41Z",
+      "publishedAt": "2026-04-23T13:38:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F6%2F4%2F9%2F12409464-1-eng-GB%2F40b7ca1394b7-2024-12-05T102015Z_1601918328_RC2TIBADZZPO_RTRMADP_3_TAIWAN-DRONES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,8 +20,55 @@
       "tags": []
     },
     {
+      "id": "al -8313ba97deb8",
+      "title": "‘Solutions, not slogans’: Gaza holds first election in 21 years",
+      "description": "Deir el-Balah holds Gaza&#039;s first local election in 21 years amid war ruins, with residents demanding real solutions.",
+      "url": "https://www.aljazeera.com/features/2026/4/23/solutions-not-slogans-gaza-holds-first-election-in-21-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-23T13:12:30Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260421__A8K484E__v3__HighRes__PalestinianIsraelConflictPoliticsElectionsGaza-1776937192.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-2e6b8298cc15",
+      "title": "Iran: Daily life shadowed by war, scarcity and fear",
+      "description": "The US naval blockade aims to put pressure on Tehran, but the effects are mostly felt by ordinary Iranians. Many of them find their lives shaped by growing exhaustion.",
+      "url": "https://www.dw.com/en/iran-daily-life-shadowed-by-war-scarcity-and-fear/a-76912143?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-04-23T13:05:00Z",
+      "image": "https://static.dw.com/image/76790144_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-86d28a4d6a00",
+      "title": "War in Lebanon: Most people 'are severely traumatised', CARE country director says",
+      "description": "Lebanon's country director for the charity CARE has told FRANCE 24 that life for the Lebanese is a perpetual challenge that people have to overcome. Michael Adams says the ceasefire there is very fragile, and the constant infractions mean people don't have confidence in it. He told us about how many people have to live…",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260423-war-in-lebanon-most-people-are-severely-traumatised-care-country-director-says",
+      "source": "France24",
+      "publishedAt": "2026-04-23T12:57:02Z",
+      "image": "https://s.france24.com/media/display/f86a612e-3f12-11f1-9b4c-005056a97e36/w:1024/p:16x9/capture-32225886369ea1585094ea2-12675932.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "npr-625a44c1452d",
-      "title": "U.S. seizes another oil tanker as peace talks with Iran still in limbo",
+      "title": "The U.S. seizes another oil tanker as peace talks with Iran remain in limbo",
       "description": "The seizure comes after President Trump told Fox News Wednesday that there was \"no time pressure\" on the ceasefire with Iran, which he has extended indefinitely.",
       "url": "https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates",
       "source": "NPR World",
@@ -46,37 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -4ffb3148acb5",
-      "title": "Gaza’s second front: The battle against disease-carrying rats",
-      "description": "Palestinian families in Gaza endure daily terror from rats in unsanitary camps, but help is hard to come by.",
-      "url": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-04-23T09:07:31Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/873A9876-1776797018.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-082dee886194",
-      "title": "In Gaza, first local vote in years offers gauge of Hamas popularity",
-      "description": "Palestinians in one of the only Gaza cities ​not overrun by Israeli ground forces during the war will vote this weekend in municipal elections that will feature some pro-Hamas candidates, offering a rare barometer of the militant group's popularity. The vote in Deir al-Balah is part of Palestinian Authority municipal e…",
-      "url": "https://www.france24.com/en/video/20260423-in-gaza-first-local-vote-in-years-offers-gauge-of-hamas-popularity",
-      "source": "France24",
-      "publishedAt": "2026-04-23T08:38:18Z",
-      "image": "https://s.france24.com/media/display/8d8ce134-3eee-11f1-86c6-005056a90284/w:1024/p:16x9/EN-20260423-101527-101712-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -141,21 +157,6 @@
       "tags": []
     },
     {
-      "id": "deu-d13b6c968a6b",
-      "title": "EU unblocks €90 billion loan to Ukraine",
-      "description": "Envoys from EU member states have finally paved the way for a €90 billion loan to Ukraine that had long been blocked by Hungary. They also approved a 20th package of sanctions on Russia over its invasion of its neighbor.",
-      "url": "https://www.dw.com/en/eu-unblocks-€90-billion-loan-to-ukraine/a-76895753?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-04-22T12:05:00Z",
-      "image": "https://static.dw.com/image/76885510_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -a38902fca407",
       "title": "SECURITY COUNCIL LIVE: Regional war threatens Syria’s fragile transition",
       "description": "The Security Council is meeting now at a critical juncture for Syria’s fragile transition. While the Iran-US ceasefire has temporarily eased regional spillover from Lebanon and elsewhere, conditions remain volatile in Syria. The reported US military withdrawal now completed, marks a milestone, yet the chamber faces a c…",
@@ -199,6 +200,21 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-60b0045ea20a",
+      "title": "EXCLUSIVE: Are Robots Replacing Soldiers in Ukraine War? What’s Really Happening on the Front Line",
+      "description": "Ukrainian troops say ground robots are rapidly expanding on the front line to deliver supplies and evacuate wounded, reducing risks for soldiers but not replacing them.",
+      "url": "https://www.kyivpost.com/post/74407",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-04-21T13:11:50Z",
+      "image": "https://static.kyivpost.com/storage/2026/04/21/effb8d1b1dcea30e6f84821c5a54095d.png?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {

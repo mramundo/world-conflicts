@@ -242,7 +242,12 @@
 /* ====== Reset ====== */
 *, *::before, *::after { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+  /* Offset in-page anchors by the sticky topbar height so nav links
+     land at the top of the target section instead of hiding under it. */
+  scroll-padding-top: var(--header-h);
+}
 /* Make the [hidden] attribute reliable even when another rule sets an
    explicit `display` (e.g. .btn { display: inline-flex }). Without this,
    toggling `.hidden = true` in JS has no visible effect. */
@@ -271,14 +276,6 @@ img, svg { display: block; max-width: 100%; }
 button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
 a { color: inherit; text-decoration: none; }
 ol, ul { list-style: none; margin: 0; padding: 0; }
-
-.skip-link {
-  position: absolute; top: -40px; left: 16px;
-  background: var(--accent); color: #fff;
-  padding: 8px 12px; border-radius: var(--radius-xs);
-  z-index: 100; transition: top .2s;
-}
-.skip-link:focus { top: 16px; }
 
 /* ====== Shared container — used by topbar, hero__content, section, footer ====== */
 /* Every major block aligns to the same 1360px container with --gutter padding. */
@@ -416,7 +413,8 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
 .hero {
   position: relative; overflow: hidden;
   padding-top: clamp(32px, 4.5vw, 64px);
-  padding-bottom: clamp(14px, 2vw, 28px);
+  /* Match .section padding so the gap hero→globe equals globe→news. */
+  padding-bottom: clamp(20px, 2.5vw, 40px);
 }
 .hero__bg {
   position: absolute; inset: 0; z-index: 0;

@@ -1,21 +1,36 @@
 {
-  "updated": "2026-04-24T01:39:35Z",
+  "updated": "2026-04-24T03:11:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-e645abcfb6a2",
-      "title": "State ownership complicates smoking battle in Japan and China",
+      "id": "nik-7ae46828362e",
+      "title": "Indian VCs look to Europe and Asia as Iran war threatens Mideast funds",
       "description": "",
-      "url": "https://asia.nikkei.com/spotlight/policy-asia/state-ownership-complicates-smoking-battle-in-japan-and-china",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/indian-vcs-look-to-europe-and-asia-as-iran-war-threatens-mideast-funds",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-24T01:39:32Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F3%2F6%2F12346392-1-eng-GB%2F42f11ca8ef01-AP21070084774543.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-04-24T03:11:40Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F1%2F4%2F12414107-1-eng-GB%2F1a895dc60f25-India.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-0a6187e22775",
+      "title": "Middle East war live: Israel-Lebanon ceasefire continues as Trump hopes for peace deal",
+      "description": "US President Donald Trump on Thursday announced a three-week extension of the ceasefire between Israel and Lebanon, and said that he expected Israeli and Lebanese leaders to meet with him over the next couple of weeks, voicing hope for a permanent peace deal this year. Follow our liveblog for the latest developments.",
+      "url": "https://www.france24.com/en/middle-east/20260424-middle-east-war-live-israel-lebanon-ceasefire-continues-as-trump-hopes-for-peace-deal",
+      "source": "France24",
+      "publishedAt": "2026-04-24T01:38:23Z",
+      "image": "https://s.france24.com/media/display/5a1c5ef6-3e71-11f1-a045-005056bf30b7/w:1024/p:16x9/2026-04-18T104431Z-1485530830-RC2IRKAQG7VY-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,21 +108,6 @@
       ],
       "relevanceScore": 15,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-a570b58d009a",
-      "title": "Lebanon to seek ceasefire extension in US-hosted talks with Israel",
-      "description": "The United States will host a second meeting between Lebanese and Israeli envoys on Thursday, with Beirut seeking the extension of a ceasefire between Israel and Hezbollah, a day after Israeli strikes killed at least five people including a journalist. The US-mediated ceasefire, which is set to expire ​on Sunday, has y…",
-      "url": "https://www.france24.com/en/video/20260423-lebanon-to-seek-ceasefire-extension-in-us-hosted-talks-with-israel",
-      "source": "France24",
-      "publishedAt": "2026-04-23T14:00:22Z",
-      "image": "https://s.france24.com/media/display/447d1afa-3f1a-11f1-a571-005056a90284/w:1024/p:16x9/EN-20260423-150323-150855-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {

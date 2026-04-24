@@ -334,6 +334,16 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
 .icon-btn:hover { background: var(--surface-strong); color: var(--text); }
 .icon-btn:active { transform: scale(.96); }
 
+/* Theme toggle: show the icon that represents the target mode (click to switch).
+   data-mode="dark"  → sun visible  (clicking goes to light)
+   data-mode="light" → moon visible (clicking goes to dark) */
+.theme-icon--moon { display: none; }
+:root[data-mode="light"] .theme-icon--sun { display: none; }
+:root[data-mode="light"] .theme-icon--moon { display: inline; }
+/* Backward compat with pre-migration markup still carrying data-theme. */
+:root[data-theme="light"]:not([data-mode]) .theme-icon--sun { display: none; }
+:root[data-theme="light"]:not([data-mode]) .theme-icon--moon { display: inline; }
+
 /* ====== Palette picker ====== */
 .palette-picker { position: relative; }
 .palette-picker__toggle {
@@ -393,7 +403,11 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
 .section {
   max-width: var(--container);
   margin: 0 auto;
-  padding: clamp(20px, 2.5vw, 40px) var(--gutter);
+  /* Inter-section breathing room: top+bottom padding combine with the
+     neighbour section's padding to form the visible gap between blocks.
+     Keeping this tight (16-32px) stops heavy panels (globe, conflicts
+     card) from feeling stranded before the next heading. */
+  padding: clamp(16px, 2vw, 32px) var(--gutter);
 }
 .section__header {
   display: flex; align-items: flex-end; justify-content: space-between;
@@ -414,7 +428,7 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
   position: relative; overflow: hidden;
   padding-top: clamp(32px, 4.5vw, 64px);
   /* Match .section padding so the gap hero→globe equals globe→news. */
-  padding-bottom: clamp(20px, 2.5vw, 40px);
+  padding-bottom: clamp(16px, 2vw, 32px);
 }
 .hero__bg {
   position: absolute; inset: 0; z-index: 0;

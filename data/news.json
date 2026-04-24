@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-24T18:20:10Z",
+  "updated": "2026-04-24T19:23:03Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/indian-vcs-look-to-europe-and-asia-as-iran-war-threatens-mideast-funds",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-24T18:20:07Z",
+      "publishedAt": "2026-04-24T19:22:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F1%2F4%2F12414107-1-eng-GB%2F1a895dc60f25-India.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-cfd76d06e957",
+      "title": "Amid truce, Hezbollah attacks IDF in south Lebanon; troops kill 6 gunmen in Bint Jbeil",
+      "description": "IDF also strikes buildings from which terror group launched rocket barrage at north shortly before Trump announced ceasefire extension; Israeli drone downed over Tyre The post Amid truce, Hezbollah attacks IDF in south Lebanon; troops kill 6 gunmen in Bint Jbeil appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/amid-truce-hezbollah-attacks-idf-in-south-lebanon-troops-kill-6-gunmen-in-bint-jbeil/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-24T18:44:09Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/vlcsnap-2026-04-24-19h43m11s635-e1777049365776-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,6 +48,21 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -0a5616c92521",
+      "title": "Anger at funeral of Lebanese journalist killed by Israeli army: 'Amal gave voice to the south and the sacrifices endured by this region'",
+      "description": "Shortly before Donald Trump announced on Thursday a three-week extension of the ceasefire between Israel and Lebanon, friends and relatives of Amal Khalil were burying the reporter, who had been killed by an Israeli strike the previous day.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/04/24/anger-at-funeral-of-lebanese-journalist-killed-by-israeli-army-amal-gave-voice-to-the-south-and-the-sacrifices-endured-by-this-region_6752801_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-04-24T18:00:10Z",
+      "image": "https://img.lemde.fr/2026/04/23/293/0/5526/2763/644/322/60/0/0f664d3_ftp-1-omut3rajinxx-5843470-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -68,16 +98,15 @@
       "tags": []
     },
     {
-      "id": "tim-325e3e73fcd9",
-      "title": "EU approves 20th sanctions package against Russia and $105 billion loan to Ukraine",
-      "description": "Russia vows to retaliate after sanctions imposed on ​oil and gas, the linchpin of Russia’s economy; loan to Ukraine comes just before the war-torn state was set to run out of money The post EU approves 20th sanctions package against Russia and $105 billion loan to Ukraine appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/eu-approves-20th-sanctions-package-against-russia-and-105-billion-loan-to-ukraine/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-24T16:58:00Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/EU1-1024x640.jpg",
+      "id": "fra-14cf7f1774bd",
+      "title": "Russia kills elderly couple in their home",
+      "description": "In Ukraine, a Russian drone attack in the coastal city of Odesa killed a married couple in their seventies when their home was struck early in the morning, with several apartment buildings damaged—one nearly split in two—while separate drone strikes in the frontline region of Kherson also left two dead, a 68-year-old m…",
+      "url": "https://www.france24.com/en/russia-kills-two-prisoners-in-their-home",
+      "source": "France24",
+      "publishedAt": "2026-04-24T15:09:13Z",
+      "image": "https://s.france24.com/media/display/38401af0-3fef-11f1-b901-005056a90284/w:1024/p:16x9/EN-20260424-161206-161348-CS.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
@@ -100,47 +129,17 @@
     },
     {
       "id": "npr-34b038782921",
-      "title": "Israel-Lebanon ceasefire is extended by 3 weeks as tensions rise in Strait of Hormuz",
-      "description": "Hezbollah and Israel traded fire just hours after the ceasefire extension was announced, underscoring its fragility.",
+      "title": "U.S. and Iranian envoys head back to Pakistan for a new round of peace talks",
+      "description": "Iran's foreign minister is headed to Islamabad on Friday, and Steve Witkoff and Jared Kushner are due to go there on Saturday for talks to reach a deal.",
       "url": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates",
       "source": "NPR World",
       "publishedAt": "2026-04-24T11:59:28Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2Fa3%2Fd0942d944947a21fc6781b66a4c2%2Fgettyimages-2272104704.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-34fc8422000a",
-      "title": "Fleeing war in Sudan, refugees flock to Libya's Kufra province",
-      "description": "For the past three years, war has been raging in Sudan betwe en the regular army and the paramilitary Rapid Support Forces, leading to more than 11 million Sudanese being displaced. After Chad, Libya is the largest host country of Sudanese refugees. In the southeastern Kufra province, 250 kilometres from the Sudanese b…",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260424-fleeing-war-in-sudan-refugees-flock-to-libya-s-kufra-province",
-      "source": "France24",
-      "publishedAt": "2026-04-24T11:50:13Z",
-      "image": "https://s.france24.com/media/display/4e719dfc-3fb9-11f1-9e33-005056bfb2b6/w:1024/p:16x9/capture-211289655169eb2c95b0e509-19407109.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -91da1e958eab",
-      "title": "Ten countries account for two-thirds of the people most affected by hunger, according to UN-backed report",
-      "description": "The report warns of a sharp decline in humanitarian aid funding and highlights that the war in the Middle East risks exacerbating existing crises by increasing the number of displaced people in a region that already hosts millions of refugees and by driving up the cost of fertilizer.",
-      "url": "https://www.lemonde.fr/en/economy/article/2026/04/24/ten-countries-account-for-two-thirds-of-the-people-most-affected-by-hunger-according-to-un-backed-report_6752786_19.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-04-24T11:10:38Z",
-      "image": "https://img.lemde.fr/2026/04/21/688/0/8256/4128/644/322/60/0/f4325e8_ftp-1-ed5xmoprgjns-5826912-01-06.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8660x5772+0+0/resize/8660x5772!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fd5%2F36c906214c1c886cb4251958196d%2Fgettyimages-2272247748.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -156,21 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-4f499fad9779",
-      "title": "Battle-Tested Ukrainians Begin Training German Troops for Future War",
-      "description": "Ukrainian combat veterans have begun training German troops, sharing frontline experience in drone warfare and modern combat as Berlin ramps up preparations for a potential conflict with Russia.",
-      "url": "https://www.kyivpost.com/post/74589",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-04-24T07:01:22Z",
-      "image": "https://static.kyivpost.com/storage/2026/04/23/8d159917c83dea4fbed939ca7c75365d.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T17:24:41Z",
+  "updated": "2026-04-24T18:20:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,61 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/indian-vcs-look-to-europe-and-asia-as-iran-war-threatens-mideast-funds",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-24T17:24:38Z",
+      "publishedAt": "2026-04-24T18:20:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F1%2F4%2F12414107-1-eng-GB%2F1a895dc60f25-India.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-48698a8dd9f7",
+      "title": "Why is this game only legal across Australia one day a year?",
+      "description": "Two-up is a coin toss betting game that was played by Australian soldiers during World War One - it’s now only legal across Australia on 25 April.",
+      "url": "https://www.bbc.com/news/videos/ceqw389d5yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-04-24T18:05:14Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49e/live/39d2b0c0-3f87-11f1-bd52-e755d604ece4.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-005888911f7e",
+      "title": "Ukraine: Zelenskyy visits Saudi Arabia, Putin weighs G20 attendance",
+      "description": "Russian President Putin \"may or not may not\" attend the G20 in Miami in December, says the Kremlin. Meanwhile, after securing an EU loan, Ukrainian President Zelenskyy continued his diplomatic offensive in Saudi Arabia.",
+      "url": "https://www.dw.com/en/ukraine-zelenskyy-visits-saudi-arabia-putin-weighs-g20-attendance/a-76928614?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-04-24T17:37:00Z",
+      "image": "https://static.dw.com/image/76928893_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1375beabea39",
+      "title": "How Israel targeted and killed Lebanese journalist Amal Khalil",
+      "description": "Amal Khalil was killed while reporting on an Israeli air strike in southern Lebanon during a 10-day ceasefire.",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-24T17:14:03Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777050793.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -32,21 +80,6 @@
         "humanitarian"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7203d7c94bc1",
-      "title": "What’s been happening during the Lebanon ceasefire?",
-      "description": "Trump has extended the Lebanon ceasefire by 3 weeks. But Israel has been accused of using the truce to further its war.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/whats-been-happening-during-the-lebanon-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-04-24T12:49:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777034909.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -112,21 +145,6 @@
       "tags": []
     },
     {
-      "id": "bbc-16d944346deb",
-      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-      "description": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
-      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-04-24T10:41:32Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8d/live/b353fc20-3fcc-11f1-bd52-e755d604ece4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-ddda19868dc8",
       "title": "Nyt, la guerra in Iran ha prosciugato le scorte Usa di missili",
       "description": "Spesi tra i 28 e i 35 miliardi, meno scorte contro potenziali rivali Russia e Cina",
@@ -153,21 +171,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-2def0159dc10",
-      "title": "Ceasefire extended: What's next in the Iran war?",
-      "description": "With no fixed ceasefire deadline for now, the US and Iran are looking for ways to safeguard their own interests. DW takes a look at the main sticking points and explains some key issues.",
-      "url": "https://www.dw.com/en/ceasefire-extended-what-s-next-in-the-iran-war/a-76916900?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-04-23T18:09:00Z",
-      "image": "https://static.dw.com/image/76900092_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -27,6 +27,10 @@
   --container: 1360px;
   --gutter: clamp(16px, 3vw, 28px);
   --header-h: 60px;
+  /* Single source of truth for vertical spacing between top-level blocks
+     inside <main>. Applied via `main > * + *` so the gap is identical
+     regardless of which section (hero, globe, news) surrounds it. */
+  --section-gap: clamp(28px, 3.2vw, 48px);
 
   font-size: clamp(14px, 0.85rem + 0.2vw, 16px);
 }
@@ -399,15 +403,22 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
 }
 .palette-picker__preview > span { display: block; }
 
-/* ====== Sections ====== */
+/* ====== Sections ======
+   Vertical rhythm is controlled exclusively by `main > * + *` below.
+   .section only owns horizontal padding (gutter) + max-width.
+   `margin-inline` (not shorthand `margin`) keeps top/bottom free so the
+   owl-selector rule below can set margin-top without being overridden
+   by class-level specificity. */
 .section {
   max-width: var(--container);
-  margin: 0 auto;
-  /* Inter-section breathing room: top+bottom padding combine with the
-     neighbour section's padding to form the visible gap between blocks.
-     Keeping this tight (16-32px) stops heavy panels (globe, conflicts
-     card) from feeling stranded before the next heading. */
-  padding: clamp(16px, 2vw, 32px) var(--gutter);
+  margin-inline: auto;
+  padding: 0 var(--gutter);
+}
+
+/* Uniform vertical gap between ALL top-level siblings inside main.
+   Single rule = single source of truth. No section can drift. */
+main > * + * {
+  margin-top: var(--section-gap);
 }
 .section__header {
   display: flex; align-items: flex-end; justify-content: space-between;
@@ -423,12 +434,12 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
   font-size: .95rem;
 }
 
-/* ====== Hero (aligned container like .section) ====== */
+/* ====== Hero (aligned container like .section) ======
+   Hero owns only its own top breathing room (gap from sticky header).
+   Bottom gap toward next section is handled by `main > * + *`. */
 .hero {
   position: relative; overflow: hidden;
   padding-top: clamp(32px, 4.5vw, 64px);
-  /* Match .section padding so the gap hero→globe equals globe→news. */
-  padding-bottom: clamp(16px, 2vw, 32px);
 }
 .hero__bg {
   position: absolute; inset: 0; z-index: 0;

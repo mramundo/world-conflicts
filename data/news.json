@@ -1,21 +1,36 @@
 {
-  "updated": "2026-04-24T20:20:01Z",
+  "updated": "2026-04-24T21:21:26Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-e07c5147b3a0",
-      "title": "India's Reliance Industries sees quarterly profit fall on Iran war impact",
+      "id": "nik-ca64bbf69a25",
+      "title": "Asia's great disconnect: Markets boom as Iran war fuels cost of living crisis",
       "description": "",
-      "url": "https://asia.nikkei.com/business/companies/india-s-reliance-industries-sees-quarterly-profit-fall-on-iran-war-impact",
+      "url": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-24T20:19:57Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F3%2F5%2F12425303-1-eng-GB%2F8d86d8d321cf-2016-03-07T120000Z_1471289267_GF10000330726_RTRMADP_3_INDIA-RELIANCE-CABLE-TV.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-04-24T21:21:22Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F2%2F5%2F12415283-1-eng-GB%2Faebf5cfa51b8-20260425-BiA-K-shape-war-impact-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -3133c03f42a1",
+      "title": "Amid extended ceasefire, Lebanon assesses high cost of Israel-Hezbollah war",
+      "description": "In this latest round of Israel-Hezbollah fighting, Lebanese civilians have once again paid a heavy price. Even as the ceasefire in Lebanon is extended, neither combatant is showing signs of backing down.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0424/israel-lebanon-ceasefire-disarming-hezbollah-iran-war?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-04-24T21:01:55Z",
+      "image": "https://images.csmonitor.com/csm/2026/04/0424_OLEBANON_portrait_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -128,16 +143,15 @@
       "tags": []
     },
     {
-      "id": "npr-34b038782921",
-      "title": "Kushner and U.S. envoy Witkoff will head to Pakistan for new Iran talks",
-      "description": "Iran's foreign minister arrived in Islamabad, and Steve Witkoff and Jared Kushner are due to go there Saturday to try to make a deal. Israel and Iran-backed Hezbollah continued fighting in Lebanon.",
-      "url": "https://www.npr.org/2026/04/24/g-s1-118595/middle-east-war-updates",
+      "id": "npr-05bf6ecaffb0",
+      "title": "Israel and Lebanon extend ceasefire. And, Trump eases medical marijuana rules",
+      "description": "Israel and Lebanon have agreed to extend their ceasefire for three weeks, President Trump says. And, the Trump administration is easing rules on medical marijuana.",
+      "url": "https://www.npr.org/2026/04/24/g-s1-118594/up-first-newsletter-strait-of-hormuz-lebanon-israel-marijuana-reclassification-georgia-wildfires-polymarket",
       "source": "NPR World",
-      "publishedAt": "2026-04-24T11:59:28Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8660x5772+0+0/resize/8660x5772!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fd5%2F36c906214c1c886cb4251958196d%2Fgettyimages-2272247748.jpg",
+      "publishedAt": "2026-04-24T11:08:34Z",
+      "image": "undefined",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,

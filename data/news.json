@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T14:20:46Z",
+  "updated": "2026-04-25T15:18:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-25T14:20:43Z",
+      "publishedAt": "2026-04-25T15:18:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F2%2F5%2F12415283-1-eng-GB%2Faebf5cfa51b8-20260425-BiA-K-shape-war-impact-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -21,17 +21,47 @@
     },
     {
       "id": "the-a30e6fa0b3bd",
-      "title": "Middle East crisis live: Palestinians vote in first elections since outbreak of war; Israel strikes Lebanon despite ceasefire",
-      "description": "Elections taking place in the occupied West Bank and also central area of Gaza We have some images coming through the newswires of Iran’s foreign minister, Abbas Araghchi, speaking with Pakistan’s army chief, Asim Munir, and other officials in Islamabad this morning.Araghchi arrived in Pakistan last night. He wrote on …",
+      "title": "Middle East crisis live: Israel strikes Lebanon despite ceasefire, claims Hezbollah also launched rockets",
+      "description": "The IDF said it detected two rockets launched from southern Lebanon towards northern IsraelWe have some images coming through the newswires of Iran’s foreign minister, Abbas Araghchi, speaking with Pakistan’s army chief, Asim Munir, and other officials in Islamabad this morning.Araghchi arrived in Pakistan last night. …",
       "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
       "source": "The Guardian",
-      "publishedAt": "2026-04-25T14:10:56Z",
-      "image": "https://i.guim.co.uk/img/media/c6a01185f6792b60db4790359d31c0cb3bbfdecc/647_0_5418_4336/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=fbeab9db86f6d9b2e2bc63fe7679eb3d",
+      "publishedAt": "2026-04-25T15:09:02Z",
+      "image": "https://i.guim.co.uk/img/media/78223e41bd4b0ed11936171dcc7c2043d359317e/156_0_2450_1960/master/2450.jpg?width=140&quality=85&auto=format&fit=max&s=e2e77f5c3ddd8171a231c56aeea78d74",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-a6203952857a",
+      "title": "Mali hit by wave of coordinated attacks from armed groups",
+      "description": "Gunfire and explosions have rocked Mali's capital Bamako and other key cities in one of the most significant coordinated attacks in years, as armed groups, including jihadist insurgents and separatist rebels exploit worsening insecurity in the Sahel region.",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5799439/mali-hit-by-wave-of-coordinated-attacks-from-armed-groups",
+      "source": "NPR World",
+      "publishedAt": "2026-04-25T14:57:23Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2Fa1%2Fd5d9b9df41d1b2816984576217bf%2Fap26115387296781.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-f1c53d99cd35",
+      "title": "Hezbollah fires rockets at north, Israel hits terror targets in Lebanon amid shaky truce",
+      "description": "None hurt as terror group targets Israeli communities; military says it killed several gunmen who posed a threat to troops The post Hezbollah fires rockets at north, Israel hits terror targets in Lebanon amid shaky truce appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/hezbollah-fires-rockets-at-north-israel-hits-terror-targets-in-lebanon-amid-shaky-truce/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-25T14:39:43Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AFP__20260425__A8XL6KE__v1__HighRes__LebanonIsraelIranUsWar-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,6 +111,21 @@
       "tags": []
     },
     {
+      "id": "fra-fc8f19db2a85",
+      "title": "Mali live : Army clashes with ‘terrorist’ groups, Kidal captured, Tuareg rebels say",
+      "description": "Gunmen attacked several locations in Mali's capital and other cities early Saturday. Mali’s army said its soldiers were “engaged in eliminating the attackers”. Meanwhile, Tuareg rebels of the Azawad Liberation Front (FLA) coalition said they had captured the northern city of Kidal. Follow our liveblog for the latest up…",
+      "url": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
+      "source": "France24",
+      "publishedAt": "2026-04-25T09:35:38Z",
+      "image": "https://s.france24.com/media/display/fba319f8-4089-11f1-9833-005056a97e36/w:1024/p:16x9/2026-04-25T092444Z-470345488-RC26WKAN78NT-RTRMADP-3-MALI-SECURITY.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-442fdca97c02",
       "title": "Israel and Hezbollah Exchange Strikes Despite Three-Week Truce Extension",
       "description": "At least six people were killed in southern Lebanon as both sides traded fire and accused each other of violating the ceasefire announced by US President Donald Trump.",
@@ -92,53 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-0c384ffa4a2a",
-      "title": "Iran's foreign minister awaits U.S. delegation to Pakistan for peace talks",
-      "description": "Iran's Abbas Araghchi arrived in Islamabad on Friday, as the White House confirmed Steve Witkoff and Jared Kushner will travel there Saturday to try to \"move the ball forward towards a deal.\"",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-04-25T06:35:21Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x667+0+0/resize/1024x667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F81%2F2aefffa943098ef4ebd300415fdb%2Fgettyimages-2272187995.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-32e301741533",
-      "title": "PA holds local elections, including first in parts of Gaza since 2007 Hamas takeover",
-      "description": "Election is one of the reforms demanded in Trump's Gaza peace plan, but no faction other than Abbas's Fatah has put forward a party slate; vote in Gaza's Deir al-Balah largely symbolic The post PA holds local elections, including first in parts of Gaza since 2007 Hamas takeover appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/pa-holds-local-elections-including-first-in-parts-of-gaza-since-2007-hamas-takeover/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-25T06:26:27Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AFP__20260425__A8XB324__v1__HighRes__PalestinianIsraelConflictVote-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-b02855938504",
-      "title": "Iran's FM Araghchi arrives in Pakistan ahead of planned US ceasefire talks",
-      "description": "Iran's Foreign Minister Abbas Araghchi arrived in the Pakistani ​capital Islamabad on Friday to discuss proposals for restarting peace talks with the United States, amid conflicting signals on whether he would meet with US negotiators there. The White House said special envoys Steve Witkoff and Jared Kushner would leav…",
-      "url": "https://www.france24.com/en/middle-east/20260424-iran-fm-araghchi-arrives-in-pakistan-ahead-of-planned-us-ceasefire-talks",
-      "source": "France24",
-      "publishedAt": "2026-04-24T21:01:59Z",
-      "image": "https://s.france24.com/media/display/3d209a06-401f-11f1-ae39-005056bf30b7/w:1024/p:16x9/000-A8WV29F-2.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T04:54:11Z",
+  "updated": "2026-04-25T05:39:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-25T04:54:07Z",
+      "publishedAt": "2026-04-25T05:39:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F2%2F5%2F12415283-1-eng-GB%2Faebf5cfa51b8-20260425-BiA-K-shape-war-impact-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-8d8a1fb64f10",
+      "title": "Middle East war live: US envoys expected in Islamabad as Iran rules out direct talks",
+      "description": "US envoys Steve Witkoff and Jared Kushner are expected to arrive in Islamabad on Saturday for peace talks with Iran in the latest attempt by the US to broker a peace deal. Although Iranian Foreign Minister Abbas Araghchi arrived in Pakistan on Friday, Iran has ruled out direct negotiations with US representatives. Foll…",
+      "url": "https://www.france24.com/en/middle-east/20260425-middle-east-war-live-us-envoys-expected-in-islamabad-as-iran-rules-out-direct-talks",
+      "source": "France24",
+      "publishedAt": "2026-04-25T05:13:07Z",
+      "image": "https://s.france24.com/media/display/2bfa7742-4065-11f1-8617-005056bfb2b6/w:1024/p:16x9/AP26017494122732.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -125,21 +141,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-14cf7f1774bd",
-      "title": "Russia kills elderly couple in their home",
-      "description": "In Ukraine, a Russian drone attack in the coastal city of Odesa killed a married couple in their seventies when their home was struck early in the morning, with several apartment buildings damaged—one nearly split in two—while separate drone strikes in the frontline region of Kherson also left two dead, a 68-year-old m…",
-      "url": "https://www.france24.com/en/russia-kills-two-prisoners-in-their-home",
-      "source": "France24",
-      "publishedAt": "2026-04-24T15:09:13Z",
-      "image": "https://s.france24.com/media/display/38401af0-3fef-11f1-b901-005056a90284/w:1024/p:16x9/EN-20260424-161206-161348-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {

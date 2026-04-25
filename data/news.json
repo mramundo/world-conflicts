@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T08:25:44Z",
+  "updated": "2026-04-25T09:23:09Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-25T08:25:40Z",
+      "publishedAt": "2026-04-25T09:23:05Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F2%2F5%2F12415283-1-eng-GB%2Faebf5cfa51b8-20260425-BiA-K-shape-war-impact-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -69,7 +69,7 @@
     {
       "id": "fra-8d8a1fb64f10",
       "title": "Middle East war live: US envoys expected in Islamabad as Iran rules out direct talks",
-      "description": "US envoys Steve Witkoff and Jared Kushner are expected to arrive in Islamabad on Saturday for peace talks with Iran in the latest attempt by the US to broker a peace deal. Although Iranian Foreign Minister Abbas Araghchi arrived in Pakistan on Friday, Iran has ruled out direct negotiations with US representatives. Foll…",
+      "description": "US envoys Steve Witkoff and Jared Kushner are expected to arrive in Islamabad on Saturday for talks with Iran in the latest attempt by the US to broker a peace deal. Although Iranian Foreign Minister Abbas Araghchi arrived in Pakistan on Friday, Iran has ruled out direct negotiations with US representatives. Follow our…",
       "url": "https://www.france24.com/en/middle-east/20260425-middle-east-war-live-us-envoys-expected-in-islamabad-as-iran-rules-out-direct-talks",
       "source": "France24",
       "publishedAt": "2026-04-25T05:13:07Z",
@@ -78,7 +78,22 @@
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-33972c3eebc3",
+      "title": "Syria says it arrested ex-intel officer filmed taking part in 2013 Damascus massacre",
+      "description": "Syria says Amjad Yousef was one of several officers caught on leaked video shooting dozens of prisoners into trench in Damascus suburb near Palestinian refugee camp of Yarmouk The post Syria says it arrested ex-intel officer filmed taking part in 2013 Damascus massacre appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/syria-says-it-arrested-ex-intel-officer-filmed-taking-part-in-2013-damascus-massacre/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-24T22:46:59Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/HGptUsLXcAA8fm4-e1777069488324-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -109,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-cfd76d06e957",
-      "title": "Amid truce, Hezbollah attacks IDF in south Lebanon; troops kill 6 gunmen in Bint Jbeil",
-      "description": "IDF also strikes buildings from which terror group launched rocket barrage at north shortly before Trump announced ceasefire extension; Israeli drone downed over Tyre The post Amid truce, Hezbollah attacks IDF in south Lebanon; troops kill 6 gunmen in Bint Jbeil appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/amid-truce-hezbollah-attacks-idf-in-south-lebanon-troops-kill-6-gunmen-in-bint-jbeil/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-24T18:44:09Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/vlcsnap-2026-04-24-19h43m11s635-e1777049365776-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

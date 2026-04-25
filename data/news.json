@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-25T09:23:09Z",
+  "updated": "2026-04-25T10:20:11Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-25T09:23:05Z",
+      "publishedAt": "2026-04-25T10:20:08Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F2%2F5%2F12415283-1-eng-GB%2Faebf5cfa51b8-20260425-BiA-K-shape-war-impact-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-a30e6fa0b3bd",
+      "title": "Middle East crisis live: Palestinians vote in first elections since outbreak of war; Israel strikes Lebanon despite ceasefire",
+      "description": "Elections taking place in the occupied West Bank and also central area of Gaza We have some images coming through the newswires of Iran’s foreign minister, Abbas Araghchi, speaking with Pakistan’s army chief, Asim Munir, and other officials in Islamabad this morning.Araghchi arrived in Pakistan last night. He wrote on …",
+      "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
+      "source": "The Guardian",
+      "publishedAt": "2026-04-25T10:09:44Z",
+      "image": "https://i.guim.co.uk/img/media/c6a01185f6792b60db4790359d31c0cb3bbfdecc/647_0_5418_4336/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=fbeab9db86f6d9b2e2bc63fe7679eb3d",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -48,22 +64,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-1405be6a9fa0",
-      "title": "How the Walsall rapist John Ashby exposed his misogyny rapping online",
-      "description": "The 32-year-old jailed for life for a racially motivated sex attack on a Sikh woman had a collection of hate-filled uploadsJohn Ashby is a man who did not hide his hatred of women.In fact, the rapist, who was sentenced this week to life in prison with a minimum of 14 years for a racially motivated sex attack on a Sikh …",
-      "url": "https://www.theguardian.com/society/2026/apr/25/hate-filled-videos-misogynistic-loner-guilty-racially-motivated",
-      "source": "The Guardian",
-      "publishedAt": "2026-04-25T06:00:37Z",
-      "image": "https://i.guim.co.uk/img/media/bf3cc2925f0f2fe11ae729c5375418c7d409fa6d/0_267_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=9b67c5549f4397f6ec98a12cd1ea1972",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -187,21 +187,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-ddda19868dc8",
-      "title": "Nyt, la guerra in Iran ha prosciugato le scorte Usa di missili",
-      "description": "Spesi tra i 28 e i 35 miliardi, meno scorte contro potenziali rivali Russia e Cina",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/04/24/nyt-la-guerra-in-iran-ha-prosciugato-le-scorte-usa-di-missili_6e9eac6d-0559-4b78-9a04-29f53b07de66.html",
-      "source": "ANSA",
-      "publishedAt": "2026-04-24T08:43:34Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/6ee57e4a9e85d8f32c65ba6eecfef883.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

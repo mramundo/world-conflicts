@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-25T16:17:34Z",
+  "updated": "2026-04-25T17:18:00Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-25T16:17:30Z",
+      "publishedAt": "2026-04-25T17:17:55Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F2%2F5%2F12415283-1-eng-GB%2Faebf5cfa51b8-20260425-BiA-K-shape-war-impact-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -21,17 +21,48 @@
     },
     {
       "id": "the-a30e6fa0b3bd",
-      "title": "Middle East crisis live: Israel strikes Lebanon despite ceasefire, claims Hezbollah also launched rockets",
-      "description": "The IDF said it detected two rockets launched from southern Lebanon towards northern IsraelWe have some images coming through the newswires of Iran’s foreign minister, Abbas Araghchi, speaking with Pakistan’s army chief, Asim Munir, and other officials in Islamabad this morning.Araghchi arrived in Pakistan last night. …",
+      "title": "Middle East crisis live: Donald Trump cancels US envoy trip to Pakistan for ceasefire talks with Iran",
+      "description": "US president says ‘too much time’ has been ‘wasted on traveling’ as Israel strikes Lebanon, claiming Hezbollah also launched rocketsWe have some images coming through the newswires of Iran’s foreign minister, Abbas Araghchi, speaking with Pakistan’s army chief, Asim Munir, and other officials in Islamabad this morning.…",
       "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
       "source": "The Guardian",
-      "publishedAt": "2026-04-25T16:06:06Z",
+      "publishedAt": "2026-04-25T16:57:37Z",
       "image": "https://i.guim.co.uk/img/media/78223e41bd4b0ed11936171dcc7c2043d359317e/156_0_2450_1960/master/2450.jpg?width=140&quality=85&auto=format&fit=max&s=e2e77f5c3ddd8171a231c56aeea78d74",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -1bb0da37337b",
+      "title": "NGOs call for a global response to US sanctions against ICC",
+      "description": "A coalition of 2,000 NGOs published a report mapping the US sanctions system targeting the International Criminal Court and urging member states, the European Union and the United Nations to respond firmly to measures that also penalize those working to protect human rights.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/04/25/ngos-call-for-a-global-response-to-us-sanctions-against-icc_6752828_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-04-25T16:30:03Z",
+      "image": "https://img.lemde.fr/2026/04/02/429/0/5154/2577/644/322/60/0/c1d563c_ftp-1-juns1ql6rk5m-2cc20cafe95543368a45ac5c45533238-0-0d0f449b04b5476bb30ea04b5fb7ad38.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-8eff61dace3b",
+      "title": "Trump, 'annullamento del viaggio in Pakistan non vuol dire la ripresa della guerra'",
+      "description": "'Non ci ho ancora pensato'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/25/trump-annullamento-del-viaggio-in-pakistan-non-vuol-dire-la-ripresa-della_e9f442c9-8559-42cd-ab54-d1c27c9db3e8.html",
+      "source": "ANSA",
+      "publishedAt": "2026-04-25T16:25:29Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/672d1cd298db8e4c1682699b051213f3.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -152,21 +183,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -0a5616c92521",
-      "title": "Anger at funeral of Lebanese journalist killed by Israeli army: 'Amal gave voice to the south and the sacrifices endured by this region'",
-      "description": "Shortly before Donald Trump announced on Thursday a three-week extension of the ceasefire between Israel and Lebanon, friends and relatives of Amal Khalil were burying the reporter, who had been killed by an Israeli strike the previous day.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/04/24/anger-at-funeral-of-lebanese-journalist-killed-by-israeli-army-amal-gave-voice-to-the-south-and-the-sacrifices-endured-by-this-region_6752801_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-04-24T18:00:05Z",
-      "image": "https://img.lemde.fr/2026/04/23/293/0/5526/2763/644/322/60/0/0f664d3_ftp-1-omut3rajinxx-5843470-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

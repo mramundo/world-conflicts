@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T11:19:22Z",
+  "updated": "2026-04-25T12:20:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-25T11:19:18Z",
+      "publishedAt": "2026-04-25T12:20:24Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F2%2F5%2F12415283-1-eng-GB%2Faebf5cfa51b8-20260425-BiA-K-shape-war-impact-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -25,7 +25,7 @@
       "description": "Elections taking place in the occupied West Bank and also central area of Gaza We have some images coming through the newswires of Iran’s foreign minister, Abbas Araghchi, speaking with Pakistan’s army chief, Asim Munir, and other officials in Islamabad this morning.Araghchi arrived in Pakistan last night. He wrote on …",
       "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
       "source": "The Guardian",
-      "publishedAt": "2026-04-25T11:15:04Z",
+      "publishedAt": "2026-04-25T12:00:01Z",
       "image": "https://i.guim.co.uk/img/media/c6a01185f6792b60db4790359d31c0cb3bbfdecc/647_0_5418_4336/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=fbeab9db86f6d9b2e2bc63fe7679eb3d",
       "categories": [
         "conflict",
@@ -82,22 +82,6 @@
       "tags": []
     },
     {
-      "id": "fra-8d8a1fb64f10",
-      "title": "Middle East war live: US envoys expected in Islamabad as Iran rules out direct talks",
-      "description": "US envoys Steve Witkoff and Jared Kushner are expected to arrive in Islamabad on Saturday for talks with Iran in the latest attempt by the US to broker a peace deal. Although Iranian Foreign Minister Abbas Araghchi arrived in Pakistan on Friday, Iran has ruled out direct negotiations with US representatives. Follow our…",
-      "url": "https://www.france24.com/en/middle-east/20260425-middle-east-war-live-us-envoys-expected-in-islamabad-as-iran-rules-out-direct-talks",
-      "source": "France24",
-      "publishedAt": "2026-04-25T05:13:07Z",
-      "image": "https://s.france24.com/media/display/2bfa7742-4065-11f1-8617-005056bfb2b6/w:1024/p:16x9/AP26017494122732.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-33972c3eebc3",
       "title": "Syria says it arrested ex-intel officer filmed taking part in 2013 Damascus massacre",
       "description": "Syria says Amjad Yousef was one of several officers caught on leaked video shooting dozens of prisoners into trench in Damascus suburb near Palestinian refugee camp of Yarmouk The post Syria says it arrested ex-intel officer filmed taking part in 2013 Damascus massacre appeared first on The Times of Israel.",
@@ -124,6 +108,22 @@
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-b02855938504",
+      "title": "Iran's FM Araghchi arrives in Pakistan ahead of planned US ceasefire talks",
+      "description": "Iran's Foreign Minister Abbas Araghchi arrived in the Pakistani ​capital Islamabad on Friday to discuss proposals for restarting peace talks with the United States, amid conflicting signals on whether he would meet with US negotiators there. The White House said special envoys Steve Witkoff and Jared Kushner would leav…",
+      "url": "https://www.france24.com/en/middle-east/20260424-iran-fm-araghchi-arrives-in-pakistan-ahead-of-planned-us-ceasefire-talks",
+      "source": "France24",
+      "publishedAt": "2026-04-24T21:01:59Z",
+      "image": "https://s.france24.com/media/display/3d209a06-401f-11f1-ae39-005056bf30b7/w:1024/p:16x9/000-A8WV29F-2.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -174,6 +174,22 @@
       "tags": []
     },
     {
+      "id": "rfe-c740b46b6cea",
+      "title": "Zelenskyy In Saudi Arabia For Defense Talks As Russia Continues To Pound Ukraine",
+      "description": "President Volodymyr Zelenskyy arrived in Saudi Arabia for security talks, marking his second visit to the region since the start of the US-Israeli war with Iran, now under cease-fire, as Russia continued to pound Ukraine with deadly strikes.",
+      "url": "https://www.rferl.org/a/ukraine-russia-war-saudi-arabia-iran-drone-attacks-odesa/33741811.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-04-24T15:45:08Z",
+      "image": "https://gdb.rferl.org/da9d83a6-1a33-48e4-91cf-cbd4cf0db8ed_cx0_cy10_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "the-9274a3bb123e",
       "title": "Venice Biennale Jury Excludes Russia and Israel From Awards Considerations",
       "description": "Both President Vladimir Putin and Prime Minister Benjamin Netanyahu face active ICC warrants for alleged war crimes.",
@@ -190,33 +206,18 @@
       "tags": []
     },
     {
-      "id": "rfe-a518b6c25964",
-      "title": "Zelenskyy Says Ukraine's War Position 'Most Stable' In Months As EU Approves Funds",
-      "description": "The European Union formally approved a major, long-debated loan to Ukraine and a new sanctions package against Russia, as President Volodymyr Zelenskyy said Kyiv was at its \"most stable\" shape on the battlefield in months.",
-      "url": "https://www.rferl.org/a/ukraine-russia-war-eu-loan-battlefield-drone-attack/33740920.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-04-23T14:53:24Z",
-      "image": "https://gdb.rferl.org/8ae4cb97-95af-420a-868d-eea6a83a2fba_cx0_cy2_cw0_w800_h450.jpg",
+      "id": "un -22c3c1e93501",
+      "title": "World News in Brief: Civilians at risk in Gaza and West Bank, Duterte to go on trial in ICC, Yemen detainees update",
+      "description": "Continued strikes, shelling and gunfire in residential areas of Gaza are raising alarm over civilian safety, the UN relief coordination office OCHA has warned.",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167373",
+      "source": "UN News",
+      "publishedAt": "2026-04-23T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-04-2026-WFP-Gaza-01.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict",
-        "analysis"
+        "humanitarian"
       ],
-      "relevanceScore": 15,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -a38902fca407",
-      "title": "SECURITY COUNCIL LIVE: Regional war threatens Syria’s fragile transition",
-      "description": "The Security Council is meeting now at a critical juncture for Syria’s fragile transition. While the Iran-US ceasefire has temporarily eased regional spillover from Lebanon and elsewhere, conditions remain volatile in Syria. The reported US military withdrawal now completed, marks a milestone, yet the chamber faces a c…",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167358",
-      "source": "UN News",
-      "publishedAt": "2026-04-22T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Syria-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

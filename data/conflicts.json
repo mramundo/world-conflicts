@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T11:19:33Z",
+  "updated": "2026-04-25T12:20:38Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-04-23T02:27:54Z",
   "items": [
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 3
     },
     {
       "id": "sy-war",
@@ -134,7 +134,7 @@
       "lastUpdate": "2026-04-23",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-04-23T22:13:01Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "cd-east",
@@ -429,7 +429,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-04-22",
       "wikipediaRevision": "2026-04-22T15:04:19Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "wb-isr",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 7
+      "recentNewsCount": 8
     }
   ]
 }

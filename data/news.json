@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T11:19:27Z",
+  "updated": "2026-04-26T12:22:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/iran-war-tests-role-of-asian-middle-powers-says-thai-ex-pm",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-26T11:19:23Z",
+      "publishedAt": "2026-04-26T12:22:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F8%2F0%2F8%2F12398085-1-eng-GB%2F9d58b3a85695-20260403-1N9A4370-Photo-by-Ken-Kobayashi_c.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-e390f0fb0323",
+      "title": "Trump doubts shooter motivated by Iran war as peace talks on hold",
+      "description": "A shooting incident at the White House Correspondent's Dinner took focus away from the war in Iran, as Iran's foreign minister planned to return to Islamabad, the site of previous peace talks.",
+      "url": "https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan",
+      "source": "NPR World",
+      "publishedAt": "2026-04-26T11:40:10Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F1a%2F15437da0469f85df6799247d9c0d%2Fap26114554323690.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-8897ea6ce5fa",
+      "title": "Two Dead in Kramatorsk as Russian Shelling Hits Residential Area",
+      "description": "A woman and a man were killed while standing on the street during a morning strike on the Donetsk region city, which also damaged eight homes and wounded a 50-year-old civilian.",
+      "url": "https://www.kyivpost.com/post/74801",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-04-26T11:40:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/04/26/b312b268e131d9b199bcc85f3ccc1845.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -128,21 +159,6 @@
       "tags": []
     },
     {
-      "id": "npr-a6203952857a",
-      "title": "Mali hit by wave of coordinated attacks from armed groups",
-      "description": "Gunfire and explosions have rocked Mali's capital Bamako and other key cities in one of the most significant coordinated attacks in years, as armed groups, including jihadist insurgents and separatist rebels exploit worsening insecurity in the Sahel region.",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799439/mali-hit-by-wave-of-coordinated-attacks-from-armed-groups",
-      "source": "NPR World",
-      "publishedAt": "2026-04-25T14:57:23Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2Fa1%2Fd5d9b9df41d1b2816984576217bf%2Fap26115387296781.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-7f32dd533aff",
       "title": "Russian Strikes Kill 6 Across Ukraine",
       "description": "Four people were killed and 27 wounded in a single strike on an apartment block in Dnipro. Another strike nearly killed a local official.",
@@ -165,21 +181,6 @@
       "source": "BBC",
       "publishedAt": "2026-04-25T12:29:37Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1d9/live/e47f40a0-408c-11f1-8d6e-339f25b16267.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-442fdca97c02",
-      "title": "Israel and Hezbollah Exchange Strikes Despite Three-Week Truce Extension",
-      "description": "At least six people were killed in southern Lebanon as both sides traded fire and accused each other of violating the ceasefire announced by US President Donald Trump.",
-      "url": "https://www.kyivpost.com/post/74729",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-04-25T07:54:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/04/25/088fbcb6e09ad1111cb7a0218a2cde93.jpg?w=640&q=90&f=jpg",
       "categories": [
         "conflict"
       ],
@@ -219,18 +220,18 @@
       "tags": []
     },
     {
-      "id": "un -22c3c1e93501",
-      "title": "World News in Brief: Civilians at risk in Gaza and West Bank, Duterte to go on trial in ICC, Yemen detainees update",
-      "description": "Continued strikes, shelling and gunfire in residential areas of Gaza are raising alarm over civilian safety, the UN relief coordination office OCHA has warned.",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167373",
+      "id": "un -02c2a1ac102e",
+      "title": "MIDDLE EAST LIVE 24 April: Israel-Lebanon ceasefire extended as humanitarian concerns persist",
+      "description": "The United States has announced that the Israel-Lebanon ceasefire will be extended by three weeks following talks in Washington, offering a potential pause in hostilities. Meanwhile, humanitarian concerns are growing over shortages in Iran and Gaza, while another UN peacekeeper has died after coming under fire. Stay wi…",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167375",
       "source": "UN News",
-      "publishedAt": "2026-04-23T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-04-2026-WFP-Gaza-01.jpg/image560x340cropped.jpg",
+      "publishedAt": "2026-04-24T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/13-03-2026-UNICEF-Lebanon-01.jpeg/image560x340cropped.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

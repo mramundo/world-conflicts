@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T11:19:39Z",
+  "updated": "2026-04-26T12:22:26Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-04-23T02:27:54Z",
   "items": [
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "sy-war",
@@ -181,7 +181,7 @@
       ],
       "wikipediaPage": "Jihadist_insurgency_in_the_Sahel",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "so-als",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 7
+      "recentNewsCount": 8
     },
     {
       "id": "et-am",
@@ -429,7 +429,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-04-22",
       "wikipediaRevision": "2026-04-22T15:04:19Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "wb-isr",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 3
     }
   ]
 }

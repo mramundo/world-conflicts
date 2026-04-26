@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T12:22:16Z",
+  "updated": "2026-04-26T13:33:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/iran-war-tests-role-of-asian-middle-powers-says-thai-ex-pm",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-26T12:22:13Z",
+      "publishedAt": "2026-04-26T13:33:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F8%2F0%2F8%2F12398085-1-eng-GB%2F9d58b3a85695-20260403-1N9A4370-Photo-by-Ken-Kobayashi_c.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-e97f71a38102",
+      "title": "Medio Oriente - Israele colpisce il sud del Libano, Netanyahu: 'Hezbollah sta distruggendo il cessate il fuoco' - LIVEBLOG",
+      "description": "Teheran denuncia un atteggiamento di \"politica di pressione\" da parte degli Usa in fase di negoziato e \"nel periodo di tregua\" in corso",
+      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/04/26/medio-oriente-israele-colpisce-il-sud-del-libano-netanyahu-hezbollah-sta_cb0d0e04-9d98-4fca-9448-1c50f07a662f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-04-26T13:22:36Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/d1a14a39d3660a4d0230f4cb5a3ca467.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,21 +66,6 @@
       "tags": []
     },
     {
-      "id": "fra-5f243c79c69e",
-      "title": "Deadly Israeli strikes hit Lebanon despite ceasefire extension",
-      "description": "Lebanese state media reported a series of new Israeli strikes in at least four different locations in the country's south late Saturday, after Israeli Prime Minister Benjamin Netanyahu ordered his military to attack Hezbollah following alleged ceasefire breaches. Attacks earlier in the day reportedly killed six people,…",
-      "url": "https://www.france24.com/en/deadly-israeli-strikes-hit-lebanon-despite-ceasefire-extension",
-      "source": "France24",
-      "publishedAt": "2026-04-26T10:07:18Z",
-      "image": "https://s.france24.com/media/display/e207adac-4155-11f1-8879-005056a90284/w:1024/p:16x9/EN-20260426-114303-114449-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -be7876b267df",
       "title": "Yemen’s landmine crisis endures despite truce and de-mining efforts",
       "description": "Landmines in Yemen continue to kill and maim, even amid ceasefire efforts and ongoing de-mining initiatives.",
@@ -96,6 +96,21 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-08c295b171e7",
+      "title": "Mali’s Tuareg rebels announce deal for Russian Africa Corps withdrawal from Kidal",
+      "description": "Tuareg rebels fighting Mali's army on Sunday announced an agreement allowing Russian Africa Corps forces to withdraw from Kidal, leaving the northern town \"totally\" under their control. Jihadist fighters coordinating with Tuareg rebels killed the junta's Defence Minister General Sadio Camara with a car bomb near the ca…",
+      "url": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels",
+      "source": "France24",
+      "publishedAt": "2026-04-26T07:52:33Z",
+      "image": "https://s.france24.com/media/display/34a652ac-4147-11f1-b891-005056a97e36/w:1024/p:16x9/2026-04-25T123749Z-1752871624-RC2CWKAXNETP-RTRMADP-3-MALI-SECURITY.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -136,21 +151,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-04-25T23:39:02Z",
       "image": "https://img.lemde.fr/2026/04/25/250/0/2994/1497/644/322/60/0/4a328e3_ftp-1-ofsmzqywuzbp-5864682-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-c782cb410253",
-      "title": "Netanyahu, 'ho ordinato all'Idf di attaccare con vigore Hezbollah in Libano'",
-      "description": "L''ufficio del premier israeliano: 'A seguito delle varie violazioni del cessate il fuoco'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/25/netanyahu-ho-ordinato-allidf-di-attaccare-con-vigore-hezbollah-in-libano_8d422f6d-ed46-4393-b865-27405a84120e.html",
-      "source": "ANSA",
-      "publishedAt": "2026-04-25T18:04:55Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/d9de7c46d7c97af8e97f9985f9802a4a.jpg",
       "categories": [
         "conflict"
       ],

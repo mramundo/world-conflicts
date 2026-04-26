@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T05:07:13Z",
+  "updated": "2026-04-26T06:45:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/iran-war-tests-role-of-asian-middle-powers-says-thai-ex-pm",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-26T05:07:11Z",
+      "publishedAt": "2026-04-26T06:45:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F8%2F0%2F8%2F12398085-1-eng-GB%2F9d58b3a85695-20260403-1N9A4370-Photo-by-Ken-Kobayashi_c.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-a63c7d29222e",
+      "title": "Several killed in Colombia highway bomb attack ahead of presidential election",
+      "description": "At least 14 people were killed and 38 injured in a highway bomb attack in southwest Colombia that the authorities blamed on the dissidents of the former FARC guerrilla army. The attack came amid a spate of violence across the country ahead of next month's presidential election.",
+      "url": "https://www.france24.com/en/americas/20260426-several-killed-in-colombia-highway-bomb-attack-ahead-of-presidential-election",
+      "source": "France24",
+      "publishedAt": "2026-04-26T06:08:16Z",
+      "image": "https://s.france24.com/media/display/bd2ad1a4-4109-11f1-bfd4-005056a97e36/w:1024/p:16x9/3c858104cabf3a91d0ddfdd16c775150382f927a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -137,21 +152,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-fc8f19db2a85",
-      "title": "Mali's army clashes with ‘terrorist’ groups, Tuareg rebels claim they seized Kidal",
-      "description": "Gunmen attacked several locations in Mali's capital and other cities early Saturday. Mali’s army said its soldiers were “engaged in eliminating the attackers”, while Tuareg rebels of the Azawad Liberation Front (FLA) coalition said they had captured the northern city of Kidal. Read our blog to see how the day's events …",
-      "url": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
-      "source": "France24",
-      "publishedAt": "2026-04-25T09:35:38Z",
-      "image": "https://s.france24.com/media/display/fba319f8-4089-11f1-9833-005056a97e36/w:1024/p:16x9/2026-04-25T092444Z-470345488-RC26WKAN78NT-RTRMADP-3-MALI-SECURITY.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

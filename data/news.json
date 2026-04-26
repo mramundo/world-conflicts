@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T14:20:26Z",
+  "updated": "2026-04-26T15:19:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/iran-war-tests-role-of-asian-middle-powers-says-thai-ex-pm",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-26T14:20:22Z",
+      "publishedAt": "2026-04-26T15:19:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F8%2F0%2F8%2F12398085-1-eng-GB%2F9d58b3a85695-20260403-1N9A4370-Photo-by-Ken-Kobayashi_c.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-30a19407b9d5",
+      "title": "Malian Defence Minister Sadio Camara killed by rebels",
+      "description": "Mali’s Defence Minister Sadio Camara was killed in coordinated attacks targeting military sites, officials said, marking a major blow to the ruling junta. The killing comes amid a surge in violence by jihadist and rebel groups, raising fresh concerns over security in the West African nation. FRANCE 24's Justice Baidoo …",
+      "url": "https://www.france24.com/en/malian-defense-minister-killed-by-rebels",
+      "source": "France24",
+      "publishedAt": "2026-04-26T14:09:54Z",
+      "image": "https://s.france24.com/media/display/63815bd2-4172-11f1-8196-005056bf30b7/w:1024/p:16x9/EN-20260426-150340-150754-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -79,38 +94,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "rfe-2c5974994f8a",
-      "title": "Iranian Foreign Minister Holds Talks In Oman, After US Envoys Abruptly Cancel Pakistan Trip",
-      "description": "Iran’s foreign minister held talks with the leader of Oman, a day after the two lead US envoys abruptly pulled out of planned talks aimed at ending the nearly two-month old war in Iran. Abbas Araqchi’s meetings in Muscat on April 26 were part of the latest shuttle diplomacy and zig-zagging negotiations aimed at resolvi…",
-      "url": "https://www.rferl.org/a/iran-us-war-peace-talks-/33742716.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-04-26T08:08:43Z",
-      "image": "https://gdb.rferl.org/44dcaa2b-a7d7-4100-8d18-1e0db2644314_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 14,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-08c295b171e7",
-      "title": "Mali’s Tuareg rebels announce deal for Russian Africa Corps withdrawal from Kidal",
-      "description": "Tuareg rebels fighting Mali's army on Sunday announced an agreement allowing Russian Africa Corps forces to withdraw from Kidal, leaving the northern town \"totally\" under their control. Jihadist fighters coordinating with Tuareg rebels killed the junta's Defence Minister General Sadio Camara with a car bomb near the ca…",
-      "url": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels",
-      "source": "France24",
-      "publishedAt": "2026-04-26T07:52:33Z",
-      "image": "https://s.france24.com/media/display/34a652ac-4147-11f1-b891-005056a97e36/w:1024/p:16x9/2026-04-25T123749Z-1752871624-RC2CWKAXNETP-RTRMADP-3-MALI-SECURITY.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -217,6 +200,22 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-c740b46b6cea",
+      "title": "Zelenskyy In Saudi Arabia For Defense Talks As Russia Continues To Pound Ukraine",
+      "description": "President Volodymyr Zelenskyy arrived in Saudi Arabia for security talks, marking his second visit to the region since the start of the US-Israeli war with Iran, now under cease-fire, as Russia continued to pound Ukraine with deadly strikes.",
+      "url": "https://www.rferl.org/a/ukraine-russia-war-saudi-arabia-iran-drone-attacks-odesa/33741811.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-04-24T15:45:08Z",
+      "image": "https://gdb.rferl.org/da9d83a6-1a33-48e4-91cf-cbd4cf0db8ed_cx0_cy10_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     },
     {

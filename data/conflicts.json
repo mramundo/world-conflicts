@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T14:20:38Z",
+  "updated": "2026-04-26T15:19:22Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-04-23T02:27:54Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-04-23",
       "wikipediaRevision": "2026-04-23T04:37:25Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 5
     },
     {
       "id": "il-ps",
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     },
     {
       "id": "sy-war",
@@ -406,7 +406,7 @@
       "lastUpdate": "2026-04-20",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-04-20T16:17:12Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "red-sea",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 4
     }
   ]
 }

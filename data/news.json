@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T17:18:25Z",
+  "updated": "2026-04-26T18:20:25Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/iran-war-tests-role-of-asian-middle-powers-says-thai-ex-pm",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-26T17:18:22Z",
+      "publishedAt": "2026-04-26T18:20:21Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F8%2F0%2F8%2F12398085-1-eng-GB%2F9d58b3a85695-20260403-1N9A4370-Photo-by-Ken-Kobayashi_c.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-bcce97b65840",
+      "title": "Sale a 19 il bilancio delle vittime dell'attentato nel Cauca, in Colombia",
+      "description": "L'ultimo aggiornamento diffuso dall'Istituto di medicina legale del governo",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/04/26/sale-a-19-il-bilancio-delle-vittime-dellattentato-nel-cauca-in-colombia_5ad9e113-9015-4a1f-8b07-5e85c2ed1e57.html",
+      "source": "ANSA",
+      "publishedAt": "2026-04-26T15:24:52Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/4a5f908620cd37072b41d9a1cf7dcd9a.jpg",
       "categories": [
         "conflict"
       ],
@@ -138,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-c782cb410253",
-      "title": "Netanyahu, 'ho ordinato all'Idf di attaccare con vigore Hezbollah in Libano'",
-      "description": "L''ufficio del premier israeliano: 'A seguito delle varie violazioni del cessate il fuoco'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/25/netanyahu-ho-ordinato-allidf-di-attaccare-con-vigore-hezbollah-in-libano_8d422f6d-ed46-4393-b865-27405a84120e.html",
-      "source": "ANSA",
-      "publishedAt": "2026-04-25T18:04:55Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/d9de7c46d7c97af8e97f9985f9802a4a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

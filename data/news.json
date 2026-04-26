@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T08:32:19Z",
+  "updated": "2026-04-26T09:25:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/iran-war-tests-role-of-asian-middle-powers-says-thai-ex-pm",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-26T08:32:16Z",
+      "publishedAt": "2026-04-26T09:25:03Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F8%2F0%2F8%2F12398085-1-eng-GB%2F9d58b3a85695-20260403-1N9A4370-Photo-by-Ken-Kobayashi_c.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,8 +20,23 @@
       "tags": []
     },
     {
+      "id": "fra-a4eb0bd16ac1",
+      "title": "Armed groups claim attacks across Mali",
+      "description": "An Al-Qaeda-linked jihadist group said Saturday that its fighters had joined forces with Tuareg rebels to launch attacks against the army across junta-ruled Mali. Helicopters buzzed over Bamako and around the international airport and fighting was reported at a nearby military base in what was one of the most complex a…",
+      "url": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali",
+      "source": "France24",
+      "publishedAt": "2026-04-26T09:18:05Z",
+      "image": "https://s.france24.com/media/display/90b8aaec-414f-11f1-ac7f-005056a90284/w:1024/p:16x9/EN-20260426-101739-101938-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-2c5974994f8a",
-      "title": "Iranian Foreign Minister Holds Talks In Oman, After US Envoys Abruptly Canceled Pakistan Trip",
+      "title": "Iranian Foreign Minister Holds Talks In Oman, After US Envoys Abruptly Cancel Pakistan Trip",
       "description": "Iran’s foreign minister held talks with the leader of Oman, a day after the two lead US envoys abruptly pulled out of planned talks aimed at ending the nearly two-month old war in Iran. Abbas Araqchi’s meetings in Muscat on April 26 were part of the latest shuttle diplomacy and zig-zagging negotiations aimed at resolvi…",
       "url": "https://www.rferl.org/a/iran-us-war-peace-talks-/33742716.html",
       "source": "RFE/RL",
@@ -53,21 +68,6 @@
       "tags": []
     },
     {
-      "id": "fra-08c295b171e7",
-      "title": "New fighting erupts in northern Mali's Kidal as army clashes with Tuareg rebels",
-      "description": "Fighting continued in the northern Mali city of Kidal on Sunday as the army clashed with Tuareg rebels. The rebels on Saturday worked with jihadists to launched coordinated attacks across the country targeting major cities and government leaders.",
-      "url": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels",
-      "source": "France24",
-      "publishedAt": "2026-04-26T07:52:33Z",
-      "image": "https://s.france24.com/media/display/34a652ac-4147-11f1-b891-005056a97e36/w:1024/p:16x9/2026-04-25T123749Z-1752871624-RC2CWKAXNETP-RTRMADP-3-MALI-SECURITY.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-0835243cbcb4",
       "title": "Ukrainian action thriller billed as Saving Private Ryan for the drone age",
       "description": "Killhouse is based on real-life story of civilian couple saved from battlefield by Ukrainian drone operatorsIt is being billed as Ukraine’s answer to Saving Private Ryan, updated for an age of drones.The war movie Killhouse is an action thriller which shows off the latest in battlefield technology. Released this week, …",
@@ -83,6 +83,21 @@
       "tags": []
     },
     {
+      "id": "tim-42e646085907",
+      "title": "Hezbollah claims to have launched 2 attacks on IDF troops in south Lebanon’s Taybeh",
+      "description": "Herzog relieved Trump unharmed in ‘heinous’ shooting, Netanyahu 'shocked by attempted assassination' * Father and son, 6, dead in suspected murder-suicide; 16-year-old killed in north The post Hezbollah claims to have launched 2 attacks on IDF troops in south Lebanon’s Taybeh appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/liveblog-april-26-2026/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-26T00:47:45Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/F260419AMA107-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -38e46f8f62c2",
       "title": "Israeli strikes kill six in south Lebanon despite extended ceasefire, fresh raids reported",
       "description": "A new wave of bombardments has been reported overnight, even as a recently extended ceasefire with Hezbollah appeared to fray amid mutual accusations of violations.",
@@ -94,21 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-6d1b8ff32164",
-      "title": "IDF says Gaza strike killed Oct. 7 attacker; local officials report 13 dead in attacks",
-      "description": "Military says series of strikes targeted imminent threats to troops; Palestinian officials say woman, pregnant with twins, and two children killed in strikes on homes near hospital The post IDF says Gaza strike killed Oct. 7 attacker; local officials report 13 dead in attacks appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-says-gaza-strike-killed-oct-7-attacker-local-officials-report-13-dead-in-attacks/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-25T20:05:02Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26115346650678-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

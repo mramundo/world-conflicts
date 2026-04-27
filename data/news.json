@@ -1,21 +1,51 @@
 {
-  "updated": "2026-04-27T05:10:53Z",
+  "updated": "2026-04-27T07:02:26Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-e9df2c879417",
-      "title": "Iran war tests role of Asian middle powers, says Thai ex-PM",
+      "id": "nik-b9e7bd09aa77",
+      "title": "Japan's biggest power producer blames Iran war for no earnings visibility",
       "description": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/iran-war-tests-role-of-asian-middle-powers-says-thai-ex-pm",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/japan-s-biggest-power-producer-blames-iran-war-for-no-earnings-visibility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-27T05:10:49Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F8%2F0%2F8%2F12398085-1-eng-GB%2F9d58b3a85695-20260403-1N9A4370-Photo-by-Ken-Kobayashi_c.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-04-27T07:02:22Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F7%2F1%2F6%2F11786179-2-eng-GB%2F52903a1b254d-photo_SXM2025102700004468.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-45eafde2e034",
+      "title": "Kim Jong-un reaffirms North Korea's support for Russia's 'sacred' Ukraine war",
+      "description": "North Korean leader Kim Jong-un reaffirmed support for Russia's invasion of Ukraine, and vowed to help Moscow achieve victory in its \"sacred war\". Pyongyang has sent missiles, munitions and thousands of troops to assist Russia in Ukraine, and analysts say Moscow is sending financial aid, military technology, food and e…",
+      "url": "https://www.france24.com/en/europe/20260427-kim-jong-un-reaffirms-north-korea-s-support-for-russia-s-sacred-ukraine-war",
+      "source": "France24",
+      "publishedAt": "2026-04-27T05:51:14Z",
+      "image": "https://s.france24.com/media/display/19acd12c-41fd-11f1-a76e-005056bf30b7/w:1024/p:16x9/b25abf50ab3622d601860b338ae62772dd28cdee.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-f820b53e5a48",
+      "title": "Iran said to offer US deal to reopen Hormuz and end war, delay talks on nuclear program",
+      "description": "As gathering restrictions reimposed in north amid Hezbollah attacks, Netanyahu nixes this year’s mass Lag B’Omer festivities on Mount Meron, citing fragility of Lebanon truce The post Iran said to offer US deal to reopen Hormuz and end war, delay talks on nuclear program appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/liveblog-april-27-2026/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-27T01:41:17Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26115512502589-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,6 +65,21 @@
       "tags": []
     },
     {
+      "id": "le -45a1aec3435c",
+      "title": "Syrian court conducts first hearing in trial of Bashar al-Assad",
+      "description": "Syria's new authorities have repeatedly vowed to provide justice and accountability for Assad-era atrocities, while activists and the international community have emphasized the importance of transitional justice in the war-ravaged country.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/04/26/syrian-court-conducts-first-hearing-in-trial-of-bashar-al-assad_6752859_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-04-26T21:39:04Z",
+      "image": "https://img.lemde.fr/2026/04/26/646/0/6000/3000/644/322/60/0/d6e6f95_ftp-1-mpjd4jplvxia-8567b1e805a64670b0d59da145ee23d8-0-81c45d18430d43b69cf227c539c582e1.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -7ff19dbcadee",
       "title": "Bomb attack on Colombia highway kills 19 ahead of election",
       "description": "Highway bombing in Colombia’s Cauca kills 19, injures dozens amid a surge in violence ahead of next month’s election.",
@@ -50,21 +95,6 @@
       "tags": []
     },
     {
-      "id": "tim-9f4221102353",
-      "title": "IDF soldier killed in south Lebanon drone attack as Israel, Hezbollah trade fire and blame",
-      "description": "6 Israeli troops wounded in strike inside Israeli-declared security zone; Netanyahu says Hezbollah 'dismantling ceasefire' as terror group defends actions as 'legitimate response' The post IDF soldier killed in south Lebanon drone attack as Israel, Hezbollah trade fire and blame appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-soldier-killed-in-south-lebanon-drone-attack-as-israel-hezbollah-trade-blame/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-26T18:29:35Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/סמל-עידן-פוקס-זל-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-bcce97b65840",
       "title": "Sale a 19 il bilancio delle vittime dell'attentato nel Cauca, in Colombia",
       "description": "L'ultimo aggiornamento diffuso dall'Istituto di medicina legale del governo",
@@ -76,21 +106,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-30a19407b9d5",
-      "title": "Malian Defence Minister Sadio Camara killed by rebels",
-      "description": "Mali’s Defence Minister Sadio Camara was killed in coordinated attacks targeting military sites, officials said, marking a major blow to the ruling junta. The killing comes amid a surge in violence by jihadist and rebel groups, raising fresh concerns over security in the West African nation. FRANCE 24's Justice Baidoo …",
-      "url": "https://www.france24.com/en/malian-defense-minister-killed-by-rebels",
-      "source": "France24",
-      "publishedAt": "2026-04-26T14:09:54Z",
-      "image": "https://s.france24.com/media/display/63815bd2-4172-11f1-8196-005056bf30b7/w:1024/p:16x9/EN-20260426-150340-150754-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

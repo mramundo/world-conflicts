@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T18:34:35Z",
+  "updated": "2026-04-27T19:35:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-warns-us-over-sanctions-misuse-after-oil-refiner-hengli-hit",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-27T18:34:32Z",
+      "publishedAt": "2026-04-27T19:35:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F2%2F8%2F12428265-1-eng-GB%2Fea1323bff17d-2018-09-10T102149Z_40899528_RC13B9547000_RTRMADP_3_CHINA-CNPC-HENGLI.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -0424d7a67672",
+      "title": "Bologna, a symbol of progressive Italy, is targeted by the far right",
+      "description": "Heir to humanist ideas and an antifascist culture established after World War II, the capital of Emilia-Romagna has become a laboratory for resistance to reactionary ideas in Italy.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/04/27/bologna-a-symbol-of-progressive-italy-is-targeted-by-the-far-right_6752896_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-04-27T18:30:02Z",
+      "image": "https://img.lemde.fr/2026/04/21/359/96/3655/1828/644/322/60/0/133b9f2_upload-1-z75qwx4lxh3s-laurent.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -31,6 +47,21 @@
         "conflict"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c53b504b9583",
+      "title": "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks",
+      "description": "The strikes were the first since the two agreed to halt the violence at peace talks last month.",
+      "url": "https://www.aljazeera.com/news/2026/4/27/ceasefire-at-risk-as-pakistan-and-afghanistan-report-cross-border-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-27T17:27:54Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69ef8889cb5a1-1777305737.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,22 +128,6 @@
       "tags": []
     },
     {
-      "id": "al -96c75aa1ec5e",
-      "title": "Lebanon cannot be bombed into sovereignty",
-      "description": "A sovereign Lebanon and a demilitarised Hezbollah cannot be achieved without a credible political transition.",
-      "url": "https://www.aljazeera.com/opinions/2026/4/27/lebanon-cannot-be-bombed-into-sovereignty?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-04-27T12:44:30Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-14T155205Z_381813362_RC23PKA0M9XT_RTRMADP_3_USA-ISRAEL-1777293811.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "ans-f8d7e967624e",
       "title": "Libano, 'respingeremo qualsiasi accordo umiliante con Israele'",
       "description": "Presidente Aoun a Hezbollah, 'portare il Paese in guerra è tradimento'",
@@ -124,22 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -5cf658f19061",
-      "title": "Iranian FM blames US for failure of talks while in Russia for diplomatic tour",
-      "description": "Speaking from Russia, where he is scheduled to meet with Vladimir Putin, Iranian Foreign Minister Abbas Araghchi said the US's 'excessive demands' had led the first round of peace talks, held in Pakistan, to fail 'despite progress.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/04/27/iranian-foreign-minister-blames-us-for-failure-of-talks_6752874_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-04-27T09:25:23Z",
-      "image": "https://img.lemde.fr/2026/04/27/160/0/2560/1280/644/322/60/0/a8c6642_ftp-1-osakwbxoujxl-2026-04-27t043009z-400512800-rc2gxkaqvgg1-rtrmadp-3-iran-crisis-araqchi-russia.JPG",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T17:34:41Z",
+  "updated": "2026-04-27T18:34:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-warns-us-over-sanctions-misuse-after-oil-refiner-hengli-hit",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-27T17:34:37Z",
+      "publishedAt": "2026-04-27T18:34:32Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F2%2F8%2F12428265-1-eng-GB%2Fea1323bff17d-2018-09-10T102149Z_40899528_RC13B9547000_RTRMADP_3_CHINA-CNPC-HENGLI.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-8a5d75850ab7",
+      "title": "Insurgent alliance strikes at heart of Mali’s junta, exposing limits of Russian protection",
+      "description": "Mali’s ruling junta was reeling on Monday after coordinated attacks by separatists and al Qaeda-linked jihadists sparked two days of fierce fighting across the country. It was the most serious challenge to Mali's central government since a 2012 rebel offensive was pushed back by the intervention of French forces.",
+      "url": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
+      "source": "France24",
+      "publishedAt": "2026-04-27T18:26:58Z",
+      "image": "https://s.france24.com/media/display/b6167316-4224-11f1-bbdb-005056bf30b7/w:1024/p:16x9/000-A92J2CE.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -79,21 +94,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-d48fe0c5ee56",
-      "title": "Mali's junta in crisis as defence minister killed, key city 'caputred'",
-      "description": "Mali's military rulers faced a security crisis Sunday after coordinated nationwide attacks by jihadist fighters and separatist rebels this weekend killed the defence minister and reportedly left a key northern town in rebel hands. France 24's Douglas Herbert takes a closer look.",
-      "url": "https://www.france24.com/en/video/20260427-mali-s-junta-in-crisis-as-defence-minister-killed-key-city-caputred",
-      "source": "France24",
-      "publishedAt": "2026-04-27T13:04:46Z",
-      "image": "https://s.france24.com/media/display/20263440-4229-11f1-887a-005056bf30b7/w:1024/p:16x9/EN-20260427-120915-121430-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

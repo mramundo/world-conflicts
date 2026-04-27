@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T11:37:27Z",
+  "updated": "2026-04-27T12:41:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,38 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-warns-us-over-sanctions-misuse-after-oil-refiner-hengli-hit",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-27T11:37:24Z",
+      "publishedAt": "2026-04-27T12:41:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F2%2F8%2F12428265-1-eng-GB%2Fea1323bff17d-2018-09-10T102149Z_40899528_RC13B9547000_RTRMADP_3_CHINA-CNPC-HENGLI.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-f8d7e967624e",
+      "title": "Libano, 'respingeremo qualsiasi accordo umiliante con Israele'",
+      "description": "Presidente Aoun a Hezbollah, 'portare il Paese in guerra è tradimento'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/27/libano-respingeremo-qualsiasi-accordo-umiliante-con-israele_26695c51-1e51-4c4d-9506-49d270335850.html",
+      "source": "ANSA",
+      "publishedAt": "2026-04-27T11:54:23Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/b1cdd7af5d979d0c3408ed9aff71105b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-ac4eddae1d40",
+      "title": "Iran war fertilizer squeeze could spell trouble for next year’s grain harvests",
+      "description": "Nitrogen-based fertilizers must be applied each season; but with prices of staple crops low, farmers lack the revenue to absorb the expense caused by closure of Strait of Hormuz The post Iran war fertilizer squeeze could spell trouble for next year&#8217;s grain harvests appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/iran-war-fertilizer-squeeze-could-spell-trouble-for-next-years-grain-harvests/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-27T11:13:45Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26115202329274-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -35,10 +65,10 @@
       "tags": []
     },
     {
-      "id": "deu-d55b80505e83",
-      "title": "Will the Iran war end supremacy of Strait of Hormuz?",
-      "description": "The conflict has brutally exposed the energy market's Achilles heel. While global powers China, India and the EU push renewables, Gulf leaders are advancing plans for new bypass pipelines to safeguard their oil empires.",
-      "url": "https://www.dw.com/en/will-the-iran-war-end-supremacy-of-strait-of-hormuz/a-76893004?maca=en-rss-en-world-4025-rdf",
+      "id": "deu-c00fc3404b7c",
+      "title": "Will the Iran war end Strait of Hormuz oil supremacy?",
+      "description": "The conflict has brutally exposed the energy market's Achilles' heel. While global powers China, India and the EU push renewables, Gulf leaders are advancing plans for new bypass pipelines to safeguard their oil empires.",
+      "url": "https://www.dw.com/en/will-the-iran-war-end-strait-of-hormuz-oil-supremacy/a-76893004?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-04-27T09:59:00Z",
       "image": "https://static.dw.com/image/76920451_6.jpg",
@@ -97,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "tim-f820b53e5a48",
-      "title": "Netanyahu said holding security consultations on Hezbollah ceasefire violations",
-      "description": "Terror group's leader rejects Lebanon-Israel direct talks, vows to confront Israel * IDF says it killed Hezbollah operatives near troops in south Lebanon as group continues drone attacks The post Netanyahu said holding security consultations on Hezbollah ceasefire violations appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/liveblog-april-27-2026/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-27T01:41:17Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AFP__20260427__A93A6UY__v1__HighRes__IsraelLebanonIranUsWar-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-7a56c48776c3",
       "title": "Lebanon health ministry says Israeli strikes kill 14 in deadliest day since ceasefire began",
       "description": "The Israeli government and Hezbollah have traded blame over breaches to the truce, which is set to run for several more weeksLebanon’s health ministry said Israeli strikes on the country’s south killed 14 people on Sunday, the deadliest day since a ceasefire between Israel and Hezbollah came into force over a week ago.…",
@@ -123,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-bcce97b65840",
-      "title": "Sale a 19 il bilancio delle vittime dell'attentato nel Cauca, in Colombia",
-      "description": "L'ultimo aggiornamento diffuso dall'Istituto di medicina legale del governo",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/04/26/sale-a-19-il-bilancio-delle-vittime-dellattentato-nel-cauca-in-colombia_5ad9e113-9015-4a1f-8b07-5e85c2ed1e57.html",
-      "source": "ANSA",
-      "publishedAt": "2026-04-26T15:24:52Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/4a5f908620cd37072b41d9a1cf7dcd9a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

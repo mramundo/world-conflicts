@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T14:46:00Z",
+  "updated": "2026-04-27T15:39:25Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-warns-us-over-sanctions-misuse-after-oil-refiner-hengli-hit",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-27T14:45:56Z",
+      "publishedAt": "2026-04-27T15:39:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F2%2F8%2F12428265-1-eng-GB%2Fea1323bff17d-2018-09-10T102149Z_40899528_RC13B9547000_RTRMADP_3_CHINA-CNPC-HENGLI.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-6ae82c696c90",
+      "title": "Starving Soldiers: Ukrainian Army's New Manpower Struggle",
+      "description": "The photos of the emaciated soldiers circulated widely, along with complaints from angry relatives, prompting the removal of the unit’s commander. Four-plus years into war with Russia, it’s the latest controversy highlighting some of Ukraine’s continuing problems with logistics and manpower.",
+      "url": "https://www.rferl.org/a/ukraine-russia-war-brigade-food-water-hungry/33743556.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-04-27T14:57:02Z",
+      "image": "https://gdb.rferl.org/8459c98c-4538-4f17-4a4d-08de3c92853e_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-4a95d27030a6",
+      "title": "IDF strikes Lebanon’s Beqaa Valley for first time in 3 weeks as towns in north cancel school",
+      "description": "Raids deeper in country follow continued Hezbollah fire; Lebanese president pans terror group for waging war serving 'foreign interests'; Hezbollah reportedly threatens suicide bombings The post IDF strikes Lebanon&#8217;s Beqaa Valley for first time in 3 weeks as towns in north cancel school appeared first on The Time…",
+      "url": "https://www.timesofisrael.com/idf-strikes-lebanons-beqaa-valley-for-first-time-in-3-weeks-amid-shaky-ceasefire/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-27T14:41:34Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AFP__20260427__A93N22V__v2__HighRes__TopshotIsraelLebanonIranUsWar-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-f299a57cfb53",
+      "title": "Mali’s militant attacks expose limits of Putin’s power in Africa",
+      "description": "Russian backing for the ruling junta has not stopped rebel fighters striking significant blows in recent daysMali in turmoil after insurgents seize towns and kill defence ministerWhen Assimi Goïta, the leader of Mali’s military junta, sat down with the Russian president, Vladimir Putin, in the Kremlin last summer, it s…",
+      "url": "https://www.theguardian.com/world/2026/apr/27/mali-militant-attacks-putin-russia-africa",
+      "source": "The Guardian",
+      "publishedAt": "2026-04-27T14:35:47Z",
+      "image": "https://i.guim.co.uk/img/media/866848c40566cce336578fb92ef2b69984ea16ed/524_0_5255_4204/master/5255.jpg?width=140&quality=85&auto=format&fit=max&s=3dcf1b4515ce4f94e681d9304ba8a551",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,21 +79,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-7aa501599745",
-      "title": "As Hamas prepares to choose 1st leader since Sinwar, postwar Gaza’s fate hangs in the balance",
-      "description": "Two leading contenders would pull terror group in different directions: prioritizing fighting to keep a grip on the Strip or conceding the battlefield in exchange for survival The post As Hamas prepares to choose 1st leader since Sinwar, postwar Gaza&#8217;s fate hangs in the balance appeared first on The Times of Isra…",
-      "url": "https://www.timesofisrael.com/as-hamas-chooses-first-leader-since-sinwar-fate-of-postwar-gaza-hangs-in-the-balance/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-27T13:25:09Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26079245218451-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -98,7 +129,7 @@
     },
     {
       "id": "le -5cf658f19061",
-      "title": "Iranian FM blames US for failure of talks as he lands in Russia for diplomatic tour",
+      "title": "Iranian FM blames US for failure of talks while in Russia for diplomatic tour",
       "description": "Speaking from Russia, where he is scheduled to meet with Vladimir Putin, Iranian Foreign Minister Abbas Araghchi said the US's 'excessive demands' had led the first round of peace talks, held in Pakistan, to fail 'despite progress.'",
       "url": "https://www.lemonde.fr/en/international/article/2026/04/27/iranian-foreign-minister-blames-us-for-failure-of-talks_6752874_4.html",
       "source": "Le Monde (EN)",
@@ -124,21 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-7a56c48776c3",
-      "title": "Lebanon health ministry says Israeli strikes kill 14 in deadliest day since ceasefire began",
-      "description": "The Israeli government and Hezbollah have traded blame over breaches to the truce, which is set to run for several more weeksLebanon’s health ministry said Israeli strikes on the country’s south killed 14 people on Sunday, the deadliest day since a ceasefire between Israel and Hezbollah came into force over a week ago.…",
-      "url": "https://www.theguardian.com/world/2026/apr/27/lebanon-israeli-strikes-deadliest-day-since-ceasefire-began",
-      "source": "The Guardian",
-      "publishedAt": "2026-04-27T00:26:19Z",
-      "image": "https://i.guim.co.uk/img/media/646682223e1ef8ee7df9ab3f2d74e206bb0beb2e/376_0_3760_3008/master/3760.jpg?width=140&quality=85&auto=format&fit=max&s=38e659033b015ca5e67c164f6d0eab23",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,22 +217,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-33a54d98dab2",
-      "title": "Ukrainians Fend Off Another Russian Mass Drone Attack",
-      "description": "A major Russian overnight air attack on ​Ukraine killed at least seven people and injured dozens more, targeting the southeastern city of Dnipro and other areas across the country.",
-      "url": "https://www.rferl.org/a/ukraine-dnipro-kyiv-russia-drone-strike-deadly-eu/33742322.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-04-25T13:06:01Z",
-      "image": "https://gdb.rferl.org/e1145cd2-0097-4c78-4aa0-08de3c92853e_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T01:40:26Z",
+  "updated": "2026-04-27T03:13:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/iran-war-tests-role-of-asian-middle-powers-says-thai-ex-pm",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-27T01:40:22Z",
+      "publishedAt": "2026-04-27T03:13:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F8%2F0%2F8%2F12398085-1-eng-GB%2F9d58b3a85695-20260403-1N9A4370-Photo-by-Ken-Kobayashi_c.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -31,6 +31,21 @@
         "conflict"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -7ff19dbcadee",
+      "title": "Bomb attack on Colombia highway kills 19 ahead of election",
+      "description": "Highway bombing in Colombia’s Cauca kills 19, injures dozens amid a surge in violence ahead of next month’s election.",
+      "url": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-26T20:15:29Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260425__A8YR8CJ__v1__HighRes__ColombiaCrimeAttackExplosion-1777230810.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -77,22 +92,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -79ac8d73600b",
-      "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
-      "description": "Regional de-escalation may shift focus to Gaza, where deadlock over Hamas weapons, future governance threatens &#039;truce&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-04-26T13:20:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-21T111519Z_540832063_RC2MTKA1UPEY_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1776779519.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     },
     {

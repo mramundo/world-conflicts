@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T16:38:01Z",
+  "updated": "2026-04-27T17:34:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-warns-us-over-sanctions-misuse-after-oil-refiner-hengli-hit",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-27T16:37:56Z",
+      "publishedAt": "2026-04-27T17:34:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F2%2F8%2F12428265-1-eng-GB%2Fea1323bff17d-2018-09-10T102149Z_40899528_RC13B9547000_RTRMADP_3_CHINA-CNPC-HENGLI.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-87d4cafb2a72",
+      "title": "Slain soldier’s girlfriend says at funeral that she saw his death in Lebanon in real time",
+      "description": "Idan Fooks, 19, killed in Hezbollah drone attack on Sunday, laid to rest; girlfriend was on duty as a surveillance soldier; mother recalls his 'heart filled with good intentions' The post Slain soldier’s girlfriend says at funeral that she saw his death in Lebanon in real time appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/slain-soldiers-girlfriend-says-at-his-funeral-that-she-saw-his-death-in-lebanon-in-real-time/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-27T16:54:04Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/F260427TG013-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,21 +48,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-4a95d27030a6",
-      "title": "IDF strikes Lebanon’s Beqaa Valley for first time in 3 weeks as towns in north cancel school",
-      "description": "Raids deeper in country follow continued Hezbollah fire; Lebanese president pans terror group for waging war serving 'foreign interests'; Hezbollah reportedly threatens suicide bombings The post IDF strikes Lebanon&#8217;s Beqaa Valley for first time in 3 weeks as towns in north cancel school appeared first on The Time…",
-      "url": "https://www.timesofisrael.com/idf-strikes-lebanons-beqaa-valley-for-first-time-in-3-weeks-amid-shaky-ceasefire/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-27T14:41:34Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AFP__20260427__A93N22V__v2__HighRes__TopshotIsraelLebanonIranUsWar-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -82,6 +82,21 @@
       "tags": []
     },
     {
+      "id": "fra-d48fe0c5ee56",
+      "title": "Mali's junta in crisis as defence minister killed, key city 'caputred'",
+      "description": "Mali's military rulers faced a security crisis Sunday after coordinated nationwide attacks by jihadist fighters and separatist rebels this weekend killed the defence minister and reportedly left a key northern town in rebel hands. France 24's Douglas Herbert takes a closer look.",
+      "url": "https://www.france24.com/en/video/20260427-mali-s-junta-in-crisis-as-defence-minister-killed-key-city-caputred",
+      "source": "France24",
+      "publishedAt": "2026-04-27T13:04:46Z",
+      "image": "https://s.france24.com/media/display/20263440-4229-11f1-887a-005056bf30b7/w:1024/p:16x9/EN-20260427-120915-121430-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -96c75aa1ec5e",
       "title": "Lebanon cannot be bombed into sovereignty",
       "description": "A sovereign Lebanon and a demilitarised Hezbollah cannot be achieved without a credible political transition.",
@@ -109,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-010773305019",
-      "title": "Israel, Hezbollah trade accusations over Lebanon truce violations",
-      "description": "Lebanon's health ministry said Israeli strikes on the country's south on Sunday killed 14 people, the deadliest day since a ceasefire in the Israel-Hezbollah war came into force over a week ago. It came as Israel and the Iran-backed group traded fresh accusations of breaching the fragile truce, with Prime Minister Benj…",
-      "url": "https://www.france24.com/en/video/20260427-israel-hezbollah-trade-accusations-over-lebanon-truce-violations",
-      "source": "France24",
-      "publishedAt": "2026-04-27T10:34:24Z",
-      "image": "https://s.france24.com/media/display/33b00bd8-4221-11f1-9dda-005056a97e36/w:1024/p:16x9/EN-20260427-104431-104603-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

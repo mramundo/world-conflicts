@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T10:45:11Z",
+  "updated": "2026-04-28T11:37:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/china-vows-forceful-steps-to-bolster-economy-as-iran-war-dims-outlook",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-28T10:45:07Z",
+      "publishedAt": "2026-04-28T11:37:40Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12437503-1-eng-GB%2F47347a1c46a8-2026-03-03T084245Z_1393750063_RC2UWJAT4Q7X_RTRMADP_3_CHINA-PARLIAMENT.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-8aba51085449",
+      "title": "Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts",
+      "description": "Two months after the U.S.-Israeli attack on Iran started the war, peace talks are on hold, with control of the Strait of Hormuz and the future of Iran's nuclear program as the two main points of contention.",
+      "url": "https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates",
+      "source": "NPR World",
+      "publishedAt": "2026-04-28T10:59:44Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6031x4020+0+0/resize/6031x4020!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2F7b%2F0531aaff4fdf992d5a0ef1f1b3fc%2Fap26114485261857.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -f438ad7760ab",
+      "title": "Born during Israel’s genocide: Gaza’s child survivors bear the scars of war",
+      "description": "Gaza’s youngest survivors face lifelong disabilities from toxic gas and burns as the healthcare system collapses.",
+      "url": "https://www.aljazeera.com/features/2026/4/28/born-during-israels-genocide-gazas-child-survivors-bear-the-scars-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-28T10:52:51Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/12-1777152267-copy-1777281645.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -63,22 +94,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e8f74e08e254",
-      "title": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
-      "description": "Despite setbacks, Hezbollah emerges as a key player, tied to Lebanon’s stability and US-Iran negotiations.",
-      "url": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-04-28T08:20:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69efde7184ea-1777327729.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -140,22 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-41cb87edfeec",
-      "title": "Iran's flurry of diplomacy continues in Russia, as Trump reviews Iran's latest proposal",
-      "description": "Iran's foreign minister arrived in Russia on Monday, after a whirlwind weekend of diplomacy, seeking to gain political leverage and foreign backing as peace talks with the U.S. remain on hold.",
-      "url": "https://www.npr.org/2026/04/27/nx-s1-5800669/iran-middle-east-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-04-27T11:32:55Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7565x5044+0+0/resize/7565x5044!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2F53%2Fa1d62b22499bbbb34fda5b8c0b97%2Fgettyimages-2272872291.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

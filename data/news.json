@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T23:23:26Z",
+  "updated": "2026-04-28T00:50:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/asean-money/iran-war-casts-garuda-indonesia-into-even-more-turbulent-skies",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-27T23:23:22Z",
+      "publishedAt": "2026-04-28T00:50:39Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F5%2F3%2F7%2F12427359-1-eng-GB%2F820366fc74ab-Prediksi-puncak-arus-balik-mudik-di-bandara-Tjilik-Riwut-03042025-Aul-2.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-cf71d02992ed",
+      "title": "Tuareg rebels in control of Kidal",
+      "description": "In today's edition, two days after a wave of coordinated attacks across the country, Mali remains on edge. Also, 42 people are killed in Chad after a clash between two families over a water point, escalated into a cycle of reprisals. And Kenya’s Sabastian Sawe smashes the two-hour barrier at the London marathon.",
+      "url": "https://www.france24.com/en/tuareg-rebels-in-control-of-kidal",
+      "source": "France24",
+      "publishedAt": "2026-04-27T21:21:06Z",
+      "image": "https://s.france24.com/media/display/cac61786-427d-11f1-85ac-005056bf30b7/w:1024/p:16x9/DN194236-A-01-20260423-01.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-0f2b3741ecde",
+      "title": "Fatal Hezbollah attack exposes gaps in IDF preparedness for first-person view drones",
+      "description": "No proper defense exists yet for explosive drones guided by fiber optic cable, which can't be jammed electronically; Israel only began looking into solutions during current war The post Fatal Hezbollah attack exposes gaps in IDF preparedness for first-person view drones appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/fatal-hezbollah-attack-exposes-gaps-in-idf-preparedness-for-first-person-view-drones/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-27T19:56:01Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/dronescombo-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -48,36 +78,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-8a5d75850ab7",
-      "title": "Insurgent alliance strikes at heart of Mali’s junta, exposing limits of Russian protection",
-      "description": "Mali’s ruling junta was reeling on Monday after coordinated attacks by separatists and al Qaeda-linked jihadists sparked two days of fierce fighting across the country. It was the most serious challenge to Mali's central government since a 2012 rebel offensive was pushed back by the intervention of French forces.",
-      "url": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
-      "source": "France24",
-      "publishedAt": "2026-04-27T18:26:58Z",
-      "image": "https://s.france24.com/media/display/b6167316-4224-11f1-bbdb-005056bf30b7/w:1024/p:16x9/000-A92J2CE.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-87d4cafb2a72",
-      "title": "Slain soldier’s girlfriend says at funeral that she saw his death in Lebanon in real time",
-      "description": "Idan Fooks, 19, killed in Hezbollah drone attack on Sunday, laid to rest; girlfriend was on duty as a surveillance soldier; mother recalls his 'heart filled with good intentions' The post Slain soldier’s girlfriend says at funeral that she saw his death in Lebanon in real time appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/slain-soldiers-girlfriend-says-at-his-funeral-that-she-saw-his-death-in-lebanon-in-real-time/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-27T16:54:04Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/F260427TG013-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

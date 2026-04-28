@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T07:02:55Z",
+  "updated": "2026-04-28T08:56:46Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-04-27T23:56:31Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-04-23",
       "wikipediaRevision": "2026-04-23T04:37:25Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 5
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-04-28",
       "wikipediaRevision": "2026-04-28T02:40:00Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     },
     {
       "id": "sd-war",
@@ -181,7 +181,7 @@
       ],
       "wikipediaPage": "Jihadist_insurgency_in_the_Sahel",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 4
     },
     {
       "id": "so-als",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 7
+      "recentNewsCount": 6
     },
     {
       "id": "et-am",
@@ -359,8 +359,8 @@
         "Armed groups"
       ],
       "wikipediaPage": "Colombian_conflict",
-      "lastUpdate": "2026-04-20",
-      "wikipediaRevision": "2026-04-20T05:14:59Z",
+      "lastUpdate": "2026-04-28",
+      "wikipediaRevision": "2026-04-28T08:21:31Z",
       "recentNewsCount": 0
     },
     {
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T17:37:23Z",
+  "updated": "2026-04-28T18:38:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/construction/komatsu-expects-profits-to-tumble-16-on-iran-war-us-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-28T17:37:19Z",
+      "publishedAt": "2026-04-28T18:38:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F8%2F8%2F12438892-3-eng-GB%2Fada5bba293b9-photo_SXM2026042800005197.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-56aa70101065",
+      "title": "Insurgents reshaping Mali: Tuaregs seek autonomy, jihadists pursue caliphate across Sahel",
+      "description": "Annette Young is pleased to welcome Nina Wilen, Director of the Africa Programme at the Egmont Institute. According to Ms. Wilen, the insurgency in Mali reflects shifting power balances across the Sahel. What we are witnessing is not simply a surge in violence, but a reconfiguration of authority, where Tuareg rebels an…",
+      "url": "https://www.france24.com/en/video/20260428-insurgents-reshaping-mali-tuaregs-seek-autonomy-jihadists-pursue-caliphate-across-sahel-1",
+      "source": "France24",
+      "publishedAt": "2026-04-28T18:12:33Z",
+      "image": "https://s.france24.com/media/display/4a6942a2-4322-11f1-a223-005056a97e36/w:1024/p:16x9/EN-20260428-150052-151323-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,22 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-591106b218b0",
-      "title": "Mali capital 'not under threat, but long term prospects do not look good', analyst says",
-      "description": "Speaking with FRANCE 24's Sharon Gaffney, Dr Nathaniel Powell, West Africa Analyst at Oxford Analytica and Research Associate at Lancaster University's Centre for War and Diplomacy, explains that the jihadist group operating in Mali, JNIM, \"does not appear to have the capability to seize and hold an urban area for any …",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260428-mali-capital-not-under-threat-but-long-term-prospects-do-not-look-good-analyst-says",
-      "source": "France24",
-      "publishedAt": "2026-04-28T16:29:37Z",
-      "image": "https://s.france24.com/media/display/f34cb49c-431a-11f1-ad73-005056bf30b7/w:1024/p:16x9/EN-20260427-223107-224119-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -160,8 +159,8 @@
     },
     {
       "id": "un -7f81796df705",
-      "title": "SECURITY COUNCIL LIVE: Gaza in focus",
-      "description": "The Security Council turns again to the Middle East crisis in New York on Tuesday, with scheduled debate expected to focus on the fragile Gaza ceasefire, a worsening humanitarian crisis there and efforts to advance a US-backed peace plan. UN Assistant Secretary-General for political affairs Khaled Khiari is set to brie…",
+      "title": "SECURITY COUNCIL LIVE: Gaza ceasefire is ‘increasingly fragile’, UN warns",
+      "description": "The Security Council turns again to the Middle East crisis in New York on Tuesday, with debate focusing on the fragile Gaza ceasefire, a worsening humanitarian crisis there and efforts to advance a US-backed peace plan.UN senior political affairs official Khaled Khiari warned of increasingly dire conditions in Gaza and…",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167392",
       "source": "UN News",
       "publishedAt": "2026-04-28T12:00:00Z",
@@ -170,7 +169,7 @@
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -205,6 +204,21 @@
       "tags": []
     },
     {
+      "id": "cs -db08f32c440f",
+      "title": "For Ukraine’s museums, Russia’s war gives ‘preservation’ new meaning",
+      "description": "Ukraine’s cultural institutions are targets of the Kremlin’s war. That has made the security of the country’s cultural cache a priority among museums.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0427/ukraine-museum-culture-war-russia-preservation-reconstruction?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-04-27T17:05:09Z",
+      "image": "https://images.csmonitor.com/csm/2026/04/0424_OUKRMUSEUMS_Kateryna_Kulai_LEDE.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-8897ea6ce5fa",
       "title": "Two Dead in Kramatorsk as Russian Shelling Hits Residential Area",
       "description": "A woman and a man were killed while standing on the street during a morning strike on the Donetsk region city, which also damaged eight homes and wounded a 50-year-old civilian.",
@@ -216,21 +230,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -1aceb7a6bf9a",
-      "title": "Trump cancels envoys' Pakistan trip, in blow to hopes for Iran war breakthrough",
-      "description": "Peace talks between the U.S. and Iran were scheduled to continue Saturday in Pakistan, but they fell apart after President Donald Trump announced that he would not be sending U.S. envoys to take part in negotiations.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0425/Trump-U.S.-Iran-Pakistan-peace-talks?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-04-25T18:04:46Z",
-      "image": "https://images.csmonitor.com/csm/2026/04/1210481_1_Islamabad%20meeting_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

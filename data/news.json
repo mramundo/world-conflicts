@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T18:38:56Z",
+  "updated": "2026-04-28T19:36:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/construction/komatsu-expects-profits-to-tumble-16-on-iran-war-us-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-28T18:38:52Z",
+      "publishedAt": "2026-04-28T19:36:00Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F8%2F8%2F12438892-3-eng-GB%2Fada5bba293b9-photo_SXM2026042800005197.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -34195513ea53",
+      "title": "Mali military leader Goita emerges as Russia declares it halted coup",
+      "description": "First sighting of Goita since rebel attacks comes as Russia seeks to dampen speculation over ally&#039;s military government.",
+      "url": "https://www.aljazeera.com/news/2026/4/28/malis-military-leader-goita-emerges-as-russia-declares-it-halted-coup?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-28T18:48:24Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69f0eae6-1777396454.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -37,7 +52,7 @@
     {
       "id": "the-31e18f5f751f",
       "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
-      "description": "Kremlin-controlled paramilitaries also alleged it inflicted ‘irreplaceable losses’ on insurgents avoiding civilian casualtiesRussia’s defence ministry has claimed its Africa Corps – the successor to the former Wagner mercenary group – had prevented a coup in Mali over the weekend, avoiding mass civilian casualties and …",
+      "description": "Kremlin-controlled paramilitaries also alleged it inflicted ‘irreplaceable losses’ on insurgents avoiding civilian casualtiesRussia’s defence ministry has claimed its Africa Corps – the successor to the former Wagner mercenary group – prevented a coup in Mali over the weekend, avoiding mass civilian casualties and infl…",
       "url": "https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
       "source": "The Guardian",
       "publishedAt": "2026-04-28T17:07:27Z",
@@ -140,21 +155,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -ad146fa71181",
-      "title": "‘War crime’: Afghan-Pakistan truce under strain after university strike",
-      "description": "Civilian casualties in Kunar spur tensions as Pakistan denies role, casting shadow over ceasefire and peace talks.",
-      "url": "https://www.aljazeera.com/news/2026/4/28/war-crime-afghan-pakistan-truce-under-strain-after-university-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-04-28T12:48:47Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-02-28T071926Z_1101158387_RC2VUJA9G3BV_RTRMADP_3_AFGHANISTAN-PAKISTAN-1777370581.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

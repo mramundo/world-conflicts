@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T19:36:04Z",
+  "updated": "2026-04-28T20:34:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/construction/komatsu-expects-profits-to-tumble-16-on-iran-war-us-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-28T19:36:00Z",
+      "publishedAt": "2026-04-28T20:33:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F8%2F8%2F12438892-3-eng-GB%2Fada5bba293b9-photo_SXM2026042800005197.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -cecef72d59f4",
+      "title": "Their nation at war, Israelis still demand to know: How could Oct. 7 happen?",
+      "description": "Amid wars with Iran and Hezbollah, Israelis still very much want an independent state commission of inquiry to learn the truth about the failure to prevent the Hamas attack that sparked the Gaza war. Israel’s top court has given the Netanyahu government more time.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0428/israel-netanyahu-gaza-war-official-inquiry?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-04-28T19:47:52Z",
+      "image": "https://images.csmonitor.com/csm/2026/04/0428_OISRINQUIRY_PROTEST.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -65,6 +80,22 @@
       "tags": []
     },
     {
+      "id": "bbc-dbec16f307c4",
+      "title": "What next for Mali's junta after shock of rebel offensive?",
+      "description": "The military came to power to bolster security but the weekend's attacks have brought that into question.",
+      "url": "https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-04-28T16:40:27Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b8/live/6ccd6b30-4312-11f1-bd52-e755d604ece4.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "tim-528a477f4b18",
       "title": "Israel says no proof Russian grain shipment ‘stolen,’ as Ukraine threatens sanctions",
       "description": "FM Sa'ar again accuses Zelensky of 'Twitter diplomacy,' after Ukrainian president says Israel 'cannot be unaware' cargo at Haifa port came from Russian-occupied territory The post Israel says no proof Russian grain shipment &#8216;stolen,&#8217; as Ukraine threatens sanctions appeared first on The Times of Israel.",
@@ -78,22 +109,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-96ab9cb4ed3f",
-      "title": "IS says it was behind deadly Nigeria attack on football pitch",
-      "description": "Authorities say the militants raided a football pitch where people had been gathering and opened fire at random.",
-      "url": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-04-28T15:31:46Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff49/live/813b45e0-42e7-11f1-bd52-e755d604ece4.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -200,21 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -db08f32c440f",
-      "title": "For Ukraine’s museums, Russia’s war gives ‘preservation’ new meaning",
-      "description": "Ukraine’s cultural institutions are targets of the Kremlin’s war. That has made the security of the country’s cultural cache a priority among museums.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0427/ukraine-museum-culture-war-russia-preservation-reconstruction?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-04-27T17:05:09Z",
-      "image": "https://images.csmonitor.com/csm/2026/04/0424_OUKRMUSEUMS_Kateryna_Kulai_LEDE.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

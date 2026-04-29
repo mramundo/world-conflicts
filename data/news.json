@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T12:41:27Z",
+  "updated": "2026-04-29T13:39:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/extortion-is-latest-russian-war-tactic-targeting-ukraine-families",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-29T12:41:23Z",
+      "publishedAt": "2026-04-29T13:39:05Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F1%2F6%2F3%2F12433618-3-eng-GB%2F5b569f3cf586-IMG_9187-1-.jpeg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-4ad9bff135be",
+      "title": "Afghanistan: Shiite and other minorities living in fear",
+      "description": "An attack on a Shiite place of worship in Herat killed least 11 people. While the Taliban have pledged protection, a sense of structural vulnerability is growing within the Shiite community.",
+      "url": "https://www.dw.com/en/afghanistan-shiite-and-other-minorities-living-in-fear/a-76980856?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-04-29T13:07:00Z",
+      "image": "https://static.dw.com/image/76779791_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-d33c3d47ebbe",
+      "title": "Colombian election reflects on ‘total peace’ promise as violence surges again",
+      "description": "Four years after president’s pledge, his would-be successors are divided on how to tackle rising guerrilla attacksThe landmark 2016 peace deal between the Colombian government and the largest insurgent army in Latin America succeeded in some ways: the Revolutionary Armed Forces of Colombia (Farc) agreed to lay down the…",
+      "url": "https://www.theguardian.com/world/2026/apr/29/colombia-election-total-peace-promise-violence",
+      "source": "The Guardian",
+      "publishedAt": "2026-04-29T13:03:06Z",
+      "image": "https://i.guim.co.uk/img/media/7742e901010aa4c7516f291c9c7d464e236f6542/580_0_4570_3657/master/4570.jpg?width=140&quality=85&auto=format&fit=max&s=e30ef17333a253dc0ec38af1a281242f",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "the-cc49219c8871",
-      "title": "Kim praises North Korean soldiers who blew themselves up to evade Ukraine capture",
-      "description": "Leader mentions for first time lengths to which troops go to avoid falling into enemy hands while fighting for RussiaKim Jong-un has praised North Korean soldiers who blew themselves up with grenades in order to avoid capture while fighting Ukrainian forces in Russia’s western Kursk region, confirming the existence of …",
-      "url": "https://www.theguardian.com/world/2026/apr/29/kim-north-korea-soldiers-blow-themselves-up-ukraine",
-      "source": "The Guardian",
-      "publishedAt": "2026-04-29T11:34:08Z",
-      "image": "https://i.guim.co.uk/img/media/828f710adfb20b22794ff088bb5894583dc7d68c/1265_164_3749_2999/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=d959b5dd145e25ba22d5aa890bba4405",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -38418834bd45",
       "title": "Malian jihadists and rebels ramp up pressure on junta: 'We are blocking Bamako'",
       "description": "Jihadists from the Al Qaeda-affiliated group JNIM announced a total siege of the Malian capital on Tuesday. At least five towns in the country's north have fallen to the attackers. 'The situation is under control,' President Assimi Goita said.",
@@ -92,22 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-9a7356fec343",
-      "title": "Israel in Lebanon: Is the 'security buffer zone' legal?",
-      "description": "Buffer zones occupy a grey area in international humanitarian law, as rules around them in contemporary warfare are not particularly clear.",
-      "url": "https://www.dw.com/en/israel-in-lebanon-is-the-security-buffer-zone-legal/a-76971183?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-04-29T09:05:00Z",
-      "image": "https://static.dw.com/image/76897504_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

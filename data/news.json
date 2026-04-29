@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T05:10:36Z",
+  "updated": "2026-04-29T06:58:01Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,27 +10,12 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/construction/komatsu-expects-profits-to-tumble-16-on-iran-war-us-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-29T05:10:32Z",
+      "publishedAt": "2026-04-29T06:57:57Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F8%2F8%2F12438892-3-eng-GB%2Fada5bba293b9-photo_SXM2026042800005197.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-9d4787e54c4a",
-      "title": "Trump: 'Gli Usa hanno sconfitto l'Iran'. Teheran: 'Per noi la guerra non è finita con il cessate il fuoco'",
-      "description": "Bessent: 'l'Iran dovrà ridurre la produzione di petrolio'. Il Regime scrive all'Onu: 'Pirateria Usa il sequestro delle nostre navi'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/04/29/trump-gli-usa-hanno-sconfitto-liran.-teheran-per-noi-la-guerra_b56255ed-b788-49d1-8202-c1e39de500b2.html",
-      "source": "ANSA",
-      "publishedAt": "2026-04-29T05:06:45Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/8531d42e92dd0ef888e7fe14913fa53e.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,18 +51,32 @@
       "tags": []
     },
     {
-      "id": "fra-ef08f4c961f4",
-      "title": "Continuing hostilities in Lebanon as 1.2 million displaced sink into despair",
-      "description": "Despite a U.S.-brokered ceasefire, Israel has continued striking Lebanon and its troops are occupying a strip of the south, destroying homes they describe as Hezbollah infrastructure. Hezbollah, meanwhile, has kept up attacks against Israeli troops in Lebanon and on northern Israel. The continuing hostilities have caus…",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260428-continuing-hostilities-in-lebanon-as-1-2-million-displaced-sink-into-despair",
+      "id": "fra-2b9dc8360d32",
+      "title": "Middle East peace talks stall amid Hormuz tensions, ceasefire violations in Lebanon",
+      "description": "Efforts to revive talks over the Middle East war have stalled as the US weighs Iran’s latest proposal on reopening the Strait of Hormuz, a key oil route, while tensions in Lebanon continue to escalate despite a fragile ceasefire between Israel and Hezbollah.",
+      "url": "https://www.france24.com/en/middle-east/20260428-iran-talks-stall-amid-hormuz-tensions-and-ceasefire-violations-in-lebanon",
       "source": "France24",
-      "publishedAt": "2026-04-28T21:25:45Z",
-      "image": "https://s.france24.com/media/display/3980282e-4346-11f1-8411-005056a97e36/w:1024/p:16x9/EN-20260428-223116-224143-CS.jpg",
+      "publishedAt": "2026-04-28T23:28:18Z",
+      "image": "https://s.france24.com/media/display/00bf7118-3ef8-11f1-bb38-005056bf30b7/w:1024/p:16x9/c599a2f9a929c41daa35d76ac6d8ef2b436cc656.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-475718d5def7",
+      "title": "Mosca, il 9 maggio si terrà una parata militare nella Piazza Rossa",
+      "description": "Per commemorare l'81° anniversario della vittoria nella Seconda guerra mondiale",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/28/mosca-il-9-maggio-si-terra-una-parata-militare-nella-piazza-rossa_ec053f98-a682-4728-82f6-9776d17290f1.html",
+      "source": "ANSA",
+      "publishedAt": "2026-04-28T20:52:08Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2025/5/9/22778545be52f5e4a815e149c7675e28.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -128,7 +127,7 @@
     },
     {
       "id": "bbc-dbec16f307c4",
-      "title": "What next for Mali's junta after shock of rebel offensive?",
+      "title": "What next for Mali's military leaders after shock of rebel offensive?",
       "description": "The military came to power to bolster security but the weekend's attacks have brought that into question.",
       "url": "https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -138,7 +137,7 @@
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T20:30:34Z",
+  "updated": "2026-04-29T21:28:25Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/extortion-is-latest-russian-war-tactic-targeting-ukraine-families",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-29T20:30:30Z",
+      "publishedAt": "2026-04-29T21:28:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F1%2F6%2F3%2F12433618-3-eng-GB%2F5b569f3cf586-IMG_9187-1-.jpeg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -25,12 +25,27 @@
       "description": "Colloquio di un'ora e mezza tra i due presidenti. Lo zar apre a una tregua con Kiev nel Giorno della Vittoria",
       "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/29/putin-a-trump-disposto-a-dichiarare-la-tregua-per-il-giorno-della-vittoria_6c92214b-0bcf-4134-be65-028ee8718e64.html",
       "source": "ANSA",
-      "publishedAt": "2026-04-29T20:24:28Z",
+      "publishedAt": "2026-04-29T20:50:27Z",
       "image": "https://www.ansa.it/webimages/img_1129x635/2026/1/21/c18916405e254be3bddfeb951d432bb8.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-557630ae63f8",
+      "title": "Kremlin: Putin Wants Victory Day Truce",
+      "description": "Vladimir Putin discussed a possible Victory Day truce with Donald Trump, despite past Russian ceasefire pledges that Ukraine says were repeatedly violated.",
+      "url": "https://www.kyivpost.com/post/75048",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-04-29T20:38:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/03/11/d60b4417c75a3c8a6420374585bda18d.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -213,21 +228,6 @@
       "categories": [
         "conflict",
         "humanitarian"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-41aed55e7e32",
-      "title": "Russia Uses Foliage as Cover to Probe Ukrainian Lines: New Twist in Battlefield Tactics",
-      "description": "Ukrainian search‑and‑strike operations are containing Russian advances across many frontline areas, as troops attempt to use spring foliage to hide their movements.",
-      "url": "https://www.kyivpost.com/post/74875",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-04-27T17:25:00Z",
-      "image": "https://static.kyivpost.com/storage/2024/06/04/176f8550a4ecd9dacbf1d74b5c006799.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
       ],
       "relevanceScore": 9,
       "isAnalysis": false,

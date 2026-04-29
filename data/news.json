@@ -1,21 +1,68 @@
 {
-  "updated": "2026-04-29T08:52:49Z",
+  "updated": "2026-04-29T09:47:21Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-5464dbdbd356",
-      "title": "Komatsu expects profits to tumble 16% on Iran war, US tariffs",
+      "id": "nik-1672e540a481",
+      "title": "Extortion is latest Russian war tactic targeting Ukraine families",
       "description": "",
-      "url": "https://asia.nikkei.com/business/construction/komatsu-expects-profits-to-tumble-16-on-iran-war-us-tariffs",
+      "url": "https://asia.nikkei.com/politics/ukraine-war/extortion-is-latest-russian-war-tactic-targeting-ukraine-families",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-29T08:52:45Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F8%2F8%2F12438892-3-eng-GB%2Fada5bba293b9-photo_SXM2026042800005197.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-04-29T09:47:17Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F1%2F6%2F3%2F12433618-3-eng-GB%2F5b569f3cf586-IMG_9187-1-.jpeg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-9a7356fec343",
+      "title": "Israel in Lebanon: Is the 'security buffer zone' legal?",
+      "description": "Buffer zones occupy a grey area in international humanitarian law, as rules around them in contemporary warfare are not particularly clear.",
+      "url": "https://www.dw.com/en/israel-in-lebanon-is-the-security-buffer-zone-legal/a-76971183?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-04-29T09:05:00Z",
+      "image": "https://static.dw.com/image/76897504_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-dbec16f307c4",
+      "title": "What next for Mali's military leaders after shock of rebel offensive?",
+      "description": "The military came to power to bolster security but the weekend's attacks have brought that into question.",
+      "url": "https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-04-29T09:03:55Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b8/live/6ccd6b30-4312-11f1-bd52-e755d604ece4.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -ae3e0bdb6082",
+      "title": "Indonesia puts four soldiers on trial over acid attack on activist",
+      "description": "The accused face up to 12 years in prison for the attack that burned one-fifth of activist Andrie Yunus&#039;s body.",
+      "url": "https://www.aljazeera.com/news/2026/4/29/indonesia-court-starts-trial-of-soldiers-accused-of-acid-attack-on-activist?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-29T08:55:06Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69f1c05105844-1777451089.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,22 +82,6 @@
       "tags": []
     },
     {
-      "id": "bbc-dbec16f307c4",
-      "title": "What next for Mali's military leaders after shock of rebel offensive?",
-      "description": "The military came to power to bolster security but the weekend's attacks have brought that into question.",
-      "url": "https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-04-29T07:57:17Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b8/live/6ccd6b30-4312-11f1-bd52-e755d604ece4.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "ans-fe40d7fdd577",
       "title": "Von der Leyen, 'guerra in Iran costa all'Ue 500 milioni al giorno per energia'",
       "description": "'In due mesi +27 miliardi per l'import, gli effetti potrebbero pesare per anni'",
@@ -62,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -41ac92a3859d",
-      "title": "Life in limbo: How Iranians navigate a state of ‘no war, no peace’",
-      "description": "Tehran’s residents are living through a fragile truce and deep economic uncertainty.",
-      "url": "https://www.aljazeera.com/economy/2026/4/29/life-in-limbo-how-iranians-navigate-a-state-of-no-war-no-peace?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-04-29T06:58:36Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/5677cabfa-1777290565-copy-1777379218.jpg?resize=1920%2C1280&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,18 +112,19 @@
       "tags": []
     },
     {
-      "id": "le -5e154ad47e95",
-      "title": "As Mali's junta struggles, Algeria regains some of its influence in the Sahel",
-      "description": "The setbacks the Malian junta has suffered against insurgent groups have reestablished Algiers as a mediator, after years of waning influence in the region.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/04/29/as-mali-s-junta-struggles-algeria-regains-some-of-its-influence-in-the-sahel_6752945_4.html",
+      "id": "le -3a9a68355fdb",
+      "title": "Marlène Laruelle: 'Orban's defeat is a particularly strategic loss for Russia'",
+      "description": "The setback for the former Hungarian prime minister, who had fueled the Kremlin's narrative that Europe was reluctant to support Ukraine, has undermined Vladimir Putin's plans, even though the battle against illiberalism is far from won, explains the historian and political scientist.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/04/29/marlene-laruelle-orban-s-defeat-is-a-particularly-strategic-loss-for-russia_6752946_23.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-04-29T00:23:42Z",
-      "image": "https://img.lemde.fr/2026/04/26/222/0/4200/2100/644/322/60/0/79136fe_ftp-1-edkfn0cjreby-5875232-01-06.jpg",
+      "publishedAt": "2026-04-29T01:12:16Z",
+      "image": "https://img.lemde.fr/2026/04/25/1110/0/2761/1380/644/322/60/0/b08a1a4_upload-1-opdhwon6dadc-legendre-marle-ne-laruelle.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -199,21 +216,6 @@
         "humanitarian"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-2437e8f9bcf6",
-      "title": "Mali junta destabilized by 'unprecedented' insurgency",
-      "description": "After extremist attacks killed Mali's defense minister and hit several cities, the unrest now poses a serious challenge to the ruling junta, analysts say.",
-      "url": "https://www.dw.com/en/mali-junta-destabilized-by-unprecedented-insurgency/a-76955690?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-04-27T18:46:00Z",
-      "image": "https://static.dw.com/image/76949894_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T21:28:25Z",
+  "updated": "2026-04-29T22:24:38Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/extortion-is-latest-russian-war-tactic-targeting-ukraine-families",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-29T21:28:22Z",
+      "publishedAt": "2026-04-29T22:24:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F1%2F6%2F3%2F12433618-3-eng-GB%2F5b569f3cf586-IMG_9187-1-.jpeg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -25,7 +25,7 @@
       "description": "Colloquio di un'ora e mezza tra i due presidenti. Lo zar apre a una tregua con Kiev nel Giorno della Vittoria",
       "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/29/putin-a-trump-disposto-a-dichiarare-la-tregua-per-il-giorno-della-vittoria_6c92214b-0bcf-4134-be65-028ee8718e64.html",
       "source": "ANSA",
-      "publishedAt": "2026-04-29T20:50:27Z",
+      "publishedAt": "2026-04-29T21:33:58Z",
       "image": "https://www.ansa.it/webimages/img_1129x635/2026/1/21/c18916405e254be3bddfeb951d432bb8.jpg",
       "categories": [
         "conflict"
@@ -42,6 +42,21 @@
       "source": "Kyiv Post",
       "publishedAt": "2026-04-29T20:38:00Z",
       "image": "https://static.kyivpost.com/storage/2026/03/11/d60b4417c75a3c8a6420374585bda18d.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-90d47893cce4",
+      "title": "IDF chief says there’s ‘no ceasefire’ in south Lebanon amid continued fighting with Hezbollah",
+      "description": "Trump reportedly pushing back on Israeli efforts to limit talks with Beirut, return to large-scale war; 1 million Lebanese will face food insecurity in coming months, monitor warns The post IDF chief says there&#8217;s ‘no ceasefire’ in south Lebanon amid continued fighting with Hezbollah appeared first on The Times of…",
+      "url": "https://www.timesofisrael.com/idf-chief-says-theres-no-ceasefire-in-south-lebanon-amid-continued-fighting-with-hezbollah/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-29T20:13:49Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/bc6f414d-19b6-45d1-b607-7c9c8f4f050e-1-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -107,21 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-693d83218d83",
-      "title": "Lebanese soldier said killed in Israeli strike, Hezbollah fires 2 rockets at north amid truce",
-      "description": "Fire on Galilee is latest ceasefire violation by Iran-backed terror group; Lebanese media reports dozens of strikes, home demolitions across south Lebanon; security cabinet meets at Kirya The post Lebanese soldier said killed in Israeli strike, Hezbollah fires 2 rockets at north amid truce appeared first on The Times o…",
-      "url": "https://www.timesofisrael.com/lebanese-soldier-said-killed-in-israeli-strike-hezbollah-fires-2-rockets-at-north-amid-truce/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-29T14:40:44Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26119383168190-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

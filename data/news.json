@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T19:36:17Z",
+  "updated": "2026-04-29T20:30:34Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/extortion-is-latest-russian-war-tactic-targeting-ukraine-families",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-29T19:36:09Z",
+      "publishedAt": "2026-04-29T20:30:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F1%2F6%2F3%2F12433618-3-eng-GB%2F5b569f3cf586-IMG_9187-1-.jpeg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-435ac7f93935",
+      "title": "Putin chiama Trump: 'Dare una chance ai negoziati con l'Iran'",
+      "description": "Colloquio di un'ora e mezza tra i due presidenti. Lo zar apre a una tregua con Kiev nel Giorno della Vittoria",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/29/putin-a-trump-disposto-a-dichiarare-la-tregua-per-il-giorno-della-vittoria_6c92214b-0bcf-4134-be65-028ee8718e64.html",
+      "source": "ANSA",
+      "publishedAt": "2026-04-29T20:24:28Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/1/21/c18916405e254be3bddfeb951d432bb8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-4b60b6183c53",
+      "title": "What are the sticking points for the EU's new budget?",
+      "description": "The battle over the next long-term EU budget has begun. The EU's institutions have staked out their positions and are seeking significantly more funding, but it is the 27 member states that will ultimately decide.",
+      "url": "https://www.dw.com/en/what-are-the-sticking-points-for-the-eu-s-new-budget/a-76987127?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-04-29T19:47:00Z",
+      "image": "https://static.dw.com/image/74350204_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -31,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-435ac7f93935",
-      "title": "Putin a Trump: 'Disposto a dichiarare la tregua per il Giorno della Vittoria'",
-      "description": "Telefonata tra i due presidenti. La ricorrenza cade il 9 maggio. Il tycoon: troveremo una soluzione alla guerra",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/29/putin-a-trump-disposto-a-dichiarare-la-tregua-per-il-giorno-della-vittoria_6c92214b-0bcf-4134-be65-028ee8718e64.html",
-      "source": "ANSA",
-      "publishedAt": "2026-04-29T19:08:28Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/1/21/c18916405e254be3bddfeb951d432bb8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -102,21 +118,6 @@
       "source": "NPR World",
       "publishedAt": "2026-04-29T14:16:41Z",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2Fb6%2Fc0595bf94ed79181ff016b9d0377%2Ffarflungpostcard-efeng.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-4ad9bff135be",
-      "title": "Afghanistan: Shiite and other minorities living in fear",
-      "description": "An attack on a Shiite place of worship in Herat killed least 11 people. While the Taliban have pledged protection, a sense of structural vulnerability is growing within the Shiite community.",
-      "url": "https://www.dw.com/en/afghanistan-shiite-and-other-minorities-living-in-fear/a-76980856?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-04-29T13:07:00Z",
-      "image": "https://static.dw.com/image/76779791_6.jpg",
       "categories": [
         "conflict"
       ],

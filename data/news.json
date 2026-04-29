@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T14:50:37Z",
+  "updated": "2026-04-29T15:44:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/extortion-is-latest-russian-war-tactic-targeting-ukraine-families",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-29T14:50:33Z",
+      "publishedAt": "2026-04-29T15:44:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F1%2F6%2F3%2F12433618-3-eng-GB%2F5b569f3cf586-IMG_9187-1-.jpeg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-89854b694984",
+      "title": "Pentagono, la guerra contro l'Iran è costata finora 25 miliardi di dollari",
+      "description": "'Per la maggior parte per le decine di migliaia di bombe e missili utilizzati'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/04/29/pentagono-la-guerra-contro-liran-e-costata-finora-25-miliardi-di-dollari_7a6bde5d-8be2-46d3-aedb-bd30ab9df71e.html",
+      "source": "ANSA",
+      "publishedAt": "2026-04-29T15:20:06Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2024/4/14/1448be2c7b2e12d859c2ce348b0193b2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -139,21 +154,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-fe40d7fdd577",
-      "title": "Von der Leyen, 'guerra in Iran costa all'Ue 500 milioni al giorno per energia'",
-      "description": "'In due mesi +27 miliardi per l'import, gli effetti potrebbero pesare per anni'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/29/von-der-leyen-guerra-in-iran-costa-allue-500-milioni-al-giorno_8f8b92b5-b9b7-47f1-ad7d-da7af233d316.html",
-      "source": "ANSA",
-      "publishedAt": "2026-04-29T07:27:56Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/9b00182f2d6ac7744f92b7f2f3d045fe.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

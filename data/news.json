@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T09:47:08Z",
+  "updated": "2026-04-30T10:39:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/everything-had-been-looted-myanmar-s-civil-war-takes-heavy-toll",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-30T09:47:04Z",
+      "publishedAt": "2026-04-30T10:39:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F0%2F7%2F12337049-1-eng-GB%2Fa5a0cab969ff-PXL_20260203_010703331.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -95,9 +95,24 @@
       "tags": []
     },
     {
+      "id": "bbc-6c086ef173d6",
+      "title": "Three takeaways from Hegseth's clash with lawmakers over Iran war",
+      "description": "The hours-long hearing was the first time the US defence secretary had faced questions under oath since the conflict began.",
+      "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-04-29T22:22:18Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab6d/live/3a55b650-440f-11f1-8343-8378511e4aa9.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "fra-3692dc687b20",
       "title": "Assad regime trials are 'integral for Syria to move on' from civil war, atrocities",
-      "description": "A Syrian court conducted the first hearing Sunday in the trial of ousted ruler Bashar al-Assad and senior figures from his government, one of whom appeared in person. Speaking with FRANCE 24's Sharon Gaffney, Nanar Hawach, Senior Analyst for Syria at the International Crisis Group, says that despite most perpetrators b…",
+      "description": "A Syrian court conducted the first hearing on Sunday in the trial of ousted ruler Bashar al-Assad and senior figures from his government, one of whom appeared in person. Speaking with FRANCE 24's Sharon Gaffney, Nanar Hawach, Senior Analyst for Syria at the International Crisis Group, says that despite most perpetrator…",
       "url": "https://www.france24.com/en/tv-shows/a-propos/20260429-assad-regime-trials-are-integral-for-syria-to-move-on-from-civil-war-atrocities",
       "source": "France24",
       "publishedAt": "2026-04-29T21:08:47Z",
@@ -167,21 +182,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-d4ac01d018dd",
-      "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
-      "description": "It confirms suspicions that North Korean soldiers are being told to detonate their grenades to kill themselves.",
-      "url": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-04-29T01:47:51Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d1/live/ca131a80-436a-11f1-bd5c-f7e837bf2c66.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

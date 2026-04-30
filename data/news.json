@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T03:13:32Z",
+  "updated": "2026-04-30T05:12:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/everything-had-been-looted-myanmar-s-civil-war-takes-heavy-toll",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-30T03:13:28Z",
+      "publishedAt": "2026-04-30T05:12:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F0%2F7%2F12337049-1-eng-GB%2Fa5a0cab969ff-PXL_20260203_010703331.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -37d42ebeaa5f",
+      "title": "Video emerges of heavy firefight in Mali",
+      "description": "Video has been published by Russian mercenaries showing a heavy gun battle between Mali’s military and rebels.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/video-emerges-of-heavy-firefight-in-mali?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-04-30T04:25:25Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777523091.jpg?resize=1919%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-93c14ca82483",
+      "title": "Why Putin Wants a May 9 Ceasefire in Ukraine",
+      "description": "Kyiv’s response was swift: Why wait until May 8 to stop fighting? Ukraine is ready for a full 30-day ceasefire, not one just “for a parade.”",
+      "url": "https://www.kyivpost.com/post/75056",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-04-30T03:50:09Z",
+      "image": "https://static.kyivpost.com/storage/2026/04/30/cfb06d16c37f7e6b85459992a5ed8e42.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -a9ecb689bb72",
+      "title": "Trump and Putin discuss Ukraine and Iran over the phone",
+      "description": "Donald Trump said his call with Russian President Vladimir Putin had focused more on Ukraine than on Iran. According to Kremlin aide Yuri Ushakov, Putin said he was ready 'to declare a ceasefire for the duration of Victory Day celebrations.'",
+      "url": "https://www.lemonde.fr/en/international/article/2026/04/30/trump-and-putin-discuss-ukraine-and-iran-over-the-phone_6753000_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-04-30T03:38:21Z",
+      "image": "https://img.lemde.fr/2026/04/29/129/0/2251/1125/644/322/60/0/e58ee37_ftp-1-3yblhc6sn7w4-5896277-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-557630ae63f8",
-      "title": "Kremlin: Putin Wants Victory Day Truce",
-      "description": "Vladimir Putin discussed a possible Victory Day truce with Donald Trump, despite past Russian ceasefire pledges that Ukraine says were repeatedly violated.",
-      "url": "https://www.kyivpost.com/post/75048",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-04-29T20:38:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/03/11/d60b4417c75a3c8a6420374585bda18d.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,21 +109,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -8ac45eb8fcbc",
-      "title": "Indonesian soldiers on trial after acid attack on activist",
-      "description": "Four Indonesian soldiers are on trial for an acid attack on a prominent activist in Jakarta.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-04-29T19:24:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777490545.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -148,21 +164,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-04-29T13:03:06Z",
       "image": "https://i.guim.co.uk/img/media/7742e901010aa4c7516f291c9c7d464e236f6542/580_0_4570_3657/master/4570.jpg?width=140&quality=85&auto=format&fit=max&s=e30ef17333a253dc0ec38af1a281242f",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -38418834bd45",
-      "title": "Malian jihadists and rebels ramp up pressure on junta: 'We are blocking Bamako'",
-      "description": "Jihadists from the Al Qaeda-affiliated group JNIM announced a total siege of the Malian capital on Tuesday. At least five towns in the country's north have fallen to the attackers. 'The situation is under control,' President Assimi Goita said.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/04/29/malian-jihadists-and-rebels-ramp-up-pressure-on-junta-we-are-blocking-bamako_6752962_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-04-29T10:52:52Z",
-      "image": "https://img.lemde.fr/2026/04/28/223/0/2048/1024/644/322/60/0/c1932c3_ftp-1-tzbujwg0vz50-2026-04-28t184434z-1022593971-rc2iykapm6us-rtrmadp-3-mali-security-goita-camara.JPG",
       "categories": [
         "conflict"
       ],

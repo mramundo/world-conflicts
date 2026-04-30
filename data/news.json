@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T11:34:51Z",
+  "updated": "2026-04-30T12:40:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/everything-had-been-looted-myanmar-s-civil-war-takes-heavy-toll",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-30T11:34:46Z",
+      "publishedAt": "2026-04-30T12:40:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F0%2F7%2F12337049-1-eng-GB%2Fa5a0cab969ff-PXL_20260203_010703331.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -05338a91d52a",
+      "title": "Malian jihadists seek to blockade capital",
+      "description": "JNIM, an Al Qaeda-affiliated terrorist group, has declared a blockade of Bamako after launching an offensive against country's ruling junta on Saturday. France has urged its citizens to temporarily leave the country.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/04/30/malian-jihadists-seek-to-blockade-bamako_6753012_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-04-30T12:12:48Z",
+      "image": "https://img.lemde.fr/2026/04/28/157/0/2439/1219/644/322/60/0/4f85cc8_ftp-1-mghvxns3sc8w-2026-04-28t173607z-898104327-rc2mxkatj5b7-rtrmadp-3-mali-security.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -169,21 +184,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -38418834bd45",
-      "title": "Malian jihadists and rebels ramp up pressure on junta: 'We are blocking Bamako'",
-      "description": "Jihadists from the Al Qaeda-affiliated group JNIM announced a total siege of the Malian capital on Tuesday. At least five towns in the country's north have fallen to the attackers. 'The situation is under control,' President Assimi Goita said.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/04/29/malian-jihadists-and-rebels-ramp-up-pressure-on-junta-we-are-blocking-bamako_6752962_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-04-29T10:52:52Z",
-      "image": "https://img.lemde.fr/2026/04/28/223/0/2048/1024/644/322/60/0/c1932c3_ftp-1-tzbujwg0vz50-2026-04-28t184434z-1022593971-rc2iykapm6us-rtrmadp-3-mali-security-goita-camara.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

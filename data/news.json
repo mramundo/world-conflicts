@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T13:39:32Z",
+  "updated": "2026-04-30T14:48:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/everything-had-been-looted-myanmar-s-civil-war-takes-heavy-toll",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-30T13:39:28Z",
+      "publishedAt": "2026-04-30T14:48:04Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F0%2F7%2F12337049-1-eng-GB%2Fa5a0cab969ff-PXL_20260203_010703331.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-8608f89a72e7",
+      "title": "Mali holds tribute for assassinated defence minister under tight security",
+      "description": "Mali held a tribute ceremony for its assassinated defence minister in Bamako on Thursday under tight security. Sadio Camara was killed in a rebel bomb attack over the weekend as fighters from a Tuareg separatist group and an al Qaeda-linked jihadist group launched an assault against the military junta.",
+      "url": "https://www.france24.com/en/africa/20260430-mali-holds-tribute-for-assassinated-defence-minister-under-tight-security",
+      "source": "France24",
+      "publishedAt": "2026-04-30T14:07:51Z",
+      "image": "https://s.france24.com/media/display/6eb25b66-449a-11f1-a0b8-005056a97e36/w:1024/p:16x9/AP26117285606907.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-4fe19fe596c5",
+      "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
+      "description": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutBusiness live – latest updatesThe global oil price has soared above $126 a barrel, its highest level since 2022, after Donald Trump said the US blockade of Iranian ports could last for months and peace …",
+      "url": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
+      "source": "The Guardian",
+      "publishedAt": "2026-04-30T13:38:54Z",
+      "image": "https://i.guim.co.uk/img/media/be90c9a4670a617a75dd872b3e6b0a8a992c710e/730_0_4505_3604/master/4505.jpg?width=140&quality=85&auto=format&fit=max&s=de17fa81fae4ae65c08f525b45f5a348",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,33 +96,19 @@
       "tags": []
     },
     {
-      "id": "fra-870489fe3537",
-      "title": "Russia rejects Tuareg rebels' call to withdraw from Mali",
-      "description": "Russia on Thursday said its forces would stay in Mali, rejecting a call from Tuareg rebels for Moscow to withdraw after separatists and jihadists launched attacks last weekend against the military junta, which Russian paramilitary forces have helped support.",
-      "url": "https://www.france24.com/en/africa/20260430-russia-rejects-tuareg-rebels-call-to-withdraw-from-mali",
-      "source": "France24",
-      "publishedAt": "2026-04-30T10:13:10Z",
-      "image": "https://s.france24.com/media/display/bcdbbffa-4484-11f1-bc50-005056a97e36/w:1024/p:16x9/2026-04-29T153211Z-2083140028-RC2ZWKA6BXFC-RTRMADP-3-MALI-SECURITY.jpg",
+      "id": "rfe-b04820fccc15",
+      "title": "Ukraine Strikes Deep Inside Russia Amid Talks Of Temporary Cease-Fire",
+      "description": "Ukraine has hit an oil facility and industrial site in Russia's Perm region, roughly 1,500 kilometers from the Ukrainian border, according to Russian officials, as US President Donald Trump and Vladimir Putin discussed a potential temporary cease-fire aimed at pausing the four-year war in Ukraine.",
+      "url": "https://www.rferl.org/a/ukraine-strikes-russia-oil-cease-fire-talks/33745974.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-04-30T09:49:09Z",
+      "image": "https://gdb.rferl.org/f78becbb-a1a9-4ec9-9b70-25ffc5678aa4_cx0_cy14_cw0_w800_h450.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-4fe19fe596c5",
-      "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
-      "description": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps Hormuz strait all but shutBusiness live – latest updatesThe global oil price has soared above $126 a barrel, its highest level since 2022, after Donald Trump warned the US blockade of Iranian ports could last for months and peace t…",
-      "url": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
-      "source": "The Guardian",
-      "publishedAt": "2026-04-30T09:16:22Z",
-      "image": "https://i.guim.co.uk/img/media/be90c9a4670a617a75dd872b3e6b0a8a992c710e/730_0_4505_3604/master/4505.jpg?width=140&quality=85&auto=format&fit=max&s=de17fa81fae4ae65c08f525b45f5a348",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -199,22 +215,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-90b31cf5d32e",
-      "title": "North Korea Is Honoring Some Of Its Soldiers Killed In The Ukraine War. But What About The Rest?",
-      "description": "Why a sprawling war memorial that was opened on April 26 commemorates only a fraction of the estimated thousands of troops Pyongyang lost in Russia.",
-      "url": "https://www.rferl.org/a/north-korea-ukraine-russia-war-memorial-opening-casualties/33744304.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-04-28T13:36:32Z",
-      "image": "https://gdb.rferl.org/370cb853-08a6-4365-4b24-08de3c92853e_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
       "tags": []
     },
     {

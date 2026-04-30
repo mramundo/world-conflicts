@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T20:30:06Z",
+  "updated": "2026-04-30T21:25:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/everything-had-been-looted-myanmar-s-civil-war-takes-heavy-toll",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-30T20:30:03Z",
+      "publishedAt": "2026-04-30T21:25:32Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F0%2F7%2F12337049-1-eng-GB%2Fa5a0cab969ff-PXL_20260203_010703331.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -59bf6741aec8",
+      "title": "Is our home safe? Is it rubble? For displaced Lebanese, anguished uncertainty.",
+      "description": "Lebanese people displaced by war have been on an emotional roller coaster. A ceasefire has been extended, but fighting in the south hasn’t ended. Even as families yearning for home prepare to return, despite the uncertainty, they are warned not to take the risk.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0430/lebanon-displaced-war-destruction-israel-hezbollah?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-04-30T21:20:00Z",
+      "image": "https://images.csmonitor.com/csm/2026/04/0430_OLEBANONHOME_car_LEDE.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -66,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "the-0aa6f8421151",
-      "title": "Trump tells Merz to ‘fix his broken country’ in new attack on German chancellor",
-      "description": "US president’s latest outburst comes a day after he suggested a ‘possible reduction’ in US troops in GermanyWhy does the US have military bases in Germany – and will Trump follow through on his threat?Donald Trump has again lashed out at Germany’s chancellor, Friedrich Merz, saying he should focus on “fixing his broken…",
-      "url": "https://www.theguardian.com/world/2026/apr/30/trump-tells-merz-to-fix-his-broken-country-in-new-attack-on-german-chancellor",
-      "source": "The Guardian",
-      "publishedAt": "2026-04-30T16:37:14Z",
-      "image": "https://i.guim.co.uk/img/media/6def4b29dd56ccb6a0c312120f266e9034eb672c/636_0_2337_1869/master/2337.jpg?width=140&quality=85&auto=format&fit=max&s=968493f3a229258daf8115bcde467255",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-8608f89a72e7",
       "title": "Mali holds tribute for assassinated defence minister under tight security",
       "description": "Mali held a tribute ceremony for its assassinated defence minister in Bamako on Thursday under tight security. Sadio Camara was killed in a rebel bomb attack over the weekend as fighters from a Tuareg separatist group and an al Qaeda-linked jihadist group launched an assault against the military junta.",
@@ -92,6 +93,21 @@
         "conflict"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-4fe19fe596c5",
+      "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
+      "description": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutBusiness live – latest updatesThe global oil price hit $126 a barrel on Thursday, its highest level since 2022, after Donald Trump said the US blockade of Iranian ports could last for months and peace t…",
+      "url": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
+      "source": "The Guardian",
+      "publishedAt": "2026-04-30T13:38:54Z",
+      "image": "https://i.guim.co.uk/img/media/be90c9a4670a617a75dd872b3e6b0a8a992c710e/730_0_4505_3604/master/4505.jpg?width=140&quality=85&auto=format&fit=max&s=de17fa81fae4ae65c08f525b45f5a348",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -199,21 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -cecef72d59f4",
-      "title": "Their nation at war, Israelis still demand to know: How could Oct. 7 happen?",
-      "description": "Amid wars with Iran and Hezbollah, Israelis still very much want an independent state commission of inquiry to learn the truth about the failure to prevent the Hamas attack that sparked the Gaza war. Israel’s top court has given the Netanyahu government more time.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0428/israel-netanyahu-gaza-war-official-inquiry?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-04-28T19:47:52Z",
-      "image": "https://images.csmonitor.com/csm/2026/04/0428_OISRINQUIRY_PROTEST.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

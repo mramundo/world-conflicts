@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T07:52:31Z",
+  "updated": "2026-04-30T08:53:21Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/everything-had-been-looted-myanmar-s-civil-war-takes-heavy-toll",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-04-30T07:52:27Z",
+      "publishedAt": "2026-04-30T08:53:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F0%2F7%2F12337049-1-eng-GB%2Fa5a0cab969ff-PXL_20260203_010703331.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-38f47e5c65da",
+      "title": "Trump says he spoke with Putin about a possible ceasefire in Ukraine",
+      "description": "President Trump said he talked to Russian President Putin Wednesday about the wars in Ukraine and Iran.",
+      "url": "https://www.npr.org/2026/04/30/nx-s1-5805188/trump-says-he-spoke-with-putin-about-a-possible-ceasefire-in-ukraine",
+      "source": "NPR World",
+      "publishedAt": "2026-04-30T08:43:53Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5805188",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-48c1c653b976",
+      "title": "Lebanon’s ex-president Amin Gemayel says time is right for direct talks with Israel",
+      "description": "'We have to see how far we can go' in negotiations, says man who led Lebanon during its civil war, adding that his people 'yearn for the bare minimum of calm, peace, stability' The post Lebanon&#8217;s ex-president Amin Gemayel says time is right for direct talks with Israel appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/lebanons-ex-president-amin-gemayel-says-time-is-right-for-direct-talks-with-israel/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-04-30T08:07:44Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26119425348957-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -61,21 +91,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-bf2bab4c55e0",
-      "title": "Syria arrests former Assad-era general accused of 2013 chemical attack involvement",
-      "description": "Interior Ministry says it detained Adnan Abboud Hilweh, who it says was responsible for sarin nerve gas 'massacre' on Damascus-area suburb Ghouta, which killed over 1,000 The post Syria arrests former Assad-era general accused of 2013 chemical attack involvement appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/syria-arrests-former-assad-era-general-accused-of-2013-chemical-attack-involvement/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-29T21:11:28Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/photo_2026-04-29_19-51-48-860x573-1-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -137,21 +152,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-23c2ab041169",
-      "title": "Greetings from Syria, where a postwar olive harvest offers a long-lost taste of home",
-      "description": "In the warm sun, gathering handfuls of hard olives promised a taste of home that residents of a village in the Homs countryside had been missing for nearly 14 years of civil war.",
-      "url": "https://www.npr.org/2026/04/29/g-s1-118663/syria-olive-harvest-homs",
-      "source": "NPR World",
-      "publishedAt": "2026-04-29T14:16:41Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2Fb6%2Fc0595bf94ed79181ff016b9d0377%2Ffarflungpostcard-efeng.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

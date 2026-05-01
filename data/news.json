@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T13:34:51Z",
+  "updated": "2026-05-01T14:29:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-01T13:34:47Z",
+      "publishedAt": "2026-05-01T14:29:40Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-1339fffd252f",
+      "title": "Man convicted of attempting terror attack at Israeli embassy in London",
+      "description": "Abdullah Albadri of Kuwait tried to breach the embassy's perimeter with two knives in April 2025 after his asylum claim was rejected by the UK The post Man convicted of attempting terror attack at Israeli embassy in London appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/man-convicted-of-attempting-terror-attack-at-israeli-embassy-in-london/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-01T14:01:33Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20250615__62FB6RK__v1__HighRes__BritainIsraelIranConflict-1024x640.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,21 +94,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-3455480cbf7c",
-      "title": "Once plagued by civil war, Syria now sells itself as a safe corridor amid Iran conflict",
-      "description": "Damascus offers Baniyas port as an alternative to Hormuz oil route, as official says there's no interest in allying with either one of its 'strategic enemies,' Iran and Israel The post Once plagued by civil war, Syria now sells itself as a safe corridor amid Iran conflict appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/once-plagued-by-civil-war-syria-now-sells-itself-as-a-safe-corridor-amid-iran-conflict/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-01T09:56:10Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26063511281124-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

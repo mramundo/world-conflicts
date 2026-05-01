@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T12:28:18Z",
+  "updated": "2026-05-01T13:34:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-01T12:28:14Z",
+      "publishedAt": "2026-05-01T13:34:47Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,47 @@
       "tags": []
     },
     {
-      "id": "ans-1bfb19cbbb2d",
+      "id": "fra-ccdd71fc2279",
+      "title": "President Macron attends Orion 26 excerices",
+      "description": "In France, President Emmanuel Macron attended the final phase of the “Orion 26” military exercises on Thursday, a large-scale combat simulation involving thousands of troops from France and several European nations. The drills, which began in February, highlight a growing focus on military readiness across Europe amid …",
+      "url": "https://www.france24.com/en/president-macron-attends-orion-26-excerices",
+      "source": "France24",
+      "publishedAt": "2026-05-01T13:02:42Z",
+      "image": "https://s.france24.com/media/display/8b0ea7e2-455d-11f1-aadd-005056a90284/w:1024/p:16x9/EN-20260501-144418-144602-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-33649fb3b259",
       "title": "Araghchi, 'Pentagono mente, la guerra in Iran costata agli Usa 100 miliardi'",
       "description": "'Quattro volte quanto dichiarato, 500 dollari al mese per le famiglie americane'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/01/araghchi-pentagono-mente-la-guerra-in-iran-costata-agli-usa-100-miliardi_eecc7ec1-cc24-4a29-a734-c68a79f5913a.html",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/05/01/araghchi-pentagono-mente-la-guerra-in-iran-costata-agli-usa-100-miliardi_70bea36d-d999-4f11-8a5d-3db6cad459a3.html",
       "source": "ANSA",
-      "publishedAt": "2026-05-01T11:43:08Z",
+      "publishedAt": "2026-05-01T12:59:21Z",
       "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/11e3f5059690ba6e64f04796eea86604.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-b719d592fde6",
+      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+      "description": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
+      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-01T11:05:14Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e53/live/942afb50-4549-11f1-bd52-e755d604ece4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,36 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-a82527ca80e1",
-      "title": "US official says Iran war truce 'terminated' hostilities for war powers deadline",
-      "description": "In the United States, lawmakers remain deadlocked over the War Powers Resolution, which requires Congress to approve continued military action or withdraw troops once hostilities reach the 60-day mark. With the deadline approaching and no agreement in sight, a decision remains out of reach, as Liza Kaminov reports with…",
-      "url": "https://www.france24.com/en/video/20260501-us-official-says-iran-war-truce-terminated-hostilities-for-war-powers-deadline-1",
-      "source": "France24",
-      "publishedAt": "2026-05-01T09:41:57Z",
-      "image": "https://s.france24.com/media/display/b402c272-4540-11f1-ba0d-005056bf30b7/w:1024/p:16x9/EN-20260501-110125-110256-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-0a073fbc80b0",
-      "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
-      "description": "The former leader has not responded to US accusations that he is aiming to destabilise the government.",
-      "url": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-01T09:37:26Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e78a/live/c2620a50-453e-11f1-b55d-0f258dce1735.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

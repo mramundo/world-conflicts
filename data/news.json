@@ -1,21 +1,51 @@
 {
-  "updated": "2026-05-01T01:41:21Z",
+  "updated": "2026-05-01T03:13:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-3ea01a228561",
-      "title": "'Everything had been looted': Myanmar's civil war takes heavy toll",
+      "id": "nik-6c065bf2ae93",
+      "title": "Iran war unlikely to trigger terror attacks in Indonesia: ex-militants",
       "description": "",
-      "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/everything-had-been-looted-myanmar-s-civil-war-takes-heavy-toll",
+      "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-01T01:41:16Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F0%2F7%2F12337049-1-eng-GB%2Fa5a0cab969ff-PXL_20260203_010703331.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-05-01T03:13:23Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-2b7860cf66ad",
+      "title": "Israel deployed laser system in UAE to help intercept Iranian missiles and drones — report",
+      "description": "Ahead of war powers deadline, US official says hostilities with Iran ‘terminated’ amid ceasefire * State Department hits out at American allies for not preventing activist flotilla from departing for Gaza The post Israel deployed laser system in UAE to help intercept Iranian missiles and drones — report appeared first …",
+      "url": "https://www.timesofisrael.com/liveblog-may-01-2026/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-01T02:37:29Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2025/12/WhatsApp-Image-2025-12-28-at-3.10.00-PM-1024x640.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-d5d485ec11d2",
+      "title": "Kremlin Says Ukraine’s Consent Not Needed for Ceasefire as Zelensky Rejects ‘Theatre’",
+      "description": "Zelensky called Moscow’s proposed Victory Day truce “manipulative” theater, while the Kremlin said the ceasefire will proceed regardless of Kyiv’s response.",
+      "url": "https://www.kyivpost.com/post/75139",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-01T01:54:32Z",
+      "image": "https://static.kyivpost.com/storage/2025/09/24/1848759d7843f843f144d1f9c0d14890.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,21 +96,6 @@
       "tags": []
     },
     {
-      "id": "tim-69a929782126",
-      "title": "Rats infest Gaza’s tent camps, biting children and spreading disease",
-      "description": "IDF kills Hamas operative allegedly planning attacks on troops, three reported dead in separate airstrike; Israeli NGO petitions for release of Gazan doctors held without charges The post Rats infest Gaza&#8217;s tent camps, biting children and spreading disease appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/rats-infest-gazas-tent-camps-biting-children-and-spreading-disease/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-04-30T17:30:29Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26120460319910-e1777553817909-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-1a3641dfee4f",
       "title": "Myanmar moves detained former leader Aung San Suu Kyi to house arrest",
       "description": "Min Aung Hlaing, Myanmar's junta chief-turned president, on Thursday ordered detained leader Aung San Suu Kyi to be moved to house arrest. Suu Kyi was sentenced to 33 years in jail after the 2021 coup. Her sentence was commuted to 27 years weeks after Min Aung Hlaing was voted president in an election dismissed as civi…",
@@ -127,7 +142,7 @@
     },
     {
       "id": "rfe-b04820fccc15",
-      "title": "Ukraine Strikes Deep Inside Russia Amid Talks Of Temporary Cease-Fire",
+      "title": "Ukraine Strikes Deep Inside Russia, Tuapse Hit Again",
       "description": "Ukraine has hit an oil facility and industrial site in Russia's Perm region, roughly 1,500 kilometers from the Ukrainian border, according to Russian officials, as US President Donald Trump and Vladimir Putin discussed a potential temporary cease-fire aimed at pausing the four-year war in Ukraine.",
       "url": "https://www.rferl.org/a/ukraine-strikes-russia-oil-cease-fire-talks/33745974.html",
       "source": "RFE/RL",
@@ -168,21 +183,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-557630ae63f8",
-      "title": "Kremlin: Putin Wants Victory Day Truce",
-      "description": "Vladimir Putin discussed a possible Victory Day truce with Donald Trump, despite past Russian ceasefire pledges that Ukraine says were repeatedly violated.",
-      "url": "https://www.kyivpost.com/post/75048",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-04-29T20:38:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/03/11/d60b4417c75a3c8a6420374585bda18d.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T14:29:44Z",
+  "updated": "2026-05-01T15:26:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-01T14:29:40Z",
+      "publishedAt": "2026-05-01T15:25:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-0a073fbc80b0",
+      "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
+      "description": "The former leader has not responded to US accusations that he is aiming to destabilise the government.",
+      "url": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-01T14:47:46Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e78a/live/c2620a50-453e-11f1-b55d-0f258dce1735.jpg",
       "categories": [
         "conflict"
       ],
@@ -62,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-b719d592fde6",
-      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
-      "description": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
-      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-01T11:05:14Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e53/live/942afb50-4549-11f1-bd52-e755d604ece4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T18:30:12Z",
+  "updated": "2026-05-01T19:32:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-01T18:30:07Z",
+      "publishedAt": "2026-05-01T19:32:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-31f68874251b",
+      "title": "Wsj, Iran propone confronto sul nucleare in cambio allentamento sanzioni",
+      "description": "'Sul tavolo le condizioni per Hormuz insieme alle garanzie Usa sulla revoca del blocco'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/01/wsj-iran-propone-confronto-sul-nucleare-in-cambio-allentamento-sanzioni_e4f8a4e8-a10b-40b6-a6f4-f0144d1553bf.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-01T18:29:03Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2024/4/13/2136f4bc3f8e148513b22d419708739f.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,21 +91,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-33649fb3b259",
-      "title": "Araghchi, 'Pentagono mente, la guerra in Iran costata agli Usa 100 miliardi'",
-      "description": "'Quattro volte quanto dichiarato, 500 dollari al mese per le famiglie americane'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/05/01/araghchi-pentagono-mente-la-guerra-in-iran-costata-agli-usa-100-miliardi_70bea36d-d999-4f11-8a5d-3db6cad459a3.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-01T12:59:21Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/11e3f5059690ba6e64f04796eea86604.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

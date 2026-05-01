@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T21:21:42Z",
+  "updated": "2026-05-01T22:21:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-01T21:21:37Z",
+      "publishedAt": "2026-05-01T22:21:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -31,6 +31,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -6eea426eb07b",
+      "title": "At least 12 killed in latest Israeli attacks on Lebanon",
+      "description": "Israel&#039;s strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.",
+      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-01T21:10:15Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69f50000caff-1777664000.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,22 +108,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -8f0c5faf1baf",
-      "title": "Giorgia Meloni’s moral retreat on Gaza",
-      "description": "The Italian PM’s response to Israel’s genocidal war on Gaza reflects not moral conviction, but political calculation.",
-      "url": "https://www.aljazeera.com/opinions/2026/5/1/giorgia-melonis-moral-retreat-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-01T12:33:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2024/11/Gaza-1732291882.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

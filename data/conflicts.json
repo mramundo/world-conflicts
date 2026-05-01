@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T08:46:16Z",
+  "updated": "2026-05-01T09:38:35Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-05-01T01:54:28Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-05-01",
       "wikipediaRevision": "2026-05-01T03:46:24Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sd-war",
@@ -225,8 +225,8 @@
         "Jihadism"
       ],
       "wikipediaPage": "Boko_Haram_insurgency",
-      "lastUpdate": "2026-04-30",
-      "wikipediaRevision": "2026-04-30T11:50:05Z",
+      "lastUpdate": "2026-05-01",
+      "wikipediaRevision": "2026-05-01T09:25:02Z",
       "recentNewsCount": 0
     },
     {
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T22:21:11Z",
+  "updated": "2026-05-01T23:22:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-01T22:21:07Z",
+      "publishedAt": "2026-05-01T23:22:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -caa250b56148",
+      "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
+      "description": "President Donald Trump has feuded with European allies over their reluctance to step up support for war on Iran.",
+      "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-01T22:54:30Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-04-27T044003Z_1643048885_RC2B4EAJHQJS_RTRMADP_3_USA-VANCE-1777673489.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -6eea426eb07b",
-      "title": "At least 12 killed in latest Israeli attacks on Lebanon",
-      "description": "Israel&#039;s strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.",
-      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-01T21:10:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69f50000caff-1777664000.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

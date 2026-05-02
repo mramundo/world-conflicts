@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-02T12:24:51Z",
+  "updated": "2026-05-02T13:34:46Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-02T12:24:47Z",
+      "publishedAt": "2026-05-02T13:34:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,49 @@
       "tags": []
     },
     {
-      "id": "kyi-04ff287cdea9",
-      "title": "Ukraine Implements Mandatory Two-Month Rotation for Frontline Troops",
-      "description": "The General Staff of the Armed Forces of Ukraine announced a new policy limiting frontline deployment to two months to preserve soldier safety and operational effectiveness.",
-      "url": "https://www.kyivpost.com/post/75270",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-02T12:18:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/02/2e7fd565af860aac69b6022bfd053f94.jpeg?w=640&q=90&f=jpg",
+      "id": "tim-8eb05c4eaeb1",
+      "title": "NATO seeks clarity as US to withdraw 5,000 troops from Germany amid rift with Europe",
+      "description": "Trump says he is considering pulling US troops from Italy and Spain as well, due to their opposition to the war against Iran; NATO says it shows Europe's need to invest in defense The post NATO seeks clarity as US to withdraw 5,000 troops from Germany amid rift with Europe appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/nato-seeks-clarity-as-us-to-withdraw-5000-troops-from-germany-amid-rift-with-europe/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-02T13:25:10Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260303__99RZ228__v1__HighRes__GermanChancellorMerzVisits-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -6083332f3df1",
+      "title": "Israeli air strikes kill 10 people in southern Lebanon",
+      "description": "Drones and planes hit several towns despite &#039;ceasefire&#039; since April 17 as Hezbollah pledges to continue its attacks.",
+      "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-02T12:55:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T144931Z_1337836316_RC2E0LAD9H6E_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1777678447.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-1f01d5cc4f46",
+      "title": "Putin’s Chornobyl: a Régime That Will Not Permit the Wound to Heal",
+      "description": "From the 2022 Red Forest trenches to the St. Valentine’s 2025 drone strike, the Kremlin’s war is a war on the truth of 1986 – and the men who buried that truth are now being decorated for it.",
+      "url": "https://www.kyivpost.com/opinion/75151",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-02T12:44:00Z",
+      "image": "https://static.kyivpost.com/storage/2025/02/18/1b12d75f497229c8c5899d6f6877c555.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -76,36 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-484401467adf",
-      "title": "US pulling 5,000 troops from Germany amid spat with Trump over Iran war",
-      "description": "Senior Pentagon official says German rhetoric against Washington's policy 'inappropriate and unhelpful'; withdrawal expected to be completed within 6-12 months The post US pulling 5,000 troops from Germany amid spat with Trump over Iran war appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/us-pulling-5000-troops-from-germany-amid-spat-with-trump-over-iran-war/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-02T00:28:29Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP25115011034427-e1777671153888-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -caa250b56148",
-      "title": "US to withdraw 5,000 troops from Germany over Iran war spat",
-      "description": "President Donald Trump has feuded with European allies over their reluctance to step up support for war on Iran.",
-      "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-01T22:54:30Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-04-27T044003Z_1643048885_RC2B4EAJHQJS_RTRMADP_3_USA-VANCE-1777673489.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -217,21 +218,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-f65507dc6c2d",
-      "title": "Putin, Trump Discuss Iran, Ukraine in Phone Call, Kremlin Aide Says",
-      "description": "Putin offered a ceasefire in the fighting in Ukraine on May 9, when Russia celebrates the Soviet Union's World War II victory over Nazi Germany.",
-      "url": "https://www.themoscowtimes.com/2026/04/29/putin-trump-discuss-iran-ukraine-in-phone-call-kremlin-aide-says-a92641",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-04-29T18:08:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/f6/92641__f6dd4e9906099ab1c92020aef6d2fbe7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     }
   ]

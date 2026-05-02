@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T08:36:45Z",
+  "updated": "2026-05-02T09:29:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,27 +10,12 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-02T08:36:40Z",
+      "publishedAt": "2026-05-02T09:29:38Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-955ae74a3076",
-      "title": "Rebuilding Gaza Strip: Labour Day is the last thing on Palestinians minds",
-      "description": "In the Gazan city of Khan Younis, workers are still clearing rubble seven months after the ceasefire that followed two years of war. The work continues around the clock, but it brings in only a few euros a day, barely enough to support their families. Liza Kaminov has more.",
-      "url": "https://www.france24.com/en/rebuilding-gaza-strip-labour-day-is-the-last-thing-on-palestinians-minds",
-      "source": "France24",
-      "publishedAt": "2026-05-02T08:15:57Z",
-      "image": "https://s.france24.com/media/display/46c57434-45fe-11f1-8d43-005056bf30b7/w:1024/p:16x9/EN-20260502-092035-092223-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -65,6 +50,21 @@
       "tags": []
     },
     {
+      "id": "fra-dc6ab0fdfe65",
+      "title": "Middle East war live: Iran official says renewed conflict ‘likely’, Trump says fighting ‘terminated’",
+      "description": "Senior Iranian military official Mohammad Jafar Asadi on Saturday suggested a renewed conflict with the US was “likely” as peace talks between Tehran and Washington continued to stall. US President Donald Trump on Friday told top US lawmakers that hostilities between Iran and the US had “terminated” since the ceasefire…",
+      "url": "https://www.france24.com/en/middle-east/20260502-middle-east-war-live-trump-tells-us-congress-that-hostilities-in-iran-have-terminated",
+      "source": "France24",
+      "publishedAt": "2026-05-02T05:02:34Z",
+      "image": "https://s.france24.com/media/display/83e3dfb0-45e3-11f1-8745-005056a90284/w:1024/p:16x9/000-A9B4342.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "tim-484401467adf",
       "title": "US pulling 5,000 troops from Germany amid spat with Trump over Iran war",
       "description": "Senior Pentagon official says German rhetoric against Washington's policy 'inappropriate and unhelpful'; withdrawal expected to be completed within 6-12 months The post US pulling 5,000 troops from Germany amid spat with Trump over Iran war appeared first on The Times of Israel.",
@@ -81,7 +81,7 @@
     },
     {
       "id": "al -caa250b56148",
-      "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
+      "title": "US to withdraw 5,000 troops from Germany over Iran war spat",
       "description": "President Donald Trump has feuded with European allies over their reluctance to step up support for war on Iran.",
       "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
       "source": "Al Jazeera",

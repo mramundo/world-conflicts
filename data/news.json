@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T06:46:34Z",
+  "updated": "2026-05-02T07:36:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,38 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-02T06:46:31Z",
+      "publishedAt": "2026-05-02T07:36:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-4200d1b92efe",
+      "title": "Teheran, 'probabile una nuova guerra con gli Stati Uniti'",
+      "description": "'Ma siamo pronti a fronteggiare qualsiasi mossa ostile'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/02/teheran-probabile-una-nuova-guerra-con-gli-stati-uniti_7d1ef9dc-ca2b-4f04-bec7-db471c2fb9b7.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-02T07:03:01Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/9cbd84826a33c86579fa43dff7ccda79.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-63dc30ad381f",
+      "title": "'Still on a war footing': Tehran shares new proposal on ending Iran war",
+      "description": "FRANCE 24 correspondent Reza Sayah shares what we know so far about Iran's latest proposal to move the stalled peace talks with the US forward.",
+      "url": "https://www.france24.com/en/still-on-a-war-footing-tehran-shares-new-peace-proposal-with-washington",
+      "source": "France24",
+      "publishedAt": "2026-05-02T06:23:30Z",
+      "image": "https://s.france24.com/media/display/d211c2c8-45ee-11f1-94a9-005056bf30b7/w:1024/p:16x9/EN-20260502-070134-070421-CS.jpg",
       "categories": [
         "conflict"
       ],
@@ -35,17 +65,17 @@
       "tags": []
     },
     {
-      "id": "ans-182b5c2181a9",
-      "title": "Ministro esteri Cuba, 'le sanzioni Usa sono una punizione collettiva'",
-      "description": "Nella marcia per l'1 maggio un corteo ha sfilato davanti all'ambasciata Usa all'Avana",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/05/02/ministro-esteri-cuba-le-sanzioni-usa-sono-una-punizione-collettiva_69384a3f-699e-4467-92d0-9d416ad83753.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-02T01:43:54Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/1/ed55e4d2142094e096298e01fef2fe71.jpg",
+      "id": "tim-484401467adf",
+      "title": "US pulling 5,000 troops from Germany amid spat with Trump over Iran war",
+      "description": "Senior Pentagon official says German rhetoric against Washington's policy 'inappropriate and unhelpful'; withdrawal expected to be completed within 6-12 months The post US pulling 5,000 troops from Germany amid spat with Trump over Iran war appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/us-pulling-5000-troops-from-germany-amid-spat-with-trump-over-iran-war/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-02T00:28:29Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP25115011034427-e1777671153888-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "tim-7a844dfaf826",
-      "title": "IDF official says Iran war will be ‘one big failure’ if enriched uranium not removed",
-      "description": "Top officer says Islamic Republic 'can pounce on nuclear program' if talks don't see its stockpile taken away; says IDF’s 'hands tied' in countering Hezbollah drone threat due to truce The post IDF official says Iran war will be ‘one big failure’ if enriched uranium not removed appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-official-says-iran-war-will-be-one-big-failure-if-enriched-uranium-not-removed/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-01T17:55:06Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2025/06/d7dbf387-f4f7-47db-9e83-e2d02a49ddc5-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-05e4f4ab28bd",
       "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
       "description": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
@@ -107,21 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-ccdd71fc2279",
-      "title": "President Macron attends Orion 26 excerices",
-      "description": "In France, President Emmanuel Macron attended the final phase of the “Orion 26” military exercises on Thursday, a large-scale combat simulation involving thousands of troops from France and several European nations. The drills, which began in February, highlight a growing focus on military readiness across Europe amid …",
-      "url": "https://www.france24.com/en/president-macron-attends-orion-26-excerices",
-      "source": "France24",
-      "publishedAt": "2026-05-01T13:02:42Z",
-      "image": "https://s.france24.com/media/display/8b0ea7e2-455d-11f1-aadd-005056a90284/w:1024/p:16x9/EN-20260501-144418-144602-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

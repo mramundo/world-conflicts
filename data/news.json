@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T05:06:56Z",
+  "updated": "2026-05-02T06:46:34Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-02T05:06:52Z",
+      "publishedAt": "2026-05-02T06:46:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-26eb3e59d7ea",
+      "title": "U.S. to withdraw 5,000 troops from Germany in next 6-12 months",
+      "description": "The United States will withdraw about 5,000 troops from Germany, the Pentagon said Friday, fulfilling President Donald Trump's threat as he clashes with the German leader over the U.S. war with Iran.",
+      "url": "https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany",
+      "source": "NPR World",
+      "publishedAt": "2026-05-02T05:33:54Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6993x4662+0+0/resize/6993x4662!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2F6d%2Fd51d4c374330a4ecd6675473b0df%2Fap26121751344856.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -124,21 +139,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-4e3c6594329f",
-      "title": "Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal",
-      "description": "Ukrainian President Volodymyr Zelenskyy is seeking details of a short-term ceasefire Russia proposed to U.S. President Donald Trump.",
-      "url": "https://www.npr.org/2026/05/01/g-s1-119659/zelenskyy-seeking-details-of-putins-ceasefire-proposal",
-      "source": "NPR World",
-      "publishedAt": "2026-05-01T05:04:38Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6329x4219+0+0/resize/6329x4219!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Fb2%2F7d28aca7440fac005caad6174b4d%2Fap26113605879662.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {

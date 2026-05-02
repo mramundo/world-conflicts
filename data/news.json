@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T20:16:17Z",
+  "updated": "2026-05-02T21:18:18Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-02T20:16:13Z",
+      "publishedAt": "2026-05-02T21:18:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -31,6 +31,22 @@
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-aef523839d42",
+      "title": "Ukraine battlefield: Advanced Ukrainian drones raise concerns among Russian forces",
+      "description": "From Ukraine’s evolving battlefield, where drone warfare is redefining frontlines and so-called “killing zones,” to reports of “Martian drones” and their impact on both Russian and Ukrainian forces, we also look at the expanding use of unmanned systems in rescue operations, including the evacuation of a 77-year-old wom…",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260502-ukraine-battlefield-advanced-ukrainian-drones-raise-concerns-among-russian-forces",
+      "source": "France24",
+      "publishedAt": "2026-05-02T19:11:46Z",
+      "image": "https://s.france24.com/media/display/068222ca-4651-11f1-a82e-005056bf30b7/w:1024/p:16x9/EN-20260502-181349-182727-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,21 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-955ae74a3076",
-      "title": "Rebuilding Gaza Strip: Labour Day is the last thing on Palestinians' minds",
-      "description": "In the Gazan city of Khan Younis, workers are still clearing rubble seven months after the ceasefire that followed two years of war. The work continues around the clock, but it brings in only a few euros a day, barely enough to support their families. Liza Kaminov has more.",
-      "url": "https://www.france24.com/en/rebuilding-gaza-strip-labour-day-is-the-last-thing-on-palestinians-minds",
-      "source": "France24",
-      "publishedAt": "2026-05-02T08:15:57Z",
-      "image": "https://s.france24.com/media/display/46c57434-45fe-11f1-8d43-005056bf30b7/w:1024/p:16x9/EN-20260502-092035-092223-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

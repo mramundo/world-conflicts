@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-02T13:34:46Z",
+  "updated": "2026-05-02T14:24:09Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-02T13:34:41Z",
+      "publishedAt": "2026-05-02T14:24:05Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -218,6 +218,21 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-f65507dc6c2d",
+      "title": "Putin, Trump Discuss Iran, Ukraine in Phone Call, Kremlin Aide Says",
+      "description": "Putin offered a ceasefire in the fighting in Ukraine on May 9, when Russia celebrates the Soviet Union's World War II victory over Nazi Germany.",
+      "url": "https://www.themoscowtimes.com/2026/04/29/putin-trump-discuss-iran-ukraine-in-phone-call-kremlin-aide-says-a92641",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-04-29T18:08:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/f6/92641__f6dd4e9906099ab1c92020aef6d2fbe7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     }
   ]

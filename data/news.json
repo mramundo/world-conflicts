@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T11:20:28Z",
+  "updated": "2026-05-02T12:24:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-02T11:20:25Z",
+      "publishedAt": "2026-05-02T12:24:47Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,32 @@
       "tags": []
     },
     {
-      "id": "ans-4200d1b92efe",
-      "title": "Teheran, 'probabile una nuova guerra con gli Stati Uniti'",
-      "description": "'Ma siamo pronti a fronteggiare qualsiasi mossa ostile'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/02/teheran-probabile-una-nuova-guerra-con-gli-stati-uniti_7d1ef9dc-ca2b-4f04-bec7-db471c2fb9b7.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-02T07:42:01Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/9cbd84826a33c86579fa43dff7ccda79.jpg",
+      "id": "kyi-04ff287cdea9",
+      "title": "Ukraine Implements Mandatory Two-Month Rotation for Frontline Troops",
+      "description": "The General Staff of the Armed Forces of Ukraine announced a new policy limiting frontline deployment to two months to preserve soldier safety and operational effectiveness.",
+      "url": "https://www.kyivpost.com/post/75270",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-02T12:18:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/02/2e7fd565af860aac69b6022bfd053f94.jpeg?w=640&q=90&f=jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-ae06e69512cc",
+      "title": "Beirut, è salito a 13 il bilancio delle vittime dei raid israeliani",
+      "description": "Nonostante il cessate il fuoco tra Hezbollah e Israele, in vigore dal 17 aprile",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/02/beirut-e-salito-a-13-il-bilancio-delle-vittime-dei-raid-israeliani_3b28f0c2-920e-40e6-9761-770a47e48593.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-02T11:31:04Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/a5feff6ce46b7110fffd63ee77b78c25.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -139,21 +154,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-d5d485ec11d2",
-      "title": "Kremlin Says Ukraine’s Consent Not Needed for Ceasefire as Zelensky Rejects ‘Theatre’",
-      "description": "Zelensky called Moscow’s proposed Victory Day truce “manipulative” theater, while the Kremlin said the ceasefire will proceed regardless of Kyiv’s response.",
-      "url": "https://www.kyivpost.com/post/75139",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-01T01:54:32Z",
-      "image": "https://static.kyivpost.com/storage/2025/09/24/1848759d7843f843f144d1f9c0d14890.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

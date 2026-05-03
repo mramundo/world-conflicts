@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T11:18:51Z",
+  "updated": "2026-05-03T12:24:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-03T11:18:45Z",
+      "publishedAt": "2026-05-03T12:24:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -03a05690fc6a",
+      "title": "Ukraine drone attack hits Russian Baltic port, governor says",
+      "description": "Ukrainian forces also strike two shadow fleet tankers near port of Novorossiysk, President Volodymyr Zelenskyy says.",
+      "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-03T09:57:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260323__A4DU69E__v3__HighRes__RussiaUkraineWarEnergyOil-1777798584.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,21 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -fa9ab5392009",
-      "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
-      "description": "A fragile ceasefire may have paused the US-Israeli war on Iran, but the economic cost is crippling life in Tehran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-03T04:35:26Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/wide_thumb_iran-1777782887.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -173,6 +173,22 @@
       "tags": []
     },
     {
+      "id": "rfe-bf122c7c0ba8",
+      "title": "EU Quietly Takes Big Step Toward Montenegro's Accession",
+      "description": "EU ambassadors gave a green light to both a 90 billion-euro loan to Ukraine and the latest round of sanctions on Russia, but another decision went largely unnoticed: the creation of a working group to draft Montenegro’s EU accession treaty.",
+      "url": "https://www.rferl.org/a/eu-step-montenegro-accession/33747077.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-01T13:44:11Z",
+      "image": "https://gdb.rferl.org/e4907ab5-c591-471e-d02d-08ddd9680e0d_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "the-2b6d747945be",
       "title": "Russian State Prosecutors Seek Forfeiture of Jailed Billionaire’s Assets",
       "description": "Vadim Moshkovich is the first Forbes-listed billionaire to be arrested after Russia’s full-scale invasion of Ukraine.",
@@ -188,6 +204,21 @@
       "tags": []
     },
     {
+      "id": "un -f5c58e20557b",
+      "title": "Nuclear fears resurface among younger generations amid global tensions",
+      "description": "The threat of nuclear Armageddon, a constant worry for many who grew up during the tense decades of the Cold War, is becoming a cause for concern for a growing number of young people.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167426",
+      "source": "UN News",
+      "publishedAt": "2026-05-01T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/01-05-2026-nuclear-artwork.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -59bf6741aec8",
       "title": "Is our home safe? Is it rubble? For displaced Lebanese, anguished uncertainty.",
       "description": "Lebanese people displaced by war have been on an emotional roller coaster. A ceasefire has been extended, but fighting in the south hasn’t ended. Even as families yearning for home prepare to return, despite the uncertainty, they are warned not to take the risk.",
@@ -195,38 +226,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-04-30T21:20:00Z",
       "image": "https://images.csmonitor.com/csm/2026/04/0430_OLEBANONHOME_car_LEDE.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -6b38bc3acaac",
-      "title": "Lebanon strikes deepen crisis as hunger rises and conditions worsen in Gaza",
-      "description": "At least nine people were reported to have been killed in southern Lebanon on Thursday, as ongoing hostilities continue to exact a heavy toll on civilians and drive a worsening humanitarian crisis marked by rising hunger and strained public services.",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167418",
-      "source": "UN News",
-      "publishedAt": "2026-04-30T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-04-2026-UNICEF-Lebanon-04.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-66f1f8458a42",
-      "title": "Moscow's Military Axis With Iran Impacting Battlefield, Ex-Pentagon Analyst Matthew Tavares Says",
-      "description": "Matthew Tavares, a former Pentagon analyst, tells RFE/RL the West is no longer facing a partnership of convenience between Moscow and Tehran, but a strategic alignment that spans the tactical, operational, and strategic levels of warfare.",
-      "url": "https://www.rferl.org/a/russia-military-axis-iran-pentagon-analyst-matthew-tavares/33746049.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-04-30T11:53:51Z",
-      "image": "https://gdb.rferl.org/74b5730c-79f4-40a3-9f9b-b1bc79611bd9_cx3_cy12_cw96_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"

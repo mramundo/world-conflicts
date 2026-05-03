@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T08:40:08Z",
+  "updated": "2026-05-03T09:34:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-03T08:40:04Z",
+      "publishedAt": "2026-05-03T09:34:40Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-29a4ebbdad24",
+      "title": "'Netanyahu convoca gabinetto sicurezza su possibile stop alla tregua in Iran e Gaza'",
+      "description": "Lo riportano i media israeliani, riunione attesa per oggi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/03/netanyahu-convoca-gabinetto-sicurezza-su-possibile-stop-alla-tregua-in-iran-e-gaza_1069d0e6-ddd4-4705-8822-db73874e8beb.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-03T09:26:34Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/8def2e89847f1af13cc2f9c562ff2524.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -127,21 +142,6 @@
       "tags": []
     },
     {
-      "id": "ans-ae06e69512cc",
-      "title": "Beirut, è salito a 13 il bilancio delle vittime dei raid israeliani",
-      "description": "Nonostante il cessate il fuoco tra Hezbollah e Israele, in vigore dal 17 aprile",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/02/beirut-e-salito-a-13-il-bilancio-delle-vittime-dei-raid-israeliani_3b28f0c2-920e-40e6-9761-770a47e48593.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-02T11:31:04Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/a5feff6ce46b7110fffd63ee77b78c25.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-05e4f4ab28bd",
       "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
       "description": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
@@ -163,7 +163,7 @@
       "url": "https://www.themoscowtimes.com/2026/05/01/russian-state-prosecutors-seek-forfeiture-of-jailed-billionaires-assets-a92661",
       "source": "The Moscow Times",
       "publishedAt": "2026-05-01T13:16:57Z",
-      "image": "https://static.themoscowtimes.com/image/og/0a/92661__0ac1bdd41792e3b82ed318e2adf62ef1.jpg",
+      "image": null,
       "categories": [
         "conflict"
       ],

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-03T09:34:53Z",
+  "updated": "2026-05-03T10:25:23Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-03T09:34:40Z",
+      "publishedAt": "2026-05-03T10:25:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -142,6 +142,22 @@
       "tags": []
     },
     {
+      "id": "deu-a0dc9154abc8",
+      "title": "How the Iran war is hurting travelers, airline industry",
+      "description": "Europeans may have to reconsider their summer travel plans, as a jet fuel shortage triggered by the blockade of the Strait of Hormuz could lead airlines to set higher ticket prices.",
+      "url": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-02T07:57:00Z",
+      "image": "https://static.dw.com/image/72628325_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "bbc-05e4f4ab28bd",
       "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
       "description": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
@@ -154,37 +170,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-2b6d747945be",
-      "title": "Russian State Prosecutors Seek Forfeiture of Jailed Billionaire’s Assets",
-      "description": "Vadim Moshkovich is the first Forbes-listed billionaire to be arrested after Russia’s full-scale invasion of Ukraine.",
-      "url": "https://www.themoscowtimes.com/2026/05/01/russian-state-prosecutors-seek-forfeiture-of-jailed-billionaires-assets-a92661",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-05-01T13:16:57Z",
-      "image": null,
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-36a415333fbe",
-      "title": "Is Myanmar's military winning the civil war?",
-      "description": "After five years of war, armed resistance groups still challenge Myanmar's military across much of the country. But the generals are now stemming losses and reclaiming some territory.",
-      "url": "https://www.dw.com/en/is-myanmar-s-military-winning-the-civil-war/a-77009903?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-01T10:56:00Z",
-      "image": "https://static.dw.com/image/69929380_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -220,18 +205,18 @@
       "tags": []
     },
     {
-      "id": "rfe-b04820fccc15",
-      "title": "Ukraine Strikes Deep Inside Russia, Tuapse Hit Again",
-      "description": "Ukraine has hit an oil facility and industrial site in Russia's Perm region, roughly 1,500 kilometers from the Ukrainian border, according to Russian officials, as US President Donald Trump and Vladimir Putin discussed a potential temporary cease-fire aimed at pausing the four-year war in Ukraine.",
-      "url": "https://www.rferl.org/a/ukraine-strikes-russia-oil-cease-fire-talks/33745974.html",
+      "id": "rfe-66f1f8458a42",
+      "title": "Moscow's Military Axis With Iran Impacting Battlefield, Ex-Pentagon Analyst Matthew Tavares Says",
+      "description": "Matthew Tavares, a former Pentagon analyst, tells RFE/RL the West is no longer facing a partnership of convenience between Moscow and Tehran, but a strategic alignment that spans the tactical, operational, and strategic levels of warfare.",
+      "url": "https://www.rferl.org/a/russia-military-axis-iran-pentagon-analyst-matthew-tavares/33746049.html",
       "source": "RFE/RL",
-      "publishedAt": "2026-04-30T09:49:09Z",
-      "image": "https://gdb.rferl.org/f78becbb-a1a9-4ec9-9b70-25ffc5678aa4_cx0_cy14_cw0_w800_h450.jpg",
+      "publishedAt": "2026-04-30T11:53:51Z",
+      "image": "https://gdb.rferl.org/74b5730c-79f4-40a3-9f9b-b1bc79611bd9_cx3_cy12_cw96_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     }

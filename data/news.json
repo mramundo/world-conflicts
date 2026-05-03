@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T03:13:17Z",
+  "updated": "2026-05-03T05:13:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-03T03:13:13Z",
+      "publishedAt": "2026-05-03T05:13:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -fa9ab5392009",
+      "title": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
+      "description": "A fragile ceasefire may have paused the US-Israeli war on Iran, but the economic cost is crippling life in Tehran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-03T04:35:26Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/wide_thumb_iran-1777782887.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -65,21 +80,6 @@
       "tags": []
     },
     {
-      "id": "al -ed7b2bbd8822",
-      "title": "Ukraine eyes Belarus border activities as Russian strikes persist",
-      "description": "The role of Belarus in Russia&#039;s war on Ukraine has provoked sanctions from Kyiv, which says it is ready to respond.",
-      "url": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-02T19:54:30Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69d906dad1b04-1775830746.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-aef523839d42",
       "title": "Ukraine battlefield: Advanced Ukrainian drones raise concerns among Russian forces",
       "description": "From Ukraine’s evolving battlefield, where drone warfare is redefining frontlines and so-called “killing zones,” to reports of “Martian drones” and their impact on both Russian and Ukrainian forces, we also look at the expanding use of unmanned systems in rescue operations, including the evacuation of a 77-year-old wom…",
@@ -92,6 +92,21 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-efb99be367f7",
+      "title": "Nato seeks to ‘understand the details’ of US decision to withdraw troops from Germany",
+      "description": "German government calls redeployment of 5,000 troops ‘anticipated’ and reminder of Europe’s need to invest in its own defence‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troopsNato is seeking to “understand the details” of a US decision to withdraw 5,000 troops from Germany, a redeploy…",
+      "url": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-02T17:52:31Z",
+      "image": "https://i.guim.co.uk/img/media/dfd453fdc3fdd7e1faa093945628f95857429136/266_0_4334_3467/master/4334.jpg?width=140&quality=85&auto=format&fit=max&s=0c983c933038ab9ae4ace8bfc87efb4a",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -186,21 +201,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-4fe19fe596c5",
-      "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
-      "description": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutThe global oil price hit $126 a barrel on Thursday, its highest level since 2022, after Donald Trump said the US blockade of Iranian ports could last for months and peace talks remained stalled.After su…",
-      "url": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
-      "source": "The Guardian",
-      "publishedAt": "2026-04-30T13:38:54Z",
-      "image": "https://i.guim.co.uk/img/media/be90c9a4670a617a75dd872b3e6b0a8a992c710e/730_0_4505_3604/master/4505.jpg?width=140&quality=85&auto=format&fit=max&s=de17fa81fae4ae65c08f525b45f5a348",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {

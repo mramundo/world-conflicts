@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T21:19:36Z",
+  "updated": "2026-05-03T22:18:25Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-05-02T00:08:58Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-05-03",
       "wikipediaRevision": "2026-05-03T10:36:13Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 5
     },
     {
       "id": "il-ps",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-04-28",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-04-28T05:17:32Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sahel",
@@ -181,7 +181,7 @@
       ],
       "wikipediaPage": "Jihadist_insurgency_in_the_Sahel",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "so-als",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 6
+      "recentNewsCount": 7
     },
     {
       "id": "et-am",

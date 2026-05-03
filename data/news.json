@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T21:19:24Z",
+  "updated": "2026-05-03T22:18:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-03T21:19:20Z",
+      "publishedAt": "2026-05-03T22:18:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F3%2F3%2F12433316-1-eng-GB%2F29a52fdbb369-bb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-c2c8c2bfa66f",
+      "title": "Modern economic chokepoints in war and the impact on geopolitics",
+      "description": "Hoover Institution fellow Eyck Freymann explains what the Iran war and the blockade of the Straight of Hormuz reveals about modern economic chokepoints, geopolitics and war strategies.",
+      "url": "https://www.npr.org/2026/05/03/nx-s1-5804691/modern-economic-chokepoints-in-war-and-the-impact-on-geopolitics",
+      "source": "NPR World",
+      "publishedAt": "2026-05-03T21:22:36Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5804691",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,18 +67,20 @@
       "tags": []
     },
     {
-      "id": "tim-65d7538385d9",
-      "title": "Hezbollah MP vows terror group will ‘thwart’ Lebanon-Israel talks as clashes persist",
-      "description": "Hezbollah fires rockets and drones at troops, no injuries caused; IDF razes 80-meter tunnel in south Lebanon, strikes gunmen and seizes arms The post Hezbollah MP vows terror group will ‘thwart’ Lebanon-Israel talks as clashes persist appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/hezbollah-mp-vows-terror-group-will-thwart-lebanon-israel-talks-as-clashes-persist/",
+      "id": "tim-1d7cd9f59766",
+      "title": "Can Israel and Lebanon move from war to diplomacy? - Sponsored Content",
+      "description": "Lebanese lawmaker Fouad Makhzoumi, Israeli analyst Sarit Zehavi, and Middle East expert Robert Satloff to unpack what’s at stake--and what’s possible-- in Lebanon. The post Can Israel and Lebanon move from war to diplomacy? appeared first on The Times of Israel.",
+      "url": "https://toi.li/ujI27c",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-03T15:26:14Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/96e8855c-d1c7-49fa-abdb-35faa2bdc11f-1024x640.jpg",
+      "publishedAt": "2026-05-03T16:07:31Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/d672ea02-5e6b-4d13-938a-e9970710071b-1024x640.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian",
+        "analysis"
       ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -98,6 +115,21 @@
       "tags": []
     },
     {
+      "id": "le -884c672d3453",
+      "title": "Russia stands by Mali's military junta at all costs",
+      "description": "Russian Africa Corps mercenaries have suffered several setbacks since jihadists launched an offensive on April 25, including the death of pro-Russian defense minister Sadio Camara and the loss of the town of Kidal.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/05/03/russia-stands-by-mali-s-military-junta-at-all-costs_6753076_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-03T10:15:04Z",
+      "image": "https://img.lemde.fr/2026/05/01/342/0/2048/1024/644/322/60/0/bc1fa18_ftp-1-bbbygzzy9xfx-2026-05-01t000027z-1854070916-rc2zzkapzmxc-rtrmadp-3-mali-security-camara-funeral.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "ans-29a4ebbdad24",
       "title": "'Netanyahu convoca gabinetto sicurezza su possibile stop alla tregua in Iran e Gaza'",
       "description": "Lo riportano i media israeliani, riunione attesa per oggi",
@@ -124,36 +156,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-5021639f1856",
-      "title": "Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
-      "description": "Germany's defense minister is playing down the impact of the Pentagon's decision to pull 5,000 troops from the country, but the move has rattled NATO allies and added to growing fears that Europe can no longer rely on Washington.",
-      "url": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us",
-      "source": "NPR World",
-      "publishedAt": "2026-05-03T00:57:59Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6581x4388+0+0/resize/6581x4388!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F11%2F51894cdd43449b58ba3fad8e96ea%2Fap26120441310041-1.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -d6face2f35d4",
-      "title": "'I'm still the same on the inside, but I've changed on the outside': The reconstruction of George Ivanchenko, Ukrainian photographer and amputee",
-      "description": "Wounded in a drone attack in the Donbas region of eastern Ukraine, young Ukrainian photographer George Ivanchenko captures intimate moments from his personal journey of recovery.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/03/i-m-still-the-same-on-the-inside-but-i-ve-changed-on-the-outside-the-reconstruction-of-george-ivanchenko-ukrainian-photographer-and-amputee_6753069_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-02T23:44:04Z",
-      "image": "https://img.lemde.fr/2026/04/06/420/0/4115/2057/644/322/60/0/1f23f97_upload-1-zadwzildvjqg-bodyafter-geiv-13.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -190,6 +192,21 @@
       "tags": []
     },
     {
+      "id": "cs -f78a8e0a8b7b",
+      "title": "A war in Europe drags on, and Africans pay the price",
+      "description": "Citizens of Ghana, Kenya, and several other African nations are ending up on the front lines in Ukraine as Russia looks overseas to bolster its armed forces.",
+      "url": "https://www.csmonitor.com/World/Africa/2026/0501/Ukraine-war-African-fighters-russia?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-05-01T20:25:58Z",
+      "image": "https://images.csmonitor.com/csm/2026/04/ZOAFRICAMERCENARIES_group.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-05e4f4ab28bd",
       "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
       "description": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
@@ -217,22 +234,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -59bf6741aec8",
-      "title": "Is our home safe? Is it rubble? For displaced Lebanese, anguished uncertainty.",
-      "description": "Lebanese people displaced by war have been on an emotional roller coaster. A ceasefire has been extended, but fighting in the south hasn’t ended. Even as families yearning for home prepare to return, despite the uncertainty, they are warned not to take the risk.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0430/lebanon-displaced-war-destruction-israel-hezbollah?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-04-30T21:20:00Z",
-      "image": "https://images.csmonitor.com/csm/2026/04/0430_OLEBANONHOME_car_LEDE.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     }
   ]

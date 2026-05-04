@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T14:50:12Z",
+  "updated": "2026-05-04T15:46:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T14:50:09Z",
+      "publishedAt": "2026-05-04T15:46:27Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -31,21 +31,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -fddccb8141f0",
-      "title": "Five people killed in Russian missile attack on Ukraine’s Kharkiv region",
-      "description": "Local governor says several injured in the attack with at least 10 houses struck by Russian missiles.",
-      "url": "https://www.aljazeera.com/news/2026/5/4/five-people-killed-in-russian-missile-attack-on-ukraines-kharkiv-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-04T13:41:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-04T092241Z_1741814112_RC292LA5K35S_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV-REGION-1777891917.jpg?resize=1920%2C1366",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -125,6 +110,22 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -9b94c8635aa9",
+      "title": "What is the Ukrainian anti-drone system Sky Map being used in the Gulf?",
+      "description": "Ukraine’s battle-tested system uses thousands of acoustic sensors and interceptors to find and destroy incoming drones.",
+      "url": "https://www.aljazeera.com/news/2026/5/4/what-is-the-ukrainian-anti-drone-system-sky-map-being-used-in-the-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-04T11:27:15Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/INTERACTIVE-anti-drone-poster-image-1777883929.png?resize=1200%2C630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {

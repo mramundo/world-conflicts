@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-04T18:39:43Z",
+  "updated": "2026-05-04T19:37:37Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T18:39:39Z",
+      "publishedAt": "2026-05-04T19:37:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-f645ae43118c",
+      "title": "Zelensky annuncia un cessate il fuoco dalla mezzanotte tra 5 e 6 maggio",
+      "description": "'A partire da quel momento, agiremo in modo reciproco'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/04/zelensky-annuncia-un-cessate-il-fuoco-dalla-mezzanotte-tra-5-e-6-maggio_5a30c102-1e05-4026-aef1-eeedf2f1da3a.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-04T19:27:09Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/8c08671c458e488da80c9d8af5affac4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-2fa88c8befc4",
+      "title": "Putin threatens 'massive missile strike' on Kyiv if Ukraine breaks two-day truce",
+      "description": "Russia threatened on Monday to launch a \"massive missile strike\" on Kyiv if Ukraine breached a two-day truce initiated by Russian President Vladimir Putin to coincide with World War II commemorations.",
+      "url": "https://www.france24.com/en/europe/20260504-putin-threatens-massive-missile-strike-on-kyiv-if-ukraine-breaks-two-day-truce",
+      "source": "France24",
+      "publishedAt": "2026-05-04T18:40:56Z",
+      "image": "https://s.france24.com/media/display/c29bcdce-47e3-11f1-a3cb-005056bf30b7/w:1024/p:16x9/000-A9GQ2G3.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,7 +97,7 @@
     },
     {
       "id": "rfe-09ee1b3419ee",
-      "title": "War Pushes Iran's Economy Even Further Toward The Brink",
+      "title": "War And Internet Blackout Push Iran's Economy Even Further Toward The Brink",
       "description": "More than a million jobs have been lost since the United States and Israel attacked Iran in late February. With the US blockade showing no signs of abating and little headway made in peace talks, ordinary Iranians are paying the price.",
       "url": "https://www.rferl.org/a/iran-economy-war-job-loss/33748721.html",
       "source": "RFE/RL",
@@ -143,22 +173,6 @@
       "tags": []
     },
     {
-      "id": "fra-7e2d9b613f3c",
-      "title": "A diary of America's wars with photographer Peter van Agtmael",
-      "description": "He's spent more than two decades documenting the realities of war, including years working alongside US soldiers in Iraq and Afghanistan. But photographer Peter van Agtmael's work goes beyond the battlefield. He's equally interested in how those wars echo back home, and that's the focus of his photo book \"Look at the U…",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260504-a-diary-of-america-s-wars-with-photographer-peter-van-agtmael",
-      "source": "France24",
-      "publishedAt": "2026-05-04T12:12:49Z",
-      "image": "https://s.france24.com/media/display/969def04-47b1-11f1-8598-005056a90284/w:1024/p:16x9/capture-26782292869f88b9c4fc9d9-31291796.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "un -f1a0525d0ceb",
       "title": "LIVE: 2026 World Press Freedom Day",
       "description": "Media freedom is not a given and its absence frequently leaves communities and vulnerable individuals in danger. To mark World Press Freedom Day, we’ll be hearing from UN agencies, along with war correspondents and reporters who face major obstacles trying to do their job. The aim is to get a better understanding about…",
@@ -166,21 +180,6 @@
       "source": "UN News",
       "publishedAt": "2026-05-04T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/07-05-2025-UNESCO-Belarus-Darya-Burakina.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-5b2594d92f81",
-      "title": "Teheran, colpita con due missili nave da guerra Usa vicino a Hormuz",
-      "description": "'Impedito l'ingresso a navi da guerra americane'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/04/teheran-colpita-con-due-missili-nave-da-guerra-usa-vicino-a-hormuz_96fba160-aa3e-4c52-80d6-c3b299c51165.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-04T10:44:13Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2025/2/6/ef8452adeb5e6a5a713aa0b0501f2897.jpg",
       "categories": [
         "conflict"
       ],
@@ -201,22 +200,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-1f01d5cc4f46",
-      "title": "Putin’s Chornobyl: a Régime That Will Not Permit the Wound to Heal",
-      "description": "From the 2022 Red Forest trenches to the St. Valentine’s 2025 drone strike, the Kremlin’s war is a war on the truth of 1986 – and the men who buried that truth are now being decorated for it.",
-      "url": "https://www.kyivpost.com/opinion/75151",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-02T12:44:00Z",
-      "image": "https://static.kyivpost.com/storage/2025/02/18/1b12d75f497229c8c5899d6f6877c555.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     },
     {

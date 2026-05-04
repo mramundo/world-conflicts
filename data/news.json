@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-04T20:34:47Z",
+  "updated": "2026-05-04T21:28:28Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T20:34:44Z",
+      "publishedAt": "2026-05-04T21:28:24Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -65f5b6eea90d",
+      "title": "Russia and Ukraine declare competing ceasefires",
+      "description": "Moscow&#039;s declaration of May 9 truce comes as Kyiv revels in its adversary&#039;s &#039;fear&#039; of Ukrainian drones.",
+      "url": "https://www.aljazeera.com/news/2026/5/4/russia-and-ukraine-declare-competing-ceasefires?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-04T20:44:46Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/05/2024-05-09T105653Z_1553208639_RC2VM7A24MPN_RTRMADP_3_WW2-ANNIVERSARY-RUSSIA-PARADE-1715252314.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-7c759794ade8",
+      "title": "Why U.S. troops are stationed in Germany, and what happens if some leave",
+      "description": "NPR's Mary Louise Kelly talks with Jeff Rathke, president of the American-German Institute, about U.S. troops stationed in Germany, and what happens if President Trump moves some of them elsewhere.",
+      "url": "https://www.npr.org/2026/05/04/nx-s1-5810195/why-u-s-troops-are-stationed-in-germany-and-what-happens-if-some-leave",
+      "source": "NPR World",
+      "publishedAt": "2026-05-04T20:38:08Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5810195",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-00f8395d770c",
+      "title": "Ukraine and Russia Declare Separate Truces",
+      "description": "The Russian Defense Ministry threatened a \"massive missile strike on the center of Kyiv\" if Ukraine violated its ceasefire.",
+      "url": "https://www.themoscowtimes.com/2026/05/04/ukraine-and-russia-declare-separate-truces-a92680",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-05-04T20:29:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/91/92680__91c694833b01b70e414bd13a0b14a574.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -142,36 +188,6 @@
       "tags": []
     },
     {
-      "id": "al -32b3fb6734b9",
-      "title": "Armenia hosts major EU summits in pivot away from Russia",
-      "description": "European leaders gathered in Armenia for two major summits, as security, trade, and the war in Ukraine dominate talks.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/armenia-hosts-major-eu-summits-in-pivot-away-from-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-04T14:11:33Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777903885.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-9ef94e20abed",
-      "title": "Putin Replaces Aerospace Commander With EU-Sanctioned General Amid Drone Surge, Reports Say",
-      "description": "General Viktor Afzalov, who assumed command in 2023, has been replaced by Colonel General Alexander Chaiko, according to RBC and the pro-war Telegram channel Fighterbomber.",
-      "url": "https://www.themoscowtimes.com/2026/05/04/putin-replaces-aerospace-commander-with-eu-sanctioned-general-amid-drone-surge-reports-say-a92675",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-05-04T14:04:27Z",
-      "image": "https://static.themoscowtimes.com/image/og/9c/92675__9cd9c5b7fffb5b4bb737e511e6ac9c8b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-f921d8ca8a1e",
       "title": "Hunted by drones it should have seen coming, Israel now sees its Lebanon strategy at risk",
       "description": "Years after drone warfare transformed other battlefields, the IDF seems caught off guard by Hezbollah's effective use of first-person and fiber-optic UAVs, leaving troops in southern Lebanon exposed yet again The post Hunted by drones it should have seen coming, Israel now sees its Lebanon strategy at risk appeared fir…",
@@ -183,21 +199,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-3e5caf3cbd55",
-      "title": "Trump says U.S. will 'guide' stranded ships through the Strait. And, key Senate races to watch",
-      "description": "President Trump announced that the U.S will \"guide\" stranded ships through the Strait of Hormuz. And, Democrats face an uphill battle to gain Senate control. Here are the key races to watch.",
-      "url": "https://www.npr.org/2026/05/04/g-s1-119970/up-first-newsletter-strait-of-hormuz-iran-lousiana-congressional-maps-senate-democrats-claim-sharks-rudy-giuliani",
-      "source": "NPR World",
-      "publishedAt": "2026-05-04T12:16:10Z",
-      "image": "undefined",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -215,6 +216,22 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-1f01d5cc4f46",
+      "title": "Putin’s Chornobyl: a Régime That Will Not Permit the Wound to Heal",
+      "description": "From the 2022 Red Forest trenches to the St. Valentine’s 2025 drone strike, the Kremlin’s war is a war on the truth of 1986 – and the men who buried that truth are now being decorated for it.",
+      "url": "https://www.kyivpost.com/opinion/75151",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-02T12:44:00Z",
+      "image": "https://static.kyivpost.com/storage/2025/02/18/1b12d75f497229c8c5899d6f6877c555.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     }
   ]

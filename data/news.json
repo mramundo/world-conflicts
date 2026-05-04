@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T19:37:37Z",
+  "updated": "2026-05-04T20:34:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T19:37:33Z",
+      "publishedAt": "2026-05-04T20:34:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-d60c8611a88c",
+      "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath",
+      "description": "President Putin has unilaterally declared a two-day truce amid commemorations of the end of World War II in Moscow. Ukraine's President Zelenskyy proposed his own truce starting a couple of days earlier.",
+      "url": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-04T19:31:00Z",
+      "image": "https://static.dw.com/image/72466617_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,8 +51,8 @@
     },
     {
       "id": "fra-2fa88c8befc4",
-      "title": "Putin threatens 'massive missile strike' on Kyiv if Ukraine breaks two-day truce",
-      "description": "Russia threatened on Monday to launch a \"massive missile strike\" on Kyiv if Ukraine breached a two-day truce initiated by Russian President Vladimir Putin to coincide with World War II commemorations.",
+      "title": "Putin and Zelensky both unilaterally declare conflicting 2-day truces",
+      "description": "Russia threatened on Monday to launch a \"massive missile strike\" on Kyiv if Ukraine breached a two-day truce initiated by Russian President Vladimir Putin to coincide with World War II commemorations. Ukrainian President Volodymyr Zelensky responded to Moscow's threats saying Kyiv would observe its own ceasefire betwee…",
       "url": "https://www.france24.com/en/europe/20260504-putin-threatens-massive-missile-strike-on-kyiv-if-ukraine-breaks-two-day-truce",
       "source": "France24",
       "publishedAt": "2026-05-04T18:40:56Z",
@@ -46,6 +61,21 @@
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -03a3a0bde609",
+      "title": "Trump threatens to pull troops from Germany. Why Europe isn’t panicking.",
+      "description": "President Donald Trump’s attempts to punish criticism, like that from German Chancellor Friedrich Merz, seem to be delivering diminishing returns in Europe.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0504/trump-merz-germany-us-bases-troop-withdrawal?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-05-04T18:33:49Z",
+      "image": "https://images.csmonitor.com/csm/2026/05/0504_OUSGERMANCLASH_summit.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -142,19 +172,18 @@
       "tags": []
     },
     {
-      "id": "deu-31c0e0148f01",
-      "title": "How child soldiers in Sudan become influencers on TikTok",
-      "description": "Some Sudanese child soldiers have social media accounts are celebrated by millions of followers. Psychologists and other experts warn this is a dangerous trend.",
-      "url": "https://www.dw.com/en/how-child-soldiers-in-sudan-become-influencers-on-tiktok/a-77033265?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-04T13:10:00Z",
-      "image": "https://static.dw.com/image/76887182_6.jpg",
+      "id": "tim-f921d8ca8a1e",
+      "title": "Hunted by drones it should have seen coming, Israel now sees its Lebanon strategy at risk",
+      "description": "Years after drone warfare transformed other battlefields, the IDF seems caught off guard by Hezbollah's effective use of first-person and fiber-optic UAVs, leaving troops in southern Lebanon exposed yet again The post Hunted by drones it should have seen coming, Israel now sees its Lebanon strategy at risk appeared fir…",
+      "url": "https://www.timesofisrael.com/hunted-by-drones-it-should-have-seen-coming-israels-lebanon-strategy-is-now-at-risk/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-04T13:35:26Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/WhatsApp-Image-2026-04-30-at-12.15.432-e1777547568769-1024x640.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -173,47 +202,18 @@
       "tags": []
     },
     {
-      "id": "un -f1a0525d0ceb",
-      "title": "LIVE: 2026 World Press Freedom Day",
-      "description": "Media freedom is not a given and its absence frequently leaves communities and vulnerable individuals in danger. To mark World Press Freedom Day, we’ll be hearing from UN agencies, along with war correspondents and reporters who face major obstacles trying to do their job. The aim is to get a better understanding about…",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167417",
+      "id": "un -d5d3a7755a7a",
+      "title": "Middle East: Fighting and displacement in Lebanon; call for ‘sustained access’ in Gaza",
+      "description": "Lebanon’s fragile ceasefire is being tested by renewed violence and rising humanitarian needs amid continuing civilians displacement, services under pressure and aid cuts.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167437",
       "source": "UN News",
       "publishedAt": "2026-05-04T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/07-05-2025-UNESCO-Belarus-Darya-Burakina.jpg/image560x340cropped.jpg",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-06-2025-UNICEF-Lebanon.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-14c5dad91090",
-      "title": "Daily Briefing May 4 – ‘One big failure’: An IDF official on the Iran war so far",
-      "description": "Military correspondent Emanuel Fabian on the lack of a true ceasefire in southern Lebanon, the IDF gearing up for more operations in Gaza and the clash between rabbis and women warriors The post Daily Briefing May 4 &#8211; &#8216;One big failure&#8217;: An IDF official on the Iran war so far appeared first on The Time…",
-      "url": "https://www.timesofisrael.com/daily-briefing-may-4-one-big-failure-an-idf-official-on-the-iran-war-so-far/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-04T10:16:27Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/Mannie3-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -f78a8e0a8b7b",
-      "title": "A war in Europe drags on, and Africans pay the price",
-      "description": "Citizens of Ghana, Kenya, and several other African nations are ending up on the front lines in Ukraine as Russia looks overseas to bolster its armed forces.",
-      "url": "https://www.csmonitor.com/World/Africa/2026/0501/Ukraine-war-African-fighters-russia?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-05-01T20:25:58Z",
-      "image": "https://images.csmonitor.com/csm/2026/04/ZOAFRICAMERCENARIES_group.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

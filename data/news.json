@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T13:40:44Z",
+  "updated": "2026-05-04T14:50:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,59 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T13:40:39Z",
+      "publishedAt": "2026-05-04T14:50:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-9ef94e20abed",
+      "title": "Putin Replaces Aerospace Commander With EU-Sanctioned General Amid Drone Surge, Reports Say",
+      "description": "General Viktor Afzalov, who assumed command in 2023, has been replaced by Colonel General Alexander Chaiko, according to RBC and the pro-war Telegram channel Fighterbomber.",
+      "url": "https://www.themoscowtimes.com/2026/05/04/putin-replaces-aerospace-commander-with-eu-sanctioned-general-amid-drone-surge-reports-say-a92675",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-05-04T14:04:27Z",
+      "image": "https://static.themoscowtimes.com/image/og/9c/92675__9cd9c5b7fffb5b4bb737e511e6ac9c8b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -fddccb8141f0",
+      "title": "Five people killed in Russian missile attack on Ukraine’s Kharkiv region",
+      "description": "Local governor says several injured in the attack with at least 10 houses struck by Russian missiles.",
+      "url": "https://www.aljazeera.com/news/2026/5/4/five-people-killed-in-russian-missile-attack-on-ukraines-kharkiv-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-04T13:41:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-04T092241Z_1741814112_RC292LA5K35S_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV-REGION-1777891917.jpg?resize=1920%2C1366",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -d5ae3514f054",
+      "title": "A European tax on oil superprofits is necessary",
+      "description": "The war in the Middle East has reignited the debate on how to make multinationals that benefit from soaring oil prices contribute more. Rather than being forced to improvise under pressure from an Assemblée Nationale without a majority, it would be preferable for the government to push for the creation of a Europe-wide…",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/05/04/a-european-tax-on-oil-superprofits-is-necessary_6753116_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-04T13:30:09Z",
+      "image": "https://img.lemde.fr/2026/03/25/670/0/5428/2714/644/322/60/0/19e1c92_ftp-1-2dcnubzee8pq-2026-03-25t122316z-2114407073-rc2lbkatzogm-rtrmadp-3-iran-crisis-france-energy.JPG",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -82,22 +128,6 @@
       "tags": []
     },
     {
-      "id": "al -9b94c8635aa9",
-      "title": "What is the Ukrainian anti-drone system Sky Map being used in the Gulf?",
-      "description": "Ukraine’s battle-tested system uses thousands of acoustic sensors and interceptors to find and destroy incoming drones.",
-      "url": "https://www.aljazeera.com/news/2026/5/4/what-is-the-ukrainian-anti-drone-system-sky-map-being-used-in-the-gulf?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-04T11:27:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/INTERACTIVE-anti-drone-poster-image-1777883929.png?resize=1200%2C630",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "the-6b3bb50d50bf",
       "title": "Iran says ships being ‘guided’ by US through Hormuz must work with its armed forces",
       "description": "Shipowners wary as Iran says it will attack any foreign military entering waterway under Trump planMiddle East crisis – live updatesThe US has launched an operation to “guide” ships trapped in the Gulf by the Iran war through a southern route of the strait of Hormuz, even as Tehran insists that any such transits will h…",
@@ -157,36 +187,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -884c672d3453",
-      "title": "Russia stands by Mali's military junta at all costs",
-      "description": "Russian Africa Corps mercenaries have suffered several setbacks since jihadists launched an offensive on April 25, including the death of pro-Russian defense minister Sadio Camara and the loss of the town of Kidal.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/05/03/russia-stands-by-mali-s-military-junta-at-all-costs_6753076_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-03T10:15:04Z",
-      "image": "https://img.lemde.fr/2026/05/01/342/0/2048/1024/644/322/60/0/bc1fa18_ftp-1-bbbygzzy9xfx-2026-05-01t000027z-1854070916-rc2zzkapzmxc-rtrmadp-3-mali-security-camara-funeral.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-0e8886aaeecf",
-      "title": "Ukraine Hits Russian Oil Sites as 8 Killed in Both Countries",
-      "description": "Ukraine said Sunday it had hit several Russian ships as both sides fired hundreds of drones.",
-      "url": "https://www.themoscowtimes.com/2026/05/03/ukraine-hits-russian-oil-sites-as-8-killed-in-both-countries-a92667",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-05-03T07:37:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/57/92667__578173d6e1daf9858180e4b55ec60d73.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

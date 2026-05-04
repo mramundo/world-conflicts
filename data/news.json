@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T09:56:02Z",
+  "updated": "2026-05-04T10:46:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T09:55:58Z",
+      "publishedAt": "2026-05-04T10:46:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-cca89b12fb24",
+      "title": "Teheran, colpita con due missili nave da guerra Usa vicino a Hormuz",
+      "description": "'Impedito l'ingresso a navi da guerra americane'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/04/teheran-colpita-con-due-missili-nave-da-guerra-usa-vicino-a-hormuz_a2ac8762-17bf-44de-90a8-6b86fed010d9.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-04T10:28:31Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2025/2/6/ef8452adeb5e6a5a713aa0b0501f2897.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-14c5dad91090",
+      "title": "Daily Briefing May 4 – ‘One big failure’: An IDF official on the Iran war so far",
+      "description": "Military correspondent Emanuel Fabian on the lack of a true ceasefire in southern Lebanon, the IDF gearing up for more operations in Gaza and the clash between rabbis and women warriors The post Daily Briefing May 4 &#8211; &#8216;One big failure&#8217;: An IDF official on the Iran war so far appeared first on The Time…",
+      "url": "https://www.timesofisrael.com/daily-briefing-may-4-one-big-failure-an-idf-official-on-the-iran-war-so-far/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-04T10:16:27Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/Mannie3-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "tim-d65eb7fb2e81",
-      "title": "Australian Jews recount harrowing stories at Bondi massacre inquiry’s 1st public hearing",
-      "description": "Royal commission head laments surge in antisemitic attacks since Hamas onslaught sparked Gaza war; daughter of Sydney victim says shooting shattered happy childhood memories from beach where her parents first met The post Australian Jews recount harrowing stories at Bondi massacre inquiry&#8217;s 1st public hearing app…",
-      "url": "https://www.timesofisrael.com/australian-jews-recount-harrowing-stories-in-1st-public-hearing-in-inquiry-into-bondi-massacre/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-04T03:52:02Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260504__A9PF2KX__v1__HighRes__AustraliaBondiInquiry-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-e06deebb37dd",
       "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
       "description": "U.S. gas prices were nearly $3 an average prior to the start of the war in Iran.",
@@ -122,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-29a4ebbdad24",
-      "title": "'Netanyahu convoca gabinetto sicurezza su possibile stop alla tregua in Iran e Gaza'",
-      "description": "Lo riportano i media israeliani, riunione attesa per oggi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/03/netanyahu-convoca-gabinetto-sicurezza-su-possibile-stop-alla-tregua-in-iran-e-gaza_1069d0e6-ddd4-4705-8822-db73874e8beb.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-03T09:26:34Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/8def2e89847f1af13cc2f9c562ff2524.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

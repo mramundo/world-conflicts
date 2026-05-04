@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T12:42:48Z",
+  "updated": "2026-05-04T13:40:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T12:42:44Z",
+      "publishedAt": "2026-05-04T13:40:39Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-31c0e0148f01",
+      "title": "How child soldiers in Sudan become influencers on TikTok",
+      "description": "Some Sudanese child soldiers have social media accounts are celebrated by millions of followers. Psychologists and other experts warn this is a dangerous trend.",
+      "url": "https://www.dw.com/en/how-child-soldiers-in-sudan-become-influencers-on-tiktok/a-77033265?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-04T13:10:00Z",
+      "image": "https://static.dw.com/image/76887182_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -130,7 +146,7 @@
     {
       "id": "rfe-81e8c8969493",
       "title": "Drone Hits Moscow High-Rise Ahead Of WWII Parade, Ukraine Reports Deadly Russian Missile Attack",
-      "description": "A drone hit a high-rise apartment building a few kilometers from the Kremlin, Moscow's mayor said, while the governor of Ukraine's Kharkiv region said a Russian missile attack killed three people and wounded eight others.",
+      "description": "A drone hit a high-rise apartment building a few kilometers from the Kremlin, Moscow's mayor said, while Ukrainian authorities said a Russian missile attack killed five people and wounded several others in the eastern Kharkiv region.",
       "url": "https://www.rferl.org/a/moscow-drone-strike-kremlin-parade-ukraine/33748578.html",
       "source": "RFE/RL",
       "publishedAt": "2026-05-04T08:56:52Z",
@@ -201,22 +217,6 @@
         "analysis"
       ],
       "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-a0dc9154abc8",
-      "title": "How the Iran war is hurting travelers, airline industry",
-      "description": "Europeans may have to reconsider their summer travel plans, as a jet fuel shortage triggered by the blockade of the Strait of Hormuz could lead airlines to set higher ticket prices.",
-      "url": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-02T07:57:00Z",
-      "image": "https://static.dw.com/image/72628325_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },

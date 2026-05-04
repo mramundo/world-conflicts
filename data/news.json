@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-04T22:25:21Z",
+  "updated": "2026-05-04T23:23:06Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T22:25:17Z",
+      "publishedAt": "2026-05-04T23:23:03Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -216,22 +216,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-1f01d5cc4f46",
-      "title": "Putin’s Chornobyl: a Régime That Will Not Permit the Wound to Heal",
-      "description": "From the 2022 Red Forest trenches to the St. Valentine’s 2025 drone strike, the Kremlin’s war is a war on the truth of 1986 – and the men who buried that truth are now being decorated for it.",
-      "url": "https://www.kyivpost.com/opinion/75151",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-02T12:44:00Z",
-      "image": "https://static.kyivpost.com/storage/2025/02/18/1b12d75f497229c8c5899d6f6877c555.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     }
   ]

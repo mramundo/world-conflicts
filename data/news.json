@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-04T16:39:22Z",
+  "updated": "2026-05-04T17:37:03Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T16:39:13Z",
+      "publishedAt": "2026-05-04T17:36:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-ec1757514e50",
+      "title": "‘Project Freedom’ marks a classic Trump flip from warmonger to humanitarian",
+      "description": "After banging the battle drum, the US president is now in Nobel Peace Prize mode, promising to free marooned ships“Project Freedom” has all the trappings of a classic episode of the Trump Show, the reality series that the rest of the world does not just have to watch, but live through and survive. It has a dramatic plo…",
+      "url": "https://www.theguardian.com/us-news/2026/may/04/project-freedom-marks-a-classic-trump-flip-from-warmonger-to-humanitarian",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-04T16:49:42Z",
+      "image": "https://i.guim.co.uk/img/media/5c1c12b88d9c90d71d7945e5db3d028802e54e57/0_79_3236_2589/master/3236.jpg?width=140&quality=85&auto=format&fit=max&s=07a5e06998ee52c411905ad4f4d223f9",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -145,22 +161,6 @@
       "tags": []
     },
     {
-      "id": "the-6b3bb50d50bf",
-      "title": "Iran says ships being ‘guided’ by US through Hormuz must work with its armed forces",
-      "description": "Shipowners wary as Iran says it will attack any foreign military entering waterway under Trump planMiddle East crisis – live updatesThe US has launched an operation to “guide” ships trapped in the Gulf by the Iran war through a southern route of the strait of Hormuz, even as Tehran insists that any such transits will h…",
-      "url": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-04T11:09:06Z",
-      "image": "https://i.guim.co.uk/img/media/6fbce6403bf88b99d5d3f3d15ad83285d98fb691/483_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=381ef0524936380b5e5c7f00753926a9",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-5b2594d92f81",
       "title": "Teheran, colpita con due missili nave da guerra Usa vicino a Hormuz",
       "description": "'Impedito l'ingresso a navi da guerra americane'",
@@ -203,22 +203,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-1f01d5cc4f46",
-      "title": "Putin’s Chornobyl: a Régime That Will Not Permit the Wound to Heal",
-      "description": "From the 2022 Red Forest trenches to the St. Valentine’s 2025 drone strike, the Kremlin’s war is a war on the truth of 1986 – and the men who buried that truth are now being decorated for it.",
-      "url": "https://www.kyivpost.com/opinion/75151",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-02T12:44:00Z",
-      "image": "https://static.kyivpost.com/storage/2025/02/18/1b12d75f497229c8c5899d6f6877c555.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     },
     {

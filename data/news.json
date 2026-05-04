@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T15:46:31Z",
+  "updated": "2026-05-04T16:39:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T15:46:27Z",
+      "publishedAt": "2026-05-04T16:39:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-09ee1b3419ee",
+      "title": "War Pushes Iran's Economy Even Further Toward The Brink",
+      "description": "More than a million jobs have been lost since the United States and Israel attacked Iran in late February. With the US blockade showing no signs of abating and little headway made in peace talks, ordinary Iranians are paying the price.",
+      "url": "https://www.rferl.org/a/iran-economy-war-job-loss/33748721.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-04T16:24:30Z",
+      "image": "https://gdb.rferl.org/1f4eab54-12ef-4c2a-90ba-c506de49c675_cx0_cy3_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -172,22 +188,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-81e8c8969493",
-      "title": "Drone Hits Moscow High-Rise Ahead Of WWII Parade, Ukraine Reports Deadly Russian Missile Attack",
-      "description": "A drone hit a high-rise apartment building a few kilometers from the Kremlin, Moscow's mayor said, while Ukrainian authorities said a Russian missile attack killed five people and wounded several others in the eastern Kharkiv region.",
-      "url": "https://www.rferl.org/a/moscow-drone-strike-kremlin-parade-ukraine/33748578.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-04T08:56:52Z",
-      "image": "https://gdb.rferl.org/34b046b3-ee08-4f3b-a5cc-3e032318b1b4_cx0_cy3_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {

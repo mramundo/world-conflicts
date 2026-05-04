@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T15:46:39Z",
+  "updated": "2026-05-04T16:39:31Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-05-02T00:08:58Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-05-03",
       "wikipediaRevision": "2026-05-03T10:36:13Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 3
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-05-03",
       "wikipediaRevision": "2026-05-03T15:20:37Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "sd-war",
@@ -131,9 +131,9 @@
         "Post-transition"
       ],
       "wikipediaPage": "Syrian_civil_war",
-      "lastUpdate": "2026-04-29",
+      "lastUpdate": "2026-05-04",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-04-29T10:19:01Z",
+      "wikipediaRevision": "2026-05-04T16:08:10Z",
       "recentNewsCount": 0
     },
     {
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-04-28",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-04-28T05:17:32Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sahel",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 5
     },
     {
       "id": "et-am",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     }
   ]
 }

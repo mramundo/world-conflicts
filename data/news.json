@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T17:37:41Z",
+  "updated": "2026-05-05T18:37:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/india-russia-pact-allows-troops-and-warships-on-each-other-s-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-05T17:37:38Z",
+      "publishedAt": "2026-05-05T18:37:38Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F5%2F0%2F12450537-1-eng-GB%2F5fc136da8f6c-ship.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,9 +20,24 @@
       "tags": []
     },
     {
+      "id": "ans-31607f1fecfa",
+      "title": "Sangue prima della tregua, 'oltre 20 morti nei raid russi sull'Ucraina'",
+      "description": "Zelensky: 'Da loro solo propaganda'. E Mosca taglia internet prima della parata",
+      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/05/05/sangue-prima-della-tregua-oltre-20-morti-nei-raid-russi-sullucraina_3b74e245-9f1a-4bb5-9d37-26cf7825ab51.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-05T17:44:20Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/a06e30eb2027c8a019a927dabcc1cdee.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-b18b57e25cac",
       "title": "Zelenskyy condemns Russian ‘cynicism’ over parade truce as 23 killed in attacks",
-      "description": "Kyiv lambasts Moscow’s request for ceasefire while ‘carrying out missile and drone strikes every single day leading up to it’Volodymyr Zelenskyy has accused the Kremlin of “utter cynicism” for seeking a truce so it can stage a military parade in Moscow as 23 people were killed in attacks on Ukraine.At least 12 people w…",
+      "description": "Kyiv berates Moscow’s request for ceasefire while launching ‘missile and drone strikes every single day leading up to it’Volodymyr Zelenskyy has accused the Kremlin of “utter cynicism” for seeking a truce so it can stage a military parade in Moscow as 23 people were killed in attacks on Ukraine.At least 12 people were …",
       "url": "https://www.theguardian.com/world/2026/may/05/zelenskyy-russia-parade-truce-poltava-attack",
       "source": "The Guardian",
       "publishedAt": "2026-05-05T16:49:42Z",
@@ -112,6 +127,21 @@
       "tags": []
     },
     {
+      "id": "un -773008c4c373",
+      "title": "Education or food? Funding shortfalls force Sudanese refugees in Egypt to ‘make very difficult decisions’",
+      "description": "Civilians who have fled the war in Sudan and sought shelter in neighbouring Egypt could potentially face a new battle – the loss of critical services that ensure their survival, the UN refugee agency, UNHCR, has warned.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167443",
+      "source": "UN News",
+      "publishedAt": "2026-05-05T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-04-2026-UNHCR-Egypt-Refugees-Reg.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-dfc761aa5bae",
       "title": "U.K. Targets Russian Army Recruitment Network and Drone Suppliers in Latest Sanctions Package",
       "description": "The new measures target what British officials condemned as a “barbaric” network that lures foreign nationals to Russia with the promise of work, only to force them into frontline combat in Ukraine or military production.",
@@ -138,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-6ffc1043a247",
-      "title": "Zelensky, 'cinico attaccarci nei giorni che precedono una tregua di propaganda'",
-      "description": "",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/05/zelensky-cinico-attaccarci-nei-giorni-che-precedono-una-tregua-di-propaganda_0a4b39ff-ef2b-45f6-8086-5b71766a56c8.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-05T08:56:40Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/a09bb08164c6e4770d57f860ad2f541c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -213,22 +228,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -d5d3a7755a7a",
-      "title": "Middle East: Fighting and displacement in Lebanon; call for ‘sustained access’ in Gaza",
-      "description": "Lebanon’s fragile ceasefire is being tested by renewed violence and rising humanitarian needs amid continuing civilians displacement, services under pressure and aid cuts.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167437",
-      "source": "UN News",
-      "publishedAt": "2026-05-04T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-06-2025-UNICEF-Lebanon.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

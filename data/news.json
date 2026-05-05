@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-04T23:23:06Z",
+  "updated": "2026-05-05T00:48:01Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-04T23:23:03Z",
+      "publishedAt": "2026-05-05T00:47:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F5%2F12445661-1-eng-GB%2F587846b6935c-20260511-TA-Hong-Kong-IPO-market-img-1-.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,32 @@
       "tags": []
     },
     {
-      "id": "al -65f5b6eea90d",
-      "title": "Russia and Ukraine declare competing ceasefires",
-      "description": "Moscow&#039;s declaration of May 9 truce comes as Kyiv revels in its adversary&#039;s &#039;fear&#039; of Ukrainian drones.",
-      "url": "https://www.aljazeera.com/news/2026/5/4/russia-and-ukraine-declare-competing-ceasefires?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-04T20:44:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2024/05/2024-05-09T105653Z_1553208639_RC2VM7A24MPN_RTRMADP_3_WW2-ANNIVERSARY-RUSSIA-PARADE-1715252314.jpg?resize=1920%2C1440",
+      "id": "le -b6641cda8893",
+      "title": "Russia and Ukraine declare separate truces",
+      "description": "Russia, which declared a May 8-9 ceasefire with Ukraine, marks World War II Victory Day each year with a massive military parade through Red Square. The Russian defense ministry warned Kyiv that it would launch a 'massive missile strike' on the city center if it disrupted its celebrations. Ukraine declared a truce of i…",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/05/russia-and-ukraine-declare-separate-truces_6753128_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-04T23:56:23Z",
+      "image": "https://img.lemde.fr/2026/05/04/43/0/7765/3882/644/322/60/0/3d3063e_ftp-1-egcrgwam8w02-5943123-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -080804d01ad2",
+      "title": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
+      "description": "ISIL-linked group has tortured, killed and abducted civilians in the Democratic Republic of Congo, including children.",
+      "url": "https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-04T23:37:54Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2019/12/5d6a7fcbfc3e441482620057adb6db6a_18.jpeg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -141,21 +156,6 @@
       "tags": []
     },
     {
-      "id": "le -fdcfc363d014",
-      "title": "Putin's waning popularity worries Kremlin five months ahead of Russian parliamentary elections",
-      "description": "Internet shutdowns have hastened the decline in public trust in the president, amid economic hardships that have affected citizens' daily lives and the war in Ukraine that has only kept dragging on.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/04/putin-s-waning-popularity-worries-kremlin-five-months-ahead-of-russian-parliamentary-elections_6753122_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-04T18:00:03Z",
-      "image": "https://img.lemde.fr/2026/04/30/477/0/5722/2861/644/322/60/0/63aa227_upload-1-0zpflp42xoam-sipa-sipausa30541982-000019.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-ec1757514e50",
       "title": "‘Project Freedom’: a grand humanitarian gesture, or a fast track to more war?",
       "description": "After banging his battle drum, Trump is back in Nobel peace prize mode. But the move has dramatically raised the stakes“Project Freedom” has all the trappings of a classic episode of the Trump Show, the reality series that the rest of the world does not just have to watch, but live through and survive. It has a dramati…",
@@ -188,17 +188,17 @@
       "tags": []
     },
     {
-      "id": "tim-f921d8ca8a1e",
-      "title": "Hunted by drones it should have seen coming, Israel now sees its Lebanon strategy at risk",
-      "description": "Years after drone warfare transformed other battlefields, the IDF seems caught off guard by Hezbollah's effective use of first-person and fiber-optic UAVs, leaving troops in southern Lebanon exposed yet again The post Hunted by drones it should have seen coming, Israel now sees its Lebanon strategy at risk appeared fir…",
-      "url": "https://www.timesofisrael.com/hunted-by-drones-it-should-have-seen-coming-israels-lebanon-strategy-is-now-at-risk/",
+      "id": "tim-4ca9527103e0",
+      "title": "Yisrael Beytenu, said to eye merger with Eisenkot, adds hostages’ brother to ranks",
+      "description": "Sharon Sharabi, who entered public life as a hostage deal advocate, praises 'true right-wing leader' Liberman, as opposition looks for ways to challenge Netanyahu's Likud The post Yisrael Beytenu, said to eye merger with Eisenkot, adds hostages&#8217; brother to ranks appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/sharon-sharabi-brother-of-former-hostages-eli-and-yossi-joins-yisrael-beytenu/",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-04T13:35:26Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/WhatsApp-Image-2026-04-30-at-12.15.432-e1777547568769-1024x640.jpg",
+      "publishedAt": "2026-05-04T15:10:24Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/WhatsApp-Image-2026-05-04-at-13.18.49-1024x640.jpeg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -216,6 +216,22 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-1f01d5cc4f46",
+      "title": "Putin’s Chornobyl: a Régime That Will Not Permit the Wound to Heal",
+      "description": "From the 2022 Red Forest trenches to the St. Valentine’s 2025 drone strike, the Kremlin’s war is a war on the truth of 1986 – and the men who buried that truth are now being decorated for it.",
+      "url": "https://www.kyivpost.com/opinion/75151",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-02T12:44:00Z",
+      "image": "https://static.kyivpost.com/storage/2025/02/18/1b12d75f497229c8c5899d6f6877c555.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     }
   ]

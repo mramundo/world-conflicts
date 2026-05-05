@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T05:08:44Z",
+  "updated": "2026-05-05T06:53:46Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/india-russia-pact-allows-troops-and-warships-on-each-other-s-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-05T05:08:41Z",
+      "publishedAt": "2026-05-05T06:53:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F5%2F0%2F12450537-1-eng-GB%2F5fc136da8f6c-ship.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,43 @@
       "tags": []
     },
     {
+      "id": "the-51c97c372077",
+      "title": "Middle East crisis live: US targets Iranian boats amid tense push for control of strait of Hormuz",
+      "description": "US says it has destroyed six small Iranian military boats – which Tehran denies – while Iran launched barrage of attacks on US-allied United Arab EmiratesDonald Trump sends warships to break Iran’s strait of Hormuz blockadeIndia’s ministry of external affairs said the attack on Fujairah in the UAE – which injured three…",
+      "url": "https://www.theguardian.com/world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-05T06:42:49Z",
+      "image": "https://i.guim.co.uk/img/media/5712cbc1a1ee93b704dbef470fea761d6af139d4/546_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=85a52bd635e0c50a862a78657393c85e",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-344ee870e71a",
+      "title": "Russia declares a truce in Ukraine to mark Victory Day",
+      "description": "Russia declared a unilateral ceasefire in Ukraine for Friday and Saturday to mark the defeat of Nazi Germany in World War II, but threatened to strike back at Kyiv if it tries to disrupt festivities.",
+      "url": "https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day",
+      "source": "NPR World",
+      "publishedAt": "2026-05-05T05:47:24Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3051x2034+0+0/resize/3051x2034!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2Fee%2F027ed7c84172b908485db0c45db6%2Fap26124422588683.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "tim-7fe20da2b741",
-      "title": "IDF says Hezbollah fired twice at troops in south Lebanon overnight; no injuries reported",
-      "description": "Iran FM notes progress in talks with US, while warning Washington and Abu Dhabi against being drawn into 'quagmire by ill-wishers' * Despite rift, MBS calls Emirati counterpart to condemn Iranian strikes on UAE The post IDF says Hezbollah fired twice at troops in south Lebanon overnight; no injuries reported appeared f…",
+      "title": "Smotrich claims formation of government with Arab party is far worse than Oct. 7 failures",
+      "description": "IDF says Hezbollah fired twice at troops in south Lebanon overnight; no injuries reported * Iran FM notes progress in talks with US, while warning Washington and Abu Dhabi against being drawn into 'quagmire by ill-wishers' The post Smotrich claims formation of government with Arab party is far worse than Oct. 7 failure…",
       "url": "https://www.timesofisrael.com/liveblog-may-5-2026/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-05T03:40:55Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/ef221cb2-a606-4607-860b-cf11231cad97-1024x640.jpg",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260329YS20-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -37,7 +67,7 @@
     {
       "id": "le -b6641cda8893",
       "title": "Russia and Ukraine declare separate truces",
-      "description": "Russia, which declared a May 8-9 ceasefire with Ukraine, marks World War II Victory Day each year with a massive military parade through Red Square. The Russian defense ministry warned Kyiv that it would launch a 'massive missile strike' on the city center if it disrupted its celebrations. Ukraine declared a truce of i…",
+      "description": "Moscow announced a May 8–9 truce tied to WWII commemorations and warned of 'massive missile strike' if breached, while Kyiv called the proposal unserious and set its own ceasefire beginning May 6.",
       "url": "https://www.lemonde.fr/en/international/article/2026/05/05/russia-and-ukraine-declare-separate-truces_6753128_4.html",
       "source": "Le Monde (EN)",
       "publishedAt": "2026-05-04T23:56:23Z",
@@ -62,22 +92,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-7c759794ade8",
-      "title": "Why U.S. troops are stationed in Germany, and what happens if some leave",
-      "description": "NPR's Mary Louise Kelly talks with Jeff Rathke, president of the American-German Institute, about U.S. troops stationed in Germany, and what happens if President Trump moves some of them elsewhere.",
-      "url": "https://www.npr.org/2026/05/04/nx-s1-5810195/why-u-s-troops-are-stationed-in-germany-and-what-happens-if-some-leave",
-      "source": "NPR World",
-      "publishedAt": "2026-05-04T20:38:08Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5810195",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -167,22 +181,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-ec1757514e50",
-      "title": "‘Project Freedom’: a grand humanitarian gesture, or a fast track to more war?",
-      "description": "After banging his battle drum, Trump is back in Nobel peace prize mode. But the move has dramatically raised the stakes“Project Freedom” has all the trappings of a classic episode of the Trump Show, the reality series that the rest of the world does not just have to watch, but live through and survive. It has a dramati…",
-      "url": "https://www.theguardian.com/us-news/2026/may/04/project-freedom-marks-a-classic-trump-flip-from-warmonger-to-humanitarian",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-04T16:49:42Z",
-      "image": "https://i.guim.co.uk/img/media/5c1c12b88d9c90d71d7945e5db3d028802e54e57/0_79_3236_2589/master/3236.jpg?width=140&quality=85&auto=format&fit=max&s=07a5e06998ee52c411905ad4f4d223f9",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

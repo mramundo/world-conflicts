@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T07:43:56Z",
+  "updated": "2026-05-05T08:52:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/india-russia-pact-allows-troops-and-warships-on-each-other-s-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-05T07:43:52Z",
+      "publishedAt": "2026-05-05T08:52:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F5%2F0%2F12450537-1-eng-GB%2F5fc136da8f6c-ship.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,34 @@
       "tags": []
     },
     {
-      "id": "al -de8073bb0f58",
-      "title": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
-      "description": "The UAE says it intercepted Iranian missiles after a suspected drone attack, with no comment from Iran.",
-      "url": "https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-05T06:31:34Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-04T150241Z_656096062_RC2E2LAN9HWG_RTRMADP_3_IRAN-CRISIS-US-NAVY-1777945543.jpg?resize=1920%2C1440",
+      "id": "the-1029870d769c",
+      "title": "Russia launches attacks on Ukraine energy infrastructure amid truce talks – Europe live",
+      "description": "‘Russia could cease fire at any moment, and this would stop the war,’ Volodymyr Zelenskyy said in sharp criticism of PutinUkraine’s president Volodymyr Zelenskyy has criticised Russia’s “utter cynicism” of launching more attacks on Ukraine while also calling for a short ceasefire enabling it to stage its 9 May Victory …",
+      "url": "https://www.theguardian.com/world/live/2026/may/05/zelenskyy-putin-ukraine-russia-trump-troops-merz-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-05T08:33:37Z",
+      "image": "https://i.guim.co.uk/img/media/02a2598706ceb196a30e11083f51e7384d21d1b3/243_0_5513_4410/master/5513.jpg?width=140&quality=85&auto=format&fit=max&s=65a3c3657fc0e9dbef59c9ecb1ffe908",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 11,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -19354c19ee9a",
+      "title": "What Iran is saying about attack on UAE",
+      "description": "What Iran is saying about attack on UAE",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-05T08:29:51Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/resul-hosiziontal-thumb-1777969639.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -51,8 +67,8 @@
     },
     {
       "id": "tim-7fe20da2b741",
-      "title": "Smotrich claims formation of government with Arab party is far worse than Oct. 7 failures",
-      "description": "Ex-spy Jonathan Pollard says he’s joining politics as part of new party, urges expulsion of Gazans * IDF says Hezbollah fired twice at troops in south Lebanon overnight; no injuries reported The post Smotrich claims formation of government with Arab party is far worse than Oct. 7 failures appeared first on The Times of…",
+      "title": "Smotrich claims formation of government with Arab party is far worse than Oct. 7",
+      "description": "Ex-spy Jonathan Pollard says he’s joining politics as part of new party, urges expulsion of Gazans * IDF says Hezbollah fired twice at troops in south Lebanon overnight; no injuries reported The post Smotrich claims formation of government with Arab party is far worse than Oct. 7 appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/liveblog-may-5-2026/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-05T03:40:55Z",
@@ -80,10 +96,10 @@
       "tags": []
     },
     {
-      "id": "the-00f8395d770c",
-      "title": "Ukraine and Russia Declare Separate Truces",
+      "id": "the-da449841ceab",
+      "title": "Ukraine and Russia Declare Separate Temporary Ceasefires",
       "description": "The Russian Defense Ministry threatened a \"massive missile strike on the center of Kyiv\" if Ukraine violated its ceasefire.",
-      "url": "https://www.themoscowtimes.com/2026/05/04/ukraine-and-russia-declare-separate-truces-a92680",
+      "url": "https://www.themoscowtimes.com/2026/05/04/ukraine-and-russia-declare-separate-temporary-ceasefires-a92680",
       "source": "The Moscow Times",
       "publishedAt": "2026-05-04T20:29:00Z",
       "image": "https://static.themoscowtimes.com/image/og/91/92680__91c694833b01b70e414bd13a0b14a574.jpg",
@@ -166,22 +182,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-ec1757514e50",
-      "title": "‘Project Freedom’: a grand humanitarian gesture, or a fast track to more war?",
-      "description": "After banging his battle drum, Trump is back in Nobel peace prize mode. But the move has dramatically raised the stakes“Project Freedom” has all the trappings of a classic episode of the Trump Show, the reality series that the rest of the world does not just have to watch, but live through and survive. It has a dramati…",
-      "url": "https://www.theguardian.com/us-news/2026/may/04/project-freedom-marks-a-classic-trump-flip-from-warmonger-to-humanitarian",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-04T16:49:42Z",
-      "image": "https://i.guim.co.uk/img/media/5c1c12b88d9c90d71d7945e5db3d028802e54e57/0_79_3236_2589/master/3236.jpg?width=140&quality=85&auto=format&fit=max&s=07a5e06998ee52c411905ad4f4d223f9",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

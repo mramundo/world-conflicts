@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T13:40:42Z",
+  "updated": "2026-05-06T14:59:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/thai-cabinet-approves-plans-to-borrow-12bn-to-ease-iran-war-fallout",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-06T13:40:38Z",
+      "publishedAt": "2026-05-06T14:59:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F9%2F7%2F12457911-2-eng-GB%2Fcd62081a2373-photo_SXM2026042400015958.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-741c9f191d74",
+      "title": "Two soldiers hurt in Hezbollah drone attack in south Lebanon; IDF hits terror sites",
+      "description": "Home of south Lebanon mayor reportedly hit as IDF warned 12 villages to evacuate; military says 25 Hezbollah targets hit in the past day, including weapon depots The post Two soldiers hurt in Hezbollah drone attack in south Lebanon; IDF hits terror sites appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/two-soldiers-hurt-in-hezbollah-drone-attack-in-south-lebanon-idf-hits-terror-sites/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-06T14:41:25Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260505AMA0113-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-3128d22f0e58",
+      "title": "Myanmar: What's behind Suu Kyi's transfer to house arrest?",
+      "description": "The transfer of Aung San Suu Kyi from prison to house arrest has been welcomed cautiously abroad, but experts say Myanmar's military may be using it to boost legitimacy as the nation remains engulfed in civil war.",
+      "url": "https://www.dw.com/en/myanmar-what-s-behind-suu-kyi-s-transfer-to-house-arrest/a-77066625?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-06T14:23:00Z",
+      "image": "https://static.dw.com/image/73914367_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,6 +81,21 @@
       "tags": []
     },
     {
+      "id": "bbc-424f2410ae2d",
+      "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
+      "description": "After Ukraine's President Zelensky said territory had been captured using just robots and drones, what is the future of unmanned warfare?",
+      "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-06T11:59:44Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab9e/live/ba2baae0-493e-11f1-861c-270dbba6d6ae.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "ans-cfd79546eb3a",
       "title": "Zelensky, 'Mosca ha violato tregua, agiremo di conseguenza'",
       "description": "'Ovvio che una guerra in corso non è il momento giusto per celebrazioni pubbliche'",
@@ -77,21 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-60abe303b9a1",
-      "title": "Local elections in UK could hasten end of embattled PM Keir Starmer’s tenure",
-      "description": "Amid Epstein-Mandelson scandal and economic struggles worsened by Iran war, the center-left leader faces a party crisis as expert says his ouster is matter of 'when rather than if' The post Local elections in UK could hasten end of embattled PM Keir Starmer&#8217;s tenure appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/local-elections-in-uk-could-hasten-end-of-embattled-pm-keir-starmers-tenure/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-06T09:11:53Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26075407416979-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -137,21 +167,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-a7687d281013",
-      "title": "Strategic neutrality: How Syria is winning in the Iran war",
-      "description": "Syria's new government has deliberately not become directly involved in the Iran war. It's presenting itself as neutral and as a possible solution to the Strait of Hormuz blockade.",
-      "url": "https://www.dw.com/en/strategic-neutrality-how-syria-is-winning-in-the-iran-war/a-77053362?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-05T18:00:00Z",
-      "image": "https://static.dw.com/image/77054103_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -210,21 +225,6 @@
       "source": "The Moscow Times",
       "publishedAt": "2026-05-05T11:18:00Z",
       "image": "https://static.themoscowtimes.com/image/og/1f/92683__1f91d049d70457416b48e234e6d96689.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-5d9521af2eb8",
-      "title": "Mali junta leader names himself defence minister after predecessor killed",
-      "description": "Former Defence Minister Sadio Camara was killed in a massive offensive by combined jihadist and separatist forces.",
-      "url": "https://www.bbc.com/news/articles/c8r8jr7x8mlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-04T18:31:38Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90f4/live/8072f230-47dc-11f1-ac78-2112837ce2aa.jpg",
       "categories": [
         "conflict"
       ],

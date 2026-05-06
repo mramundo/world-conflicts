@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T15:52:09Z",
+  "updated": "2026-05-06T16:37:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/thai-cabinet-approves-plans-to-borrow-12bn-to-ease-iran-war-fallout",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-06T15:52:05Z",
+      "publishedAt": "2026-05-06T16:37:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F9%2F7%2F12457911-2-eng-GB%2Fcd62081a2373-photo_SXM2026042400015958.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-e932c81af3d0",
+      "title": "Ceasefire Violations, Nuclear Missile Tests, and Putin’s Coup Rumors – Ukraine Latest, May 6",
+      "description": "Zelensky’s response to Russia’s ceasefire violations, Russia’s plan to test nuclear-capable missiles, and potential breakthroughs in US-Iran war – updates from Ukraine and beyond",
+      "url": "https://www.kyivpost.com/post/75573",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-06T16:15:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/06/20a856821e7e1605bec6e1094e7a73c5.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-344aa04d75a0",
+      "title": "‘Putin only cares about parades’: fury as Russia rains missiles on Ukraine during 24-hour truce",
+      "description": "Dozens killed despite ceasefire announced by Zelenskyy, after Moscow asked for Saturday truce for military paradeEurope live – latest updatesKyiv has criticised Russia for attacking several Ukrainian cities overnight with more than 100 combat drones and three missiles in spite of a unilateral 24-hour ceasefire called b…",
+      "url": "https://www.theguardian.com/world/2026/may/06/russia-ukraine-missiles-24-hour-ceasefire-military-parade",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-06T16:01:56Z",
+      "image": "https://i.guim.co.uk/img/media/ca67b42bbf7e29547f743466873ee707e0da4e5b/177_0_4735_3790/master/4735.jpg?width=140&quality=85&auto=format&fit=max&s=bc0980c9dac941156a52352437029b81",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -127,21 +157,6 @@
       "tags": []
     },
     {
-      "id": "the-344aa04d75a0",
-      "title": "‘Putin only cares about parades’: fury as Russia rains missiles on Ukraine during 24-hour truce",
-      "description": "Dozens killed despite ceasefire announced by Zelenskyy, after Moscow asked for Saturday truce for its annual military paradeEurope live – latest updatesKyiv has criticised Russia for attacking several Ukrainian cities overnight with more than 100 combat drones and three missiles, in spite of a unilateral 24-hour ceasef…",
-      "url": "https://www.theguardian.com/world/2026/may/06/russia-ukraine-missiles-24-hour-ceasefire-military-parade",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-06T09:32:14Z",
-      "image": "https://i.guim.co.uk/img/media/ca67b42bbf7e29547f743466873ee707e0da4e5b/177_0_4735_3790/master/4735.jpg?width=140&quality=85&auto=format&fit=max&s=bc0980c9dac941156a52352437029b81",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-c11b7848c345",
       "title": "Skeletons in their clothing: Recovering bodies from the rubble in Gaza",
       "description": "It was one of the deadliest Israeli strikes of the Gaza war, devastating one extended family. A year and a half later, the survivors find their loved ones' remains.",
@@ -153,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-681440c7fc39",
-      "title": "Russian Strikes Kill 22 in Ukraine Hours Before Kyiv-Proposed Ceasefire",
-      "description": "The strikes came hours before a proposed ceasefire, with Zelensky condemning Russia’s “utter cynicism” in launching deadly attacks while seeking a brief truce for its May 9 Victory Day parade.",
-      "url": "https://www.kyivpost.com/post/75497",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-05T23:53:40Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/06/a58ef7f5842f28d59bd10c0a1fa25362.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

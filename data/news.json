@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T10:45:44Z",
+  "updated": "2026-05-06T11:38:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/thai-cabinet-approves-plans-to-borrow-12bn-to-ease-iran-war-fallout",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-06T10:45:40Z",
+      "publishedAt": "2026-05-06T11:38:24Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F9%2F7%2F12457911-2-eng-GB%2Fcd62081a2373-photo_SXM2026042400015958.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -95,22 +95,6 @@
       "tags": []
     },
     {
-      "id": "le -7116f8a2fabc",
-      "title": "French shipping firm says vessel targeted in Strait of Hormuz",
-      "description": "The French shipping company CMA CGM confirmed that one of its vessels, the San Antonio, came under attack on Tuesday evening in the Strait of Hormuz, with several injured crew members being evacuated for treatment.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/06/french-shipping-firm-says-vessel-targeted-in-strait-of-hormuz_6753176_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-06T08:19:39Z",
-      "image": "https://img.lemde.fr/2026/05/04/431/0/6000/3000/644/322/60/0/90afb78_ftp-1-q2ia93cu5fim-e8bda03605ac4d7dbd8a0b339367433f-0-d167542b3cbf4021bf2d497cc095b237.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -a5711d7ec356",
       "title": "In Gaza, the simplest of weddings are barely affordable",
       "description": "Couples marry in tents in Gaza as war, displacement, and soaring prices strip weddings of joy.",
@@ -138,6 +122,21 @@
         "conflict"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -cb0864051e3b",
+      "title": "Kyiv's unilateral ceasefire already broken by Russian strikes",
+      "description": "At least 28 people were killed in Russian strikes just before Ukraine's ceasefire was due to take effect on Wednesday, even as Kyiv accused Moscow of new violations hours later.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/05/zelensky-condemns-russia-s-deadly-strikes-in-ukraine-as-the-country-seeks-peace-for-may-9-parade_6753164_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-05T19:29:35Z",
+      "image": "https://img.lemde.fr/2026/05/05/1356/0/10848/5424/644/322/60/0/b4fc9a5_ftp-1-jdosdtlstiw7-2026-05-05t174836z-1538436754-rc223lahisxx-rtrmadp-3-ukraine-crisis-attack-kramatorsk.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

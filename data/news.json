@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T07:03:43Z",
+  "updated": "2026-05-06T08:57:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/thai-cabinet-approves-plans-to-borrow-12bn-to-ease-iran-war-fallout",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-06T07:03:39Z",
+      "publishedAt": "2026-05-06T08:57:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F9%2F7%2F12457911-2-eng-GB%2Fcd62081a2373-photo_SXM2026042400015958.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,17 @@
       "tags": []
     },
     {
-      "id": "the-56d085fcc4b4",
-      "title": "Middle East crisis live: Trump changes strait of Hormuz plan again as Rubio says US offensive is ‘over’",
-      "description": "US president says he will briefly pause Project Freedom after just one day; Rubio says US has achieved objectives of Iran operation; Iran’s foreign minister Abbas Araghchi flies to ChinaTrump puts ‘Project Freedom’ on hold, saying he hopes to finalise deal with IranIn Lebanon, the Israeli military has ordered people in…",
-      "url": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-06T06:47:27Z",
-      "image": "https://i.guim.co.uk/img/media/04807939ddcc3588b275275006c5e2599a03881d/881_0_6269_5018/master/6269.jpg?width=140&quality=85&auto=format&fit=max&s=d49dc41ae9bc4f341aa44812a5311814",
+      "id": "ans-4831e955eafa",
+      "title": "Mosca, cinque persone morte in un attacco in Crimea",
+      "description": "Alla mezzanotte è scattata la tregua unilaterale di Kiev, attacco russo su Zaporizhzhia",
+      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/05/06/mosca-cinque-persone-morte-in-un-attacco-in-crimea_8c45fc09-e52b-411f-9a4e-4c87943f183f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-06T07:42:45Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/1100d826bdb8ffc1df87cf0129c42ae6.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,6 +66,22 @@
       "tags": []
     },
     {
+      "id": "the-0084f9366ade",
+      "title": "Wednesday briefing: How Trump’s attempt to reopen to strait of Hormuz brought war closer again",
+      "description": "In today’s newsletter: ​The brief US effort to ​s​teer trapped vessels through the ​waterway ​put the fragile ceasefire under strainGood morning. Uncertainty once again reigns in the Middle East. The uneasy ceasefire between the US and Iran threatened to disintegrate after Donald Trump launched an initiative – dubbed “…",
+      "url": "https://www.theguardian.com/world/2026/may/06/wednesday-briefing-how-trumps-attempt-to-reopen-to-strait-of-hormuz-brought-war-closer-again",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-06T05:47:15Z",
+      "image": "https://i.guim.co.uk/img/media/e48f49ebdec4feaaca0b0b50347f9246e92dddb5/361_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=0800b98a4d8a3fe494e903ec8d2bed2d",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-681440c7fc39",
       "title": "Russian Strikes Kill 22 in Ukraine Hours Before Kyiv-Proposed Ceasefire",
       "description": "The strikes came hours before a proposed ceasefire, with Zelensky condemning Russia’s “utter cynicism” in launching deadly attacks while seeking a brief truce for its May 9 Victory Day parade.",
@@ -82,6 +97,22 @@
       "tags": []
     },
     {
+      "id": "tim-759d833826a3",
+      "title": "Iran threatens Hormuz shipping, as Trump said to shelve strikes amid diplomacy",
+      "description": "Trump: ‘I’ll let you know’ when Iran breaks truce; Rubio says offensive operations against Iran over; UAE reports Iranian attacks for second day; Israel ‘closely monitoring,’ ready to ‘respond with force,' says IDF chief The post Iran threatens Hormuz shipping, as Trump said to shelve strikes amid diplomacy appeared fi…",
+      "url": "https://www.timesofisrael.com/iran-threatens-hormuz-shipping-as-trump-said-to-shelve-strikes-amid-diplomacy/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-05T22:45:38Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260505__A9UD33K__v2__HighRes__IranUsIsraelWar-e1778013003373-1024x640.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "fra-12f4179ca5dc",
       "title": "Rubio says US military completed offensive operations in Iran",
       "description": "The United States said on Tuesday that it had ended offensive operations against Iran. But Washington warned it could unleash a “devastating” response to new threats in the Strait of Hormuz, as clashes and rival warnings from Tehran raised fears that a fragile ceasefire could collapse.",
@@ -93,36 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-2942feb81634",
-      "title": "Mosca, cinque persone morte in un attacco in Crimea",
-      "description": "Ieri sera. Alla mezzanotte scattata la tregua unilaterale di Kiev",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/06/mosca-cinque-persone-morte-in-un-attacco-in-crimea_b426e801-db27-448b-8506-a27eacb619af.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-05T22:30:16Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/af2a937a2611357542dda792ce1195dc.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-8f63e4a31691",
-      "title": "Board of Peace won’t hold Israel to truce terms if Hamas doesn’t okay disarmament offer",
-      "description": "In letter obtained by ToI, US-led body indicates Israel not adhering to key parts of ceasefire's 1st phase, but says it won't have to if Hamas doesn't accept decommissioning framework The post Board of Peace won&#8217;t hold Israel to truce terms if Hamas doesn&#8217;t okay disarmament offer appeared first on The Times…",
-      "url": "https://www.timesofisrael.com/board-of-peace-wont-hold-israel-to-truce-terms-if-hamas-doesnt-okay-disarmament-offer/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-05T20:28:03Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/01/47f3fc09-094f-4739-a9cb-becad81f457f-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

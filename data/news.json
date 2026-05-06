@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T14:59:55Z",
+  "updated": "2026-05-06T15:52:09Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,27 +10,12 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/thai-cabinet-approves-plans-to-borrow-12bn-to-ease-iran-war-fallout",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-06T14:59:52Z",
+      "publishedAt": "2026-05-06T15:52:05Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F9%2F7%2F12457911-2-eng-GB%2Fcd62081a2373-photo_SXM2026042400015958.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-741c9f191d74",
-      "title": "Two soldiers hurt in Hezbollah drone attack in south Lebanon; IDF hits terror sites",
-      "description": "Home of south Lebanon mayor reportedly hit as IDF warned 12 villages to evacuate; military says 25 Hezbollah targets hit in the past day, including weapon depots The post Two soldiers hurt in Hezbollah drone attack in south Lebanon; IDF hits terror sites appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/two-soldiers-hurt-in-hezbollah-drone-attack-in-south-lebanon-idf-hits-terror-sites/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-06T14:41:25Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260505AMA0113-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,6 +31,21 @@
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-f64807d5ad9a",
+      "title": "Gaza rebuild priced at $71 billion, with most homes and nearly all businesses destroyed",
+      "description": "First comprehensive report since ceasefire, compiled by World Bank, UN and EU, finds war caused over $35 billion of direct damage and over $22 billion more of economic losses The post Gaza rebuild priced at $71 billion, with most homes and nearly all businesses destroyed appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/gaza-rebuild-priced-at-71-billion-with-most-homes-and-nearly-all-businesses-destroyed/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-06T13:53:16Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2025/10/AP25288675419440-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -72,6 +72,22 @@
       "source": "Al Jazeera",
       "publishedAt": "2026-05-06T12:39:22Z",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/epa_69faefcd6b9d-1778053069.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -419df632e3db",
+      "title": "'The Gulf cold war is set to give the other petro-monarchies cold sweats'",
+      "description": "The United Arab Emirates' abrupt departure from OPEC on April 28 confirms its determination to break free from Saudi Arabia and is expected to have repercussions across the Middle East, writes columnist Gilles Paris.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/05/06/the-gulf-cold-war-is-set-to-give-the-other-petro-monarchies-cold-sweats_6753185_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-06T12:22:09Z",
+      "image": "https://img.lemde.fr/2026/04/28/517/0/3621/1810/644/322/60/0/f22cc8d_ftp-1-uncv3xg55jjz-2026-04-28t115533z-1897026753-rc2aykamqufh-rtrmadp-3-gulf-summit.JPG",
       "categories": [
         "conflict",
         "analysis"
@@ -152,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -cb0864051e3b",
-      "title": "Kyiv's unilateral ceasefire already broken by Russian strikes",
-      "description": "At least 28 people were killed in Russian strikes just before Ukraine's ceasefire was due to take effect on Wednesday, even as Kyiv accused Moscow of new violations hours later.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/05/zelensky-condemns-russia-s-deadly-strikes-in-ukraine-as-the-country-seeks-peace-for-may-9-parade_6753164_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-05T19:29:35Z",
-      "image": "https://img.lemde.fr/2026/05/05/1356/0/10848/5424/644/322/60/0/b4fc9a5_ftp-1-jdosdtlstiw7-2026-05-05t174836z-1538436754-rc223lahisxx-rtrmadp-3-ukraine-crisis-attack-kramatorsk.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

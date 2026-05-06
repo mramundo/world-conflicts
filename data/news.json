@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T05:11:26Z",
+  "updated": "2026-05-06T07:03:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/thai-cabinet-approves-plans-to-borrow-12bn-to-ease-iran-war-fallout",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-06T05:11:23Z",
+      "publishedAt": "2026-05-06T07:03:39Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F9%2F7%2F12457911-2-eng-GB%2Fcd62081a2373-photo_SXM2026042400015958.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,50 @@
       "tags": []
     },
     {
-      "id": "al -4d7b4426b687",
-      "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
-      "description": "US Defense Secretary Pete Hegseth says ceasefire with Iran remains in place despite growing tensions in Hormuz Strait.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-06T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fa572f0ca4-1778013999.jpg?resize=1920%2C1440",
+      "id": "the-56d085fcc4b4",
+      "title": "Middle East crisis live: Trump changes strait of Hormuz plan again as Rubio says US offensive is ‘over’",
+      "description": "US president says he will briefly pause Project Freedom after just one day; Rubio says US has achieved objectives of Iran operation; Iran’s foreign minister Abbas Araghchi flies to ChinaTrump puts ‘Project Freedom’ on hold, saying he hopes to finalise deal with IranIn Lebanon, the Israeli military has ordered people in…",
+      "url": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-06T06:47:27Z",
+      "image": "https://i.guim.co.uk/img/media/04807939ddcc3588b275275006c5e2599a03881d/881_0_6269_5018/master/6269.jpg?width=140&quality=85&auto=format&fit=max&s=d49dc41ae9bc4f341aa44812a5311814",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-246cecfea6d1",
+      "title": "Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire",
+      "description": "Zelenskyy rebuked Moscow for what he said was its \"utter cynicism\" in launching the attacks after Russia announced a unilateral ceasefire over two days later this week.",
+      "url": "https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine",
+      "source": "NPR World",
+      "publishedAt": "2026-05-06T06:27:48Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1500+0+0/resize/2000x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F4d%2F04e1290c46a3b45c4151918c6d3b%2Fap26125623073708.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 5,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a5711d7ec356",
+      "title": "In Gaza, the simplest of weddings are barely affordable",
+      "description": "Couples marry in tents in Gaza as war, displacement, and soaring prices strip weddings of joy.",
+      "url": "https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-06T05:51:42Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/IMG_9137-1778007504.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -51,8 +83,8 @@
     },
     {
       "id": "fra-12f4179ca5dc",
-      "title": "Rubio says US military has completed offensive operations in Iran",
-      "description": "The United States said on Tuesday that it had ended offensive operations against Iran, but warned it could unleash a “devastating” response to new threats in the Strait of Hormuz, as clashes and rival warnings from Tehran raised fears that a fragile ceasefire could collapse.",
+      "title": "Rubio says US military completed offensive operations in Iran",
+      "description": "The United States said on Tuesday that it had ended offensive operations against Iran. But Washington warned it could unleash a “devastating” response to new threats in the Strait of Hormuz, as clashes and rival warnings from Tehran raised fears that a fragile ceasefire could collapse.",
       "url": "https://www.france24.com/en/middle-east/20260505-rubio-says-us-military-has-completed-offensive-operations-in-iran",
       "source": "France24",
       "publishedAt": "2026-05-05T22:39:05Z",
@@ -96,31 +128,31 @@
     },
     {
       "id": "le -cb0864051e3b",
-      "title": "Zelensky denounces Russia's 'utter cynicism' as strikes kill at least 22 in Ukraine hours before proposed ceasefire",
-      "description": "Deadly attacks across Ukraine, which killed at least 22 people on Tuesday, come as Russia gears up for its World War II Victory Day event this weekend. More than 80 people were also wounded in Tuesday's strikes, according to numbers released by officials.",
+      "title": "Kyiv's unilateral ceasefire already broken by Russian strikes",
+      "description": "At least 28 people were killed in Russian strikes just before Ukraine's ceasefire was due to take effect on Wednesday, even as Kyiv accused Moscow of new violations hours later.",
       "url": "https://www.lemonde.fr/en/international/article/2026/05/05/zelensky-condemns-russia-s-deadly-strikes-in-ukraine-as-the-country-seeks-peace-for-may-9-parade_6753164_4.html",
       "source": "Le Monde (EN)",
       "publishedAt": "2026-05-05T19:29:35Z",
-      "image": "https://img.lemde.fr/2026/05/04/347/0/5087/2543/644/322/60/0/fe6fcbb_ftp-1-fx9emmhws2gs-57f1cf6c55aa49108ea2cac55b069568-0-a92f55c0d71c4d50a1aecf280f258755.jpg",
+      "image": "https://img.lemde.fr/2026/05/05/1356/0/10848/5424/644/322/60/0/b4fc9a5_ftp-1-jdosdtlstiw7-2026-05-05t174836z-1538436754-rc223lahisxx-rtrmadp-3-ukraine-crisis-attack-kramatorsk.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "the-b18b57e25cac",
-      "title": "Zelenskyy condemns Russian ‘cynicism’ over parade truce as 23 killed in attacks",
-      "description": "Kyiv berates Moscow’s request for ceasefire while launching ‘missile and drone strikes every single day leading up to it’Volodymyr Zelenskyy has accused the Kremlin of “utter cynicism” for seeking a truce so it can stage a military parade in Moscow as 23 people were killed in attacks on Ukraine.At least 12 people were …",
-      "url": "https://www.theguardian.com/world/2026/may/05/zelenskyy-russia-parade-truce-poltava-attack",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-05T16:49:42Z",
-      "image": "https://i.guim.co.uk/img/media/b83121f01b33190d3ab30c033de1e02a158fee23/178_110_927_742/master/927.jpg?width=140&quality=85&auto=format&fit=max&s=3062fdb81c0359fcb49b17d19abbb171",
+      "id": "deu-a7687d281013",
+      "title": "Strategic neutrality: How Syria is winning in the Iran war",
+      "description": "Syria's new government has deliberately not become directly involved in the Iran war. It's presenting itself as neutral and as a possible solution to the Strait of Hormuz blockade.",
+      "url": "https://www.dw.com/en/strategic-neutrality-how-syria-is-winning-in-the-iran-war/a-77053362?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-05T18:00:00Z",
+      "image": "https://static.dw.com/image/77054103_6.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -183,36 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-344ee870e71a",
-      "title": "Russia declares a truce in Ukraine to mark Victory Day",
-      "description": "Russia declared a unilateral ceasefire in Ukraine for Friday and Saturday to mark the defeat of Nazi Germany in World War II, but threatened to strike back at Kyiv if it tries to disrupt festivities.",
-      "url": "https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day",
-      "source": "NPR World",
-      "publishedAt": "2026-05-05T05:47:24Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3051x2034+0+0/resize/3051x2034!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2Fee%2F027ed7c84172b908485db0c45db6%2Fap26124422588683.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-d60c8611a88c",
-      "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath",
-      "description": "President Putin has unilaterally declared a two-day truce amid commemorations of the end of World War II in Moscow. Ukraine's President Zelenskyy proposed his own truce starting a couple of days earlier.",
-      "url": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-04T19:31:00Z",
-      "image": "https://static.dw.com/image/72466617_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

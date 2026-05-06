@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T08:57:49Z",
+  "updated": "2026-05-06T09:54:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/thai-cabinet-approves-plans-to-borrow-12bn-to-ease-iran-war-fallout",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-06T08:57:44Z",
+      "publishedAt": "2026-05-06T09:54:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F9%2F7%2F12457911-2-eng-GB%2Fcd62081a2373-photo_SXM2026042400015958.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-344aa04d75a0",
+      "title": "‘Putin only cares about parades’: fury as Russia rains missiles on Ukraine during 24-hour truce",
+      "description": "Dozens killed despite ceasefire announced by Zelenskyy, after Moscow asked for Saturday truce for its annual military paradeEurope live – latest updatesKyiv has criticised Russia for attacking several Ukrainian cities overnight with more than 100 combat drones and three missiles, in spite of a unilateral 24-hour ceasef…",
+      "url": "https://www.theguardian.com/world/2026/may/06/russia-ukraine-missiles-24-hour-ceasefire-military-parade",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-06T09:32:14Z",
+      "image": "https://i.guim.co.uk/img/media/ca67b42bbf7e29547f743466873ee707e0da4e5b/177_0_4735_3790/master/4735.jpg?width=140&quality=85&auto=format&fit=max&s=bc0980c9dac941156a52352437029b81",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-c11b7848c345",
+      "title": "Skeletons in their clothing: Recovering bodies from the rubble in Gaza",
+      "description": "It was one of the deadliest Israeli strikes of the Gaza war, devastating one extended family. A year and a half later, the survivors find their loved ones' remains.",
+      "url": "https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies",
+      "source": "NPR World",
+      "publishedAt": "2026-05-06T09:00:00Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F58%2Fdbfff96442b0a2172edea7029d4a%2F99542835-2def-4b48-8a73-848a63d4d6a9.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -7116f8a2fabc",
+      "title": "French shipping firm says vessel targeted in Strait of Hormuz",
+      "description": "The French shipping company CMA CGM confirmed that one of its vessels, the San Antonio, came under attack on Tuesday evening in the Strait of Hormuz, with several injured crew members being evacuated for treatment.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/06/french-shipping-firm-says-vessel-targeted-in-strait-of-hormuz_6753176_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-06T08:19:39Z",
+      "image": "https://img.lemde.fr/2026/05/04/431/0/6000/3000/644/322/60/0/90afb78_ftp-1-q2ia93cu5fim-e8bda03605ac4d7dbd8a0b339367433f-0-d167542b3cbf4021bf2d497cc095b237.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "npr-246cecfea6d1",
-      "title": "Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire",
-      "description": "Zelenskyy rebuked Moscow for what he said was its \"utter cynicism\" in launching the attacks after Russia announced a unilateral ceasefire over two days later this week.",
-      "url": "https://www.npr.org/2026/05/06/g-s1-120377/zelenskyy-slams-russia-as-strikes-kill-22-in-ukraine",
-      "source": "NPR World",
-      "publishedAt": "2026-05-06T06:27:48Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1500+0+0/resize/2000x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F4d%2F04e1290c46a3b45c4151918c6d3b%2Fap26125623073708.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -a5711d7ec356",
       "title": "In Gaza, the simplest of weddings are barely affordable",
       "description": "Couples marry in tents in Gaza as war, displacement, and soaring prices strip weddings of joy.",
@@ -63,22 +94,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-0084f9366ade",
-      "title": "Wednesday briefing: How Trump’s attempt to reopen to strait of Hormuz brought war closer again",
-      "description": "In today’s newsletter: ​The brief US effort to ​s​teer trapped vessels through the ​waterway ​put the fragile ceasefire under strainGood morning. Uncertainty once again reigns in the Middle East. The uneasy ceasefire between the US and Iran threatened to disintegrate after Donald Trump launched an initiative – dubbed “…",
-      "url": "https://www.theguardian.com/world/2026/may/06/wednesday-briefing-how-trumps-attempt-to-reopen-to-strait-of-hormuz-brought-war-closer-again",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-06T05:47:15Z",
-      "image": "https://i.guim.co.uk/img/media/e48f49ebdec4feaaca0b0b50347f9246e92dddb5/361_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=0800b98a4d8a3fe494e903ec8d2bed2d",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -124,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -cb0864051e3b",
-      "title": "Kyiv's unilateral ceasefire already broken by Russian strikes",
-      "description": "At least 28 people were killed in Russian strikes just before Ukraine's ceasefire was due to take effect on Wednesday, even as Kyiv accused Moscow of new violations hours later.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/05/zelensky-condemns-russia-s-deadly-strikes-in-ukraine-as-the-country-seeks-peace-for-may-9-parade_6753164_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-05T19:29:35Z",
-      "image": "https://img.lemde.fr/2026/05/05/1356/0/10848/5424/644/322/60/0/b4fc9a5_ftp-1-jdosdtlstiw7-2026-05-05t174836z-1538436754-rc223lahisxx-rtrmadp-3-ukraine-crisis-attack-kramatorsk.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

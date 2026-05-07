@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T17:37:25Z",
+  "updated": "2026-05-07T18:41:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/philippine-gdp-growth-slows-to-2.8-as-iran-war-batters-economy",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-07T17:37:22Z",
+      "publishedAt": "2026-05-07T18:41:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F1%2F9%2F8%2F12458918-1-eng-GB%2Fa2fab1a7c7f5-2026-04-15T032451Z_1693895554_RC2CPKA7OXWS_RTRMADP_3_IRAN-CRISIS-FUEL-PHILIPPINES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,18 @@
       "tags": []
     },
     {
-      "id": "the-7dfe5a8090dd",
-      "title": "Man pleads guilty in Colorado firebomb attack on pro-Israel demonstrators",
-      "description": "One person died and a dozen others were injured in the attack, during a June 2025 demonstration in BoulderA man accused of a firebomb attack that killed one person and injured a dozen others while they were demonstrating in Boulder, Colorado, in support of Israeli hostages in Gaza has pleaded guilty to murder and other…",
-      "url": "https://www.theguardian.com/us-news/2026/may/07/colorado-firebomb-attack-israel-protests",
+      "id": "the-939a7e4920c1",
+      "title": "US and Iran close to temporary truce, Pakistani officials claim",
+      "description": "Latest briefings float hope of basic deal that would keep peace and free shipping while further negotiations continueMiddle East crisis – live updatesThe US and Iran are close to a temporary agreement to halt the war in the Middle East, officials in Pakistan claimed on Thursday, as diplomatic activity gathered fresh mo…",
+      "url": "https://www.theguardian.com/world/2026/may/07/us-and-iran-close-to-temporary-truce-pakistani-officials-claim",
       "source": "The Guardian",
-      "publishedAt": "2026-05-07T16:29:45Z",
-      "image": "https://i.guim.co.uk/img/media/2af9dca3b335b35c5f9adf8dfba42cbfaf0bc1fe/177_0_2542_2033/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=68c4964836434d681a0a623d4894fe7e",
+      "publishedAt": "2026-05-07T18:13:05Z",
+      "image": "https://i.guim.co.uk/img/media/c0a33c9acb9d1490223c5de1f3f2e9033fdfeaa2/310_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1ef217395aafb6766bc063e9d7676d0d",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -80,6 +81,21 @@
       "tags": []
     },
     {
+      "id": "ans-2f2de010b540",
+      "title": "La mineraria canadese Sherritt lascia Cuba dopo le nuove sanzioni Usa",
+      "description": "La società annuncia la sospensione delle attività nelle joint venture cubane",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/05/07/la-mineraria-canadese-sherritt-lascia-cuba-dopo-le-nuove-sanzioni-usa_2a8069f7-ae1d-44cb-be6f-bb73c7c7ec70.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-07T14:11:20Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2025/5/12/512ee9d0d915ca024c72cce7a26da8a4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-f1b70b6b7bb1",
       "title": "Is Russian oil becoming a lifeline for Southeast Asia?",
       "description": "With oil, gas and fertilizer imports squeezed by the Iran war, Southeast Asian governments are brushing off EU pressure and treating Russian energy as a tool of economic survival.",
@@ -122,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-c8979c645056",
-      "title": "Ucraina: in vigore la tregua di Kiev, ma Zelensky denuncia violazioni",
-      "description": "Anche Mosca denuncia attacchi ucraini, 'furia neonazista prima della parata del 9 maggio'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/05/06/ucraina-in-vigore-la-tregua-di-kiev-ma-zelensky-denuncia-violazioni_8c45fc09-e52b-411f-9a4e-4c87943f183f.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-06T17:29:43Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/1100d826bdb8ffc1df87cf0129c42ae6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

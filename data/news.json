@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T13:40:03Z",
+  "updated": "2026-05-07T15:00:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/philippine-gdp-growth-slows-to-2.8-as-iran-war-batters-economy",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-07T13:39:59Z",
+      "publishedAt": "2026-05-07T15:00:55Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F1%2F9%2F8%2F12458918-1-eng-GB%2Fa2fab1a7c7f5-2026-04-15T032451Z_1693895554_RC2CPKA7OXWS_RTRMADP_3_IRAN-CRISIS-FUEL-PHILIPPINES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-d462e48e6849",
+      "title": "Israeli settler to go on trial over attack on French nun in Jerusalem",
+      "description": "Yona Simcha Schreiber from settlement in West Bank faces charge of assault motivated by hostility towards religious groupAn Israeli settler suspected of kicking and wounding a French Catholic nun in Jerusalem will go on trial for assault motivated by hostility towards a religious group, Israel’s justice ministry has sa…",
+      "url": "https://www.theguardian.com/world/2026/may/07/israeli-settler-trial-attack-french-nun-jerusalem",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-07T14:18:56Z",
+      "image": "https://i.guim.co.uk/img/media/bbc89b55ecdb77ac18a110dd7fdb1cea125e4d8b/470_0_1220_976/master/1220.jpg?width=140&quality=85&auto=format&fit=max&s=7de463a740a1d36140f5185e5a3ef50b",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-f9d4bbea8f50",
+      "title": "Israel says it killed Hezbollah commander in first strike on Beirut since ceasefire",
+      "description": "Israel said on Thursday it had killed ⁠a commander of ​Hezbollah’s elite Radwan force in an airstrike on Beirut a day earlier, the first Israeli attack on the Lebanese capital since a ceasefire agreed ​last month. The strike has raised pressure ​on the ceasefire ‌that had halted Israeli attacks on Beirut, even as Israe…",
+      "url": "https://www.france24.com/en/video/20260507-israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-ceasefire",
+      "source": "France24",
+      "publishedAt": "2026-05-07T14:12:25Z",
+      "image": "https://s.france24.com/media/display/ab8ce22a-4a1e-11f1-9c0e-005056a90284/w:1024/p:16x9/capture-63861983469fc9d9c913f44-92408885.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,18 +66,19 @@
       "tags": []
     },
     {
-      "id": "the-9d680c87c594",
-      "title": "UK construction firms face some of sharpest cost rises in nearly 30 years",
-      "description": "Monthly rise in prices of fuel and raw materials, driven by Iran war, is one of steepest since survey began in 1997Business live – latest updatesConstruction companies in the UK are experiencing some of the sharpest cost rises in nearly 30 years as the war in Iran drives up prices for fuel and raw materials, according …",
-      "url": "https://www.theguardian.com/business/2026/may/07/uk-construction-firms-experiencing-sharpest-cost-rise-30-years",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-07T12:49:08Z",
-      "image": "https://i.guim.co.uk/img/media/720ea1f4b42a773d751fe3278c31a5494067beea/371_0_6657_5326/master/6657.jpg?width=140&quality=85&auto=format&fit=max&s=f30a8a4ddf337b766b6987f8833f81b1",
+      "id": "al -c085bd8e95c9",
+      "title": "Why is the US seeking UN help to open Hormuz after undermining it?",
+      "description": "Marco Rubio has called on the UN for a Hormuz solution as talks for a peace deal in Iran continue.",
+      "url": "https://www.aljazeera.com/news/2026/5/7/us-seeks-un-help-to-open-hormuz-can-its-resolution-succeed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-07T13:05:42Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/epa_69fc749b1dae-1778152603_42bd74-1778155848.jpg?resize=1200%2C630&amp;quality=80",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -62,37 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -6ee501e687eb",
-      "title": "The Gaza journalist killed on the day his daughter was born",
-      "description": "Sana&#039;s first birthday is shadowed by loss; her father Yahya was killed in an Israeli attack hours after her birth.",
-      "url": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-07T08:12:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/873A0074-1778119737.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-f116b96d34e3",
-      "title": "Venice Biennale 'shaken': 'Turmoil on the international scene has entered the exhibition'",
-      "description": "Mark Owen is pleased to welcome Angelo Amante, Reuters correspondent in Rome. Russia has returned to the 2026 edition of the Venice Biennale for the first time since the full-scale invasion of Ukraine in 2022. Its presence has triggered protests from activists, artists and political dissidents, who argue that culture i…",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260507-venice-and-biennale-shaken-the-turmoil-on-the-international-scene-has-entered-the-exhibition",
-      "source": "France24",
-      "publishedAt": "2026-05-07T08:09:19Z",
-      "image": "https://s.france24.com/media/display/7896201c-49ff-11f1-a1f0-005056a97e36/w:1024/p:16x9/capture-106841237369fc6945098724-46106424.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

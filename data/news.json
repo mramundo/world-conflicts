@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-07T11:38:29Z",
+  "updated": "2026-05-07T12:46:30Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/philippine-gdp-growth-slows-to-2.8-as-iran-war-batters-economy",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-07T11:38:26Z",
+      "publishedAt": "2026-05-07T12:46:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F1%2F9%2F8%2F12458918-1-eng-GB%2Fa2fab1a7c7f5-2026-04-15T032451Z_1693895554_RC2CPKA7OXWS_RTRMADP_3_IRAN-CRISIS-FUEL-PHILIPPINES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-7dfe5a8090dd",
+      "title": "Man to plead guilty in Colorado firebomb attack on pro-Israel demonstrators",
+      "description": "One person died and a dozen others were injured in the attack, during a demonstration in 2025 in BoulderA man accused of a firebomb attack that killed one person and injured a dozen others during a demonstration last year in Boulder, Colorado, in support of Israeli hostages in Gaza was scheduled to plead guilty Thursda…",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/colorado-firebomb-attack-israel-protests",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-07T12:13:08Z",
+      "image": "https://i.guim.co.uk/img/media/2af9dca3b335b35c5f9adf8dfba42cbfaf0bc1fe/177_0_2542_2033/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=68c4964836434d681a0a623d4894fe7e",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "tim-a919ae66281c",
-      "title": "Anger over handling of Hezbollah fight could put Netanyahu’s northern support at risk",
-      "description": "Traditionally a Likud stronghold, areas along Lebanon border could shift backing away from PM's party due to unpopular ceasefire and sense that government has failed to bring real security The post Anger over handling of Hezbollah fight could put Netanyahu&#8217;s northern support at risk appeared first on The Times of…",
-      "url": "https://www.timesofisrael.com/anger-over-handling-of-hezbollah-fight-could-put-netanyahus-northern-support-at-risk/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-07T06:00:43Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/Image-from-iOS5-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -ad5c49c39ec6",
       "title": "Fulani and Tuareg communities in Mali report abuses after jihadist offensive",
       "description": "The two communities have come under suspicion of collaborating with the JNIM jihadist group and the pro-independence Azawad Liberation Front, which launched attacks across the country on April 25. Several disappearances have been reported.",
@@ -92,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-f8a7b963a184",
-      "title": "US fires on Iranian-flagged oil tanker as Trump gives Tehran fresh ultimatum",
-      "description": "President tells Iran to accept deal to end war or face new wave of bombing at ‘much higher level and intensity’The US military fired on an Iranian-flagged oil tanker on Wednesday, shortly after Donald Trump issued a fresh ultimatum to Tehran, telling it to accept a deal to end the war or face a new wave of US bombing “…",
-      "url": "https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-06T21:03:56Z",
-      "image": "https://i.guim.co.uk/img/media/71dc26f1dc4c4034dd08ad4096e47307766ae48e/981_0_4914_3930/master/4914.jpg?width=140&quality=85&auto=format&fit=max&s=e839e23fcfcf16c6e49fd8cab84f2f36",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

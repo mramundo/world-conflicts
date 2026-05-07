@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T20:31:59Z",
+  "updated": "2026-05-07T21:25:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-07T20:31:55Z",
+      "publishedAt": "2026-05-07T21:25:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-d33c142d977e",
+      "title": "Firebomber sentenced to life without parole for deadly attack on Colorado hostage rally",
+      "description": "Mohamed Soliman, 46, pleads guilty to 184 felony counts in state court but pleads not guilty to federal hate crime charges, with his lawyers arguing 'Zionists' not protected class The post Firebomber sentenced to life without parole for deadly attack on Colorado hostage rally appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/firebomber-sentenced-to-life-without-parole-for-deadly-attack-on-colorado-hostage-rally/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-07T20:55:33Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2025/06/Untitled-2-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -49,22 +64,6 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-49deb07d7159",
-      "title": "Spain summons Israeli envoy to protest detention of Spanish flotilla activist",
-      "description": "Latest diplomatic clash comes after Israel detained Spanish-Palestinian Saif Abu Keshek, saying he is a leading member of a group accused of being affiliated with Hamas The post Spain summons Israeli envoy to protest detention of Spanish flotilla activist appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/spain-summons-israeli-envoy-to-protest-detention-of-spanish-flotilla-activist/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-07T16:37:07Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260505__A9UP2FU__v1__HighRes__IsraelPalestinianConflictFlotilla-1024x640.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

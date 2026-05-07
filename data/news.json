@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T16:39:18Z",
+  "updated": "2026-05-07T17:37:25Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/philippine-gdp-growth-slows-to-2.8-as-iran-war-batters-economy",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-07T16:39:13Z",
+      "publishedAt": "2026-05-07T17:37:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F1%2F9%2F8%2F12458918-1-eng-GB%2Fa2fab1a7c7f5-2026-04-15T032451Z_1693895554_RC2CPKA7OXWS_RTRMADP_3_IRAN-CRISIS-FUEL-PHILIPPINES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-7dfe5a8090dd",
+      "title": "Man pleads guilty in Colorado firebomb attack on pro-Israel demonstrators",
+      "description": "One person died and a dozen others were injured in the attack, during a June 2025 demonstration in BoulderA man accused of a firebomb attack that killed one person and injured a dozen others while they were demonstrating in Boulder, Colorado, in support of Israeli hostages in Gaza has pleaded guilty to murder and other…",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/colorado-firebomb-attack-israel-protests",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-07T16:29:45Z",
+      "image": "https://i.guim.co.uk/img/media/2af9dca3b335b35c5f9adf8dfba42cbfaf0bc1fe/177_0_2542_2033/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=68c4964836434d681a0a623d4894fe7e",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -37,7 +52,7 @@
     {
       "id": "tim-25e7c0aa1524",
       "title": "Son of Hamas’s chief negotiator Khalil al-Hayya said killed in IDF strike on Gaza City",
-      "description": "Terror group accuses Israel of killing three more police officers, a day after strikes that reportedly killed six, including Azzam al-Hayya and senior Khan Younis cop The post Son of Hamas&#8217;s chief negotiator Khalil al-Hayya said killed in IDF strike on Gaza City appeared first on The Times of Israel.",
+      "description": "Terror group accuses Israel of killing 3 police officers after strikes kill Azzam al-Hayya and a senior cop; IDF says terrorist who abducted Mia Schem on Oct. 7 killed in recent strike The post Son of Hamas&#8217;s chief negotiator Khalil al-Hayya said killed in IDF strike on Gaza City appeared first on The Times of Is…",
       "url": "https://www.timesofisrael.com/son-of-hamass-chief-negotiator-khalil-al-hayya-said-killed-in-idf-strike-on-gaza-city/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-07T15:01:12Z",
@@ -45,22 +60,7 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-d462e48e6849",
-      "title": "Israeli settler to go on trial over attack on French nun in Jerusalem",
-      "description": "Yona Simcha Schreiber from settlement in West Bank faces charge of assault motivated by hostility towards religious groupAn Israeli settler suspected of kicking and wounding a French Catholic nun in Jerusalem will go on trial for assault motivated by hostility towards a religious group, Israel’s justice ministry has sa…",
-      "url": "https://www.theguardian.com/world/2026/may/07/israeli-settler-trial-attack-french-nun-jerusalem",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-07T14:18:56Z",
-      "image": "https://i.guim.co.uk/img/media/bbc89b55ecdb77ac18a110dd7fdb1cea125e4d8b/470_0_1220_976/master/1220.jpg?width=140&quality=85&auto=format&fit=max&s=7de463a740a1d36140f5185e5a3ef50b",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,16 +1,16 @@
 {
-  "updated": "2026-05-07T21:25:17Z",
+  "updated": "2026-05-07T22:27:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
       "id": "nik-79c6a3f243a4",
-      "title": "The Iran War has exposed global shipping's weakest links",
+      "title": "The Iran war has exposed global shipping's weakest links",
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-07T21:25:14Z",
+      "publishedAt": "2026-05-07T22:26:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -7ad711804f79",
+      "title": "US says it struck Iran after attack on American warships",
+      "description": "Iran's central military command accused the United States of violating the ceasefire in the Middle East war with attacks on vessels in the Strait of Hormuz, saying they attacked US forces in retaliation.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/08/us-says-it-struck-iran-after-attack-on-american-warships_6753234_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-07T22:16:11Z",
+      "image": "https://img.lemde.fr/2026/04/25/150/0/1200/600/644/322/60/0/1e1829a_ftp-1-731e0punalfd-2026-04-25t025418z-961541165-rc22wka2e4zu-rtrmadp-3-iran-crisis-us-blockade.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-6e91cda705cf",
+      "title": "L'Iran accusa gli Usa di violare la tregua con attacchi alle navi",
+      "description": "Lo afferma il comando centrale dell'esercito",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/07/liran-accusa-gli-usa-di-violare-la-tregua-con-attacchi-alle-navi_02710ad5-87a2-4b89-86d6-d1466908cbbc.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-07T21:59:58Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/7/d9f4615bf7482093b804ecc2985e03bb.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -98,21 +128,6 @@
       "tags": []
     },
     {
-      "id": "ans-2f2de010b540",
-      "title": "La mineraria canadese Sherritt lascia Cuba dopo le nuove sanzioni Usa",
-      "description": "La società annuncia la sospensione delle attività nelle joint venture cubane",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/05/07/la-mineraria-canadese-sherritt-lascia-cuba-dopo-le-nuove-sanzioni-usa_2a8069f7-ae1d-44cb-be6f-bb73c7c7ec70.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-07T14:11:20Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2025/5/12/512ee9d0d915ca024c72cce7a26da8a4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-f1b70b6b7bb1",
       "title": "Is Russian oil becoming a lifeline for Southeast Asia?",
       "description": "With oil, gas and fertilizer imports squeezed by the Iran war, Southeast Asian governments are brushing off EU pressure and treating Russian energy as a tool of economic survival.",
@@ -140,21 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -ad5c49c39ec6",
-      "title": "Fulani and Tuareg communities in Mali report abuses after jihadist offensive",
-      "description": "The two communities have come under suspicion of collaborating with the JNIM jihadist group and the pro-independence Azawad Liberation Front, which launched attacks across the country on April 25. Several disappearances have been reported.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/05/07/fulani-and-tuareg-communities-in-mali-report-abuses-after-jihadist-offensive_6753203_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-07T01:01:23Z",
-      "image": "https://img.lemde.fr/2026/05/06/286/0/5598/2799/644/322/60/0/7a55662_upload-1-w0h5v5gfqju1-000-83fw6q8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

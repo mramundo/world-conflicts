@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T07:08:35Z",
+  "updated": "2026-05-07T09:00:58Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-05-02T00:08:58Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-05-06",
       "wikipediaRevision": "2026-05-06T04:22:41Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "sd-war",
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sy-war",
@@ -181,7 +181,7 @@
       ],
       "wikipediaPage": "Jihadist_insurgency_in_the_Sahel",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "so-als",
@@ -406,7 +406,7 @@
       "lastUpdate": "2026-04-20",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-04-20T16:17:12Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "red-sea",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     }
   ]
 }

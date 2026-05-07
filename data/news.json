@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T07:08:26Z",
+  "updated": "2026-05-07T09:00:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,8 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/philippines-urges-asean-to-strengthen-crisis-coordination-amid-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-07T07:08:22Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F1%2F7%2F3%2F12463715-1-eng-GB%2F17c8d02bd7e8-c.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-05-07T09:00:41Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F3%2F7%2F4%2F12464731-1-eng-GB%2F31f296259d23-cc.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
@@ -20,28 +20,60 @@
       "tags": []
     },
     {
-      "id": "the-ad758df00cc0",
-      "title": "Cut UK speed limits to reduce Iran war impact on consumers, thinktank urges",
-      "description": "Cap of 20mph in towns and cities and 60mph on motorways would cut fuel demand and combat rising prices, IPPR saysBritain should lower speed limits for drivers as part of a package of measures to reduce the impact of the Iran war on consumers, a thinktank has said.Capping legal speeds at 20mph in towns and cities and 60…",
-      "url": "https://www.theguardian.com/business/2026/may/07/lower-speed-limits-uk-oil-prices-ippr-thinktank",
+      "id": "the-d2d7ca650da1",
+      "title": "Middle East crisis live: Iran reviewing peace proposal as Trump says a deal ‘very possible’",
+      "description": "The US and Iran have offered conflicting messages over the likelihood of a deal being reached imminentlyMorning and welcome to the Guardian’s continuing coverage of the crisis in the Middle East.The US and Iran have offered conflicting messages over the state of negotiations to end the war, with Donald Trump signalling…",
+      "url": "https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-05-07T04:00:40Z",
-      "image": "https://i.guim.co.uk/img/media/240c7f118f7bd9d04426fb64d05f64b23a375cc2/195_49_2258_1807/master/2258.jpg?width=140&quality=85&auto=format&fit=max&s=d867f1045d186b3bab6135cfa53a714f",
+      "publishedAt": "2026-05-07T08:49:29Z",
+      "image": "https://i.guim.co.uk/img/media/003088a8c2be8023b7dd82225d80cfb7e3feab08/178_935_3541_2833/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=eb619b76566eb017646eb0c960b7b180",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 13,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -53c185d8fba1",
-      "title": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut",
-      "description": "UN calls on Israel to free two members of Gaza aid flotilla abducted in international waters and held without charge.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss",
+      "id": "npr-2da04745a381",
+      "title": "Affected by the Iran war, residents in Southeast Asian countries voice their concerns",
+      "description": "Southeast Asian countries are voicing concern about President Trump and the war with Iran.",
+      "url": "https://www.npr.org/2026/05/07/nx-s1-5813503/affected-by-the-iran-war-residents-in-southeast-asian-countries-voice-their-concerns",
+      "source": "NPR World",
+      "publishedAt": "2026-05-07T08:41:49Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5813503",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -6ee501e687eb",
+      "title": "The Gaza journalist killed on the day his daughter was born",
+      "description": "Sana&#039;s first birthday is shadowed by loss; her father Yahya was killed in an Israeli attack hours after her birth.",
+      "url": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-05-07T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260506__B22M8WH__v1__HighRes__LebanonIsraelIranUsWar-1778092579.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-05-07T08:12:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/873A0074-1778119737.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-f116b96d34e3",
+      "title": "Venice and Biennale 'shaken': 'The turmoil on the international scene has entered the exhibition'",
+      "description": "Mark Owen is pleased to welcome Angelo Amante, Reuters correspondent in Rome. Russia has returned to the 2026 edition of the Venice Biennale for the first time since the full scale invasion of Ukraine in 2022. Their presence has triggered protests from activists, artists, and political dissidents who argue that culture…",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260507-venice-and-biennale-shaken-the-turmoil-on-the-international-scene-has-entered-the-exhibition",
+      "source": "France24",
+      "publishedAt": "2026-05-07T08:09:19Z",
+      "image": "https://s.france24.com/media/display/1864fee4-49e5-11f1-9869-005056bfb2b6/w:1024/p:16x9/EN-20260506-183715-184435-CS.jpg",
       "categories": [
         "conflict"
       ],
@@ -50,17 +82,32 @@
       "tags": []
     },
     {
-      "id": "tim-d00b2b9aaf20",
-      "title": "Venice Biennale previews marred by protests over Israeli, Russian presence",
-      "description": "Bare-breasted activists demonstrate against Russia's return to prestigious art festival for first time since Ukrainian invasion; pro-Palestinian protesters hold 'No artwashing genocide' banners outside Israel pavilion The post Venice Biennale previews marred by protests over Israeli, Russian presence appeared first on …",
-      "url": "https://www.timesofisrael.com/commencement-of-venice-biennale-previews-marred-by-protests-over-israeli-russian-presence/",
+      "id": "tim-e27294932e71",
+      "title": "After cancer revelation, court orders PM to submit sealed medical records in libel case",
+      "description": "Israel says it coordinated delivery of rat pesticides to Gaza to counter infestation * IDF continues striking south Lebanon as Hezbollah targets troops with rockets, drones The post After cancer revelation, court orders PM to submit sealed medical records in libel case appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/liveblog-may-07-2026/",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-06T20:51:49Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260506__A9YR2TJ__v1__HighRes__ItalyArtBiennaleIsraelPalestinianProtest-1024x640.jpg",
+      "publishedAt": "2026-05-07T01:24:30Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/F251028MA09-e1775975019757-1024x640.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -ad5c49c39ec6",
+      "title": "Fulani and Tuareg communities in Mali report abuses after jihadist offensive",
+      "description": "The two communities have come under suspicion of collaborating with the JNIM jihadist group and the pro-independence Azawad Liberation Front, which launched attacks across the country on April 25. Several disappearances have been reported.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/05/07/fulani-and-tuareg-communities-in-mali-report-abuses-after-jihadist-offensive_6753203_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-07T01:01:23Z",
+      "image": "https://img.lemde.fr/2026/05/06/286/0/5598/2799/644/322/60/0/7a55662_upload-1-w0h5v5gfqju1-000-83fw6q8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -80,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "fra-e20be1b0d992",
-      "title": "India 'funds organisations behind terror activities in Pakistan': Bilawal Bhutto Zardari",
-      "description": "In an interview with FRANCE 24, Bilawal Bhutto Zardari, head of the Pakistan People's Party, discussed the ongoing tensions between India and Pakistan. One year ago, after a five-day war between the two countries, US President Donald Trump announced a full ceasefire, but \"there are underlying tensions that can, at any …",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260506-india-funds-organisations-behind-terror-activities-in-pakistan-bilawal-bhutto-zardari",
-      "source": "France24",
-      "publishedAt": "2026-05-06T15:32:38Z",
-      "image": "https://s.france24.com/media/display/e639777c-4932-11f1-922e-005056a90284/w:1024/p:16x9/TETE-A-TETE-06-05-2026-11-20-ING34-CLEAN-B.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-3128d22f0e58",
       "title": "Myanmar: What's behind Suu Kyi's transfer to house arrest?",
       "description": "The transfer of Aung San Suu Kyi from prison to house arrest has been welcomed cautiously abroad, but experts say Myanmar's military may be using it to boost legitimacy as the nation remains engulfed in civil war.",
@@ -107,22 +139,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -419df632e3db",
-      "title": "'The Gulf cold war is set to give the other petro-monarchies cold sweats'",
-      "description": "The United Arab Emirates' abrupt departure from OPEC on April 28 confirms its determination to break free from Saudi Arabia and is expected to have repercussions across the Middle East, writes columnist Gilles Paris.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/05/06/the-gulf-cold-war-is-set-to-give-the-other-petro-monarchies-cold-sweats_6753185_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-06T12:22:09Z",
-      "image": "https://img.lemde.fr/2026/04/28/517/0/3621/1810/644/322/60/0/f22cc8d_ftp-1-uncv3xg55jjz-2026-04-28t115533z-1897026753-rc2aykamqufh-rtrmadp-3-gulf-summit.JPG",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -152,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-c11b7848c345",
-      "title": "Skeletons in their clothing: Recovering bodies from the rubble in Gaza",
-      "description": "It was one of the deadliest Israeli strikes of the Gaza war, devastating one extended family. A year and a half later, the survivors find their loved ones' remains.",
-      "url": "https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies",
-      "source": "NPR World",
-      "publishedAt": "2026-05-06T09:00:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F58%2Fdbfff96442b0a2172edea7029d4a%2F99542835-2def-4b48-8a73-848a63d4d6a9.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

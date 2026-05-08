@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T11:35:00Z",
+  "updated": "2026-05-08T12:37:42Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-08T11:34:55Z",
+      "publishedAt": "2026-05-08T12:37:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,52 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-8b18b7aa0d17",
+      "title": "Middle East crisis live: Iranians ‘never bow to pressure’, says foreign minister after clashes in the strait of Hormuz",
+      "description": "Trump says ceasefire still intact as US claims strikes on Iranian military targets after an attack on three American destroyers in the strait Ceasefire under threat after strikes exchanged in straitThe ship monitor Tanker Trackers has posted the following on X about the Ocean Koi oil tanker:Her new name is actually JIN…",
+      "url": "https://www.theguardian.com/world/live/2026/may/08/iran-us-israel-donald-trump-lebanon-ceasefire-oil-strait-hormuz-missiles-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-08T12:24:20Z",
+      "image": "https://i.guim.co.uk/img/media/116866ec34512969b017d9ed9c0c21a8400a9612/862_188_3495_2796/master/3495.jpg?width=140&quality=85&auto=format&fit=max&s=892d2c370cbc19245014c9253ee90333",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-98db271b202c",
+      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "description": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-08T11:42:35Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2140/live/997dd690-4ad0-11f1-ac78-2112837ce2aa.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-9fdebd0fa298",
+      "title": "Rubio a Tajani, le nazioni occidentali proteggano i propri interessi",
+      "description": "Nell'incontro 'affrontata importanza di risolvere guerra in Ucraina'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/08/rubio-a-tajani-le-nazioni-occidentali-proteggano-i-propri-interessi_e98b6be3-3bd3-4fbe-b3c6-bd2111405647.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-08T11:41:24Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/9010843eaa3155f1e748ae25d6ff0d36.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,21 +78,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-98db271b202c",
-      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-      "description": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
-      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-08T10:23:39Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/132a/live/663f94b0-4acd-11f1-b55d-0f258dce1735.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -126,47 +157,33 @@
       "tags": []
     },
     {
-      "id": "ans-046aed289f01",
-      "title": "++ Mosca, 'Kiev viola la tregua, rispondiamo in modo speculare' ++",
-      "description": "",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/08/-mosca-kiev-viola-la-tregua-rispondiamo-in-modo-speculare-_dac734d7-5ad6-4236-9451-2d9a76ffae2d.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-08T07:05:39Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/287dc8a39835b73960b45622f12d4e5d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-6f89460582b0",
-      "title": "Trump ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta",
-      "description": "Stone being paid $50,000 a month to ‘rebuild’ relations between Washington and Myanmar’s military-backed governmentThe US lobbyist Roger Stone, a longtime friend and ally of Donald Trump, has been condemned for accepting $50,000 a month to “rebuild” relations between Washington and Myanmar’s military-backed government.…",
-      "url": "https://www.theguardian.com/us-news/2026/may/08/trump-ally-roger-stone-condemned-for-providing-lobbying-services-to-myanmars-military-junta",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-08T00:57:43Z",
-      "image": "https://i.guim.co.uk/img/media/d1d0f234401a49db7d96e0eb9f1ccc89367da1a2/74_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=1d31add508989c63d5c6d9ca9e054816",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-eb00c703e171",
-      "title": "US strikes Iran following clash in Strait of Hormuz; Trump says ceasefire still in effect",
-      "description": "Iran accuses US of violating truce but says situation 'back to normal'; Trump calls strikes 'love tap' but says Iran 'led by LUNATICS' and will be hit again if it doesn't agree to deal The post US strikes Iran following clash in Strait of Hormuz; Trump says ceasefire still in effect appeared first on The Times of Israe…",
-      "url": "https://www.timesofisrael.com/us-strikes-iran-following-clash-in-strait-of-hormuz-trump-says-ceasefire-still-in-effect/",
+      "id": "tim-0a41dbc76566",
+      "title": "Three IDF soldiers hurt, one seriously, in Hezbollah explosive drone attacks",
+      "description": "Hezbollah fires rocket barrage at northern Israel after IDF says preparing for possibility attack * Answering petition against incoming Mossad chief, Netanyahu tells High Court he alone can make security decisions The post Three IDF soldiers hurt, one seriously, in Hezbollah explosive drone attacks appeared first on Th…",
+      "url": "https://www.timesofisrael.com/liveblog-may-08-2026/",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-08T00:04:33Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26124419258830-1024x640.jpg",
+      "publishedAt": "2026-05-08T01:20:26Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260507AMA12-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -e542e7de4bb9",
+      "title": "More than 70 civilians killed in Ukraine in less than a week",
+      "description": "At least 70 civilians have been killed and more than 500 injured across Ukraine since the start of May, UN human rights monitors said on Wednesday, as waves of attacks hit cities across the country and humanitarian workers struggled to reach communities near the frontline.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167454",
+      "source": "UN News",
+      "publishedAt": "2026-05-06T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-04-2025_UNOCHA_Ukraine-07.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -215,21 +232,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -773008c4c373",
-      "title": "Education or food? Funding shortfalls force Sudanese refugees in Egypt to ‘make very difficult decisions’",
-      "description": "Civilians who have fled the war in Sudan and sought shelter in neighbouring Egypt could potentially face a new battle – the loss of critical services that ensure their survival, the UN refugee agency, UNHCR, has warned.&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167443",
-      "source": "UN News",
-      "publishedAt": "2026-05-05T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-04-2026-UNHCR-Egypt-Refugees-Reg.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     }
   ]

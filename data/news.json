@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T06:43:44Z",
+  "updated": "2026-05-08T07:37:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-08T06:43:40Z",
+      "publishedAt": "2026-05-08T07:37:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,32 @@
       "tags": []
     },
     {
-      "id": "ans-e9e92473f97e",
-      "title": "Zelensky, 'da russi neanche tregua simbolica, risponderemo con stessa moneta'",
-      "description": "'Nella scorsa notte oltre 140 attacchi di Mosca, 850 droni'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/08/zelensky-da-russi-neanche-tregua-simbolica-risponderemo-con-stessa-moneta_7ec3790c-bfb0-4ad5-a61f-9919cf160421.html",
+      "id": "ans-046aed289f01",
+      "title": "++ Mosca, 'Kiev viola la tregua, rispondiamo in modo speculare' ++",
+      "description": "",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/08/-mosca-kiev-viola-la-tregua-rispondiamo-in-modo-speculare-_dac734d7-5ad6-4236-9451-2d9a76ffae2d.html",
       "source": "ANSA",
-      "publishedAt": "2026-05-08T05:29:01Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/a6317cf6ef9d5b194c53fbd7e3bf77d9.jpg",
+      "publishedAt": "2026-05-08T07:05:39Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/287dc8a39835b73960b45622f12d4e5d.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8d8d02362170",
+      "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
+      "description": "Iran accuses US of breaching ceasefire near Hormuz as CENTCOM says forces responded to Iranian attacks.",
+      "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-08T06:32:57Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-06T100059Z_145204481_RC2K3LA8GR6N_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1778195099.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -124,21 +139,6 @@
         "humanitarian"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -08faf617ab5b",
-      "title": "Palestinian boy mourns father killed in Israeli strike on security post",
-      "description": "A Palestinian boy mourns his father, one of three people killed in an Israeli strike on a security post in Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-07T20:10:54Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/IG-ISRAEL-KILLS-3-IN-GAZA.00_02_00_22.Still002-1778184629.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

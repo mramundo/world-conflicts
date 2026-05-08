@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T01:41:22Z",
+  "updated": "2026-05-08T03:11:34Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-08T01:41:18Z",
+      "publishedAt": "2026-05-08T03:11:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -b2f293874985",
+      "title": "'Faced with Trump and Putin, the war in Ukraine is acting as a catalyst for Europe's autonomization'",
+      "description": "Amid international turmoil, Donald Trump is punishing Germany, Ukraine is scoring points against Russia and Canada is emerging as Europe's staunchest supporter, observes Le Monde columnist Sylvie Kauffmann.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/05/08/faced-with-trump-and-putin-the-war-in-ukraine-is-acting-as-a-catalyst-for-europe-s-autonomization_6753237_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-08T02:00:13Z",
+      "image": "https://img.lemde.fr/2026/05/04/288/0/3000/1500/644/322/60/0/c78c496_ftp-1-bn5m7fsb31rn-02a973503ffc406593c57a63c919aeb8-0-a411c521e4dd447695d7687092419592.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": true,
       "tags": []
     },
@@ -53,7 +69,7 @@
     {
       "id": "al -5450d5ad945e",
       "title": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
-      "description": "Iran accused the US of violating the ceasefire by targeting Iranian vessels and carrying out strikes on coastal areas.",
+      "description": "Iran accuses the US of violating the ceasefire by targeting Iranian vessels and carrying out strikes on coastal areas.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-05-08T00:00:00Z",
@@ -67,8 +83,8 @@
     },
     {
       "id": "fra-db7d51c99be4",
-      "title": "Middle East war live: US and Iran accuse each other of ceasefire violations in Strait of Hormuz",
-      "description": "On Friday, the US and Iran accused each other of breaking a fragile ceasefire after clashes in the Strait of Hormuz. Washington said it struck Iranian military targets following an attack on US destroyers, while Tehran claimed US forces attacked first, raising fears of renewed escalation in the region. Follow our liveb…",
+      "title": "Middle East war live: Trump says ceasefire is still on despite attacks in Strait of Hormuz",
+      "description": "US President Donald Trump said on Thursday that the ceasefire between the US and Iran is still on, after both countries accused each other of violating it with clashes in the Strait of Hormuz. Washington said it struck Iranian military targets following an attack on US destroyers, while Tehran claimed US forces attacke…",
       "url": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-us-and-iran-accuse-each-other-of-ceasefire-violations-in-strait-of-hormuz",
       "source": "France24",
       "publishedAt": "2026-05-07T23:12:45Z",
@@ -108,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -7ad711804f79",
-      "title": "US and Iran trade strikes, threatening fragile truce",
-      "description": "Iran's central military command accused the US of violating the ceasefire with attacks on vessels in the Strait of Hormuz on Thursday, saying they struck US forces in retaliation. The US, however, says Iran attacked three American destroyers first, which Trump later dismissed as a 'trifle,' and said he considered the c…",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/08/us-says-it-struck-iran-after-attack-on-american-warships_6753234_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-07T22:16:08Z",
-      "image": "https://img.lemde.fr/2026/04/25/150/0/1200/600/644/322/60/0/1e1829a_ftp-1-731e0punalfd-2026-04-25t025418z-961541165-rc22wka2e4zu-rtrmadp-3-iran-crisis-us-blockade.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

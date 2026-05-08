@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T13:38:57Z",
+  "updated": "2026-05-08T14:41:01Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-08T13:38:54Z",
+      "publishedAt": "2026-05-08T14:40:57Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,22 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-8b18b7aa0d17",
+      "title": "Middle East crisis live: Iranians ‘never bow to pressure’, says foreign minister after clashes in the strait of Hormuz",
+      "description": "Trump says ceasefire still intact as Rubio tells reporters that the US should get a response from Iran today on proposals to end the warCeasefire under threat after strikes exchanged in straitThe ship monitor Tanker Trackers has posted the following on X about the Ocean Koi oil tanker:Her new name is actually JIN LI (9…",
+      "url": "https://www.theguardian.com/world/live/2026/may/08/iran-us-israel-donald-trump-lebanon-ceasefire-oil-strait-hormuz-missiles-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-08T14:22:06Z",
+      "image": "https://i.guim.co.uk/img/media/116866ec34512969b017d9ed9c0c21a8400a9612/862_188_3495_2796/master/3495.jpg?width=140&quality=85&auto=format&fit=max&s=892d2c370cbc19245014c9253ee90333",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,22 +48,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-8b18b7aa0d17",
-      "title": "Middle East crisis live: Iranians ‘never bow to pressure’, says foreign minister after clashes in the strait of Hormuz",
-      "description": "Trump says ceasefire still intact as Rubio tells reporters that the US should get a response from Iran today on proposals to end the warCeasefire under threat after strikes exchanged in straitThe ship monitor Tanker Trackers has posted the following on X about the Ocean Koi oil tanker:Her new name is actually JIN LI (9…",
-      "url": "https://www.theguardian.com/world/live/2026/may/08/iran-us-israel-donald-trump-lebanon-ceasefire-oil-strait-hormuz-missiles-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-08T13:04:30Z",
-      "image": "https://i.guim.co.uk/img/media/116866ec34512969b017d9ed9c0c21a8400a9612/862_188_3495_2796/master/3495.jpg?width=140&quality=85&auto=format&fit=max&s=892d2c370cbc19245014c9253ee90333",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

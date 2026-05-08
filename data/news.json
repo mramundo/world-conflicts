@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T17:35:30Z",
+  "updated": "2026-05-08T18:37:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-08T17:35:27Z",
+      "publishedAt": "2026-05-08T18:36:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,32 @@
       "tags": []
     },
     {
-      "id": "ans-b3178d18aa24",
-      "title": "Comunità Andina minaccia sanzioni a Colombia ed Ecuador per guerra commerciale",
-      "description": "Concessi 10 giorni ai governi di Noboa e Petro per revocare i dazi reciproci",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/05/08/comunita-andina-minaccia-sanzioni-a-colombia-ed-ecuador-per-guerra-commerciale_90086a69-cfab-49ed-9aa0-e88f75a5db46.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-08T16:56:41Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/bb8e922a602ac088025a72061a5e2794.jpg",
+      "id": "al -41d2e11672c5",
+      "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
+      "description": "Truce will also include swap of 1,000 prisoners of war from each country, US president says.",
+      "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-08T18:15:46Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/AP25220769577011-1-1754901225.jpg?resize=1200%2C630",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-cd9d83e4a58c",
+      "title": "Trump, ci saranno tre giorni di tregua in Ucraina, dal 9 all'11 maggio",
+      "description": "In Russia si celebra la vittoria della Seconda Guerra Mondiale",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/08/trump-ci-saranno-tre-giorni-di-tregua-in-ucraina-dal-9-all11-maggio_1997ab64-3cf5-433d-991d-735f46f1f007.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-08T18:09:25Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/dd0b0decc2f3b2289e7e8fda18a299b7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -68,20 +83,18 @@
       "tags": []
     },
     {
-      "id": "al -54e757789ea7",
-      "title": "What would prolonged war mean for Sudan?",
-      "description": "War in Sudan has triggered one of the world’s worst humanitarian crises, with fears protracted fighting could worsen it.",
-      "url": "https://www.aljazeera.com/features/2026/5/8/what-would-prolonged-war-mean-for-sudan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-08T13:57:10Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/05/ap_6818a2fd981f0-1746445053.jpg?resize=1920%2C1440",
+      "id": "fra-b7903e170f08",
+      "title": "Russia loses ground – but not the war – in Ukraine",
+      "description": "Moscow lost territory on the battlefield in April 2026 for the first time since Ukraine’s bold August 2024 incursion into Russia's Kursk oblast, according to an analysis published this week. Moscow's losses were equivalent to some 116 square kilometres across several areas of the front line.",
+      "url": "https://www.france24.com/en/europe/20260508-russia-loses-ground-but-not-the-war-in-ukraine-institute-for-study-of-war-isw",
+      "source": "France24",
+      "publishedAt": "2026-05-08T14:22:40Z",
+      "image": "https://s.france24.com/media/display/b36b9b52-4a29-11f1-8a8f-005056bf30b7/w:1024/p:16x9/ukraine-fighting.jpg",
       "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -115,21 +128,6 @@
       "tags": []
     },
     {
-      "id": "fra-b46d8af184fe",
-      "title": "Israel and Hezbollah continue to trade blows despite the ceasefire",
-      "description": "Israel has taken responsibility for Wednesday night's strike on the southern suburbs of Beirut, with Prime Minister Benjamin Netanyahu saying he personally authorised the attack to kill a top Hezbollah Commander identified as Malek Balou. The continued ceasefire incursions are further pressuring talks between Tel Aviv …",
-      "url": "https://www.france24.com/en/israel-and-hezbollah-continue-to-trade-blows-despite-the-ceasefire",
-      "source": "France24",
-      "publishedAt": "2026-05-08T09:41:34Z",
-      "image": "https://s.france24.com/media/display/068ca182-4ac0-11f1-b11c-005056bf30b7/w:1024/p:16x9/EN-20260508-083713-083905-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-b8e8cd2996ef",
       "title": "As war on Ukraine continues, Russia prepares for smaller Victory Day parade",
       "description": "Russia's annual Victory Day parade will be smaller than previous ones as the effects of the war on Ukraine take a toll.",
@@ -146,8 +144,8 @@
     },
     {
       "id": "rfe-a7fa7bc7404b",
-      "title": "Kremlin-Declared Victory Day Truce Collapses As Kyiv And Moscow Exchange Attacks",
-      "description": "A Kremlin-proposed cease-fire to mark Victory Day collapsed within hours, as Ukraine and Russia reported hundreds of violations a day before a scaled-down military parade in Moscow.",
+      "title": "Trump Announces 3-Day Cease-fire In Russia-Ukraine War, Claims Peace Deal Getting 'Closer And Closer'",
+      "description": "US President Donald Trump announced a three-day cease-fire in the war between Russia and Ukraine, suggesting that the Russian and Ukrainian leaders had agreed to the truce along with a major prisoner swap.",
       "url": "https://www.rferl.org/a/ukraine-russia-victory-day-cease-fire-drone-attacks/33752482.html",
       "source": "RFE/RL",
       "publishedAt": "2026-05-08T06:39:19Z",
@@ -156,7 +154,7 @@
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 13,
       "isAnalysis": true,
       "tags": []
     },

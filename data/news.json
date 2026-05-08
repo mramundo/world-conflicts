@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T18:37:04Z",
+  "updated": "2026-05-08T19:34:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-08T18:36:59Z",
+      "publishedAt": "2026-05-08T19:34:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -25faed349b4a",
+      "title": "Trump announces three-day Ukraine-Russia ceasefire, prisoner swap",
+      "description": "Russia had previously announced a two-day unilateral ceasefire to mark its May 9 World War II Victory Day on Saturday. Ukraine previously stated that it too had offered a truce but that this had been ignored by Moscow.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/08/trump-announces-three-day-ukraine-russia-ceasefire-prisoner-swap_6753267_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-08T18:45:03Z",
+      "image": "https://img.lemde.fr/2026/05/08/720/0/8640/4320/644/322/60/0/6ddf534_ftp-1-i8fk8imrpm0i-244377920682493a9ee8e011531357c4-0-58d037f6920740a58dc50a61e270d03e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -98,21 +113,6 @@
       "tags": []
     },
     {
-      "id": "bbc-98db271b202c",
-      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-      "description": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
-      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-08T13:17:15Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2140/live/997dd690-4ad0-11f1-ac78-2112837ce2aa.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-331b81b853ac",
       "title": "Kremlin Shifts Ukraine War Narrative as Hopes of Capturing Kyiv Fade",
       "description": "The Kremlin has reportedly begun developing narratives to frame a potential peace deal with Ukraine as a “victory” despite years of war, economic strain, and limited battlefield gains. Officials are reportedly preparing to shift public messaging away from capturing Kyiv toward holding occupied territories in eastern an…",
@@ -144,33 +144,17 @@
     },
     {
       "id": "rfe-a7fa7bc7404b",
-      "title": "Trump Announces 3-Day Cease-fire In Russia-Ukraine War, Claims Peace Deal Getting 'Closer And Closer'",
-      "description": "US President Donald Trump announced a three-day cease-fire in the war between Russia and Ukraine, suggesting that the Russian and Ukrainian leaders had agreed to the truce along with a major prisoner swap.",
+      "title": "Trump Announces 3-Day Cease-fire In Russia-Ukraine War; Zelenskyy Vows No Red Square Attacks",
+      "description": "US President Donald Trump announced a three-day cease-fire in the war between Russia and Ukraine, with both sides quickly confirming they had agreed to the truce along with a major prisoner swap.",
       "url": "https://www.rferl.org/a/ukraine-russia-victory-day-cease-fire-drone-attacks/33752482.html",
       "source": "RFE/RL",
       "publishedAt": "2026-05-08T06:39:19Z",
-      "image": "https://gdb.rferl.org/275ea21b-c3a4-4561-8916-51e1d852e106_cx0_cy5_cw0_w800_h450.jpg",
+      "image": "https://gdb.rferl.org/9591359e-70af-4380-1f46-08de3bed1b27_cx4_cy3_cw93_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -b2f293874985",
-      "title": "'Faced with Trump and Putin, the war in Ukraine is acting as a catalyst for Europe's autonomization'",
-      "description": "Amid international turmoil, Donald Trump is punishing Germany, Ukraine is scoring points against Russia and Canada is emerging as Europe's staunchest supporter, observes Le Monde columnist Sylvie Kauffmann.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/05/08/faced-with-trump-and-putin-the-war-in-ukraine-is-acting-as-a-catalyst-for-europe-s-autonomization_6753237_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-08T02:00:13Z",
-      "image": "https://img.lemde.fr/2026/05/04/288/0/3000/1500/644/322/60/0/c78c496_ftp-1-bn5m7fsb31rn-02a973503ffc406593c57a63c919aeb8-0-a411c521e4dd447695d7687092419592.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
+      "relevanceScore": 14,
       "isAnalysis": true,
       "tags": []
     },
@@ -186,6 +170,22 @@
         "conflict"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-18a58d9f3516",
+      "title": "One year after India-Pakistan conflict, ceasefire holds - but little else does",
+      "description": "A year after their military conflict, India and Pakistan avoid war, but diplomacy and trust remain frozen.",
+      "url": "https://www.bbc.com/news/articles/c4g4093dy39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-07T22:59:31Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e4/live/4d2dd1f0-49db-11f1-9acb-332348f2c41f.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

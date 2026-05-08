@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T20:27:16Z",
+  "updated": "2026-05-08T21:26:34Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-08T20:27:13Z",
+      "publishedAt": "2026-05-08T21:26:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -21,12 +21,27 @@
       "tags": []
     },
     {
+      "id": "npr-7357bc4a749b",
+      "title": "Russia's Victory Day celebrations are dampened by ongoing war with Ukraine",
+      "description": "World War 2 Victory Day celebrations in Moscow will be muted this year because of fears of drone attacks, as the public tires of the Ukraine war.",
+      "url": "https://www.npr.org/2026/05/08/nx-s1-5810080/russias-victory-day-celebrations-are-dampened-by-ongoing-war-with-ukraine",
+      "source": "NPR World",
+      "publishedAt": "2026-05-08T20:09:06Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5810080",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -25faed349b4a",
-      "title": "Trump announces three-day Ukraine-Russia ceasefire, prisoner swap",
-      "description": "Russia had previously announced a two-day unilateral ceasefire to mark its May 9 World War II Victory Day on Saturday. Ukraine previously stated that it too had offered a truce but that this had been ignored by Moscow.",
+      "title": "Russia and Ukraine confirm US-brokered three-day ceasefire and prisoner swap",
+      "description": "Russia had previously announced a two-day unilateral ceasefire to mark its May 9 World War II Victory Day on Saturday. Ukraine had previously stated that it too had offered a truce but that this had been ignored by Moscow.",
       "url": "https://www.lemonde.fr/en/international/article/2026/05/08/trump-announces-three-day-ukraine-russia-ceasefire-prisoner-swap_6753267_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-08T18:45:03Z",
+      "publishedAt": "2026-05-08T18:44:59Z",
       "image": "https://img.lemde.fr/2026/05/08/720/0/8640/4320/644/322/60/0/6ddf534_ftp-1-i8fk8imrpm0i-244377920682493a9ee8e011531357c4-0-58d037f6920740a58dc50a61e270d03e.jpg",
       "categories": [
         "conflict"
@@ -124,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-b8e8cd2996ef",
-      "title": "As war on Ukraine continues, Russia prepares for smaller Victory Day parade",
-      "description": "Russia's annual Victory Day parade will be smaller than previous ones as the effects of the war on Ukraine take a toll.",
-      "url": "https://www.npr.org/2026/05/08/nx-s1-5810926/as-war-on-ukraine-continues-russia-prepares-for-smaller-victory-day-parade",
-      "source": "NPR World",
-      "publishedAt": "2026-05-08T08:44:36Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5810926",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

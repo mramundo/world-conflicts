@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T09:35:56Z",
+  "updated": "2026-05-09T10:26:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-09T09:35:53Z",
+      "publishedAt": "2026-05-09T10:26:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,52 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-60b4c9699da5",
+      "title": "Why Russia Violated Every Ceasefire for 12 Years, Even Those They Proposed",
+      "description": "Kyiv Post scrutinizes 17 ceasefires starting with the Kremlin’s initial invasion of Ukraine in February 2014. Since the first one on June 20, 2014, all have been violated by the Russians. Here, Kyiv Post covers why Russia does so and what Ukraine and its allies could do.",
+      "url": "https://www.kyivpost.com/analysis/75728",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-09T10:04:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/06/20a856821e7e1605bec6e1094e7a73c5.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -4de35e4005f7",
+      "title": "US economy persists through trade uncertainty",
+      "description": "Even though growth and labor market figures are heading in the right direction, the Trump administration's erratic policies, particularly the president's ongoing trade war, have hindered economic activity.",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/05/09/us-economy-persists-through-trade-uncertainty_6753282_19.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-09T10:00:05Z",
+      "image": "https://img.lemde.fr/2026/05/08/26/0/5923/2961/644/322/60/0/0f126bf_upload-1-djhvbhqciyk6-063-2273590218.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-cdca734e4bd6",
+      "title": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
+      "description": "Moscow blanketed in heavy security despite last-minute announcement of three-day ceasefire with UkraineVladimir Putin has declared Russia will always be victorious as he oversaw a scaled-back Victory Day parade on Red Square held under heavy security amid mounting fears of Ukrainian attacks and growing public fatigue w…",
+      "url": "https://www.theguardian.com/world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-09T09:55:24Z",
+      "image": "https://i.guim.co.uk/img/media/68e0a1d04d01282ae86a0a081f7bb7db35545277/246_0_6529_5224/master/6529.jpg?width=140&quality=85&auto=format&fit=max&s=dc2b860e735aa1efd4a26d9f8bf6cfdf",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -111,21 +157,6 @@
       "tags": []
     },
     {
-      "id": "le -ec0f05c61a99",
-      "title": "US fire on Iran tankers sparks reprisals as deal hangs in balance",
-      "description": "On Friday, US fighter jets disabled two Iranian-flagged tankers, triggering retaliatory attacks as a truce remains uncertain. President Donald Trump announced that he is waiting for a letter, 'supposedly tonight, so we'll see how that goes.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/08/us-awaits-iran-s-response-on-proposed-deal-despite-clashes_6753262_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-08T16:03:36Z",
-      "image": "https://img.lemde.fr/2026/05/08/1252/0/8256/4128/644/322/60/0/db0f2fb_ftp-1-ugwius8ttnd8-5977932-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-f22e6153cf76",
       "title": "How real is a coup threat against Russia's president?",
       "description": "Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt. Yet some observers remain skeptical.",
@@ -142,21 +173,6 @@
       "tags": []
     },
     {
-      "id": "kyi-331b81b853ac",
-      "title": "Kremlin Shifts Ukraine War Narrative as Hopes of Capturing Kyiv Fade",
-      "description": "The Kremlin has reportedly begun developing narratives to frame a potential peace deal with Ukraine as a “victory” despite years of war, economic strain, and limited battlefield gains. Officials are reportedly preparing to shift public messaging away from capturing Kyiv toward holding occupied territories in eastern an…",
-      "url": "https://www.kyivpost.com/post/75697",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-08T09:55:06Z",
-      "image": "https://static.kyivpost.com/storage/2025/03/23/f8fdb965248c6ce5068ba8d726910346.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-a7fa7bc7404b",
       "title": "Trump Announces 3-Day Cease-Fire In Russia-Ukraine War; Zelenskyy Vows No Red Square Attacks",
       "description": "US President Donald Trump announced a three-day cease-fire in the war between Russia and Ukraine, with both sides quickly confirming they had agreed to the truce along with a major prisoner swap.",
@@ -170,21 +186,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-6f89460582b0",
-      "title": "Trump ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta",
-      "description": "Stone being paid $50,000 a month to ‘rebuild’ relations between Washington and Myanmar’s military-backed governmentThe US lobbyist Roger Stone, a longtime friend and ally of Donald Trump, has been condemned for accepting $50,000 a month to “rebuild” relations between Washington and Myanmar’s military-backed government.…",
-      "url": "https://www.theguardian.com/us-news/2026/may/08/trump-ally-roger-stone-condemned-for-providing-lobbying-services-to-myanmars-military-junta",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-08T00:57:43Z",
-      "image": "https://i.guim.co.uk/img/media/d1d0f234401a49db7d96e0eb9f1ccc89367da1a2/74_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=1d31add508989c63d5c6d9ca9e054816",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {

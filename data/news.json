@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T01:40:26Z",
+  "updated": "2026-05-09T03:13:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-09T01:40:22Z",
+      "publishedAt": "2026-05-09T03:13:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-c0095dd71bb6",
+      "title": "Russia and Ukraine agree to 3-day ceasefire, prisoner swap brokered by US",
+      "description": "Trump hopes truce can be the 'beginning of the end'; ahead of WWII Victory Day parade in Moscow, Zelensky says 'Red Square matters less to us than the lives of Ukrainian prisoners' The post Russia and Ukraine agree to 3-day ceasefire, prisoner swap brokered by US appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/russia-and-ukraine-agree-to-3-day-ceasefire-prisoner-swap-brokered-by-us/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-09T02:19:53Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP25225769069524-e1778291401756-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -94,22 +109,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-f7ac4ffd0089",
-      "title": "Hezbollah fires rockets at Haifa area; drones wound 2 troops in north Israel, 1 in Lebanon",
-      "description": "Soldier seriously wounded, another moderately by explosive UAV in north, 3rd soldier injured in south Lebanon attack; 4 killed in IDF Lebanon strike after evacuation warning The post Hezbollah fires rockets at Haifa area; drones wound 2 troops in north Israel, 1 in Lebanon appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/hezbollah-fires-rockets-at-haifa-area-drones-wound-2-troops-in-north-israel-1-in-lebanon/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-08T15:36:21Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260508__B2A849E__v1__HighRes__LebanonIsraelIranUsWar-1024x640.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {

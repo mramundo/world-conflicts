@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T14:27:58Z",
+  "updated": "2026-05-09T15:24:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-09T14:27:53Z",
+      "publishedAt": "2026-05-09T15:24:00Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -43,6 +43,21 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-05-09T12:58:19Z",
       "image": "https://img.lemde.fr/2026/05/09/146/0/5766/2883/644/322/60/0/c52f433_ftp-1-k6yrzdkd3jck-007d102722c541d9a6e376d208ffdbb3-0-bb72da3577f14e1ea6c6ca0d02d9ee23.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-072e1f8d17b0",
+      "title": "Moscow marks Victory Day with a scaled down Red Square parade under tight security",
+      "description": "Parade takes place without tanks, missiles and other heavy equipment as Putin vows to achieve victory in Ukraine; North Korean troops take part The post Moscow marks Victory Day with a scaled down Red Square parade under tight security appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/moscow-marks-victory-day-with-a-scaled-down-red-square-parade-under-tight-security/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-09T12:50:14Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26129374869783-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -93,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-c0095dd71bb6",
-      "title": "Russia and Ukraine agree to 3-day ceasefire, prisoner swap brokered by US",
-      "description": "Trump hopes truce can be the 'beginning of the end'; ahead of WWII Victory Day parade in Moscow, Zelensky says 'Red Square matters less to us than the lives of Ukrainian prisoners' The post Russia and Ukraine agree to 3-day ceasefire, prisoner swap brokered by US appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/russia-and-ukraine-agree-to-3-day-ceasefire-prisoner-swap-brokered-by-us/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-09T02:19:53Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP25225769069524-e1778291401756-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

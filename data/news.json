@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T19:28:29Z",
+  "updated": "2026-05-09T20:18:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-09T19:28:24Z",
+      "publishedAt": "2026-05-09T20:18:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,47 @@
       "tags": []
     },
     {
-      "id": "fra-fc246177c49c",
-      "title": "Russia and Ukraine trade accusations of truce violations",
-      "description": "Russia and Ukraine on Saturday accused the other of violating a a three-day US-brokered ceasefire, which coincides with Russia's World War II victory celebrations. No major strikes were reported by the warring sites.",
-      "url": "https://www.france24.com/en/europe/20260509-russia-and-ukraine-trade-accusations-of-truce-violations",
-      "source": "France24",
-      "publishedAt": "2026-05-09T19:07:58Z",
-      "image": "https://s.france24.com/media/display/4abb0d20-4bcf-11f1-af34-005056a90284/w:1024/p:16x9/AP26091370699991.jpg",
+      "id": "bbc-bfaa35621ad2",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "description": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-09T19:49:49Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014d/live/7398ef90-4bc1-11f1-8bbe-110a0d5a715a.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-18b2ba8d7a59",
+      "title": "Putin says he thinks Ukraine war 'coming to an end'",
+      "description": "The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict.",
+      "url": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-coming-to-an-end/a-77106772?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-09T19:16:00Z",
+      "image": "https://static.dw.com/image/77103662_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-1f83d711820a",
+      "title": "Ukrainians mark end of WWII amid fragile ceasefire with Russia",
+      "description": "As a temporary ceasefire between Ukraine and Russia comes into effect, residents across Ukraine reflect on the enduring toll of war and the uncertainty of peace. In Zaporizhzhia, mourners at a World War II memorial drew parallels between past and present suffering, while others in Kharkiv and Kyiv expressed cautious ho…",
+      "url": "https://www.france24.com/en/video/20260509-ukraine-marks-end-of-world-war-ii",
+      "source": "France24",
+      "publishedAt": "2026-05-09T16:19:56Z",
+      "image": "https://s.france24.com/media/display/77f40a2a-4bc1-11f1-9efb-005056bf30b7/w:1024/p:16x9/EN-20260509-170708-170912-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -156,37 +186,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-b5a9d2d5c816",
-      "title": "Greece examines mystery naval drone found in Ionian Sea",
-      "description": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
-      "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-08T17:53:25Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851d/live/d85a5440-4b63-11f1-bd52-e755d604ece4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-f22e6153cf76",
-      "title": "How real is a coup threat against Russia's president?",
-      "description": "Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt. Yet some observers remain skeptical.",
-      "url": "https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-08T15:57:00Z",
-      "image": "https://static.dw.com/image/69061691_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

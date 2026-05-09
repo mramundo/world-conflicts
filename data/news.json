@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T11:22:03Z",
+  "updated": "2026-05-09T12:26:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-09T11:22:00Z",
+      "publishedAt": "2026-05-09T12:26:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -173,6 +173,21 @@
       "tags": []
     },
     {
+      "id": "un -29eafc0f2e51",
+      "title": "Lebanon war leaves families foraging for food despite ceasefire",
+      "description": "The fragile ceasefire in Lebanon hasn’t prevented “ongoing killing and displacement”, with villages in the south of the country rendered completely unrecognizable after Israeli strikes, aid teams reported on Friday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167467",
+      "source": "UN News",
+      "publishedAt": "2026-05-08T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2026-UNICEF-Lebanon.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-a7fa7bc7404b",
       "title": "Trump Announces 3-Day Cease-Fire In Russia-Ukraine War; Zelenskyy Vows No Red Square Attacks",
       "description": "US President Donald Trump announced a three-day cease-fire in the war between Russia and Ukraine, with both sides quickly confirming they had agreed to the truce along with a major prisoner swap.",
@@ -215,22 +230,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -e542e7de4bb9",
-      "title": "More than 70 civilians killed in Ukraine in less than a week",
-      "description": "At least 70 civilians have been killed and more than 500 injured across Ukraine since the start of May, UN human rights monitors said on Wednesday, as waves of attacks hit cities across the country and humanitarian workers struggled to reach communities near the frontline.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167454",
-      "source": "UN News",
-      "publishedAt": "2026-05-06T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-04-2025_UNOCHA_Ukraine-07.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

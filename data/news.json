@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T17:23:07Z",
+  "updated": "2026-05-09T18:25:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-09T17:23:01Z",
+      "publishedAt": "2026-05-09T18:25:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -159,6 +159,21 @@
       "tags": []
     },
     {
+      "id": "bbc-b5a9d2d5c816",
+      "title": "Greece examines mystery naval drone found in Ionian Sea",
+      "description": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
+      "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-08T17:53:25Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851d/live/d85a5440-4b63-11f1-bd52-e755d604ece4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-f22e6153cf76",
       "title": "How real is a coup threat against Russia's president?",
       "description": "Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt. Yet some observers remain skeptical.",
@@ -203,21 +218,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-d19e383d05f6",
-      "title": "Thousands of North Koreans fought for Russia. A memorial hints at the death toll",
-      "description": "An estimated 11,000 North Korean soldiers were sent to fight in Russia's war against Ukraine.",
-      "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-07T22:20:56Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd6/live/a83c09a0-49f8-11f1-bd52-e755d604ece4.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T16:23:06Z",
+  "updated": "2026-05-09T17:23:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,14 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-09T16:22:53Z",
-      "image": null,
+      "publishedAt": "2026-05-09T17:23:01Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-1f83d711820a",
+      "title": "Ukrainians mark end of WWII amid fragile ceasefire with Russia",
+      "description": "As a temporary ceasefire between Ukraine and Russia comes into effect, residents across Ukraine reflect on the enduring toll of war and the uncertainty of peace. In Zaporizhzhia, mourners at a World War II memorial drew parallels between past and present suffering, while others in Kharkiv and Kyiv expressed cautious ho…",
+      "url": "https://www.france24.com/en/video/20260509-ukraine-marks-end-of-world-war-ii",
+      "source": "France24",
+      "publishedAt": "2026-05-09T16:19:56Z",
+      "image": "https://s.france24.com/media/display/77f40a2a-4bc1-11f1-9efb-005056bf30b7/w:1024/p:16x9/EN-20260509-170708-170912-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -47,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-e877b5a9783a",
-      "title": "Moscow marks Victory Day amid tight security",
-      "description": "Russian President Vladimir Putin on Saturday voiced confidence of victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II – a show that didn't include heavy weapons for the first time in nearly two decades. Security was tight in Moscow as Putin and sever…",
-      "url": "https://www.france24.com/en/moscow-marks-victory-day-amid-tight-security",
-      "source": "France24",
-      "publishedAt": "2026-05-09T14:20:34Z",
-      "image": "https://s.france24.com/media/display/e942e948-4bae-11f1-b264-005056a90284/w:1024/p:16x9/EN-20260509-150212-150413-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,6 +97,22 @@
       "tags": []
     },
     {
+      "id": "al -532d8f21942b",
+      "title": "Gaza at the Venice Biennale: Where language falls short, threads take over",
+      "description": "I co-commissioned the Gaza Genocide Tapestry which will be displayed at the Venice Biennale. Here&#039;s the story behind it.",
+      "url": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-09T10:19:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/A-selection-of-embroidered-panels-from-the-Gaza-Genocide-Tapestry-Courtesy-of-Palestne-Museum-US2-1778316362.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "kyi-60b4c9699da5",
       "title": "Why Russia Violated Every Ceasefire for 12 Years, Even Those They Proposed",
       "description": "Kyiv Post scrutinizes 17 ceasefires starting with the Kremlin’s initial invasion of Ukraine in February 2014. Since the first one on June 20, 2014, all have been violated by the Russians. Here, Kyiv Post covers why Russia does so and what Ukraine and its allies could do.",
@@ -124,21 +140,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -c92388343484",
-      "title": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
-      "description": "Families displaced by fighting fear new clashes with Thailand, say education among areas most affected by border war.",
-      "url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-09T01:23:18Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/DSC00578-1778138243.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

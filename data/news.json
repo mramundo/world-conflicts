@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T20:18:56Z",
+  "updated": "2026-05-09T21:19:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-09T20:18:52Z",
+      "publishedAt": "2026-05-09T21:19:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -7564133464cc",
+      "title": "Three police officers killed in car bomb attack in northwest Pakistan",
+      "description": "Bomber and several fighters detonate explosives-laden vehicle near security post in Bannu, Khyber Pakhtunkhwa.",
+      "url": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-09T20:29:37Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2013/07/201373121053486734_20.jpeg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -43,21 +58,6 @@
       "source": "Deutsche Welle",
       "publishedAt": "2026-05-09T19:16:00Z",
       "image": "https://static.dw.com/image/77103662_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-1f83d711820a",
-      "title": "Ukrainians mark end of WWII amid fragile ceasefire with Russia",
-      "description": "As a temporary ceasefire between Ukraine and Russia comes into effect, residents across Ukraine reflect on the enduring toll of war and the uncertainty of peace. In Zaporizhzhia, mourners at a World War II memorial drew parallels between past and present suffering, while others in Kharkiv and Kyiv expressed cautious ho…",
-      "url": "https://www.france24.com/en/video/20260509-ukraine-marks-end-of-world-war-ii",
-      "source": "France24",
-      "publishedAt": "2026-05-09T16:19:56Z",
-      "image": "https://s.france24.com/media/display/77f40a2a-4bc1-11f1-9efb-005056bf30b7/w:1024/p:16x9/EN-20260509-170708-170912-CS.jpg",
       "categories": [
         "conflict"
       ],
@@ -127,19 +127,19 @@
       "tags": []
     },
     {
-      "id": "al -532d8f21942b",
-      "title": "Gaza at the Venice Biennale: Where language falls short, threads take over",
-      "description": "I co-commissioned the Gaza Genocide Tapestry which will be displayed at the Venice Biennale. Here&#039;s the story behind it.",
-      "url": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-09T10:19:31Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/A-selection-of-embroidered-panels-from-the-Gaza-Genocide-Tapestry-Courtesy-of-Palestne-Museum-US2-1778316362.jpg?resize=1920%2C1440",
+      "id": "fra-d6f4946899f5",
+      "title": "Iran keeps US waiting for response on ceasefire plan",
+      "description": "Iran on Saturday questioned the seriousness of US diplomacy while keeping Washington waiting for a response to its latest negotiating position in the wake of renewed naval clashes in the Gulf. A parallel ceasefire on the war's Lebanon front is also under strain amid daily exchanges of fire between Israel and Iran-backe…",
+      "url": "https://www.france24.com/en/middle-east/20260509-iran-keeps-us-waiting-for-response-on-ceasefire-plan",
+      "source": "France24",
+      "publishedAt": "2026-05-09T10:09:15Z",
+      "image": "https://s.france24.com/media/display/d893396c-4ac4-11f1-80d8-005056a90284/w:1024/p:16x9/3a99f04c0e831574dc9a7047493ccbe23a273935.jpg",
       "categories": [
         "conflict",
-        "analysis"
+        "humanitarian"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
+      "relevanceScore": 11,
+      "isAnalysis": false,
       "tags": []
     },
     {

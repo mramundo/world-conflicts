@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T08:42:24Z",
+  "updated": "2026-05-10T09:35:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-10T08:42:21Z",
+      "publishedAt": "2026-05-10T09:35:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-7b0c980469f0",
+      "title": "At least 15 killed in car bomb attack on northwest Pakistan checkpoint",
+      "description": "Militants detonated a car bomb at a checkpoint in northwestern Pakistan and opened fire on police, killing at least 15 and wounding three, officials said on Sunday. Gunmen stormed the police checkpost after the car blast, opening fire, according to officials who said they also used small drones in the attack.",
+      "url": "https://www.france24.com/en/at-least-15-killed-in-car-bomb-attack-on-northwest-pakistan-checkpoint",
+      "source": "France24",
+      "publishedAt": "2026-05-10T08:59:40Z",
+      "image": "https://s.france24.com/media/display/1513a91a-4c4d-11f1-8baa-005056a90284/w:1024/p:16x9/EN-20260510-100952-101102-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -122,22 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-d6f4946899f5",
-      "title": "Iran keeps US waiting for response on ceasefire plan",
-      "description": "Iran on Saturday questioned the seriousness of US diplomacy while keeping Washington waiting for a response to its latest negotiating position in the wake of renewed naval clashes in the Gulf. A parallel ceasefire on the war's Lebanon front is also under strain amid daily exchanges of fire between Israel and Iran-backe…",
-      "url": "https://www.france24.com/en/middle-east/20260509-iran-keeps-us-waiting-for-response-on-ceasefire-plan",
-      "source": "France24",
-      "publishedAt": "2026-05-09T10:09:15Z",
-      "image": "https://s.france24.com/media/display/d893396c-4ac4-11f1-80d8-005056a90284/w:1024/p:16x9/3a99f04c0e831574dc9a7047493ccbe23a273935.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T05:17:48Z",
+  "updated": "2026-05-10T07:02:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-10T05:17:44Z",
+      "publishedAt": "2026-05-10T07:02:00Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -126,21 +126,6 @@
       "tags": []
     },
     {
-      "id": "the-cdca734e4bd6",
-      "title": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
-      "description": "Moscow blanketed in heavy security despite last-minute announcement of three-day ceasefire with UkraineVladimir Putin has declared Russia will always be victorious as he oversaw a scaled-back Victory Day parade on Red Square held under heavy security amid mounting fears of Ukrainian attacks and growing public fatigue w…",
-      "url": "https://www.theguardian.com/world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-09T13:46:43Z",
-      "image": "https://i.guim.co.uk/img/media/68e0a1d04d01282ae86a0a081f7bb7db35545277/246_0_6529_5224/master/6529.jpg?width=140&quality=85&auto=format&fit=max&s=dc2b860e735aa1efd4a26d9f8bf6cfdf",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-d6f4946899f5",
       "title": "Iran keeps US waiting for response on ceasefire plan",
       "description": "Iran on Saturday questioned the seriousness of US diplomacy while keeping Washington waiting for a response to its latest negotiating position in the wake of renewed naval clashes in the Gulf. A parallel ceasefire on the war's Lebanon front is also under strain amid daily exchanges of fire between Israel and Iran-backe…",
@@ -216,6 +201,21 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-6f89460582b0",
+      "title": "Trump ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta",
+      "description": "Stone being paid $50,000 a month to ‘rebuild’ relations between Washington and Myanmar’s military-backed governmentThe US lobbyist Roger Stone, a longtime friend and ally of Donald Trump, has been condemned for accepting $50,000 a month to “rebuild” relations between Washington and Myanmar’s military-backed government.…",
+      "url": "https://www.theguardian.com/us-news/2026/may/08/trump-ally-roger-stone-condemned-for-providing-lobbying-services-to-myanmars-military-junta",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-08T00:57:43Z",
+      "image": "https://i.guim.co.uk/img/media/d1d0f234401a49db7d96e0eb9f1ccc89367da1a2/74_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=1d31add508989c63d5c6d9ca9e054816",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {

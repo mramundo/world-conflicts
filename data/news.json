@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T15:24:58Z",
+  "updated": "2026-05-10T16:23:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-10T15:24:55Z",
+      "publishedAt": "2026-05-10T16:23:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-4f1c9443b577",
+      "title": "Netanyahu, 'la guerra all'Iran non è finita, c'è l'uranio da portare via'",
+      "description": "Premier Israele alla Cbs: 'Ci sono ancora siti di arricchimento da smantellare'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/10/netanyahu-la-guerra-alliran-non-e-finita-ce-luranio-da-portare-via_0349838a-c671-48e0-ba95-2a603ff5b7f8.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-10T15:55:30Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/16f20f6a21152358db1164b8f489132e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -02bee51547de",
+      "title": "Putin hints at ending Russia’s war in Ukraine, but why now?",
+      "description": "Amid a US-backed ceasefire, Putin signals peace talks could progress, but broader negotiations remain stalled.",
+      "url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-10T15:53:13Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0065ba5cf4-1778410938.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -51,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "al -64c26ff5d3ef",
-      "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-      "description": "Israeli strikes have killed at least 39 people in a single day of attacks across Lebanon during a so-called ‘ceasefire.’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-10T13:52:07Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778421116.jpg?resize=1916%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-0d8d6f1e0eed",
       "title": "Ukraine Reports 147 Combat Engagements as Russia Violates Holiday Ceasefire",
       "description": "Despite a high-profile humanitarian ceasefire brokered for May 9–11, the Ukrainian General Staff reported 147 combat engagements on the truce’s opening day. Russian forces reportedly launched over 7,000 kamikaze drones and conducted 2,000 shelling attacks, resulting in civilian deaths in the Kharkiv and Dnipropetrovsk …",
@@ -78,21 +93,6 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-28c8dfe8f252",
-      "title": "Berlino, 'Schroeder mediatore? Preso nota ma da Putin spesso false offerte'",
-      "description": "Fonti del governo tedesco: 'Primo banco di prova è se intende prolungare la tregua'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/10/berlino-schroeder-mediatore-preso-nota-ma-da-putin-spesso-false-offerte_eccb491e-d17e-4563-965d-540a099cd3a0.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-10T12:01:50Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2024/10/31/d7d69fe701a914cbb2819cdc5ae5bc15.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

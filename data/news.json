@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T12:26:22Z",
+  "updated": "2026-05-10T13:35:02Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-10T12:26:18Z",
+      "publishedAt": "2026-05-10T13:34:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,22 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-0d8d6f1e0eed",
+      "title": "Ukraine Reports 147 Combat Engagements as Russia Violates Holiday Ceasefire",
+      "description": "Despite a high-profile humanitarian ceasefire brokered for May 9–11, the Ukrainian General Staff reported 147 combat engagements on the truce’s opening day. Russian forces reportedly launched over 7,000 kamikaze drones and conducted 2,000 shelling attacks, resulting in civilian deaths in the Kharkiv and Dnipropetrovsk …",
+      "url": "https://www.kyivpost.com/post/75825",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-10T13:17:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/09/107cc935a81aaec93978480b3b2c694d.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -33,6 +49,22 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -916dcf147437",
+      "title": "The genocide is still taking Gaza’s mothers",
+      "description": "It now wants to take mine.",
+      "url": "https://www.aljazeera.com/features/2026/5/10/the-genocide-is-still-taking-gazas-mothers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-10T11:52:14Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-02-01T095516Z_1432422282_RC2WCJAV68TA_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1778413686.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -62,21 +94,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7e146774a034",
-      "title": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
-      "description": "Russian president also says he is willing to meet Zelenskyy in a third country if a long-term peace deal is reached.",
-      "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-10T04:17:38Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69ffe7f288d5-1778378738.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -138,22 +155,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-60b4c9699da5",
-      "title": "Why Russia Violated Every Ceasefire for 12 Years, Even Those They Proposed",
-      "description": "Kyiv Post scrutinizes 17 ceasefires starting with the Kremlin’s initial invasion of Ukraine in February 2014. Since the first one on June 20, 2014, all have been violated by the Russians. Here, Kyiv Post covers why Russia does so and what Ukraine and its allies could do.",
-      "url": "https://www.kyivpost.com/analysis/75728",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-09T10:04:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/06/20a856821e7e1605bec6e1094e7a73c5.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     },
     {

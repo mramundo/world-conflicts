@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T03:13:49Z",
+  "updated": "2026-05-10T05:17:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-10T03:13:45Z",
+      "publishedAt": "2026-05-10T05:17:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -7e146774a034",
+      "title": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
+      "description": "Russian president also says he is willing to meet Zelenskyy in a third country if a long-term peace deal is reached.",
+      "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-10T04:17:38Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69ffe7f288d5-1778378738.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,21 +47,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -01c336332c13",
-      "title": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
-      "description": "Israel continues to violate a &#039;ceasefire&#039; agreed to in October with hundreds more killed across the Strip.",
-      "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-09T21:10:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-09T065708Z_1023592229_RC2H5LAAMYUG_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1778358170.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

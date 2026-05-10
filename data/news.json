@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T13:35:02Z",
+  "updated": "2026-05-10T14:29:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-10T13:34:58Z",
+      "publishedAt": "2026-05-10T14:29:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-dae1b2d2cc0a",
+      "title": "Berlin sceptical as Putin proposes Germany's ex-chancellor Schroeder as Ukraine mediator",
+      "description": "Russian President Vladimir Putin on Saturday said he would \"personally\" prefer longtime ally and friend, former German chancellor Gerhard Schroeder, as mediator in the Ukraine war – an idea that has been met with scepticism in Berlin. Schroeder, 82, has remained close to the Kremlin leader long after leaving office, st…",
+      "url": "https://www.france24.com/en/europe/20260510-berlin-sceptical-as-putin-proposes-ex-german-chancellor-schroeder-as-ukraine-mediator",
+      "source": "France24",
+      "publishedAt": "2026-05-10T14:03:25Z",
+      "image": "https://s.france24.com/media/display/b9b917c4-4c76-11f1-a777-005056a90284/w:1024/p:16x9/gerard-schroeder.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -64c26ff5d3ef",
+      "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
+      "description": "Israeli strikes have killed at least 39 people in a single day of attacks across Lebanon during a so-called ‘ceasefire.’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-10T13:52:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778421116.jpg?resize=1916%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -52,37 +82,6 @@
       "tags": []
     },
     {
-      "id": "al -916dcf147437",
-      "title": "The genocide is still taking Gaza’s mothers",
-      "description": "It now wants to take mine.",
-      "url": "https://www.aljazeera.com/features/2026/5/10/the-genocide-is-still-taking-gazas-mothers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-10T11:52:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-02-01T095516Z_1432422282_RC2WCJAV68TA_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1778413686.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-7b0c980469f0",
-      "title": "At least 15 killed in car bomb attack on northwest Pakistan checkpoint",
-      "description": "Militants detonated a car bomb at a checkpoint in northwestern Pakistan and opened fire on police, killing at least 15 and wounding three, officials said on Sunday. Gunmen stormed the police checkpost after the car blast, opening fire, according to officials who said they also used small drones in the attack.",
-      "url": "https://www.france24.com/en/at-least-15-killed-in-car-bomb-attack-on-northwest-pakistan-checkpoint",
-      "source": "France24",
-      "publishedAt": "2026-05-10T08:59:40Z",
-      "image": "https://s.france24.com/media/display/1513a91a-4c4d-11f1-8baa-005056a90284/w:1024/p:16x9/EN-20260510-100952-101102-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-714ca599560c",
       "title": "IRGC navy threatens ‘heavy attack’ on US assets if its oil tankers come under fire",
       "description": "Iranian Army says ships from countries complying with US sanctions will face difficulties in Hormuz; bulk carrier hit by projectile near Doha, no injuries, says maritime agency The post IRGC navy threatens &#8216;heavy attack&#8217; on US assets if its oil tankers come under fire appeared first on The Times of Israel.",
@@ -94,6 +93,21 @@
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -02fea99ca211",
+      "title": "Dozens killed in attacks in central Mali",
+      "description": "One official said the latest attacks by armed factions like the Al-Qaeda-linked Group for the Support of Islam and Muslims had brought the death toll to over 70 in recent days.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/10/mali-dozens-killed-in-fresh-attacks-say-local-and-security-sources_6753294_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-09T22:33:41Z",
+      "image": "https://img.lemde.fr/2026/05/08/649/0/5760/2880/644/322/60/0/a8f24c7_ftp-1-wbrjnjb3pvwu-5980023-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -139,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -ad7c81a966a8",
-      "title": "Russia celebrates Victory Day with lackluster parade",
-      "description": "Fears of Ukrainian drone attacks kept the military parade on Red Square modest in scale. The three-day truce between Moscow and Kyiv was only finalized the previous evening.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/09/putin-celebrates-victory-day-with-lackluster-parade_6753286_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-09T12:58:17Z",
-      "image": "https://img.lemde.fr/2026/05/09/146/0/5766/2883/644/322/60/0/c52f433_ftp-1-k6yrzdkd3jck-007d102722c541d9a6e376d208ffdbb3-0-bb72da3577f14e1ea6c6ca0d02d9ee23.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

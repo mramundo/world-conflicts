@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T09:35:17Z",
+  "updated": "2026-05-10T10:30:52Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-10T09:35:13Z",
+      "publishedAt": "2026-05-10T10:30:48Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F3%2F8%2F0%2F12450832-1-eng-GB%2Fc7bad6ac5f23-2026-04-30T222507Z_641089733_RC2TDHAQ4H2M_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -32,6 +32,21 @@
         "conflict"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-714ca599560c",
+      "title": "IRGC navy threatens ‘heavy attack’ on US assets if its oil tankers come under fire",
+      "description": "Iranian Army says ships from countries complying with US sanctions will face difficulties in Hormuz; bulk carrier hit by projectile near Doha, no injuries, says maritime agency The post IRGC navy threatens &#8216;heavy attack&#8217; on US assets if its oil tankers come under fire appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/irgc-navy-threatens-heavy-attack-on-us-assets-if-its-oil-tankers-come-under-fire/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-10T08:10:24Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AFP__20260424__A8WE3VC__v1__HighRes__IranUsIsraelWar-e1777663603947-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -77,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-fb3a92be7261",
-      "title": "Russia said to be sending Iran drone parts via Caspian Sea, bypassing Hormuz blockade",
-      "description": "According to New York Times, shipments could help Tehran quickly restock its drone arsenal amid ceasefire, while evading both sanctions and tense routes through Persian Gulf The post Russia said to be sending Iran drone parts via Caspian Sea, bypassing Hormuz blockade appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/russia-said-to-be-sending-iran-drone-parts-via-caspian-sea-bypassing-hormuz-blockade/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-09T19:02:49Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260328__A6283KQ__v1__HighRes__IranUsIsraelWarLeisure-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

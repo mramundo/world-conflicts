@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T19:37:19Z",
+  "updated": "2026-05-11T20:39:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-reaps-huge-economic-boost-from-ukraine-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-11T19:37:15Z",
+      "publishedAt": "2026-05-11T20:39:32Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F9%2F7%2F8%2F12478794-2-eng-GB%2F569180cfeb00-photo_SXM2026050800013032.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -21,17 +21,32 @@
     },
     {
       "id": "the-1fd2c572da6b",
-      "title": "Middle East crisis live: Trump says ceasefire is ‘on massive life support’ after rejecting Iran’s response to US peace proposal",
+      "title": "Middle East crisis live: Trump rejects Iran’s response to US peace deal; UN urges ‘genuine ceasefire’ as Israel intensifies Lebanon strikes",
       "description": "US president said Iran’s response to the US peace proposal was ‘stupid’ and that the ceasefire is ‘unbelievable weak’Trump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire fraysTurkey’s foreign minister, Hakan Fidan, will visit Qatar later today for talks on the war, its impact on the region and …",
       "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-05-11T19:14:59Z",
+      "publishedAt": "2026-05-11T19:54:45Z",
       "image": "https://i.guim.co.uk/img/media/2fe0197c2c61d02ea15eaa767362a0eac184abce/684_148_3795_3035/master/3795.jpg?width=140&quality=85&auto=format&fit=max&s=4567164401eadb81411735d0e0718d23",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -65ba17f44b37",
+      "title": "Israeli soldiers will spend time in prison for desecrating Virgin Mary statue in Lebanon",
+      "description": "A photo that an Israeli soldier had taken of another soldier sticking a cigarette in the mouth of the statue went viral and sparked widespread outrage. The soldier who posed with the statue will get 21 days in military prison, while the soldier who photographed it will get 14.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/11/israeli-soldiers-will-spend-time-in-prison-for-desecrating-virgin-mary-statue-in-lebanon_6753352_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-11T19:35:12Z",
+      "image": "https://img.lemde.fr/2026/04/21/451/0/1066/533/644/322/60/0/dbf9fa6_ftp-1-jkwmmxbpnjxd-2026-04-21t163020z-532723439-rc2vskahjqix-rtrmadp-3-iran-crisis-israel-lebanon-statue.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -aed7dc27efd6",
-      "title": "EU sanctions officials over Russia's deportation of Ukrainian children",
-      "description": "Monday's sanctions include asset freezes and travel bans on Russia.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/11/eu-sanctions-officials-over-russia-s-deportation-of-ukrainian-children_6753348_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-11T17:35:13Z",
-      "image": "https://img.lemde.fr/2026/05/11/497/0/5966/2983/644/322/60/0/63245d9_ftp-1-kwtrweftpve3-5001679-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

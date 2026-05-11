@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-11T11:09:29Z",
+  "updated": "2026-05-11T13:08:49Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-reaps-huge-economic-boost-from-ukraine-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-11T11:09:25Z",
+      "publishedAt": "2026-05-11T13:08:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F9%2F7%2F8%2F12478794-2-eng-GB%2F569180cfeb00-photo_SXM2026050800013032.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,32 @@
       "tags": []
     },
     {
-      "id": "the-1fd2c572da6b",
-      "title": "Middle East crisis live: Trump rejects Iran response to US peace proposal as Tehran warns of new attacks",
-      "description": "US president calls Iranian response ‘totally unacceptable’ while Tehran says it will retaliate against any new US strikes or foreign warships in strait of HormuzTrump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire fraysTurkey’s foreign minister, Hakan Fidan, will visit Qatar later today for tal…",
-      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
+      "id": "the-fdebc5151e7a",
+      "title": "EU’s Kallas criticises Putin’s ‘very cynical’ Ukraine ceasefire calls and rejects suggestion of Schröder as mediator – Europe live",
+      "description": "EU’s foreign policy chief and the ex-Estonian PM dismiss Putin’s suggestion that former German chancellor could coordinate talksRussian affairs reporterThe EU on Monday dismissed Vladimir Putin’s suggestion that the Kremlin-friendly former German chancellor Gerhard Schröder could serve as a European mediator in peace t…",
+      "url": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-05-11T10:55:42Z",
-      "image": "https://i.guim.co.uk/img/media/4f7b0f164bb4f16fbdf4b3321f2de6c04b415315/259_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=728e5e7d1f52f63224973e0a631b4f17",
+      "publishedAt": "2026-05-11T12:52:16Z",
+      "image": "https://i.guim.co.uk/img/media/aaa6f05df32437b4fedd67467c31c11bfaefe3c1/494_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=44a8cc7f836b5fd60dd722ae0ebd78f9",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-8d507939fce7",
+      "title": "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
+      "description": "Trump rejected Iran's response to a U.S. peace proposal, calling it \"totally unacceptable.\" And, Congressional Republicans are trying to push for three years of funding for immigration enforcement.",
+      "url": "https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus",
+      "source": "NPR World",
+      "publishedAt": "2026-05-11T11:31:31Z",
+      "image": "undefined",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,21 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-fedcae095808",
-      "title": "Trump heads to China amid ongoing war with Iran",
-      "description": "President Trump's trip to China is going forward despite the war with Iran casting a shadow over the state visit.",
-      "url": "https://www.npr.org/2026/05/11/nx-s1-5816150/trump-heads-to-china-amid-ongoing-war-with-iran",
-      "source": "NPR World",
-      "publishedAt": "2026-05-11T10:41:29Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5816150",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -215,21 +214,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -29eafc0f2e51",
-      "title": "Lebanon war leaves families foraging for food despite ceasefire",
-      "description": "The fragile ceasefire in Lebanon hasn’t prevented “ongoing killing and displacement”, with villages in the south of the country rendered completely unrecognizable after Israeli strikes, aid teams reported on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167467",
-      "source": "UN News",
-      "publishedAt": "2026-05-08T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2026-UNICEF-Lebanon.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

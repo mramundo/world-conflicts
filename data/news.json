@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T17:45:19Z",
+  "updated": "2026-05-11T18:44:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-reaps-huge-economic-boost-from-ukraine-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-11T17:45:15Z",
+      "publishedAt": "2026-05-11T18:44:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F9%2F7%2F8%2F12478794-2-eng-GB%2F569180cfeb00-photo_SXM2026050800013032.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -25,7 +25,7 @@
       "description": "US president said Iran’s response to the US peace proposal was ‘stupid’ and that the ceasefire is ‘unbelievable weak’Trump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire fraysTurkey’s foreign minister, Hakan Fidan, will visit Qatar later today for talks on the war, its impact on the region and …",
       "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-05-11T17:24:16Z",
+      "publishedAt": "2026-05-11T18:20:47Z",
       "image": "https://i.guim.co.uk/img/media/2fe0197c2c61d02ea15eaa767362a0eac184abce/684_148_3795_3035/master/3795.jpg?width=140&quality=85&auto=format&fit=max&s=4567164401eadb81411735d0e0718d23",
       "categories": [
         "conflict",
@@ -36,9 +36,39 @@
       "tags": []
     },
     {
+      "id": "bbc-e4c431fe0a97",
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "description": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-11T18:17:34Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -aed7dc27efd6",
+      "title": "EU sanctions officials over Russia's deportation of Ukrainian children",
+      "description": "Monday's sanctions include asset freezes and travel bans on Russia.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/11/eu-sanctions-officials-over-russia-s-deportation-of-ukrainian-children_6753348_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-11T17:35:13Z",
+      "image": "https://img.lemde.fr/2026/05/11/497/0/5966/2983/644/322/60/0/63245d9_ftp-1-kwtrweftpve3-5001679-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -b6a38b72f001",
       "title": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
-      "description": "Efforts between Washington and Tehran to reach an agreement continue to fall short, fueling concerns of return to war.",
+      "description": "Efforts between Washington and Tehran to reach an agreement continue to fall short, fuelling concerns of return to war.",
       "url": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-05-11T17:22:09Z",
@@ -81,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "le -9065eca6e299",
-      "title": "EU to impose sanctions on Israeli settlers",
-      "description": "European Union officials said seven settlers or settler organizations would be blacklisted. No consensus has been found among member states to take further steps against Israel.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/11/eu-to-impose-sanctions-on-israeli-settlers_6753340_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-11T13:51:47Z",
-      "image": "https://img.lemde.fr/2026/05/10/905/0/6601/3300/644/322/60/0/891514b_ftp-1-xdcfkndonjti-5996287-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -ec23526525d2",
       "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
       "description": "Drones caused more than 80 per cent of civilian deaths in Sudan’s war during the first four months of 2026, killing at least 880 people, the UN human rights chief said on Monday, warning that escalating drone warfare could push the conflict into an even deadlier phase.&nbsp;",
@@ -133,21 +148,6 @@
       "source": "NPR World",
       "publishedAt": "2026-05-11T11:31:31Z",
       "image": "undefined",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-495c1e6f8caf",
-      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
-      "description": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
-      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-11T10:00:31Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7448/live/f477e270-4d3c-11f1-b55d-0f258dce1735.jpg",
       "categories": [
         "conflict"
       ],

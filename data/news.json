@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T07:23:06Z",
+  "updated": "2026-05-11T09:17:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-reaps-huge-economic-boost-from-ukraine-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-11T07:23:02Z",
+      "publishedAt": "2026-05-11T09:17:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F9%2F7%2F8%2F12478794-2-eng-GB%2F569180cfeb00-photo_SXM2026050800013032.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,32 +20,48 @@
       "tags": []
     },
     {
-      "id": "le -4c04ea506041",
-      "title": "Who is Iyad Ag Ghali, the jihadist behind the destabilization of Mali?",
-      "description": "A central figure in Sahelian jihad for nearly two decades, pursued in turn by the French and the Russians, Ghali led the offensive against the junta in Bamako. Since 2012, the jihadist and leader of Jama'at Nusrat al-Islam wal-Muslimin (JNIM) has softened his rhetoric, seeking to appear more approachable and less radic…",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/05/11/who-is-iyad-ag-ghali-the-jihadist-behind-the-destabilization-of-mali_6753321_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-11T03:00:12Z",
-      "image": "https://img.lemde.fr/2026/05/10/38/0/1772/886/644/322/60/0/dfde4a7_upload-1-gb8n3nki479a-dfde4a7-upload-1-uqbgeochpkfc-lemonde-agghali-b-300dpi-main.jpg",
+      "id": "al -e91523744b77",
+      "title": "The Global Sumud Flotilla is sailing on, here is why",
+      "description": "The Israeli attack on part of our flotilla has convinced us we must continue with our mission.",
+      "url": "https://www.aljazeera.com/opinions/2026/5/11/the-global-sumud-flotilla-is-sailing-on-here-is-why?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-11T08:40:03Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69f9df2f-1777983279.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-94dab2def3fa",
+      "title": "IDF reservist killed in Hezbollah explosive drone attack in northern Israel",
+      "description": "Alexander Glovanyov, 47, survived by wife, baby daughter, teen son; terror group carries out several drone attacks targeting troops; IDF probing strike that killed man, 12-year-old daughter The post IDF reservist killed in Hezbollah explosive drone attack in northern Israel appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-reservist-killed-in-hezbollah-explosive-drone-attack-in-northern-israel/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-11T07:19:06Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/אלכסנדר-גלובניוב-זל-e1778469785771-1024x640.jpeg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "tim-ef21cbc2e441",
-      "title": "EU’s top diplomat ‘hopeful’ that bloc will sanction violent West Bank settlers today",
-      "description": "IDF reservist killed in Hezbollah drone attack * Woman shot dead in Ramle, 4 others injured, suspect arrested * Iran said to execute man for spying for CIA and Mossad after allegedly forced confession The post EU’s top diplomat ‘hopeful’ that bloc will sanction violent West Bank settlers today appeared first on The Tim…",
-      "url": "https://www.timesofisrael.com/netanyahu-says-iran-regimes-fall-not-guaranteed-acknowledges-hormuz-standoff-wasnt-foreseen/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-11T01:04:35Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260316__A3EX2AY__v1__HighRes__BelgiumEuPoliticsDiplomacy-1024x640.jpg",
+      "id": "le -a65ca2c53e74",
+      "title": "In Madagascar, Russia seeks a new African stronghold",
+      "description": "After bursting onto the scene alongside the junta, which seized power in October 2025, by providing it with weapons and military instructors from Africa Corps, Moscow has been advancing its pawns on many fronts.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/05/11/in-madagascar-russia-seeks-a-new-african-stronghold_6753320_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-11T02:00:14Z",
+      "image": "https://img.lemde.fr/2026/05/04/523/0/6271/3135/644/322/60/0/1baede9_upload-1-0t3srfrxd8gc-2026-02-19t093837z-1202038768-rc2xojaw626j-rtrmadp-3-russia-madagascar.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -88facf27d0ef",
-      "title": "Medics among 51 killed in Israeli attacks on Lebanon",
-      "description": "Israeli attacks are intensifying in southern Lebanon, with 552 killed since the &#039;ceasefire&#039; started on April 16.",
-      "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-10T19:01:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a00c81389ae-1778436115.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

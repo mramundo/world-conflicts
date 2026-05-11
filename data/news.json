@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-11T15:09:05Z",
+  "updated": "2026-05-11T16:58:49Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-reaps-huge-economic-boost-from-ukraine-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-11T15:09:02Z",
+      "publishedAt": "2026-05-11T16:58:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F9%2F7%2F8%2F12478794-2-eng-GB%2F569180cfeb00-photo_SXM2026050800013032.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-1fd2c572da6b",
+      "title": "Middle East crisis live: Trump says ceasefire is ‘on massive life support’ after rejecting Iran’s response to US peace proposal",
+      "description": "US president said Iran’s response to the US peace proposal was ‘stupid’ and that the ceasefire is ‘unbelievable weak’Trump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire fraysTurkey’s foreign minister, Hakan Fidan, will visit Qatar later today for talks on the war, its impact on the region and …",
+      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-11T16:14:12Z",
+      "image": "https://i.guim.co.uk/img/media/2fe0197c2c61d02ea15eaa767362a0eac184abce/684_148_3795_3035/master/3795.jpg?width=140&quality=85&auto=format&fit=max&s=4567164401eadb81411735d0e0718d23",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-b97ca07295eb",
+      "title": "Trump, il cessate il fuoco è molto debole, 1% di chance di tenere",
+      "description": "'E'attaccato ai macchinari per sopravvivere'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/11/trump-il-cessate-il-fuoco-e-molto-debole-1-di-chance-di-tenere_5e4fa467-78f2-4eff-827f-1401bc8f837c.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-11T15:54:02Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/9/d2c35c738e43c68d542fb3dbc28fd09e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,22 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-1fd2c572da6b",
-      "title": "Middle East crisis live: Trump rejects Iran response to US peace proposal as Tehran warns of new attacks",
-      "description": "US president calls Iranian response ‘totally unacceptable’ while Tehran says it will retaliate against any new US strikes or foreign warships in strait of HormuzTrump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire fraysTurkey’s foreign minister, Hakan Fidan, will visit Qatar later today for tal…",
-      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-11T14:32:19Z",
-      "image": "https://i.guim.co.uk/img/media/4f7b0f164bb4f16fbdf4b3321f2de6c04b415315/259_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=728e5e7d1f52f63224973e0a631b4f17",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -82,6 +97,21 @@
       "tags": []
     },
     {
+      "id": "un -ec23526525d2",
+      "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
+      "description": "Drones caused more than 80 per cent of civilian deaths in Sudan’s war during the first four months of 2026, killing at least 880 people, the UN human rights chief said on Monday, warning that escalating drone warfare could push the conflict into an even deadlier phase.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167479",
+      "source": "UN News",
+      "publishedAt": "2026-05-11T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-UNOCHA-Sudan-Darfur-04.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "tim-e158cd4abe7f",
       "title": "Taking advantage of Ukraine ceasefire, Jewish couples wed in joint ceremony in Kyiv",
       "description": "A 92-year-old couple was among those married during the May 9-11 truce put in place in honor of Victory Day The post Taking advantage of Ukraine ceasefire, Jewish couples wed in joint ceremony in Kyiv appeared first on The Times of Israel.",
@@ -112,6 +142,21 @@
       "tags": []
     },
     {
+      "id": "deu-577232d8903c",
+      "title": "Syria: Court charges Bashar Assad's cousin Atef Najib with war crimes amid 2011 uprising",
+      "description": "Syria's judiciary has charged Atef Najib with acts \"amounting to war crimes\" as Bashar Assad's cousin is accused of orchestrating a crackdown on 2011 protests that subsequently degenerated into a decade of civil war.",
+      "url": "https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-10T17:04:00Z",
+      "image": "https://static.dw.com/image/77111532_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -38efc259fc21",
       "title": "Ukraine-Russia ceasefire strained as both sides report weekend attacks",
       "description": "A U.S.-mediated ceasefire between Russia and Ukraine appeared under serious strain on Sunday, with both sides trading blame for weekend attacks.",
@@ -119,21 +164,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-05-10T16:16:38Z",
       "image": "https://images.csmonitor.com/csm/2026/05/1212528_1_PICTURE_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-4f1c9443b577",
-      "title": "Netanyahu, 'la guerra all'Iran non è finita, c'è l'uranio da portare via'",
-      "description": "Premier Israele alla Cbs: 'Ci sono ancora siti di arricchimento da smantellare'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/10/netanyahu-la-guerra-alliran-non-e-finita-ce-luranio-da-portare-via_0349838a-c671-48e0-ba95-2a603ff5b7f8.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-10T15:55:30Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/16f20f6a21152358db1164b8f489132e.jpg",
       "categories": [
         "conflict"
       ],
@@ -154,21 +184,6 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-89ff0fff23ca",
-      "title": "Putin says he thinks Ukraine war is 'coming to an end'",
-      "description": "The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict.",
-      "url": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-09T19:16:00Z",
-      "image": "https://static.dw.com/image/77103662_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

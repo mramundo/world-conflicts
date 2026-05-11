@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T09:17:56Z",
+  "updated": "2026-05-11T11:09:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-reaps-huge-economic-boost-from-ukraine-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-11T09:17:51Z",
+      "publishedAt": "2026-05-11T11:09:25Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F9%2F7%2F8%2F12478794-2-eng-GB%2F569180cfeb00-photo_SXM2026050800013032.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-1fd2c572da6b",
+      "title": "Middle East crisis live: Trump rejects Iran response to US peace proposal as Tehran warns of new attacks",
+      "description": "US president calls Iranian response ‘totally unacceptable’ while Tehran says it will retaliate against any new US strikes or foreign warships in strait of HormuzTrump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire fraysTurkey’s foreign minister, Hakan Fidan, will visit Qatar later today for tal…",
+      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-11T10:55:42Z",
+      "image": "https://i.guim.co.uk/img/media/4f7b0f164bb4f16fbdf4b3321f2de6c04b415315/259_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=728e5e7d1f52f63224973e0a631b4f17",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-1f576fdbeebe",
+      "title": "Russia, China and Iran: What do Beijing and Moscow want to gain from conflict?",
+      "description": "Iran and the United States reached an impasse again Monday over how to end their war while their ceasefire grew increasingly shaky. As the situation in the Middle East keeps the world on edge, many regional observers say Iran’s resilience is thanks in part to the lifeline extended by two key allies: Russia and China. B…",
+      "url": "https://www.france24.com/en/video/20260511-russia-china-and-iran-what-do-beijing-and-moscow-want-to-gain-from-conflict",
+      "source": "France24",
+      "publishedAt": "2026-05-11T10:47:03Z",
+      "image": "https://s.france24.com/media/display/20f7cedc-4d24-11f1-8181-005056bfb2b6/w:1024/p:16x9/EN-20260511-103502-104221-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-fedcae095808",
+      "title": "Trump heads to China amid ongoing war with Iran",
+      "description": "President Trump's trip to China is going forward despite the war with Iran casting a shadow over the state visit.",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5816150/trump-heads-to-china-amid-ongoing-war-with-iran",
+      "source": "NPR World",
+      "publishedAt": "2026-05-11T10:41:29Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5816150",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -38,15 +84,15 @@
     {
       "id": "tim-94dab2def3fa",
       "title": "IDF reservist killed in Hezbollah explosive drone attack in northern Israel",
-      "description": "Alexander Glovanyov, 47, survived by wife, baby daughter, teen son; terror group carries out several drone attacks targeting troops; IDF probing strike that killed man, 12-year-old daughter The post IDF reservist killed in Hezbollah explosive drone attack in northern Israel appeared first on The Times of Israel.",
+      "description": "Alexander Glovanyov, 47, survived by wife, baby daughter, teen son; 3 troops lightly injured in drone attack in south Lebanon; IDF probing strike that killed man, 12-year-old daughter The post IDF reservist killed in Hezbollah explosive drone attack in northern Israel appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/idf-reservist-killed-in-hezbollah-explosive-drone-attack-in-northern-israel/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-11T07:19:06Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/אלכסנדר-גלובניוב-זל-e1778469785771-1024x640.jpeg",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/2500-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,36 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-31cbfbacc241",
-      "title": "Trump rejects Iran's latest response to U.S. ceasefire proposal",
-      "description": "Iran delivered its response to Pakistani mediators on Sunday, according to the state-run Islamic Republic News Agency.",
-      "url": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
-      "source": "NPR World",
-      "publishedAt": "2026-05-10T22:18:22Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4169x2779+0+0/resize/4169x2779!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F56%2F2290cb79424b8cdfe48e02e834cc%2Fgettyimages-2274660236.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-e7f75ce91a26",
-      "title": "Trump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire frays",
-      "description": "US president expresses ire at Tehran’s reported demands, as drones strike Gulf nations and Israel warns war ‘not over’Donald Trump has rejected an Iranian response to a US peace proposal as “totally unacceptable”, on a day the month-old ceasefire showed signs of fraying as drone strikes were reported around the region …",
-      "url": "https://www.theguardian.com/world/2026/may/10/iran-us-peace-proposal-pakistan-reported-drone-strikes-strain-ceasefire",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-10T22:03:20Z",
-      "image": "https://i.guim.co.uk/img/media/02272e3a020cc2ae6c9aa7f1464bebdcc2065f91/323_6_3853_3083/master/3853.jpg?width=140&quality=85&auto=format&fit=max&s=2399aa3b50a6500befa1d27a1e7a283f",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -122,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-9f2d15fa0735",
-      "title": "Russia, Ukraine trade blame over ceasefire violations",
-      "description": "Russian attacks wounded at least nine people in Ukraine on Sunday, the second day of what was supposed to have been a three-day truce with Russia, Ukrainian officials said. US President Donald Trump announced the ceasefire on Friday, saying the two sides had agreed to stop all \"kinetic\" warfare for a three-day period s…",
-      "url": "https://www.france24.com/en/russia-ukraine-trade-blame-over-ceasefire-violations",
-      "source": "France24",
-      "publishedAt": "2026-05-10T15:00:21Z",
-      "image": "https://s.france24.com/media/display/78b13446-4c80-11f1-a422-005056bfb2b6/w:1024/p:16x9/EN-20260510-160809-160957-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

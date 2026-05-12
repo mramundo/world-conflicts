@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T13:41:49Z",
+  "updated": "2026-05-12T15:02:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/crime/icc-confirms-arrest-warrant-issued-for-duterte-ally-over-drug-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-12T13:41:45Z",
+      "publishedAt": "2026-05-12T15:02:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F9%2F1%2F12481927-1-eng-GB%2F51bd3df899ac-2026-05-11T142613Z_763798605_RC2X6LAIIO3A_RTRMADP_3_WARCRIMES-PHILIPPINES-DELAROSA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-72452ca130a0",
+      "title": "Trump-Xi summit: High stakes for the US, China and the world",
+      "description": "US President Donald Trump is hoping for a foreign policy win at the upcoming summit with China's Xi Jinping. The Iran war, trade deals, and Taiwan are expected to be high on the agenda during Trump's visit to Beijing.",
+      "url": "https://www.dw.com/en/trump-xi-summit-high-stakes-for-the-us-china-and-the-world/a-77134255?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-12T14:02:00Z",
+      "image": "https://static.dw.com/image/74550050_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-aa5683e580ad",
+      "title": "Independent Israeli report accuses Hamas of 'systematic' sexual violence during October 7 attacks",
+      "description": "A new independent commission finds Hamas and its allies committed \"systematic, widespread\" sexual violence during their October 7, 2023 attack on Israel and against hostages they took back to Gaza. This comes as the Knesset passed a law establishing a special military tribunal to try Palestinian militants accused of ta…",
+      "url": "https://www.france24.com/en/independent-israeli-report-accuses-hamas-of-systematic-sexual-violence-during-october-7-attacks",
+      "source": "France24",
+      "publishedAt": "2026-05-12T13:05:06Z",
+      "image": "https://s.france24.com/media/display/b22cdd32-4e02-11f1-8843-005056a90284/w:1024/p:16x9/capture-13554009766a0324aaa08d54-22954110.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -39,7 +69,7 @@
     {
       "id": "tim-b3b01798eb54",
       "title": "IDF says it carried out weeklong raid on Hezbollah sites beyond Lebanon’s Litani River",
-      "description": "Terror group's leader says weapons not a subject of Israel-Lebanon talks; IDF censures commander for letting civilians into Bint Jbeil to say Kaddish for fallen loved ones The post IDF says it carried out weeklong raid on Hezbollah sites beyond Lebanon’s Litani River appeared first on The Times of Israel.",
+      "description": "Terror group's leader says weapons not a subject of Israel-Lebanon talks; IDF censures commander for letting soldiers into Bint Jbeil to say Kaddish for fallen loved ones The post IDF says it carried out weeklong raid on Hezbollah sites beyond Lebanon’s Litani River appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/idf-says-it-carried-out-weeklong-raid-on-hezbollah-sites-beyond-lebanons-litani-river/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-12T12:37:37Z",
@@ -47,22 +77,23 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-b04c6aaed18d",
-      "title": "Iranians concerned about war extending as Iran and US fail to find common ground",
-      "description": "As Donald Trump rejects Iran's counterproposals, Tehran has reacted saying that the Iranian government doesn't care if the United States aren't happy with the proposals. The United States had agreed to lifting such sanctions and freeing funds, but it first wants Iran to halt uranium enrichment and hand over its stocks.…",
-      "url": "https://www.france24.com/en/iranians-concerned-about-war-extending-as-iran-and-us-fail-to-find-common-ground",
-      "source": "France24",
-      "publishedAt": "2026-05-12T10:08:20Z",
-      "image": "https://s.france24.com/media/display/65d85e50-4d32-11f1-ae48-005056bf30b7/w:1024/p:16x9/2026-05-11T075357Z-1979389467-RC2U6LAA0BQR-RTRMADP-3-IRAN-CRISIS-DAILY-LIFE.jpg",
+      "id": "al -bc13ea892a55",
+      "title": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
+      "description": "Pakistan rejects allegations of aiding Iran militarily while Trump says truce on &#039;life support&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-12T12:17:08Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69d99ec0d714-1775869632.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,21 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e24010ea6cf4",
-      "title": "Zelenskyy says Russia fired over 200 drones at Ukraine as truce expires",
-      "description": "One killed and four others wounded in attacks on Ukraine&#039;s Dnipropetrovsk region, local administration chief says.",
-      "url": "https://www.aljazeera.com/news/2026/5/12/zelenskyy-says-russia-fired-over-200-drones-at-ukraine-as-truce-expires?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-12T08:34:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a02d20200a7-1778569730.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -154,21 +170,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-6da9d0524b8c",
-      "title": "Ukrainian children held in Russia: militarized, 'reeducated'",
-      "description": "A Ukrainian initiative to repatriate abducted Ukrainian children reports that at least 20,000 girls and boys are being held by Russian families and authorities. Can these children ever find their way home?",
-      "url": "https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-11T22:07:00Z",
-      "image": "https://static.dw.com/image/65265042_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

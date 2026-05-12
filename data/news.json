@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T11:41:37Z",
+  "updated": "2026-05-12T12:49:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/crime/icc-confirms-arrest-warrant-issued-for-duterte-ally-over-drug-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-12T11:41:34Z",
+      "publishedAt": "2026-05-12T12:49:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F9%2F1%2F12481927-1-eng-GB%2F51bd3df899ac-2026-05-11T142613Z_763798605_RC2X6LAIIO3A_RTRMADP_3_WARCRIMES-PHILIPPINES-DELAROSA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-b3b01798eb54",
+      "title": "IDF says it carried out weeklong raid on Hezbollah sites beyond Lebanon’s Litani River",
+      "description": "Terror group's leader says weapons not a subject of Israel-Lebanon talks; IDF censures commander for letting civilians into Bint Jbeil to say Kaddish for fallen loved ones The post IDF says it carried out weeklong raid on Hezbollah sites beyond Lebanon’s Litani River appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-says-it-carried-out-weeklong-raid-on-hezbollah-sites-beyond-lebanons-litani-river/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-12T12:37:37Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/fc424a52-6d3f-4e46-9b00-016b62ba436b-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,21 +126,6 @@
       "tags": []
     },
     {
-      "id": "tim-ffaa0933b1cb",
-      "title": "Iran says forces ready to respond to attacks as Trump reportedly mulls renewing war",
-      "description": "Ghalibaf says only option is to accept 'rights of the Iranian people' laid out in ceasefire proposal; Pakistan reportedly hosting Iran's military aircraft despite mediator role The post Iran says forces ready to respond to attacks as Trump reportedly mulls renewing war appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/iran-says-forces-ready-to-respond-to-attacks-as-trump-reportedly-mulls-renewing-war/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-12T03:01:29Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26126592665556-1-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-1fd2c572da6b",
       "title": "Mass starvation looms if fertilisers can’t pass key waterway, UN warns – as it happened",
       "description": "This blog is now closed. See full report: Trump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire fraysTurkey’s foreign minister, Hakan Fidan, will visit Qatar later today for talks on the war, its impact on the region and efforts to ensure navigational safety in the strait of Hormuz is resumed, a…",
@@ -138,6 +138,21 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-6da9d0524b8c",
+      "title": "Ukrainian children held in Russia: militarized, 'reeducated'",
+      "description": "A Ukrainian initiative to repatriate abducted Ukrainian children reports that at least 20,000 girls and boys are being held by Russian families and authorities. Can these children ever find their way home?",
+      "url": "https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-11T22:07:00Z",
+      "image": "https://static.dw.com/image/65265042_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -164,21 +179,6 @@
       "source": "UN News",
       "publishedAt": "2026-05-11T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-UNOCHA-Sudan-Darfur-04.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-577232d8903c",
-      "title": "Syria: Court charges Bashar Assad's cousin Atef Najib with war crimes amid 2011 uprising",
-      "description": "Syria's judiciary has charged Atef Najib with acts \"amounting to war crimes\" as Bashar Assad's cousin is accused of orchestrating a crackdown on 2011 protests that subsequently degenerated into a decade of civil war.",
-      "url": "https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-10T17:04:00Z",
-      "image": "https://static.dw.com/image/77111532_6.jpg",
       "categories": [
         "conflict"
       ],

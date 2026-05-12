@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T20:37:39Z",
+  "updated": "2026-05-12T21:32:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/crime/icc-confirms-arrest-warrant-issued-for-duterte-ally-over-drug-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-12T20:37:35Z",
+      "publishedAt": "2026-05-12T21:32:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F9%2F1%2F12481927-1-eng-GB%2F51bd3df899ac-2026-05-11T142613Z_763798605_RC2X6LAIIO3A_RTRMADP_3_WARCRIMES-PHILIPPINES-DELAROSA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,22 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-49a12f9c4985",
+      "title": "How Americans see China now",
+      "description": "As President Trump heads to China this week, a new NPR-Chicago Council-Ipsos poll finds most Americans think U.S. tariffs have hurt both economies, and that the Iran war is bad for America.",
+      "url": "https://www.npr.org/2026/05/12/nx-s1-5761387/how-americans-see-china-now",
+      "source": "NPR World",
+      "publishedAt": "2026-05-12T21:18:16Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5761387",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -33,6 +49,22 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -be78f215cd32",
+      "title": "Why is Iran increasingly targeting the UAE in its war messaging?",
+      "description": "The UAE&#039;s close ties to the US and Israel have placed the Gulf country under Iranian suspicion.",
+      "url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-12T19:37:09Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260316__A3F89Z8__v4__HighRes__TopshotUaeIranUsIsraelWar-1773654471-1777774799.jpg?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -112,22 +144,6 @@
       "tags": []
     },
     {
-      "id": "al -147ca303de3e",
-      "title": "How one Palestinian teen’s life changed forever after Israeli gunfire",
-      "description": "Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-12T15:02:22Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778598135.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "rfe-acce26f9be3b",
       "title": "Using No Soldiers, Just Robots - How Ukraine Captured A Russian Position",
       "description": "Robots and drones were used by Ukrainian forces to capture a Russian position without an infantry assault in what Ukrainian President Volodymyr Zelenskyy described as a historic first in the war. Speaking to Current Time, troops involved in the operation are now revealing details.",
@@ -170,21 +186,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-d1ac4a24c185",
-      "title": "EU diplomats agree to sanction Hamas leaders and Israeli settlers",
-      "description": "The unanimous decision by the European Union, agreed to on Monday, was sparked by growing outrage over the devastation in Gaza during the Israel-Hamas war.",
-      "url": "https://www.npr.org/2026/05/12/g-s1-121581/eu-sanction-hamas-leaders-israeli-settlers",
-      "source": "NPR World",
-      "publishedAt": "2026-05-12T05:47:02Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9504x6336+0+0/resize/9504x6336!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F51%2Fecd9fb0c45e09e96d2a2ea04d08b%2Fap26131297581967.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

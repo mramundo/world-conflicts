@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T16:49:30Z",
+  "updated": "2026-05-12T17:44:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/crime/icc-confirms-arrest-warrant-issued-for-duterte-ally-over-drug-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-12T16:49:27Z",
+      "publishedAt": "2026-05-12T17:44:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F9%2F1%2F12481927-1-eng-GB%2F51bd3df899ac-2026-05-11T142613Z_763798605_RC2X6LAIIO3A_RTRMADP_3_WARCRIMES-PHILIPPINES-DELAROSA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-174e291f6a47",
+      "title": "War in Iran: Despite Iranian attacks, Doha steps up mediation efforts",
+      "description": "Qatar is intensifying regional mediation efforts despite the Iran war bringing airstrikes and cutting off Doha's access to global oil markets. But can Qatar leverage its ties to the US and Iran for its own benefit?",
+      "url": "https://www.dw.com/en/war-in-iran-despite-iranian-attacks-doha-steps-up-mediation-efforts/a-77133071?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-12T17:19:00Z",
+      "image": "https://static.dw.com/image/76808122_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-5cc52c2f8fa8",
+      "title": "Israeli report says Hamas used 'systematic, widespread' sexual violence in October 7 attack",
+      "description": "A report released on Tuesday by an independent Israeli investigative commission found that sexual violence was a \"central component\" of Hamas' October 7, 2023 attack on Israel and of the captivity of the hostages that the militant group took back to Gaza.",
+      "url": "https://www.france24.com/en/middle-east/20260512-israeli-report-says-hamas-used-systematic-widespread-sexual-violence-in-october-7-attack",
+      "source": "France24",
+      "publishedAt": "2026-05-12T16:51:18Z",
+      "image": "https://s.france24.com/media/display/e936d0ee-4e20-11f1-b2df-005056a90284/w:1024/p:16x9/000-77TX7ZG.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-1143ac2514f0",
+      "title": "UAE’s secret attack on Iran risks drawing Gulf states into the war",
+      "description": "If current precarious ceasefire between US and Iran ends, Emirates are more likely to be targeted by TehranMiddle East crisis: live updatesThe risk of some Gulf states becoming embroiled in a direct war with Iran has risen after it was reported the United Arab Emirates had secretly launched a major attack on Iran durin…",
+      "url": "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-12T16:37:27Z",
+      "image": "https://i.guim.co.uk/img/media/98b3d774a2b260543f941470e1e0b3fb0d5f31ba/341_0_3936_3149/master/3936.jpg?width=140&quality=85&auto=format&fit=max&s=ceebe8feacc66f345571316a555737f9",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -37,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "fra-9e762e19c38f",
-      "title": "Hamas committed 'systematic' sexual violence during October 7 attacks, says report",
-      "description": "Hamas and allied Palestinian militant groups committed \"systematic, widespread\" sexual violence during the October 7th 2023 attack on Israel and against hostages held captive in Gaza. That's according to a report by an independent Israeli investigative commission released on May 12. The report builds on prior investiga…",
-      "url": "https://www.france24.com/en/hamas-committed-systematic-sexual-violence-during-october-7-attacks-says-report",
-      "source": "France24",
-      "publishedAt": "2026-05-12T15:07:11Z",
-      "image": "https://s.france24.com/media/display/52a562f2-4e12-11f1-b550-005056bfb2b6/w:1024/p:16x9/EN-20260512-164253-164439-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -147ca303de3e",
       "title": "How one Palestinian teen’s life changed forever after Israeli gunfire",
       "description": "Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank.",
@@ -65,21 +95,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-72452ca130a0",
-      "title": "Trump-Xi summit: High stakes for the US, China and the world",
-      "description": "US President Donald Trump is hoping for a foreign policy win at the upcoming summit with China's Xi Jinping. The Iran war, trade deals, and Taiwan are expected to be high on the agenda during Trump's visit to Beijing.",
-      "url": "https://www.dw.com/en/trump-xi-summit-high-stakes-for-the-us-china-and-the-world/a-77134255?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-12T14:02:00Z",
-      "image": "https://static.dw.com/image/74550050_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -170,22 +185,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-1fd2c572da6b",
-      "title": "Mass starvation looms if fertilisers can’t pass key waterway, UN warns – as it happened",
-      "description": "This blog is now closed. See full report: Trump calls Iran’s response to peace plan ‘totally unacceptable’ as ceasefire fraysTurkey’s foreign minister, Hakan Fidan, will visit Qatar later today for talks on the war, its impact on the region and efforts to ensure navigational safety in the strait of Hormuz is resumed, a…",
-      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-12T00:53:15Z",
-      "image": "https://i.guim.co.uk/img/media/2fe0197c2c61d02ea15eaa767362a0eac184abce/684_148_3795_3035/master/3795.jpg?width=140&quality=85&auto=format&fit=max&s=4567164401eadb81411735d0e0718d23",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

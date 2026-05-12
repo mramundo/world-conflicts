@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T05:19:11Z",
+  "updated": "2026-05-12T07:07:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/crime/icc-confirms-arrest-warrant-issued-for-duterte-ally-over-drug-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-12T05:19:06Z",
+      "publishedAt": "2026-05-12T07:07:21Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F9%2F1%2F12481927-1-eng-GB%2F51bd3df899ac-2026-05-11T142613Z_763798605_RC2X6LAIIO3A_RTRMADP_3_WARCRIMES-PHILIPPINES-DELAROSA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a0b9791dae38",
+      "title": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’",
+      "description": "US-Iran tensions remain high as Tehran warns against &#039;aggression&#039; and Trump says the ceasefire is on &#039;life support&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-12T06:56:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-11T160719Z_464933661_RC247LAKEYEN_RTRMADP_3_USA-TRUMP-1778529313.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -69ec82520554",
+      "title": "Russia, Ukraine resume strikes as ceasefire expires, report authorities",
+      "description": "At least one person was killed in eastern Ukraine after the truce announced by the US president expired at midnight on Tuesday.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/12/russia-ukraine-resume-strikes-as-ceasefire-expires-report-authorities_6753365_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-12T06:23:35Z",
+      "image": "https://img.lemde.fr/2026/05/12/206/0/2200/1100/644/322/60/0/13aaeed_ftp-1-wl6ydvn52rp1-2026-05-12t050022z-851906410-rc2d7la7vzg1-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-d1ac4a24c185",
+      "title": "EU diplomats agree to sanction Hamas leaders and Israeli settlers",
+      "description": "The unanimous decision by the European Union, agreed to on Monday, was sparked by growing outrage over the devastation in Gaza during the Israel-Hamas war.",
+      "url": "https://www.npr.org/2026/05/12/g-s1-121581/eu-sanction-hamas-leaders-israeli-settlers",
+      "source": "NPR World",
+      "publishedAt": "2026-05-12T05:47:02Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9504x6336+0+0/resize/9504x6336!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F51%2Fecd9fb0c45e09e96d2a2ea04d08b%2Fap26131297581967.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,21 +112,6 @@
       "tags": []
     },
     {
-      "id": "al -54a5d7c245ef",
-      "title": "Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread",
-      "description": "Iran&#039;s powerful parliamentary speaker says US has &#039;no alternative but to accept&#039; Tehran&#039;s 14-point proposal to end war.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-12T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260510__B2E89ZL__v2__HighRes__IranUsIsraelWarDailylife-1778542118.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -2837b8aaf88c",
       "title": "As Russia pushes spring offensive, shift on battlefield buoys Ukrainians",
       "description": "Russia is no longer making major battlefield gains. If anything, it’s been Ukraine, aided by its technological prowess, taking back small pieces of territory. After a punishing winter, Ukraine is in a surprisingly encouraging place.",
@@ -127,21 +157,6 @@
       "tags": []
     },
     {
-      "id": "le -9065eca6e299",
-      "title": "Netanyahu slams 'moral bankruptcy' of EU after Israeli settler sanctions",
-      "description": "Following the European Union's announcement on Monday that it agreed to hit Israeli settlers with new sanctions over violence against Palestinians, the Israeli PM said that 'Israel and the US are doing Europe's dirty work by fighting for civilization against jihadist lunatics in Iran and elsewhere.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/11/eu-to-impose-sanctions-on-israeli-settlers_6753340_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-11T13:51:45Z",
-      "image": "https://img.lemde.fr/2026/05/10/905/0/6601/3300/644/322/60/0/891514b_ftp-1-xdcfkndonjti-5996287-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -ec23526525d2",
       "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
       "description": "Drones caused more than 80 per cent of civilian deaths in Sudan’s war during the first four months of 2026, killing at least 880 people, the UN human rights chief said on Monday, warning that escalating drone warfare could push the conflict into an even deadlier phase.&nbsp;",
@@ -153,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-8d507939fce7",
-      "title": "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
-      "description": "Trump rejected Iran's response to a U.S. peace proposal, calling it \"totally unacceptable.\" And, Congressional Republicans are trying to push for three years of funding for immigration enforcement.",
-      "url": "https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus",
-      "source": "NPR World",
-      "publishedAt": "2026-05-11T11:31:31Z",
-      "image": "undefined",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

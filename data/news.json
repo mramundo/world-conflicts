@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T12:49:10Z",
+  "updated": "2026-05-12T13:41:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/crime/icc-confirms-arrest-warrant-issued-for-duterte-ally-over-drug-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-12T12:49:06Z",
+      "publishedAt": "2026-05-12T13:41:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F9%2F1%2F12481927-1-eng-GB%2F51bd3df899ac-2026-05-11T142613Z_763798605_RC2X6LAIIO3A_RTRMADP_3_WARCRIMES-PHILIPPINES-DELAROSA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,22 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-acce26f9be3b",
+      "title": "Using No Soldiers, Just Robots - How Ukraine Captured A Russian Position",
+      "description": "Robots and drones were used by Ukrainian forces to capture a Russian position without an infantry assault in what Ukrainian President Volodymyr Zelenskyy described as a historic first in the war. Speaking to Current Time, troops involved in the operation are now revealing details.",
+      "url": "https://www.rferl.org/a/robots-alone-captured-a-russian-position/33755254.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-12T12:56:26Z",
+      "image": "https://gdb.rferl.org/b7643776-de31-42dd-61cf-08de3c91433d_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -200,22 +216,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-3e34e714a55a",
-      "title": "Russia Holds Victory Day Parade As Cease-Fire With Ukraine Begins",
-      "description": "Russian forces marched in Moscow's Red Square during May 9 Victory Day events, commemorating the defeat of Nazi Germany in World War II. The event was held under high security and at a smaller scale than in previous years amid concerns over potential Ukrainian strikes. One day earlier, US President Donald Trump announc…",
-      "url": "https://www.rferl.org/a/russia-victory-day-parade-ukraine-cease-fire/33753398.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-09T18:12:07Z",
-      "image": "https://gdb.rferl.org/e8f1a567-e1b5-4bb4-4192-08de3be37656_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     },
     {

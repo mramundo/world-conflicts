@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T15:02:41Z",
+  "updated": "2026-05-12T16:49:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/crime/icc-confirms-arrest-warrant-issued-for-duterte-ally-over-drug-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-12T15:02:37Z",
+      "publishedAt": "2026-05-12T16:49:27Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F9%2F1%2F12481927-1-eng-GB%2F51bd3df899ac-2026-05-11T142613Z_763798605_RC2X6LAIIO3A_RTRMADP_3_WARCRIMES-PHILIPPINES-DELAROSA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,53 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-df9045c4ba1f",
+      "title": "Pipeline to Mayhem, Naval Nastiness, Bombs for Vipers",
+      "description": "Russia’s war in Ukraine continues at full intensity despite a nominal ceasefire. Ukraine’s 71st Brigade repelled a Russian pipeline infiltration attack near Yablunivka with zero casualties using drones and artillery. Azov’s corps launched medium-range drone strikes over Mariupol. Ukraine debuted its Flamingo cruise mis…",
+      "url": "https://www.kyivpost.com/opinion/75977",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-12T15:37:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/12/6730aec7a250c4d6351b393ab72cbd24.png?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-9e762e19c38f",
+      "title": "Hamas committed 'systematic' sexual violence during October 7 attacks, says report",
+      "description": "Hamas and allied Palestinian militant groups committed \"systematic, widespread\" sexual violence during the October 7th 2023 attack on Israel and against hostages held captive in Gaza. That's according to a report by an independent Israeli investigative commission released on May 12. The report builds on prior investiga…",
+      "url": "https://www.france24.com/en/hamas-committed-systematic-sexual-violence-during-october-7-attacks-says-report",
+      "source": "France24",
+      "publishedAt": "2026-05-12T15:07:11Z",
+      "image": "https://s.france24.com/media/display/52a562f2-4e12-11f1-b550-005056bfb2b6/w:1024/p:16x9/EN-20260512-164253-164439-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -147ca303de3e",
+      "title": "How one Palestinian teen’s life changed forever after Israeli gunfire",
+      "description": "Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-12T15:02:22Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778598135.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -32,21 +79,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-aa5683e580ad",
-      "title": "Independent Israeli report accuses Hamas of 'systematic' sexual violence during October 7 attacks",
-      "description": "A new independent commission finds Hamas and its allies committed \"systematic, widespread\" sexual violence during their October 7, 2023 attack on Israel and against hostages they took back to Gaza. This comes as the Knesset passed a law establishing a special military tribunal to try Palestinian militants accused of ta…",
-      "url": "https://www.france24.com/en/independent-israeli-report-accuses-hamas-of-systematic-sexual-violence-during-october-7-attacks",
-      "source": "France24",
-      "publishedAt": "2026-05-12T13:05:06Z",
-      "image": "https://s.france24.com/media/display/b22cdd32-4e02-11f1-8843-005056a90284/w:1024/p:16x9/capture-13554009766a0324aaa08d54-22954110.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,22 +110,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -bc13ea892a55",
-      "title": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
-      "description": "Pakistan rejects allegations of aiding Iran militarily while Trump says truce on &#039;life support&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-12T12:17:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69d99ec0d714-1775869632.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -204,33 +220,17 @@
       "tags": []
     },
     {
-      "id": "kyi-0d8d6f1e0eed",
-      "title": "Ukraine Reports 147 Combat Engagements as Russia Violates Holiday Ceasefire",
-      "description": "Despite a high-profile humanitarian ceasefire brokered for May 9–11, the Ukrainian General Staff reported 147 combat engagements on the truce’s opening day. Russian forces reportedly launched over 7,000 kamikaze drones and conducted 2,000 shelling attacks, resulting in civilian deaths in the Kharkiv and Dnipropetrovsk …",
-      "url": "https://www.kyivpost.com/post/75825",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-10T13:17:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/09/107cc935a81aaec93978480b3b2c694d.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-dd3ae426b690",
-      "title": "Russian Widows, Mothers of Soldiers Killed in Ukraine Join Victory Day March in Chita",
-      "description": "Local media described the march as a first for the annual celebrations marking the Soviet victory over Nazi Germany in World War II.",
-      "url": "https://www.themoscowtimes.com/2026/05/09/russian-widows-mothers-of-soldiers-killed-in-ukraine-join-victory-day-march-in-chita-a92725",
+      "id": "the-253a5e120468",
+      "title": "Ukraine Reports Multiple Casualties on Second Day of Russia Truce",
+      "description": "Ukrainian air force data showed a decrease in long-range Russian drone strikes compared to before the truce, but officials reported casualties nonetheless.",
+      "url": "https://www.themoscowtimes.com/2026/05/10/ukraine-reports-multiple-casualties-on-second-day-of-russia-truce-a92727",
       "source": "The Moscow Times",
-      "publishedAt": "2026-05-09T16:08:48Z",
-      "image": "https://static.themoscowtimes.com/image/og/39/92725__3901fd4d57b45719316402cd967ab8fa.jpg",
+      "publishedAt": "2026-05-10T14:40:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/41/92727__41c1182a68eccc4ae3e3ed9e856707ec.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

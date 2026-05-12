@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T18:43:46Z",
+  "updated": "2026-05-12T19:36:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/crime/icc-confirms-arrest-warrant-issued-for-duterte-ally-over-drug-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-12T18:43:43Z",
+      "publishedAt": "2026-05-12T19:36:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F9%2F1%2F12481927-1-eng-GB%2F51bd3df899ac-2026-05-11T142613Z_763798605_RC2X6LAIIO3A_RTRMADP_3_WARCRIMES-PHILIPPINES-DELAROSA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-31d13ef6ebce",
+      "title": "Iran: Surge of political prisoners amid US-Israel war",
+      "description": "Amid the US-Israel war with Iran, as the world breathlessly watches the Strait of Hormuz, Tehran is quietly increasing pressure on political prisoners. Advocates are sounding the alarm, warning of mass executions.",
+      "url": "https://www.dw.com/en/iran-surge-of-political-prisoners-amid-us-israel-war/a-77136844?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-12T18:16:00Z",
+      "image": "https://static.dw.com/image/75876664_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,17 +51,17 @@
       "tags": []
     },
     {
-      "id": "deu-174e291f6a47",
-      "title": "War in Iran: Despite Iranian attacks, Doha steps up mediation efforts",
-      "description": "Qatar is intensifying regional mediation efforts despite the Iran war bringing airstrikes and cutting off Doha's access to global oil markets. But can Qatar leverage its ties to the US and Iran for its own benefit?",
-      "url": "https://www.dw.com/en/war-in-iran-despite-iranian-attacks-doha-steps-up-mediation-efforts/a-77133071?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-12T17:19:00Z",
-      "image": "https://static.dw.com/image/76808122_6.jpg",
+      "id": "tim-f706079d012a",
+      "title": "Amid ceasefire, Iranian museum opens ‘Art & War’ exhibit, including US Jewish artist",
+      "description": "Artwork by Roy Lichtenstein is among the pieces chosen by Tehran's Museum of Contemporary Art for its first exhibit since reopening The post Amid ceasefire, Iranian museum opens ‘Art &#038; War’ exhibit, including US Jewish artist appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/amid-ceasefire-tehran-museum-opens-art-war-exhibit-spotlighting-us-jewish-artist/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-12T17:03:52Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26127578595878-1-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,21 +126,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-b3b01798eb54",
-      "title": "IDF says it carried out weeklong raid on Hezbollah sites beyond Lebanon’s Litani River",
-      "description": "Terror group's leader says weapons not a subject of Israel-Lebanon talks; IDF censures commander for letting soldiers into Bint Jbeil to say Kaddish for fallen loved ones The post IDF says it carried out weeklong raid on Hezbollah sites beyond Lebanon’s Litani River appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-says-it-carried-out-weeklong-raid-on-hezbollah-sites-beyond-lebanons-litani-river/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-12T12:37:37Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/fc424a52-6d3f-4e46-9b00-016b62ba436b-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {

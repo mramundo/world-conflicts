@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T11:47:01Z",
+  "updated": "2026-05-13T12:52:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/helium-tank-and-solvent-shortages-latest-iran-war-pain-for-tech-suppliers2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-13T11:46:57Z",
+      "publishedAt": "2026-05-13T12:52:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F1%2F1%2F12481161-1-eng-GB%2Fad3fde067469-1eeebb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-05fdb251357b",
+      "title": "Russia announces new nuclear missile ready to launch by end of year",
+      "description": "In a televised announcement on May, 12, Vladimir #Putin announced the Sarmat would be ready for combat by the end of the year. This comes a few days after he said the war in #Ukraine was close to an end.",
+      "url": "https://www.france24.com/en/video/20260513-russia-announces-new-nuclear-missile-ready-to-launch-by-end-of-year-1",
+      "source": "France24",
+      "publishedAt": "2026-05-13T11:15:11Z",
+      "image": "https://s.france24.com/media/display/d85cf8ce-4eb2-11f1-a344-005056bf30b7/w:1024/p:16x9/Vignette-Russian-missile.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-4ea8b4b50fb6",
-      "title": "Iran warns US to accept peace plan or risk collapse of Mideast truce",
-      "description": "Iran’s chief negotiator said on Tuesday that Washington must accept Tehran’s latest peace plan or risk the collapse of the Middle East truce, after President Donald Trump warned the ceasefire was near failure. The war, triggered by US-Israeli strikes on Iran more than two months ago, has destabilised the region and rat…",
-      "url": "https://www.france24.com/en/middle-east/20260512-iran-us-peace-plan-middle-east-truce-failure",
-      "source": "France24",
-      "publishedAt": "2026-05-12T22:19:55Z",
-      "image": "https://s.france24.com/media/display/2da4492e-4dad-11f1-9be3-005056bfb2b6/w:1024/p:16x9/AP26126592665556.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

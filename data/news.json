@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-13T12:52:37Z",
+  "updated": "2026-05-13T13:47:44Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,59 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/helium-tank-and-solvent-shortages-latest-iran-war-pain-for-tech-suppliers2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-13T12:52:34Z",
+      "publishedAt": "2026-05-13T13:47:40Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F1%2F1%2F12481161-1-eng-GB%2Fad3fde067469-1eeebb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a33de84ef706",
+      "title": "Trump needs Xi much more than Xi needs Trump",
+      "description": "As the Iran war reshapes global power dynamics, Beijing enters the Trump-Xi summit with more leverage over Washington.",
+      "url": "https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-13T13:08:38Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0476ef-1778677487.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-da85965d0b0c",
+      "title": "Russia targets Ukraine with more than 200 drones in daytime assault",
+      "description": "Moscow and Kyiv trade long-range attacks after brief truce and Donald Trump’s assertion war could end soonEurope live – latest updatesRussia targeted Ukraine with more than 200 drones in a large-scale daytime assault on Wednesday, hours after a previous barrage of civilian areas had killed at least eight people.The str…",
+      "url": "https://www.theguardian.com/world/2026/may/13/russia-targets-ukraine-with-more-than-200-drones-in-daytime-assault",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-13T13:07:13Z",
+      "image": "https://i.guim.co.uk/img/media/59e6389a375fcae6d03c9821f6dccd14636636ac/668_0_3519_2817/master/3519.jpg?width=140&quality=85&auto=format&fit=max&s=3ceeccb7a6767c301a2b89600a1447e8",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-f9746285e5f3",
+      "title": "Israeli strikes on highway south of Beirut kill 8, including 2 children, Lebanon says",
+      "description": "Lebanese state media also reports strikes in south Lebanon as IDF says it's targeting Hezbollah in the area following evacuation warnings for seven villages The post Israeli strikes on highway south of Beirut kill 8, including 2 children, Lebanon says appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/israeli-strikes-on-highway-south-of-beirut-kill-8-including-2-children-lebanon-says/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-13T12:50:31Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26133312256613-e1778672427777-1024x640.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,10 +82,10 @@
       "tags": []
     },
     {
-      "id": "deu-c540f2b753ae",
-      "title": "Ceasefire in sight? What's next for Russia's war in Ukraine",
+      "id": "deu-256cc92213ce",
+      "title": "After more than four years of Russia's war in Ukraine, is a ceasefire finally in sight?",
       "description": "Four years since Russia's full-scale invasion of Ukraine, is the end finally in sight? DW spoke to US political experts about why they think US home elections could bring about a ceasefire.",
-      "url": "https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-world-4025-rdf",
+      "url": "https://www.dw.com/en/after-more-than-four-years-of-russia-s-war-in-ukraine-is-a-ceasefire-finally-in-sight/a-77138367?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-05-13T10:01:00Z",
       "image": "https://static.dw.com/image/76666353_6.jpg",
@@ -46,52 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -1b8c59ce36c6",
-      "title": "How Silicon Valley giants are turning into war contractors",
-      "description": "Palantir, Anduril, Google and other tech giants are selling AI-powered, computer-guided weapons systems.",
-      "url": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-13T08:41:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776685404.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-0088c0bad5dd",
-      "title": "War overshadows BRICS forum bringing together Iran and UAE in India",
-      "description": "Tehran urges hosts to use platform to build consensus condemning US-Israeli strikes, but its attacks on Emirates and reports that Gulf countries struck back may ratchet up tensions The post War overshadows BRICS forum bringing together Iran and UAE in India appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/war-overshadows-brics-forum-bringing-together-iran-and-uae-in-india/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-13T08:37:59Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/iranbrics-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -436e94d7fdec",
-      "title": "Iran says US must accept its peace plan or face 'failure'",
-      "description": "Both sides have refused to make concessions and repeatedly threatened to resume fighting, but neither appears willing to return to all-out war. Iran sent its latest proposal in response to an earlier US plan, details of which remain limited.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/13/iran-says-us-must-accept-its-peace-plan-or-face-failure_6753381_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-12T22:18:19Z",
-      "image": "https://img.lemde.fr/2026/05/12/181/0/3917/1958/644/322/60/0/0cfe782_ftp-1-zkargifxfxzn-5009004-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -112,17 +113,17 @@
       "tags": []
     },
     {
-      "id": "the-1143ac2514f0",
-      "title": "UAE’s secret attack on Iran risks drawing Gulf states into the war",
-      "description": "If current precarious ceasefire between US and Iran ends, Emirates are more likely to be targeted by TehranThe risk of some Gulf states becoming embroiled in a direct war with Iran has risen after it was reported the United Arab Emirates had secretly launched a major attack on Iran during the conflict.In addition, Kuwa…",
-      "url": "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-12T17:42:48Z",
-      "image": "https://i.guim.co.uk/img/media/98b3d774a2b260543f941470e1e0b3fb0d5f31ba/341_0_3936_3149/master/3936.jpg?width=140&quality=85&auto=format&fit=max&s=ceebe8feacc66f345571316a555737f9",
+      "id": "bbc-8f79846b1e24",
+      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+      "description": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-12T20:00:05Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3ef/live/68ba80e0-4e1c-11f1-b55d-0f258dce1735.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -171,21 +172,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-1526048cd454",
-      "title": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
-      "description": "There are calls to investigate the 16 March airstrike - which the UN says likely killed more - as a war crime.",
-      "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-12T07:31:14Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3c2/live/d7a0af30-4d3a-11f1-ac78-2112837ce2aa.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {

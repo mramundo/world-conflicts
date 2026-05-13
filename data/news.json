@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T07:11:30Z",
+  "updated": "2026-05-13T09:09:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/crime/icc-confirms-arrest-warrant-issued-for-duterte-ally-over-drug-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-13T07:11:25Z",
+      "publishedAt": "2026-05-13T09:09:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F9%2F1%2F12481927-1-eng-GB%2F51bd3df899ac-2026-05-11T142613Z_763798605_RC2X6LAIIO3A_RTRMADP_3_WARCRIMES-PHILIPPINES-DELAROSA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,49 @@
       "tags": []
     },
     {
+      "id": "al -1b8c59ce36c6",
+      "title": "How Silicon Valley giants are turning into war contractors",
+      "description": "Palantir, Anduril, Google and other tech giants are selling AI-powered, computer-guided weapons systems.",
+      "url": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-13T08:41:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776685404.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "tim-295075bab3ac",
-      "title": "IDF says Hezbollah fired several rockets, drone at troops in south Lebanon; no injuries",
-      "description": "Iran executes man accused of spying for Israel; rights group says confession fabricated * Australia says it will join ‘strictly defensive’ Hormuz naval mission led by France and UK The post IDF says Hezbollah fired several rockets, drone at troops in south Lebanon; no injuries appeared first on The Times of Israel.",
+      "title": "IDF launches strikes on Hezbollah after evacuation orders; 2 cars said targeted south of Beirut",
+      "description": "Israeli army says Hezbollah fired several rockets, drone at troops in south Lebanon; no injuries * Series of tremors near Tehran overnight renew concerns over major earthquake risk The post IDF launches strikes on Hezbollah after evacuation orders; 2 cars said targeted south of Beirut appeared first on The Times of Isr…",
       "url": "https://www.timesofisrael.com/liveblog-may-13-2026/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-13T00:54:17Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260511AMA10-1024x640.jpg",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260513__B2P88ZQ__v3__HighRes__TopshotLebanonIsraelIranUsWar-1024x640.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-4ea8b4b50fb6",
+      "title": "Iran warns US to accept peace plan or risk collapse of Middle East truce",
+      "description": "Iran’s chief negotiator said on Tuesday that Washington must accept Tehran’s latest peace plan or risk the collapse of the Middle East truce, after President Donald Trump warned the ceasefire was near failure. The war, triggered by US-Israeli strikes on Iran more than two months ago, has destabilised the region and rat…",
+      "url": "https://www.france24.com/en/middle-east/20260512-iran-us-peace-plan-middle-east-truce-failure",
+      "source": "France24",
+      "publishedAt": "2026-05-12T22:19:55Z",
+      "image": "https://s.france24.com/media/display/2da4492e-4dad-11f1-9be3-005056bfb2b6/w:1024/p:16x9/AP26126592665556.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,22 +99,6 @@
       "tags": []
     },
     {
-      "id": "al -be78f215cd32",
-      "title": "Why is Iran increasingly targeting the UAE in its war messaging?",
-      "description": "The UAE&#039;s close ties to the US and Israel have placed the Gulf country under Iranian suspicion.",
-      "url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-12T19:37:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260316__A3F89Z8__v4__HighRes__TopshotUaeIranUsIsraelWar-1773654471-1777774799.jpg?resize=1200%2C630&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "deu-31d13ef6ebce",
       "title": "Iran: Surge of political prisoners amid US-Israel war",
       "description": "Amid the US-Israel war with Iran, as the world breathlessly watches the Strait of Hormuz, Tehran is quietly increasing pressure on political prisoners. Advocates are sounding the alarm, warning of mass executions.",
@@ -109,21 +125,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-5cc52c2f8fa8",
-      "title": "Israeli report says Hamas used 'systematic, widespread' sexual violence in October 7 attack",
-      "description": "A report released on Tuesday by an independent Israeli investigative commission found that sexual violence was a \"central component\" of Hamas' October 7, 2023 attack on Israel and of the captivity of the hostages that the militant group took back to Gaza.",
-      "url": "https://www.france24.com/en/middle-east/20260512-israeli-report-says-hamas-used-systematic-widespread-sexual-violence-in-october-7-attack",
-      "source": "France24",
-      "publishedAt": "2026-05-12T16:51:18Z",
-      "image": "https://s.france24.com/media/display/e936d0ee-4e20-11f1-b2df-005056a90284/w:1024/p:16x9/000-77TX7ZG.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-13T13:47:44Z",
+  "updated": "2026-05-13T15:06:56Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,57 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/helium-tank-and-solvent-shortages-latest-iran-war-pain-for-tech-suppliers2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-13T13:47:40Z",
+      "publishedAt": "2026-05-13T15:06:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F1%2F1%2F12481161-1-eng-GB%2Fad3fde067469-1eeebb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-59cf42ee8a74",
+      "title": "Russian drone attacks kill 13 in Ukraine after ceasefire expires",
+      "description": "Attacks are continuing after Ukraine's president warned of \"more waves\" of Russian strikes throughout Wednesday.",
+      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-13T14:51:30Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb50/live/9e90b3d0-4eb0-11f1-a4e8-2309d38aa073.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-2935032ca432",
+      "title": "Reports: Mossad, Shin Bet chiefs secretly visited UAE during Iran war",
+      "description": "Meetings said to have been organized in March and April for the purpose of 'coordination' between Jerusalem and Abu Dhabi on defensive and offensive efforts against Tehran The post Reports: Mossad, Shin Bet chiefs secretly visited UAE during Iran war appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/reports-mossad-shin-bet-chiefs-each-secretly-visited-uae-during-iran-war/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-13T14:26:53Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/F260420CG426-e1776766103733-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-80f9105847a5",
+      "title": "In Sudan, both sides 'have taken the country to the dogs': Kenya's Ruto",
+      "description": "As the Africa Forward summit concluded in Nairobi, FRANCE 24 sat down with Kenya's President William Ruto. For him, the summit was \"significant\" after French President Emmanuel Macron announced investments in Africa in areas such as the energy transition, digital and AI. Ruto also discussed the war in Sudan, refuting c…",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260513-in-sudan-both-sides-have-taken-the-country-to-the-dogs-kenya-s-ruto",
+      "source": "France24",
+      "publishedAt": "2026-05-13T14:12:31Z",
+      "image": "https://s.france24.com/media/display/0764bd98-4ec5-11f1-942e-005056bfb2b6/w:1024/p:16x9/ITW-PDT-KENYA.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,41 +96,10 @@
       "tags": []
     },
     {
-      "id": "tim-f9746285e5f3",
-      "title": "Israeli strikes on highway south of Beirut kill 8, including 2 children, Lebanon says",
-      "description": "Lebanese state media also reports strikes in south Lebanon as IDF says it's targeting Hezbollah in the area following evacuation warnings for seven villages The post Israeli strikes on highway south of Beirut kill 8, including 2 children, Lebanon says appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/israeli-strikes-on-highway-south-of-beirut-kill-8-including-2-children-lebanon-says/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-13T12:50:31Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26133312256613-e1778672427777-1024x640.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-05fdb251357b",
-      "title": "Russia announces new nuclear missile ready to launch by end of year",
-      "description": "In a televised announcement on May, 12, Vladimir #Putin announced the Sarmat would be ready for combat by the end of the year. This comes a few days after he said the war in #Ukraine was close to an end.",
-      "url": "https://www.france24.com/en/video/20260513-russia-announces-new-nuclear-missile-ready-to-launch-by-end-of-year-1",
-      "source": "France24",
-      "publishedAt": "2026-05-13T11:15:11Z",
-      "image": "https://s.france24.com/media/display/d85cf8ce-4eb2-11f1-a344-005056bf30b7/w:1024/p:16x9/Vignette-Russian-missile.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-256cc92213ce",
-      "title": "After more than four years of Russia's war in Ukraine, is a ceasefire finally in sight?",
+      "id": "deu-c540f2b753ae",
+      "title": "Ceasefire in sight? What's next for Russia's war in Ukraine",
       "description": "Four years since Russia's full-scale invasion of Ukraine, is the end finally in sight? DW spoke to US political experts about why they think US home elections could bring about a ceasefire.",
-      "url": "https://www.dw.com/en/after-more-than-four-years-of-russia-s-war-in-ukraine-is-a-ceasefire-finally-in-sight/a-77138367?maca=en-rss-en-world-4025-rdf",
+      "url": "https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-05-13T10:01:00Z",
       "image": "https://static.dw.com/image/76666353_6.jpg",
@@ -113,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "bbc-8f79846b1e24",
-      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-      "description": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
-      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-12T20:00:05Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3ef/live/68ba80e0-4e1c-11f1-b55d-0f258dce1735.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-df9045c4ba1f",
       "title": "Pipeline to Mayhem, Naval Nastiness, Bombs for Vipers",
       "description": "Russia’s war in Ukraine continues at full intensity despite a nominal ceasefire. Ukraine’s 71st Brigade repelled a Russian pipeline infiltration attack near Yablunivka with zero casualties using drones and artillery. Azov’s corps launched medium-range drone strikes over Mariupol. Ukraine debuted its Flamingo cruise mis…",
@@ -144,21 +143,6 @@
       "tags": []
     },
     {
-      "id": "ans-976259de30da",
-      "title": "Pentagono, i costi della guerra all'Iran saliti a 29 miliardi di dollari",
-      "description": "La cifra segna un aumento rispetto alla stima fornita alla fine di aprile",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/12/pentagono-i-costi-della-guerra-alliran-saliti-a-29-miliardi-di-dollari_22451f6a-7e5c-47dc-8f8b-cedcf061ad9a.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-12T14:46:43Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/12/9ad05c507b4618dd4a09e7aff1538f4a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-acce26f9be3b",
       "title": "Using No Soldiers, Just Robots - How Ukraine Captured A Russian Position",
       "description": "Robots and drones were used by Ukrainian forces to capture a Russian position without an infantry assault in what Ukrainian President Volodymyr Zelenskyy described as a historic first in the war. Speaking to Current Time, troops involved in the operation are now revealing details.",
@@ -172,6 +156,21 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-54f529eb909b",
+      "title": "TV Rain Editor-in-Chief Jailed 8 Years in Absentia Over War ‘Fakes’",
+      "description": "Tikhon Dzyadko, who serves as editor-in-chief at TV Rain, was accused of spreading false information about the Russian armed forces.",
+      "url": "https://www.themoscowtimes.com/2026/05/12/tv-rain-editor-in-chief-jailed-8-years-in-absentia-over-war-fakes-a92732",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-05-12T08:25:51Z",
+      "image": "https://static.themoscowtimes.com/image/og/e4/92732__e44b318665e987dd24da09a33ef7c6b6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -197,21 +196,6 @@
       "source": "UN News",
       "publishedAt": "2026-05-11T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-UNOCHA-Sudan-Darfur-04.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-253a5e120468",
-      "title": "Ukraine Reports Multiple Casualties on Second Day of Russia Truce",
-      "description": "Ukrainian air force data showed a decrease in long-range Russian drone strikes compared to before the truce, but officials reported casualties nonetheless.",
-      "url": "https://www.themoscowtimes.com/2026/05/10/ukraine-reports-multiple-casualties-on-second-day-of-russia-truce-a92727",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-05-10T14:40:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/41/92727__41c1182a68eccc4ae3e3ed9e856707ec.jpg",
       "categories": [
         "conflict"
       ],

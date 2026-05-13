@@ -1,22 +1,39 @@
 {
-  "updated": "2026-05-13T18:45:13Z",
+  "updated": "2026-05-13T19:37:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-bfa53c2dff2f",
-      "title": "Trump, Xi set to talk trade after 30% drop during tariff war",
+      "id": "nik-ba870cf03052",
+      "title": "Analysis: Extending temporary truce could benefit Xi and Trump",
       "description": "",
-      "url": "https://asia.nikkei.com/economy/trade-war/trump-xi-set-to-talk-trade-after-30-drop-during-tariff-war",
+      "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-extending-temporary-truce-could-benefit-xi-and-trump",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-13T18:45:11Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F6%2F3%2F12493616-2-eng-GB%2F5e1a9cc07ff3-2025-04-09T123941Z_1563710510_RC2AUDA4LWQG_RTRMADP_3_USA-TRUMP-TARIFFS-CHINA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-05-13T19:37:04Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F1%2F1%2F12491187-1-eng-GB%2F8ef633652370-20260514-CUC-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -de9a7f12985d",
+      "title": "There’s an app for that: Gaza’s developers use tech to solve war problems",
+      "description": "Gaza’s battered tech sector is being reshaped by young developers building practical apps to navigate life.",
+      "url": "https://www.aljazeera.com/features/2026/5/13/theres-an-app-for-that-gazas-developers-use-tech-to-solve-war-problems?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-13T19:06:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/873A2735-1778694617.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -47,22 +64,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -c23e33ef8664",
-      "title": "What Trump and Xi want from China visit",
-      "description": "Tensions over trade, technology, Taiwan, and the war on Iran are set to dominate high-stakes talks between Trump and Xi.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-13T14:55:57Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778684148.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

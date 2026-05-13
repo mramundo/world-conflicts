@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-13T15:06:56Z",
+  "updated": "2026-05-13T16:52:25Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/helium-tank-and-solvent-shortages-latest-iran-war-pain-for-tech-suppliers2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-13T15:06:54Z",
+      "publishedAt": "2026-05-13T16:52:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F1%2F1%2F12481161-1-eng-GB%2Fad3fde067469-1eeebb.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,33 +20,64 @@
       "tags": []
     },
     {
-      "id": "bbc-59cf42ee8a74",
-      "title": "Russian drone attacks kill 13 in Ukraine after ceasefire expires",
-      "description": "Attacks are continuing after Ukraine's president warned of \"more waves\" of Russian strikes throughout Wednesday.",
-      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-13T14:51:30Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb50/live/9e90b3d0-4eb0-11f1-a4e8-2309d38aa073.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-2935032ca432",
-      "title": "Reports: Mossad, Shin Bet chiefs secretly visited UAE during Iran war",
-      "description": "Meetings said to have been organized in March and April for the purpose of 'coordination' between Jerusalem and Abu Dhabi on defensive and offensive efforts against Tehran The post Reports: Mossad, Shin Bet chiefs secretly visited UAE during Iran war appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/reports-mossad-shin-bet-chiefs-each-secretly-visited-uae-during-iran-war/",
+      "id": "tim-41559ec6f353",
+      "title": "US-Iran talks stalled after Tehran tried skirting up-front nuke concessions — officials",
+      "description": "Washington wanted temporary ceasefire that included Iran compromises on its nuclear program, but Islamic Republic demanded permanent truce followed by separate talks on enrichment The post US-Iran talks stalled after Tehran tried skirting up-front nuke concessions — officials appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/us-iran-talks-stalled-after-tehran-tried-skirting-up-front-nuke-concessions-officials/",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-13T14:26:53Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/F260420CG426-e1776766103733-1024x640.jpg",
+      "publishedAt": "2026-05-13T16:40:53Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26115512502589-1024x640.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-59cf42ee8a74",
+      "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
+      "description": "Six people have been killed after Zelensky warned of \"more waves\" of Russian strikes through Wednesday.",
+      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-13T16:39:28Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb50/live/9e90b3d0-4eb0-11f1-a4e8-2309d38aa073.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -23dcf148752d",
+      "title": "Mali's junta effectively under siege since Bamako attack",
+      "description": "Shaken by attacks from jihadists and pro-independence militants on April 25, the military regime has never appeared so fragile. The capital is now under blockade.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/05/13/mali-s-junta-effectively-under-siege-since-bamako-attack_6753417_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-13T15:18:56Z",
+      "image": "https://img.lemde.fr/2026/04/30/459/0/4096/2048/644/322/60/0/8f5444e_ftp-1-v70e0othsdca-2026-04-30t201112z-1930627575-rc2vzka8f7gz-rtrmadp-3-mali-security-camara-funeral.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c23e33ef8664",
+      "title": "What Trump and Xi want from China visit",
+      "description": "Tensions over trade, technology, Taiwan, and the war on Iran are set to dominate high-stakes talks between Trump and Xi.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-13T14:55:57Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778684148.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -61,37 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -a33de84ef706",
-      "title": "Trump needs Xi much more than Xi needs Trump",
-      "description": "As the Iran war reshapes global power dynamics, Beijing enters the Trump-Xi summit with more leverage over Washington.",
-      "url": "https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-13T13:08:38Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0476ef-1778677487.jpg?resize=1200%2C630",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-da85965d0b0c",
-      "title": "Russia targets Ukraine with more than 200 drones in daytime assault",
-      "description": "Moscow and Kyiv trade long-range attacks after brief truce and Donald Trump’s assertion war could end soonEurope live – latest updatesRussia targeted Ukraine with more than 200 drones in a large-scale daytime assault on Wednesday, hours after a previous barrage of civilian areas had killed at least eight people.The str…",
-      "url": "https://www.theguardian.com/world/2026/may/13/russia-targets-ukraine-with-more-than-200-drones-in-daytime-assault",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-13T13:07:13Z",
-      "image": "https://i.guim.co.uk/img/media/59e6389a375fcae6d03c9821f6dccd14636636ac/668_0_3519_2817/master/3519.jpg?width=140&quality=85&auto=format&fit=max&s=3ceeccb7a6767c301a2b89600a1447e8",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -124,6 +124,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-1143ac2514f0",
+      "title": "UAE’s secret attack on Iran risks drawing Gulf states into the war",
+      "description": "If current precarious ceasefire between US and Iran ends, Emirates are more likely to be targeted by TehranThe risk of some Gulf states becoming embroiled in a direct war with Iran has risen after it was reported the United Arab Emirates had secretly launched a major attack on Iran during the conflict.In addition, Kuwa…",
+      "url": "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-12T17:42:48Z",
+      "image": "https://i.guim.co.uk/img/media/98b3d774a2b260543f941470e1e0b3fb0d5f31ba/341_0_3936_3149/master/3936.jpg?width=140&quality=85&auto=format&fit=max&s=ceebe8feacc66f345571316a555737f9",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {

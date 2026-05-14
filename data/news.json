@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-14T01:46:56Z",
+  "updated": "2026-05-14T03:13:41Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-extending-temporary-truce-could-benefit-xi-and-trump",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-14T01:46:52Z",
+      "publishedAt": "2026-05-14T03:13:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F1%2F1%2F12491187-1-eng-GB%2F8ef633652370-20260514-CUC-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-b19be054eb1d",
+      "title": "Tribunale Usa sospende le sanzioni di Trump contro Francesca Albanese",
+      "description": "Relatrice speciale Onu sulla Palestina, 'ringrazio quanti hanno fornito aiuto'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/14/-tribunale-usa-sospende-le-sanzioni-di-trump-contro-francesca-albanese-_7f676465-e3d0-4752-909c-ee105c7ebb86.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-14T02:14:46Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/2/11/4ebf644132bc6004edc9678832a625a2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-a61805087665",
+      "title": "IDF officers said to tell PM Jewish terror accounts for up to 80% of West Bank incidents",
+      "description": "Officers reportedly decry lack of tools to address the issue, which they warn is distracting them from offensive operations; Palestinian teen said killed by IDF after settler raid The post IDF officers said to tell PM Jewish terror accounts for up to 80% of West Bank incidents appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-officers-said-to-tell-pm-jewish-terror-accounts-for-up-to-80-of-west-bank-incidents/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-13T21:35:02Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/42496e03-80f6-4fef-a8a8-1c6280505987-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -49,21 +79,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-41559ec6f353",
-      "title": "US-Iran talks stalled after Tehran tried skirting up-front nuke concessions — officials",
-      "description": "Washington wanted temporary ceasefire that included Iran compromises on its nuclear program, but Islamic Republic demanded permanent truce followed by separate talks on enrichment The post US-Iran talks stalled after Tehran tried skirting up-front nuke concessions — officials appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/us-iran-talks-stalled-after-tehran-tried-skirting-up-front-nuke-concessions-officials/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-13T16:40:53Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26115512502589-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T11:38:38Z",
+  "updated": "2026-05-14T12:45:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,24 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-extending-temporary-truce-could-benefit-xi-and-trump",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-14T11:38:34Z",
+      "publishedAt": "2026-05-14T12:45:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F1%2F1%2F12491187-1-eng-GB%2F8ef633652370-20260514-CUC-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -06eee0d5d56e",
+      "title": "Zimbabweans lured into Russia’s war as families plead for their return",
+      "description": "Families call on governments in Moscow and Harare to secure the return of loved ones from Ukrainian front lines.",
+      "url": "https://www.aljazeera.com/features/2026/5/14/zimbabweans-lured-into-russias-war-as-families-plead-for-their-return?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-14T11:22:23Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/Zimbabwean-recruits-1778295548.png?resize=1409%2C1080",
       "categories": [
         "conflict",
         "analysis"
@@ -49,22 +65,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -ca81bcccbc33",
-      "title": "How China changed Rubio name to let him join Trump summit despite sanctions",
-      "description": "The state secretary, who is under Chinese sanctions, is on a state visit to Beijing under the name &#039;Marco Lu&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/5/14/how-china-changed-rubio-name-to-let-him-join-trump-summit-despite-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-14T08:11:39Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0570e80563-1778741480.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -191,6 +191,22 @@
       "tags": []
     },
     {
+      "id": "un -ce67b540d923",
+      "title": "Chad’s refugee crisis overwhelms maternity care in east, UN agency warns",
+      "description": "Many women in eastern Chad are being forced to give birth in overcrowded clinics with limited medicine, minimal equipment and severe shortages of anesthesia, as a worsening humanitarian crisis overwhelms the country’s fragile healthcare system, the UN reproductive health agency, UNFPA, warned on Tuesday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167494",
+      "source": "UN News",
+      "publishedAt": "2026-05-12T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-02-2026-UNICEF-Chad.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-54f529eb909b",
       "title": "TV Rain Editor-in-Chief Jailed 8 Years in Absentia Over War ‘Fakes’",
       "description": "Tikhon Dzyadko, who serves as editor-in-chief at TV Rain, was accused of spreading false information about the Russian armed forces.",
@@ -213,21 +229,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-05-11T21:58:51Z",
       "image": "https://images.csmonitor.com/csm/2026/05/0511_OUKRAINEWAR_PARK.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -ec23526525d2",
-      "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
-      "description": "Drones caused more than 80 per cent of civilian deaths in Sudan’s war during the first four months of 2026, killing at least 880 people, the UN human rights chief said on Monday, warning that escalating drone warfare could push the conflict into an even deadlier phase.&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167479",
-      "source": "UN News",
-      "publishedAt": "2026-05-11T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-UNOCHA-Sudan-Darfur-04.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],

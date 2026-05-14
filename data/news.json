@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T05:22:35Z",
+  "updated": "2026-05-14T07:09:02Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-extending-temporary-truce-could-benefit-xi-and-trump",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-14T05:22:31Z",
+      "publishedAt": "2026-05-14T07:08:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F1%2F1%2F12491187-1-eng-GB%2F8ef633652370-20260514-CUC-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-be3f8c5a228c",
+      "title": "Tribunale Usa sospende le sanzioni di Trump contro Francesca Albanese",
+      "description": "La relatrice speciale Onu sulla Palestina: \"Ringrazio quanti hanno fornito aiuto\"",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/14/tribunale-usa-sospende-le-sanzioni-di-trump-contro-francesca-albanese_7f676465-e3d0-4752-909c-ee105c7ebb86.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-14T05:26:39Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/2/11/4ebf644132bc6004edc9678832a625a2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,6 +47,21 @@
         "conflict"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-7431d2155a57",
+      "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
+      "description": "Rebel fighters and Rwandan troops are accused of committing atrocities after capturing the DR Congo city of Uvira in December.",
+      "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-14T05:09:04Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df0f/live/9eae3c30-4ed7-11f1-ac78-2112837ce2aa.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,63 +97,32 @@
       "tags": []
     },
     {
-      "id": "ans-b19be054eb1d",
-      "title": "Tribunale Usa sospende le sanzioni di Trump contro Francesca Albanese",
-      "description": "Relatrice speciale Onu sulla Palestina, 'ringrazio quanti hanno fornito aiuto'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/14/-tribunale-usa-sospende-le-sanzioni-di-trump-contro-francesca-albanese-_7f676465-e3d0-4752-909c-ee105c7ebb86.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-14T02:14:46Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/2/11/4ebf644132bc6004edc9678832a625a2.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -b2cc65f5ba27",
-      "title": "Will the boycott of Eurovision have any impact?",
-      "description": "The decision by five nations to boycott the song contest comes amid Israel&#039;s genocide in Gaza.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/13/will-the-boycott-of-eurovision-have-any-impact?traffic_source=rss",
+      "id": "al -8d5ff1f68098",
+      "title": "Iran war live: Tehran slams ‘collusion’ as Netanyahu ‘secretly’ visits UAE",
+      "description": "Iranian first vice president said Tehran&#039;s &#039;right&#039; to the Strait of Hormuz is &#039;established and the matter is closed&#039;.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-05-13T19:18:47Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778698572.jpg?resize=1920%2C1061&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-59cf42ee8a74",
-      "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
-      "description": "Six people have been killed after Zelensky warned of \"more waves\" of Russian strikes through Wednesday.",
-      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-13T16:39:28Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb50/live/9e90b3d0-4eb0-11f1-a4e8-2309d38aa073.png",
+      "publishedAt": "2026-05-14T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260513__B2RQ2WG__v2__HighRes__FblIriWc2026-1778716049.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-1ec4c795ff80",
-      "title": "Israeli singer Noa speaks to FRANCE 24 as Israel's participation sparks Eurovision backlash",
-      "description": "Ten countries, including favourite Finland and controversial competitor Israel, secured places on Tuesday in the final of the Eurovision Song Contest. The contest’s 70th anniversary edition has been overshadowed by divisions, with five countries — Spain, Ireland, the Netherlands, Slovenia and Iceland — boycotting in pr…",
-      "url": "https://www.france24.com/en/video/20260513-israeli-singer-noa-speaks-to-france-24-as-israel-s-participation-sparks-eurovision-backlash",
+      "id": "fra-2f79b0d97505",
+      "title": "No, two French soldiers have not been killed in a Russian attack in Ukraine",
+      "description": "Pro-Russian accounts are claiming that Sergeant Bin Chen and Corporal Axel Delplanque \"vanished\" in Odesa, Ukraine, during an underwater mission. While it is true that these two French service members recently lost their lives, the circumstances of their deaths have no connection to any Russian attack.",
+      "url": "https://www.france24.com/en/europe/20260513-two-french-soldiers-not-been-killed-russian-attack-ukraine",
       "source": "France24",
-      "publishedAt": "2026-05-13T15:43:32Z",
-      "image": "https://s.france24.com/media/display/d7be14fa-4ee1-11f1-b10f-005056a90284/w:1024/p:16x9/EN-20260513-160822-161519-CS.jpg",
+      "publishedAt": "2026-05-13T16:47:20Z",
+      "image": "https://s.france24.com/media/display/1af4db02-4ee5-11f1-b766-005056bfb2b6/w:1024/p:16x9/debunked-soldiers.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

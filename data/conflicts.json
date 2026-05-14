@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-14T05:22:45Z",
+  "updated": "2026-05-14T07:09:12Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-05-13T16:35:31Z",
+  "wikipediaListRevision": "2026-05-14T06:59:44Z",
   "items": [
     {
       "id": "ru-ua",
@@ -46,8 +46,8 @@
       ],
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-05-14",
-      "wikipediaRevision": "2026-05-14T05:18:32Z",
-      "recentNewsCount": 3
+      "wikipediaRevision": "2026-05-14T07:08:08Z",
+      "recentNewsCount": 1
     },
     {
       "id": "sd-war",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "et-am",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 1
     }
   ]
 }

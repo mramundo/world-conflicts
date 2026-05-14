@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-14T21:30:44Z",
+  "updated": "2026-05-14T22:28:29Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-extending-temporary-truce-could-benefit-xi-and-trump",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-14T21:30:41Z",
+      "publishedAt": "2026-05-14T22:28:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F1%2F1%2F12491187-1-eng-GB%2F8ef633652370-20260514-CUC-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -78,6 +78,21 @@
         "conflict"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-27014b4405c1",
+      "title": "As Trump meets with Xi, security expert says China now faces the U.S. as a peer",
+      "description": "Former national security official Rush Doshi says President Trump's sky-high tariffs on Chinese goods sparked a clash in which China prevailed. We look at the current state of U.S.-China relations.",
+      "url": "https://www.npr.org/2026/05/14/nx-s1-5821644/as-trump-meets-with-xi-security-expert-says-china-now-faces-the-u-s-as-a-peer",
+      "source": "NPR World",
+      "publishedAt": "2026-05-14T17:58:20Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5821644",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -159,21 +174,6 @@
       "tags": []
     },
     {
-      "id": "npr-82619876e4d5",
-      "title": "Israel and Lebanon meet in D.C. again for peace talks",
-      "description": "Representatives for Israel and Lebanon meet in Washington, D.C., for a second time to end the war, as their ceasefire frays.",
-      "url": "https://www.npr.org/2026/05/14/nx-s1-5821274/israel-and-lebanon-meet-in-d-c-again-for-peace-talks",
-      "source": "NPR World",
-      "publishedAt": "2026-05-14T10:39:32Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5821274",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-7431d2155a57",
       "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
       "description": "Rebel fighters and Rwandan troops are accused of committing atrocities after capturing the DR Congo city of Uvira in December.",
@@ -218,21 +218,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -2837b8aaf88c",
-      "title": "As Russia pushes spring offensive, shift on battlefield buoys Ukrainians",
-      "description": "Russia is no longer making major battlefield gains. If anything, it’s been Ukraine, aided by its technological prowess, taking back small pieces of territory. After a punishing winter, Ukraine is in a surprisingly encouraging place.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0511/russia-spring-offensive-ukraine-military-technology?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-05-11T21:58:51Z",
-      "image": "https://images.csmonitor.com/csm/2026/05/0511_OUKRAINEWAR_PARK.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     }
   ]

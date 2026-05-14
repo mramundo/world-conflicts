@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T13:40:18Z",
+  "updated": "2026-05-14T14:56:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-extending-temporary-truce-could-benefit-xi-and-trump",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-14T13:40:15Z",
+      "publishedAt": "2026-05-14T14:56:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F1%2F1%2F12491187-1-eng-GB%2F8ef633652370-20260514-CUC-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,66 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-d6764d549faf",
+      "title": "Kremlin Rejects EU Mediation in Ukraine Peace Talks",
+      "description": "Top spokesman Dmitry Peskov accused Brussels of being a “direct participant” in the war due to its continued support of Ukraine.",
+      "url": "https://www.themoscowtimes.com/2026/05/14/kremlin-rejects-eu-mediation-in-ukraine-peace-talks-a92758",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-05-14T14:51:20Z",
+      "image": "https://static.themoscowtimes.com/image/og/ac/92758__acbc56c14340d44104f368d3330eb135.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-be3f8c5a228c",
+      "title": "Tribunale Usa sospende le sanzioni di Trump contro Francesca Albanese",
+      "description": "La relatrice speciale Onu sulla Palestina: \"Ringrazio quanti hanno fornito aiuto\"",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/14/tribunale-usa-sospende-le-sanzioni-di-trump-contro-francesca-albanese_7f676465-e3d0-4752-909c-ee105c7ebb86.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-14T14:02:55Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/2/11/4ebf644132bc6004edc9678832a625a2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-6555213a9c15",
+      "title": "3 civilians hurt in Hezbollah attack on north as Israel, Lebanon set for 3rd round of talks",
+      "description": "Drone attack seriously wounds two; IDF strikes several towns after issuing warning; Israel to present framework for disarmament, long-term ties at highest level talks in decades The post 3 civilians hurt in Hezbollah attack on north as Israel, Lebanon set for 3rd round of talks appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/3-civilians-hurt-in-hezbollah-attack-on-north-as-israel-lebanon-set-for-3rd-round-of-talks/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-14T13:34:05Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260314FFF002-1-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -dd17f6511eb2",
+      "title": "Russian drone attack hits Kyiv apartment block during ceasefire",
+      "description": "Russian drone strikes collapsed a residential building in the Ukrainian capital.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/russian-drone-attack-hits-kyiv-apartment-block-during-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-14T13:31:06Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778765423.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-be3f8c5a228c",
-      "title": "Tribunale Usa sospende le sanzioni di Trump contro Francesca Albanese",
-      "description": "La relatrice speciale Onu sulla Palestina: \"Ringrazio quanti hanno fornito aiuto\"",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/14/tribunale-usa-sospende-le-sanzioni-di-trump-contro-francesca-albanese_7f676465-e3d0-4752-909c-ee105c7ebb86.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-14T12:33:19Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/2/11/4ebf644132bc6004edc9678832a625a2.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,19 +112,18 @@
       "tags": []
     },
     {
-      "id": "al -06eee0d5d56e",
-      "title": "Zimbabweans lured into Russia’s war as families plead for their return",
-      "description": "Families call on governments in Moscow and Harare to secure the return of loved ones from Ukrainian front lines.",
-      "url": "https://www.aljazeera.com/features/2026/5/14/zimbabweans-lured-into-russias-war-as-families-plead-for-their-return?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-14T11:22:23Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/Zimbabwean-recruits-1778295548.png?resize=1409%2C1080",
+      "id": "un -aafbc5f98959",
+      "title": "Gaza reconstruction envisages building ‘islands’ out of rubble",
+      "description": "A feasibility study is underway to examine whether Gaza’s war debris could be recycled to reclaim coastal land and build artificial islands, as part of reconstruction.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167506",
+      "source": "UN News",
+      "publishedAt": "2026-05-14T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/09-02-2026_UNDP_Gaza_al-shifa_hospital.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -94,22 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-d2920eccdd32",
-      "title": "US federal judge blocks Trump’s sanctions against anti-Israel UN envoy Albanese",
-      "description": "Judge says measures against Francesca Albanese violate her 1st Amendment rights, after US imposed measures on her last year for 'political and economic warfare' against US, Israel The post US federal judge blocks Trump&#8217;s sanctions against anti-Israel UN envoy Albanese appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/us-federal-judge-blocks-trumps-sanctions-against-anti-israel-un-envoy-albanese/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-14T09:16:46Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250915__74KB263__v1__HighRes__SwitzerlandUnIsraelPalestinianConflictRights-1024x640.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -189,37 +217,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -ce67b540d923",
-      "title": "Chad’s refugee crisis overwhelms maternity care in east, UN agency warns",
-      "description": "Many women in eastern Chad are being forced to give birth in overcrowded clinics with limited medicine, minimal equipment and severe shortages of anesthesia, as a worsening humanitarian crisis overwhelms the country’s fragile healthcare system, the UN reproductive health agency, UNFPA, warned on Tuesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167494",
-      "source": "UN News",
-      "publishedAt": "2026-05-12T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-02-2026-UNICEF-Chad.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-54f529eb909b",
-      "title": "TV Rain Editor-in-Chief Jailed 8 Years in Absentia Over War ‘Fakes’",
-      "description": "Tikhon Dzyadko, who serves as editor-in-chief at TV Rain, was accused of spreading false information about the Russian armed forces.",
-      "url": "https://www.themoscowtimes.com/2026/05/12/tv-rain-editor-in-chief-jailed-8-years-in-absentia-over-war-fakes-a92732",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-05-12T08:25:51Z",
-      "image": "https://static.themoscowtimes.com/image/og/e4/92732__e44b318665e987dd24da09a33ef7c6b6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {

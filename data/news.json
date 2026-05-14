@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T12:45:30Z",
+  "updated": "2026-05-14T13:40:18Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,59 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-extending-temporary-truce-could-benefit-xi-and-trump",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-14T12:45:26Z",
+      "publishedAt": "2026-05-14T13:40:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F1%2F1%2F12491187-1-eng-GB%2F8ef633652370-20260514-CUC-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -08c5c38e0e75",
+      "title": "Russian overnight attack on Kyiv kills at least three people",
+      "description": "Ukrainian emergency services reported at least three people killed by Russian strikes in Kyiv. Fourteen people were reported missing and 40 were injured.",
+      "url": "https://www.lemonde.fr/en/international/video/2026/05/14/russian-overnight-attack-on-kyiv-kills-at-least-three-people_6753453_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-14T13:27:49Z",
+      "image": "https://img.lemde.fr/2026/05/14/413/0/6000/3000/644/322/60/0/d7e5385_upload-1-mnasdhev5y6v-do01240098.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-be3f8c5a228c",
+      "title": "Tribunale Usa sospende le sanzioni di Trump contro Francesca Albanese",
+      "description": "La relatrice speciale Onu sulla Palestina: \"Ringrazio quanti hanno fornito aiuto\"",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/14/tribunale-usa-sospende-le-sanzioni-di-trump-contro-francesca-albanese_7f676465-e3d0-4752-909c-ee105c7ebb86.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-14T12:33:19Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/2/11/4ebf644132bc6004edc9678832a625a2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-8f79d13dd894",
+      "title": "How Sudanese children are going back to school in a refugee camp after years of war",
+      "description": "In southern Libya, the city of Kufra is hosting between 40 and 60 thousand Sudanese war refugees. Among them are many children who had to abandon their schooling since the war broke out in 2023. In the face of a conflict that has lasted three years, authorities in eastern Libya have set up a system for them to begin th…",
+      "url": "https://www.france24.com/en/how-sudanese-children-are-going-back-to-school-in-a-refugee-camp-after-years-of-war",
+      "source": "France24",
+      "publishedAt": "2026-05-14T12:32:44Z",
+      "image": "https://s.france24.com/media/display/dec415a2-4f8f-11f1-9bf1-005056bf30b7/w:1024/p:16x9/EN-20260513-215030-215246-CS.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": true,
       "tags": []
     },
@@ -68,36 +114,6 @@
       "tags": []
     },
     {
-      "id": "le -c454a253d1a0",
-      "title": "Emmanuel Macron and Abiy Ahmed: A privileged relationship in spite of war and massacres in Tigray",
-      "description": "For the final stop of his African tour, the French president chose Ethiopia. The visit gave him another opportunity to publicly support Prime Minister Abiy Ahmed, whose actions in the Tigray region – which was the scene of a deadly war between 2020 and 2022 – have drawn criticism.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/05/14/emmanuel-macron-and-abiy-ahmed-a-privileged-relationship-in-spite-of-war-and-massacres-in-tigray_6753440_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-14T07:32:52Z",
-      "image": "https://img.lemde.fr/2026/05/13/164/0/2641/1320/644/322/60/0/b764dd2_ftp-1-cd28115k7scl-5016867-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-be3f8c5a228c",
-      "title": "Tribunale Usa sospende le sanzioni di Trump contro Francesca Albanese",
-      "description": "La relatrice speciale Onu sulla Palestina: \"Ringrazio quanti hanno fornito aiuto\"",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/14/tribunale-usa-sospende-le-sanzioni-di-trump-contro-francesca-albanese_7f676465-e3d0-4752-909c-ee105c7ebb86.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-14T05:26:39Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/2/11/4ebf644132bc6004edc9678832a625a2.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-7431d2155a57",
       "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
       "description": "Rebel fighters and Rwandan troops are accused of committing atrocities after capturing the DR Congo city of Uvira in December.",
@@ -125,21 +141,6 @@
         "humanitarian"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-11d0ec3105f7",
-      "title": "Lebanon and Israel to hold new talks in Washington as ceasefire nears end",
-      "description": "Lebanese and Israeli delegations are due to begin a third round of talks in Washington on Thursday, days before their latest ceasefire expires. Continued Israeli strikes have killed more than 400 people since the truce came into effect on April 17, according to an AFP tally based on figures provided by Lebanese authori…",
-      "url": "https://www.france24.com/en/middle-east/20260514-lebanon-and-israel-to-hold-new-talks-in-washington-as-ceasefire-nears-end",
-      "source": "France24",
-      "publishedAt": "2026-05-14T03:35:14Z",
-      "image": "https://s.france24.com/media/display/c55e022c-4ef3-11f1-93d2-005056a97e36/w:1024/p:16x9/5606c93d96519ce3908f478eb89c3768cec06deb.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

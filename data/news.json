@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T07:09:02Z",
+  "updated": "2026-05-14T09:03:08Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,40 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-extending-temporary-truce-could-benefit-xi-and-trump",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-14T07:08:54Z",
+      "publishedAt": "2026-05-14T09:03:03Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F1%2F1%2F12491187-1-eng-GB%2F8ef633652370-20260514-CUC-img.png?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-f101a8adbb60",
+      "title": "How China's telecom giant Huawei pivoted after facing U.S. sanctions",
+      "description": "NPR's Steve Inskeep returns to China's telecom giant Huawei to see how the company has adapted since facing U.S. sanctions.",
+      "url": "https://www.npr.org/2026/05/14/nx-s1-5814118/how-chinas-telecom-giant-huawei-pivoted-after-facing-u-s-sanctions",
+      "source": "NPR World",
+      "publishedAt": "2026-05-14T08:45:35Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5814118",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -ca81bcccbc33",
+      "title": "How China changed Rubio name to let him join Trump summit despite sanctions",
+      "description": "The state secretary, who is under Chinese sanctions, is on a state visit to Beijing under the name &#039;Marco Lu&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/5/14/how-china-changed-rubio-name-to-let-him-join-trump-summit-despite-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-14T08:11:39Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0570e80563-1778741480.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
@@ -32,21 +64,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-3413c777c7e6",
-      "title": "Russia hits Kyiv with drones and ballistic missiles, killing 1 and injuring 31",
-      "description": "Russia has launched a mass drone and missile attack on Ukraine's capital, Kyiv, killing one person and injuring at least 31. Local authorities report damage across six districts.",
-      "url": "https://www.npr.org/2026/05/14/g-s1-121998/russia-hits-kyiv-with-drones-and-ballistic-missiles",
-      "source": "NPR World",
-      "publishedAt": "2026-05-14T05:21:16Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F3f%2F47837a404ae8a0c017ed1c476745%2Fap26134120556778.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -82,6 +99,21 @@
       "tags": []
     },
     {
+      "id": "fra-11d0ec3105f7",
+      "title": "Lebanon and Israel to hold new talks in Washington as ceasefire nears end",
+      "description": "Lebanese and Israeli delegations are due to begin a third round of talks in Washington on Thursday, days before their latest ceasefire expires. Continued Israeli strikes have killed more than 400 people since the truce came into effect on April 17, according to an AFP tally based on figures provided by Lebanese authori…",
+      "url": "https://www.france24.com/en/middle-east/20260514-lebanon-and-israel-to-hold-new-talks-in-washington-as-ceasefire-nears-end",
+      "source": "France24",
+      "publishedAt": "2026-05-14T03:35:14Z",
+      "image": "https://s.france24.com/media/display/c55e022c-4ef3-11f1-93d2-005056a97e36/w:1024/p:16x9/5606c93d96519ce3908f478eb89c3768cec06deb.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "tim-b2b2ec2f5aa9",
       "title": "US thought Iran war would hasten Gaza’s demilitarization. Instead, Hamas is emboldened",
       "description": "While Washington believed conflict would leave a weakened Tehran unable to aid its proxies, Hamas has dug in on refusing to disarm and like its patron sought to drag out talks The post US thought Iran war would hasten Gaza&#8217;s demilitarization. Instead, Hamas is emboldened appeared first on The Times of Israel.",
@@ -93,36 +125,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -8d5ff1f68098",
-      "title": "Iran war live: Tehran slams ‘collusion’ as Netanyahu ‘secretly’ visits UAE",
-      "description": "Iranian first vice president said Tehran&#039;s &#039;right&#039; to the Strait of Hormuz is &#039;established and the matter is closed&#039;.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-14T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260513__B2RQ2WG__v2__HighRes__FblIriWc2026-1778716049.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-2f79b0d97505",
-      "title": "No, two French soldiers have not been killed in a Russian attack in Ukraine",
-      "description": "Pro-Russian accounts are claiming that Sergeant Bin Chen and Corporal Axel Delplanque \"vanished\" in Odesa, Ukraine, during an underwater mission. While it is true that these two French service members recently lost their lives, the circumstances of their deaths have no connection to any Russian attack.",
-      "url": "https://www.france24.com/en/europe/20260513-two-french-soldiers-not-been-killed-russian-attack-ukraine",
-      "source": "France24",
-      "publishedAt": "2026-05-13T16:47:20Z",
-      "image": "https://s.france24.com/media/display/1af4db02-4ee5-11f1-b766-005056bfb2b6/w:1024/p:16x9/debunked-soldiers.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

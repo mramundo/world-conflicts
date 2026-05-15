@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T14:53:53Z",
+  "updated": "2026-05-15T15:46:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,53 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/india-raises-regular-fuel-prices-for-1st-time-in-4-years-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-15T14:53:50Z",
+      "publishedAt": "2026-05-15T15:46:32Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F3%2F1%2F5%2F12505134-1-eng-GB%2Fa1dbbd9cef45-2026-05-15T022258Z_57117663_RC2D9LA3UXZB_RTRMADP_3_INDIA-FUEL-PRICES.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-02ed6ce12faa",
+      "title": "Russia and Ukraine swap 205 prisoners of war each",
+      "description": "Russia and Ukraine swapped 205 prisoners of war each on Friday, part of an agreement linked to a three-day ceasefire earlier this month brokered by US President Donald Trump. Ukrainian President Volodymyr Zelenskiy said it was the first step ​in a bigger ‌prisoner of war swap, after Kyiv and Moscow had agreed to swap 1…",
+      "url": "https://www.france24.com/en/video/20260515-russia-and-ukraine-swap-205-prisoners-of-war-each",
+      "source": "France24",
+      "publishedAt": "2026-05-15T15:24:25Z",
+      "image": "https://s.france24.com/media/display/d62357ea-5071-11f1-aac0-005056bf30b7/w:1024/p:16x9/EN-20260515-170618-170818-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-071f1a8dbd4e",
+      "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
+      "description": "Army supported by Russian mercenaries launches airstrikes after offensive by coalition of Islamist extremists and Tuareg separatistsMali’s armed forces, supported by Russian mercenaries, have launched airstrikes targeting a rebel alliance of Islamist extremists and Tuareg separatists as the ruling junta struggles to ma…",
+      "url": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-15T14:57:35Z",
+      "image": "https://i.guim.co.uk/img/media/e6d26af1123d872554af9a427c5d33abf01bc499/650_22_3090_2473/master/3090.jpg?width=140&quality=85&auto=format&fit=max&s=5c5697857eb11313597cbb9d8a1145ab",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-0bb31d88ca11",
+      "title": "Colombia, i dissidenti Farc annunciano il cessate il fuoco per le elezioni",
+      "description": "Stop agli attacchi annunciato dal gruppo guerrigliero di Ivan Mordisco",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/05/15/colombia-i-dissidenti-farc-annunciano-il-cessate-il-fuoco-per-le-elezioni_11b6bf00-c773-468c-8ccc-9e8e10bfe020.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-15T14:44:24Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/15/4d6755990bea35cc08a315510cc8b20e.jpg",
       "categories": [
         "conflict"
       ],
@@ -65,6 +110,21 @@
       "tags": []
     },
     {
+      "id": "bbc-5fb51989887a",
+      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
+      "description": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
+      "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-15T12:53:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7997/live/fb6da600-5057-11f1-82d0-dba52fc3f32a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "un -4deec7aedadc",
       "title": "Somalia at ‘real risk of famine’ as Middle East war fallout continues",
       "description": "At least six million people in Somalia are going days without enough food, UN aid teams warned on Friday, highlighting that nearly two million of this number are young children “at high risk&nbsp;of illness or death”.",
@@ -77,21 +137,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-21e1c97c08a0",
-      "title": "Kyiv in mourning after 24 killed in strike as Russia, Ukraine exchange POWs",
-      "description": "Ukraine's capital Kyiv declared a day of mourning Friday following a Russian attack that killed at least 24 people, including three children. Simultaneously, Moscow and Kyiv exchanged 205 prisoners of war from each side.",
-      "url": "https://www.france24.com/en/europe/20260515-ukraine-in-mourning-after-24-killed-in-russian-attack-on-kyiv",
-      "source": "France24",
-      "publishedAt": "2026-05-15T11:11:17Z",
-      "image": "https://s.france24.com/media/display/30a7c106-503b-11f1-8ae5-005056bf30b7/w:1024/p:16x9/AP26134120556778-1.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -109,21 +154,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-37710f3ff477",
-      "title": "Ukraine attacks Russia with drones after suffering three days of massive strikes",
-      "description": "Large-scale attack on Russian regions and huge oil refinery comes after 24 were killed when missile hit flats in KyivUkraine has launched a large-scale long-range drone attack targeting several regions in Russia including the huge Ryazan oil refinery, after three days of massive strikes by Moscow against Ukraine.Kyiv’s…",
-      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-attacks-russia-with-drones-after-suffering-three-days-of-strikes",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-15T10:21:41Z",
-      "image": "https://i.guim.co.uk/img/media/109e463693ac079dd8199dffaf524feaea0d8c77/317_20_1701_1362/master/1701.jpg?width=140&quality=85&auto=format&fit=max&s=f26bee7a794883c92ef447adfa31e209",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -157,21 +187,6 @@
       "tags": []
     },
     {
-      "id": "ans-54ea8220bda4",
-      "title": "Starmer a Streeting, 'mi dispiace che abbia lasciato ma serve unità'",
-      "description": "La lettera del premier, 'bisogna essere all'altezza di battaglia per anima nazione'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/14/starmer-a-streeting-mi-dispiace-che-abbia-lasciato-ma-serve-unita_ec0b9a69-3a28-4dda-a047-5fc3117aa6f3.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-14T16:20:10Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/14/53fa8fc5d33653a0427f3a2d89564a1d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-d79658f00e92",
       "title": "Will Ukraine corruption scandal reach Volodymyr Zelenskyy?",
       "description": "A drawn-out corruption affair in Ukraine has widened, with authorities now taking action against Andriy Yermak, former head of the presidential office. Will the scandal reach all the way to President Volodymyr Zelenskyy?",
@@ -199,21 +214,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-7431d2155a57",
-      "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
-      "description": "Rebel fighters and Rwandan troops are accused of committing atrocities after capturing the DR Congo city of Uvira in December.",
-      "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-14T05:09:04Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df0f/live/9eae3c30-4ed7-11f1-ac78-2112837ce2aa.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     }

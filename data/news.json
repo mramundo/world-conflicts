@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T17:35:37Z",
+  "updated": "2026-05-15T18:39:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-15T17:35:33Z",
+      "publishedAt": "2026-05-15T18:39:40Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -634e8cfa4936",
+      "title": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
+      "description": "Ukraine’s air force says the attack on Thursday was part of the largest aerial assault since the war began.",
+      "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-15T18:08:51Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a07596c2a-1778866540.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -95,21 +110,6 @@
       "tags": []
     },
     {
-      "id": "al -f540ad586ec5",
-      "title": "Deadly attack on Pakistan outpost puts Afghanistan ceasefire at risk",
-      "description": "Two assaults in the northwest region have killed more than 20 people in recent days.",
-      "url": "https://www.aljazeera.com/news/2026/5/15/deadly-attack-on-pakistan-outpost-puts-afghanistan-ceasefire-at-risk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-15T12:55:06Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260512__B2KK4ZQ__v1__MidRes__PakistanConflict-1778840413.jpg?resize=1200%2C630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-5fb51989887a",
       "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
       "description": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
@@ -131,7 +131,7 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167518",
       "source": "UN News",
       "publishedAt": "2026-05-15T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/22-20-2025-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/15-05-2026-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict",
         "humanitarian"

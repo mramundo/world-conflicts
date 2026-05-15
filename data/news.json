@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T20:30:38Z",
+  "updated": "2026-05-15T21:26:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-15T20:30:35Z",
+      "publishedAt": "2026-05-15T21:26:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,33 @@
       "tags": []
     },
     {
-      "id": "tim-0c5a9e9925f1",
-      "title": "Israeli strike targets Hamas military leader Izz al-Din al-Haddad, ‘last architect of Oct.7’",
-      "description": "While there was no official confirmation, military officials indicate he is believed killed; former hostages hail reports of death of the man responsible for their abduction and captivity The post Israeli strike targets Hamas military leader Izz al-Din al-Haddad, &#8216;last architect of Oct.7&#8217; appeared first on …",
-      "url": "https://www.timesofisrael.com/israeli-airstrike-targets-hamas-military-leader-izz-al-din-al-haddad-the-last-architect-of-oct-7/",
+      "id": "tim-4cf44919ef58",
+      "title": "Porous ceasefire extended for 45-days after third round of Israel-Lebanon talks",
+      "description": "US says two days of talks 'highly productive,' while Israeli envoy says 'potential for success is great,' even as Hezbollah clashes with troops, fires rockets and drones at north The post Porous ceasefire extended for 45-days after third round of Israel-Lebanon talks appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/porous-ceasefire-extended-for-45-days-after-third-round-of-israel-lebanon-talks/",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-15T19:33:10Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26135672589851-1024x640.jpg",
+      "publishedAt": "2026-05-15T20:36:51Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/HIYQU0aWwAACy0a-1024x640.jpeg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -f4c7c3301390",
+      "title": "'We don't know if we'll make it back alive': Israel targets Lebanese rescue workers despite ceasefire",
+      "description": "Two civil defense rescue workers were killed by an Israeli airstrike in front of their station in southern Lebanon on Tuesday. More than 110 Lebanese healthcare workers have been killed over two and half months of bombings, including 12 since mid-April, when a supposed ceasefire was declared.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/15/we-don-t-know-if-we-ll-make-it-back-alive-israel-targets-lebanese-rescue-workers-despite-ceasefire_6753499_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-15T20:13:15Z",
+      "image": "https://img.lemde.fr/2026/05/13/157/0/5500/2750/644/322/60/0/5d8a931_ftp-1-ofhmxd1uhnob-2026-05-13t115126z-647263892-rc2a8laizh8e-rtrmadp-3-iran-crisis-lebanon-israel.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -61,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -c7c18870e160",
-      "title": "US cancels deployment of 4,000 troops to Poland",
-      "description": "The US canceled the plan to deploy the troops two weeks after the Pentagon said it would pull 5,000 US troops from Germany, amid a dispute between Donald Trump and German Chancellor Friedrich Merz over the US-Israeli war on Iran.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/15/us-cancels-deployment-of-4-000-troops-to-poland_6753495_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-15T16:45:38Z",
-      "image": "https://img.lemde.fr/2026/05/15/343/0/5562/2781/644/322/60/0/720a399_ftp-1-wpu6c9zjptdp-cd84234bf8834b3ab31e3761d3dc6de1-0-d611e02f8b8146529ece94b727d22667.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

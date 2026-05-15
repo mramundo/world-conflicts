@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T21:26:55Z",
+  "updated": "2026-05-15T22:25:00Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-15T21:26:52Z",
+      "publishedAt": "2026-05-15T22:24:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -47,6 +47,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-e1d452c08e66",
+      "title": "Israel says it has killed Hamas commander in Gaza air strike",
+      "description": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-15T19:38:38Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86e2/live/d0adc620-5093-11f1-8b8c-6d33e1d5abb6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,23 +126,8 @@
       "tags": []
     },
     {
-      "id": "bbc-5fb51989887a",
-      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-      "description": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
-      "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-15T12:53:57Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7997/live/fb6da600-5057-11f1-82d0-dba52fc3f32a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -7f91271f68d5",
-      "title": "Security Council meets on Syria transition and humanitarian crisis",
+      "title": "LIVE: Security Council meets on Syria transition and humanitarian crisis",
       "description": "The UN Security Council meets Friday morning in New York to discuss the evolving situation in Syria, as the country navigates a fragile transition after years of conflict and the fall of the Assad regime. Deputy Special Envoy Claudio Cordone and UN relief chief Tom Fletcher are expected to brief members on political an…",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167518",
       "source": "UN News",

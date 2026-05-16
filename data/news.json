@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T13:35:06Z",
+  "updated": "2026-05-16T14:32:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-16T13:35:02Z",
+      "publishedAt": "2026-05-16T14:32:08Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-b7fe0ed3d271",
+      "title": "IDF confirms Hamas Gaza chief Izz al-Din al-Haddad killed in airstrike",
+      "description": "Sources in terror group also confirm death of military leader, who Israel says was one of last surviving architects of Oct. 7 and had in the past 'surrounded himself with hostages' The post IDF confirms Hamas Gaza chief Izz al-Din al-Haddad killed in airstrike appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-confirms-hamas-gaza-chief-izz-al-din-al-haddad-killed-in-airstrike/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-16T13:55:29Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2025/05/az-adin-al-hadad-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,22 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-25b87e33d5a8",
-      "title": "IDF launches strikes targeting Hezbollah for 1st time since Lebanon ceasefire extended",
-      "description": "Israeli military issues evacuation orders for 9 villages; 6 said killed in overnight targeting of civil defense center; drone launched at Israel from Lebanon, no injuries The post IDF launches strikes targeting Hezbollah for 1st time since Lebanon ceasefire extended appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-launches-strikes-targeting-hezbollah-for-1st-time-since-lebanon-ceasefire-extended/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-16T12:06:22Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260516__B2ZP84G__v1__HighRes__LebanonIranIsraelUsWar-e1778922724996-1024x640.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -171,18 +170,18 @@
       "tags": []
     },
     {
-      "id": "un -7f91271f68d5",
-      "title": "LIVE: Security Council meets on Syria transition and humanitarian crisis",
-      "description": "The UN Security Council meets Friday morning in New York to discuss the evolving situation in Syria, as the country navigates a fragile transition after years of conflict and the fall of the Assad regime. Deputy Special Envoy Claudio Cordone and UN relief chief Tom Fletcher are expected to brief members on political an…",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167518",
+      "id": "un -9b298f6c44f7",
+      "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
+      "description": "Nearly 20 million people across Sudan are facing acute hunger and more than 800,000 children risk severe malnutrition this year, UN agencies warned on Friday, as civil war, mass displacement and collapsing food and health systems deepen one of the world’s worst humanitarian crises and push parts of the country closer t…",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167528",
       "source": "UN News",
       "publishedAt": "2026-05-15T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/15-05-2026-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-05-2024-UNICEF-Sudan-UNI518587.jpeg/image560x340cropped.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

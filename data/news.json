@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T12:28:36Z",
+  "updated": "2026-05-16T13:35:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-16T12:28:33Z",
+      "publishedAt": "2026-05-16T13:35:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-453506094f3f",
+      "title": "Da Maduro all'Iran, la portaerei Ford torna negli Usa dopo quasi un anno",
+      "description": "E' il più lungo dispiegamento operativo dalla guerra in Vietnam",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/16/da-maduro-alliran-la-portaerei-ford-torna-negli-usa-dopo-quasi-un-anno_af45fff6-e487-43a4-874e-a4790186ca03.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-16T12:42:54Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/627753751170821f92373bc2741367b5.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-d0ebf0a2affe",
+      "title": "Leader of Hamas's armed wing killed in strike on Gaza, says Israel",
+      "description": "The Israeli military said on Saturday that it had killed the head of Hamas's military wing Ezzedine Al-Haddad during an air strike carried out the previous day in Gaza. Haddad's wife and daughter were also killed in the attack, according to a Hamas source.",
+      "url": "https://www.france24.com/en/middle-east/20260516-israel-says-leader-of-hamas-armed-wing-killed-in-strike-on-gaza",
+      "source": "France24",
+      "publishedAt": "2026-05-16T12:23:10Z",
+      "image": "https://s.france24.com/media/display/1a06b67c-5127-11f1-a921-005056a90284/w:1024/p:16x9/AP26136401121251.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,21 +141,6 @@
       "tags": []
     },
     {
-      "id": "ans-54340ecf3a79",
-      "title": "Media, 'intensi preparativi Usa e Israele per riprendere guerra a Iran'",
-      "description": "Nyt, 'tra opzioni anche raid per trovare uranio'. Channel 12, Trump deciderà in 24 ore",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/16/media-intensi-preparativi-usa-e-israele-per-riprendere-guerra-a-iran_9dc87911-926d-410a-befc-e8f7b063e6c0.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-16T08:47:06Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/12/ba1854df803621ce6be32516a0154f94.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -0152449ff3a4",
       "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
       "description": "Iran says Trump signalled openness to talks as deadlock remains over Tehran’s nuclear programme.",
@@ -137,21 +152,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-7801bd56762d",
-      "title": "Israel, Lebanon extending ceasefire, US says, despite new Israeli strikes",
-      "description": "Israel and Lebanon agreed to extend a ceasefire and hold expanded talks on a political settlement, the US announced days before the April 17 ceasefire was set to expire. The announcement came even as Israel carried out new strikes in southern Lebanon that it insists are not subject to the truce. Israel has been poundin…",
-      "url": "https://www.france24.com/en/israel-lebanon-extending-ceasefire-us-says-despite-new-israeli-strikes",
-      "source": "France24",
-      "publishedAt": "2026-05-16T06:25:29Z",
-      "image": "https://s.france24.com/media/display/c1a1e426-50ee-11f1-bac3-005056bfb2b6/w:1024/p:16x9/EN-20260516-080142-080322-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

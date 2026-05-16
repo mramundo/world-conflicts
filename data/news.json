@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T18:24:52Z",
+  "updated": "2026-05-16T19:28:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-16T18:24:47Z",
+      "publishedAt": "2026-05-16T19:28:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1158dd495f48",
+      "title": "Spanish Foreign Minister on Spain’s clash with the Trump administration",
+      "description": "Jose Manuel Albares speaks to Redi Tlhabi about Spain’s commitment to international law and relations with the US.",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/16/spanish-foreign-minister-on-spains-clash-with-the-trump-administration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-16T18:41:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778956835.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -b79b70250bf9",
-      "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
-      "description": "Despite Lebanon and Israel extending the ceasefire deal for another 45 days, Israel continues to bomb Lebanon.",
-      "url": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-16T10:34:53Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0717c94234-1778849737.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

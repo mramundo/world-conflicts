@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-16T22:20:00Z",
+  "updated": "2026-05-16T23:22:14Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-16T22:19:56Z",
+      "publishedAt": "2026-05-16T23:22:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-b6a3a2bf115d",
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "description": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-16T22:27:44Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2c/live/b1a99d90-508d-11f1-b682-cf91850925ea.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,6 +48,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -e59210605e99",
+      "title": "The life and death of the Ahmed Abbas 714 building in Beirut",
+      "description": "The residential building was destroyed on March 18 by an Israeli airstrike. Israel claimed, without providing evidence, that Hezbollah money was being hidden in its basement. With the destruction of these 36 apartments, a piece of Lebanese life has vanished.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/16/the-life-and-death-of-the-ahmed-abbas-714-building-in-beirut_6753520_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-16T17:35:00Z",
+      "image": "https://img.lemde.fr/2026/04/18/451/0/4000/2000/644/322/60/0/4a4606c_upload-1-xtsfusx7vtn3-raf-bey-immeuble-005a.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -126,36 +156,6 @@
       "tags": []
     },
     {
-      "id": "bbc-b6a3a2bf115d",
-      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-      "description": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-15T23:59:07Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2c/live/b1a99d90-508d-11f1-b682-cf91850925ea.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -f4c7c3301390",
-      "title": "'We don't know if we'll make it back alive': Israel targets Lebanese rescue workers despite ceasefire",
-      "description": "Two civil defense rescue workers were killed by an Israeli airstrike in front of their station in southern Lebanon on Tuesday. More than 110 Lebanese healthcare workers have been killed over two and half months of bombings, including 12 since mid-April, when a supposed ceasefire was declared.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/15/we-don-t-know-if-we-ll-make-it-back-alive-israel-targets-lebanese-rescue-workers-despite-ceasefire_6753499_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-15T20:13:15Z",
-      "image": "https://img.lemde.fr/2026/05/13/157/0/5500/2750/644/322/60/0/5d8a931_ftp-1-ofhmxd1uhnob-2026-05-13t115126z-647263892-rc2a8laizh8e-rtrmadp-3-iran-crisis-lebanon-israel.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-071f1a8dbd4e",
       "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
       "description": "Army supported by Russian mercenaries launches airstrikes after offensive by coalition of Islamist extremists and Tuareg separatistsMali’s armed forces, supported by Russian mercenaries, have launched airstrikes targeting a rebel alliance of Islamist extremists and Tuareg separatists as the ruling junta struggles to ma…",
@@ -200,21 +200,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-1cc1290cb60d",
-      "title": "Inept Russian Generals Have Just Blown the War",
-      "description": "In this video, former Navy SEAL squadron leader Chuck Pfarrer joins Jason Jay Smart to examine Russia’s worsening military crisis in Crimea as relentless Ukrainian strikes cripple logistics and supply routes. With heavy troop losses, failing air defenses, and aging equipment, Russian forces are struggling to sustain op…",
-      "url": "https://www.kyivpost.com/videos/76157",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-14T17:00:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/14/ab20f8862d67279e29657c284fb2d183.png?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
       "tags": []
     },
     {

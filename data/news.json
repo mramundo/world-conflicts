@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T11:25:58Z",
+  "updated": "2026-05-16T12:28:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-16T11:25:54Z",
+      "publishedAt": "2026-05-16T12:28:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-25b87e33d5a8",
+      "title": "IDF launches strikes targeting Hezbollah for 1st time since Lebanon ceasefire extended",
+      "description": "Israeli military issues evacuation orders for 9 villages; 6 said killed in overnight targeting of civil defense center; drone launched at Israel from Lebanon, no injuries The post IDF launches strikes targeting Hezbollah for 1st time since Lebanon ceasefire extended appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-launches-strikes-targeting-hezbollah-for-1st-time-since-lebanon-ceasefire-extended/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-16T12:06:22Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260516__B2ZP84G__v1__HighRes__LebanonIranIsraelUsWar-e1778922724996-1024x640.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-868d4cde819f",
+      "title": "The war in Ukraine is at a standstill as societal fatigue grows in Russia",
+      "description": "With the peace process stalled, there are signs of growing public fatigue in Russia with the Kremlin's war as Ukraine uses robotic warfare to stay in the fight.",
+      "url": "https://www.npr.org/2026/05/16/nx-s1-5822468/the-war-in-ukraine-is-at-a-standstill-as-societal-fatigue-grows-in-russia",
+      "source": "NPR World",
+      "publishedAt": "2026-05-16T11:43:41Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5822468",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -121,36 +152,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-abf7a15ef022",
-      "title": "Israel says it killed the leader of Hamas' military wing",
-      "description": "Israel says it has killed the leader of Hamas' military wing, one of the architects of the Oct, 7, 2023, attacks that triggered the war in Gaza.",
-      "url": "https://www.npr.org/2026/05/16/g-s1-122453/gaza-airstrike-hamas-military-leader",
-      "source": "NPR World",
-      "publishedAt": "2026-05-16T05:15:57Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Fef%2F7b4aa4de4fb8b994b5f2e56a2c46%2Fap26135685749437.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-f4a843687502",
-      "title": "Iraqi militia commander charged in US for plotting attacks on Jewish targets for Iran",
-      "description": "US prosecutors say Mohammad Al-Saadi, a Kataeb Hezbollah member and IRGC operative, coordinated recent attacks in Western countries claimed by Harakat Ashab al-Yamin al-Islamiya The post Iraqi militia commander charged in US for plotting attacks on Jewish targets for Iran appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/iraqi-militia-commander-charged-in-us-for-plotting-attacks-on-jewish-targets-for-iran/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-16T03:18:31Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26135659951294-e1778896667494-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

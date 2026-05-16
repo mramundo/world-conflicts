@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-16T08:40:25Z",
+  "updated": "2026-05-16T09:36:22Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,74 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-16T08:40:22Z",
+      "publishedAt": "2026-05-16T09:36:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-1a6d6d04179c",
+      "title": "China, US, Israel compete in fast-growing laser weapons race",
+      "description": "More Gulf states are turning to laser weapons to combat drones in the Iran war. Israel even loaned the UAE theirs. But do they actually work?",
+      "url": "https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-16T09:13:00Z",
+      "image": "https://static.dw.com/image/77175525_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -a69bd0a66f22",
+      "title": "Under fire from Israel like never before, Lebanon’s first responders are determined to persevere",
+      "description": "Lebanese first responders face unprecedented casualties from Israeli strikes. Carrying their colleagues’ loss, they continue with deepened resolve.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0516/lebanon-israel-first-responders-hezbollah?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-05-16T09:00:10Z",
+      "image": "https://images.csmonitor.com/csm/2026/05/0514_OLEBRESPONDERS_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-54340ecf3a79",
+      "title": "Media, 'intensi preparativi Usa e Israele per riprendere guerra a Iran'",
+      "description": "Nyt, 'tra opzioni anche raid per trovare uranio'. Channel 12, Trump deciderà in 24 ore",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/16/media-intensi-preparativi-usa-e-israele-per-riprendere-guerra-a-iran_9dc87911-926d-410a-befc-e8f7b063e6c0.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-16T08:47:06Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/12/ba1854df803621ce6be32516a0154f94.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -7d54d83dba41",
+      "title": "IS leader killed in joint US-Nigerian mission, Trump says",
+      "description": "Abu Bakr al-Mainuki was the Islamic State group's second-in-command and was considered a key figure in the organization's finances. On Friday, US President Donald Trump announced his death on social media.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/16/is-leader-killed-in-joint-us-nigerian-mission-trump-says_6753510_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-16T08:45:33Z",
+      "image": "https://img.lemde.fr/2026/05/16/9/0/1280/640/644/322/60/0/b6502ce_upload-1-2rh9cioh6t4j-b6502ce-ftp-1-caxlvpmgw4ag-2026-02-11t095330z-1856376463-rc23by921pnm-rtrmadp-3-usa-nigeria-troops.JPG",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -50,6 +111,21 @@
       "tags": []
     },
     {
+      "id": "tim-f4a843687502",
+      "title": "Iraqi militia commander charged in US for plotting attacks on Jewish targets for Iran",
+      "description": "US prosecutors say Mohammad Al-Saadi, a Kataeb Hezbollah member and IRGC operative, coordinated recent attacks in Western countries claimed by Harakat Ashab al-Yamin al-Islamiya The post Iraqi militia commander charged in US for plotting attacks on Jewish targets for Iran appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/iraqi-militia-commander-charged-in-us-for-plotting-attacks-on-jewish-targets-for-iran/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-16T03:18:31Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26135659951294-e1778896667494-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-b6a3a2bf115d",
       "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
       "description": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
@@ -61,51 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-2d67d41cfce1",
-      "title": "Report: Israel, US readying for renewed strikes on Iran for as early as next week",
-      "description": "Trump says ISIS No. 2 killed in operation by US and Nigerian forces * 6 reported killed in Israeli strike on civil defense center in southern Lebanon The post Report: Israel, US readying for renewed strikes on Iran for as early as next week appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/liveblog-may-16-2026/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-15T23:31:13Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/dc0c6954-a842-45c7-b8ce-f905435d0cc3-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -f4c7c3301390",
-      "title": "'We don't know if we'll make it back alive': Israel targets Lebanese rescue workers despite ceasefire",
-      "description": "Two civil defense rescue workers were killed by an Israeli airstrike in front of their station in southern Lebanon on Tuesday. More than 110 Lebanese healthcare workers have been killed over two and half months of bombings, including 12 since mid-April, when a supposed ceasefire was declared.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/15/we-don-t-know-if-we-ll-make-it-back-alive-israel-targets-lebanese-rescue-workers-despite-ceasefire_6753499_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-15T20:13:15Z",
-      "image": "https://img.lemde.fr/2026/05/13/157/0/5500/2750/644/322/60/0/5d8a931_ftp-1-ofhmxd1uhnob-2026-05-13t115126z-647263892-rc2a8laizh8e-rtrmadp-3-iran-crisis-lebanon-israel.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-e93a054d4441",
-      "title": "Gli Usa annunciano una proroga di 45 giorni della tregua tra Israele e Libano",
-      "description": "Doveva scadere domenica. Lo rende noto il Dipartimento di Stato statunitense",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/15/gli-usa-annunciano-una-proroga-di-45-giorni-della-tregua-tra-israele_e3a3594f-606a-4060-bfae-ebdbd1337814.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-15T18:37:30Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/14/f2a45ec0174050e4c2fdd7fd2da0ca56.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -184,22 +215,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-d79658f00e92",
-      "title": "Will Ukraine corruption scandal reach Volodymyr Zelenskyy?",
-      "description": "A drawn-out corruption affair in Ukraine has widened, with authorities now taking action against Andriy Yermak, former head of the presidential office. Will the scandal reach all the way to President Volodymyr Zelenskyy?",
-      "url": "https://www.dw.com/en/will-ukraine-corruption-scandal-reach-volodymyr-zelenskyy/a-77161926?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-14T16:10:00Z",
-      "image": "https://static.dw.com/image/74937678_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
       "tags": []
     },
     {

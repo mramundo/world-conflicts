@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T20:20:05Z",
+  "updated": "2026-05-16T21:20:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-16T20:20:02Z",
+      "publishedAt": "2026-05-16T21:20:47Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -126,22 +126,6 @@
       "tags": []
     },
     {
-      "id": "le -7d54d83dba41",
-      "title": "IS leader killed in joint US-Nigerian mission, Trump says",
-      "description": "Abu Bakr al-Mainuki was the Islamic State group's second-in-command and was considered a key figure in the organization's finances. On Friday, US President Donald Trump announced his death on social media.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/16/is-leader-killed-in-joint-us-nigerian-mission-trump-says_6753510_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-16T08:45:33Z",
-      "image": "https://img.lemde.fr/2026/05/16/9/0/1280/640/644/322/60/0/b6502ce_upload-1-2rh9cioh6t4j-b6502ce-ftp-1-caxlvpmgw4ag-2026-02-11t095330z-1856376463-rc23by921pnm-rtrmadp-3-usa-nigeria-troops.JPG",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "bbc-b6a3a2bf115d",
       "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
       "description": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
@@ -153,6 +137,21 @@
         "conflict"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -f4c7c3301390",
+      "title": "'We don't know if we'll make it back alive': Israel targets Lebanese rescue workers despite ceasefire",
+      "description": "Two civil defense rescue workers were killed by an Israeli airstrike in front of their station in southern Lebanon on Tuesday. More than 110 Lebanese healthcare workers have been killed over two and half months of bombings, including 12 since mid-April, when a supposed ceasefire was declared.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/15/we-don-t-know-if-we-ll-make-it-back-alive-israel-targets-lebanese-rescue-workers-despite-ceasefire_6753499_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-15T20:13:15Z",
+      "image": "https://img.lemde.fr/2026/05/13/157/0/5500/2750/644/322/60/0/5d8a931_ftp-1-ofhmxd1uhnob-2026-05-13t115126z-647263892-rc2a8laizh8e-rtrmadp-3-iran-crisis-lebanon-israel.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

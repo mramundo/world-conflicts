@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T19:30:05Z",
+  "updated": "2026-05-17T20:21:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/immigration/chinese-refugees-increasingly-see-serbia-as-haven-and-gateway-to-eu",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-17T19:30:01Z",
+      "publishedAt": "2026-05-17T20:21:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F6%2F9%2F12499662-1-eng-GB%2Fee3beacb91b0-2022-12-15T133414Z_1578827980_RC2B6Y9QYN1L_RTRMADP_3_EUROPE-MIGRANTS-HUNGARY-SERBIA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-83ea36fc5e99",
+      "title": "UAE blames Iran or its proxies for drone strike fire near nuclear plant",
+      "description": "Abu Dhabi denounces ‘dangerous escalation’ as Iran war ceasefire grows more precariousThe United Arab Emirates has blamed a fire near its nuclear power plant on a drone launched by Iran or one of its proxies in what the UAE called a “dangerous escalation”.The fire was just outside the Barakah nuclear plant and caused n…",
+      "url": "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-17T19:33:31Z",
+      "image": "https://i.guim.co.uk/img/media/327bd905b46117905817c6345ce8d85237122c55/104_0_1668_1334/master/1668.jpg?width=140&quality=85&auto=format&fit=max&s=18f50ecaba0f36e97e99d7030d4f7fc7",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -92,21 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-229af54de99a",
-      "title": "Israeli strikes kill six in southern Lebanon hours after extension of ceasefire",
-      "description": "Three paramedics at health centre among dead, while Hamas military chief Izz al-Din al-Haddad killed in Gaza strikeIsrael carried out airstrikes in southern Lebanon, killing at least six people, including three paramedics working at a health centre, just hours after its envoys had agreed with the Lebanese government to…",
-      "url": "https://www.theguardian.com/world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-17T01:09:47Z",
-      "image": "https://i.guim.co.uk/img/media/054eff53d9d886e6e107709654eeef24cfbc727b/736_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=d92f30f5a7f7164ca47c2a4a680e5435",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

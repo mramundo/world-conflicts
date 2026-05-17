@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T08:48:35Z",
+  "updated": "2026-05-17T09:38:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-17T08:48:31Z",
+      "publishedAt": "2026-05-17T09:38:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,34 +20,63 @@
       "tags": []
     },
     {
-      "id": "fra-f1d83027210b",
-      "title": "Is a Chinese invasion of Taiwan imminent?",
-      "description": "🇺🇸🇨🇳After nearly a decade since his last visit, US President Donald Trump is meeting Chinese President Xi Jinping in Beijing in a historic summit focused on global trade, technological rivalry and rising tensions over Taiwan, one of the world’s most sensitive flashpoints. 🇹🇼China claims Taiwan as part of its territory …",
-      "url": "https://www.france24.com/en/video/20260517-is-a-chinese-invasion-of-taiwan-imminent",
-      "source": "France24",
-      "publishedAt": "2026-05-17T05:50:25Z",
-      "image": "https://s.france24.com/media/display/c1de1380-51b4-11f1-863d-005056a97e36/w:1024/p:16x9/TAIWAN-VERTICAL-00-01-43-13-Immagine003.jpg",
+      "id": "le -ea0f9fa2e930",
+      "title": "Large-scale Ukraine drone strike kills at least 4 in Russia",
+      "description": "Russia's Defense Ministry reported that its air defenses shot down 556 drones overnight, resulting in casualties in the Moscow and Belgorod regions.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/17/large-scale-ukraine-drone-strike-kills-at-least-4-in-russia_6753532_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-17T08:45:55Z",
+      "image": "https://img.lemde.fr/2026/05/14/500/0/6000/3000/644/322/60/0/0353f34_ftp-1-r08u7k6daw4o-2026-05-14t182854z-1626027415-rc2vieaughww-rtrmadp-3-ukraine-crisis-defence-tech.JPG",
       "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
+        "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": true,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-c6718b2e0150",
+      "title": "Middle East: Israel attacks south Lebanon day after ceasefire extension",
+      "description": "Israel launched a massive series of airstrikes on southern Lebanon on Saturday, despite an extension of the truce between the two countries.",
+      "url": "https://www.france24.com/en/middle-east-israel-attacks-south-lebanon-day-after-ceasefire-extension",
+      "source": "France24",
+      "publishedAt": "2026-05-17T08:45:10Z",
+      "image": "https://s.france24.com/media/display/379dc39e-51ca-11f1-9464-005056a90284/w:1024/p:16x9/EN-20260517-080940-081117-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b475b85cf07f",
+      "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
+      "description": "Spain, Netherlands, Ireland, Iceland and Slovenia stage biggest political boycott in Eurovision history over Gaza war.",
+      "url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-17T08:42:47Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260516__B33B3RY__v1__HighRes__AustriaEntertainmentMusicTelevisionEscFinal-1779003149.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
       "id": "tim-3a85fa27ea72",
       "title": "IDF says Hezbollah fired rockets, explosive drones at troops in south Lebanon; no injuries",
-      "description": "Amid reports Iran war could resume, Trump posts image warning of 'calm before the storm' * Settlers set fire to vehicle, spray graffiti in Palestinian West Bank village – reports The post IDF says Hezbollah fired rockets, explosive drones at troops in south Lebanon; no injuries appeared first on The Times of Israel.",
+      "description": "Report: ICC issued 5 new arrest warrants against Israeli officials * Settlers set fire to vehicle, spray graffiti in Palestinian West Bank village – reports The post IDF says Hezbollah fired rockets, explosive drones at troops in south Lebanon; no injuries appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/liveblog-may-17-2026/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-17T01:35:34Z",
       "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260511AMA10-1024x640.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -82,22 +111,6 @@
       "tags": []
     },
     {
-      "id": "al -2729421090f5",
-      "title": "Can new Pakistan-Afghanistan tensions lead to another border clash?",
-      "description": "Both sides target each other despite a pause in fighting mediated in March.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-16T20:00:48Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778955455.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "ans-453506094f3f",
       "title": "Da Maduro all'Iran, la portaerei Ford torna negli Usa dopo quasi un anno",
       "description": "E' il più lungo dispiegamento operativo dalla guerra in Vietnam",
@@ -124,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -65994e00aef0",
-      "title": "Israel renews strikes in southern Lebanon one day after ceasefire extension",
-      "description": "The Israeli military launched the attack just one day after the two parties agreed to extend the truce by 45 days. Hezbollah, later on Saturday, announced it had struck a military target in northern Israel",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/16/israel-renews-strikes-in-southern-lebanon-one-day-after-ceasefire-extension_6753512_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-16T10:10:00Z",
-      "image": "https://img.lemde.fr/2026/05/15/500/0/6000/3000/644/322/60/0/444fdf7_ftp-1-kh0rw1jn1ljj-5041256-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

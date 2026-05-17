@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T14:34:47Z",
+  "updated": "2026-05-17T15:26:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/immigration/chinese-refugees-increasingly-see-serbia-as-haven-and-gateway-to-eu",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-17T14:34:44Z",
+      "publishedAt": "2026-05-17T15:26:48Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F6%2F9%2F12499662-1-eng-GB%2Fee3beacb91b0-2022-12-15T133414Z_1578827980_RC2B6Y9QYN1L_RTRMADP_3_EUROPE-MIGRANTS-HUNGARY-SERBIA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-7da065d47e84",
+      "title": "Most of the architects of October 7 attacks have been killed, says Netanyahu",
+      "description": "Prime Minister Benjamin Netanyahu said Sunday that Israel is close to finishing a key war aim in Gaza: killing the planners of the October 7 attacks. The comments came after Israel said it had killed senior Hamas commander Ezzedine Al-Haddad in an airstrike, as its campaign against the group’s leadership continues.",
+      "url": "https://www.france24.com/en/middle-east/20260517-most-of-the-architects-of-october-7-attacks-have-been-killed-says-netanyahu",
+      "source": "France24",
+      "publishedAt": "2026-05-17T15:13:31Z",
+      "image": "https://s.france24.com/media/display/8c1e72d0-51ff-11f1-adac-005056a90284/w:1024/p:16x9/2026-05-11T004852Z-1182016822-RC2MTKAAGNAB-RTRMADP-3-USA-ISRAEL-NETANYAHU.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,6 +65,21 @@
       "tags": []
     },
     {
+      "id": "le -dc75c61eb9a5",
+      "title": "Fire broke out after drone strike near UAE's Barakah nuclear plant",
+      "description": "The bombing did not result in any injuries or cause a rise in radiation levels, according to the Abu Dhabi local government's media office.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/17/fire-broke-out-after-drone-strike-near-uae-s-barakah-nuclear-power-plant_6753536_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-17T11:42:30Z",
+      "image": "https://img.lemde.fr/2026/05/17/442/0/5299/2649/644/322/60/0/a506c5b_ftp-1-ttrwmtwevbp1-5059246-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -3565aca8ee1e",
       "title": "The strike that changed the geometry of war",
       "description": "Israel&#039;s attacks on Doha and Tehran demonstrate a new capability that may make warfare more unpredictable.",
@@ -63,36 +93,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -ea0f9fa2e930",
-      "title": "Large-scale Ukraine drone strike kills at least 4 in Russia",
-      "description": "Russia's Defense Ministry reported that its air defenses shot down 556 drones overnight, resulting in casualties in the Moscow and Belgorod regions.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/17/large-scale-ukraine-drone-strike-kills-at-least-4-in-russia_6753532_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-17T08:45:51Z",
-      "image": "https://img.lemde.fr/2026/05/14/500/0/6000/3000/644/322/60/0/0353f34_ftp-1-r08u7k6daw4o-2026-05-14t182854z-1626027415-rc2vieaughww-rtrmadp-3-ukraine-crisis-defence-tech.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-c6718b2e0150",
-      "title": "Middle East: Israel attacks south Lebanon day after ceasefire extension",
-      "description": "Israel launched a massive series of airstrikes on southern Lebanon on Saturday, despite an extension of the truce between the two countries.",
-      "url": "https://www.france24.com/en/middle-east-israel-attacks-south-lebanon-day-after-ceasefire-extension",
-      "source": "France24",
-      "publishedAt": "2026-05-17T08:45:10Z",
-      "image": "https://s.france24.com/media/display/379dc39e-51ca-11f1-9464-005056a90284/w:1024/p:16x9/EN-20260517-080940-081117-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -137,6 +137,21 @@
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-5db59f736318",
+      "title": "Ukraine Drone Attack Kills 1 in Belgorod Region",
+      "description": "",
+      "url": "https://www.themoscowtimes.com/2026/05/16/ukraine-drone-attack-kills-1-in-belgorod-region-a92771",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-05-16T10:11:49Z",
+      "image": "https://static.themoscowtimes.com/image/og/b2/92771__b2a4fcf2ad76292d71b5f3cab4e1a3c6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -214,21 +229,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-d6764d549faf",
-      "title": "Kremlin Rejects EU Mediation in Ukraine Peace Talks",
-      "description": "Top spokesman Dmitry Peskov accused Brussels of being a “direct participant” in the war due to its continued support of Ukraine.",
-      "url": "https://www.themoscowtimes.com/2026/05/14/kremlin-rejects-eu-mediation-in-ukraine-peace-talks-a92758",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-05-14T14:51:20Z",
-      "image": "https://static.themoscowtimes.com/image/og/ac/92758__acbc56c14340d44104f368d3330eb135.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

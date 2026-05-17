@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-17T03:14:22Z",
+  "updated": "2026-05-17T05:22:42Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-17T03:14:17Z",
+      "publishedAt": "2026-05-17T05:22:38Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -63,21 +63,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -e59210605e99",
-      "title": "The life and death of the Ahmed Abbas 714 building in Beirut",
-      "description": "The residential building was destroyed on March 18 by an Israeli airstrike. Israel claimed, without providing evidence, that Hezbollah money was being hidden in its basement. With the destruction of these 36 apartments, a piece of Lebanese life has vanished.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/16/the-life-and-death-of-the-ahmed-abbas-714-building-in-beirut_6753520_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-16T17:35:00Z",
-      "image": "https://img.lemde.fr/2026/04/18/451/0/4000/2000/644/322/60/0/4a4606c_upload-1-xtsfusx7vtn3-raf-bey-immeuble-005a.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -141,6 +126,21 @@
       "tags": []
     },
     {
+      "id": "le -65994e00aef0",
+      "title": "Israel renews strikes in southern Lebanon one day after ceasefire extension",
+      "description": "The Israeli military launched the attack just one day after the two parties agreed to extend the truce by 45 days. Hezbollah, later on Saturday, announced it had struck a military target in northern Israel",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/16/israel-renews-strikes-in-southern-lebanon-one-day-after-ceasefire-extension_6753512_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-16T10:10:00Z",
+      "image": "https://img.lemde.fr/2026/05/15/500/0/6000/3000/644/322/60/0/444fdf7_ftp-1-kh0rw1jn1ljj-5041256-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-1a6d6d04179c",
       "title": "China, US, Israel compete in fast-growing laser weapons race",
       "description": "More Gulf states are turning to laser weapons to combat drones in the Iran war. Israel even loaned the UAE theirs. But do they actually work?",
@@ -200,6 +200,21 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-1cc1290cb60d",
+      "title": "Inept Russian Generals Have Just Blown the War",
+      "description": "In this video, former Navy SEAL squadron leader Chuck Pfarrer joins Jason Jay Smart to examine Russia’s worsening military crisis in Crimea as relentless Ukrainian strikes cripple logistics and supply routes. With heavy troop losses, failing air defenses, and aging equipment, Russian forces are struggling to sustain op…",
+      "url": "https://www.kyivpost.com/videos/76157",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-14T17:00:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/14/ab20f8862d67279e29657c284fb2d183.png?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
       "tags": []
     },
     {

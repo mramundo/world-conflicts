@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T13:35:07Z",
+  "updated": "2026-05-17T14:34:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/immigration/chinese-refugees-increasingly-see-serbia-as-haven-and-gateway-to-eu",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-17T13:35:02Z",
+      "publishedAt": "2026-05-17T14:34:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F6%2F9%2F12499662-1-eng-GB%2Fee3beacb91b0-2022-12-15T133414Z_1578827980_RC2B6Y9QYN1L_RTRMADP_3_EUROPE-MIGRANTS-HUNGARY-SERBIA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,28 @@
       "tags": []
     },
     {
-      "id": "ans-9bd1c9cb7e1d",
-      "title": "Zelensky, 'i nostri attacchi giustificati, Mosca metta fine alla guerra'",
-      "description": "Rivendica gli attacchi contro la Russia",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/17/zelensky-i-nostri-attacchi-giustificati-mosca-metta-fine-alla-guerra_2c28e6bd-e3f8-446d-b5e2-b13e83c98e53.html",
+      "id": "tim-ed5b197ba161",
+      "title": "‘Now 60%’: Netanyahu admits Israel taking more territory in Gaza, despite ceasefire",
+      "description": "PM confirms to cabinet the IDF is pushing past the Yellow Line demarcating the 53% of Gaza that Israel retained under US-brokered truce; IDF strikes in Strip said to kill 4 The post &#8216;Now 60%&#8217;: Netanyahu admits Israel taking more territory in Gaza, despite ceasefire appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/now-60-netanyahu-admits-israel-taking-more-territory-in-gaza-despite-ceasefire/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-17T14:25:58Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260506__B22Q3UK__v4__HighRes__PalestinianIsraelConflictGaza-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-f25b8243d06b",
+      "title": "Ghalibaf, l'uccisione del leader di Hamas è ulteriore violazione della tregua",
+      "description": "Lo riferisce l'agenzia di stampa Irna",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/17/ghalibaf-luccisione-del-leader-di-hamas-e-ulteriore-violazione-della-tregua_26725faf-d9ef-43b7-b1e0-1ddad528185d.html",
       "source": "ANSA",
-      "publishedAt": "2026-05-17T10:16:38Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/b6c3210fffe2a7b05746072aa7f0404b.jpg",
+      "publishedAt": "2026-05-17T13:41:23Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/8e5def85f8ac57991eba573484e0ac4b.jpg",
       "categories": [
         "conflict"
       ],
@@ -77,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-96d0edb44441",
-      "title": "USS Ford returns home after record deployment supporting Iran war, Maduro’s capture",
-      "description": "Largest aircraft carrier in world spent 326 days at sea, most for a ship of its kind in last 50 years; saw war in Gulf, action in Venezuela, and suffered major laundry fire The post USS Ford returns home after record deployment supporting Iran war, Maduro&#8217;s capture appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/uss-ford-returns-home-after-record-deployment-supporting-iran-war-maduros-capture/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-17T08:31:38Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26136651496835-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

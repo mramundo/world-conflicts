@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T09:38:35Z",
+  "updated": "2026-05-17T10:34:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/japan-automakers-profits-to-stall-at-half-of-peak-level-on-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-17T09:38:31Z",
+      "publishedAt": "2026-05-17T10:34:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F9%2F2%2F5%2F12505297-2-eng-GB%2Ffc9f366de0e3-20260515N-Toyota-plant.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-9bd1c9cb7e1d",
+      "title": "Zelensky, 'i nostri attacchi giustificati, Mosca metta fine alla guerra'",
+      "description": "Rivendica gli attacchi contro la Russia",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/17/zelensky-i-nostri-attacchi-giustificati-mosca-metta-fine-alla-guerra_2c28e6bd-e3f8-446d-b5e2-b13e83c98e53.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-17T10:16:38Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/b6c3210fffe2a7b05746072aa7f0404b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -27,21 +42,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-05-17T08:45:55Z",
       "image": "https://img.lemde.fr/2026/05/14/500/0/6000/3000/644/322/60/0/0353f34_ftp-1-r08u7k6daw4o-2026-05-14t182854z-1626027415-rc2vieaughww-rtrmadp-3-ukraine-crisis-defence-tech.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-c6718b2e0150",
-      "title": "Middle East: Israel attacks south Lebanon day after ceasefire extension",
-      "description": "Israel launched a massive series of airstrikes on southern Lebanon on Saturday, despite an extension of the truce between the two countries.",
-      "url": "https://www.france24.com/en/middle-east-israel-attacks-south-lebanon-day-after-ceasefire-extension",
-      "source": "France24",
-      "publishedAt": "2026-05-17T08:45:10Z",
-      "image": "https://s.france24.com/media/display/379dc39e-51ca-11f1-9464-005056a90284/w:1024/p:16x9/EN-20260517-080940-081117-CS.jpg",
       "categories": [
         "conflict"
       ],
@@ -65,13 +65,28 @@
       "tags": []
     },
     {
+      "id": "fra-2e1302e0081e",
+      "title": "Middle East war live: Israel strikes Lebanon despite ceasefire, Hezbollah slams ‘dead end’ talks",
+      "description": "Israeli strikes targeted eastern and southern Lebanon on Sunday, state media reported, despite a fragile ceasefire, as a Hezbollah lawmaker called Lebanon's negotiations with Israel a \"dead end\". Follow our liveblog for all the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260517-middle-east-live-uss-ford-returns-from-iran-war-after-longest-deployment-since-vietnam",
+      "source": "France24",
+      "publishedAt": "2026-05-17T05:39:01Z",
+      "image": "https://s.france24.com/media/display/b374aee8-51d3-11f1-84a6-005056a90284/w:1024/p:16x9/000-B33L2H8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "tim-3a85fa27ea72",
-      "title": "IDF says Hezbollah fired rockets, explosive drones at troops in south Lebanon; no injuries",
-      "description": "Report: ICC issued 5 new arrest warrants against Israeli officials * Settlers set fire to vehicle, spray graffiti in Palestinian West Bank village – reports The post IDF says Hezbollah fired rockets, explosive drones at troops in south Lebanon; no injuries appeared first on The Times of Israel.",
+      "title": "Haredi factions say PM’s office offered to rush draft exemption bill; top rabbi: ‘No political games’",
+      "description": "Report: ICC issued 5 new arrest warrants against Israeli officials * Spate of settler attacks on Palestinian villages * IDF says Hezbollah fired rockets, explosive drones at troops in south Lebanon; no injuries The post Haredi factions say PM&#8217;s office offered to rush draft exemption bill; top rabbi: &#8216;No pol…",
       "url": "https://www.timesofisrael.com/liveblog-may-17-2026/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-17T01:35:34Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260511AMA10-1024x640.jpg",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2025/06/F221228OF181-1-e1749017494435-1024x640.jpg",
       "categories": [
         "conflict",
         "humanitarian"
@@ -107,21 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-453506094f3f",
-      "title": "Da Maduro all'Iran, la portaerei Ford torna negli Usa dopo quasi un anno",
-      "description": "E' il più lungo dispiegamento operativo dalla guerra in Vietnam",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/16/da-maduro-alliran-la-portaerei-ford-torna-negli-usa-dopo-quasi-un-anno_af45fff6-e487-43a4-874e-a4790186ca03.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-16T12:42:54Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/627753751170821f92373bc2741367b5.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

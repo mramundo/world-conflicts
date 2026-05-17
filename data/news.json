@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T16:25:00Z",
+  "updated": "2026-05-17T17:26:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/immigration/chinese-refugees-increasingly-see-serbia-as-haven-and-gateway-to-eu",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-17T16:24:56Z",
+      "publishedAt": "2026-05-17T17:25:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F6%2F9%2F12499662-1-eng-GB%2Fee3beacb91b0-2022-12-15T133414Z_1578827980_RC2B6Y9QYN1L_RTRMADP_3_EUROPE-MIGRANTS-HUNGARY-SERBIA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-9bd1c9cb7e1d",
+      "title": "Zelensky, 'i nostri attacchi giustificati, Mosca metta fine alla guerra'",
+      "description": "Rivendica gli attacchi contro la Russia",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/17/zelensky-i-nostri-attacchi-giustificati-mosca-metta-fine-alla-guerra_2c28e6bd-e3f8-446d-b5e2-b13e83c98e53.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-17T16:26:10Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/b6c3210fffe2a7b05746072aa7f0404b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,36 +65,6 @@
       "tags": []
     },
     {
-      "id": "ans-f25b8243d06b",
-      "title": "Ghalibaf, l'uccisione del leader di Hamas è ulteriore violazione della tregua",
-      "description": "Lo riferisce l'agenzia di stampa Irna",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/17/ghalibaf-luccisione-del-leader-di-hamas-e-ulteriore-violazione-della-tregua_26725faf-d9ef-43b7-b1e0-1ddad528185d.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-17T13:41:23Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/8e5def85f8ac57991eba573484e0ac4b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -dc75c61eb9a5",
-      "title": "Fire broke out after drone strike near UAE's Barakah nuclear plant",
-      "description": "The bombing did not result in any injuries or cause a rise in radiation levels, according to the Abu Dhabi local government's media office.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/17/fire-broke-out-after-drone-strike-near-uae-s-barakah-nuclear-power-plant_6753536_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-17T11:42:30Z",
-      "image": "https://img.lemde.fr/2026/05/17/442/0/5299/2649/644/322/60/0/a506c5b_ftp-1-ttrwmtwevbp1-5059246-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -3565aca8ee1e",
       "title": "The strike that changed the geometry of war",
       "description": "Israel&#039;s attacks on Doha and Tehran demonstrate a new capability that may make warfare more unpredictable.",
@@ -93,6 +78,21 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -ea0f9fa2e930",
+      "title": "Large-scale Ukraine drone strike kills at least 4 in Russia",
+      "description": "Russia's Defense Ministry reported that its air defenses shot down 556 drones overnight, resulting in casualties in the Moscow and Belgorod regions.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/17/large-scale-ukraine-drone-strike-kills-at-least-4-in-russia_6753532_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-17T08:45:51Z",
+      "image": "https://img.lemde.fr/2026/05/14/500/0/6000/3000/644/322/60/0/0353f34_ftp-1-r08u7k6daw4o-2026-05-14t182854z-1626027415-rc2vieaughww-rtrmadp-3-ukraine-crisis-defence-tech.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -156,6 +156,21 @@
       "tags": []
     },
     {
+      "id": "kyi-979210b5b460",
+      "title": "War in Middle East: Latest Developments",
+      "description": "Despite a US-mediated 45-day extension of the Israel-Lebanon ceasefire, immediate violations occurred as Israeli airstrikes hit Tyre and other southern villages, killing three paramedics and forcing civilian evacuations. While the IDF reported killing 220 Hezbollah militants over the past week, Lebanese Prime Minister …",
+      "url": "https://www.kyivpost.com/post/76275",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-16T10:06:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/16/2069b1afc26109f9df657ab762d4c144.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-1a6d6d04179c",
       "title": "China, US, Israel compete in fast-growing laser weapons race",
       "description": "More Gulf states are turning to laser weapons to combat drones in the Iran war. Israel even loaned the UAE theirs. But do they actually work?",
@@ -215,21 +230,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-1cc1290cb60d",
-      "title": "Inept Russian Generals Have Just Blown the War",
-      "description": "In this video, former Navy SEAL squadron leader Chuck Pfarrer joins Jason Jay Smart to examine Russia’s worsening military crisis in Crimea as relentless Ukrainian strikes cripple logistics and supply routes. With heavy troop losses, failing air defenses, and aging equipment, Russian forces are struggling to sustain op…",
-      "url": "https://www.kyivpost.com/videos/76157",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-14T17:00:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/14/ab20f8862d67279e29657c284fb2d183.png?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
       "tags": []
     }
   ]

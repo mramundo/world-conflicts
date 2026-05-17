@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T20:21:26Z",
+  "updated": "2026-05-17T21:22:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/immigration/chinese-refugees-increasingly-see-serbia-as-haven-and-gateway-to-eu",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-17T20:21:23Z",
+      "publishedAt": "2026-05-17T21:22:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F6%2F9%2F12499662-1-eng-GB%2Fee3beacb91b0-2022-12-15T133414Z_1578827980_RC2B6Y9QYN1L_RTRMADP_3_EUROPE-MIGRANTS-HUNGARY-SERBIA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,9 +20,24 @@
       "tags": []
     },
     {
+      "id": "fra-e4fe9c135f56",
+      "title": "Drone strike sparks a fire on the edge of UAE nuclear facility",
+      "description": "A drone strike sparked a fire near the United Arab Emirates’s Barakah nuclear power plant on Sunday, authorities said, in an attack Abu Dhabi condemned as a threat to regional security. The strike highlighted the possibility of renewed war amid a fragile ceasefire between the United States and Iran.",
+      "url": "https://www.france24.com/en/middle-east/20260517-drone-strike-sparks-a-fire-on-the-edge-of-uae-nuclear-facility",
+      "source": "France24",
+      "publishedAt": "2026-05-17T20:46:52Z",
+      "image": "https://s.france24.com/media/display/38637d0a-522e-11f1-b1dc-005056bfb2b6/w:1024/p:16x9/000-B33V9G3.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-83ea36fc5e99",
       "title": "UAE blames Iran or its proxies for drone strike fire near nuclear plant",
-      "description": "Abu Dhabi denounces ‘dangerous escalation’ as Iran war ceasefire grows more precariousThe United Arab Emirates has blamed a fire near its nuclear power plant on a drone launched by Iran or one of its proxies in what the UAE called a “dangerous escalation”.The fire was just outside the Barakah nuclear plant and caused n…",
+      "description": "Abu Dhabi denounces ‘dangerous escalation’ as Iran war ceasefire grows more precarious The United Arab Emirates has blamed a fire near its nuclear power plant on a drone launched by Iran or one of its proxies in what the UAE called a “dangerous escalation”.The fire was just outside the Barakah nuclear plant and caused …",
       "url": "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
       "source": "The Guardian",
       "publishedAt": "2026-05-17T19:33:31Z",
@@ -50,32 +65,17 @@
       "tags": []
     },
     {
-      "id": "fra-7da065d47e84",
-      "title": "Most of the architects of October 7 attacks have been killed, says Netanyahu",
-      "description": "Prime Minister Benjamin Netanyahu said Sunday that Israel is close to finishing a key war aim in Gaza: killing the planners of the October 7 attacks. The comments came after Israel said it had killed senior Hamas commander Ezzedine Al-Haddad in an airstrike, as its campaign against the group’s leadership continues.",
-      "url": "https://www.france24.com/en/middle-east/20260517-most-of-the-architects-of-october-7-attacks-have-been-killed-says-netanyahu",
-      "source": "France24",
-      "publishedAt": "2026-05-17T15:13:31Z",
-      "image": "https://s.france24.com/media/display/8c1e72d0-51ff-11f1-adac-005056a90284/w:1024/p:16x9/2026-05-11T004852Z-1182016822-RC2MTKAAGNAB-RTRMADP-3-USA-ISRAEL-NETANYAHU.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-ed5b197ba161",
-      "title": "‘Now 60%’: Netanyahu admits Israel taking more territory in Gaza, despite ceasefire",
-      "description": "PM confirms to cabinet the IDF is pushing past the Yellow Line demarcating the 53% of Gaza that Israel retained under US-brokered truce; IDF strikes in Strip said to kill 4 The post &#8216;Now 60%&#8217;: Netanyahu admits Israel taking more territory in Gaza, despite ceasefire appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/now-60-netanyahu-admits-israel-taking-more-territory-in-gaza-despite-ceasefire/",
+      "id": "tim-4421475d54a7",
+      "title": "4 IDF troops wounded, one severely, by roadside bomb in south Lebanon",
+      "description": "Amid growing public anger over Hezbollah drone toll, Netanyahu claims he warned of the danger six years ago, but doesn't say why it wasn't addressed The post 4 IDF troops wounded, one severely, by roadside bomb in south Lebanon appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/4-idf-troops-wounded-one-severely-by-roadside-bomb-in-south-lebanon/",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-17T14:25:58Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260506__B22Q3UK__v4__HighRes__PalestinianIsraelConflictGaza-1024x640.jpg",
+      "publishedAt": "2026-05-17T15:06:17Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260517__B3493WT__v1__HighRes__LebanonIsraelIranUsWarHezbollah-e1779027851859-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

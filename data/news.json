@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T07:34:12Z",
+  "updated": "2026-05-18T09:20:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/immigration/chinese-refugees-increasingly-see-serbia-as-haven-and-gateway-to-eu",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-18T07:34:08Z",
+      "publishedAt": "2026-05-18T09:20:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F6%2F9%2F12499662-1-eng-GB%2Fee3beacb91b0-2022-12-15T133414Z_1578827980_RC2B6Y9QYN1L_RTRMADP_3_EUROPE-MIGRANTS-HUNGARY-SERBIA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,63 @@
       "tags": []
     },
     {
-      "id": "npr-68f9692ec6a2",
-      "title": "Drone strikes UAE nuclear plant highlighting risk of renewed war",
-      "description": "A drone strike sparked a fire on the edge of the United Arab Emirates' sole nuclear power plant on Sunday in what authorities called an \"unprovoked terrorist attack.\"",
-      "url": "https://www.npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant",
-      "source": "NPR World",
-      "publishedAt": "2026-05-18T05:37:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1334+0+0/resize/2000x1334!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Fab%2F4fd534e04be09a581abfdfe125bd%2Fap26137398226896.jpg",
+      "id": "the-34f766d9b4b6",
+      "title": "Europe should pick negotiator for possible Russian talks, says Zelenskyy – Europe live",
+      "description": "Ukrainian president says Europe must ‘have a strong voice and presence’ amid search for candidate who could lead any talks with PutinMeanwhile, Estonia’s spy chief Kaupo Rosin told Reuters that Russian president Vladimir Putin has few good options in Ukraine with his armed forces unable to advance significantly on the …",
+      "url": "https://www.theguardian.com/world/live/2026/may/18/europe-eu-ukraine-russia-greenland-bulgaria-germany-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-18T09:10:30Z",
+      "image": "https://i.guim.co.uk/img/media/5f111c4c36be3f9f2fb54a07b0d636e2ecb7fd6f/80_0_869_695/master/869.jpg?width=140&quality=85&auto=format&fit=max&s=c59c191049ccd8e1084696965e7366b1",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-7f88896c261d",
+      "title": "Ukraine launches large-scale drone strikes on Russia",
+      "description": "As peace talks stall, Ukraine launches one of the biggest drone strikes against Russia since the beginning of Russia's full-scale invasion in an attempt to weaken Russia's war machine.",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5824988/ukraine-launches-large-scale-drone-strikes-on-russia",
+      "source": "NPR World",
+      "publishedAt": "2026-05-18T08:47:12Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5824988",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -7637a6b2ad9b",
+      "title": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
+      "description": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended &#039;ceasefire&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-18T07:24:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0a1c1a3f65-1779047450.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -ddf3fa961a7e",
+      "title": "Lebanon says Israeli strikes kill seven as Hezbollah condemns talks as a 'dead end'",
+      "description": "Despite the ceasefire, Israel continues to strike widely in southern Lebanon and issues frequent evacuation warnings to towns and villages across the south.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/18/lebanon-says-israeli-strikes-kill-seven-as-hezbollah-condemns-talks-as-a-dead-end_6753547_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-18T00:30:02Z",
+      "image": "https://img.lemde.fr/2026/05/17/491/0/2944/1472/644/322/60/0/f3a1b15_ftp-1-9a4pts65yem0-5061948-01-06.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -56,7 +102,7 @@
       "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-05-17T23:02:15Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84a2/live/6e06efa0-4af4-11f1-9c75-d37955007435.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3416/live/ebb6e600-528b-11f1-8b8c-6d33e1d5abb6.jpg",
       "categories": [
         "conflict"
       ],
@@ -80,21 +126,6 @@
       "tags": []
     },
     {
-      "id": "al -14e7e024f181",
-      "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
-      "description": "Israel bombed a kitchen that provided meals to the displaced in Gaza, killing three and injuring others.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-17T19:15:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779045264.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-9bd1c9cb7e1d",
       "title": "Zelensky, 'i nostri attacchi giustificati, Mosca metta fine alla guerra'",
       "description": "Rivendica gli attacchi contro la Russia",
@@ -106,36 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -ea0f9fa2e930",
-      "title": "Large-scale Ukraine drone strike kills at least four in Russia",
-      "description": "The Russian Defense Ministry reported that its air defenses shot down 556 drones overnight, resulting in casualties in the Moscow and Belgorod regions.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/17/large-scale-ukraine-drone-strike-kills-at-least-4-in-russia_6753532_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-17T08:45:51Z",
-      "image": "https://img.lemde.fr/2026/05/14/643/0/6000/3000/644/322/60/0/0353f34_ftp-1-r08u7k6daw4o-2026-05-14t182854z-1626027415-rc2vieaughww-rtrmadp-3-ukraine-crisis-defence-tech.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-229af54de99a",
-      "title": "Israeli strikes kill six in southern Lebanon hours after extension of ceasefire",
-      "description": "Three paramedics at health centre among dead, while Hamas military chief Izz al-Din al-Haddad killed in Gaza strikeIsrael carried out airstrikes in southern Lebanon, killing at least six people, including three paramedics working at a health centre, just hours after its envoys had agreed with the Lebanese government to…",
-      "url": "https://www.theguardian.com/world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-17T01:09:47Z",
-      "image": "https://i.guim.co.uk/img/media/054eff53d9d886e6e107709654eeef24cfbc727b/736_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=d92f30f5a7f7164ca47c2a4a680e5435",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

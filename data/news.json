@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T05:29:13Z",
+  "updated": "2026-05-18T07:34:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/immigration/chinese-refugees-increasingly-see-serbia-as-haven-and-gateway-to-eu",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-18T05:29:09Z",
+      "publishedAt": "2026-05-18T07:34:08Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F6%2F9%2F12499662-1-eng-GB%2Fee3beacb91b0-2022-12-15T133414Z_1578827980_RC2B6Y9QYN1L_RTRMADP_3_EUROPE-MIGRANTS-HUNGARY-SERBIA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,28 @@
       "tags": []
     },
     {
-      "id": "tim-4ea102f3f9bb",
-      "title": "Settler activists illegally cross into Syria; IDF returns them, hands them to police",
-      "description": "Amid signs war may renew, Trump publishes Middle East map with arrows pointing at Iran * Lebanon state media says Israeli strike in Baalbek killed Islamic Jihad commander The post Settler activists illegally cross into Syria; IDF returns them, hands them to police appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/liveblog-may-18-2026/",
+      "id": "npr-68f9692ec6a2",
+      "title": "Drone strikes UAE nuclear plant highlighting risk of renewed war",
+      "description": "A drone strike sparked a fire on the edge of the United Arab Emirates' sole nuclear power plant on Sunday in what authorities called an \"unprovoked terrorist attack.\"",
+      "url": "https://www.npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant",
+      "source": "NPR World",
+      "publishedAt": "2026-05-18T05:37:00Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1334+0+0/resize/2000x1334!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Fab%2F4fd534e04be09a581abfdfe125bd%2Fap26137398226896.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-1555d2c12f29",
+      "title": "Drone strike hits Abu Dhabi nuclear plant; UAE, Saudi Arabia and UN watchdog condemn",
+      "description": "No injuries or radiological release reported as attack sets generator on fire; UAE, hit hard by Iran, appears to blame strike on Tehran or its proxies; no one claims responsibility The post Drone strike hits Abu Dhabi nuclear plant; UAE, Saudi Arabia and UN watchdog condemn appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/drone-strike-hits-abu-dhabi-nuclear-plant-uae-saudi-arabia-and-un-watchdog-condemn/",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-18T01:28:58Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/Untitled-4-1024x640.jpg",
+      "publishedAt": "2026-05-18T00:20:55Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26137398226896-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -121,21 +136,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-868d4cde819f",
-      "title": "The war in Ukraine is at a standstill as societal fatigue grows in Russia",
-      "description": "With the peace process stalled, there are signs of growing public fatigue in Russia with the Kremlin's war as Ukraine uses robotic warfare to stay in the fight.",
-      "url": "https://www.npr.org/2026/05/16/nx-s1-5822468/the-war-in-ukraine-is-at-a-standstill-as-societal-fatigue-grows-in-russia",
-      "source": "NPR World",
-      "publishedAt": "2026-05-16T11:43:41Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5822468",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

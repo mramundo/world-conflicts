@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T13:24:11Z",
+  "updated": "2026-05-18T15:10:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/immigration/chinese-refugees-increasingly-see-serbia-as-haven-and-gateway-to-eu",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-18T13:24:06Z",
+      "publishedAt": "2026-05-18T15:10:18Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F6%2F6%2F9%2F12499662-1-eng-GB%2Fee3beacb91b0-2022-12-15T133414Z_1578827980_RC2B6Y9QYN1L_RTRMADP_3_EUROPE-MIGRANTS-HUNGARY-SERBIA.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -25,13 +25,44 @@
       "description": "US president says there ‘won’t be anything left’ of country if it doesn’t come to an agreementUAE blames Iran or its proxies for drone strike fire near nuclear plantFriedrich Merz has been embroiled in a row with Donald Trump over his war on Iran ever since the German chancellor suggested the Trump team was being outpl…",
       "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-05-18T12:59:22Z",
+      "publishedAt": "2026-05-18T14:47:48Z",
       "image": "https://i.guim.co.uk/img/media/7fd55803ddea3e722fb27b8671e91314522e1711/118_0_5845_4676/master/5845.jpg?width=140&quality=85&auto=format&fit=max&s=f37e25d2f64761154f78897c68762f95",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-3dbe6cd93167",
+      "title": "Media, 'Teheran apre a stop lungo del programma nucleare, uranio in Russia'",
+      "description": "Al Arabiya: 'Richiesta tregua duratura, apertura graduale di Hormuz'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/18/media-teheran-apre-a-stop-lungo-del-programma-nucleare-uranio-in-russia_27571b24-d71d-4196-855e-e7925f342007.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-18T14:23:16Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/18/a04478103ac5954f13c5be8db3b720ec.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-763ceca04992",
+      "title": "Drone Wall and NATO, Ceasefire Ends in Explosions, and Whither Crimea",
+      "description": "The three-day ceasefire ended, both sides resumed killing each other, and Ukraine’s drone forces had arguably their most destructive 72 hours of the war – hitting refineries, naval vessels, and air defenses deep inside Russia. Behind the headlines, a clearer picture is emerging: Ukrainian medium-range drones are system…",
+      "url": "https://www.kyivpost.com/opinion/76377",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-18T13:43:38Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/18/d70fba7fee61f540f39572ebcbcbb12f.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -127,21 +158,6 @@
       "tags": []
     },
     {
-      "id": "ans-f25b8243d06b",
-      "title": "Ghalibaf, l'uccisione del leader di Hamas è ulteriore violazione della tregua",
-      "description": "Lo riferisce l'agenzia di stampa Irna",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/17/ghalibaf-luccisione-del-leader-di-hamas-e-ulteriore-violazione-della-tregua_26725faf-d9ef-43b7-b1e0-1ddad528185d.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-17T16:24:34Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/8e5def85f8ac57991eba573484e0ac4b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -21533ddfd335",
       "title": "Cannes: Exiled Russian filmmaker Andrey Zvyagintsev's 'Minotaur' delivers anti-war message through intimate lens",
       "description": "The 62-year-old filmmaker, now living in France, chose the conflict between his country and Ukraine as the backdrop for his latest film. He depicts the consequences of the war, which he openly condemns, within the realm of married life. Despite his open hatred of Putin's regime, his mere presence at Cannes could draw c…",
@@ -170,21 +186,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-979210b5b460",
-      "title": "War in Middle East: Latest Developments",
-      "description": "Despite a US-mediated 45-day extension of the Israel-Lebanon ceasefire, immediate violations occurred as Israeli airstrikes hit Tyre and other southern villages, killing three paramedics and forcing civilian evacuations. While the IDF reported killing 220 Hezbollah militants over the past week, Lebanese Prime Minister …",
-      "url": "https://www.kyivpost.com/post/76275",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-16T10:06:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/16/2069b1afc26109f9df657ab762d4c144.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T22:25:26Z",
+  "updated": "2026-05-18T23:28:02Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-kicks-into-high-gear-steering-iran-war-oil-shock-response",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-18T22:25:22Z",
+      "publishedAt": "2026-05-18T23:27:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F3%2F3%2F12513319-1-eng-GB%2F29335bb5086c-photo_SXM2026050800006751.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,9 +20,24 @@
       "tags": []
     },
     {
+      "id": "fra-6c476596b267",
+      "title": "Three killed in attack at San Diego Islamic centre in suspected hate crime",
+      "description": "Two teenage gunmen opened fire at an Islamic centre in San Diego on Monday, killing three men before taking their own lives nearby, police said. Authorities are investigating the attack as a hate crime, with officials saying a mosque security guard likely prevented further casualties.",
+      "url": "https://www.france24.com/en/americas/20260518-three-killed-in-attack-at-san-diego-islamic-centre-in-suspected-hate-crime",
+      "source": "France24",
+      "publishedAt": "2026-05-18T23:08:30Z",
+      "image": "https://s.france24.com/media/display/0a44abe0-5302-11f1-b7ed-005056a97e36/w:1024/p:16x9/2026-05-18T210639Z-1058901497-RC2WBLARREE7-RTRMADP-3-CALIFORNIA-SHOOTING.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -99a33bb8a336",
-      "title": "Three killed at San Diego mosque and both suspects are dead, police say",
-      "description": "A mosque security guard was among the dead in what is being described as a hate crime at the Islamic Center of San Diego, San Diego Police Chief Scott Wahl said at a news conference. The two suspected gunmen, reportedly teenagers, took their own lives in a vehicle near the center, police added.",
+      "title": "Three killed in San Diego mosque shooting, two attackers are dead",
+      "description": "Police said emergency response teams found the victims outside the sprawling Islamic Center of San Diego, before later finding a vehicle in the middle of the street with the shooters, aged 19 and 17, dead inside.",
       "url": "https://www.lemonde.fr/en/international/article/2026/05/18/three-killed-at-san-diego-mosque-two-suspects-shot-themselves-nearby-police-say_6753580_4.html",
       "source": "Le Monde (EN)",
       "publishedAt": "2026-05-18T21:40:57Z",
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-ac3410d41090",
-      "title": "Iran announces new body to manage Strait of Hormuz as peace talks stall",
-      "description": "Iran announced a new body to oversee the Strait of Hormuz on Monday, signalling tighter control over the strategic waterway after months of disruption linked to its war with the United States and Israel. Tehran says the authority will manage maritime traffic and provide updates as tolls and restrictions reshape global …",
-      "url": "https://www.france24.com/en/middle-east/20260518-iran-announces-new-body-to-manage-strait-of-hormuz-as-peace-talks-stall",
-      "source": "France24",
-      "publishedAt": "2026-05-18T21:37:33Z",
-      "image": "https://s.france24.com/media/display/bf99101a-52b4-11f1-be72-005056bf30b7/w:1024/p:16x9/2026-05-15T084554Z-789227049-RC2M5KAY9U7E-RTRMADP-3-INDIA-ECONOMY-TRADE.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,8 +66,8 @@
     },
     {
       "id": "the-817f26bed15a",
-      "title": "Iran makes new proposal for deal to end war, regional officials say",
-      "description": "Donald Trump says plans for a US military attack on Iran have been paused because ‘serious negotiations are now taking place’ Middle East crisis – live updatesIran has made a new proposal for a deal to definitively end the war in the Middle East, officials in the region said on Monday, with Donald Trump claiming he had…",
+      "title": "Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war",
+      "description": "The US president says plans for a US military strike on Iran have been paused because ‘serious negotiations are now taking place’Middle East crisis – live updatesIran has made a new proposal for a deal to definitively end the war in the Middle East, officials in the region said on Monday, with Donald Trump claiming he …",
       "url": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
       "source": "The Guardian",
       "publishedAt": "2026-05-18T21:07:58Z",

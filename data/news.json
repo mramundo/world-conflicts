@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T05:27:20Z",
+  "updated": "2026-05-19T07:22:52Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-kicks-into-high-gear-steering-iran-war-oil-shock-response",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-19T05:27:17Z",
+      "publishedAt": "2026-05-19T07:22:47Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F3%2F3%2F12513319-1-eng-GB%2F29335bb5086c-photo_SXM2026050800006751.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-34be425d390f",
+      "title": "Russia to conduct three-day nuclear drills on May 19-21",
+      "description": "Russia's armed forces will carry out exercises of its nuclear forces from May 19 to 21, the defence ministry said on Tuesday. The drills will include more than 65,000 troops and 7,800 types of equipment and weapons, the ministry said.",
+      "url": "https://www.france24.com/en/europe/20260519-russia-to-conduct-three-day-nuclear-drills-on-may-19-21",
+      "source": "France24",
+      "publishedAt": "2026-05-19T06:24:35Z",
+      "image": "https://s.france24.com/media/display/1675b3ae-534e-11f1-ba6f-005056bfb2b6/w:1024/p:16x9/AP25331524961800.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -e025dfd680f0",
+      "title": "As Israeli legislative elections approach, the opposition focuses on rejecting Netanyahu rather than the peace process",
+      "description": "Even as the current prime minister's coalition appears to be in deep trouble, most of his rivals have not dared to break with his nationalist rhetoric, and seem trapped in a conceptual dead end when it comes to coexistence with Palestinians – whether Israeli citizens, residents of Gaza, or the West Bank.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/05/19/as-israeli-legislative-elections-approach-the-opposition-focuses-on-rejecting-netanyahu-rather-than-the-peace-process_6753588_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-19T06:00:04Z",
+      "image": "https://img.lemde.fr/2026/04/26/218/0/8640/4320/644/322/60/0/021f971_ftp-1-f4eze22eknjo-57def9c6cecd444da858dd8ae5203a21-0-e6d208d156134001ba8a37d40a70732f.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -47,36 +78,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-744b581d5d7d",
-      "title": "Middle East war live: Trump says 'very good chance' of reaching a deal with Iran",
-      "description": "US President Donald Trump said there was a “very good chance” of reaching an agreement to limit Iran’s nuclear programme after he paused a planned military attack on Iran on Monday while warning the US remained ready to launch a large-scale assault if talks fail. Follow our liveblog for the latest developments.",
-      "url": "https://www.france24.com/en/middle-east/20260519-middle-east-war-live-trump-says-very-good-chance-of-reaching-a-deal-with-iran",
-      "source": "France24",
-      "publishedAt": "2026-05-19T03:24:15Z",
-      "image": "https://s.france24.com/media/display/af07271c-5329-11f1-bea6-005056a97e36/w:1024/p:16x9/AP26138795232085.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -99a33bb8a336",
-      "title": "Three killed in San Diego mosque shooting, two attackers are dead",
-      "description": "Police said emergency response teams found the victims outside the Islamic Center of San Diego, before later finding a vehicle in the middle of the street with the shooters, aged 18 and 17, dead inside.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/18/three-killed-at-san-diego-mosque-two-suspects-shot-themselves-nearby-police-say_6753580_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-18T21:40:57Z",
-      "image": "https://img.lemde.fr/2026/05/18/347/0/3000/1500/644/322/60/0/f2c18a6_ftp-1-a2ab31bj0srr-5074484-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

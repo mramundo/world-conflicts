@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T15:11:19Z",
+  "updated": "2026-05-19T17:04:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/agriculture/asia-s-agri-tech-startups-offer-answers-to-iran-war-supply-chain-crunch",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-19T15:11:14Z",
+      "publishedAt": "2026-05-19T17:04:21Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F7%2F1%2F12511771-1-eng-GB%2F5ef598405ac0-photo_SXM2026050700011522.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1639ca336231",
+      "title": "At least one killed, 21 wounded in car bomb explosion in Syria’s Damascus",
+      "description": "Blast occurs near Defence Ministry building in Bab Sharqi district of the capital.",
+      "url": "https://www.aljazeera.com/news/2026/5/19/at-least-one-killed-21-wounded-in-car-bomb-explosion-in-syrias-damascus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-19T15:36:47Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0c77da0641-1779202010.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -94,22 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7eb5a5203e3f",
-      "title": "Israeli far-right minister Smotrich says ICC seeks his arrest",
-      "description": "Smotrich is the third Israeli official targeted by the ICC, after Netanyahu and Gallant, for war crimes in Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-19T12:26:06Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_6989d7913b305-1770641297-1776239722.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

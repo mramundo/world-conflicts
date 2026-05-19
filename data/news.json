@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T07:22:52Z",
+  "updated": "2026-05-19T09:18:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-kicks-into-high-gear-steering-iran-war-oil-shock-response",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-19T07:22:47Z",
+      "publishedAt": "2026-05-19T09:18:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F3%2F3%2F12513319-1-eng-GB%2F29335bb5086c-photo_SXM2026050800006751.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ef3357135efd",
+      "title": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+      "description": "US president says he held off a scheduled attack on Iran after pressure from Gulf allies as renewed talks gain momentum.",
+      "url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-19T07:26:51Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26137607638330-1779172070.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,7 +51,7 @@
     },
     {
       "id": "le -e025dfd680f0",
-      "title": "As Israeli legislative elections approach, the opposition focuses on rejecting Netanyahu rather than the peace process",
+      "title": "As Israeli elections approach, the opposition focuses on rejecting Netanyahu rather than defining peace",
       "description": "Even as the current prime minister's coalition appears to be in deep trouble, most of his rivals have not dared to break with his nationalist rhetoric, and seem trapped in a conceptual dead end when it comes to coexistence with Palestinians – whether Israeli citizens, residents of Gaza, or the West Bank.",
       "url": "https://www.lemonde.fr/en/opinion/article/2026/05/19/as-israeli-legislative-elections-approach-the-opposition-focuses-on-rejecting-netanyahu-rather-than-the-peace-process_6753588_23.html",
       "source": "Le Monde (EN)",
@@ -48,21 +63,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -208fd73648de",
-      "title": "Bolivian miners clash with police demanding president resign",
-      "description": "Bolivian miners clash with police demanding that President Paz resign.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/bolivian-miners-clash-with-police-demanding-president-resign?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-19T04:58:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-7.56.33-AM-1779166627.png?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -82,6 +82,21 @@
       "tags": []
     },
     {
+      "id": "tim-87d5ac63a221",
+      "title": "Gaza flotilla organizers say 10 ships still sailing toward Strip after 41 intercepted",
+      "description": "Iran’s latest proposal maintains demand to end war in Lebanon, push US troops from region, says deputy FM * Netanyahu’s testimony in court cut short again due to security meetings The post Gaza flotilla organizers say 10 ships still sailing toward Strip after 41 intercepted appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/liveblog-may-19-2026/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-19T02:15:52Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/0858c035-3f13-41f3-9195-4be4b9a3c69a-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -58c75041a567",
       "title": "Tested by Iran war, Qatar is still faithful to its core mission: Mediation",
       "description": "Before the war, Qatar had built itself into a diplomatic power by mediating disputes near and far. Hit hard by Iran, the tiny Persian Gulf country is not wavering in that mission, seen as central to its identity. Still, it recognizes it has security needs, too.",
@@ -94,21 +109,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-06b9b15150a0",
-      "title": "Lebanon’s death toll tops 3,000 in fighting between Israel and Hezbollah",
-      "description": "Figures don't identify combatants, and list 292 women and 211 children among casualties; IDF kills senior Islamic Jihad commander; Lebanese president defends talks with Israel The post Lebanon&#8217;s death toll tops 3,000 in fighting between Israel and Hezbollah appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/lebanons-death-toll-tops-3000-in-fighting-between-israel-and-hezbollah/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-18T18:40:32Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260518__B36H9T3__v1__HighRes__LebanonIsraelUsIranWar-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -156,6 +156,21 @@
         "humanitarian"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-76a1393074fd",
+      "title": "North Korea's new constitution deepens split with Seoul",
+      "description": "Pyongyang's updated charter has dropped mentions of reunification with South Korea. Experts say the changes boost Kim Jong Un as a nuclear authority — and could fuel future border clashes.",
+      "url": "https://www.dw.com/en/north-korea-s-new-constitution-deepens-split-with-seoul/a-77195733?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-18T11:21:00Z",
+      "image": "https://static.dw.com/image/76581282_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -218,21 +233,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-1a6d6d04179c",
-      "title": "China, US, Israel compete in fast-growing laser weapons race",
-      "description": "More Gulf states are turning to laser weapons to combat drones in the Iran war. Israel even loaned the UAE theirs. But do they actually work?",
-      "url": "https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-16T09:13:00Z",
-      "image": "https://static.dw.com/image/77175525_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     }
   ]

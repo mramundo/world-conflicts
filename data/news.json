@@ -1,21 +1,84 @@
 {
-  "updated": "2026-05-19T13:16:10Z",
+  "updated": "2026-05-19T15:11:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-e9e6c6efbc3e",
-      "title": "Japan kicks into high gear steering Iran war oil shock response",
+      "id": "nik-5477a3c3ca36",
+      "title": "Asia's agri-tech startups offer answers to Iran war supply chain crunch",
       "description": "",
-      "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-kicks-into-high-gear-steering-iran-war-oil-shock-response",
+      "url": "https://asia.nikkei.com/business/agriculture/asia-s-agri-tech-startups-offer-answers-to-iran-war-supply-chain-crunch",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-19T13:16:07Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F3%2F3%2F12513319-1-eng-GB%2F29335bb5086c-photo_SXM2026050800006751.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-05-19T15:11:14Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F7%2F1%2F12511771-1-eng-GB%2F5ef598405ac0-photo_SXM2026050700011522.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-867a1bc3abcb",
+      "title": "How dependent is Russia on its economic ties with China?",
+      "description": "Since the start of the invasion of Ukraine, Russia has been subject to Western sanctions. As a result, it has deepened its relationship with China, whether it is in terms of oil or dual-use technology, which help Russia lead its war in Ukraine. FRANCE 24's Angela Diffley looks at how dependent on its relationship with …",
+      "url": "https://www.france24.com/en/how-dependent-is-russia-on-its-economic-ties-with-china",
+      "source": "France24",
+      "publishedAt": "2026-05-19T14:35:57Z",
+      "image": "https://s.france24.com/media/display/a74b64b4-4a39-11f1-beaf-005056a97e36/w:1024/p:16x9/2026-05-07T112805Z-132520065-RC2B4LAFGZ7X-RTRMADP-3-RUSSIA-PUTIN.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-c784e2e9bbd3",
+      "title": "Iran war: Why is Trump blaming the Kurds?",
+      "description": "Donald Trump says Kurdish forces kept US weapons meant for Iranian protesters, allegations Kurdish leaders categorically deny. Experts tell DW the president is scapegoating them for his own policy failures.",
+      "url": "https://www.dw.com/en/iran-war-why-is-trump-blaming-the-kurds/a-77216394?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-19T14:10:00Z",
+      "image": "https://static.dw.com/image/76260931_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-19b8ba069cb2",
+      "title": "'We Were Supposed To Be Celebrating A Birthday': Kyiv Mourns Sisters Killed In Russian Strike",
+      "description": "Friends, classmates, and teachers gathered in Kyiv to say goodbye to sisters Vira and Lyubava Yakovleva, killed in a Russian strike on May 14. Vira was 17. Lyubava was 12. Their father had already been killed in the war in 2023.",
+      "url": "https://www.rferl.org/a/kyiv-mourns-2-sisters-killed-in-a-russian-strike/33760295.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-19T14:04:18Z",
+      "image": "https://gdb.rferl.org/1fbae9d3-2bd3-49a3-09f7-08de3c642a38_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-b99fd26c22a9",
+      "title": "Smotrich says ICC prosecutor has requested warrant for his arrest; orders demolition of West Bank hamlet",
+      "description": "Warrant may be sought for far-right leader's role in expanding settlements, which ICC could seek to prosecute as war crime. He calls the move a 'declaration of war,' instructs that Palestinian village east of Jerusalem be knocked down The post Smotrich says ICC prosecutor has requested warrant for his arrest; orders de…",
+      "url": "https://www.timesofisrael.com/smotrich-says-icc-has-issued-warrant-for-his-arrest-promptly-orders-demolition-of-west-bank-hamlet/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-19T13:26:40Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260519YS117-1024x640.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -45,51 +108,6 @@
       "categories": [
         "conflict",
         "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-5ae66b9a4488",
-      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
-      "description": "The first gathering of Sudeten Germans in Czechia since World War II is set to go ahead this weekend despite a political backlash that has exposed tensions over one of Central Europe's most painful historical legacies.",
-      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-19T11:02:00Z",
-      "image": "https://static.dw.com/image/77171363_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-b6cde90b732d",
-      "title": "Daily Briefing May 19: Trump frustrated as Iran talks stall, Gulf wary of renewed war",
-      "description": "US bureau chief Jacob Magid discusses details of Iran negotiations, an emboldened Hamas in Gaza and initial results from Fatah central committee elections The post Daily Briefing May 19: Trump frustrated as Iran talks stall, Gulf wary of renewed war appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/daily-briefing-may-19-trump-frustrated-as-iran-talks-stall-gulf-wary-of-renewed-war/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-19T10:25:56Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/DB-mockup-V3-23-e1779184370564-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-5756ceaa0b55",
-      "title": "Trump says holding off on strike on Iran at request of Gulf allies",
-      "description": "After issuing thinly veiled threats against Iran over the weekend, US President Trump appeared to strike a different tone on May 18. He described ongoing peace talks with Tehran as “very positive” and even claimed he had paused a planned US military strike.",
-      "url": "https://www.france24.com/en/trump-says-holding-off-on-strike-on-iran-at-request-of-gulf-allies",
-      "source": "France24",
-      "publishedAt": "2026-05-19T10:19:19Z",
-      "image": "https://s.france24.com/media/display/aa5110b6-536a-11f1-908d-005056a90284/w:1024/p:16x9/capture-19072819306a0c3695144b91-81560512.jpg",
-      "categories": [
-        "conflict"
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
@@ -217,22 +235,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-ba036a82cc48",
-      "title": "'The Strike Hit Right Above Us': A Night Under Russian Bombs In Dobropillya",
-      "description": "Russia is preparing to assault the city of Dobropillya, according to Ukraine’s military. Located a few kilometers from the front line, the city is burning and being destroyed by bombs, artillery, and drones. Despite daily shelling, some civilians flatly refuse to leave and remain in Dobropillya.",
-      "url": "https://www.rferl.org/a/a-night-under-russian-bombs-in-dobropillya/33757592.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-17T05:51:00Z",
-      "image": "https://gdb.rferl.org/e6b67da4-a32c-426b-0944-08de3c642a38_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
       "tags": []
     }
   ]

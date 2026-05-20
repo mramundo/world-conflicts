@@ -1,24 +1,9 @@
 {
-  "updated": "2026-05-20T21:38:05Z",
+  "updated": "2026-05-20T22:34:53Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
-    {
-      "id": "nik-5477a3c3ca36",
-      "title": "Asia's agri-tech startups offer answers to Iran war supply chain crunch",
-      "description": "",
-      "url": "https://asia.nikkei.com/business/agriculture/asia-s-agri-tech-startups-offer-answers-to-iran-war-supply-chain-crunch",
-      "source": "Nikkei Asia",
-      "publishedAt": "2026-05-20T21:38:02Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F7%2F1%2F12511771-1-eng-GB%2F5ef598405ac0-photo_SXM2026050700011522.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
     {
       "id": "tim-d55b74ca4a74",
       "title": "10 soldiers, including brigade commander, hurt in separate Hezbollah drone attacks",
@@ -62,6 +47,21 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-2ebb349c39c5",
+      "title": "'Very bad optics for Kremlin': Putin's China visit regarded as 'crisis & relations management trip'",
+      "description": "Delano D'Souza is pleased to welcome Dr. Una Aleksandra Bērziņa-Čerenkova, Latvian Institute of International Affairs. She argues that “whichever way you slice it, this is very bad optics for the Kremlin,” framing the visit less as a confident display of a strong, vibrant alliance and more as “a crisis and relations ma…",
+      "url": "https://www.france24.com/en/video/20260520-very-bad-optics-for-kremlin-putin-s-china-visit-regarded-as-crisis-relations-management-trip",
+      "source": "France24",
+      "publishedAt": "2026-05-20T16:31:28Z",
+      "image": "https://s.france24.com/media/display/52903e36-5461-11f1-8c25-005056a90284/w:1024/p:16x9/EN-20260520-130553-131046-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -139,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-5490187c8d41",
-      "title": "'Nothing is safe': Trade on route between Senegal and Mali grinds to a halt",
-      "description": "Without access to the sea, Mali relies on goods by road but the corridor that leads from Senegal’s Dakar to Mali’s capital Bamako has however become increasingly dangerous due to a blockade imposed by the Al-Qaeda affiliate JNIM since April 28th. As fighting continues between the militant group, the junta forces and th…",
-      "url": "https://www.france24.com/en/video/20260520-nothing-is-safe-trade-on-route-between-senegal-and-mali-grinds-to-a-halt",
-      "source": "France24",
-      "publishedAt": "2026-05-20T13:29:36Z",
-      "image": "https://s.france24.com/media/display/28ca674c-544e-11f1-a876-005056a97e36/w:1024/p:16x9/EN-20260519-225213-225423-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

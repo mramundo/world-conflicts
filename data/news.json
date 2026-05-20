@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-20T13:02:16Z",
+  "updated": "2026-05-20T15:09:21Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,8 +10,99 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/agriculture/asia-s-agri-tech-startups-offer-answers-to-iran-war-supply-chain-crunch",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-20T13:02:06Z",
+      "publishedAt": "2026-05-20T15:09:17Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F7%2F1%2F12511771-1-eng-GB%2F5ef598405ac0-photo_SXM2026050700011522.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-ea6c86c7ffdd",
+      "title": "On Springtime Battlefield In War's Fifth Year, Ukraine Claws Back Territory",
+      "description": "Four-plus years into Russia’s all-out invasion, Ukraine has battled Moscow’s forces to a standstill. In fact, by some accounts, Ukraine has even recaptured territory, offering Kyiv a glimmer of optimism after a grueling winter.",
+      "url": "https://www.rferl.org/a/ukraine-russia-war-battlefield-gains/33761066.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-20T14:37:47Z",
+      "image": "https://gdb.rferl.org/3c0c80ed-31cc-4503-de1f-08de3c914337_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-a0a3c8bf5060",
+      "title": "Who gets convicted in Nigeria's anti-corruption war?",
+      "description": "The recent conviction of ex-power minister Saleh Mamman has rekindled debate over who is held accountable in Nigeria.",
+      "url": "https://www.dw.com/en/who-gets-convicted-in-nigeria-s-anti-corruption-war/a-77229781?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-20T14:24:00Z",
+      "image": "https://static.dw.com/image/77233070_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -cb6996c3cf25",
+      "title": "Former Arafat adviser faces deportation from France",
+      "description": "Ramy Shaath, a former Palestinian Authority official, is under deportation proceedings due to several radical public positions he has taken since the start of Israel's ground offensive in Gaza, notably through the group he co-founded, Urgence Palestine.",
+      "url": "https://www.lemonde.fr/en/france/article/2026/05/20/former-arafat-adviser-faces-deportation-from-france_6753655_7.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-20T14:14:29Z",
+      "image": "https://img.lemde.fr/2026/05/15/1068/0/2873/1436/644/322/60/0/566b0a3_upload-1-trl0ljwgs0ow-maxnewsfrfive428384.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-6c9b6a3cbd8c",
+      "title": "Russia Drafting 5 War Expansion Scenarios in North, Plans 100,000-Troop Mobilization – Zelensky",
+      "description": "Russia is preparing 5 possible scenarios to expand its war into northern Ukraine and is planning to mobilize up to 100,000 additional troops, Zelensky said. He added Ukrainian intelligence is assessing potential offensive directions, particularly in the Chernihiv-Kyiv axis, and that Ukraine is preparing responses to ea…",
+      "url": "https://www.kyivpost.com/post/76533",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-20T13:42:00Z",
+      "image": "https://static.kyivpost.com/storage/2023/09/18/8cfa791e0d722fa706458fa557454422.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-5490187c8d41",
+      "title": "'Nothing is safe': Trade on route between Senegal and Mali grinds to a halt",
+      "description": "Without access to the sea, Mali relies on goods by road but the corridor that leads from Senegal’s Dakar to Mali’s capital Bamako has however become increasingly dangerous due to a blockade imposed by the Al-Qaeda affiliate JNIM since April 28th. As fighting continues between the militant group, the junta forces and th…",
+      "url": "https://www.france24.com/en/video/20260520-nothing-is-safe-trade-on-route-between-senegal-and-mali-grinds-to-a-halt",
+      "source": "France24",
+      "publishedAt": "2026-05-20T13:29:36Z",
+      "image": "https://s.france24.com/media/display/28ca674c-544e-11f1-a876-005056a97e36/w:1024/p:16x9/EN-20260519-225213-225423-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-08511e2e7a0d",
+      "title": "Docente iraniana, 'le grandi città si spopolano, migliaia i licenziati'",
+      "description": "'Silenziosa migrazione interna e tanti posti di lavoro spazzati dalla guerra'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/20/docente-iraniana-le-grandi-citta-si-spopolano-migliaia-i-licenziati_a312e1c0-e90d-4f26-8dcd-173dee11374e.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-20T13:27:43Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/20/3cfa8fde74533f9ce71fbccfc9e54108.jpg",
       "categories": [
         "conflict"
       ],
@@ -68,37 +159,6 @@
       "tags": []
     },
     {
-      "id": "ans-b20431ac5776",
-      "title": "Bbc, Gb allenta le sanzioni sul petrolio russo per l'aumento dei prezzi",
-      "description": "La deroga entrerà in vigore oggi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/20/bbc-gb-allenta-le-sanzioni-sul-petrolio-russo-per-laumento-dei-prezzi_d40adb9b-d817-4d04-9546-d9ae9c7d9d6c.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-20T08:44:09Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/935e0bdd25d5c9f5037aa04ff03a7cdb.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-afadb1f049fc",
-      "title": "Race to contain ebola outbreak in war-torn DRC where weak infrastructure hampers response",
-      "description": "Annette Young welcomes Julie Drouet, DRC Director for Action Against Hunger. She offers a sobering assessment of the early Ebola outbreak response in the Democratic Republic of Congo. Speaking from the frontline of a rapidly evolving health emergency, Drouet describes a humanitarian system racing against time in one of…",
-      "url": "https://www.france24.com/en/race-to-contain-ebola-outbreak-in-war-torn-drc-where-weak-infrastructure-hampers-response",
-      "source": "France24",
-      "publishedAt": "2026-05-20T08:41:03Z",
-      "image": "https://s.france24.com/media/display/a3c21170-53cc-11f1-a186-005056a97e36/w:1024/p:16x9/EN-20260519-150320-150855-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-164094cc7504",
       "title": "Bolivia's capital under siege as protests deepen crisis for President Paz",
       "description": "Bolivia's President Rodrigo Paz faces a deepening crisis as widespread protests and blockades leave the political capital under siege less than six months after he took office.",
@@ -145,37 +205,6 @@
       "tags": []
     },
     {
-      "id": "deu-c784e2e9bbd3",
-      "title": "Iran war: Why is Trump blaming the Kurds?",
-      "description": "Donald Trump says Kurdish forces kept US weapons meant for Iranian protesters, allegations Kurdish leaders categorically deny. Analysts say the president is scapegoating the groups to make up for his own policy failures.",
-      "url": "https://www.dw.com/en/iran-war-why-is-trump-blaming-the-kurds/a-77216394?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-19T14:10:00Z",
-      "image": "https://static.dw.com/image/76260931_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-19b8ba069cb2",
-      "title": "'We Were Supposed To Be Celebrating A Birthday': Kyiv Mourns Sisters Killed In Russian Strike",
-      "description": "Friends, classmates, and teachers gathered in Kyiv to say goodbye to sisters Vira and Lyubava Yakovleva, killed in a Russian strike on May 14. Vira was 17. Lyubava was 12. Their father had already been killed in the war in 2023.",
-      "url": "https://www.rferl.org/a/kyiv-mourns-2-sisters-killed-in-a-russian-strike/33760295.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-19T14:04:18Z",
-      "image": "https://gdb.rferl.org/1fbae9d3-2bd3-49a3-09f7-08de3c642a38_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "un -f58444b2a1c5",
       "title": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks",
       "description": "The fragile ceasefire between the United States and Iran may have eased fears of a wider regional war, but persistent instability around the Strait of Hormuz continues to disrupt global trade, drive up energy costs and fuel a growing jobs and cost-of-living crisis.",
@@ -189,21 +218,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-97a73b02245c",
-      "title": "Russia’s Hospitals Overwhelmed as War Wounded Flood Civilian Clinics",
-      "description": "Russian military hospitals in Russia are reportedly overwhelmed by wounded soldiers from the war in Ukraine, forcing civilian hospitals to be repurposed for military use. Reports describe worsening access to care for ordinary patients and widespread strain on healthcare systems amid rising casualties and resource short…",
-      "url": "https://www.kyivpost.com/post/76433",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-19T10:08:53Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/19/347f111e0a6e564b1c6264e7f4c053b3.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
       "tags": []
     },
     {

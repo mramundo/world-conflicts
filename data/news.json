@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-20T05:27:29Z",
+  "updated": "2026-05-20T07:22:54Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/agriculture/asia-s-agri-tech-startups-offer-answers-to-iran-war-supply-chain-crunch",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-20T05:27:26Z",
+      "publishedAt": "2026-05-20T07:22:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F7%2F1%2F12511771-1-eng-GB%2F5ef598405ac0-photo_SXM2026050700011522.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4a3ddecba717",
+      "title": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
+      "description": "Vote to advance War Powers Resolution seen as rare rebuke of the president as pressure grows to end US attack on Iran.",
+      "url": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-20T00:49:06Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0c54dc-1779193052.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,21 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -192ca4be8107",
-      "title": "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
-      "description": "Nearly 800 children are among those killed in Ukraine since Russia&#039;s full-scale invasion in February 2022, the UN says.",
-      "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-19T20:18:16Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a059dc7-1778752967.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -154,22 +154,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -e025dfd680f0",
-      "title": "As Israeli elections approach, the opposition focuses on rejecting Netanyahu rather than defining peace",
-      "description": "Even as the current prime minister's coalition appears to be in deep trouble, most of his rivals have not dared to break with his nationalist rhetoric, and seem trapped in a conceptual dead end when it comes to coexistence with Palestinians – whether Israeli citizens, residents of Gaza, or the West Bank.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/05/19/as-israeli-legislative-elections-approach-the-opposition-focuses-on-rejecting-netanyahu-rather-than-the-peace-process_6753588_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-19T06:00:04Z",
-      "image": "https://img.lemde.fr/2026/04/26/218/0/8640/4320/644/322/60/0/021f971_ftp-1-f4eze22eknjo-57def9c6cecd444da858dd8ae5203a21-0-e6d208d156134001ba8a37d40a70732f.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

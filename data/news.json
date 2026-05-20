@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T19:47:33Z",
+  "updated": "2026-05-20T20:48:09Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/agriculture/asia-s-agri-tech-startups-offer-answers-to-iran-war-supply-chain-crunch",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-20T19:47:29Z",
+      "publishedAt": "2026-05-20T20:48:05Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F7%2F1%2F12511771-1-eng-GB%2F5ef598405ac0-photo_SXM2026050700011522.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-08435630d53d",
+      "title": "'Trump a Netanyahu, mediatori al lavoro su lettera di intenti Iran per fine guerra'",
+      "description": "Axios, 'sarà firmata, 30 giorni per negoziare sul nucleare e Hormuz'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/20/trump-a-netanyahu-mediatori-al-lavoro-su-lettera-di-intenti-iran-per-fine-guerra_d1712a0f-a04c-4ecb-9919-c1524c8fa32f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-20T19:56:15Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/19/5004c69e43cd47b1c6c48c2fa820dd51.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,21 +62,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-9c8b384d5c38",
-      "title": "Elezioni in Colombia, la guerriglia Eln annuncia un cessate il fuoco",
-      "description": "'Rispettiamo il diritto di voto e non minacciamo i candidati'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/05/20/elezioni-in-colombia-la-guerriglia-eln-annuncia-un-cessate-il-fuoco_9f4003f2-f90d-4310-bf15-0951047b814d.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-20T15:50:25Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2023/7/4/28d52e5ed6788ab0e2a0261e13f59149.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

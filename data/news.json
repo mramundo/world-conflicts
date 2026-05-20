@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T09:16:29Z",
+  "updated": "2026-05-20T11:06:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/agriculture/asia-s-agri-tech-startups-offer-answers-to-iran-war-supply-chain-crunch",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-20T09:16:21Z",
+      "publishedAt": "2026-05-20T11:06:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F7%2F1%2F12511771-1-eng-GB%2F5ef598405ac0-photo_SXM2026050700011522.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -57,7 +57,7 @@
       "url": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-05-20T08:45:12Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-09T091016Z_1200782397_RC2K5LAENB9I_RTRMADP_3_WW2-ANNIVERSARY-RUSSIA-1779184927.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260508__B29V49G__v3__HighRes__TopshotUkraineRussiaConflictWar-1-1779271897.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "humanitarian",
@@ -83,6 +83,22 @@
       "tags": []
     },
     {
+      "id": "fra-afadb1f049fc",
+      "title": "Race to contain ebola outbreak in war-torn DRC where weak infrastructure hampers response",
+      "description": "Annette Young welcomes Julie Drouet, DRC Director for Action Against Hunger. She offers a sobering assessment of the early Ebola outbreak response in the Democratic Republic of Congo. Speaking from the frontline of a rapidly evolving health emergency, Drouet describes a humanitarian system racing against time in one of…",
+      "url": "https://www.france24.com/en/race-to-contain-ebola-outbreak-in-war-torn-drc-where-weak-infrastructure-hampers-response",
+      "source": "France24",
+      "publishedAt": "2026-05-20T08:41:03Z",
+      "image": "https://s.france24.com/media/display/a3c21170-53cc-11f1-a186-005056a97e36/w:1024/p:16x9/EN-20260519-150320-150855-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "npr-164094cc7504",
       "title": "Bolivia's capital under siege as protests deepen crisis for President Paz",
       "description": "Bolivia's President Rodrigo Paz faces a deepening crisis as widespread protests and blockades leave the political capital under siege less than six months after he took office.",
@@ -98,6 +114,22 @@
       "tags": []
     },
     {
+      "id": "bbc-f1a36c5837ae",
+      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+      "description": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
+      "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-20T03:49:24Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d456/live/c9a74fe0-53fe-11f1-89a3-d1f559421220.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-7fcd51da9e2c",
       "title": "Israeli strikes on Lebanon kill at least 19 as clashes with Hezbollah continue despite ceasefire",
       "description": "Single strike on the village of Deir Qanoun al Nahr in the coastal Tyre province killed 10, including three children and three women, health ministry saysIsraeli airstrikes on southern Lebanon on Tuesday killed at least 19 people, including four women and three children, Lebanon’s health ministry said, the latest in ne…",
@@ -109,21 +141,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-00e4b06fbe29",
-      "title": "Joint Nigeria-US strikes kill 175 Islamic State group fighters, both militaries say",
-      "description": "Some 175 militants belonging to the Islamic State (IS) group were killed in joint Nigerian-US strikes in Nigeria's northeast in recent days, both militaries said Tuesday. Washington sent troops to the West African nation in February as armed groups stepped up their attacks on communities across the country.",
-      "url": "https://www.france24.com/en/africa/20260519-joint-nigeria-us-strikes-kill-175-islamic-state-group-fighters-both-militaries-say",
-      "source": "France24",
-      "publishedAt": "2026-05-19T20:01:14Z",
-      "image": "https://s.france24.com/media/display/08b34a9a-53b9-11f1-a532-005056a90284/w:1024/p:16x9/000-A3T46B8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,21 +218,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-659bbb132095",
-      "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
-      "description": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
-      "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-17T23:02:15Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3416/live/ebb6e600-528b-11f1-8b8c-6d33e1d5abb6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T09:16:42Z",
+  "updated": "2026-05-20T11:07:02Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-05-19T05:24:39Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-05-13",
       "wikipediaRevision": "2026-05-13T20:52:39Z",
-      "recentNewsCount": 5
+      "recentNewsCount": 4
     },
     {
       "id": "il-ps",
@@ -227,7 +227,7 @@
       "wikipediaPage": "Boko_Haram_insurgency",
       "lastUpdate": "2026-05-17",
       "wikipediaRevision": "2026-05-17T23:38:54Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "mx-cartels",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     }
   ]
 }

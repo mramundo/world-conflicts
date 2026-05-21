@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T22:33:16Z",
+  "updated": "2026-05-21T23:27:18Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/rohingya-take-to-sea-as-un-food-aid-cuts-hit-bangladesh-refugee-camps",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-21T22:33:12Z",
+      "publishedAt": "2026-05-21T23:27:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F4%2F1%2F1%2F12521144-2-eng-GB%2Ffd5b86f2ef19-1000375846.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -046aea9854ea",
+      "title": "War in Ukraine: Kherson and Oleshky, two worlds face to face just 10 kilometers apart",
+      "description": "On the front line, the small town of Oleshky in the south has been occupied by the Russian military since the invasion began. Residents try to reach Kherson at great personal risk.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/22/war-in-ukraine-kherson-and-oleshky-two-worlds-face-to-face-just-10-kilometers-apart_6753706_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-21T23:19:41Z",
+      "image": "https://img.lemde.fr/2026/05/18/0/0/4300/2150/644/322/60/0/0f399e1_upload-1-mmywi2mowiws-oleshky-45.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-c934fc959dc4",
+      "title": "Ro Khanna, AOC criticize Democrats’ 2024 election postmortem for not mentioning Israel’s war in Gaza – US politics live",
+      "description": "Khanna says ‘blank check to Israel and Netanyahu when they committed genocide’ one of the reasons his party lost; Alexandria Ocasio-Cortez calls omission ‘pretty unbelievable’Democrats belatedly publish 2024 election autopsy report: ‘It won’t meet your standards’Sign up for the Breaking News US emailSenate Democratic l…",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-21T23:07:54Z",
+      "image": "https://i.guim.co.uk/img/media/9e72ee65ef3aec037791be94bee46f15f0e182e8/465_122_4395_3516/master/4395.jpg?width=140&quality=85&auto=format&fit=max&s=2c1160089f5387312a669f9b09385fd0",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -171,39 +201,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -196eba253310",
-      "title": "'Gaza has become a diplomatic, political and military black hole'",
-      "description": "Donald Trump's promises for the territory, devastated after two years of war, have continued to be proven wrong in the months following the ceasefire with Israel, writes Le Monde columnist Gilles Paris.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/05/21/gaza-has-become-a-diplomatic-political-and-military-black-hole_6753673_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-21T02:00:03Z",
-      "image": "https://img.lemde.fr/2026/05/19/867/0/5500/2750/644/322/60/0/eaca932_ftp-1-orsxmplerpqa-2026-05-19t072828z-159951640-rc26claciyip-rtrmadp-3-israel-palestinians-gaza.JPG",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-583be8334b55",
-      "title": "Are Xi and Putin still ‘best friends’? – The Latest",
-      "description": "Xi Jinping welcomed Vladimir Putin to Beijing with pomp and pageantry, just days after hosting Donald Trump. But as Russia’s war in Ukraine makes Moscow increasingly dependent on China, and western leaders thaw relations with Beijing, what does the power imbalance mean for Xi and Putin’s relationship? Lucy Hough speaks…",
-      "url": "https://www.theguardian.com/news/audio/2026/may/20/are-xi-and-putin-still-best-friends-the-latest",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-20T16:17:15Z",
-      "image": "https://i.guim.co.uk/img/media/1044450eafbe46dacf139ecc1f056eff1c93d64f/147_0_3172_2537/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=695c46da5f23c167bb8904307d754baf",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     },
     {

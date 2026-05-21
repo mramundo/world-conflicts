@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T17:46:19Z",
+  "updated": "2026-05-21T18:44:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,74 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/rohingya-take-to-sea-as-un-food-aid-cuts-hit-bangladesh-refugee-camps",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-21T17:46:14Z",
+      "publishedAt": "2026-05-21T18:44:24Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F4%2F1%2F1%2F12521144-2-eng-GB%2Ffd5b86f2ef19-1000375846.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-4aaf9f01a520",
+      "title": "'Unjammable' Drones Pioneered In Ukraine Emerge In Middle East War",
+      "description": "Some experts believe the recent emergence of fiber-optic drones piloted by Hezbollah militants indicates Russia is feeding Iran intelligence about drone warfare, others believe a more worrying potential is more likely.",
+      "url": "https://www.rferl.org/a/israel-iran-fiber-optic-drones-russia-ukraine-war/33761841.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-21T18:28:57Z",
+      "image": "https://gdb.rferl.org/21acec1e-4533-4d95-4406-08de3be37656_cx0_cy5_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -c3057de9796c",
+      "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
+      "description": "The US ally has seen support plummet in recent years amid widespread anger over its genocidal war on Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-21T18:05:12Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/09/AP24243773865312-1726005300.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-f6d5fddd2925",
+      "title": "Saudi Arabia: 1.5 million join Hajj pilgrimage despite war",
+      "description": "Saudi Arabia has been directly hit by missiles and drones during the Iran war, but the country is hosting the all-important Muslim pilgrimage anyway.",
+      "url": "https://www.dw.com/en/saudi-arabia-1-5-million-join-hajj-pilgrimage-despite-war/a-77213872?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-21T17:50:00Z",
+      "image": "https://static.dw.com/image/77214222_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-ff0b70751b72",
+      "title": "Board of Peace envoy urges UNSC ‘to use every means at its disposal’ to disarm Hamas",
+      "description": "Mladenov warns that if ceasefire falls apart, current division of Gaza could become permanent; Palestinians say boy, 13, killed in IDF strike; army says it targeted people approaching Yellow Line The post Board of Peace envoy urges UNSC ‘to use every means at its disposal’ to disarm Hamas appeared first on The Times of…",
+      "url": "https://www.timesofisrael.com/board-of-peace-envoy-urges-unsc-to-use-every-means-at-its-disposal-to-disarm-hamas/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-21T17:47:10Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260513__B2QR2LH__v1__HighRes__IsraelPalestinianConflictGaza-1024x640.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -65,37 +127,6 @@
       "tags": []
     },
     {
-      "id": "al -6a0373fb4bec",
-      "title": "US-Iran diplomacy picks up: What’s the latest?",
-      "description": "Iranian media reported that the Pakistani interior minister is in Iran to help the US and Iran reach a peace deal.",
-      "url": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-21T15:10:12Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a0efe1991-1779367449.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-5ae66b9a4488",
-      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
-      "description": "The first gathering of Sudeten Germans in Czechia since World War II is set to go ahead this weekend despite a political backlash that has exposed tensions over one of Central Europe's most painful historical legacies.",
-      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-21T14:32:00Z",
-      "image": "https://static.dw.com/image/77171363_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -ba9cb77a86da",
       "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
       "description": "The Security Council is discussing the stalled progress in Gaza as the fragile ceasefire there limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs. Discussions are likely to focus on who governs Gaza, and how - with no disarmament in sight, toge…",
@@ -108,22 +139,6 @@
         "humanitarian"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-803c1f67a196",
-      "title": "US Treasury removes anti-Israel UN envoy Francesca Albanese from sanctions list",
-      "description": "A week after federal judge nixed Trump administration's sanctions on firebrand UN special rapporteur on free speech grounds, she is quietly taken off list of sanctioned individuals The post US Treasury removes anti-Israel UN envoy Francesca Albanese from sanctions list appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/us-treasury-removes-anti-israel-un-envoy-francesca-albanese-from-sanctions-list/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-21T08:39:49Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2025/09/AFP__20250915__74KA2NQ__v1__HighRes__SwitzerlandUnIsraelPalestinianConflictRights-1-1024x640.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -187,22 +202,6 @@
         "analysis"
       ],
       "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "rfe-ea6c86c7ffdd",
-      "title": "On Springtime Battlefield In War's Fifth Year, Ukraine Claws Back Territory",
-      "description": "Four-plus years into Russia’s all-out invasion, Ukraine has battled Moscow’s forces to a standstill. In fact, by some accounts, Ukraine has even recaptured territory, offering Kyiv a glimmer of optimism after a grueling winter.",
-      "url": "https://www.rferl.org/a/ukraine-russia-war-battlefield-gains/33761066.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-20T14:37:47Z",
-      "image": "https://gdb.rferl.org/3c0c80ed-31cc-4503-de1f-08de3c914337_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 14,
       "isAnalysis": true,
       "tags": []
     },

@@ -1,9 +1,24 @@
 {
-  "updated": "2026-05-21T05:31:02Z",
+  "updated": "2026-05-21T07:26:36Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "nik-c919849470c5",
+      "title": "Rohingya take to sea as UN food aid cuts hit Bangladesh refugee camps",
+      "description": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/rohingya-take-to-sea-as-un-food-aid-cuts-hit-bangladesh-refugee-camps",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-05-21T07:26:32Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F4%2F1%2F1%2F12521144-2-eng-GB%2Ffd5b86f2ef19-1000375846.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "bbc-fcde58ea78d0",
       "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
@@ -16,21 +31,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-ef54e578689a",
-      "title": "Middle East war live: Trump says willing to wait ‘a few days’ for right answer on Iran peace deal",
-      "description": "US President Donald Trump on Wednesday said the United States was ready to proceed with further attacks on Tehran if Iran did not agree to a peace deal, but suggested Washington could wait a few days to \"get the right answers\". Follow our liveblog for the latest developments.",
-      "url": "https://www.france24.com/en/middle-east/20260521-middle-east-war-live-trump-says-willing-to-wait-a-few-days-for-right-answer-on-iran-peace-deal",
-      "source": "France24",
-      "publishedAt": "2026-05-21T03:28:11Z",
-      "image": "https://s.france24.com/media/display/6f7f7e04-5483-11f1-aa50-005056a90284/w:1024/p:16x9/2026-05-20T150703Z-101478299-RC2XCLAKNKIO-RTRMADP-3-USA-TRUMP.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,17 +50,17 @@
       "tags": []
     },
     {
-      "id": "tim-d55b74ca4a74",
-      "title": "10 soldiers, including brigade commander, hurt in separate Hezbollah drone attacks",
-      "description": "Two attacks on troops in south Lebanon cause range of injuries, commander of 401st Armored Brigade seriously hurt; IDF strikes Hezbollah weapons site in clinic The post 10 soldiers, including brigade commander, hurt in separate Hezbollah drone attacks appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/10-soldiers-including-brigade-commander-hurt-in-separate-hezbollah-drone-attacks/",
+      "id": "tim-eeb275b7a3c9",
+      "title": "Pakistan’s army chief to visit Tehran today as Islamabad pushes for US-Iran deal",
+      "description": "Spain expects 44 Gaza flotilla activists to be deported from Israel this afternoon * Poland, New Zealand, Australia summon Israeli envoys over treatment of activists * Combat photographer among soldiers injured in Lebanon drone strike yesterday The post Pakistan’s army chief to visit Tehran today as Islamabad pushes fo…",
+      "url": "https://www.timesofisrael.com/liveblog-may-21-2026/",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-20T21:03:08Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260519AMA13-e1779307702613-1024x640.jpg",
+      "publishedAt": "2026-05-20T22:35:01Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AFP__20260415__A7WW3X4__v1__HighRes__IranPakistanUsIsraelWarDiplomacy-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -92,6 +92,21 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-2ebb349c39c5",
+      "title": "'Very bad optics for Kremlin': Putin's China visit regarded as 'crisis & relations management trip'",
+      "description": "Delano D'Souza is pleased to welcome Dr. Una Aleksandra Bērziņa-Čerenkova, Latvian Institute of International Affairs. She argues that “whichever way you slice it, this is very bad optics for the Kremlin,” framing the visit less as a confident display of a strong, vibrant alliance and more as “a crisis and relations ma…",
+      "url": "https://www.france24.com/en/video/20260520-very-bad-optics-for-kremlin-putin-s-china-visit-regarded-as-crisis-relations-management-trip",
+      "source": "France24",
+      "publishedAt": "2026-05-20T16:31:28Z",
+      "image": "https://s.france24.com/media/display/52903e36-5461-11f1-8c25-005056a90284/w:1024/p:16x9/EN-20260520-130553-131046-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

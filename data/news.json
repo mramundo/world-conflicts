@@ -1,9 +1,39 @@
 {
-  "updated": "2026-05-21T03:15:54Z",
+  "updated": "2026-05-21T05:31:02Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "bbc-fcde58ea78d0",
+      "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
+      "description": "After four years of Russia's full-scale invasion, Ukraine has become far more successful at fighting off air raids.",
+      "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-21T05:04:08Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d5/live/b1e7d230-5476-11f1-b682-cf91850925ea.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-ef54e578689a",
+      "title": "Middle East war live: Trump says willing to wait ‘a few days’ for right answer on Iran peace deal",
+      "description": "US President Donald Trump on Wednesday said the United States was ready to proceed with further attacks on Tehran if Iran did not agree to a peace deal, but suggested Washington could wait a few days to \"get the right answers\". Follow our liveblog for the latest developments.",
+      "url": "https://www.france24.com/en/middle-east/20260521-middle-east-war-live-trump-says-willing-to-wait-a-few-days-for-right-answer-on-iran-peace-deal",
+      "source": "France24",
+      "publishedAt": "2026-05-21T03:28:11Z",
+      "image": "https://s.france24.com/media/display/6f7f7e04-5483-11f1-aa50-005056a90284/w:1024/p:16x9/2026-05-20T150703Z-101478299-RC2XCLAKNKIO-RTRMADP-3-USA-TRUMP.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "al -f88413b82f51",
       "title": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
@@ -51,7 +81,7 @@
     },
     {
       "id": "npr-ea1bb60c8201",
-      "title": "U.S. grand jury indicts Raul Castro, ex-Cuban president",
+      "title": "U.S. grand jury indicts Raúl Castro, former Cuban president",
       "description": "The 94-year-old former leader of Cuba faces several charges, including four counts of murder for an attack on a humanitarian group more than 30 years ago.",
       "url": "https://www.npr.org/2026/05/20/g-s1-122383/us-cuba-raul-castro-indictment",
       "source": "NPR World",
@@ -62,21 +92,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-2ebb349c39c5",
-      "title": "'Very bad optics for Kremlin': Putin's China visit regarded as 'crisis & relations management trip'",
-      "description": "Delano D'Souza is pleased to welcome Dr. Una Aleksandra Bērziņa-Čerenkova, Latvian Institute of International Affairs. She argues that “whichever way you slice it, this is very bad optics for the Kremlin,” framing the visit less as a confident display of a strong, vibrant alliance and more as “a crisis and relations ma…",
-      "url": "https://www.france24.com/en/video/20260520-very-bad-optics-for-kremlin-putin-s-china-visit-regarded-as-crisis-relations-management-trip",
-      "source": "France24",
-      "publishedAt": "2026-05-20T16:31:28Z",
-      "image": "https://s.france24.com/media/display/52903e36-5461-11f1-8c25-005056a90284/w:1024/p:16x9/EN-20260520-130553-131046-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -112,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "le -cb6996c3cf25",
-      "title": "Former Arafat adviser faces deportation from France",
-      "description": "Ramy Shaath, a former Palestinian Authority official, is under deportation proceedings due to several radical public positions he has taken since the start of Israel's ground offensive in Gaza, notably through the group he co-founded, Urgence Palestine.",
-      "url": "https://www.lemonde.fr/en/france/article/2026/05/20/former-arafat-adviser-faces-deportation-from-france_6753655_7.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-20T14:14:29Z",
-      "image": "https://img.lemde.fr/2026/05/15/1068/0/2873/1436/644/322/60/0/566b0a3_upload-1-trl0ljwgs0ow-maxnewsfrfive428384.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-6c9b6a3cbd8c",
       "title": "Russia Drafting 5 War Expansion Scenarios in North, Plans 100,000-Troop Mobilization – Zelensky",
       "description": "Russia is preparing 5 possible scenarios to expand its war into northern Ukraine and is planning to mobilize up to 100,000 additional troops, Zelensky said. He added Ukrainian intelligence is assessing potential offensive directions, particularly in the Chernihiv-Kyiv axis, and that Ukraine is preparing responses to ea…",
@@ -154,22 +154,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-f1a36c5837ae",
-      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
-      "description": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
-      "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-20T03:49:24Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d456/live/c9a74fe0-53fe-11f1-89a3-d1f559421220.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

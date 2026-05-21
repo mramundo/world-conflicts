@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T19:37:09Z",
+  "updated": "2026-05-21T20:40:52Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/rohingya-take-to-sea-as-un-food-aid-cuts-hit-bangladesh-refugee-camps",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-21T19:37:05Z",
+      "publishedAt": "2026-05-21T20:40:48Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F4%2F1%2F1%2F12521144-2-eng-GB%2Ffd5b86f2ef19-1000375846.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a4739985b65c",
+      "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+      "description": "Hezbollah says the sanctions will have &#039;absolutely no effect&#039; on its strategy amid ongoing Israeli attacks on Lebanon.",
+      "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-21T20:09:10Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0f55b779e7-1779389879.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,21 +48,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -c3057de9796c",
-      "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
-      "description": "The US ally has seen support plummet in recent years amid widespread anger over its genocidal war on Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-21T18:05:12Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2024/09/AP24243773865312-1726005300.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -143,6 +143,21 @@
       "tags": []
     },
     {
+      "id": "ans-9b27bb115504",
+      "title": "Tajani a Kallas, Italia chiede a Ue sanzioni contro Ben-Gvir",
+      "description": "'Per gli inaccettabili atti compiuti contro la Flotilla'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/21/tajani-a-kallas-italia-chiede-a-ue-sanzioni-contro-ben-gvir_083a535e-f6d9-42bd-9c1f-4b34bc88abc6.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-21T11:37:54Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/21/8f6fae08af0fb4f45a792ac7e3109e6e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-fcde58ea78d0",
       "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
       "description": "After four years of Russia's full-scale invasion, Ukraine has become far more successful at fighting off air raids.",
@@ -172,21 +187,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-08435630d53d",
-      "title": "'Trump a Netanyahu, mediatori al lavoro su lettera di intenti Iran per fine guerra'",
-      "description": "Axios, 'sarà firmata, 30 giorni per negoziare sul nucleare e Hormuz'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/20/trump-a-netanyahu-mediatori-al-lavoro-su-lettera-di-intenti-iran-per-fine-guerra_d1712a0f-a04c-4ecb-9919-c1524c8fa32f.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-20T19:56:15Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/19/5004c69e43cd47b1c6c48c2fa820dd51.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T15:08:27Z",
+  "updated": "2026-05-22T16:50:05Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,38 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-22T15:08:23Z",
+      "publishedAt": "2026-05-22T16:50:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F5%2F1%2F12531580-1-eng-GB%2Fb3f4a356e88d-2025-07-10T042524Z_1303963533_RC2EJFADUVXH_RTRMADP_3_TAIWAN-DEFENCE.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-7daf38cca863",
+      "title": "US or Iran: Who will win the Hormuz endurance game?",
+      "description": "Tehran is betting that its sanctions‑hardened economy can outlast the Strait of Hormuz crisis. Washington, meanwhile, is contending with elevated oil prices, renewed inflation pressure and rising global recession risks.",
+      "url": "https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-22T15:38:00Z",
+      "image": "https://static.dw.com/image/77267943_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-866a46974f49",
+      "title": "L'Ue accoglie la richiesta di Tajani sulle sanzioni a Ben Gvir",
+      "description": "Fonti, 'proposta sostenuta da diversi Paesi, sul tavolo del Cae il 15 giugno'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/22/lue-accoglie-la-richiesta-di-tajani-sulle-sanzioni-a-ben-gvir_07754793-6b21-416b-a8a1-241cd4dbaa22.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-22T15:32:07Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/21/da4b827550042dbf4c01ea3c8c12d141.jpg",
       "categories": [
         "conflict"
       ],
@@ -52,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "ans-03a56c200c57",
-      "title": "Al Arabiya, 'annuncio accordo Iran-Usa nelle prossime ore, subito in vigore'",
-      "description": "I punti chiave includono il cessate il fuoco immediato, libertà di navigazione Stretto",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/22/al-arabiya-annuncio-accordo-iran-usa-nelle-prossime-ore-subito-in-vigore_e6a2038d-e64c-4821-84b7-f072ae472ba9.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-22T13:15:25Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2025/4/12/098a1c4f1bfb6a6e36b7d2f53725f45a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-9e8a6cb19ae9",
       "title": "Latvia: Standing with Ukraine",
       "description": "Since Russia's full-scale invasion of Ukraine in February 2022, Latvia has been providing massive support to war-torn Ukraine. Like Estonia and Lithuania, this small Baltic state is among the European countries hosting the highest number of Ukrainian refugees relative to its population. Our reporters Valentine Patry an…",
@@ -79,21 +94,6 @@
         "humanitarian"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-a550251a7f91",
-      "title": "New alliances emerge in Middle East — which one will 'win'?",
-      "description": "The UAE and Israel are getting closer, while Saudi Arabia is enhancing cooperation with Egypt, Turkey and Pakistan. The new alliances represent a rift in the Gulf, as approaches to the Iran war and the region diverge.",
-      "url": "https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-22T11:00:00Z",
-      "image": "https://static.dw.com/image/76385150_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

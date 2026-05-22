@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T09:13:48Z",
+  "updated": "2026-05-22T11:06:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-22T09:13:44Z",
+      "publishedAt": "2026-05-22T11:06:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F5%2F1%2F12531580-1-eng-GB%2Fb3f4a356e88d-2025-07-10T042524Z_1303963533_RC2EJFADUVXH_RTRMADP_3_TAIWAN-DEFENCE.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-0ad9ad2ccac1",
+      "title": "Mali-Guinea corridor disrupted: Militants siege deepens economic strain",
+      "description": "Following the coordinated attacks launched in late April, security conditions have sharply deteriorated along the key transport corridor connecting Mali and Guinea. Reports of a blockade near the Bamako region have brought much of the road traffic to a halt, severely affecting the movement of people and goods ahead of …",
+      "url": "https://www.france24.com/en/video/20260522-mali-guinea-corridor-disrupted-militants-siege-deepens-economic-strain",
+      "source": "France24",
+      "publishedAt": "2026-05-22T10:22:45Z",
+      "image": "https://s.france24.com/media/display/d0deb7c0-55c6-11f1-88d9-005056bf30b7/w:1024/p:16x9/EN-20260521-215245-215453-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,6 +81,21 @@
       "tags": []
     },
     {
+      "id": "al -e88e0fa26870",
+      "title": "Iran war live: ‘Little bit’ of progress in US-Iran talks, Washington says",
+      "description": "An Israeli strike on Lebanon&#039;s Deir Qanoun en-Nahr kills 6, including two rescuers and a Syrian child.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-22T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-21T223654Z_1914291644_RC2QDLAVPEVW_RTRMADP_3_IRAN-CRISIS-1779406614.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -046aea9854ea",
       "title": "War in Ukraine: Kherson and Oleshky, two different worlds just 10 kilometers apart",
       "description": "On the front line, the small town of Oleshky in the south has been occupied by the Russian military since the invasion began. Residents try to reach Kherson at great personal risk.",
@@ -81,18 +111,17 @@
       "tags": []
     },
     {
-      "id": "al -dc4a449e6fe9",
-      "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
-      "description": "UN Security Council urged to press for Israeli obligations and Hamas disarmament under Gaza &#039;ceasefire&#039; roadmap.",
-      "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-21T21:10:02Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a0f6b9b88b94-1779395483.jpg?resize=1920%2C1440",
+      "id": "tim-93496137d628",
+      "title": "Argentine ex-prosecutor charged with cover-up in 2015 death of AMIA bombing investigator",
+      "description": "Viviana Fein allegedly failed to preserve evidence at apartment of Alberto Nisman, who was found shot hours before testimony on president's cover-up of Iran's role in 1994 massacre The post Argentine ex-prosecutor charged with cover-up in 2015 death of AMIA bombing investigator appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/argentine-ex-prosecutor-charged-with-cover-up-in-2015-death-of-amia-bombing-investigator/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-21T20:50:53Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP823957853257-e1779394013991-1024x640.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -128,22 +157,6 @@
       "tags": []
     },
     {
-      "id": "tim-ff0b70751b72",
-      "title": "Board of Peace envoy urges UNSC ‘to use every means at its disposal’ to disarm Hamas",
-      "description": "Mladenov warns that if ceasefire falls apart, current division of Gaza could become permanent; Palestinians say boy, 13, killed in IDF strike; army says it targeted people approaching Yellow Line The post Board of Peace envoy urges UNSC ‘to use every means at its disposal’ to disarm Hamas appeared first on The Times of…",
-      "url": "https://www.timesofisrael.com/board-of-peace-envoy-urges-unsc-to-use-every-means-at-its-disposal-to-disarm-hamas/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-21T17:47:10Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260513__B2QR2LH__v1__HighRes__IsraelPalestinianConflictGaza-1024x640.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-e154b672db20",
       "title": "After the sirens: Lebanon's first responders swing between duty and grief",
       "description": "Nearly 3,000 people have been killed and nearly 1 million have been displaced the war in southern Lebanon began in March. Nearly 400 have been killed since a ceasefire began in April.",
@@ -155,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-95e12f94f4a0",
-      "title": "Ukraine's bird lovers long for peaceful skies",
-      "description": "As the war rages on, Ukraine's birds are increasingly becoming victims of the battlefield, pushing volunteers and soldiers to try to rescue and treat injured birds. Skies once filled with birds are now crowded with drones, and constant aerial bombardments have wrecked a delicate ecosystem across a 1,200-kilometre front…",
-      "url": "https://www.france24.com/en/video/20260521-ukraine-s-bird-lovers-long-for-peaceful-skies",
-      "source": "France24",
-      "publishedAt": "2026-05-21T15:17:16Z",
-      "image": "https://s.france24.com/media/display/7f295624-5526-11f1-ba26-005056bfb2b6/w:1024/p:16x9/Montage-169-00-02-45-22-Still001.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

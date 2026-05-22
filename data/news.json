@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T19:36:14Z",
+  "updated": "2026-05-22T20:37:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-22T19:36:10Z",
+      "publishedAt": "2026-05-22T20:37:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F5%2F1%2F12531580-1-eng-GB%2Fb3f4a356e88d-2025-07-10T042524Z_1303963533_RC2EJFADUVXH_RTRMADP_3_TAIWAN-DEFENCE.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-a550251a7f91",
+      "title": "New alliances emerge in Middle East — which one will 'win'?",
+      "description": "The UAE and Israel are getting closer, while Saudi Arabia is enhancing cooperation with Egypt, Turkey and Pakistan. The new alliances represent a rift in the Gulf, as approaches to the Iran war and the region diverge.",
+      "url": "https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-22T20:15:00Z",
+      "image": "https://static.dw.com/image/76385150_6.jpg",
       "categories": [
         "conflict"
       ],
@@ -66,6 +81,21 @@
       "tags": []
     },
     {
+      "id": "fra-d7d6fa3b9511",
+      "title": "Ebola: Collaboration and trust essential to outbreak response",
+      "description": "\"We all need to be working together.\" Krutika Kuppalli stresses the importance of building trust and collaborating with local leaders to combat the #Ebola outbreak in the #DRC More on #F24Debate ➡️https://go.france24.com/bw02",
+      "url": "https://www.france24.com/en/video/20260522-ebola-collaboration-and-trust-essential-to-outbreak-response",
+      "source": "France24",
+      "publishedAt": "2026-05-22T17:09:15Z",
+      "image": "https://s.france24.com/media/display/ea77fb3c-55fe-11f1-a390-005056a90284/w:1024/p:16x9/Krutika-Kuppalli-Debate-05-20-26-00-00-38-07-Still001.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -4a3b24104f2c",
       "title": "Video shows Israeli strike on Lebanese child and paramedics",
       "description": "Video shows an Israeli air strike hitting paramedics responding to an earlier attack in southern Lebanon.",
@@ -77,36 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-7daf38cca863",
-      "title": "US or Iran: Who will win the Hormuz endurance game?",
-      "description": "Tehran is betting that its sanctions‑hardened economy can outlast the Strait of Hormuz crisis. Washington, meanwhile, is contending with elevated oil prices, renewed inflation pressure and rising global recession risks.",
-      "url": "https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-22T15:38:00Z",
-      "image": "https://static.dw.com/image/77267943_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-c59778f385f5",
-      "title": "Ukraine boosts border security with Belarus over attack fears",
-      "description": "Ukraine on Thursday said it is ramping up security in regions bordering Belarus after warning for weeks of a possible fresh attack launched from the territory of Russia's chief regional ally. Kyiv has sounded the alarm that Russia may use Belarus -- a springboard for its 2022 invasion of Ukraine -- to stage a new offen…",
-      "url": "https://www.france24.com/en/video/20260522-ukraine-boosts-border-security-with-belarus-over-attack-fears",
-      "source": "France24",
-      "publishedAt": "2026-05-22T13:18:14Z",
-      "image": "https://s.france24.com/media/display/3dc074b0-55df-11f1-a3e4-005056a97e36/w:1024/p:16x9/EN-20260522-144057-144240-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

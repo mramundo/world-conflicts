@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-22T20:37:10Z",
+  "updated": "2026-05-22T21:29:52Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-22T20:37:07Z",
+      "publishedAt": "2026-05-22T21:29:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F5%2F1%2F12531580-1-eng-GB%2Fb3f4a356e88d-2025-07-10T042524Z_1303963533_RC2EJFADUVXH_RTRMADP_3_TAIWAN-DEFENCE.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-e77b332e5866",
+      "title": "Health workers struggle with Ebola outbreak as WHO declares highest risk level in DR Congo",
+      "description": "First, at least 160 lives already feared lost, health workers in the DRC are racing against time to contain a deadly disease that spreads as fast as it kills. Also, a diplomatic rift with the European Union is widening over security funding in Mozambique. The Foreign Ministry has criticised Brussels for halting support…",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260522-health-workers-struggle-with-ebola-outbreak-as-who-declares-highest-risk-level-in-dr-congo",
+      "source": "France24",
+      "publishedAt": "2026-05-22T20:38:56Z",
+      "image": "https://s.france24.com/media/display/50a74058-561c-11f1-a37e-005056bf30b7/w:1024/p:16x9/DN194649-A-01-20260511-01.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -77,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-d7d6fa3b9511",
-      "title": "Ebola: Collaboration and trust essential to outbreak response",
-      "description": "\"We all need to be working together.\" Krutika Kuppalli stresses the importance of building trust and collaborating with local leaders to combat the #Ebola outbreak in the #DRC More on #F24Debate ➡️https://go.france24.com/bw02",
-      "url": "https://www.france24.com/en/video/20260522-ebola-collaboration-and-trust-essential-to-outbreak-response",
-      "source": "France24",
-      "publishedAt": "2026-05-22T17:09:15Z",
-      "image": "https://s.france24.com/media/display/ea77fb3c-55fe-11f1-a390-005056a90284/w:1024/p:16x9/Krutika-Kuppalli-Debate-05-20-26-00-00-38-07-Still001.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -185,22 +186,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -ba9cb77a86da",
-      "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
-      "description": "The Security Council is discussing the stalled progress in Gaza as the fragile ceasefire there limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs. Discussions are likely to focus on who governs Gaza, and how - with no disarmament in sight, toge…",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167563",
-      "source": "UN News",
-      "publishedAt": "2026-05-21T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/01-05-2026-WFP-Gaza-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

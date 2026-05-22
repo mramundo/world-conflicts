@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T16:50:05Z",
+  "updated": "2026-05-22T17:38:39Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-22T16:50:01Z",
+      "publishedAt": "2026-05-22T17:38:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F5%2F1%2F12531580-1-eng-GB%2Fb3f4a356e88d-2025-07-10T042524Z_1303963533_RC2EJFADUVXH_RTRMADP_3_TAIWAN-DEFENCE.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-830fcf48e492",
+      "title": "Qatari negotiating team in Tehran to try to help secure US-Iran deal to end war",
+      "description": "US Secretary of State Rubio sees progress in Iran talks, but says 'we're not there yet' The post Qatari negotiating team in Tehran to try to help secure US-Iran deal to end war appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/qatari-negotiating-team-in-tehran-to-try-to-help-secure-us-iran-deal-to-end-war/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-22T17:14:16Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26140657302471-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -125,21 +140,6 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-239ac9d68967",
-      "title": "Saudi outlet publishes not-yet-approved ‘final draft’ of US-Iran deal, claims it could be announced within hours",
-      "description": "Reported text doesn't mention nuclear program or other central US demands * Key mediators said heading to Tehran * Lebanon says 10 killed in Israeli strikes on south The post Saudi outlet publishes not-yet-approved &#8216;final draft&#8217; of US-Iran deal, claims it could be announced within hours appeared first on Th…",
-      "url": "https://www.timesofisrael.com/liveblog-may-22-2026/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-21T23:55:20Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26137586973582-e1779447021465-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

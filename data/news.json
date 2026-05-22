@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T11:06:37Z",
+  "updated": "2026-05-22T12:58:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-22T11:06:33Z",
+      "publishedAt": "2026-05-22T12:58:17Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F5%2F1%2F12531580-1-eng-GB%2Fb3f4a356e88d-2025-07-10T042524Z_1303963533_RC2EJFADUVXH_RTRMADP_3_TAIWAN-DEFENCE.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,65 @@
       "tags": []
     },
     {
-      "id": "fra-0ad9ad2ccac1",
-      "title": "Mali-Guinea corridor disrupted: Militants siege deepens economic strain",
-      "description": "Following the coordinated attacks launched in late April, security conditions have sharply deteriorated along the key transport corridor connecting Mali and Guinea. Reports of a blockade near the Bamako region have brought much of the road traffic to a halt, severely affecting the movement of people and goods ahead of …",
-      "url": "https://www.france24.com/en/video/20260522-mali-guinea-corridor-disrupted-militants-siege-deepens-economic-strain",
+      "id": "fra-9e8a6cb19ae9",
+      "title": "Latvia: Standing with Ukraine",
+      "description": "Since Russia's full-scale invasion of Ukraine in February 2022, Latvia has been providing massive support to war-torn Ukraine. Like Estonia and Lithuania, this small Baltic state is among the European countries hosting the highest number of Ukrainian refugees relative to its population. Our reporters Valentine Patry an…",
+      "url": "https://www.france24.com/en/tv-shows/reporters/20260522-latvia-standing-with-ukraine",
       "source": "France24",
-      "publishedAt": "2026-05-22T10:22:45Z",
-      "image": "https://s.france24.com/media/display/d0deb7c0-55c6-11f1-88d9-005056bf30b7/w:1024/p:16x9/EN-20260521-215245-215453-CS.jpg",
+      "publishedAt": "2026-05-22T12:55:24Z",
+      "image": "https://s.france24.com/media/display/022182b0-54f8-11f1-ad1a-005056a90284/w:1024/p:16x9/Reporters-Lettonie-FR-EN.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-a550251a7f91",
+      "title": "New alliances emerge in Middle East — which one will 'win'?",
+      "description": "The UAE and Israel are getting closer, while Saudi Arabia is enhancing cooperation with Egypt, Turkey and Pakistan. The new alliances represent a rift in the Gulf, as approaches to the Iran war and the region diverge.",
+      "url": "https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-22T11:00:00Z",
+      "image": "https://static.dw.com/image/76385150_6.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -a6ccada77f50",
+      "title": "Trump says US will send 5,000 troops to Poland",
+      "description": "The announcement reverses last week's decision, when US officials said the deployment of 4,000 US troops to Poland had been scrapped. NATO chief Mark Rutte welcomed the news.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/22/trump-says-us-will-send-5-000-troops-to-poland_6753719_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-22T09:05:15Z",
+      "image": "https://img.lemde.fr/2026/05/22/1000/0/6000/3000/644/322/60/0/95101d9_ftp-1-t44fblozxvoc-34267ff14b644a57861380cb9c2763a2-0-0ae2e7e2e2f04654935f17c19996106c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -88a83abdcbdb",
+      "title": "Lebanon’s economy struggles under renewed war and global fuel crisis",
+      "description": "Lebanon&#039;s ongoing war and financial crises threaten to render the nation economically unviable, experts warn.",
+      "url": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-22T08:49:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a0e9f403b314-1779343168.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -81,47 +128,17 @@
       "tags": []
     },
     {
-      "id": "al -e88e0fa26870",
-      "title": "Iran war live: ‘Little bit’ of progress in US-Iran talks, Washington says",
-      "description": "An Israeli strike on Lebanon&#039;s Deir Qanoun en-Nahr kills 6, including two rescuers and a Syrian child.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-22T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-21T223654Z_1914291644_RC2QDLAVPEVW_RTRMADP_3_IRAN-CRISIS-1779406614.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -046aea9854ea",
-      "title": "War in Ukraine: Kherson and Oleshky, two different worlds just 10 kilometers apart",
-      "description": "On the front line, the small town of Oleshky in the south has been occupied by the Russian military since the invasion began. Residents try to reach Kherson at great personal risk.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/22/war-in-ukraine-kherson-and-oleshky-two-worlds-face-to-face-just-10-kilometers-apart_6753706_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-21T23:19:36Z",
-      "image": "https://img.lemde.fr/2026/05/18/0/0/4300/2150/644/322/60/0/0f399e1_upload-1-mmywi2mowiws-oleshky-45.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-93496137d628",
-      "title": "Argentine ex-prosecutor charged with cover-up in 2015 death of AMIA bombing investigator",
-      "description": "Viviana Fein allegedly failed to preserve evidence at apartment of Alberto Nisman, who was found shot hours before testimony on president's cover-up of Iran's role in 1994 massacre The post Argentine ex-prosecutor charged with cover-up in 2015 death of AMIA bombing investigator appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/argentine-ex-prosecutor-charged-with-cover-up-in-2015-death-of-amia-bombing-investigator/",
+      "id": "tim-239ac9d68967",
+      "title": "Saudi outlet publishes not-yet-approved ‘final draft’ of US-Iran deal, claims it could be announced within hours",
+      "description": "Reported draft doesn't mention nuclear program or other key US demands * NYT: Iran, Oman held talks on charging fees from ships in Strait of Hormuz * Lebanon says 10 killed in Israeli strikes on south The post Saudi outlet publishes not-yet-approved &#8216;final draft&#8217; of US-Iran deal, claims it could be announce…",
+      "url": "https://www.timesofisrael.com/liveblog-may-22-2026/",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-21T20:50:53Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP823957853257-e1779394013991-1024x640.jpg",
+      "publishedAt": "2026-05-21T23:55:20Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26137586973582-e1779447021465-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -139,21 +156,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-f6d5fddd2925",
-      "title": "Saudi Arabia: 1.5 million join Hajj pilgrimage despite war",
-      "description": "Saudi Arabia has been directly hit by missiles and drones during the Iran war, but the country is hosting the all-important Muslim pilgrimage anyway.",
-      "url": "https://www.dw.com/en/saudi-arabia-1-5-million-join-hajj-pilgrimage-despite-war/a-77213872?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-21T17:50:00Z",
-      "image": "https://static.dw.com/image/77214222_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

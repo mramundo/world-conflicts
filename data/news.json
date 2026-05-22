@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-22T21:29:52Z",
+  "updated": "2026-05-22T22:26:55Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-22T21:29:49Z",
+      "publishedAt": "2026-05-22T22:26:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F5%2F1%2F12531580-1-eng-GB%2Fb3f4a356e88d-2025-07-10T042524Z_1303963533_RC2EJFADUVXH_RTRMADP_3_TAIWAN-DEFENCE.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -186,6 +186,22 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -ba9cb77a86da",
+      "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
+      "description": "The Security Council is discussing the stalled progress in Gaza as the fragile ceasefire there limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs. Discussions are likely to focus on who governs Gaza, and how - with no disarmament in sight, toge…",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167563",
+      "source": "UN News",
+      "publishedAt": "2026-05-21T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/01-05-2026-WFP-Gaza-01.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

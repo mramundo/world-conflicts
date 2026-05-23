@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T11:29:53Z",
+  "updated": "2026-05-23T12:27:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-23T11:29:50Z",
+      "publishedAt": "2026-05-23T12:27:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,28 +20,13 @@
       "tags": []
     },
     {
-      "id": "bbc-ad12c1002289",
-      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
-      "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "id": "bbc-89f0e10b8ca9",
+      "title": "Rubio meets Modi during India visit with energy high on agenda",
+      "description": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
+      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-05-23T11:23:10Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-87b35887f80e",
-      "title": "War in the Middle East: US-Iran talks make headway",
-      "description": "Anahita Motazed Rad, Associate Fellow at the London School of Economics, is our guest.",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-us-iran-talks-make-headway",
-      "source": "France24",
-      "publishedAt": "2026-05-23T09:49:06Z",
-      "image": "https://s.france24.com/media/display/9a328aec-568b-11f1-86fb-005056a97e36/w:1024/p:16x9/EN-20260522-130431-131455-CS.jpg",
+      "publishedAt": "2026-05-23T11:55:39Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6457/live/9f324bc0-5697-11f1-8b8c-6d33e1d5abb6.jpg",
       "categories": [
         "conflict"
       ],
@@ -123,6 +108,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-601260058e8c",
+      "title": "Middle East war live: Iran’s armed forces 'rebuilt' during ceasefire with US, says top negotiator",
+      "description": "Iran's ​top negotiator ​and Parliament Speaker Mohammad Baqer Qalibaf said Saturday his country’s armed forces have been “rebuilt” during the ceasefire with the United States, as US media reports suggested that Washington was mulling new strikes. Read our liveblog for all the latest developments.",
+      "url": "https://www.france24.com/en/middle-east/20260523-live-iran-considers-latest-peace-proposal-accuses-us-of-excessive-demands",
+      "source": "France24",
+      "publishedAt": "2026-05-23T05:45:50Z",
+      "image": "https://s.france24.com/media/display/5496ae40-569b-11f1-a512-005056bf30b7/w:1024/p:16x9/000-B33L7NT.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

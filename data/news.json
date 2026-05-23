@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T14:36:22Z",
+  "updated": "2026-05-23T15:28:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-23T14:36:18Z",
+      "publishedAt": "2026-05-23T15:28:27Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -21,16 +21,46 @@
     },
     {
       "id": "bbc-ad12c1002289",
-      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+      "title": "At least 82 killed in Chinese coal mine explosion, state media reports",
       "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
       "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-05-23T13:40:31Z",
+      "publishedAt": "2026-05-23T15:18:40Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -0b25a4725aef",
+      "title": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
+      "description": "Attack on a police post in northern Gaza comes as dozens of people were wounded in Israeli attacks in the past 48 hours.",
+      "url": "https://www.aljazeera.com/news/2026/5/23/five-police-officers-13-year-old-boy-killed-in-israeli-attack-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-23T15:00:30Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a11b13a-1779544378.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-c270e0eb0dbe",
+      "title": "Russia says 16 killed in strike on student dorm that it blamed on Ukraine",
+      "description": "The death toll from a drone strike ​on a student dorm in the Russian-controlled Luhansk region of eastern Ukraine has risen to 16, with most of the victims young women, Russian officials said on Saturday, after a heated U.N. debate on the incident.",
+      "url": "https://www.france24.com/en/russia-says-16-killed-in-strike-on-student-dorm-that-it-blamed-on-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-05-23T14:40:04Z",
+      "image": "https://s.france24.com/media/display/6f2b81fc-56b1-11f1-b809-005056a97e36/w:1024/p:16x9/EN-20260523-150828-151008-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,21 +76,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-87b35887f80e",
-      "title": "War in the Middle East: US-Iran talks make headway",
-      "description": "Anahita Motazed Rad, Associate Fellow at the London School of Economics, is our guest.",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-us-iran-talks-make-headway",
-      "source": "France24",
-      "publishedAt": "2026-05-23T09:49:06Z",
-      "image": "https://s.france24.com/media/display/9a328aec-568b-11f1-86fb-005056a97e36/w:1024/p:16x9/EN-20260522-130431-131455-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,25 +111,9 @@
       "tags": []
     },
     {
-      "id": "al -65c11db5d843",
-      "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
-      "description": "Despite ICJ genocide warnings, 51 nations kept arming Israel, even after pledging to halt support.",
-      "url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-23T07:56:12Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-14T160254Z_284320201_RC2ES3A8GAD1_RTRMADP_3_ISRAEL-PALESTINIANS-KFAR-AZA-1-1697375329.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-5ae66b9a4488",
       "title": "Czechia: Uproar over Sudeten German gathering in Brno",
-      "description": "The first gathering of Sudeten Germans in Czechia since World War II is set to go ahead this weekend, despite a political backlash that has exposed tensions over one of Central Europe's most painful historical legacies.",
+      "description": "The first gathering of Sudeten Germans in Czechia since World War II is happening this weekend, despite a political backlash that has exposed tensions over one of Central Europe's most painful historical legacies.",
       "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-05-23T06:38:00Z",

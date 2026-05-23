@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T07:02:14Z",
+  "updated": "2026-05-23T08:47:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-23T07:02:10Z",
+      "publishedAt": "2026-05-23T08:47:21Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,48 @@
       "tags": []
     },
     {
-      "id": "al -19a17e5e1fd9",
-      "title": "Israeli forces attack central Gaza despite ceasefire agreement",
-      "description": "Video shows the moment Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-23T06:40:10Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/yt-1779518394.jpg?resize=1800%2C1063",
+      "id": "the-eaed880916de",
+      "title": "Ukrainian Drone Attack Sparks Fire at Russian Oil Depot",
+      "description": "Two people were wounded in an attack on Russia's fifth largest oil export hub in Novorossiysk, the local mayor said.",
+      "url": "https://www.themoscowtimes.com/2026/05/23/ukrainian-drone-attack-sparks-fire-at-russian-oil-depot-a92826",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-05-23T07:58:14Z",
+      "image": "https://static.themoscowtimes.com/image/og/c5/92826__c55973536421ae18cd8877f1dbb4852f.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -65c11db5d843",
+      "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+      "description": "Despite ICJ genocide warnings, 51 nations kept arming Israel, even after pledging to halt support.",
+      "url": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-23T07:56:12Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-14T160254Z_284320201_RC2ES3A8GAD1_RTRMADP_3_ISRAEL-PALESTINIANS-KFAR-AZA-1-1697375329.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-29fa8a692fd8",
+      "title": "Laughing and dancing again: Kibbutz Nahal Oz reopens pub abandoned after Oct. 7",
+      "description": "The Shack, rebuilt with help from the Bazan oil firm and Dutch and German volunteers, is dedicated in memory of soldier who defended the kibbutz and was later killed in Gaza The post Laughing and dancing again: Kibbutz Nahal Oz reopens pub abandoned after Oct. 7 appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/laughing-and-dancing-again-kibbutz-nahal-oz-reopens-pub-abandoned-after-oct-7/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-23T07:02:45Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/703776767_17961510288094773_1249088799306803731_n-e1779516939846-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -127,7 +158,7 @@
     {
       "id": "fra-e77b332e5866",
       "title": "Health workers struggle with Ebola outbreak as WHO declares highest risk level in DR Congo",
-      "description": "First, at least 160 lives already feared lost, health workers in the DRC are racing against time to contain a deadly disease that spreads as fast as it kills. Also, a diplomatic rift with the European Union is widening over security funding in Mozambique. The Foreign Ministry has criticised Brussels for halting support…",
+      "description": "First, with at least 160 lives already feared lost, health workers in the DRC are racing against time to contain a deadly disease that spreads as fast as it kills. Also, a diplomatic rift with the European Union is widening over security funding in Mozambique. The foreign ministry has criticised Brussels for halting su…",
       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260522-health-workers-struggle-with-ebola-outbreak-as-who-declares-highest-risk-level-in-dr-congo",
       "source": "France24",
       "publishedAt": "2026-05-22T20:38:56Z",
@@ -152,37 +183,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-f5dcfba75744",
-      "title": "IDF kills Hezbollah operatives in Lebanon, as drones trigger border sirens",
-      "description": "Syrian girl said killed as Israel strikes Hezbollah-linked rescuers; Lebanon says soldiers loyal to the army after US sanctions officer tied to Hezbollah The post IDF kills Hezbollah operatives in Lebanon, as drones trigger border sirens appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-kills-hezbollah-operatives-in-lebanon-as-drones-trigger-border-sirens/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-22T17:38:27Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/lebanon-1-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-7d5780d8d0a5",
-      "title": "Russia Requests UN Security Council Meeting After Deadly Ukrainian Attack on Luhansk Vocational School",
-      "description": "At least six people were killed and dozens more were wounded in the attack early Friday, President Vladimir Putin said.",
-      "url": "https://www.themoscowtimes.com/2026/05/22/russia-requests-un-security-council-meeting-after-deadly-ukrainian-attack-on-luhansk-vocational-school-a92818",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-05-22T13:17:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/91/92818__91498df6b1512793df78a5104056412e.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T03:12:33Z",
+  "updated": "2026-05-23T05:19:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-23T03:12:30Z",
+      "publishedAt": "2026-05-23T05:19:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -46,6 +46,21 @@
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-00cc2a48c435",
+      "title": "Hunger grows in Gaza as food aid is cut due to higher costs caused by war in Iran",
+      "description": "The U.S.-Israeli war against Iran is driving up the cost of food, leading to funding shortfalls and higher expenses for critical food aid in Gaza.",
+      "url": "https://www.npr.org/2026/05/22/nx-s1-5827011/hunger-grows-in-gaza-as-food-aid-is-cut-due-to-higher-costs-caused-by-war-in-iran",
+      "source": "NPR World",
+      "publishedAt": "2026-05-22T21:46:18Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5827011",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -158,22 +173,6 @@
       "tags": []
     },
     {
-      "id": "the-ab5ff63f3906",
-      "title": "Friday briefing: ​As Israel’s coalition collapses, can its prime minister hang on to power?",
-      "description": "In today’s newsletter: As ​the polls tighten a​​round Benjamin Netanyahu, the coming months may redefine Israel’s political order without resolving its most entrenched conflictsGood morning. On Wednesday, Israeli legislators took the first steps towards dissolving parliament and calling fresh nationwide elections. Lead…",
-      "url": "https://www.theguardian.com/world/2026/may/22/friday-briefing-as-israels-coalition-collapses-can-its-prime-minister-hang-on-to-power",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-22T05:44:28Z",
-      "image": "https://i.guim.co.uk/img/media/a7c35b3ac92dabd0d725c44728851946db11f754/58_0_2133_1706/master/2133.jpg?width=140&quality=85&auto=format&fit=max&s=9e57a61680626d8391b6c2b18c0f8770",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-4aaf9f01a520",
       "title": "'Unjammable' Drones Pioneered In Ukraine Emerge In Middle East War",
       "description": "Some experts believe the recent emergence of fiber-optic drones piloted by Hezbollah militants indicates Russia is feeding Iran intelligence about drone warfare, others believe a more worrying potential is more likely.",
@@ -190,21 +189,6 @@
       "tags": []
     },
     {
-      "id": "npr-e154b672db20",
-      "title": "After the sirens: Lebanon's first responders swing between duty and grief",
-      "description": "Nearly 3,000 people have been killed and nearly 1 million have been displaced the war in southern Lebanon began in March. Nearly 400 have been killed since a ceasefire began in April.",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief",
-      "source": "NPR World",
-      "publishedAt": "2026-05-21T16:13:26Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2Fc6%2F664daca84cf89e92685c1286c932%2F001.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -ba9cb77a86da",
       "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
       "description": "The Security Council is discussing the stalled progress in Gaza as the fragile ceasefire there limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs. Discussions are likely to focus on who governs Gaza, and how - with no disarmament in sight, toge…",
@@ -218,6 +202,22 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-583be8334b55",
+      "title": "Are Xi and Putin still ‘best friends’? – The Latest",
+      "description": "Xi Jinping welcomed Vladimir Putin to Beijing with pomp and pageantry, just days after hosting Donald Trump. But as Russia’s war in Ukraine makes Moscow increasingly dependent on China, and western leaders thaw relations with Beijing, what does the power imbalance mean for Xi and Putin’s relationship? Lucy Hough speaks…",
+      "url": "https://www.theguardian.com/news/audio/2026/may/20/are-xi-and-putin-still-best-friends-the-latest",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-20T16:17:15Z",
+      "image": "https://i.guim.co.uk/img/media/1044450eafbe46dacf139ecc1f056eff1c93d64f/147_0_3172_2537/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=695c46da5f23c167bb8904307d754baf",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
       "tags": []
     },
     {

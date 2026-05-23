@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T20:21:59Z",
+  "updated": "2026-05-23T21:21:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-23T20:21:57Z",
+      "publishedAt": "2026-05-23T21:21:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-611a7eb04d8d",
+      "title": "Serbia: Police clash with protesters urging early elections",
+      "description": "Officers fired teargas and stun grenades as tens of thousands rallied against President Aleksandar Vucic's government. The demonstration went ahead despite the state rail operator canceling trains to and from Belgrade.",
+      "url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-23T20:22:00Z",
+      "image": "https://static.dw.com/image/77275499_6.jpg",
       "categories": [
         "conflict"
       ],
@@ -26,7 +41,7 @@
       "url": "https://www.timesofisrael.com/soldier-killed-in-northern-israel-by-hezbollah-drone-from-lebanon/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-23T19:42:55Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/HJBYOyBXoAA8vZa-1024x640.jpeg",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/23423433-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -123,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-5ae66b9a4488",
-      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
-      "description": "The first gathering of Sudeten Germans in Czechia since World War II is happening this weekend, despite a political backlash that has exposed tensions over one of Central Europe's most painful historical legacies.",
-      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-23T06:38:00Z",
-      "image": "https://static.dw.com/image/77171363_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

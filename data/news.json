@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T08:47:23Z",
+  "updated": "2026-05-23T09:38:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-23T08:47:21Z",
+      "publishedAt": "2026-05-23T09:38:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-ad12c1002289",
+      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+      "description": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-23T09:03:50Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-26588ea258ed",
+      "title": "Board of Peace focus on Hamas risks return to war in Gaza, critics say",
+      "description": "US-backed board has put sole blame for stalled ceasefire on militant group despite Israel not fulfilling its obligations, analysts sayThe top diplomat from the Board of Peace has blamed Hamas for the stalled ceasefire, but critics have said the US-backed board’s lack of even-handedness in implementing the truce risks a…",
+      "url": "https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-23T09:00:13Z",
+      "image": "https://i.guim.co.uk/img/media/2083ddc2fda4ecd151d14c5026cb75db5b7d604b/67_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=5448e5ac7c5f17aeca69a3d0d43baeb5",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -77,36 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-ad12c1002289",
-      "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
-      "description": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-23T06:37:29Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bc/live/26de5e00-566c-11f1-b6cc-4175dfd9c219.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-2ac836fe1d78",
-      "title": "Israeli strikes in Lebanon killed 10, including six paramedics, health ministry says",
-      "description": "Lebanon’s health ministry condemns attacks as violations of international law; Israel says it struck Hezbollah infrastructure sites and militantsIsraeli strikes in Lebanon killed 10 people, including six paramedics and a child, in the space of 24 hours, Lebanon’s health ministry said on Friday, placing further strain o…",
-      "url": "https://www.theguardian.com/world/2026/may/23/israel-lebanon-strikes-deaths-paramedics-health-ministry-says",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-23T03:57:27Z",
-      "image": "https://i.guim.co.uk/img/media/bdf57dd340c201ba96eb775c68fdddf26a740f18/1193_411_4028_3223/master/4028.jpg?width=140&quality=85&auto=format&fit=max&s=7b02e4640c86279d39f1b431120a8489",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -187,6 +188,21 @@
       "tags": []
     },
     {
+      "id": "cs -b4b97bac8a39",
+      "title": "Iran’s economy was already struggling. The war has made it far worse.",
+      "description": "War, an internet blackout, and a shipping blockade: The people of Iran are living through an economic meltdown. The way out of it is far from clear.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0521/Iran-economy-internet-blackout-blockade-business?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-05-21T20:27:40Z",
+      "image": "https://images.csmonitor.com/csm/2026/05/0519_OIRANECONOMY_shopping.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-4aaf9f01a520",
       "title": "'Unjammable' Drones Pioneered In Ukraine Emerge In Middle East War",
       "description": "Some experts believe the recent emergence of fiber-optic drones piloted by Hezbollah militants indicates Russia is feeding Iran intelligence about drone warfare, others believe a more worrying potential is more likely.",
@@ -215,22 +231,6 @@
         "humanitarian"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -fce8e6800990",
-      "title": "Iran war opened doors for drone-savvy Ukraine. Zelenskyy is seizing the moment.",
-      "description": "Ukraine has turned its advances in drone technology into a diplomatic asset. Not so long ago, President Zelenskyy visited foreign capitals to beg for assistance. Now, he seals deals for drone sales and tech-sharing – as a desirable security partner.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0520/ukraine-drone-technology-zelenskyy-diplomacy-iran-war?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-05-20T09:00:09Z",
-      "image": "https://images.csmonitor.com/csm/2026/05/0519_ODRONEDIPLOMACY_redcarpet.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

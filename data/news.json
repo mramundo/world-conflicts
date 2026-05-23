@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-23T01:42:20Z",
+  "updated": "2026-05-23T03:12:33Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-23T01:42:16Z",
+      "publishedAt": "2026-05-23T03:12:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -10fe4f7938b9",
+      "title": "Pakistan's powerful military leader Asim Munir is reshaping the country",
+      "description": "In the year since Pakistan's brief conflict with India in May 2025, the head of Pakistan's armed forces has used the war to consolidate his hold on the state, further erasing the distinction between civilian and military power.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/23/pakistan-s-powerful-military-leader-asim-munir-is-reshaping-the-country_6753747_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-23T02:17:03Z",
+      "image": "https://img.lemde.fr/2026/05/21/463/0/5500/2750/644/322/60/0/f0fa0dc_ftp-1-vlbdk6aathoe-2026-05-21t135847z-1633208485-rc2odla7usvh-rtrmadp-3-iran-crisis-pakistan-mediation.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

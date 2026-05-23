@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T15:28:31Z",
+  "updated": "2026-05-23T16:25:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-23T15:28:27Z",
+      "publishedAt": "2026-05-23T16:25:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -21,7 +21,7 @@
     },
     {
       "id": "bbc-ad12c1002289",
-      "title": "At least 82 killed in Chinese coal mine explosion, state media reports",
+      "title": "At least 82 killed in Chinese coal mine explosion",
       "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
       "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -96,6 +96,22 @@
       "tags": []
     },
     {
+      "id": "le -00a4fe852aac",
+      "title": "'The very embodiment of terror': At the ICC, chilling account of crimes committed by Libyan prison official",
+      "description": "Khaled Mohamed Ali El Hishri faces 17 counts of 'crimes against humanity and war crimes' allegedly committed against hundreds of detainees between 2014 and 2020 at a prison near Tripoli.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/05/23/the-very-embodiment-of-terror-at-the-icc-chilling-account-of-crimes-committed-by-libyan-prison-official_6753751_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-23T08:43:23Z",
+      "image": "https://img.lemde.fr/2026/05/22/334/0/4000/2000/644/322/60/0/48b0574_upload-1-mjxrkddej9fx-55279136347-aba54be2ba-o.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-eaed880916de",
       "title": "Ukrainian Drone Attack Sparks Fire at Russian Oil Depot",
       "description": "Two people were wounded in an attack on Russia's fifth largest oil export hub in Novorossiysk, the local mayor said.",
@@ -122,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -10fe4f7938b9",
-      "title": "Pakistan's powerful military leader Asim Munir is reshaping the country",
-      "description": "In the year since Pakistan's brief conflict with India in May 2025, the head of Pakistan's armed forces has used the war to consolidate his hold on the state, further erasing the distinction between civilian and military power.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/23/pakistan-s-powerful-military-leader-asim-munir-is-reshaping-the-country_6753747_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-23T02:17:01Z",
-      "image": "https://img.lemde.fr/2026/05/21/463/0/5500/2750/644/322/60/0/f0fa0dc_ftp-1-vlbdk6aathoe-2026-05-21t135847z-1633208485-rc2odla7usvh-rtrmadp-3-iran-crisis-pakistan-mediation.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -171,13 +172,13 @@
       "tags": []
     },
     {
-      "id": "ans-866a46974f49",
-      "title": "L'Ue accoglie la richiesta di Tajani sulle sanzioni a Ben Gvir",
-      "description": "Fonti, 'proposta sostenuta da diversi Paesi, sul tavolo del Cae il 15 giugno'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/22/lue-accoglie-la-richiesta-di-tajani-sulle-sanzioni-a-ben-gvir_07754793-6b21-416b-a8a1-241cd4dbaa22.html",
+      "id": "ans-99e66c23475f",
+      "title": "Fox, ' si dimette capo 007 Usa Tulsi Gabbard'",
+      "description": "'Devo sostenere mio marito nella sua battaglia contro una forma di cancro alle ossa'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/22/fox-si-dimette-capo-007-usa-tulsi-gabbard_8cdc41b3-7540-4ba0-83b7-03885fdf42d5.html",
       "source": "ANSA",
-      "publishedAt": "2026-05-22T18:14:48Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/21/da4b827550042dbf4c01ea3c8c12d141.jpg",
+      "publishedAt": "2026-05-22T18:13:30Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/3/19/c4a92d6dbcb2cde055d5798f99e16031.jpg",
       "categories": [
         "conflict"
       ],

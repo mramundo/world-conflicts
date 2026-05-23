@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T05:19:57Z",
+  "updated": "2026-05-23T07:02:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-23T05:19:53Z",
+      "publishedAt": "2026-05-23T07:02:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,12 +20,72 @@
       "tags": []
     },
     {
+      "id": "al -19a17e5e1fd9",
+      "title": "Israeli forces attack central Gaza despite ceasefire agreement",
+      "description": "Video shows the moment Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-23T06:40:10Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/yt-1779518394.jpg?resize=1800%2C1063",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-5ae66b9a4488",
+      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
+      "description": "The first gathering of Sudeten Germans in Czechia since World War II is set to go ahead this weekend, despite a political backlash that has exposed tensions over one of Central Europe's most painful historical legacies.",
+      "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-23T06:38:00Z",
+      "image": "https://static.dw.com/image/77171363_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-ad12c1002289",
+      "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
+      "description": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-23T06:37:29Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bc/live/26de5e00-566c-11f1-b6cc-4175dfd9c219.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-2ac836fe1d78",
+      "title": "Israeli strikes in Lebanon killed 10, including six paramedics, health ministry says",
+      "description": "Lebanon’s health ministry condemns attacks as violations of international law; Israel says it struck Hezbollah infrastructure sites and militantsIsraeli strikes in Lebanon killed 10 people, including six paramedics and a child, in the space of 24 hours, Lebanon’s health ministry said on Friday, placing further strain o…",
+      "url": "https://www.theguardian.com/world/2026/may/23/israel-lebanon-strikes-deaths-paramedics-health-ministry-says",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-23T03:57:27Z",
+      "image": "https://i.guim.co.uk/img/media/bdf57dd340c201ba96eb775c68fdddf26a740f18/1193_411_4028_3223/master/4028.jpg?width=140&quality=85&auto=format&fit=max&s=7b02e4640c86279d39f1b431120a8489",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -10fe4f7938b9",
       "title": "Pakistan's powerful military leader Asim Munir is reshaping the country",
       "description": "In the year since Pakistan's brief conflict with India in May 2025, the head of Pakistan's armed forces has used the war to consolidate his hold on the state, further erasing the distinction between civilian and military power.",
       "url": "https://www.lemonde.fr/en/international/article/2026/05/23/pakistan-s-powerful-military-leader-asim-munir-is-reshaping-the-country_6753747_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-23T02:17:03Z",
+      "publishedAt": "2026-05-23T02:17:01Z",
       "image": "https://img.lemde.fr/2026/05/21/463/0/5500/2750/644/322/60/0/f0fa0dc_ftp-1-vlbdk6aathoe-2026-05-21t135847z-1633208485-rc2odla7usvh-rtrmadp-3-iran-crisis-pakistan-mediation.JPG",
       "categories": [
         "conflict"
@@ -81,37 +141,6 @@
       "tags": []
     },
     {
-      "id": "deu-a550251a7f91",
-      "title": "New alliances emerge in Middle East — which one will 'win'?",
-      "description": "The UAE and Israel are getting closer, while Saudi Arabia is enhancing cooperation with Egypt, Turkey and Pakistan. The new alliances represent a rift in the Gulf, as approaches to the Iran war and the region diverge.",
-      "url": "https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-22T20:15:00Z",
-      "image": "https://static.dw.com/image/76385150_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -6a54be73f53e",
-      "title": "What are the implications of US sanctions in Lebanon?",
-      "description": "Nine people targeted, including Lebanese military officers.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-22T20:00:36Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779477750.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "ans-866a46974f49",
       "title": "L'Ue accoglie la richiesta di Tajani sulle sanzioni a Ben Gvir",
       "description": "Fonti, 'proposta sostenuta da diversi Paesi, sul tavolo del Cae il 15 giugno'",
@@ -138,21 +167,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-b825d866e95d",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "description": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-22T15:18:30Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4f/live/0b4bb9f0-55c0-11f1-99e4-4d92e48ba181.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -202,22 +216,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-583be8334b55",
-      "title": "Are Xi and Putin still ‘best friends’? – The Latest",
-      "description": "Xi Jinping welcomed Vladimir Putin to Beijing with pomp and pageantry, just days after hosting Donald Trump. But as Russia’s war in Ukraine makes Moscow increasingly dependent on China, and western leaders thaw relations with Beijing, what does the power imbalance mean for Xi and Putin’s relationship? Lucy Hough speaks…",
-      "url": "https://www.theguardian.com/news/audio/2026/may/20/are-xi-and-putin-still-best-friends-the-latest",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-20T16:17:15Z",
-      "image": "https://i.guim.co.uk/img/media/1044450eafbe46dacf139ecc1f056eff1c93d64f/147_0_3172_2537/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=695c46da5f23c167bb8904307d754baf",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     },
     {

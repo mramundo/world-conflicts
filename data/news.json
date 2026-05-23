@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T12:27:58Z",
+  "updated": "2026-05-23T13:35:00Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-23T12:27:54Z",
+      "publishedAt": "2026-05-23T13:34:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-4203092f7b90",
+      "title": "IDF says it attacked Hezbollah sites, as at least 5 reported killed in south Lebanon",
+      "description": "Military says overnight strikes targeted underground weapons production site in Beqaa and other infrastructure in Tyre, where state media reports 'severe damage' to a hospital The post IDF says it attacked Hezbollah sites, as at least 5 reported killed in south Lebanon appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-says-it-attacked-hezbollah-sites-as-at-least-5-reported-killed-in-south-lebanon/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-23T12:44:53Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260523__B3TG8KH__v3__HighRes__TopshotLebanonIsraelIranUsWar-e1779537176874-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,21 +93,6 @@
         "humanitarian"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-29fa8a692fd8",
-      "title": "Laughing and dancing again: Kibbutz Nahal Oz reopens pub abandoned after Oct. 7",
-      "description": "The Shack, rebuilt with help from the Bazan oil firm and Dutch and German volunteers, is dedicated in memory of soldier who defended the kibbutz and was later killed in Gaza The post Laughing and dancing again: Kibbutz Nahal Oz reopens pub abandoned after Oct. 7 appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/laughing-and-dancing-again-kibbutz-nahal-oz-reopens-pub-abandoned-after-oct-7/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-23T07:02:45Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/703776767_17961510288094773_1249088799306803731_n-e1779516939846-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T10:37:03Z",
+  "updated": "2026-05-24T11:32:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-24T10:37:00Z",
+      "publishedAt": "2026-05-24T11:32:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -21,11 +21,11 @@
     },
     {
       "id": "the-3b2e85144ca7",
-      "title": "What is included in the Iran ceasefire deal?",
+      "title": "What may be included in proposed Iran ceasefire deal?",
       "description": "Proposed framework hinges on a 60-day truce, reopening strait of Hormuz, and revived talks on limiting Iran nuclear programme• Middle East crisis: live updatesDonald Trump has said a “memorandum of understanding” in talks to end the US-Israel war on Iran “has been largely negotiated”.Official details of the deal remain…",
       "url": "https://www.theguardian.com/world/2026/may/24/iran-ceasefire-deal-us-strait-of-hormuz",
       "source": "The Guardian",
-      "publishedAt": "2026-05-24T10:26:10Z",
+      "publishedAt": "2026-05-24T10:31:40Z",
       "image": "https://i.guim.co.uk/img/media/a4365c9fa62a13237c54803574e458b9721aedbc/182_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=2ddbb8fcb9d0b370cde809f129f5c85f",
       "categories": [
         "conflict",
@@ -47,6 +47,21 @@
         "conflict"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-1b35542c60d6",
+      "title": "More than 20 people killed in suicide bombing targeting Pakistani passenger train",
+      "description": "At least 23 people have been killed after a suicide bomber detonated his explosive-laden car near a railway in the city of Quetta, in southwestern Pakistan, just as a passenger train passed. More than 70 people were also injured in the blast so powerful that two of the train cars overturned and caught fire.",
+      "url": "https://www.france24.com/en/asia-pacific/20260524-more-than-20-people-killed-in-suicide-bombing-targeting-pakistani-passenger-train",
+      "source": "France24",
+      "publishedAt": "2026-05-24T10:12:01Z",
+      "image": "https://s.france24.com/media/display/6c561818-5754-11f1-b56b-005056a90284/w:1024/p:16x9/c11428bb187d3a6a76cfa4c66161145b47e8ee5c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -108,21 +123,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-8ae5f623392c",
-      "title": "Several dead in Russian attack on Kyiv region, Moscow confirms using hypersonic O missile",
-      "description": "At least four people have been killed and dozens more have been injured in a massive Russian drone and missile attack Sunday on Ukraine’s capital Kyiv and its surrounding region, officials said. The Russian army has confirmed the use of an ‌Oreshnik hypersonic ⁠intermediate-range ballistic ‌missile.",
-      "url": "https://www.france24.com/en/europe/20260524-russian-ballistic-missile-attack-hits-kyiv-after-moscow-vows-retaliation",
-      "source": "France24",
-      "publishedAt": "2026-05-24T02:15:44Z",
-      "image": "https://s.france24.com/media/display/cdd1295c-5740-11f1-ad8b-005056a97e36/w:1024/p:16x9/AP26144221360225.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

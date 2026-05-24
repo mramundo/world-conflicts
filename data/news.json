@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T16:26:22Z",
+  "updated": "2026-05-24T17:25:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-24T16:26:18Z",
+      "publishedAt": "2026-05-24T17:25:27Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-fc428179e100",
+      "title": "Discharged IDF soldier from US dies of apparent suicide after struggling with PTSD",
+      "description": "Alex Miller, 23, was moderately wounded in a 2022 car-ramming attack, lost close friend in 2025 Gaza combat; as an only child, required special permission to enlist The post Discharged IDF soldier from US dies of apparent suicide after struggling with PTSD appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/discharged-idf-soldier-from-us-dies-of-apparent-suicide-after-struggling-with-ptsd/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-24T13:44:55Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/HJEtKDuWQAEC3JZ-e1779620010785-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -82,21 +97,6 @@
       "tags": []
     },
     {
-      "id": "tim-2398f835939c",
-      "title": "Three said killed in Israeli strike in Gaza, including one-year-old",
-      "description": "IDF does not comment on strike, but says it hit Hamas arms depots in recent days as violence continues unabated amid shaky ceasefire The post Three said killed in Israeli strike in Gaza, including one-year-old appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/three-said-killed-in-israeli-strike-in-gaza-including-one-year-old-child/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-24T10:18:58Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/strike-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-ce8f26f78bf1",
       "title": "Axios, 'in bozza accordo Usa-Iran tregua 60 giorni, anche in Libano'",
       "description": "'Nei due mesi Hormuz riaperto anche al petrolio iraniano e trattative sul nucleare'",
@@ -108,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -6953d4278859",
-      "title": "Missile strikes pound Kyiv after Russia vows retaliation",
-      "description": "A large ballistic missile attack pounded Ukraine's capital early on Sunday, wounding at least five people. Ukrainian authorities and the US embassy had earlier issued warnings of a possible significant airstrike on Kyiv after Moscow threatened retaliation for a drone barrage in Russian-occupied eastern Ukraine that hit…",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/24/missile-strikes-pound-kyiv-after-russia-vows-retaliation_6753771_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-24T03:12:20Z",
-      "image": "https://img.lemde.fr/2026/05/24/504/0/6048/3024/644/322/60/0/1046f31_ftp-1-tnsm3gzyuw8l-5127778-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -149,6 +134,21 @@
       "source": "Deutsche Welle",
       "publishedAt": "2026-05-23T20:22:00Z",
       "image": "https://static.dw.com/image/77275499_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -84f877c4119d",
+      "title": "Europe seeks to defuse Trump criticism ahead of NATO summit in Ankara",
+      "description": "Disoriented by a flurry of announcements regarding the stationing of US troops on the continent, European foreign ministers sought to convince Marco Rubio of their efforts to take greater responsibility for collective defense and to help reopen the Strait of Hormuz.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/23/europe-seeks-to-defuse-trump-criticism-ahead-of-nato-summit-in-ankara_6753752_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-23T09:13:49Z",
+      "image": "https://img.lemde.fr/2026/05/22/13/0/2702/1351/644/322/60/0/9fcd7d9_ftp-1-k6uzsnjz8icw-2026-05-22t103308z-738387264-rc28elasc2k7-rtrmadp-3-nato-diplomacy-sweden.JPG",
       "categories": [
         "conflict"
       ],

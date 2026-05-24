@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T08:57:37Z",
+  "updated": "2026-05-24T09:43:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-24T08:57:33Z",
+      "publishedAt": "2026-05-24T09:43:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,34 @@
       "tags": []
     },
     {
-      "id": "al -e92e4e135eea",
-      "title": "Russian attacks on Ukraine’s Kyiv kill at least four people",
-      "description": "Two ​people are killed in ⁠the ​capital itself and two ⁠in the Kyiv region while 40 locations are damaged.",
-      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-24T08:22:40Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26144105121844-1779610876.jpg?resize=1920%2C1440",
+      "id": "npr-36e13622ee0a",
+      "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
+      "description": "Ukrainian President Volodymyr Zelenskyy said Sunday Russia used the powerful hypersonic Oreshnik ballistic missile during a mass drone and missile attack on Kyiv on Sunday that killed at least two people.",
+      "url": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
+      "source": "NPR World",
+      "publishedAt": "2026-05-24T09:12:28Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8108x5405+0+0/resize/8108x5405!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2F38%2Fdc930a8248169e7d05a2e9d03b4b%2Fap26144194965543.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 8,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ff613b6e4d90",
+      "title": "Yemen war sees scramble for scant resources between displaced and locals",
+      "description": "Reduced aid to Yemen and a domestic economic crisis see extreme suffering among the displaced at the Maryamah camp.",
+      "url": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-24T08:47:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/1a3d-1779600233.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -46,6 +62,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-3cb043ddb735",
+      "title": "Right-wing activists protest outside IDF chief’s house, said to call him ‘traitor’",
+      "description": "Demonstrators angry at jailing of soldier who wore a controversial, unauthorized 'Messiah' patch on combat uniform; opposition figures blame government The post Right-wing activists protest outside IDF chief’s house, said to call him ‘traitor’ appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/right-wing-activists-protest-outside-idf-chiefs-house-said-to-call-him-traitor/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-24T05:50:09Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/Zamir-protest-e1779598926196-1024x640.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -65,17 +96,17 @@
       "tags": []
     },
     {
-      "id": "npr-d987df2d7867",
-      "title": "Romanian director Cristian Mungiu's 'Fjord' wins top prize at Cannes",
-      "description": "Mungiu took home the prestigious Palme D'Or for his film Fjord, a culture-war drama set in Norway.",
-      "url": "https://www.npr.org/2026/05/23/nx-s1-5832564/palme-dor-cannes-film-festival",
-      "source": "NPR World",
-      "publishedAt": "2026-05-24T00:13:33Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5559x3706+0+0/resize/5559x3706!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2F93%2F026824da4eb38e3eb04b1bea87cc%2Fap26143715299476.jpg",
+      "id": "fra-8ae5f623392c",
+      "title": "Several dead in Russian attack on Kyiv region, Moscow confirms using hypersonic O missile",
+      "description": "At least four people have been killed and dozens more have been injured in a massive Russian drone and missile attack Sunday on Ukraine’s capital Kyiv and its surrounding region, officials said. The Russian army has confirmed the use of an ‌Oreshnik hypersonic ⁠intermediate-range ballistic ‌missile.",
+      "url": "https://www.france24.com/en/europe/20260524-russian-ballistic-missile-attack-hits-kyiv-after-moscow-vows-retaliation",
+      "source": "France24",
+      "publishedAt": "2026-05-24T02:15:44Z",
+      "image": "https://s.france24.com/media/display/cdd1295c-5740-11f1-ad8b-005056a97e36/w:1024/p:16x9/AP26144221360225.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -106,36 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-c5c53725b9fe",
-      "title": "Soldier killed in northern Israel by Hezbollah drone from Lebanon",
-      "description": "Two other soldiers reportedly hurt in attack, including one in serious condition; IDF releases video of UAV wounding combat military photographer in south Lebanon earlier in week The post Soldier killed in northern Israel by Hezbollah drone from Lebanon appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/soldier-killed-in-northern-israel-by-hezbollah-drone-from-lebanon/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-23T19:42:55Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/23423433-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-c270e0eb0dbe",
-      "title": "Russia says 16 killed in strike on student dorm that it blamed on Ukraine",
-      "description": "The death toll from a drone strike ​on a student dorm in the Russian-controlled Luhansk region of eastern Ukraine has risen to 16, with most of the victims young women, Russian officials said on Saturday, after a heated U.N. debate on the incident.",
-      "url": "https://www.france24.com/en/russia-says-16-killed-in-strike-on-student-dorm-that-it-blamed-on-ukraine",
-      "source": "France24",
-      "publishedAt": "2026-05-23T14:40:04Z",
-      "image": "https://s.france24.com/media/display/6f2b81fc-56b1-11f1-b809-005056a97e36/w:1024/p:16x9/EN-20260523-150828-151008-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T11:32:30Z",
+  "updated": "2026-05-24T12:30:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-24T11:32:26Z",
+      "publishedAt": "2026-05-24T12:30:40Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -471d7f365cef",
+      "title": "Israeli attack on Gaza kills three family members, including infant",
+      "description": "Mohammad Abu Mallouh, ​Alaa Zaqlan and their child, Osama, killed in the attack on Nuseirat refugee camp, medics say.",
+      "url": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-24T11:41:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a12d791086b-1779619729.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-803488845170",
+      "title": "War in Ukraine: Russia launches massive missile strike on Kyiv",
+      "description": "Macron, EU’s Kallas condemn Russian attack on Ukraine with Oreshnik ballistic missile.",
+      "url": "https://www.france24.com/en/war-in-ukraine-russia-launches-massive-strike-on-kyiv",
+      "source": "France24",
+      "publishedAt": "2026-05-24T11:29:44Z",
+      "image": "https://s.france24.com/media/display/7453a5a6-575b-11f1-836d-005056bf30b7/w:1024/p:16x9/EN-20260524-121109-121250-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "fra-1b35542c60d6",
-      "title": "More than 20 people killed in suicide bombing targeting Pakistani passenger train",
-      "description": "At least 23 people have been killed after a suicide bomber detonated his explosive-laden car near a railway in the city of Quetta, in southwestern Pakistan, just as a passenger train passed. More than 70 people were also injured in the blast so powerful that two of the train cars overturned and caught fire.",
-      "url": "https://www.france24.com/en/asia-pacific/20260524-more-than-20-people-killed-in-suicide-bombing-targeting-pakistani-passenger-train",
-      "source": "France24",
-      "publishedAt": "2026-05-24T10:12:01Z",
-      "image": "https://s.france24.com/media/display/6c561818-5754-11f1-b56b-005056a90284/w:1024/p:16x9/c11428bb187d3a6a76cfa4c66161145b47e8ee5c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-36e13622ee0a",
       "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
       "description": "Ukrainian President Volodymyr Zelenskyy said Sunday Russia used the powerful hypersonic Oreshnik ballistic missile during a mass drone and missile attack on Kyiv on Sunday that killed at least two people.",
@@ -78,22 +93,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -ff613b6e4d90",
-      "title": "Yemen war sees scramble for scant resources between displaced and locals",
-      "description": "Reduced aid to Yemen and a domestic economic crisis see extreme suffering among the displaced at the Maryamah camp.",
-      "url": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-24T08:47:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/1a3d-1779600233.jpg?resize=1200%2C630",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -187,6 +186,21 @@
       "tags": []
     },
     {
+      "id": "un -255257df8dc4",
+      "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
+      "description": "The United Nations voiced alarm on Friday over reports of an overnight attack on a vocational school and dormitory in the town of Starobilsk in Ukraine’s Luhansk region which killed and injured multiple civilians, including children.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167579",
+      "source": "UN News",
+      "publishedAt": "2026-05-22T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/22-05-2026-UN-Photo-Vanessa-Frazier.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -b4b97bac8a39",
       "title": "Iran’s economy was already struggling. The war has made it far worse.",
       "description": "War, an internet blackout, and a shipping blockade: The people of Iran are living through an economic meltdown. The way out of it is far from clear.",
@@ -215,22 +229,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -ba9cb77a86da",
-      "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
-      "description": "The Security Council is discussing the stalled progress in Gaza as the fragile ceasefire there limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs. Discussions are likely to focus on who governs Gaza, and how - with no disarmament in sight, toge…",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167563",
-      "source": "UN News",
-      "publishedAt": "2026-05-21T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/01-05-2026-WFP-Gaza-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     }
   ]

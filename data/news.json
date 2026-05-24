@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T12:30:45Z",
+  "updated": "2026-05-24T13:35:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-24T12:30:40Z",
+      "publishedAt": "2026-05-24T13:35:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-0faf0bf885a6",
+      "title": "What both sides have said about a U.S.-Iran deal",
+      "description": "President Trump took to social media Saturday and said the U.S. and Iran are close to deal on ending the war. But the president didn't offer details and it's not yet clear where Iran stands.",
+      "url": "https://www.npr.org/2026/05/24/nx-s1-5832613/what-both-sides-have-said-about-a-u-s-iran-deal",
+      "source": "NPR World",
+      "publishedAt": "2026-05-24T12:54:35Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5832613",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -67,8 +83,8 @@
     },
     {
       "id": "tim-2398f835939c",
-      "title": "Three said killed in Israeli strike in Gaza, including one-year-old child",
-      "description": "IDF does not comment on strike, but says it hit Hamas arms depots in recent days as violence continues unabated amid shaky ceasefire The post Three said killed in Israeli strike in Gaza, including one-year-old child appeared first on The Times of Israel.",
+      "title": "Three said killed in Israeli strike in Gaza, including one-year-old",
+      "description": "IDF does not comment on strike, but says it hit Hamas arms depots in recent days as violence continues unabated amid shaky ceasefire The post Three said killed in Israeli strike in Gaza, including one-year-old appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/three-said-killed-in-israeli-strike-in-gaza-including-one-year-old-child/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-24T10:18:58Z",
@@ -77,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-36e13622ee0a",
-      "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
-      "description": "Ukrainian President Volodymyr Zelenskyy said Sunday Russia used the powerful hypersonic Oreshnik ballistic missile during a mass drone and missile attack on Kyiv on Sunday that killed at least two people.",
-      "url": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
-      "source": "NPR World",
-      "publishedAt": "2026-05-24T09:12:28Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8108x5405+0+0/resize/8108x5405!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2F38%2Fdc930a8248169e7d05a2e9d03b4b%2Fap26144194965543.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T09:43:23Z",
+  "updated": "2026-05-24T10:37:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-24T09:43:20Z",
+      "publishedAt": "2026-05-24T10:37:00Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-3b2e85144ca7",
+      "title": "What is included in the Iran ceasefire deal?",
+      "description": "Proposed framework hinges on a 60-day truce, reopening strait of Hormuz, and revived talks on limiting Iran nuclear programme• Middle East crisis: live updatesDonald Trump has said a “memorandum of understanding” in talks to end the US-Israel war on Iran “has been largely negotiated”.Official details of the deal remain…",
+      "url": "https://www.theguardian.com/world/2026/may/24/iran-ceasefire-deal-us-strait-of-hormuz",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-24T10:26:10Z",
+      "image": "https://i.guim.co.uk/img/media/a4365c9fa62a13237c54803574e458b9721aedbc/182_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=2ddbb8fcb9d0b370cde809f129f5c85f",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-2398f835939c",
+      "title": "Three said killed in Israeli strike in Gaza, including one-year-old child",
+      "description": "IDF does not comment on strike, but says it hit Hamas arms depots in recent days as violence continues unabated amid shaky ceasefire The post Three said killed in Israeli strike in Gaza, including one-year-old child appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/three-said-killed-in-israeli-strike-in-gaza-including-one-year-old-child/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-24T10:18:58Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/strike-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-3cb043ddb735",
-      "title": "Right-wing activists protest outside IDF chief’s house, said to call him ‘traitor’",
-      "description": "Demonstrators angry at jailing of soldier who wore a controversial, unauthorized 'Messiah' patch on combat uniform; opposition figures blame government The post Right-wing activists protest outside IDF chief’s house, said to call him ‘traitor’ appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/right-wing-activists-protest-outside-idf-chiefs-house-said-to-call-him-traitor/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-24T05:50:09Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/Zamir-protest-e1779598926196-1024x640.jpeg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -137,22 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-26588ea258ed",
-      "title": "Board of Peace focus on Hamas risks return to war in Gaza, critics say",
-      "description": "US-backed board has put sole blame for stalled ceasefire on militant group despite Israel not fulfilling its obligations, analysts sayThe top diplomat from the Board of Peace has blamed Hamas for the stalled ceasefire, but critics have said the US-backed board’s lack of even-handedness in implementing the truce risks a…",
-      "url": "https://www.theguardian.com/world/2026/may/23/board-of-peace-focus-on-hamas-risks-return-to-war-in-gaza-critics-say",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-23T09:00:13Z",
-      "image": "https://i.guim.co.uk/img/media/2083ddc2fda4ecd151d14c5026cb75db5b7d604b/67_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=5448e5ac7c5f17aeca69a3d0d43baeb5",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T07:13:53Z",
+  "updated": "2026-05-24T08:57:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-24T07:13:48Z",
+      "publishedAt": "2026-05-24T08:57:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,12 +20,27 @@
       "tags": []
     },
     {
+      "id": "al -e92e4e135eea",
+      "title": "Russian attacks on Ukraine’s Kyiv kill at least four people",
+      "description": "Two ​people are killed in ⁠the ​capital itself and two ⁠in the Kyiv region while 40 locations are damaged.",
+      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-24T08:22:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26144105121844-1779610876.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "ans-ce8f26f78bf1",
       "title": "Axios, 'in bozza accordo Usa-Iran tregua 60 giorni, anche in Libano'",
       "description": "'Nei due mesi Hormuz riaperto anche al petrolio iraniano e trattative sul nucleare'",
       "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/24/axios-in-bozza-accordo-usa-iran-tregua-60-giorni-anche-in-libano_fdb52842-f4cd-4e27-8c86-6c5a75953cf4.html",
       "source": "ANSA",
-      "publishedAt": "2026-05-24T04:49:59Z",
+      "publishedAt": "2026-05-24T08:20:04Z",
       "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/24/64b51259b8cfe842f5acb98fe44d60d4.jpg",
       "categories": [
         "conflict"
@@ -40,7 +55,7 @@
       "description": "A large ballistic missile attack pounded Ukraine's capital early on Sunday, wounding at least five people. Ukrainian authorities and the US embassy had earlier issued warnings of a possible significant airstrike on Kyiv after Moscow threatened retaliation for a drone barrage in Russian-occupied eastern Ukraine that hit…",
       "url": "https://www.lemonde.fr/en/international/article/2026/05/24/missile-strikes-pound-kyiv-after-russia-vows-retaliation_6753771_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-24T03:12:25Z",
+      "publishedAt": "2026-05-24T03:12:20Z",
       "image": "https://img.lemde.fr/2026/05/24/504/0/6048/3024/644/322/60/0/1046f31_ftp-1-tnsm3gzyuw8l-5127778-01-06.jpg",
       "categories": [
         "conflict"
@@ -106,21 +121,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -19f49dd6bb30",
-      "title": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
-      "description": "Overnight Israeli strikes devastated the Nuseirat and Bureij refugee camps in central Gaza despite an ongoing ceasefire.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-23T15:53:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Overnight-strikes-aftermath-1779551529.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T21:29:50Z",
+  "updated": "2026-05-25T22:26:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/japan-s-smaller-firms-struggle-to-pass-on-higher-costs-from-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-25T21:29:46Z",
+      "publishedAt": "2026-05-25T22:26:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F8%2F8%2F12538813-1-eng-GB%2Fbfc373d25797-20260525N-Kawakami-Paint.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -58,6 +58,21 @@
       "source": "CS Monitor",
       "publishedAt": "2026-05-25T19:32:56Z",
       "image": "https://images.csmonitor.com/csm/2026/05/1213248_2_0525-kyiv_standard.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-f001bd217855",
+      "title": "Israel pounds Lebanon with fresh air strikes, vows to 'crush' Hezbollah",
+      "description": "Israel intensified air strikes across southern and eastern Lebanon on Monday after Prime Minister Benjamin Netanyahu vowed to “crush” Hezbollah, deepening fears of a wider regional conflict. The escalation comes despite an April ceasefire and as another round of US-Iran talks takes place in Doha in a bid to negotiate t…",
+      "url": "https://www.france24.com/en/middle-east/20260525-israel-steps-up-lebanon-strikes-as-netanyahu-escalates-offensive",
+      "source": "France24",
+      "publishedAt": "2026-05-25T18:49:12Z",
+      "image": "https://s.france24.com/media/display/6b5ca064-586a-11f1-a885-005056a90284/w:1024/p:16x9/4d4e6f27bc457d3cb17da7705c316d2bebd66e9d.jpg",
       "categories": [
         "conflict"
       ],
@@ -143,8 +158,8 @@
     },
     {
       "id": "tim-c3f70fd99f60",
-      "title": "Palestinians ask court to halt alleged spike in unlawful detentions by troops",
-      "description": "Five West Bank men petition High Court claiming soldiers repeatedly nabbed them without apparent cause and hauled them to bases where they were abused for hours, then released without being questioned The post Palestinians ask court to halt alleged spike in unlawful detentions by troops appeared first on The Times of I…",
+      "title": "Five Palestinians ask court to halt alleged spike in unlawful detentions by troops",
+      "description": "West Bank men petition High Court claiming soldiers repeatedly nabbed them without apparent cause and hauled them to bases where they were abused for hours, then released without being questioned The post Five Palestinians ask court to halt alleged spike in unlawful detentions by troops appeared first on The Times of I…",
       "url": "https://www.timesofisrael.com/palestinians-ask-court-to-halt-alleged-spike-in-unlawful-detentions-by-troops/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-25T14:10:42Z",
@@ -153,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-e1b0422abbdc",
-      "title": "Possible Iran-US deal: What we know about the key issues on both sides",
-      "description": "The United States and Iran have downplayed prospects for a rapid deal to end the Middle East war, despite signs of progress in talks. Key sticking points remain over Iran’s nuclear programme, control of the Strait of Hormuz, sanctions relief and a possible ceasefire in Lebanon, with both sides signalling that major iss…",
-      "url": "https://www.france24.com/en/middle-east/20260525-possible-iran-us-deal-what-we-know",
-      "source": "France24",
-      "publishedAt": "2026-05-25T12:03:09Z",
-      "image": "https://s.france24.com/media/display/a810742e-5769-11f1-974c-005056a90284/w:1024/p:16x9/ecf229a12afeddb81f07b119812f3fea9a6d70d0.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

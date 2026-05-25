@@ -1,51 +1,66 @@
 {
-  "updated": "2026-05-25T05:38:37Z",
+  "updated": "2026-05-25T07:44:11Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-f9ee19d6a8e6",
-      "title": "The shrinking, monochrome future of Japan's war-ravaged food industry",
+      "id": "nik-6d7788d85d7d",
+      "title": "Toyota to cut more production abroad due to Iran war",
       "description": "",
-      "url": "https://asia.nikkei.com/business/food-beverage/the-shrinking-monochrome-future-of-japan-s-war-ravaged-food-industry",
+      "url": "https://asia.nikkei.com/business/automobiles/toyota-to-cut-more-production-abroad-due-to-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-25T05:38:34Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F5%2F6%2F2%2F12532651-1-eng-GB%2Fcef2e04b0eae-.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-05-25T07:44:08Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F7%2F12537248-1-eng-GB%2F997e9b42d634-photo_SXM2026052500001850.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-4d49b08489e3",
+      "title": "Muslims begin the annual Hajj against a backdrop of war concerns",
+      "description": "More than 1.5 million pilgrims have arrived in Saudi Arabia for the annual Hajj pilgrimage, one of the Five Pillars of Islam, against the backdrop of a tenuous ceasefire in the Iran war and related regional tensions.",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5833671/muslims-begin-annual-hajj",
+      "source": "NPR World",
+      "publishedAt": "2026-05-25T07:05:02Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8125x5417+0+0/resize/8125x5417!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F94%2F6f93368f4f8a922095c12cd7b5e9%2Fap26144706183009.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-54e8b0422e57",
+      "title": "Soldier killed in south Lebanon by Hezbollah drone, another seriously wounded",
+      "description": "Sgt. Nehoray Leizer, 19, from Eilat, was driving armored personnel carrier when it was struck in the Bint Jbeil area; he is 10th soldier killed amid truce, 23rd since March 2 The post Soldier killed in south Lebanon by Hezbollah drone, another seriously wounded appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/soldier-killed-in-south-lebanon-by-hezbollah-drone-another-seriously-wounded/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-25T05:55:24Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/Untitled-September-11-2024-at-22.22.16-1-1024x640.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "le -f43b2514ae5a",
-      "title": "Trump tempers expectations of a Middle East deal with Iran",
-      "description": "Even though both Tehran and Washington have signaled progress towards reaching an agreement to end the war, US President Donald Trump told his negotiators on Sunday 'not to rush into a deal,' insisting that 'time is on our side.'",
+      "title": "US says Iran deal still possible, as Trump tempers expectations",
+      "description": "Even though both Tehran and Washington have signaled progress toward reaching an agreement to end the war, US President Donald Trump told his negotiators on Sunday 'not to rush into a deal,' insisting that 'time is on our side.'",
       "url": "https://www.lemonde.fr/en/international/article/2026/05/25/trump-tempers-expectations-of-a-middle-east-deal-with-iran_6753789_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-25T02:28:01Z",
+      "publishedAt": "2026-05-25T02:27:56Z",
       "image": "https://img.lemde.fr/2026/05/23/6/0/3934/1967/644/322/60/0/b9c21bb_ftp-1-xl246qrycs7m-5125961-01-06.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-adaa2ca46783",
-      "title": "Rubio: Hezbollah trying to ‘drag Lebanon back into chaos’ through war, call to oust government",
-      "description": "Terror group's chief said people have 'right to go down onto the streets and to bring down the government' in response to Israeli strikes, US sanctions on Hezbollah-linked bank The post Rubio: Hezbollah trying to &#8216;drag Lebanon back into chaos&#8217; through war, call to oust government appeared first on The Times…",
-      "url": "https://www.timesofisrael.com/rubio-hezbollah-trying-to-drag-lebanon-back-into-chaos-through-war-call-to-oust-government/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-25T02:19:45Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26144615320140-e1779646929612-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -56,7 +71,7 @@
       "url": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-05-25T01:55:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-22T121323Z_1819482205_RC26ELATGE3R_RTRMADP_3_IRAN-CRISIS-1779670041.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-22T121323Z_1819482205_RC26ELATGE3R_RTRMADP_3_IRAN-CRISIS-1779670041-e1779693301381.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -65,17 +80,17 @@
       "tags": []
     },
     {
-      "id": "npr-dcdcbdbd6890",
-      "title": "Has the U.S. lost the war in Iran?",
-      "description": "As both the US and Iran signal a peace deal is near, Robert Kagan, a Senior Fellow at the Brookings Institution, says the U.S. will likely come out weaker than before the war.",
-      "url": "https://www.npr.org/2026/05/24/nx-s1-5830110/has-the-u-s-lost-the-war-in-iran",
-      "source": "NPR World",
-      "publishedAt": "2026-05-24T21:06:07Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5830110",
+      "id": "the-d193dda532c8",
+      "title": "Israeli strikes pound Lebanon despite signs US and Iran are close to peace deal",
+      "description": "Some casualties after attacks on multiple locations in south and east of country on Sunday, state media reportsIsraeli strikes hit southern and eastern Lebanon on Sunday, a day after 11 people were killed in a single raid on the south despite a ceasefire in the Israel-Hezbollah war and claims that the US and Iran are a…",
+      "url": "https://www.theguardian.com/world/2026/may/24/israeli-strikes-pound-lebanon",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-24T19:44:59Z",
+      "image": "https://i.guim.co.uk/img/media/7999184e468f30398e8dbb058e924e3603c71919/512_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=50a8f40781da8729d4682da177510d17",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -91,37 +106,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-3b2e85144ca7",
-      "title": "What may be included in proposed Iran ceasefire deal?",
-      "description": "Proposed framework hinges on a 60-day truce, reopening strait of Hormuz, and revived talks on limiting Iran nuclear programmeDonald Trump has said a “memorandum of understanding” in talks to end the US-Israel war on Iran “has been largely negotiated”.Official details of the deal remain scant and it remains possible som…",
-      "url": "https://www.theguardian.com/world/2026/may/24/iran-ceasefire-deal-us-strait-of-hormuz",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-24T10:31:40Z",
-      "image": "https://i.guim.co.uk/img/media/a4365c9fa62a13237c54803574e458b9721aedbc/182_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=2ddbb8fcb9d0b370cde809f129f5c85f",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-ce8f26f78bf1",
-      "title": "Axios, 'in bozza accordo Usa-Iran tregua 60 giorni, anche in Libano'",
-      "description": "'Nei due mesi Hormuz riaperto anche al petrolio iraniano e trattative sul nucleare'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/24/axios-in-bozza-accordo-usa-iran-tregua-60-giorni-anche-in-libano_fdb52842-f4cd-4e27-8c86-6c5a75953cf4.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-24T08:20:04Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/24/64b51259b8cfe842f5acb98fe44d60d4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

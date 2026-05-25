@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T07:44:11Z",
+  "updated": "2026-05-25T09:28:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-cut-more-production-abroad-due-to-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-25T07:44:08Z",
+      "publishedAt": "2026-05-25T09:28:28Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F7%2F12537248-1-eng-GB%2F997e9b42d634-photo_SXM2026052500001850.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-b92973714313",
+      "title": "Fresh strikes test fragile Israel-Hezbollah truce",
+      "description": "Israeli strikes killed two people in southern Lebanon during the weekend despite the ongoing ceasefire with Hezbollah. At the same time, Hezbollah leader Naim Qassem rejected talks with Israel, opposed disarmament, and called for protests against the Lebanese government, drawing condemnation from the United States.",
+      "url": "https://www.france24.com/en/fresh-strikes-test-fragile-israel-hezbollah-truce",
+      "source": "France24",
+      "publishedAt": "2026-05-25T08:55:18Z",
+      "image": "https://s.france24.com/media/display/e36e3866-5814-11f1-8b5b-005056bf30b7/w:1024/p:16x9/EN-20260525-090458-090648-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -95,18 +110,19 @@
       "tags": []
     },
     {
-      "id": "fra-803488845170",
-      "title": "War in Ukraine: Russia launches massive missile strike on Kyiv",
-      "description": "Macron, EU’s Kallas condemn Russian attack on Ukraine with Oreshnik ballistic missile.",
-      "url": "https://www.france24.com/en/war-in-ukraine-russia-launches-massive-strike-on-kyiv",
-      "source": "France24",
-      "publishedAt": "2026-05-24T11:29:44Z",
-      "image": "https://s.france24.com/media/display/7453a5a6-575b-11f1-836d-005056bf30b7/w:1024/p:16x9/EN-20260524-121109-121250-CS.jpg",
+      "id": "rfe-ccb0ae07d484",
+      "title": "Russia Launches Massive Attack On Kyiv",
+      "description": "Russia launched more than 700 drones and missiles across Ukraine overnight, killing at least two people and damaging homes and businesses in one of the biggest attacks on Kyiv in recent memory.",
+      "url": "https://www.rferl.org/a/ukraine-drone-missiles-destruction/33763697.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-24T11:12:04Z",
+      "image": "https://gdb.rferl.org/68b00384-9c83-4234-511c-08de3c92853e_tv_w800_h450.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
+      "relevanceScore": 8,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -182,22 +198,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-e576fe4104e4",
-      "title": "Rubio Defends US Troop Decisions, Chides NATO At Foreign Ministers' Meeting",
-      "description": "US Secretary of State Marco Rubio defended how Washington shifted military forces around the world amid confusion over whether a brigade-size contingent of US troops would be rotated out of Poland.",
-      "url": "https://www.rferl.org/a/rubio-nato-meeting-sweden-troop-cuts/33762435.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-22T08:54:43Z",
-      "image": "https://gdb.rferl.org/26074142-2aa9-4317-ad89-70c84b56fcde_cx0_cy5_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     }
   ]

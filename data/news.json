@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T20:35:06Z",
+  "updated": "2026-05-25T21:29:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/japan-s-smaller-firms-struggle-to-pass-on-higher-costs-from-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-25T20:35:03Z",
+      "publishedAt": "2026-05-25T21:29:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F8%2F8%2F12538813-1-eng-GB%2Fbfc373d25797-20260525N-Kawakami-Paint.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -28b7665bc1d8",
+      "title": "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
+      "description": "US President Donald Trump marked Memorial Day at Arlington National Cemetery, paying tribute to US troops killed.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-pays-tribute-to-us-troops-killed-in-war-on-iran-on-memorial-day?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-25T20:24:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779740636.jpg?resize=1617%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -6663e190b6d4",
-      "title": "Father mourns daughter killed in Israeli strike on Gaza",
-      "description": "A six-year-old Palestinian girl was killed by an Israeli strike on a displacement camp in Khan Younis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-25T19:12:58Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Girl-killed-in-Khan-Younis-1779736303.png?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

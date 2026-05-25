@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-25T13:18:09Z",
+  "updated": "2026-05-25T15:07:56Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,89 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-cut-more-production-abroad-due-to-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-25T13:18:06Z",
+      "publishedAt": "2026-05-25T15:07:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F7%2F12537248-1-eng-GB%2F997e9b42d634-photo_SXM2026052500001850.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-f5c3b15be4fb",
+      "title": "Ukraine's Anti-Drone Police Defend Kramatorsk",
+      "description": "RFE/RL joined a patrol by a unit of Ukraine’s special anti-drone police, operating on the outskirts of Kramatorsk, a frontline city in the Donetsk region. Officers use drone-detection systems and protective gear to intercept Russian first-person-view (FPV) drones before they can reach the city.",
+      "url": "https://www.rferl.org/a/ukraine-anti-drone-police-defend-kramatorsk/33764489.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-25T14:35:14Z",
+      "image": "https://gdb.rferl.org/c9dd41e0-770a-482e-44ee-08de3be37656_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-fd3173950d0c",
+      "title": "In Arabia Saudita 1,5 milioni di pellegrini hanno iniziato i rituali dell'Haji",
+      "description": "Il tradizionale pellegrinaggio islamico nell'incertezza della regione per la guerra",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/25/in-arabia-saudita-15-milioni-di-pellegrini-hanno-iniziato-i-rituali-dellhaji_c61a4aa6-7a00-4d28-9d25-c342737b3861.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-25T14:30:20Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/25/ed16d06cdba752fad1fb30f4434e3f6c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-c3f70fd99f60",
+      "title": "Palestinians ask court to halt alleged spike in unlawful detentions by troops",
+      "description": "Five West Bank men petition High Court claiming soldiers repeatedly nabbed them without apparent cause and hauled them to bases where they were abused for hours, then released without being questioned The post Palestinians ask court to halt alleged spike in unlawful detentions by troops appeared first on The Times of I…",
+      "url": "https://www.timesofisrael.com/palestinians-ask-court-to-halt-alleged-spike-in-unlawful-detentions-by-troops/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-25T14:10:42Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/353444-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -eb69b4b44f0a",
+      "title": "Could Israel sabotage US-Iran deal?",
+      "description": "As the US and Iran move closer to a peace deal, Israel vows to keep striking what it calls regional and nuclear threats.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-25T13:29:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779715730.jpg?resize=1618%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-d803c9a769d8",
+      "title": "Shock of Iran war unites Middle East rivals in pushing Trump towards peace",
+      "description": "Region adapting to diminished US power after Washington fails to land knockout blow on Tehran or safeguard alliesMiddle East crisis – live updatesThe shock of the Iran war and its fallout has driven rivals in the Middle East to get behind a peace deal, pushing the Trump administration to accept a tentative agreement in…",
+      "url": "https://www.theguardian.com/world/2026/may/25/shock-iran-war-middle-east-rivals-trump-peace-deal",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-25T13:06:10Z",
+      "image": "https://i.guim.co.uk/img/media/8478f6ad7cfcf55310d1c1c74d07e8636c0777e8/0_0_3094_2476/master/3094.jpg?width=140&quality=85&auto=format&fit=max&s=1889dd59a3a1e599d3bfad19d3d4c5f7",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -37,21 +114,6 @@
       "tags": []
     },
     {
-      "id": "the-55793a775ad8",
-      "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
-      "description": "Brent crude futures down 6% to lowest level in two weeks and stock markets riseOil prices fell below $100 a barrel on Monday and stock markets rose on hopes that the US and Iran are inching closer to a peace deal.Brent crude futures, the global oil benchmark, were down 6% to $97.28 a barrel, the lowest level in two wee…",
-      "url": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-25T12:43:34Z",
-      "image": "https://i.guim.co.uk/img/media/8f6482b2e98c5a232833cfe92228e0c1bf316462/230_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=cf3be75c46fb5bed41cd07011abe4667",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-04563f6aa532",
       "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
       "description": "President Trump says that a deal with Iran to end the war is largely negotiated. And, Pope Leo XIV weighed in today on the rise of AI during his first encyclical.",
@@ -67,37 +129,6 @@
       "tags": []
     },
     {
-      "id": "al -bde8dca12769",
-      "title": "Trump’s war loop: Escalate, retreat, repeat",
-      "description": "Stuck in a quagmire of a war, Trump chafes at negative coverage while Iran digs its heels in.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-25T11:12:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779707540.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-4f5e3a3b9e78",
-      "title": "Amid Mounting Tensions Between Kyiv And Minsk, Belarus Opposition Leader Tsikhanouskaya Visits Ukraine",
-      "description": "Svyatlana Tsikhanouskaya arrived in Kyiv, in the exiled Belarusian opposition leader’s first trip to Ukraine more than four years into the all-out Russian invasion.",
-      "url": "https://www.rferl.org/a/ukraine-belarus-russia-war-tsikhanouskaya-opposition-leader/33764278.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-25T10:07:07Z",
-      "image": "https://gdb.rferl.org/cb462771-3719-4719-bb05-f254b0c81a95_cx0_cy1_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "le -02f8aeed15c1",
       "title": "Kyiv attacks: The complex logistics network behind Russia's war machine",
       "description": "The Ukrainian capital endured a barrage of strikes over the weekend, including ballistic missiles, cruise missiles and long-range drones. These increasingly frequent hybrid operations reveal the intensification of Russian drone and missile production.",
@@ -109,21 +140,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-9c747480ee24",
-      "title": "Ex-hostage Maxim Herkin publishes book featuring a diary he secretly wrote in captivity",
-      "description": "'Coming to Light' recounts Herkin's experiences during his 2 years in the clutches of Hamas, including his success concealing the fact he was an IDF officer The post Ex-hostage Maxim Herkin publishes book featuring a diary he secretly wrote in captivity appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/ex-hostage-maxim-herkin-publishes-book-featuring-a-diary-he-secretly-wrote-in-captivity/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-25T07:55:25Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/703634323_1441518291348968_1053617870666068756_n-e1779644425273-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

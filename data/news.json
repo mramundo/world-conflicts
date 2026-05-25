@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-25T18:39:55Z",
+  "updated": "2026-05-25T19:34:41Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/japan-s-smaller-firms-struggle-to-pass-on-higher-costs-from-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-25T18:39:51Z",
+      "publishedAt": "2026-05-25T19:34:38Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F8%2F8%2F12538813-1-eng-GB%2Fbfc373d25797-20260525N-Kawakami-Paint.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -736107a74bc7",
+      "title": "Leaders eye on Belarus for signs it might offer Russia help in Ukraine",
+      "description": "Belarus’ exiled opposition leader visits Kyiv as the city recovers from Russia’s largest missile attack of the year. World leaders are closely watching Belarus’ potential support for Russia’s invasion.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0525/ukraine-kyiv-oreshnik-missile-attack-russia-belarus-macron?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-05-25T19:32:56Z",
+      "image": "https://images.csmonitor.com/csm/2026/05/1213248_2_0525-kyiv_standard.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -6663e190b6d4",
+      "title": "Father mourns daughter killed in Israeli strike on Gaza",
+      "description": "A six-year-old Palestinian girl was killed by an Israeli strike on a displacement camp in Khan Younis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-25T19:12:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Girl-killed-in-Khan-Younis-1779736303.png?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -453db9e44468",
-      "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
-      "description": "Analysts warn Netanyahu is exploiting a failing &quot;ceasefire&quot; to prolong the destruction of Gaza ahead of Israeli election",
-      "url": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-25T17:46:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a1432be9b57d-1779708606.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

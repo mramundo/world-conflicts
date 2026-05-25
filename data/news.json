@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T01:51:17Z",
+  "updated": "2026-05-25T03:17:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/pakistan-to-deploy-paramilitary-force-to-guard-copper-gold-belt",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-25T01:51:13Z",
+      "publishedAt": "2026-05-25T03:17:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F6%2F1%2F12531648-3-eng-GB%2F879199603f26-2025-11-24T055024Z_156604381_RC2T2IABDTID_RTRMADP_3_PAKISTAN-BLAST.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,47 @@
       "tags": []
     },
     {
-      "id": "tim-f5e29fc363e1",
-      "title": "Iran’s supreme leader said hiding in secret location, communicates via network of messengers",
-      "description": "Oil slips to 2-week low as US and Iran seen nearing peace deal * Turkish president scraps move to close liberal university * Syria holds legislative elections in Kurdish area The post Iran’s supreme leader said hiding in secret location, communicates via network of messengers appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/liveblog-may-25-2026/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-25T00:31:24Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26144514676438-e1779633518624-1024x640.jpg",
+      "id": "le -f43b2514ae5a",
+      "title": "Trump tempers expectations of a Middle East deal with Iran",
+      "description": "Even though both Tehran and Washington have signaled progress towards reaching an agreement to end the war, US President Donald Trump told his negotiators on Sunday 'not to rush into a deal,' insisting that 'time is on our side.'",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/25/trump-tempers-expectations-of-a-middle-east-deal-with-iran_6753789_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-25T02:28:01Z",
+      "image": "https://img.lemde.fr/2026/05/23/6/0/3934/1967/644/322/60/0/b9c21bb_ftp-1-xl246qrycs7m-5125961-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-adaa2ca46783",
+      "title": "Rubio: Hezbollah trying to ‘drag Lebanon back into chaos’ through war, call to oust government",
+      "description": "Terror group's chief had said people have 'right to go down onto the streets and to bring down the government' in response to Israeli strikes, US sanctions on Hezbollah-linked bank The post Rubio: Hezbollah trying to &#8216;drag Lebanon back into chaos&#8217; through war, call to oust government appeared first on The T…",
+      "url": "https://www.timesofisrael.com/rubio-hezbollah-trying-to-drag-lebanon-back-into-chaos-through-war-call-to-oust-government/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-25T02:19:45Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26144615320140-e1779646929612-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -117edd3e6ab0",
+      "title": "Oil prices fall amid mixed signals on US-Iran peace deal",
+      "description": "Japan&#039;s stock market surges to record high on hopes of an end to US-Israel war on Iran.",
+      "url": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-25T01:55:21Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-22T121323Z_1819482205_RC26ELATGE3R_RTRMADP_3_IRAN-CRISIS-1779670041.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,22 +77,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -674afc89da91",
-      "title": "How will Iran war fallout impact upcoming US elections?",
-      "description": "Trump purges Republican critics, but are the prospects for his party in upcoming elections heading up or down?",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-24T19:30:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779646139.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -134,21 +148,6 @@
       "source": "Deutsche Welle",
       "publishedAt": "2026-05-23T20:22:00Z",
       "image": "https://static.dw.com/image/77275499_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -84f877c4119d",
-      "title": "Europe seeks to defuse Trump criticism ahead of NATO summit in Ankara",
-      "description": "Disoriented by a flurry of announcements regarding the stationing of US troops on the continent, European foreign ministers sought to convince Marco Rubio of their efforts to take greater responsibility for collective defense and to help reopen the Strait of Hormuz.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/23/europe-seeks-to-defuse-trump-criticism-ahead-of-nato-summit-in-ankara_6753752_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-23T09:13:49Z",
-      "image": "https://img.lemde.fr/2026/05/22/13/0/2702/1351/644/322/60/0/9fcd7d9_ftp-1-k6uzsnjz8icw-2026-05-22t103308z-738387264-rc28elasc2k7-rtrmadp-3-nato-diplomacy-sweden.JPG",
       "categories": [
         "conflict"
       ],

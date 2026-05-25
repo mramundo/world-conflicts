@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-25T11:27:34Z",
+  "updated": "2026-05-25T13:18:09Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-cut-more-production-abroad-due-to-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-25T11:27:31Z",
+      "publishedAt": "2026-05-25T13:18:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F7%2F12537248-1-eng-GB%2F997e9b42d634-photo_SXM2026052500001850.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,64 @@
       "tags": []
     },
     {
-      "id": "npr-44024a8f0376",
-      "title": "U.S.-Iran peace deal emerging, while war threats still loom",
-      "description": "President Trump and other administration officials are tempering expectations raised of an imminent agreement to end the war in Iran while Iranian officials have signaled there are still disagreements on key issues.",
-      "url": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-05-25T10:16:45Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F17%2Fc0b271da413db9b3b315a9287ffb%2Fgettyimages-2276870808.jpg",
+      "id": "fra-9a36087e7b1c",
+      "title": "'Our cycling is a form of resistance': Gaza Sunbirds co-founder Karim Ali",
+      "description": "A Palestinian charity says its daily work to provide food for Gazans by bicycle delivery is a form of resistance. The Gaza Sunbirds are a team of people, often athletes, who are dedicated to bringing food to those who need it most. They deliver food across the war-torn enclave by bicycle, working alongside other charit…",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260525-our-cycling-is-a-form-of-resistance-gaza-sunbirds-co-founder-karim-ali",
+      "source": "France24",
+      "publishedAt": "2026-05-25T13:05:53Z",
+      "image": "https://s.france24.com/media/display/fc26631a-5832-11f1-989d-005056bfb2b6/w:1024/p:16x9/capture-10402554076a143ca64a7807-36865426.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-55793a775ad8",
+      "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
+      "description": "Brent crude futures down 6% to lowest level in two weeks and stock markets riseOil prices fell below $100 a barrel on Monday and stock markets rose on hopes that the US and Iran are inching closer to a peace deal.Brent crude futures, the global oil benchmark, were down 6% to $97.28 a barrel, the lowest level in two wee…",
+      "url": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-25T12:43:34Z",
+      "image": "https://i.guim.co.uk/img/media/8f6482b2e98c5a232833cfe92228e0c1bf316462/230_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=cf3be75c46fb5bed41cd07011abe4667",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-04563f6aa532",
+      "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
+      "description": "President Trump says that a deal with Iran to end the war is largely negotiated. And, Pope Leo XIV weighed in today on the rise of AI during his first encyclical.",
+      "url": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
+      "source": "NPR World",
+      "publishedAt": "2026-05-25T12:31:08Z",
+      "image": "undefined",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -bde8dca12769",
+      "title": "Trump’s war loop: Escalate, retreat, repeat",
+      "description": "Stuck in a quagmire of a war, Trump chafes at negative coverage while Iran digs its heels in.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-25T11:12:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779707540.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,77 +113,32 @@
       "tags": []
     },
     {
-      "id": "fra-b92973714313",
-      "title": "Fresh strikes test fragile Israel-Hezbollah truce",
-      "description": "Israeli strikes killed two people in southern Lebanon during the weekend despite the ongoing ceasefire with Hezbollah. At the same time, Hezbollah leader Naim Qassem rejected talks with Israel, opposed disarmament, and called for protests against the Lebanese government, drawing condemnation from the United States.",
-      "url": "https://www.france24.com/en/fresh-strikes-test-fragile-israel-hezbollah-truce",
-      "source": "France24",
-      "publishedAt": "2026-05-25T08:55:18Z",
-      "image": "https://s.france24.com/media/display/e36e3866-5814-11f1-8b5b-005056bf30b7/w:1024/p:16x9/EN-20260525-090458-090648-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-54e8b0422e57",
-      "title": "Soldier killed in south Lebanon by Hezbollah drone, another seriously wounded",
-      "description": "Sgt. Nehoray Leizer, 19, from Eilat, was driving armored personnel carrier when it was struck in the Bint Jbeil area; he is 10th soldier killed amid truce, 23rd since March 2 The post Soldier killed in south Lebanon by Hezbollah drone, another seriously wounded appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/soldier-killed-in-south-lebanon-by-hezbollah-drone-another-seriously-wounded/",
+      "id": "tim-9c747480ee24",
+      "title": "Ex-hostage Maxim Herkin publishes book featuring a diary he secretly wrote in captivity",
+      "description": "'Coming to Light' recounts Herkin's experiences during his 2 years in the clutches of Hamas, including his success concealing the fact he was an IDF officer The post Ex-hostage Maxim Herkin publishes book featuring a diary he secretly wrote in captivity appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/ex-hostage-maxim-herkin-publishes-book-featuring-a-diary-he-secretly-wrote-in-captivity/",
       "source": "Times of Israel",
-      "publishedAt": "2026-05-25T05:55:24Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/Untitled-September-11-2024-at-22.22.16-1-1024x640.jpeg",
+      "publishedAt": "2026-05-25T07:55:25Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/703634323_1441518291348968_1053617870666068756_n-e1779644425273-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -117edd3e6ab0",
-      "title": "Oil prices fall amid mixed signals on US-Iran peace deal",
-      "description": "Japan&#039;s stock market surges to record high on hopes of an end to US-Israel war on Iran.",
-      "url": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-25T01:55:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-22T121323Z_1819482205_RC26ELATGE3R_RTRMADP_3_IRAN-CRISIS-1779670041-e1779693301381.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-d193dda532c8",
-      "title": "Israeli strikes pound Lebanon despite signs US and Iran are close to peace deal",
-      "description": "Some casualties after attacks on multiple locations in south and east of country on Sunday, state media reportsIsraeli strikes hit southern and eastern Lebanon on Sunday, a day after 11 people were killed in a single raid on the south despite a ceasefire in the Israel-Hezbollah war and claims that the US and Iran are a…",
-      "url": "https://www.theguardian.com/world/2026/may/24/israeli-strikes-pound-lebanon",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-24T19:44:59Z",
-      "image": "https://i.guim.co.uk/img/media/7999184e468f30398e8dbb058e924e3603c71919/512_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=50a8f40781da8729d4682da177510d17",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-b63fd96fff1e",
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "description": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
-      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "id": "bbc-97017129d8aa",
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "description": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-05-23T23:24:03Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f545/live/50de57c0-56c9-11f1-89a3-d1f559421220.png",
+      "publishedAt": "2026-05-23T23:34:33Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ff/live/6628b250-56f7-11f1-89a3-d1f559421220.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -182,21 +184,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -255257df8dc4",
-      "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
-      "description": "The United Nations voiced alarm on Friday over reports of an overnight attack on a vocational school and dormitory in the town of Starobilsk in Ukraine’s Luhansk region which killed and injured multiple civilians, including children.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167579",
-      "source": "UN News",
-      "publishedAt": "2026-05-22T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/22-05-2026-UN-Photo-Vanessa-Frazier.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

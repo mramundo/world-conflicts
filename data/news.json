@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T18:54:43Z",
+  "updated": "2026-05-26T19:41:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/fiber-optic-drones-add-new-dimension-to-myanmar-s-civil-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-26T18:54:39Z",
+      "publishedAt": "2026-05-26T19:41:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F2%2F2%2F0%2F12510226-1-eng-GB%2Fef8e132b39dc-image-21-j.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -25,7 +25,7 @@
       "description": "The US military said it carried out strikes on Monday against targets including boats attempting to lay mines and missile launch sites Iran remains in peace talks despite first US strikes since ceasefireIranian supreme leader Mojtaba Khamenei said on his Telegram channel that Gulf powers will no longer be a shield for …",
       "url": "https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks",
       "source": "The Guardian",
-      "publishedAt": "2026-05-26T18:43:37Z",
+      "publishedAt": "2026-05-26T19:14:26Z",
       "image": "https://i.guim.co.uk/img/media/142e7888fec783a669df6e26759414046705ce75/1511_0_3812_3051/master/3812.jpg?width=140&quality=85&auto=format&fit=max&s=f70a67605a22acec502e7dfceed4495e",
       "categories": [
         "conflict",
@@ -105,6 +105,22 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/epa_69ec24263dee-1777083430.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -aff1ff9e1a49",
+      "title": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
+      "description": "The World Food Programme (WFP) has deplored a Russian attack on a warehouse in Dnipro, Ukraine that destroyed “a significant quantity” of food aid destined for thousands in frontline areas.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167586",
+      "source": "UN News",
+      "publishedAt": "2026-05-26T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/26-05-2026-WFP-Ukraine.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
@@ -215,21 +231,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -251b7b98bf53",
-      "title": "Massive Russian strike on Kyiv: ‘I hope my friends are alive’",
-      "description": "The overnight Russian attack on Ukraine, which centred on the capital, Kyiv, reportedly involved some 90 missiles, including a powerful hypersonic ballistic missile and 60 drones. The senior UN official in the country called for an end to civilian harm.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167583",
-      "source": "UN News",
-      "publishedAt": "2026-05-24T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/24-05-2026-kyiv.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

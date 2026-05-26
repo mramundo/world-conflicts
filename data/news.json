@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T23:28:54Z",
+  "updated": "2026-05-26T00:56:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/japan-s-smaller-firms-struggle-to-pass-on-higher-costs-from-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-25T23:28:50Z",
+      "publishedAt": "2026-05-26T00:56:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F8%2F8%2F12538813-1-eng-GB%2Fbfc373d25797-20260525N-Kawakami-Paint.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -141,22 +141,6 @@
       "tags": []
     },
     {
-      "id": "rfe-f5c3b15be4fb",
-      "title": "Ukraine's Anti-Drone Police Defend Kramatorsk",
-      "description": "RFE/RL joined a patrol by a unit of Ukraine’s special anti-drone police, operating on the outskirts of Kramatorsk, a frontline city in the Donetsk region. Officers use drone-detection systems and protective gear to intercept Russian first-person-view (FPV) drones before they can reach the city.",
-      "url": "https://www.rferl.org/a/ukraine-anti-drone-police-defend-kramatorsk/33764489.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-25T14:35:14Z",
-      "image": "https://gdb.rferl.org/c9dd41e0-770a-482e-44ee-08de3be37656_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "tim-c3f70fd99f60",
       "title": "Five Palestinians ask court to halt alleged spike in unlawful detentions by troops",
       "description": "West Bank men petition High Court claiming soldiers repeatedly nabbed them without apparent cause and hauled them to bases where they were abused for hours, then released without being questioned The post Five Palestinians ask court to halt alleged spike in unlawful detentions by troops appeared first on The Times of I…",
@@ -169,6 +153,22 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-6b90d749f090",
+      "title": "US Says It Carried Out ‘Self-Defense’ Strikes in Southern Iran Amid Fragile Ceasefire",
+      "description": "As the US-Israeli war with Iran continues to impact and shape the region, journalists from RFE/RL's Central Newsroom and Iranian service, Radio Farda, deliver ongoing updates and analysis.",
+      "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-25T07:50:26Z",
+      "image": "https://gdb.rferl.org/3347706f-0ed7-4d5f-9289-72638e16e7ce_cx0_cy4_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {

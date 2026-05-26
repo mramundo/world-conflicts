@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T09:19:31Z",
+  "updated": "2026-05-26T13:09:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/fiber-optic-drones-add-new-dimension-to-myanmar-s-civil-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-26T09:19:28Z",
+      "publishedAt": "2026-05-26T13:09:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F2%2F2%2F0%2F12510226-1-eng-GB%2Fef8e132b39dc-image-21-j.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,96 @@
       "tags": []
     },
     {
-      "id": "al -380cb47086db",
-      "title": "Bodies with names: Inside Gaza’s cemetery of the missing",
-      "description": "Gaza’s cemetery of unidentified bodies reflects toll of Israel&#039;s war as families search for disappeared relatives.",
-      "url": "https://www.aljazeera.com/features/2026/5/26/bodies-with-names-inside-gazas-cemetery-of-the-missing?traffic_source=rss",
+      "id": "the-82ea1f84403d",
+      "title": "Four killed as train and school bus collide in Belgium – Europe live",
+      "description": "Minister says that two children are among the dead and another two people have been seriously injuredBack to Ukraine, the EU has summoned Russia’s top diplomat in Brussels over Russian warnings telling foreigners and diplomats to leave Kyiv amid planned new strikes on the Ukrainian capital.EU’s foreign policy spokesper…",
+      "url": "https://www.theguardian.com/world/live/2026/may/26/europe-ukraine-russia-lithuania-eu-heatwave-hungary-magyar-france-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-26T12:56:12Z",
+      "image": "https://i.guim.co.uk/img/media/42c289574989fec393c5ad4bb021e29c25f7664e/1181_0_5859_4688/master/5859.jpg?width=140&quality=85&auto=format&fit=max&s=967f0ba9cd63d949067c29b62b3e6558",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ef3edfc481fa",
+      "title": "Israeli air attacks kill seven Palestinians in Gaza",
+      "description": "At least five Palestinians killed in Israeli attack on a refugee camp in central Gaza, officials said.",
+      "url": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-05-26T08:28:36Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/4K9A2462-1779476823.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-05-26T12:34:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a156ca7-1779788967.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-b302beaf4a85",
+      "title": "Putin offers debt relief to new recruits for Ukraine war",
+      "description": "New recruits for Russia's war in Ukraine will have debts up to 10 million rubles canceled under a presidential decree. Another new law reportedly foresees the use of Russian armed forces to protect citizens abroad.",
+      "url": "https://www.dw.com/en/putin-offers-debt-relief-to-new-recruits-for-ukraine-war/a-77292937?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-26T11:58:00Z",
+      "image": "https://static.dw.com/image/65237003_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-f53795a1c360",
+      "title": "Frontline Kramatorsk Hit By Russian Air Strike; Casualties Reported",
+      "description": "Russian forces struck the frontline city of Kramatorsk with aerial bombs, damaging residential buildings and injuring more than 10 people on May 25, according to local officials. Residents described shattered windows, destroyed apartments, and panic moments after the blasts.",
+      "url": "https://www.rferl.org/a/frontline-kramatorsk-hit-by-russian-air-strike/33765914.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-26T11:54:50Z",
+      "image": "https://gdb.rferl.org/05b2c1f2-af8b-421a-7413-08debadc3b87_tv_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 13,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-d98d5a7f484d",
+      "title": "Illusions of a Ceasefire in Ukraine",
+      "description": "Russia’s aggression against Ukraine might end with a Russian victory or a Ukrainian victory, but the war ending with a negotiated ceasefire appears a remote possibility. Putin still believes he can attrit Ukraine faster than Ukraine can attrit his armed forces, but this belief might be misplaced. A lot of his thinking …",
+      "url": "https://www.kyivpost.com/opinion/76897",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-26T11:49:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/26/144837e509858d6bee3a3ceb49b3e91f.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-10282eda71da",
+      "title": "Israel strikes Lebanese village and calls up more troops in the region",
+      "description": "The Israeli army has issued a fresh set of evacuation orders for 10 villages in Southern Lebanon as it prepares for a new round of military strikes. Israel and the militant group Hezbollah have been trading deadly fire despite a ceasefire. In fact, two far-right Israeli ministers are calling for more severe military ac…",
+      "url": "https://www.france24.com/en/israel-strikes-lebanese-village-and-calls-up-more-troops-in-the-region",
+      "source": "France24",
+      "publishedAt": "2026-05-26T10:02:13Z",
+      "image": "https://s.france24.com/media/display/17fd9c28-58e4-11f1-96c9-005056bfb2b6/w:1024/p:16x9/EN-20260526-103413-103550-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -48,37 +125,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-d22e1917ae8b",
-      "title": "Tuesday briefing: With unease at home spreading, what next for Russia’s isolated leader?",
-      "description": "In today’s newsletter: Our Russian affairs reporter on Vladimir Putin’s slipping approval and singular goal – as discontent ripples from wider society to the reachers of the KremlinGood morning. There is little doubt that when Vladimir Putin ordered his invasion of Ukraine in 2022, he did not expect his troops to still…",
-      "url": "https://www.theguardian.com/world/2026/may/26/tuesday-briefing-with-unease-at-home-spreading-what-next-for-russias-isolated-leader",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-26T05:47:24Z",
-      "image": "https://i.guim.co.uk/img/media/d733b6460864759a093f4acd1e45d86c35f5fe88/681_0_6758_5406/master/6758.jpg?width=140&quality=85&auto=format&fit=max&s=436868f2aa485562df3f11a538fd6704",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-6b90d749f090",
-      "title": "US Says It Carried Out 'Self-Defense' Strikes in Southern Iran Amid Fragile Cease-Fire",
-      "description": "As the US-Israeli war with Iran continues to impact and shape the region, journalists from RFE/RL's Central Newsroom and Iranian service, Radio Farda, deliver ongoing updates and analysis.",
-      "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-26T05:15:00Z",
-      "image": "https://gdb.rferl.org/5f086f7d-2bfb-430c-b6f5-87eee8f2731a_cx0_cy9_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -124,36 +170,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-f001bd217855",
-      "title": "Israel pounds Lebanon with fresh air strikes, vows to 'crush' Hezbollah",
-      "description": "Israel intensified air strikes across southern and eastern Lebanon on Monday after Prime Minister Benjamin Netanyahu vowed to “crush” Hezbollah, deepening fears of a wider regional conflict. The escalation comes despite an April ceasefire and as another round of US-Iran talks takes place in Doha in a bid to negotiate t…",
-      "url": "https://www.france24.com/en/middle-east/20260525-israel-steps-up-lebanon-strikes-as-netanyahu-escalates-offensive",
-      "source": "France24",
-      "publishedAt": "2026-05-25T18:49:12Z",
-      "image": "https://s.france24.com/media/display/6b5ca064-586a-11f1-a885-005056a90284/w:1024/p:16x9/4d4e6f27bc457d3cb17da7705c316d2bebd66e9d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-0cf4c41112e7",
-      "title": "Zelensky Says Ukraine Seeing Better Frontline Results as Russian ‘War Bloggers’ Complain",
-      "description": "President Volodymyr Zelensky said Ukraine stabilized parts of the front and achieved stronger battlefield results this year thanks to drones, long-range strikes and technological solutions. Zelensky also said complaints from Russian military bloggers indirectly confirm Ukraine’s recent gains while warning that global s…",
-      "url": "https://www.kyivpost.com/post/76836",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-25T18:32:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/17/a8abe7503b2047becfd6644a92543150.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -214,21 +230,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-611a7eb04d8d",
-      "title": "Serbia: Police clash with protesters urging early elections",
-      "description": "Officers fired teargas and stun grenades as tens of thousands rallied against President Aleksandar Vucic's government. The demonstration went ahead despite the state rail operator canceling trains to and from Belgrade.",
-      "url": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-23T20:22:00Z",
-      "image": "https://static.dw.com/image/77275499_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     }

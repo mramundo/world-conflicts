@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T23:29:21Z",
+  "updated": "2026-05-27T00:59:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/fiber-optic-drones-add-new-dimension-to-myanmar-s-civil-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-26T23:29:17Z",
+      "publishedAt": "2026-05-27T00:59:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F2%2F2%2F0%2F12510226-1-eng-GB%2Fef8e132b39dc-image-21-j.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-b467af80ddeb",
+      "title": "Borsa di Tokyo, apertura in aumento (+1,42%)",
+      "description": "Cautela su tregua in Medio Oriente. Petrolio sotto i 100 dollari",
+      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/05/27/borsa-di-tokyo-apertura-in-aumento-142_256b1ea3-2b45-4633-b830-567b8996cfe4.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-27T00:15:59Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2025/4/8/fed605de6be80321cc05dc56118c46a9.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -16c81d469c12",
+      "title": "Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation",
+      "description": "Lebanon&#039;s Health Ministry reports that Israeli attacks have killed 3,213 people and injured 9,737 since March 2.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-27T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/14020921-1779838417.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,36 +92,6 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -1c9cdb603b84",
-      "title": "Did Trump oversell a broken Iran ceasefire deal?",
-      "description": "The US and Iran appear closer to a broader agreement, but disputes over sanctions relief remain.",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-26T19:50:51Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779824425.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-8c95e323bd0f",
-      "title": "Netanyahu, 'Idf sta prendendo il controllo di aree in Libano per proteggere il nord'",
-      "description": "'Enorme sforzo nazionale e soluzioni creative contro i droni di Hezbollah'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/26/netanyahu-idf-sta-prendendo-il-controllo-di-aree-in-libano-per-proteggere-il-nord_d893d206-8dbc-4b28-9737-6fb23c2503f8.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-26T17:47:04Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/8def2e89847f1af13cc2f9c562ff2524.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

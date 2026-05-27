@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T15:11:59Z",
+  "updated": "2026-05-27T17:12:02Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/fiber-optic-drones-add-new-dimension-to-myanmar-s-civil-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-27T15:11:55Z",
+      "publishedAt": "2026-05-27T17:11:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F2%2F2%2F0%2F12510226-1-eng-GB%2Fef8e132b39dc-image-21-j.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,33 @@
       "tags": []
     },
     {
-      "id": "fra-743c1ede7628",
-      "title": "Trump Board of Peace's official Gaza fund is empty despite billions pledged, source says",
-      "description": "Four months after its creation, the Gaza reconstruction fund of US President Donald Trump's so-called Board of Peace has yet to receive any of the billions of dollars pledged by donor countries. Israel has continued to carry out strikes across the devastated Palestinian territory despite a US-backed ceasefire, killing …",
-      "url": "https://www.france24.com/en/middle-east/20260527-trump-board-of-peace-official-gaza-fund-is-empty-despite-billions-pledged-source-says",
-      "source": "France24",
-      "publishedAt": "2026-05-27T14:49:43Z",
-      "image": "https://s.france24.com/media/display/0695903c-59d7-11f1-8875-005056bf30b7/w:1024/p:16x9/AP26139511587618.jpg",
+      "id": "rfe-b2966da7509a",
+      "title": "Nearly 500,000 Russian Soldiers Killed In Ukraine Since Start Of All-Out War, British Intelligence Says",
+      "description": "Nearly 500,000 Russian soldiers are estimated to have been killed in Moscow’s full-scale invasion of Ukraine since it began in 2022, a top British intelligence official has said, as the conflicts grinds to a near stalemate.",
+      "url": "https://www.rferl.org/a/russia-ukraine-war-casualties-british-intelligence/33766873.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-27T16:26:52Z",
+      "image": "https://gdb.rferl.org/8703f059-ab4e-495e-b223-89a24fb6891d_cx0_cy9_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-2ccfc91d6633",
+      "title": "Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says",
+      "description": "GCHQ's director Anne Keast-Butler set out the threats facing the UK in her inaugural public speech.",
+      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-27T15:59:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a337/live/08099510-59e3-11f1-ad45-03463f64a221.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -82,8 +98,8 @@
     },
     {
       "id": "the-7aa611470b93",
-      "title": "Israel fires more than 120 airstrikes at Lebanon as anti-Hezbollah offensive escalates",
-      "description": "One of heaviest days of bombing in weeks complicates US-Iran peace talks as Israel targets sites linked to groupMiddle East crisis – live updatesIsrael launched more than 120 airstrikes against Lebanon on Tuesday in one of the heaviest days of bombing in weeks, as the Israeli prime minister, Benjamin Netanyahu, said hi…",
+      "title": "Israel launches more than 120 airstrikes against Lebanon in a day",
+      "description": "One of heaviest days of bombing in weeks complicates peace talks as Israel targets sites linked to HezbollahMiddle East crisis – live updatesIsrael launched more than 120 airstrikes against Lebanon on Tuesday in one of the heaviest days of bombing in weeks, as the Israeli prime minister, Benjamin Netanyahu, said his mi…",
       "url": "https://www.theguardian.com/world/2026/may/27/israel-fires-airstrikes-lebanon-escalating-offensive",
       "source": "The Guardian",
       "publishedAt": "2026-05-27T12:55:21Z",
@@ -96,19 +112,18 @@
       "tags": []
     },
     {
-      "id": "bbc-1aa83465d21b",
-      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-      "description": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.",
-      "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-26T23:15:47Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cebd/live/892a4c70-595c-11f1-8b8c-6d33e1d5abb6.jpg",
+      "id": "fra-8e325144d18a",
+      "title": "Middle East war live: Israeli strikes hit outskirts of southern Lebanon’s city of Tyre",
+      "description": "Israeli air strikes hit the outskirts of Tyre in southern Lebanon after the army called on residents in and around the city to leave their homes. The Israeli military said it was carrying out strikes on what it described as “command centres” belonging to the militant group Hezbollah. Follow our liveblog for all the lat…",
+      "url": "https://www.france24.com/en/middle-east/20260527-middle-east-live-new-strikes-threaten-ceasefires-in-iran-lebanon",
+      "source": "France24",
+      "publishedAt": "2026-05-27T01:48:09Z",
+      "image": "https://s.france24.com/media/display/bcef669a-59e2-11f1-a0e9-005056a90284/w:1024/p:16x9/000-B46X29F.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -140,22 +155,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-f53795a1c360",
-      "title": "Frontline Kramatorsk Hit By Russian Air Strike; Casualties Reported",
-      "description": "Russian forces struck the frontline city of Kramatorsk with aerial bombs, damaging residential buildings and injuring more than 10 people on May 25, according to local officials. Residents described shattered windows, destroyed apartments, and panic moments after the blasts.",
-      "url": "https://www.rferl.org/a/frontline-kramatorsk-hit-by-russian-air-strike/33765914.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-26T11:54:50Z",
-      "image": "https://gdb.rferl.org/05b2c1f2-af8b-421a-7413-08debadc3b87_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T17:12:02Z",
+  "updated": "2026-05-27T18:54:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/fiber-optic-drones-add-new-dimension-to-myanmar-s-civil-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-27T17:11:58Z",
+      "publishedAt": "2026-05-27T18:54:00Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F2%2F2%2F0%2F12510226-1-eng-GB%2Fef8e132b39dc-image-21-j.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-c371217fb8f8",
+      "title": "Nearly half a million Russians killed in Ukraine war, UK spy chief says",
+      "description": "Anne Keast-Butler says Russian forces are ‘going backwards on the battlefield’ for first time since late 2022Nearly half a million Russian soldiers have been killed in Ukraine since the start of Vladimir Putin’s invasion more than four years ago, according to a new estimate from the head of the British spy agency GCHQ.…",
+      "url": "https://www.theguardian.com/world/2026/may/27/nearly-half-a-million-russians-killed-in-ukraine-war-uk-spy-chief-says",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-27T17:09:41Z",
+      "image": "https://i.guim.co.uk/img/media/e727440bd6b592bcfd8c5a3c25564cb3238f8b27/1643_212_4063_3251/master/4063.jpg?width=140&quality=85&auto=format&fit=max&s=a7ce5d8e4363dc2b46fc3a7902672011",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,6 +62,21 @@
         "conflict"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-743c1ede7628",
+      "title": "Trump Board of Peace's official Gaza fund is empty despite billions pledged, source says",
+      "description": "Four months after its creation, the Gaza reconstruction fund of US President Donald Trump's so-called Board of Peace has yet to receive any of the billions of dollars pledged by donor countries. Israel has continued to carry out strikes across the devastated Palestinian territory despite a US-backed ceasefire, killing …",
+      "url": "https://www.france24.com/en/middle-east/20260527-trump-board-of-peace-official-gaza-fund-is-empty-despite-billions-pledged-source-says",
+      "source": "France24",
+      "publishedAt": "2026-05-27T14:49:43Z",
+      "image": "https://s.france24.com/media/display/0695903c-59d7-11f1-8875-005056bf30b7/w:1024/p:16x9/AP26139511587618.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -94,36 +124,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-7aa611470b93",
-      "title": "Israel launches more than 120 airstrikes against Lebanon in a day",
-      "description": "One of heaviest days of bombing in weeks complicates peace talks as Israel targets sites linked to HezbollahMiddle East crisis – live updatesIsrael launched more than 120 airstrikes against Lebanon on Tuesday in one of the heaviest days of bombing in weeks, as the Israeli prime minister, Benjamin Netanyahu, said his mi…",
-      "url": "https://www.theguardian.com/world/2026/may/27/israel-fires-airstrikes-lebanon-escalating-offensive",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-27T12:55:21Z",
-      "image": "https://i.guim.co.uk/img/media/2ccbd816a025fbf7a82e75bcb8d650fc0eb3ecf1/181_0_3477_2784/master/3477.jpg?width=140&quality=85&auto=format&fit=max&s=96be8c764fe5630d10312754981aa7d9",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-8e325144d18a",
-      "title": "Middle East war live: Israeli strikes hit outskirts of southern Lebanon’s city of Tyre",
-      "description": "Israeli air strikes hit the outskirts of Tyre in southern Lebanon after the army called on residents in and around the city to leave their homes. The Israeli military said it was carrying out strikes on what it described as “command centres” belonging to the militant group Hezbollah. Follow our liveblog for all the lat…",
-      "url": "https://www.france24.com/en/middle-east/20260527-middle-east-live-new-strikes-threaten-ceasefires-in-iran-lebanon",
-      "source": "France24",
-      "publishedAt": "2026-05-27T01:48:09Z",
-      "image": "https://s.france24.com/media/display/bcef669a-59e2-11f1-a0e9-005056a90284/w:1024/p:16x9/000-B46X29F.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {

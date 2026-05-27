@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-27T09:16:55Z",
+  "updated": "2026-05-27T11:18:54Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/fiber-optic-drones-add-new-dimension-to-myanmar-s-civil-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-27T09:16:51Z",
+      "publishedAt": "2026-05-27T11:18:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F2%2F2%2F0%2F12510226-1-eng-GB%2Fef8e132b39dc-image-21-j.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,32 +20,32 @@
       "tags": []
     },
     {
-      "id": "bbc-423931557293",
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "description": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place.",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-27T08:59:00Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8016/live/92d75020-59ab-11f1-8b8c-6d33e1d5abb6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-4a5d62c86038",
-      "title": "Middle East crisis live: Israel hits Lebanon with huge bombing raid and kills senior Hamas leader in Gaza",
-      "description": "Strikes on Lebanon further strain supposed ceasefire between Israel and Hezbollah, and came as Iran said US had violated separate truceThe deputy political chief of Iran’s Islamic Revolutionary Guard Corps (IRGC) navy said renewed war with the US was unlikely but warned his country stands ready to thwart any attacks.“T…",
+      "title": "Middle East crisis live: Hezbollah says fighters are clashing with IDF north of Israeli-held buffer zone",
+      "description": "Ground troops clash in close combat north of Litani river following huge bombing raid and Netanyahu’s pledge to take control of new areasDonald Trump will host the 12th cabinet meeting of his second term on Wednesday as talks on ending the nearly three-month war with Iran reach a crucial stage amid conflicting signals …",
       "url": "https://www.theguardian.com/world/live/2026/may/27/iran-war-us-update-live-israel-lebanon-strikes-latest-news-ceasefire-peace-talks-middle-east-live-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-05-27T08:54:50Z",
+      "publishedAt": "2026-05-27T10:54:58Z",
       "image": "https://i.guim.co.uk/img/media/9f0c2c178aec93f99d1633141f7cbe4eb540e3f8/766_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6bfaaec1cdaa552eda9e208a1da8dbe0",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-423931557293",
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "description": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place.",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-27T09:55:11Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8016/live/92d75020-59ab-11f1-8b8c-6d33e1d5abb6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -106,22 +106,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -2f6f91b12dc2",
-      "title": "Israeli strikes kill at least 31 in south Lebanon as Israel expands ground operations",
-      "description": "The Israeli military issued evacuation warnings for at least 50 Lebanese towns on Tuesday. Israeli PM Benjamin Netanyahu said his army was 'reinforcing the security buffer zone to protect the communities of northern Israel.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/27/israeli-strikes-kill-at-least-31-in-south-lebanon-as-israel-expands-ground-operations_6753846_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-26T22:39:15Z",
-      "image": "https://img.lemde.fr/2026/05/26/390/0/4409/2204/644/322/60/0/7f4f960_ftp-1-1w3rndcq0eqg-5147911-01-06.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

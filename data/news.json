@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T15:15:06Z",
+  "updated": "2026-05-28T17:22:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/japan-s-car-exports-to-war-hit-middle-east-plummet-90-in-april",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-28T15:15:03Z",
+      "publishedAt": "2026-05-28T17:22:17Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F7%2F9%2F12549784-1-eng-GB%2F3b43fcf66455-photo_SXM2025051300010316a.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,12 +20,42 @@
       "tags": []
     },
     {
+      "id": "the-d37e959ebb31",
+      "title": "Russia Lets Private Firms Buy Heavy Weapons to Defend Sites From Drone Attacks – RBC",
+      "description": "The new system will allow companies to procure anti-aircraft artillery systems, turrets, radar equipment, specialized vehicles and electronic warfare systems.",
+      "url": "https://www.themoscowtimes.com/2026/05/28/russia-lets-private-firms-buy-heavy-weapons-to-defend-sites-from-drone-attacks-rbc-a92876",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-05-28T16:59:14Z",
+      "image": "https://static.themoscowtimes.com/image/og/bd/92876__bde2ed9277a421eef756a40886c5c35e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-adedb772a3d9",
+      "title": "Middle East crisis live: Iran says Trump’s threats to ‘blow up’ Oman ‘dangerous and bullying’",
+      "description": "US president said ally would be at risk if it did not ‘behave just like everybody else’Hezbollah has claimed dozens of drone and rocket attacks that it said targeted Israeli troops in southern Lebanon and northern Israel.The group said it launched several attacks on Israeli soldiers and tanks that crossed the Litani ri…",
+      "url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-28T16:56:32Z",
+      "image": "https://i.guim.co.uk/img/media/c5ce04ac544001e5bb21902480cc91b6f7a69131/395_0_3927_3143/master/3927.jpg?width=140&quality=85&auto=format&fit=max&s=cb786119c40ac424c16ae1023d0d90da",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-6f78bcb57d8a",
       "title": "Are US and Iran close to peace or sliding back to war?",
       "description": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
       "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-05-28T14:42:27Z",
+      "publishedAt": "2026-05-28T16:56:19Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b47/live/14febc40-5a9d-11f1-8b8c-6d33e1d5abb6.jpg",
       "categories": [
         "conflict",
@@ -33,6 +63,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-7c97083f9d8c",
+      "title": "Ucciso in Ucraina un contractor italiano. Chi era Alex Pineschi",
+      "description": "Memorial: 'Alex Pineschi è morto sul campo di battaglia'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/05/28/ucciso-in-ucraina-un-contractor-italiano.-chi-era-alex-pineschi_22b6fd66-fc1f-4cfa-bc6d-527ea39b15cf.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-28T16:36:47Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/133fe5457caf39bd8890f6de57a3676f.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-3fa4a4d470d4",
+      "title": "Israel carries out strike on Beirut suburbs, first near capital in weeks",
+      "description": "An Israeli strike hit a building in the southern suburbs of the Lebanese capital on Thursday, the first strike to hit near Beirut in weeks amid a ceasefire that has failed to halt fighting between Israeli troops and Hezbollah in south ​Lebanon. The Israeli military ‌said it had conducted a precise strike in Beirut but …",
+      "url": "https://www.france24.com/en/video/20260528-israel-carries-out-strike-on-beirut-suburbs-first-near-capital-in-weeks",
+      "source": "France24",
+      "publishedAt": "2026-05-28T15:31:12Z",
+      "image": "https://s.france24.com/media/display/a779a2e0-5aa9-11f1-82e5-005056a90284/w:1024/p:16x9/EN-20260528-160126-160323-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -51,49 +111,19 @@
       "tags": []
     },
     {
-      "id": "fra-bc244319b983",
-      "title": "Ukraine asks Trump for more US air defence help against Russian missile attacks",
-      "description": "Ukrainian President Volodymyr Zelensky has written to US President Donald Trump and Congress asking for more American-made air defence ammunition to counter intensifying Russian ballistic missile attacks, Kyiv said Wednesday. The move came after a recent escalation in aerial attacks by both sides in the more than four-…",
-      "url": "https://www.france24.com/en/video/20260528-ukraine-asks-trump-for-more-us-air-defence-help-against-russian-missile-attacks",
-      "source": "France24",
-      "publishedAt": "2026-05-28T13:42:42Z",
-      "image": "https://s.france24.com/media/display/5ddb67ae-5a95-11f1-a8e8-005056bfb2b6/w:1024/p:16x9/EN-20260528-140800-141234-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-751ed52d8c3c",
-      "title": "Cuba, il 28% della popolazione ha problemi di accesso all'acqua",
-      "description": "L'Avana accusa il blocco energetico Usa e le nuove sanzioni",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/05/28/cuba-il-28-della-popolazione-ha-problemi-di-accesso-allacqua_0edf8d94-bf52-4bdf-80a9-d246c1611319.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-28T12:31:11Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/5fa7261854feb0f7409da7029cafddf6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-7c9040bbf0ea",
-      "title": "Trump threatens to ‘blow up’ US ally Oman if it does not ‘behave’ over strait of Hormuz | First Thing",
-      "description": "President makes comments after reports Iran and Oman have discussed jointly charging a toll for ships. Plus, how ‘balcony solar’ could help fight rising energy costsDon’t already get First Thing in your inbox? Sign up hereGood morning.In a casual aside during a cabinet meeting on Wednesday, Donald Trump threatened to “…",
-      "url": "https://www.theguardian.com/us-news/2026/may/28/first-thing-trump-threatens-oman-strait-of-hormuz",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-28T11:29:55Z",
-      "image": "https://i.guim.co.uk/img/media/e7d60d7e2581903a947019b103b82afe411c5e67/950_0_6881_5504/master/6881.jpg?width=140&quality=85&auto=format&fit=max&s=d509f06597cd6106e9bb0a43d66d147b",
+      "id": "al -6aa47015aa32",
+      "title": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+      "description": "The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-28T12:54:26Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a181672514d-1779963506.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
-        "humanitarian"
+        "analysis"
       ],
-      "relevanceScore": 13,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -109,22 +139,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -38219ad4f44c",
-      "title": "For Gaza, Eid joy is now a form of resistance",
-      "description": "Six were killed in Remal on Eid night. Minutes later, the stalls reopened.",
-      "url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-28T11:18:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a181fd63c77-1779965910.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -198,21 +212,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-05-25T19:32:56Z",
       "image": "https://images.csmonitor.com/csm/2026/05/1213248_2_0525-kyiv_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-20d0a36f7efd",
-      "title": "Everything We Know About the Deadly Ukrainian Strike in Occupied Luhansk",
-      "description": "Russia said at least 21 people were killed in the overnight strike on a college dormitory, while Ukraine denied targeting civilians.",
-      "url": "https://www.themoscowtimes.com/2026/05/25/everything-we-know-about-the-deadly-ukrainian-strike-in-occupied-luhansk-a92834",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-05-25T15:42:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/4e/92834__4e957f8c3887bf9289b45e33aa9fdbb2.jpg",
       "categories": [
         "conflict"
       ],

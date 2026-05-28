@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T07:30:11Z",
+  "updated": "2026-05-28T09:23:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/japan-s-car-exports-to-war-hit-middle-east-plummet-90-in-april",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-28T07:30:05Z",
+      "publishedAt": "2026-05-28T09:23:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F7%2F9%2F12549784-1-eng-GB%2F3b43fcf66455-photo_SXM2025051300010316a.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,29 @@
       "tags": []
     },
     {
-      "id": "bbc-548572092b36",
-      "title": "Sixteen pupils killed in Kenya school fire, local police say",
-      "description": "Search-and-rescue operations are ongoing, with the number of casualties yet to be confirmed.",
-      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "id": "fra-62bb0a3a2a93",
+      "title": "US strikes Iran, drawing retaliatory attack on American base",
+      "description": "The United States struck southern Iran on Thursday, drawing retaliation from Tehran against a US military base, in the most serious clashes since an April ceasefire began. The fighting, which drew in US ally Kuwait, threatened to jettison a fragile diplomatic push to forge a peace agreement and open the Strait of Hormu…",
+      "url": "https://www.france24.com/en/video/20260528-us-strikes-iran-drawing-retaliatory-attack-on-american-base-1",
+      "source": "France24",
+      "publishedAt": "2026-05-28T09:01:19Z",
+      "image": "https://s.france24.com/media/display/ff1ebe84-5a6f-11f1-ba10-005056bf30b7/w:1024/p:16x9/EN-20260528-100124-100827-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-c723dd15a9fd",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-05-28T07:24:55Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/059c/live/b3acc3c0-5a55-11f1-8f90-75f0f89da79a.jpg",
+      "publishedAt": "2026-05-28T08:43:19Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg",
       "categories": [
         "conflict"
       ],
@@ -35,50 +51,48 @@
       "tags": []
     },
     {
-      "id": "fra-3c33f8fe4c28",
-      "title": "Israel declares new 'combat zone' in southern Lebanon, orders evacuations",
-      "description": "Israel expanded its military campaign in southern Lebanon on Wednesday, ordering residents to evacuate areas south of the Zahrani River as strikes intensified despite an April ceasefire. The escalation comes as Israeli officials seek to pressure Hezbollah while avoiding actions in Beirut that could complicate US-led di…",
-      "url": "https://www.france24.com/en/middle-east/20260528-israel-declares-new-combat-zone-in-southern-lebanon-and-orders-evacuations",
-      "source": "France24",
-      "publishedAt": "2026-05-28T02:52:24Z",
-      "image": "https://s.france24.com/media/display/b3755e44-5a37-11f1-9870-005056a97e36/w:1024/p:16x9/b993308ab15251a30830211169b382467e301a69.jpg",
+      "id": "al -f1646c24b86b",
+      "title": "What’s happening on Iran war day 90 as US launches new strikes",
+      "description": "The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage.",
+      "url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-28T07:20:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/GettyImages-2276028966-1779779808.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-7a6beaf93730",
+      "title": "Soldier killed in Hezbollah drone attack as Israel widens strikes on terror group",
+      "description": "Sgt. Rotem Yanai, 20, killed while running to shelter in military zone on northern border, two reservists injured; IDF targets terror sites around Tyre after urging civilians to flee further north The post Soldier killed in Hezbollah drone attack as Israel widens strikes on terror group appeared first on The Times of I…",
+      "url": "https://www.timesofisrael.com/soldier-killed-in-hezbollah-drone-attack-as-israel-widens-strikes-on-terror-group/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-28T06:09:43Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260528__B4996WK__v2__HighRes__TopshotLebanonIsraelIranWar-1024x640.jpg",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "tim-215a1bb8c65f",
-      "title": "US strikes Iran, drawing retaliatory IRGC attack on American base in Kuwait as truce teeters",
-      "description": "Iran says it targeted base that enabled overnight US attack on Bandar Abbas airport * IDF says it launched strikes targeting Hezbollah infrastructure in Lebanese coastal town of Tyre The post US strikes Iran, drawing retaliatory IRGC attack on American base in Kuwait as truce teeters appeared first on The Times of Isra…",
-      "url": "https://www.timesofisrael.com/liveblog-may-28-2026/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-28T01:00:31Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/9690212-e1779946733536-1024x640.jpg",
+      "id": "le -bf9a0f0bc136",
+      "title": "Trump's Gaza committee remains an empty shell paralyzed by Israel",
+      "description": "Created four months ago as part of Donald Trump's peace plan, the entity is supposed to manage the coastal territory in place of Hamas. But Israel is preventing its members from entering, leaving them stranded in their offices in Cairo.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/28/trump-s-gaza-committee-remains-an-empty-shell-paralyzed-by-israel_6753886_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-28T02:00:06Z",
+      "image": "https://img.lemde.fr/2026/05/21/267/0/3200/1600/644/322/60/0/b02a3d1_upload-1-oeimb6gsxicp-000-934l4g3.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e812065a8a9c",
-      "title": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
-      "description": "Intensification comes while US-Iran indirect talks continue.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-27T20:56:30Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779912887.jpg?resize=1920%2C1061&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -143,17 +157,17 @@
       "tags": []
     },
     {
-      "id": "le -84a602a2e797",
-      "title": "Hamas confirms new armed wing chief killed in Gaza strike",
-      "description": "Hamas's armed wing confirmed that its chief, Mohammed Odeh, was killed in an Israeli strike, after Israel had earlier announced his death. He had 'served as head of Hamas intelligence during the October 7 massacre,' Israeli Prime Minister Benjamin Netanyahu said.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/26/israel-says-targeted-new-hamas-armed-wing-chief-in-gaza-strike_6753843_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-26T20:58:29Z",
-      "image": "https://img.lemde.fr/2026/03/03/2/0/1600/800/644/322/60/0/5a77966_upload-1-enifgjtdcpiu-sipa-sipahub60126127-000001.jpg",
+      "id": "npr-0102a9337b09",
+      "title": "Prospects fade for imminent end to Iran war as attacks restart",
+      "description": "Israel says it will intensify attacks against Hezbollah in Lebanon and U.S. military struck Iranian boats and missile launch sites as envoys continued negotiations for a deal that would end the three-month war.",
+      "url": "https://www.npr.org/2026/05/26/nx-s1-5834840/iran-lebanon-updates",
+      "source": "NPR World",
+      "publishedAt": "2026-05-26T13:32:50Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F63%2Fcdd90c484d1a98723c5dd8dc204f%2Fgettyimages-2277663760.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -187,21 +201,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-93af671affd7",
-      "title": "Russia threatens more strikes against Kyiv after drone and missile attack",
-      "description": "As Kyiv recovers from a Russian attack that hit every district in the Ukrainian capital, Ukraine continues long-range strikes on Russia's war machine even as the Kremlin threatens more strikes.",
-      "url": "https://www.npr.org/2026/05/26/nx-s1-5833816/russia-threatens-more-strikes-against-kyiv-after-drone-and-missile-attack",
-      "source": "NPR World",
-      "publishedAt": "2026-05-26T08:47:43Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5833816",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

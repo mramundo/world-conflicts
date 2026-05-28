@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T18:58:57Z",
+  "updated": "2026-05-28T19:53:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/japan-s-car-exports-to-war-hit-middle-east-plummet-90-in-april",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-28T18:58:54Z",
+      "publishedAt": "2026-05-28T19:53:39Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F7%2F9%2F12549784-1-eng-GB%2F3b43fcf66455-photo_SXM2025051300010316a.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-02150ecdd567",
+      "title": "'Accordo tra Usa e Iran', ma Trump vuole altri giorni per pensarci",
+      "description": "La tregua nel Golfo traballa ancora, attacchi incrociati nello Stretto di Hormuz",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/28/accordo-tra-usa-e-iran-ma-trump-vuole-altri-giorni-per-pensarci_56960a32-8301-4c6c-806c-0b86476ee5a2.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-28T19:43:29Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/9e493fb8a9c99047612a2a62f702680e.jpg",
       "categories": [
         "conflict"
       ],
@@ -25,27 +40,12 @@
       "description": "US president said ally would be at risk if it did not ‘behave just like everybody else’Hezbollah has claimed dozens of drone and rocket attacks that it said targeted Israeli troops in southern Lebanon and northern Israel.The group said it launched several attacks on Israeli soldiers and tanks that crossed the Litani ri…",
       "url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
       "source": "The Guardian",
-      "publishedAt": "2026-05-28T18:48:57Z",
+      "publishedAt": "2026-05-28T19:23:53Z",
       "image": "https://i.guim.co.uk/img/media/c5ce04ac544001e5bb21902480cc91b6f7a69131/395_0_3927_3143/master/3927.jpg?width=140&quality=85&auto=format&fit=max&s=cb786119c40ac424c16ae1023d0d90da",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-02150ecdd567",
-      "title": "'Accordo tra Usa e Iran', ma Trump vuole altri giorni per pensarci",
-      "description": "La tregua nel Golfo traballa ancora, attacchi incrociati nello Stretto di Hormuz",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/28/accordo-tra-usa-e-iran-ma-trump-vuole-altri-giorni-per-pensarci_56960a32-8301-4c6c-806c-0b86476ee5a2.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-28T18:46:02Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/9e493fb8a9c99047612a2a62f702680e.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -141,6 +141,22 @@
       "tags": []
     },
     {
+      "id": "un -a8bfb15ef0cd",
+      "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
+      "description": "The UN Security Council meets top of the hour on Ukraine, with Secretary-General António Guterres set to brief, following what Kyiv describes as the most devastating attack on its capital to date. In the early hours of 23-24 May, Russia launched a massive barrage of missiles and drones against multiple Ukrainian cities…",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167597",
+      "source": "UN News",
+      "publishedAt": "2026-05-28T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-12-2025-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "npr-09ae4dc4cc88",
       "title": "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
       "description": "The U.S. says it has struck Iran again as peace talks continue to end the conflict. And, the federal government has charged a Google staffer for allegedly using insider information in Polymarket trades.",
@@ -172,19 +188,19 @@
       "tags": []
     },
     {
-      "id": "un -aff1ff9e1a49",
-      "title": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
-      "description": "The World Food Programme (WFP) has deplored a Russian attack on a warehouse in Dnipro, Ukraine that destroyed “a significant quantity” of food aid destined for thousands in frontline areas.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167586",
-      "source": "UN News",
-      "publishedAt": "2026-05-26T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/26-05-2026-WFP-Ukraine.jpg/image560x340cropped.jpg",
+      "id": "cs -b9cbd40dc582",
+      "title": "What do sanctions accomplish? Maybe not what you think.",
+      "description": "As countries like Russia and Iran keep pursuing their agendas despite being hit by heavy Western sanctions, many wonder: Are sanctions effective?",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0526/sanctions-iran-war-russia-venezuela-us-jcpoa-eu?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-05-26T20:07:34Z",
+      "image": "https://images.csmonitor.com/csm/2026/05/0526_OSANCTIONS_iran_LEDE.jpg?alias=standard_900x600",
       "categories": [
         "conflict",
-        "humanitarian"
+        "analysis"
       ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -201,21 +217,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -736107a74bc7",
-      "title": "Leaders eye on Belarus for signs it might offer Russia help in Ukraine",
-      "description": "Belarus’ exiled opposition leader visits Kyiv as the city recovers from Russia’s largest missile attack of the year. World leaders are closely watching Belarus’ potential support for Russia’s invasion.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0525/ukraine-kyiv-oreshnik-missile-attack-russia-belarus-macron?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-05-25T19:32:56Z",
-      "image": "https://images.csmonitor.com/csm/2026/05/1213248_2_0525-kyiv_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     }
   ]

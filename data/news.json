@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T11:18:53Z",
+  "updated": "2026-05-28T13:24:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/japan-s-car-exports-to-war-hit-middle-east-plummet-90-in-april",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-28T11:18:50Z",
+      "publishedAt": "2026-05-28T13:24:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F7%2F9%2F12549784-1-eng-GB%2F3b43fcf66455-photo_SXM2025051300010316a.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -25,13 +25,60 @@
       "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
       "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-05-28T09:58:49Z",
+      "publishedAt": "2026-05-28T11:52:10Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-7c9040bbf0ea",
+      "title": "Trump threatens to ‘blow up’ US ally Oman if it does not ‘behave’ over strait of Hormuz | First Thing",
+      "description": "President makes comments after reports Iran and Oman have discussed jointly charging a toll for ships. Plus, how ‘balcony solar’ could help fight rising energy costsDon’t already get First Thing in your inbox? Sign up hereGood morning.In a casual aside during a cabinet meeting on Wednesday, Donald Trump threatened to “…",
+      "url": "https://www.theguardian.com/us-news/2026/may/28/first-thing-trump-threatens-oman-strait-of-hormuz",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-28T11:29:55Z",
+      "image": "https://i.guim.co.uk/img/media/e7d60d7e2581903a947019b103b82afe411c5e67/950_0_6881_5504/master/6881.jpg?width=140&quality=85&auto=format&fit=max&s=d509f06597cd6106e9bb0a43d66d147b",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-09ae4dc4cc88",
+      "title": "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
+      "description": "The U.S. says it has struck Iran again as peace talks continue to end the conflict. And, the federal government has charged a Google staffer for allegedly using insider information in Polymarket trades.",
+      "url": "https://www.npr.org/2026/05/28/g-s1-124621/up-first-newsletter-iran-lebanon-israel-us-war-ebola-congo-food-insecurity-google-polymarket",
+      "source": "NPR World",
+      "publishedAt": "2026-05-28T11:19:50Z",
+      "image": "undefined",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -38219ad4f44c",
+      "title": "For Gaza, Eid joy is now a form of resistance",
+      "description": "Six were killed in Remal on Eid night. Minutes later, the stalls reopened.",
+      "url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-28T11:18:21Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a181fd63c77-1779965910.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -51,21 +98,6 @@
       "tags": []
     },
     {
-      "id": "al -f1646c24b86b",
-      "title": "What’s happening on Iran war day 90 as US launches new strikes",
-      "description": "The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage.",
-      "url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-28T07:20:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/GettyImages-2276028966-1779779808.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-7a6beaf93730",
       "title": "Soldier killed in Hezbollah drone attack as Israel widens strikes on terror group",
       "description": "Sgt. Rotem Yanai, 20, killed while running to shelter in military zone on northern border, two reservists injured; IDF targets terror sites around Tyre after urging civilians to flee further north The post Soldier killed in Hezbollah drone attack as Israel widens strikes on terror group appeared first on The Times of I…",
@@ -77,21 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-9a1c781cc0c6",
-      "title": "Two killed in US strike on another alleged drug boat in Pacific as campaign’s death toll nears 200",
-      "description": "Military claims boat targeted in second deadly attack this week was travelling along a known smuggling routeThe US military attacked what it called a drug trafficking boat on Wednesday in the eastern Pacific, killing two men, officials said.It was the second deadly attack in as many days in the Trump administration off…",
-      "url": "https://www.theguardian.com/us-news/2026/may/28/us-military-strike-alleged-drug-boat-pacific-death-toll-nears-200",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-28T03:18:23Z",
-      "image": "https://i.guim.co.uk/img/media/d904cb363ce69d0d3d766b4e151556534d82a549/647_0_2546_2037/master/2546.jpg?width=140&quality=85&auto=format&fit=max&s=39a78f2a23a07644464f7d6d8749debf",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -142,32 +159,17 @@
       "tags": []
     },
     {
-      "id": "deu-ed416d907ec7",
-      "title": "Iran medicine shortages worsened by war",
-      "description": "Amid a fragile ceasefire with the US and Israel, Iranians are finding it harder to access essential medicines as imports and payment systems are disrupted.",
-      "url": "https://www.dw.com/en/iran-medicine-shortages-worsened-by-war/a-77297190?maca=en-rss-en-world-4025-rdf",
+      "id": "deu-cff93e9eed8b",
+      "title": "India's drug lifeline to Africa disrupted by Iran war",
+      "description": "The fragile logistics corridor via Gulf states that connects African patients with critical Indian pharmaceuticals has been thrown into disarray with the Strait of Hormuz closed.",
+      "url": "https://www.dw.com/en/india-s-drug-lifeline-to-africa-disrupted-by-iran-war/a-77318563?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
-      "publishedAt": "2026-05-27T05:59:00Z",
-      "image": "https://static.dw.com/image/70218887_6.jpg",
+      "publishedAt": "2026-05-27T14:22:00Z",
+      "image": "https://static.dw.com/image/56353201_6.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-0102a9337b09",
-      "title": "Prospects fade for imminent end to Iran war as attacks restart",
-      "description": "Israel says it will intensify attacks against Hezbollah in Lebanon and U.S. military struck Iranian boats and missile launch sites as envoys continued negotiations for a deal that would end the three-month war.",
-      "url": "https://www.npr.org/2026/05/26/nx-s1-5834840/iran-lebanon-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-05-26T13:32:50Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F63%2Fcdd90c484d1a98723c5dd8dc204f%2Fgettyimages-2277663760.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

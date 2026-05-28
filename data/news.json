@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T23:31:44Z",
+  "updated": "2026-05-28T00:53:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/japan-to-help-philippines-boost-oil-reserves-amid-iran-war-supply-shock",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-27T23:31:39Z",
+      "publishedAt": "2026-05-28T00:53:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F9%2F6%2F7%2F12547694-2-eng-GB%2F5da6afbf478d-photo_SXM2026052700011787.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -33,6 +33,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-f0a3852f2478",
+      "title": "Knesset panel restores word ‘massacre’ to Oct. 7 memorial day bill after backlash",
+      "description": "'No one wants to whitewash or change the narrative,' says committee chair; bereaved families accused government or 'erasing' history after it changed 'massacre' to 'events' in title The post Knesset panel restores word &#8216;massacre&#8217; to Oct. 7 memorial day bill after backlash appeared first on The Times of Isra…",
+      "url": "https://www.timesofisrael.com/knesset-panel-restores-word-massacre-to-oct-7-memorial-bill-after-backlash/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-27T19:59:52Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/F260420AVS706-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -67,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "bbc-2ccfc91d6633",
-      "title": "Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says",
-      "description": "GCHQ's director Anne Keast-Butler set out the threats facing the UK in her inaugural public speech.",
-      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-27T15:59:57Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a337/live/08099510-59e3-11f1-ad45-03463f64a221.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-743c1ede7628",
       "title": "Trump Board of Peace's official Gaza fund is empty despite billions pledged, source says",
       "description": "Four months after its creation, the Gaza reconstruction fund of US President Donald Trump's so-called Board of Peace has yet to receive any of the billions of dollars pledged by donor countries. Israel has continued to carry out strikes across the devastated Palestinian territory despite a US-backed ceasefire, killing …",
@@ -97,21 +97,6 @@
       "tags": []
     },
     {
-      "id": "tim-5b80508e0c19",
-      "title": "Hezbollah claims clashes with Israeli troops north of Litani; IDF dismisses reports",
-      "description": "Terror group reports 'point-blank' battle in Zawtar al-Sharqiyah amid IDF ground advance; IAF maintains heavy strikes, a day after reportedly killing 31, including Lebanese soldier The post Hezbollah claims clashes with Israeli troops north of Litani; IDF dismisses reports appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/hezbollah-claims-clashes-with-israeli-troops-north-of-litani-idf-dismisses-reports/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-27T14:37:57Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260527__B46X49E__v1__HighRes__LebanonIsraelIranUsWar-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-c37999b37904",
       "title": "Intelligence Gb, 'quasi 500 mila soldati russi uccisi in guerra Ucraina'",
       "description": "Keast-Butler (Gchg), 'Putin sta arretrando sul campo di battaglia'",
@@ -123,6 +108,21 @@
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-423931557293",
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "description": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-27T13:15:26Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8016/live/92d75020-59ab-11f1-8b8c-6d33e1d5abb6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

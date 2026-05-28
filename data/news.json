@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T09:23:40Z",
+  "updated": "2026-05-28T11:18:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/japan-s-car-exports-to-war-hit-middle-east-plummet-90-in-april",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-28T09:23:37Z",
+      "publishedAt": "2026-05-28T11:18:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F7%2F9%2F12549784-1-eng-GB%2F3b43fcf66455-photo_SXM2025051300010316a.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-c723dd15a9fd",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-28T09:58:49Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -32,21 +47,6 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-c723dd15a9fd",
-      "title": "Iran says it targeted American base after fresh US strikes",
-      "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-28T08:43:19Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -72,11 +72,26 @@
       "url": "https://www.timesofisrael.com/soldier-killed-in-hezbollah-drone-attack-as-israel-widens-strikes-on-terror-group/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-28T06:09:43Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260528__B4996WK__v2__HighRes__TopshotLebanonIsraelIranWar-1024x640.jpg",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/image-35-1024x640.jpeg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-9a1c781cc0c6",
+      "title": "Two killed in US strike on another alleged drug boat in Pacific as campaign’s death toll nears 200",
+      "description": "Military claims boat targeted in second deadly attack this week was travelling along a known smuggling routeThe US military attacked what it called a drug trafficking boat on Wednesday in the eastern Pacific, killing two men, officials said.It was the second deadly attack in as many days in the Trump administration off…",
+      "url": "https://www.theguardian.com/us-news/2026/may/28/us-military-strike-alleged-drug-boat-pacific-death-toll-nears-200",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-28T03:18:23Z",
+      "image": "https://i.guim.co.uk/img/media/d904cb363ce69d0d3d766b4e151556534d82a549/647_0_2546_2037/master/2546.jpg?width=140&quality=85&auto=format&fit=max&s=39a78f2a23a07644464f7d6d8749debf",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -92,21 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-c371217fb8f8",
-      "title": "Nearly half a million Russians killed in Ukraine war, UK spy chief says",
-      "description": "Anne Keast-Butler says Russian forces are ‘going backwards on the battlefield’ for first time since late 2022Nearly half a million Russian soldiers have been killed in Ukraine since the start of Vladimir Putin’s invasion more than four years ago, according to a new estimate from the head of the British spy agency GCHQ.…",
-      "url": "https://www.theguardian.com/world/2026/may/27/nearly-half-a-million-russians-killed-in-ukraine-war-uk-spy-chief-says",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-27T17:09:41Z",
-      "image": "https://i.guim.co.uk/img/media/e727440bd6b592bcfd8c5a3c25564cb3238f8b27/1643_212_4063_3251/master/4063.jpg?width=140&quality=85&auto=format&fit=max&s=a7ce5d8e4363dc2b46fc3a7902672011",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

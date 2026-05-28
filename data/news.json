@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T17:22:20Z",
+  "updated": "2026-05-28T18:58:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,57 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/japan-s-car-exports-to-war-hit-middle-east-plummet-90-in-april",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-28T17:22:17Z",
+      "publishedAt": "2026-05-28T18:58:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F7%2F9%2F12549784-1-eng-GB%2F3b43fcf66455-photo_SXM2025051300010316a.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-adedb772a3d9",
+      "title": "Middle East crisis live: Iran says Trump’s threats to ‘blow up’ Oman ‘dangerous and bullying’",
+      "description": "US president said ally would be at risk if it did not ‘behave just like everybody else’Hezbollah has claimed dozens of drone and rocket attacks that it said targeted Israeli troops in southern Lebanon and northern Israel.The group said it launched several attacks on Israeli soldiers and tanks that crossed the Litani ri…",
+      "url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-28T18:48:57Z",
+      "image": "https://i.guim.co.uk/img/media/c5ce04ac544001e5bb21902480cc91b6f7a69131/395_0_3927_3143/master/3927.jpg?width=140&quality=85&auto=format&fit=max&s=cb786119c40ac424c16ae1023d0d90da",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-02150ecdd567",
+      "title": "'Accordo tra Usa e Iran', ma Trump vuole altri giorni per pensarci",
+      "description": "La tregua nel Golfo traballa ancora, attacchi incrociati nello Stretto di Hormuz",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/28/accordo-tra-usa-e-iran-ma-trump-vuole-altri-giorni-per-pensarci_56960a32-8301-4c6c-806c-0b86476ee5a2.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-28T18:46:02Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/9e493fb8a9c99047612a2a62f702680e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -533cd45b0b04",
+      "title": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
+      "description": "US and Iranian negotiators have reached a memorandum of understanding on a proposed 60-day ceasefire extension.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-28T18:25:32Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-19.17.28-1779992455.png?resize=1800%2C1036",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +76,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-adedb772a3d9",
-      "title": "Middle East crisis live: Iran says Trump’s threats to ‘blow up’ Oman ‘dangerous and bullying’",
-      "description": "US president said ally would be at risk if it did not ‘behave just like everybody else’Hezbollah has claimed dozens of drone and rocket attacks that it said targeted Israeli troops in southern Lebanon and northern Israel.The group said it launched several attacks on Israeli soldiers and tanks that crossed the Litani ri…",
-      "url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-28T16:56:32Z",
-      "image": "https://i.guim.co.uk/img/media/c5ce04ac544001e5bb21902480cc91b6f7a69131/395_0_3927_3143/master/3927.jpg?width=140&quality=85&auto=format&fit=max&s=cb786119c40ac424c16ae1023d0d90da",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,13 +96,13 @@
       "tags": []
     },
     {
-      "id": "ans-7c97083f9d8c",
-      "title": "Ucciso in Ucraina un contractor italiano. Chi era Alex Pineschi",
-      "description": "Memorial: 'Alex Pineschi è morto sul campo di battaglia'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/05/28/ucciso-in-ucraina-un-contractor-italiano.-chi-era-alex-pineschi_22b6fd66-fc1f-4cfa-bc6d-527ea39b15cf.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-28T16:36:47Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/133fe5457caf39bd8890f6de57a3676f.jpg",
+      "id": "le -a1564c4caa56",
+      "title": "Israel is using the ceasefire in Gaza to cement its grip on the territory",
+      "description": "Nearly eight months after Israel announced a ceasefire that its army is violating daily, the country continues to strike the part of the enclave it occupies. Some in Israel are calling to resume airstrikes more intensively.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/28/israel-is-using-the-ceasefire-in-gaza-to-cement-its-grip-on-the-territory_6753914_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-28T15:56:32Z",
+      "image": "https://img.lemde.fr/2026/05/26/972/0/7989/3994/644/322/60/0/05fb578_ftp-1-05bvbe12v14r-78a0fe032b9643e8a7b4620eea82fd19-0-4f33162181ad4fa38562a81437cabe3a.jpg",
       "categories": [
         "conflict"
       ],
@@ -111,22 +141,6 @@
       "tags": []
     },
     {
-      "id": "al -6aa47015aa32",
-      "title": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
-      "description": "The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-28T12:54:26Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a181672514d-1779963506.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "npr-09ae4dc4cc88",
       "title": "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
       "description": "The U.S. says it has struck Iran again as peace talks continue to end the conflict. And, the federal government has charged a Google staffer for allegedly using insider information in Polymarket trades.",
@@ -138,21 +152,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -bf9a0f0bc136",
-      "title": "Trump's Gaza committee remains an empty shell paralyzed by Israel",
-      "description": "Created four months ago as part of Donald Trump's peace plan, the entity is supposed to manage the coastal territory in place of Hamas. But Israel is preventing its members from entering, leaving them stranded in their offices in Cairo.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/28/trump-s-gaza-committee-remains-an-empty-shell-paralyzed-by-israel_6753886_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-28T02:00:06Z",
-      "image": "https://img.lemde.fr/2026/05/21/267/0/3200/1600/644/322/60/0/b02a3d1_upload-1-oeimb6gsxicp-000-934l4g3.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

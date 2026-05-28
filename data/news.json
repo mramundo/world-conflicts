@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T19:53:43Z",
+  "updated": "2026-05-28T20:52:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/japan-s-car-exports-to-war-hit-middle-east-plummet-90-in-april",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-28T19:53:39Z",
+      "publishedAt": "2026-05-28T20:52:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F7%2F9%2F12549784-1-eng-GB%2F3b43fcf66455-photo_SXM2025051300010316a.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -25,7 +25,7 @@
       "description": "La tregua nel Golfo traballa ancora, attacchi incrociati nello Stretto di Hormuz",
       "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/28/accordo-tra-usa-e-iran-ma-trump-vuole-altri-giorni-per-pensarci_56960a32-8301-4c6c-806c-0b86476ee5a2.html",
       "source": "ANSA",
-      "publishedAt": "2026-05-28T19:43:29Z",
+      "publishedAt": "2026-05-28T20:24:56Z",
       "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/9e493fb8a9c99047612a2a62f702680e.jpg",
       "categories": [
         "conflict"
@@ -35,17 +35,32 @@
       "tags": []
     },
     {
-      "id": "the-adedb772a3d9",
-      "title": "Middle East crisis live: Iran says Trump’s threats to ‘blow up’ Oman ‘dangerous and bullying’",
-      "description": "US president said ally would be at risk if it did not ‘behave just like everybody else’Hezbollah has claimed dozens of drone and rocket attacks that it said targeted Israeli troops in southern Lebanon and northern Israel.The group said it launched several attacks on Israeli soldiers and tanks that crossed the Litani ri…",
-      "url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
-      "source": "The Guardian",
-      "publishedAt": "2026-05-28T19:23:53Z",
-      "image": "https://i.guim.co.uk/img/media/c5ce04ac544001e5bb21902480cc91b6f7a69131/395_0_3927_3143/master/3927.jpg?width=140&quality=85&auto=format&fit=max&s=cb786119c40ac424c16ae1023d0d90da",
+      "id": "tim-ac25329883f7",
+      "title": "Netanyahu says he told IDF to seize 70% of Gaza, well beyond terms of truce",
+      "description": "Anti-Hamas militia shows off heavy drone, possibly provided by Israel; Hamas buries Gaza City deputy commander, IDF kills moneyman who it says transferred millions to military wing The post Netanyahu says he told IDF to seize 70% of Gaza, well beyond terms of truce appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/netanyahu-says-he-told-idf-to-seize-70-of-gaza-strip-well-beyond-terms-of-truce/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-28T20:16:06Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/vlcsnap-2026-05-28-20h26m58s411-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-0b1a10a2a26a",
+      "title": "Clashes between armed groups in Colombia kill at least 52",
+      "description": "Rival groups are vying for territorial control of strategic cocaine production and trafficking regionAt least 52 guerrilla fighters have been killed in clashes between two rival armed groups vying for territorial control of a strategic cocaine production and trafficking region in south-east Colombia, a faction of the R…",
+      "url": "https://www.theguardian.com/world/2026/may/28/clashes-between-armed-groups-in-colombia-kill-at-least-52",
+      "source": "The Guardian",
+      "publishedAt": "2026-05-28T19:51:56Z",
+      "image": "https://i.guim.co.uk/img/media/1799ddf52d08c07001b7bde5795a51dff65f0ded/510_0_5103_4082/master/5103.jpg?width=140&quality=85&auto=format&fit=max&s=4290ef3ad567ef8941abcf69dc1b56a5",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -122,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-4ac58c63e111",
-      "title": "IDF strikes Beirut for first time in 3 weeks, as offensive in Lebanon intensifies",
-      "description": "Target said to be head of an Iranian militia's missile force; unclear if he was killed; other strikes hit over 135 targets; Lebanese authorities say 14 killed, including children The post IDF strikes Beirut for first time in 3 weeks, as offensive in Lebanon intensifies appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-strikes-beirut-for-first-time-in-3-weeks-as-offensive-in-lebanon-intensifies/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-28T13:43:23Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/3-combo-2-1-1024x640.jpeg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

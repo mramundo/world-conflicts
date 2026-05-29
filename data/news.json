@@ -1,21 +1,36 @@
 {
-  "updated": "2026-05-28T23:33:04Z",
+  "updated": "2026-05-29T01:01:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-9aaa03896225",
-      "title": "Japan's crude imports plunge 50% since Iran war, exposing Mideast reliance",
+      "id": "nik-b1991fb4993c",
+      "title": "Asia security summit opens with US strategy in focus amid Iran war",
       "description": "",
-      "url": "https://asia.nikkei.com/business/energy/japan-s-crude-imports-plunge-50-since-iran-war-exposing-mideast-reliance2",
+      "url": "https://asia.nikkei.com/politics/defense/asia-security-summit-opens-with-us-strategy-in-focus-amid-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-28T23:33:00Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F7%2F8%2F3%2F12553873-2-eng-GB%2Fe5962a9dda5c-photo_SXM2026052800003065.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-05-29T01:01:11Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F6%2F6%2F6%2F12546669-1-eng-GB%2F305885d0a717-1d.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -7372c55f274f",
+      "title": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
+      "description": "Lebanese PM Nawaf Salam says &#039;nothing can justify&#039; Israel&#039;s military onslaught against &#039;peaceful people&#039; in Lebanon.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-29T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26148324885386-1780011301.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -80,21 +95,6 @@
       "tags": []
     },
     {
-      "id": "al -533cd45b0b04",
-      "title": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
-      "description": "US and Iranian negotiators have reached a memorandum of understanding on a proposed 60-day ceasefire extension.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-28T18:25:32Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-19.17.28-1779992455.png?resize=1800%2C1036",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-d37e959ebb31",
       "title": "Russia Lets Private Firms Buy Heavy Weapons to Defend Sites From Drone Attacks – RBC",
       "description": "The new system will allow companies to procure anti-aircraft artillery systems, turrets, radar equipment, specialized vehicles and electronic warfare systems.",
@@ -110,19 +110,18 @@
       "tags": []
     },
     {
-      "id": "bbc-6f78bcb57d8a",
-      "title": "Are US and Iran close to peace or sliding back to war?",
-      "description": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
-      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+      "id": "bbc-da57845c18ad",
+      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+      "description": "Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.",
+      "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-05-28T16:56:19Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b47/live/14febc40-5a9d-11f1-8b8c-6d33e1d5abb6.jpg",
+      "publishedAt": "2026-05-28T16:39:30Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c63/live/e5a53b30-5a84-11f1-b721-e3714617440a.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {

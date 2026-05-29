@@ -1,21 +1,36 @@
 {
-  "updated": "2026-05-29T07:29:25Z",
+  "updated": "2026-05-29T09:18:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-1f199efaad00",
-      "title": "Editor's Choice: When sanctions drive innovation, Huawei's 'Her's Law' challenge",
+      "id": "nik-28319145a54f",
+      "title": "Thai-Cambodia border clash fallout hits Japan auto industry",
       "description": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-when-sanctions-drive-innovation-huawei-s-her-s-law-challenge",
+      "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-29T07:29:22Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F6%2F2%2F6%2F12536260-2-eng-GB%2F3cc52faaca38-2026-05-06T112841Z_904568949_RC2U0FAD1H6C_RTRMADP_3_CHINA-EU-CYBERSECURITY.JPG?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "publishedAt": "2026-05-29T09:18:32Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-3099d1ed782f",
+      "title": "Russian drone injures 2 in Romania, sparking outcry by EU and NATO members",
+      "description": "European Commission head says Russia 'crossed yet another line,' as allies worry about Kremlin's war with Ukraine spilling over borders The post Russian drone injures 2 in Romania, sparking outcry by EU and NATO members appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/russian-drone-injures-2-in-romania-sparking-outcry-by-eu-and-nato-members/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-29T07:58:32Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260529__B4D86UC__v4__HighRes__RomaniaRussiaUkraineConflict-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -77,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-ac25329883f7",
-      "title": "Netanyahu says he told IDF to seize 70% of Gaza, well beyond terms of truce",
-      "description": "Anti-Hamas militia shows off heavy drone, possibly provided by Israel; Hamas buries Gaza City deputy commander, IDF kills moneyman who it says transferred millions to military wing The post Netanyahu says he told IDF to seize 70% of Gaza, well beyond terms of truce appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/netanyahu-says-he-told-idf-to-seize-70-of-gaza-strip-well-beyond-terms-of-truce/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-28T20:16:06Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/vlcsnap-2026-05-28-20h26m58s411-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

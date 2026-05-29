@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-29T19:53:10Z",
+  "updated": "2026-05-29T20:53:03Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-29T19:53:06Z",
+      "publishedAt": "2026-05-29T20:52:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,33 @@
       "tags": []
     },
     {
-      "id": "al -5facd13b90a8",
-      "title": "Russian rate of losses in Ukraine almost triples in one year",
-      "description": "Territorially, Russia is at a standstill in 2026, assessments of its ground war reveal.",
-      "url": "https://www.aljazeera.com/features/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-29T18:28:55Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-27T115934Z_627806717_RC2NHLAYFS61_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-AFTERMATH-1780077265.jpg?resize=1920%2C1440",
+      "id": "npr-f718556866c3",
+      "title": "Drones are changing the face of warfare, including battlefield medicine",
+      "description": "There have been hundreds of thousands of casualties on both sides of the war in Ukraine, and by some estimates more than 80% are now caused by drones. It's changed the nature of battlefield medicine.",
+      "url": "https://www.npr.org/2026/05/29/nx-s1-5830382/drones-are-changing-the-face-of-warfare-including-battlefield-medicine",
+      "source": "NPR World",
+      "publishedAt": "2026-05-29T20:44:34Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5830382",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c5600541466e",
+      "title": "Just what are Israel’s long-term plans for Gaza?",
+      "description": "Despite an apparent ceasefire, Israel&#039;s leaders continue to hint at annexation and ethnic cleansing.",
+      "url": "https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-29T15:01:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a18864c-1779992140.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": true,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -62,21 +76,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-cb808aa62abf",
-      "title": "Asia defense summit opens amid doubts over U.S. priorities",
-      "description": "The Shangri-La Dialogue, hosted by the International Institute for Strategic Studies, will also address tensions in the Middle East and Russia's war on Ukraine.",
-      "url": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities",
-      "source": "NPR World",
-      "publishedAt": "2026-05-29T12:57:25Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6158x4106+0+0/resize/6158x4106!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2Fd3%2F90efc22e4c9b96fac318c13c55fd%2Fap26148377240594.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -215,22 +214,6 @@
         "analysis"
       ],
       "relevanceScore": 13,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -b9cbd40dc582",
-      "title": "What do sanctions accomplish? Maybe not what you think.",
-      "description": "As countries like Russia and Iran keep pursuing their agendas despite being hit by heavy Western sanctions, many wonder: Are sanctions effective?",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0526/sanctions-iran-war-russia-venezuela-us-jcpoa-eu?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-05-26T20:07:34Z",
-      "image": "https://images.csmonitor.com/csm/2026/05/0526_OSANCTIONS_iran_LEDE.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     }

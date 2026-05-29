@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T09:18:35Z",
+  "updated": "2026-05-29T11:11:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-29T09:18:32Z",
+      "publishedAt": "2026-05-29T11:11:25Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,32 +20,78 @@
       "tags": []
     },
     {
-      "id": "tim-3099d1ed782f",
-      "title": "Russian drone injures 2 in Romania, sparking outcry by EU and NATO members",
-      "description": "European Commission head says Russia 'crossed yet another line,' as allies worry about Kremlin's war with Ukraine spilling over borders The post Russian drone injures 2 in Romania, sparking outcry by EU and NATO members appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/russian-drone-injures-2-in-romania-sparking-outcry-by-eu-and-nato-members/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-29T07:58:32Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260529__B4D86UC__v4__HighRes__RomaniaRussiaUkraineConflict-1024x640.jpg",
+      "id": "npr-f0c5214818d2",
+      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
+      "description": "A Russian drone that was part of an overnight attack on Ukraine crashed into an apartment building in eastern Romania, injuring two people, Romanian authorities said Friday.",
+      "url": "https://www.npr.org/2026/05/29/g-s1-124773/russian-drone-romania",
+      "source": "NPR World",
+      "publishedAt": "2026-05-29T10:32:10Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1067+0+0/resize/1600x1067!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F13%2F051aa395434e96794b1d68d285fa%2Fap26149285671021.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "ans-f168b881a178",
-      "title": "Von der Leyen, Mosca ha superato un altro limite con il drone in Romania",
-      "description": "'Continueremo ad aumentare la pressione sulla Russia, prepariamo nuove sanzioni'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/29/von-der-leyen-mosca-ha-superato-un-altro-limite-con-il-drone-in-romania_8509a42e-d610-4c7d-98ec-b3e471bb86a9.html",
+      "id": "fra-fae1f39b008c",
+      "title": "How far have the US and Iran got towards ending the Iran war?",
+      "description": "The United States and Iran have reached ⁠an agreement to extend ​a ceasefire, allow shipping through the Strait of Hormuz and lift a US blockade and some sanctions on Iran, sources told Reuters, but the deal has not been finalised. An agreement would represent a big step towards ending a ​war that has pushed the world …",
+      "url": "https://www.france24.com/en/video/20260529-how-far-have-the-us-and-iran-got-towards-ending-the-iran-war",
+      "source": "France24",
+      "publishedAt": "2026-05-29T10:28:14Z",
+      "image": "https://s.france24.com/media/display/d4382d5c-5b48-11f1-a829-005056a90284/w:1024/p:16x9/EN-20260529-110905-111042-CS.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-893c1d139495",
+      "title": "Vance: 'Progressi su estensione tregua, ma Trump non pronto ad approvarlo'",
+      "description": "'Con l'Iran ci stiamo confrontando su un paio di punti della formulazione del testo'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/29/vance-progressi-su-estensione-tregua-ma-trump-non-pronto-ad-approvarlo_c8ae5e3a-7d10-42b9-9338-93fa8dada846.html",
       "source": "ANSA",
-      "publishedAt": "2026-05-29T06:20:30Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/20/129780abdcc146c1583ca251908e5b8b.jpg",
+      "publishedAt": "2026-05-29T09:59:20Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/26/d026d86a97831a69583dbd3c3006c36a.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-e900dbad401a",
+      "title": "IDF troops apparently fire at civilian plane, mistaking it for drone; none hurt",
+      "description": "Soldiers deployed to Beit El after locals report several drones overhead; later confirmed to be jetliner whose flight path was shifted eastward; IDF investigating incident The post IDF troops apparently fire at civilian plane, mistaking it for drone; none hurt appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-troops-apparently-fire-at-civilian-plane-mistaking-it-for-drone-none-hurt/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-29T09:42:58Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F250925YA012-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8f7e93664de7",
+      "title": "NATO states slam Russia after drone crashes in Romania",
+      "description": "The incident adds to concern that Moscow&#039;s war on Ukraine risks spilling over to entangle neighbouring NATO states.",
+      "url": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-29T07:50:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a19358c02a6-1780037004.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,36 +108,6 @@
         "humanitarian"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7372c55f274f",
-      "title": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
-      "description": "Lebanese PM Nawaf Salam says &#039;nothing can justify&#039; Israel&#039;s military onslaught against &#039;peaceful people&#039; in Lebanon.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-29T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26148324885386-1780011301.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-ac92a2f28164",
-      "title": "U.S. and Iran trade strikes. How will this affect deal to end war?",
-      "description": "Do new strikes affect a potential deal to end the war with Iran? NPR's Scott Detrow breaks it down with NPR International Correspondent Aya Batrawy and NPR Pentagon Correspondent Tom Bowman.",
-      "url": "https://www.npr.org/2026/05/28/nx-s1-5835313/u-s-and-iran-trade-strikes-how-will-this-affect-deal-to-end-war",
-      "source": "NPR World",
-      "publishedAt": "2026-05-28T20:43:42Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5835313",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -138,21 +154,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-3fa4a4d470d4",
-      "title": "Israel carries out strike on Beirut suburbs, first near capital in weeks",
-      "description": "An Israeli strike hit a building in the southern suburbs of the Lebanese capital on Thursday, the first strike to hit near Beirut in weeks amid a ceasefire that has failed to halt fighting between Israeli troops and Hezbollah in south ​Lebanon. The Israeli military ‌said it had conducted a precise strike in Beirut but …",
-      "url": "https://www.france24.com/en/video/20260528-israel-carries-out-strike-on-beirut-suburbs-first-near-capital-in-weeks",
-      "source": "France24",
-      "publishedAt": "2026-05-28T15:31:12Z",
-      "image": "https://s.france24.com/media/display/a779a2e0-5aa9-11f1-82e5-005056a90284/w:1024/p:16x9/EN-20260528-160126-160323-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

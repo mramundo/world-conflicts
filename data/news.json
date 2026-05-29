@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-29T11:11:27Z",
+  "updated": "2026-05-29T13:15:14Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-29T11:11:25Z",
+      "publishedAt": "2026-05-29T13:15:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,62 @@
       "tags": []
     },
     {
-      "id": "npr-f0c5214818d2",
-      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
-      "description": "A Russian drone that was part of an overnight attack on Ukraine crashed into an apartment building in eastern Romania, injuring two people, Romanian authorities said Friday.",
-      "url": "https://www.npr.org/2026/05/29/g-s1-124773/russian-drone-romania",
+      "id": "ans-eaa199393252",
+      "title": "Medvedev ai cittadini Ue, 'siate vigili, il sonno tranquillo è finito'",
+      "description": "'Le autorità europee sono entrate in guerra con la Russia, chiedete conto a loro'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/29/medvedev-ai-cittadini-ue-siate-vigili-il-sonno-tranquillo-e-finito_a020aebf-9767-47a5-97e5-061202e89cc9.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-29T12:59:44Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/42ef33422de617fc52a5624f1f80df46.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-cb808aa62abf",
+      "title": "Asia defense summit opens amid doubts over U.S. priorities",
+      "description": "The Shangri-La Dialogue, hosted by the International Institute for Strategic Studies, will also address tensions in the Middle East and Russia's war on Ukraine.",
+      "url": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities",
       "source": "NPR World",
-      "publishedAt": "2026-05-29T10:32:10Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1067+0+0/resize/1600x1067!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F13%2F051aa395434e96794b1d68d285fa%2Fap26149285671021.jpg",
+      "publishedAt": "2026-05-29T12:57:25Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6158x4106+0+0/resize/6158x4106!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2Fd3%2F90efc22e4c9b96fac318c13c55fd%2Fap26148377240594.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-756bea75f490",
+      "title": "Zelensky Warns Russia Preparing New Massive Strike on Ukraine",
+      "description": "Zelensky warned that Russia may be preparing another large-scale missile and drone strike on Ukrainian cities, citing fresh intelligence shared with allies. He urged faster air defense deliveries and stronger sanctions.",
+      "url": "https://www.kyivpost.com/post/77121",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-29T12:38:20Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/23/cac9e835de07ba831145fc7417ddf371.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-1a80c0d5ff8c",
+      "title": "Iran war: Oman stuck between Trump and Tehran",
+      "description": "Oman is one of the most important mediators between Washington and Tehran. So why did Donald Trump threaten the sultanate with a military strike?",
+      "url": "https://www.dw.com/en/iran-war-oman-stuck-between-trump-and-tehran/a-77345795?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-05-29T12:11:00Z",
+      "image": "https://static.dw.com/image/77333824_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -48,21 +93,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-893c1d139495",
-      "title": "Vance: 'Progressi su estensione tregua, ma Trump non pronto ad approvarlo'",
-      "description": "'Con l'Iran ci stiamo confrontando su un paio di punti della formulazione del testo'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/29/vance-progressi-su-estensione-tregua-ma-trump-non-pronto-ad-approvarlo_c8ae5e3a-7d10-42b9-9338-93fa8dada846.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-29T09:59:20Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/26/d026d86a97831a69583dbd3c3006c36a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -201,22 +231,6 @@
         "analysis"
       ],
       "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-d98d5a7f484d",
-      "title": "Illusions of a Ceasefire in Ukraine",
-      "description": "Russia’s aggression against Ukraine might end with a Russian victory or a Ukrainian victory, but the war ending with a negotiated ceasefire appears a remote possibility. Putin still believes he can attrit Ukraine faster than Ukraine can attrit his armed forces, but this belief might be misplaced. A lot of his thinking …",
-      "url": "https://www.kyivpost.com/opinion/76897",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-26T11:49:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/26/144837e509858d6bee3a3ceb49b3e91f.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 14,
       "isAnalysis": true,
       "tags": []
     }

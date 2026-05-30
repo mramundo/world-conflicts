@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T16:26:54Z",
+  "updated": "2026-05-30T17:27:34Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-30T16:26:50Z",
+      "publishedAt": "2026-05-30T17:27:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -21,8 +21,8 @@
     },
     {
       "id": "tim-024f96934893",
-      "title": "Hezbollah fires multiple rockets and drones at north as IDF expands south Lebanon op",
-      "description": "None injured in attacks as military braces for increased fire; army strike hits artillery command center; Lebanese officials said disappointed by talks with Israel at Pentagon The post Hezbollah fires multiple rockets and drones at north as IDF expands south Lebanon op appeared first on The Times of Israel.",
+      "title": "Hezbollah fires barrages of rockets and drones at north as IDF expands south Lebanon op",
+      "description": "None injured in attacks as military expects increased fire; army strike hits artillery command center; Lebanese officials said disappointed by talks with Israel at Pentagon The post Hezbollah fires barrages of rockets and drones at north as IDF expands south Lebanon op appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/hezbollah-fires-several-rockets-and-drones-at-north-as-idf-expands-south-lebanon-op/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-30T16:04:28Z",
@@ -157,6 +157,22 @@
       "tags": []
     },
     {
+      "id": "rfe-fadeb6ecb86a",
+      "title": "The 'Dark Tourism' Keeping Ukraine's Travel Industry Alive",
+      "description": "After Ukraine’s tourism industry was decimated by the Russian invasion, tour operators in Ukraine are catering towards travellers who want to see the impacts of the war firsthand.",
+      "url": "https://www.rferl.org/a/ukraine-war-dark-tourism-russia-invasion/33767624.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-05-29T08:22:25Z",
+      "image": "https://gdb.rferl.org/07c17896-c045-4215-74ab-08debadc3b87_cx0_cy4_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "the-b7667206296b",
       "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
       "description": "In today’s newsletter: As the virus spreads across borders, health workers warn that weakened global support is making a prolonged crisis more likelyEbola is spreading rapidly in parts of east Africa. The deadly disease, which kills around half of those it infects, is suspected to have claimed the lives of at least 240…",
@@ -215,22 +231,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-b2966da7509a",
-      "title": "Nearly 500,000 Russian Soldiers Killed In Ukraine Since Start Of All-Out War, British Intelligence Says",
-      "description": "Nearly 500,000 Russian soldiers are estimated to have been killed in Moscow’s full-scale invasion of Ukraine since it began in 2022, a top British intelligence official has said, as the conflicts grinds to a near stalemate.",
-      "url": "https://www.rferl.org/a/russia-ukraine-war-casualties-british-intelligence/33766873.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-05-27T16:26:52Z",
-      "image": "https://gdb.rferl.org/8703f059-ab4e-495e-b223-89a24fb6891d_cx0_cy9_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
       "tags": []
     }
   ]

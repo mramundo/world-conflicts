@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-30T13:35:01Z",
+  "updated": "2026-05-30T14:36:31Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-30T13:34:57Z",
+      "publishedAt": "2026-05-30T14:36:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-a578e9b0c0c9",
+      "title": "Kiev, almeno 5 morti e 40 feriti nei raid russi delle ultime 24 ore in Ucraina",
+      "description": "Attacchi a Sumy, Kharkiv, Zaporizhzhia, Donetsk, Kherson e Dnipropetrovsk",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/30/kiev-almeno-5-morti-e-40-feriti-nei-raid-russi-delle-ultime-24-ore_b3fb944e-569f-4d4e-a3c4-960fa6e5bdae.html",
+      "source": "ANSA",
+      "publishedAt": "2026-05-30T13:45:16Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2025/10/22/b08ddd35160eab2ecfb0d9bc03bf5551.jpg",
       "categories": [
         "conflict"
       ],

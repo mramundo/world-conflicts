@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-30T12:32:49Z",
+  "updated": "2026-05-30T13:35:01Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,45 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-30T12:32:46Z",
+      "publishedAt": "2026-05-30T13:34:57Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -b0c35701f8c1",
+      "title": "Ukraine's lesson in resilience",
+      "description": "As Russia's war entered its fifth year in February, the inevitability of a Ukrainian surrender has been increasingly called into question over recent weeks. While its advances remain fragile, Ukraine's renewed capacity to strike has put the Kremlin on the defensive.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/05/30/ukraine-s-lesson-in-resilience_6753971_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-30T13:21:10Z",
+      "image": "https://img.lemde.fr/2026/05/24/494/0/5930/2965/644/322/60/0/05fbb6e_upload-1-el7ijjfdok7j-kyiv-strike-editorial-001.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -895497ea0b4d",
+      "title": "The Iran war is dividing Muslims in the Philippines",
+      "description": "Divisive foreign political narratives are being wrongly cast as religious discourse within our Muslim communities.",
+      "url": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-30T12:49:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP23328306552026-1780141553.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -65,24 +97,9 @@
       "tags": []
     },
     {
-      "id": "al -883226ec3361",
-      "title": "Frustration in Lebanon as Israel expands invasion",
-      "description": "Israel’s ground invasion of Lebanon has moved deeper into sovereign territory, with troops crossing the Litani river.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-30T04:36:17Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1780115652.jpg?resize=1620%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-aaa5f407fedb",
-      "title": "UAE struck Iran dozens of times during war and amid truce, including with Israel — WSJ",
-      "description": "Report says US and Israel provided intel for the attacks, including joint strike on petrochemical complex that led Washington to ask Jerusalem to stop targeting energy facilities The post UAE struck Iran dozens of times during war and amid truce, including with Israel &#8212; WSJ appeared first on The Times of Israel.",
+      "title": "UAE struck Iran dozens of times, with US and Israeli intel, during war and amid truce — WSJ",
+      "description": "Report says Emiratees and Israel both struck Asaluyeh petrochemical complex, after which DC asked Jerusalem to stop targeting energy facilities The post UAE struck Iran dozens of times, with US and Israeli intel, during war and amid truce &#8212; WSJ appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/uae-struck-iran-dozens-of-times-during-war-and-amid-truce-including-with-israel-wsj/",
       "source": "Times of Israel",
       "publishedAt": "2026-05-30T00:57:53Z",
@@ -90,7 +107,7 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -106,36 +123,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -14bb5fcff6dd",
-      "title": "Russian drone crash in Romania: NATO still seeks defense systems adapted to drone incursions",
-      "description": "The Russian drone exploded on the roof of a residential building in Galati, a city located near Ukraine. Bucharest said the incursion should not be seen as an 'attack on Romania.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/29/russian-drone-crash-in-romania-nato-still-seeks-defense-systems-adapted-to-drone-incursions_6753950_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-29T17:28:40Z",
-      "image": "https://img.lemde.fr/2026/05/29/248/0/3500/1750/644/322/60/0/494d0dc_ftp-1-thn2tgt4xdge-2026-05-29t063330z-243019696-rc2tilap50v6-rtrmadp-3-ukraine-crisis-romania-drones.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-eaa199393252",
-      "title": "Medvedev ai cittadini Ue, 'siate vigili, il sonno tranquillo è finito'",
-      "description": "'Le autorità europee sono entrate in guerra con la Russia, chiedete conto a loro'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/05/29/medvedev-ai-cittadini-ue-siate-vigili-il-sonno-tranquillo-e-finito_a020aebf-9767-47a5-97e5-061202e89cc9.html",
-      "source": "ANSA",
-      "publishedAt": "2026-05-29T12:59:44Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/42ef33422de617fc52a5624f1f80df46.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

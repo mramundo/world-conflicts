@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T01:43:36Z",
+  "updated": "2026-05-30T03:13:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-30T01:43:34Z",
+      "publishedAt": "2026-05-30T03:13:32Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -61,6 +61,21 @@
         "conflict"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -14bb5fcff6dd",
+      "title": "Russian drone crash in Romania: NATO still seeks defense systems adapted to drone incursions",
+      "description": "The Russian drone exploded on the roof of a residential building in Galati, a city located near Ukraine. Bucharest said the incursion should not be seen as an 'attack on Romania.'",
+      "url": "https://www.lemonde.fr/en/international/article/2026/05/29/russian-drone-crash-in-romania-nato-still-seeks-defense-systems-adapted-to-drone-incursions_6753950_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-05-29T17:28:40Z",
+      "image": "https://img.lemde.fr/2026/05/29/248/0/3500/1750/644/322/60/0/494d0dc_ftp-1-thn2tgt4xdge-2026-05-29t063330z-243019696-rc2tilap50v6-rtrmadp-3-ukraine-crisis-romania-drones.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -138,22 +153,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -28e142f6eeb0",
-      "title": "Political scientist Robert Kagan: 'War in Iran risks permanently weakening the position of the US in the world'",
-      "description": "The foreign policy specialist, closely linked to neoconservative circles, warns in an interview with Le Monde that the conflict with Iran over control of the Strait of Hormuz could mark a global turning point.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/05/28/political-scientist-robert-kagan-war-in-iran-risks-weakening-the-us-position-in-the-world-for-years-to-come_6753917_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-28T17:39:33Z",
-      "image": "https://img.lemde.fr/2026/05/22/0/0/5500/2750/644/322/60/0/f66240c_ftp-1-g5ziwmb0oqhm-2026-05-22t164403z-429132706-rc2celawu1jh-rtrmadp-3-usa-fed-warsh.JPG",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

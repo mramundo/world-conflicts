@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T07:08:28Z",
+  "updated": "2026-05-30T08:54:08Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-30T07:08:25Z",
+      "publishedAt": "2026-05-30T08:54:04Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-8781aa23f5f7",
+      "title": "Putin Claims War ‘Nearing Its End’ Based on Supposed Russian Advances",
+      "description": "Speaking to state outlets on Friday, Russian President Vladimir Putin asserted that his analysis of the current battlefield situation indicates the war against Ukraine is approaching its final phase. Putin claimed that Russian forces are advancing across all operational directions, though he acknowledged that establish…",
+      "url": "https://www.kyivpost.com/post/77164",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-30T08:09:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/30/9890eac916a95296973ce5ef279d9984.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -80,17 +95,17 @@
       "tags": []
     },
     {
-      "id": "fra-d438c3115cc7",
-      "title": "Palestinians mourn 10 killed in Eid strikes as Netanyahu vows wider control of Gaza",
-      "description": "Dozens of Palestinians in Gaza City gathered on Thursday for funeral prayers for 10 people killed in Israeli strikes the night before, including five children and an elderly person, as well as a Hamas militant. More than 20 people were injured in the strikes, according to Shifa Hospital. Video from the scene showed fla…",
-      "url": "https://www.france24.com/en/video/20260529-palestinians-mourn-10-killed-in-eid-strikes-as-netanyahu-vows-wider-control-of-gaza",
+      "id": "fra-3d9b056699da",
+      "title": "Israeli forces cross key Lebanon river in expanded ground offensive",
+      "description": "Israeli forces have advanced to positions north of Lebanon's Litani River, Prime Minister Benjamin Netanyahu said on Friday, as Israel escalates attacks against Hezbollah militants after warning thousands more Lebanese to flee their villages. The Israeli advance came as the US military ​hosted Israeli and Lebanese ‌def…",
+      "url": "https://www.france24.com/en/video/20260529-israeli-forces-cross-key-lebanon-river-in-expanded-ground-offensive",
       "source": "France24",
-      "publishedAt": "2026-05-29T13:33:45Z",
-      "image": "https://s.france24.com/media/display/2dbbc930-5b60-11f1-81b1-005056bf30b7/w:1024/p:16x9/EN-20260529-131610-131748-CS.jpg",
+      "publishedAt": "2026-05-29T15:48:33Z",
+      "image": "https://s.france24.com/media/display/4df24570-5b75-11f1-a815-005056bf30b7/w:1024/p:16x9/EN-20260529-170511-170850-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -106,21 +121,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-756bea75f490",
-      "title": "Zelensky Warns Russia Preparing New Massive Strike on Ukraine",
-      "description": "Zelensky warned that Russia may be preparing another large-scale missile and drone strike on Ukrainian cities, citing fresh intelligence shared with allies. He urged faster air defense deliveries and stronger sanctions.",
-      "url": "https://www.kyivpost.com/post/77121",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-29T12:38:20Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/23/cac9e835de07ba831145fc7417ddf371.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

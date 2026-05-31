@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T17:27:56Z",
+  "updated": "2026-05-31T18:30:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-31T17:27:52Z",
+      "publishedAt": "2026-05-31T18:30:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-74e6bf8e08e3",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "description": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-05-31T18:06:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ea/live/21fd5600-5cdb-11f1-89a3-d1f559421220.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -9fa56e28b692",
+      "title": "Dozens killed in explosives depot blast in northeast Myanmar",
+      "description": "At least 46 people have been killed and 70 wounded in explosion in rebel-held area, local media report.",
+      "url": "https://www.aljazeera.com/news/2026/5/31/dozens-killed-in-blast-at-explosives-depot-in-northeastern-myanmar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-05-31T17:42:32Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-31-at-8.34.35-PM-1780248906.png?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-74e6bf8e08e3",
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "description": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
-      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-05-31T16:08:57Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ea/live/21fd5600-5cdb-11f1-89a3-d1f559421220.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,21 +91,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f458b1c96e81",
-      "title": "Not just the US: How 51 countries armed Israel during Gaza war",
-      "description": "An Al Jazeera investigation has found that military-related goods from at least 51 countries and territories continued e",
-      "url": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-05-31T14:41:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1780238459.jpg?resize=1815%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T07:26:05Z",
+  "updated": "2026-05-31T09:08:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,27 +10,12 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-31T07:26:01Z",
+      "publishedAt": "2026-05-31T09:08:39Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-c91e51d66de0",
-      "title": "One Dead in Chernihiv Region Drone Strike Amid Massive Russian Air Assault",
-      "description": "Early Sunday morning, Russian forces executed a massive aerial assault against Ukraine, deploying 229 combat and decoy drones from multiple directions, including Oryol, Kursk, and occupied Crimea. Ukrainian air defense forces successfully shot down or electronically suppressed 212 of the incoming UAVs across northern a…",
-      "url": "https://www.kyivpost.com/post/77207",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-05-31T07:14:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/31/3fee203978d5201f135c83142b8ab9b9.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -136,6 +121,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-8781aa23f5f7",
+      "title": "Putin Claims War ‘Nearing Its End’ Based on Supposed Russian Advances",
+      "description": "Speaking to state outlets on Friday, Russian President Vladimir Putin asserted that his analysis of the current battlefield situation indicates the war against Ukraine is approaching its final phase. Putin claimed that Russian forces are advancing across all operational directions, though he acknowledged that establish…",
+      "url": "https://www.kyivpost.com/post/77164",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-05-30T08:09:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/30/9890eac916a95296973ce5ef279d9984.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

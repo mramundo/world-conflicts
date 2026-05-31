@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T11:35:59Z",
+  "updated": "2026-05-31T12:36:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-31T11:35:55Z",
+      "publishedAt": "2026-05-31T12:36:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -35,6 +35,21 @@
       "tags": []
     },
     {
+      "id": "fra-8d6d082fbdc8",
+      "title": "Israel orders new evacuations in Lebanon and pushes further north",
+      "description": "Israel launched strikes across south Lebanon this Saturday after ordering evacuations from more than a dozen locations, and a day after Lebanese and Israeli military officials held their first direct talks in decades at the Pentagon. The Lebanese army said a \"targeted\" Israeli strike wounded two soldiers in the south. …",
+      "url": "https://www.france24.com/en/israel-orders-new-evacuations-in-lebanon-and-pushes-further-north",
+      "source": "France24",
+      "publishedAt": "2026-05-31T10:55:44Z",
+      "image": "https://s.france24.com/media/display/1a302bc4-5cdf-11f1-9f69-005056a97e36/w:1024/p:16x9/2026-05-31T102207Z-1435427062-RC2AKLAVZC12-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "ans-9f82da81656b",
       "title": "'Idf avanza troppo in Libano', Francia chiede riunione lampo Consiglio Onu",
       "description": "Ministro, 'Israele ha diritto a difendersi, ma così contravviene a impegni e a tregua'",
@@ -46,6 +61,21 @@
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-e79adf8cd2f1",
+      "title": "Soldier killed in Hezbollah drone strike in Lebanon; IDF captures strategic Beaufort Castle",
+      "description": "Defense minister hails Israeli flag flying again over the crusader fortress, a symbol of Israel's previous wars in Lebanon; Staff Sgt. Michael Tyukin, 21, was an only child who moved to Israel from Ukraine The post Soldier killed in Hezbollah drone strike in Lebanon; IDF captures strategic Beaufort Castle appeared firs…",
+      "url": "https://www.timesofisrael.com/soldier-killed-in-hezbollah-drone-strike-in-lebanon-idf-captures-strategic-beaufort-castle/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-31T09:13:14Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/WhatsApp_Image_2026-05-30_at_22.48.15_2-1024x640.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,36 +141,6 @@
       "tags": []
     },
     {
-      "id": "tim-0e9226b3b0c6",
-      "title": "‘A jungle’: Reservists speak of permissive open-fire rules along Gaza’s Yellow Line",
-      "description": "Troops say little discretion is exercised in shooting those who come near truce line, call ceasefire 'a joke'; IDF says line clearly marked, no reason for Palestinians to approach The post &#8216;A jungle&#8217;: Reservists speak of permissive open-fire rules along Gaza&#8217;s Yellow Line appeared first on The Times o…",
-      "url": "https://www.timesofisrael.com/a-jungle-reservists-speak-of-permissive-open-fire-rules-along-gazas-yellow-line/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-30T18:49:54Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26146679073007-e1780155155143-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-0ba609948839",
-      "title": "US says 'more than capable' of resuming war, as peace deal remains elusive",
-      "description": "Pentagon head Pete Hegseth - has said that Washington could restart the war with Iran at any time if it wanted. His remarks follow days of talks and a two-hour meeting in the White House situation room - that has yet to produce a deal between the US and Iran. Analysis by FRANCE 24 international affairs editor, Shirli S…",
-      "url": "https://www.france24.com/en/us-says-more-than-capable-of-resuming-war-as-peace-deal-remains-elusive",
-      "source": "France24",
-      "publishedAt": "2026-05-30T14:25:22Z",
-      "image": "https://s.france24.com/media/display/c858bee4-5c32-11f1-b5a4-005056a97e36/w:1024/p:16x9/EN-20260530-160324-160814-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-8781aa23f5f7",
       "title": "Putin Claims War ‘Nearing Its End’ Based on Supposed Russian Advances",
       "description": "Speaking to state outlets on Friday, Russian President Vladimir Putin asserted that his analysis of the current battlefield situation indicates the war against Ukraine is approaching its final phase. Putin claimed that Russian forces are advancing across all operational directions, though he acknowledged that establish…",
@@ -186,6 +186,22 @@
       "tags": []
     },
     {
+      "id": "un -16175434abba",
+      "title": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
+      "description": "The dire conditions in the Gaza Strip are trapping children “in an endless cycle of suffering” and their heartbroken parents can only look on, an official with the UN child rights agency UNICEF said on Friday in a fresh appeal for greater humanitarian access to support families in the war-ravaged enclave.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167604",
+      "source": "UN News",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-05-2026-UNICEF-Gaza.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-b7667206296b",
       "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
       "description": "In today’s newsletter: As the virus spreads across borders, health workers warn that weakened global support is making a prolonged crisis more likelyEbola is spreading rapidly in parts of east Africa. The deadly disease, which kills around half of those it infects, is suspected to have claimed the lives of at least 240…",
@@ -213,21 +229,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -a8bfb15ef0cd",
-      "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
-      "description": "The UN&nbsp;Security Council is meeting in emergency session on Ukraine, with Secretary-General António Guterres telling ambassadors following what Kyiv describes as the most devastating attack on its capital to date, that “the time for peace is now.” In the early hours of 23-24 May, Russia launched a massive barrage o…",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167597",
-      "source": "UN News",
-      "publishedAt": "2026-05-28T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/28-05-2026-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

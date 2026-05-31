@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T22:25:59Z",
+  "updated": "2026-05-31T23:27:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-cambodia-border-clash-fallout-hits-japan-auto-industry",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-05-31T22:25:54Z",
+      "publishedAt": "2026-05-31T23:27:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F0%2F4%2F12554029-5-eng-GB%2Ff0ea7109e33f-20260522-2H6A0048_Photo-by-Ken-Kobayashi.jpg?width=1260&amp;fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;height=630",
       "categories": [
         "conflict"
@@ -20,27 +20,28 @@
       "tags": []
     },
     {
-      "id": "npr-f2686aef12da",
-      "title": "The terrifying day the U.S.-Iran war reached a sleepy Sri Lankan town",
-      "description": "A deadly strike during the first days of the Iran war hit far away in the Indian Ocean, jolting a quiet seaside town and showing how far the conflict's reach extends.",
-      "url": "https://www.npr.org/2026/05/31/nx-s1-5820634/the-terrifying-day-the-u-s-iran-war-reached-a-sleepy-sri-lankan-town",
-      "source": "NPR World",
-      "publishedAt": "2026-05-31T21:11:15Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5820634",
+      "id": "tim-af1547bf4151",
+      "title": "Funds for war-torn north delayed as Smotrich forges ahead with tax breaks for settlements",
+      "description": "Local leaders, opposition accuse government of abandoning communities hit by Hezbollah attacks as NIS 5 billion aid stalls even as West Bank settlements benefits bill advances The post Funds for war-torn north delayed as Smotrich forges ahead with tax breaks for settlements appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/funds-for-war-torn-north-delayed-as-smotrich-forges-ahead-with-tax-breaks-for-settlements/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-05-31T23:11:17Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260526YS54-1024x640.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "bbc-74e6bf8e08e3",
       "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "description": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
+      "description": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
       "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-05-31T20:26:11Z",
+      "publishedAt": "2026-05-31T22:39:12Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ea/live/21fd5600-5cdb-11f1-89a3-d1f559421220.jpg",
       "categories": [
         "conflict"
@@ -50,18 +51,20 @@
       "tags": []
     },
     {
-      "id": "tim-43581d8f4640",
-      "title": "Iran reopens most entrances to 18 underground missile sites struck in war – report",
-      "description": "CNN, citing satellite images, says 50 out of 69 tunnel openings now salvaged, most missiles survived US-Israeli bombing; Tehran says talks ongoing, US not to be trusted The post Iran reopens most entrances to 18 underground missile sites struck in war &#8211; report appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/iran-reopens-most-entrances-to-18-underground-missile-sites-struck-in-war-report/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-05-31T20:05:54Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AP26083587833190-1-e1774550910561-1024x640.jpg",
+      "id": "npr-2326e2c77e74",
+      "title": "How aid cuts are hampering the frontline response to the Ebola crisis",
+      "description": "Aid workers in Uganda are watching the Ebola crisis unfold in the neighboring Democratic Republic of Congo. They're doing what they can to prepare for an uptick in cases, but foreign aid cuts aren't helping.",
+      "url": "https://www.npr.org/2026/05/31/nx-s1-5839197/ebola-crisis-outbreak-misinformation-democratic-republic-congo-uganda",
+      "source": "NPR World",
+      "publishedAt": "2026-05-31T21:11:19Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2560x1920+0+0/resize/2560x1920!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F9d%2F1d9d5e2541758610434c35373259%2F01e2b626-d845-4b03-9d5d-a1bbb885b290.JPG",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian",
+        "analysis"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T10:01:59Z",
+  "updated": "2026-06-01T12:55:08Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -11,7 +11,7 @@
       "url": "https://www.timesofisrael.com/idf-soldier-killed-3-hurt-in-hezbollah-drone-attack-near-newly-seized-beaufort-castle/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-01T09:29:53Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/tzarfati-e1780293750596-1024x640.jpg",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/234234.jpg",
       "categories": [
         "conflict"
       ],
@@ -128,6 +128,21 @@
       "tags": []
     },
     {
+      "id": "un -506d96dbf905",
+      "title": "Under fire, Kharkiv is already building for a peaceful tomorrow",
+      "description": "Every day in Kharkiv begins with uncertainty: air raid sirens interrupt sleep; missiles strike residential neighbourhoods, industrial sites, and roads. Anxious citizens rush into metro stations during bombardments and children study underground.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167611",
+      "source": "UN News",
+      "publishedAt": "2026-05-31T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/26-05-2026_Ukraine_Kharkov%203.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -1f4760ed97ab",
       "title": "Robot wars: Ukraine now adding ‘land drones’ to its futuristic arsenal",
       "description": "The Ukraine war has transformed the battlefield. First, it was aerial drones. Now, ground robots are being developed and deployed for reconnaissance, deliveries, evacuations, and handling mines. The goal: Help Ukraine stand up to its larger Russian enemy.",
@@ -200,22 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -16175434abba",
-      "title": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
-      "description": "The dire conditions in the Gaza Strip are trapping children “in an endless cycle of suffering” and their heartbroken parents can only look on, an official with the UN child rights agency UNICEF said on Friday in a fresh appeal for greater humanitarian access to support families in the war-ravaged enclave.&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167604",
-      "source": "UN News",
-      "publishedAt": "2026-05-29T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-05-2026-UNICEF-Gaza.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

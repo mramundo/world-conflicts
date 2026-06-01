@@ -1,9 +1,24 @@
 {
-  "updated": "2026-06-01T12:55:08Z",
+  "updated": "2026-06-01T15:10:38Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -5cf6e1d5d714",
+      "title": "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling",
+      "description": "As the conflict destroys local production, Sudanese patients are forced to rely on expensive, smuggled medicines.",
+      "url": "https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-01T13:27:32Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a1c22467f70e-1780228678.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "tim-21f2f3fe5925",
       "title": "IDF soldier killed, 3 hurt, in Hezbollah drone attack near newly seized Beaufort Castle",
@@ -51,6 +66,21 @@
       "tags": []
     },
     {
+      "id": "npr-116b0e769977",
+      "title": "After Russian missile strike, owners of Ukrainian coffee shop pledge to rebuild",
+      "description": "After a large-scale Russian missile strike hit downtown Kyiv, the owners of a coffee shop that opened just hours earlier were already serving coffee again and planning to rebuild.",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5838859/after-russian-missile-strike-owners-of-ukrainian-coffee-shop-pledge-to-rebuild",
+      "source": "NPR World",
+      "publishedAt": "2026-06-01T08:47:45Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5838859",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-1b20f814dd22",
       "title": "Netanyahu orders Israeli bombing of southern Beirut",
       "description": "Thousands leave homes after Israeli military instructed to strike ‘terrorist targets’ in largest escalation of war since ceasefire• Middle East crisis – live updatesBenjamin Netanyahu has instructed the Israeli military to bomb the southern suburbs of Beirut, the most serious escalation of Israel’s war in Lebanon since…",
@@ -81,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "al -1a0e5987b9aa",
-      "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
-      "description": "While a peace deal between the US and Iran remains elusive, Israel has deepened its offensive into southern Lebanon.",
-      "url": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-01T07:40:23Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26148670508129-1780299913.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-23b31831d830",
       "title": "Huge blast kills dozens in rebel-held village in Myanmar",
       "description": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
@@ -108,23 +123,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-2326e2c77e74",
-      "title": "How aid cuts are hampering the frontline response to the Ebola crisis",
-      "description": "Aid workers in Uganda are watching the Ebola crisis unfold in the neighboring Democratic Republic of Congo. They're doing what they can to prepare for an uptick in cases, but foreign aid cuts aren't helping.",
-      "url": "https://www.npr.org/2026/05/31/nx-s1-5839197/ebola-crisis-outbreak-misinformation-democratic-republic-congo-uganda",
-      "source": "NPR World",
-      "publishedAt": "2026-05-31T21:11:19Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2560x1920+0+0/resize/2560x1920!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F9d%2F1d9d5e2541758610434c35373259%2F01e2b626-d845-4b03-9d5d-a1bbb885b290.JPG",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

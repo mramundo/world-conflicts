@@ -1,36 +1,36 @@
 {
-  "updated": "2026-06-01T20:30:34Z",
+  "updated": "2026-06-01T22:06:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "bbc-8e4206101658",
-      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
-      "description": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel.",
-      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-01T19:58:36Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-1b20f814dd22",
-      "title": "Trump says Hezbollah and Israel have agreed to ‘stop all shooting’",
-      "description": "Declaration comes after Iran had pulled out of peace talks in protest at Israeli offensive in Lebanon• Middle East crisis – live updatesDonald Trump has said Hezbollah and Israel have agreed to mutual de-escalation and to scale back fighting, seemingly averting an Israeli strike on Beirut and the potential collapse of …",
-      "url": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon",
+      "id": "the-59c85547f62f",
+      "title": "Middle East crisis live: Lebanon’s US embassy says Hezbollah has agreed to ‘reciprocal’ ceasefire with Israel under US proposal",
+      "description": "Israeli prime minister Benjamin Netanyahu has meanwhile threatened to strike Beirut and says IDF will continue operations in southern LebanonIran suspends all peace talks in protest at Israeli offensive in LebanonThe exchange of strikes between the US and Iran reflects the fragility of the current ceasefire, which has …",
+      "url": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
       "source": "The Guardian",
-      "publishedAt": "2026-06-01T18:56:51Z",
-      "image": "https://i.guim.co.uk/img/media/f47c4bbbd6850371a09c0773a337dcc3bfa297bd/285_0_3150_2520/master/3150.jpg?width=140&quality=85&auto=format&fit=max&s=6da5cc364e07870fe867aaaf41189ae7",
+      "publishedAt": "2026-06-01T21:47:02Z",
+      "image": "https://i.guim.co.uk/img/media/280380211e22edac733ac82128ca2bcadd7be8e4/657_0_4128_3302/master/4128.jpg?width=140&quality=85&auto=format&fit=max&s=d34ee526d60c72025201f7f31db27c98",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-dc2c384f4e8c",
+      "title": "IDF doctor killed, 7 hurt by Hezbollah drone attack in southern Lebanon",
+      "description": "Cpt. Dr. Ori Yosef Silvester is the army's 14th fatality since the start of the Iran ceasefire; Lebanon says heavy damage caused by strike near hospital in Tyre The post IDF doctor killed, 7 hurt by Hezbollah drone attack in southern Lebanon appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-doctor-killed-7-hurt-by-hezbollah-drone-attack-in-southern-lebanon/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-01T20:42:21Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/סרן-אורי-יוסף-סילבסטר-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -110,21 +110,6 @@
       "tags": []
     },
     {
-      "id": "tim-a68eb8252214",
-      "title": "Gaza mediators to resume Hamas disarmament talks in Egypt looking to unblock impasse",
-      "description": "Arab diplomats tell ToI negotiators considering alternatives to initial framework for implementing Trump's Gaza plan in bid to jumpstart process stalled by Hamas intransigence and Israeli ceasefire violations The post Gaza mediators to resume Hamas disarmament talks in Egypt looking to unblock impasse appeared first on…",
-      "url": "https://www.timesofisrael.com/gaza-mediators-to-resume-hamas-disarmament-talks-in-egypt-looking-to-unblock-impasse/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-01T11:10:09Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/gaza-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-c58f011350db",
       "title": "Kyiv Sees Opening for Talks Ahead of Winter as Russian Offensive Slows, Zelensky Says",
       "description": "Zelensky told CBS News that Russia has been losing battlefield initiative since late 2025, creating a potential “window for negotiations” before winter. He urged increased sanctions pressure on Moscow, said diplomatic talks depend on Russian readiness, and suggested possible mediators including the UK, France, Germany,…",
@@ -137,6 +122,21 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-23b31831d830",
+      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "description": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
+      "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-01T06:23:59Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f3/live/bc5821d0-5d08-11f1-9dbd-c1cee1747804.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

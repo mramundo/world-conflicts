@@ -1,21 +1,97 @@
 {
-  "updated": "2026-06-01T15:10:38Z",
+  "updated": "2026-06-01T18:06:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -5cf6e1d5d714",
-      "title": "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling",
-      "description": "As the conflict destroys local production, Sudanese patients are forced to rely on expensive, smuggled medicines.",
-      "url": "https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-01T13:27:32Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a1c22467f70e-1780228678.jpg?resize=1920%2C1440",
+      "id": "the-047b25810f04",
+      "title": "Iran suspends peace talks after ‘violation of ceasefire’ in Lebanon",
+      "description": "Tehran says it holds Israel and US responsible, while Trump says ‘going silent’ on negotiations ‘would be very good’Middle East live – latest updatesIran has indicated it will suspend peace talks with the US in protest against Israel’s offensive in Lebanon, threatening the collapse of negotiations with Washington as th…",
+      "url": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-01T17:48:00Z",
+      "image": "https://i.guim.co.uk/img/media/49f72ec22ebb085ccc66dfa23556bb62b0b52eda/453_0_4594_3675/master/4594.jpg?width=140&quality=85&auto=format&fit=max&s=6b0bb345d227839080c273c0c55996bc",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-3aac07d5887b",
+      "title": "Pakistan, Iran ci chiede continuare a mediare per de-escalation e mantenere tregua",
+      "description": "Araghchi a Dar: 'Sostenete gli sforzi per mantenere il cessate il fuoco'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/01/pakistan-iran-ci-chiede-continuare-a-mediare-per-de-escalation-e-mantenere-tregua_80877193-9bd8-4dba-9807-629abb9a58b0.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-01T17:30:05Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/1/cb6400ba5625558e0a577edd24566a5a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-8e4206101658",
+      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
+      "description": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel.",
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-01T16:56:35Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-08383975b888",
+      "title": "Beaufort Castle: Israel hoists flag over castle in southern Lebanon",
+      "description": "Israeli forces have seized Lebanon’s Beaufort Castle, a medieval fortress overlooking the country’s south, as part of an expanded offensive against Hezbollah. The takeover, announced on Sunday, marks a significant escalation in the conflict and comes despite an ongoing ceasefire between Israel and Lebanon that has been…",
+      "url": "https://www.france24.com/en/video/20260601-beaufort-castle-israel-hoists-flag-over-castle-in-southern-lebanon",
+      "source": "France24",
+      "publishedAt": "2026-06-01T16:20:22Z",
+      "image": "https://s.france24.com/media/display/4a14f68e-5dd5-11f1-a493-005056bfb2b6/w:1024/p:16x9/minia-beaufort.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -0b45873c8c28",
+      "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
+      "description": "Iranian officials demand &#039;ceasefire on all fronts&#039; as Israel deepens Lebanon invasion and threatens to bomb Beirut.",
+      "url": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-01T16:15:28Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2024-11-27T142938Z_1594840222_RC2QDBAPQZEV_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-IRAN-1780324892.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -2275015e73be",
+      "title": "Capture of Beaufort Castle in southern Lebanon is both a strategic asset and a historical burden for Israel",
+      "description": "Twenty-six years after their withdrawal, Israeli soldiers entered the Crusader fortress overlooking the Litani River on Sunday. The move provided a new bargaining chip in negotiations with the Lebanese, which are set to resume in Washington on June 2 and 3.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/01/capture-of-beaufort-castle-in-southern-lebanon-is-both-a-strategic-asset-and-a-historical-burden-for-israel_6754018_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-01T12:00:11Z",
+      "image": "https://img.lemde.fr/2026/05/31/501/0/4000/2000/644/322/60/0/4effaf8_upload-1-i0endwposbbu-raf-liban-nabatieh-05-26-012.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "fra-46bdebf957c9",
-      "title": "Israeli strike kills at least two at Gaza seaport café, medics say",
-      "description": "An ⁠Israeli airstrike ​killed at least two Palestinians and wounded ​12 on Sunday at a Gaza café that was packed with people celebrating public holidays, ​health officials ‌said. There was no immediate ⁠Israeli comment. An October ceasefire, brokered by U.S. President Donald ‌Trump, has failed to halt Israeli attacks ⁠…",
-      "url": "https://www.france24.com/en/video/20260601-israeli-strike-kills-at-least-two-at-gaza-seaport-caf%C3%A9-medics-say",
-      "source": "France24",
-      "publishedAt": "2026-06-01T09:06:08Z",
-      "image": "https://s.france24.com/media/display/8be6e4cc-5d95-11f1-9371-005056bf30b7/w:1024/p:16x9/EN-20260601-101053-101228-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-116b0e769977",
       "title": "After Russian missile strike, owners of Ukrainian coffee shop pledge to rebuild",
       "description": "After a large-scale Russian missile strike hit downtown Kyiv, the owners of a coffee shop that opened just hours earlier were already serving coffee again and planning to rebuild.",
@@ -73,51 +134,6 @@
       "source": "NPR World",
       "publishedAt": "2026-06-01T08:47:45Z",
       "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5838859",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-1b20f814dd22",
-      "title": "Netanyahu orders Israeli bombing of southern Beirut",
-      "description": "Thousands leave homes after Israeli military instructed to strike ‘terrorist targets’ in largest escalation of war since ceasefire• Middle East crisis – live updatesBenjamin Netanyahu has instructed the Israeli military to bomb the southern suburbs of Beirut, the most serious escalation of Israel’s war in Lebanon since…",
-      "url": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-01T08:37:17Z",
-      "image": "https://i.guim.co.uk/img/media/f47c4bbbd6850371a09c0773a337dcc3bfa297bd/285_0_3150_2520/master/3150.jpg?width=140&quality=85&auto=format&fit=max&s=6da5cc364e07870fe867aaaf41189ae7",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-78b511dec913",
-      "title": "Iran, 'cessate il fuoco in Libano condizione per un accordo con gli Usa'",
-      "description": "Portavoce ministeriale Baghaei, 'anche gli Usa violano la tregua nella regione'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/01/iran-cessate-il-fuoco-in-libano-condizione-per-un-accordo-con-gli-usa_77646319-be95-4a93-b09e-2e0d73dd3241.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-01T07:42:55Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/2145a15a94ff3c02ca4478478a5fed32.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-23b31831d830",
-      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
-      "description": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
-      "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-01T06:23:59Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f3/live/bc5821d0-5d08-11f1-9dbd-c1cee1747804.jpg",
       "categories": [
         "conflict"
       ],
@@ -198,21 +214,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -a98ad95f148a",
-      "title": "Putin's war fuels the growing role of Russia's FSB intelligence agency",
-      "description": "The Federal Security Service (FSB), the KGB's successor and the agency that trained Vladimir Putin, has expanded its influence over Russia's military and political decision-making. From internet shutdowns to school propaganda and legal prosecution, its reach has extended across all of Russian society.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/05/31/putin-s-war-fuels-the-growing-role-of-russia-s-fsb-intelligence-agency_6753983_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-05-31T02:21:20Z",
-      "image": "https://img.lemde.fr/2026/05/25/686/0/7929/3964/644/322/60/0/6fc75b0_upload-1-vq0cmjn1zzje-2026-02-24t140528z-738058010-rc2dsja6fejh-rtrmadp-3-ukraine-crisis-russia-putin-nuclear.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     }

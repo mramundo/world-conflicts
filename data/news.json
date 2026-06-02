@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-02T07:48:13Z",
+  "updated": "2026-06-02T09:34:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
       "id": "bbc-90de04e19c09",
-      "title": "Massive Russian attack on cities across Ukraine kills at least 13 people",
+      "title": "Massive Russian attack on cities across Ukraine kills at least 14 people",
       "description": "Rescuers are racing to find people feared trapped beneath rubble after the overnight missile and drone attack.",
       "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-06-02T07:39:16Z",
+      "publishedAt": "2026-06-02T09:04:11Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1555/live/457bb460-5e47-11f1-b682-cf91850925ea.jpg",
       "categories": [
         "conflict"
@@ -20,18 +20,17 @@
       "tags": []
     },
     {
-      "id": "the-84dd2e6304b8",
-      "title": "Middle East crisis live: Conflict continues in Lebanon despite Trump hailing Israeli-Hezbollah de-escalation",
-      "description": "Israeli military says it intercepted missiles from Lebanon this morning while Netanyahu says his forces will continue operating in the south of the countryTrump says Hezbollah and Israel have agreed to ‘stop all shooting’Hello and welcome to the Guardian’s continuing coverage of the crisis in the Middle East.Donald Tru…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/02/iran-us-israel-lebanon-trump-netanyahu-hezbollah-beirut-hormuz-talks-oil-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-02T07:19:50Z",
-      "image": "https://i.guim.co.uk/img/media/7a06d88b5a76c1cc441bb978b589eba4bcafbf2b/312_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=b9c4f15f44ebee92cab99caecb5fb4e8",
+      "id": "deu-dc8c0efac1d6",
+      "title": "Israel-Lebanon conflict: Why military pressure isn't enough",
+      "description": "Clashes persist as Israel pushes deeper into Lebanon despite Trump's ceasefire claims. Experts warn that the offensive is undermining talks with Hezbollah and pushing a political solution further out of reach.",
+      "url": "https://www.dw.com/en/israel-lebanon-conflict-why-military-pressure-isn-t-enough/a-77385437?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-02T08:17:00Z",
+      "image": "https://static.dw.com/image/77374996_6.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 14,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,6 +46,21 @@
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-3a982cb4477b",
+      "title": "Russian attack on Ukraine kills at least 14 and traps others in damaged buildings",
+      "description": "Russia launched hundreds of drones and dozens of missiles against Kyiv and other Ukrainian cities overnight, killing at least 14 civilians. Some people were trapped under the rubble of apartment buildings.",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5844071/russian-attack-ukraine",
+      "source": "NPR World",
+      "publishedAt": "2026-06-02T06:04:09Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7670x5113+0+0/resize/7670x5113!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F70%2F0883ff274a00833227d2e243186b%2Fap26153138580743.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,32 +81,47 @@
       "tags": []
     },
     {
-      "id": "tim-ee627d555d0d",
-      "title": "Trump announces fresh Lebanon truce as Netanyahu appears to call off Beirut strikes",
-      "description": "Hezbollah keeps attacking Israel's north despite declaration of ceasefire, which US president reportedly demanded PM agree to: 'I’m saving your ass. Everybody hates you now. Everybody hates Israel' The post Trump announces fresh Lebanon truce as Netanyahu appears to call off Beirut strikes appeared first on The Times o…",
-      "url": "https://www.timesofisrael.com/trump-announces-fresh-lebanon-truce-as-netanyahu-appears-to-call-off-beirut-strikes/",
+      "id": "tim-8d44d861cf72",
+      "title": "IDF strikes reported in south Lebanon, Hezbollah drone sparks sirens after Trump declares truce",
+      "description": "Senior Iranian officer says renewed war with US ‘inevitable’ * Trump says Iran deal could be reached ‘over next week’ after fixing ‘glitch’ of Israel-Hezbollah fighting The post IDF strikes reported in south Lebanon, Hezbollah drone sparks sirens after Trump declares truce appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/liveblog-june-02-2026/",
       "source": "Times of Israel",
-      "publishedAt": "2026-06-01T23:34:57Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260601__B4LC367__v1__HighRes__LebanonIsraelUsIranWar-1024x640.jpg",
+      "publishedAt": "2026-06-01T22:51:50Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26153302441027-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-55f0b739e1d8",
-      "title": "Forever at war? US, Iran trade blows as Israel pushes deeper into Lebanon",
-      "description": "About that four-week campaign that the Pentagon promised… Overnight volleys between Iran and the United States met by many with a shrug…so often has the current ceasefire been violated. Even the deal in the works is mostly to roll over that fragile truce and open more talks… not to permanently settle differences.Ceasef…",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260601-forever-at-war-us-iran-trade-blows-as-israel-pushes-deeper-into-lebanon",
-      "source": "France24",
-      "publishedAt": "2026-06-01T18:18:35Z",
-      "image": "https://s.france24.com/media/display/71c06312-5de4-11f1-bcc0-005056a90284/w:1024/p:16x9/Anglais-2026-06-01T17-55-56-058Z.jpg",
+      "id": "the-1b20f814dd22",
+      "title": "Trump says Hezbollah and Israel have agreed to ‘stop all shooting’",
+      "description": "Declaration comes after Iran had pulled out of peace talks in protest at Israeli offensive in LebanonDonald Trump has said Hezbollah and Israel have agreed to mutual de-escalation and to scale back fighting, seemingly averting an Israeli strike on Beirut and the potential collapse of ceasefire talks with Iran.The US pr…",
+      "url": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-01T18:56:51Z",
+      "image": "https://i.guim.co.uk/img/media/f47c4bbbd6850371a09c0773a337dcc3bfa297bd/285_0_3150_2520/master/3150.jpg?width=140&quality=85&auto=format&fit=max&s=6da5cc364e07870fe867aaaf41189ae7",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-6184eabbae9e",
+      "title": "Trump says Israel and Hezbollah have agreed to dial back fighting",
+      "description": "US President Donald Trump said Monday he had persuaded Israel and Hezbollah to de-escalate, with Prime Minister Benjamin Netanyahu agreeing not to send troops to southern Beirut and the Lebanese militant group promising to stop attacks. Reporting from Jerusalem, FRANCE 24's Noga Tarnopolsky says that, if true, the move…",
+      "url": "https://www.france24.com/en/video/20260601-trump-says-israel-and-hezbollah-have-agreed-to-dial-back-fighting",
+      "source": "France24",
+      "publishedAt": "2026-06-01T18:42:52Z",
+      "image": "https://s.france24.com/media/display/fe9ddc3c-5de5-11f1-98cd-005056a90284/w:1024/p:16x9/EN-20260601-200407-201052-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -143,21 +172,6 @@
       "tags": []
     },
     {
-      "id": "npr-aee4734a9e66",
-      "title": "U.S. bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait",
-      "description": "The U.S. says it has bombed radar and drone sites in Iran after Tehran shot down an American drone over the weekend. Iran then said it targeted American soldiers in Kuwait with missiles, which the U.S. says it shot down on Monday.",
-      "url": "https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-06-01T05:53:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Fce%2F6370361748469a12c048381620f8%2Fap26152578022069.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -1f4760ed97ab",
       "title": "Robot wars: Ukraine now adding ‘land drones’ to its futuristic arsenal",
       "description": "The Ukraine war has transformed the battlefield. First, it was aerial drones. Now, ground robots are being developed and deployed for reconnaissance, deliveries, evacuations, and handling mines. The goal: Help Ukraine stand up to its larger Russian enemy.",
@@ -201,21 +215,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-31416656da3c",
-      "title": "Ukraine: IAEA seeks access to Zaporizhzhia nuclear plant after reported drone strike",
-      "description": "Russia claims that a Ukrainian drone struck the Zaporizhzhia nuclear plant. Ukraine has denied the accusation. The International Atomic Energy Agency has sought to examine the facility.",
-      "url": "https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-05-31T03:04:00Z",
-      "image": "https://static.dw.com/image/70116729_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     }
   ]

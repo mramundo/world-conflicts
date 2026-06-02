@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T11:35:00Z",
+  "updated": "2026-06-02T13:26:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,8 @@
       "description": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
       "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-06-02T11:29:22Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4d6/live/f20d5a00-5e72-11f1-89a3-d1f559421220.jpg",
+      "publishedAt": "2026-06-02T12:46:36Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e46e/live/76e7ff20-5e7b-11f1-89a3-d1f559421220.jpg",
       "categories": [
         "conflict"
       ],
@@ -32,6 +32,22 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8190b2197f4d",
+      "title": "How the war has made Iran’s water crisis worse",
+      "description": "Attacks on desalination plants and other water infrastructure by US and Israel have further added to the water woes.",
+      "url": "https://www.aljazeera.com/news/2026/6/2/how-the-war-has-made-irans-water-crisis-worse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-02T11:13:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2025-11-11T153339Z_277028687_RC2RTHAK4H2P_RTRMADP_3_IRAN-DROUGHT-1780388737.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -76,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -a72341b26b66",
-      "title": "Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks",
-      "description": "Trump says he persuaded Israel and Hezbollah to halt attacks, seeking to prevent a wider war in Lebanon.",
-      "url": "https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-02T06:55:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-05-25T174404Z_1653865838_RC2HGLA3HEQ6_RTRMADP_3_USA-TRUMP-1780370901.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

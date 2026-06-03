@@ -1,36 +1,51 @@
 {
-  "updated": "2026-06-03T19:26:51Z",
+  "updated": "2026-06-03T21:10:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "the-86f3c5120d28",
+      "title": "Middle East crisis live: Trump claims peace deal with Iran could be reached ‘over the weekend’ as Iran claims it struck US ship",
+      "description": "President told reporters that given the strength of US military, ‘we could go another two, three weeks and just wipe everybody out’The Kuwaiti defence ministry said it intercepted 13 ballistic missiles and 17 drones launched by Iran today.A drone and missile attack on Kuwait’s international airport killed one person, w…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-03T20:53:38Z",
+      "image": "https://i.guim.co.uk/img/media/e8acd5190c5d7cd1c852122abf8b475c3bfb7a80/510_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=0938268fd3e6cc13b5248efd845bc6e1",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-33ce08861a56",
+      "title": "Proteste in Albania contro il progetto del resort di Jared Kushner",
+      "description": "Folla davanti alla sede del governo, Rama parla di 'guerra ibrida'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/03/proteste-in-albania-contro-il-progetto-del-resort-di-jared-kushner_0c65d1d4-7ce3-4d1d-b9ba-8c9e006a2169.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-03T20:52:19Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/3/b153d58238d4135457e6ca473080256f.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "bbc-a4f58585235b",
       "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
       "description": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
       "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-06-03T19:10:01Z",
+      "publishedAt": "2026-06-03T20:46:13Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4dd/live/3b625900-5f66-11f1-8b8c-6d33e1d5abb6.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-2c5c463ac66c",
-      "title": "Araghchi, 'qualsiasi attacco a Beirut porterà a ripresa guerra su vasta scala'",
-      "description": "Lo afferma il ministro degli Esteri iraniano",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/03/araghchi-qualsiasi-attacco-a-beirut-portera-a-ripresa-guerra-su-vasta-scala_b2eb552f-70db-412f-a83e-805d247678d4.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-03T18:58:13Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/15/2f76c25c458beb1575bea57d25ad47d6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,6 +111,22 @@
       "tags": []
     },
     {
+      "id": "un -26e55dc2066e",
+      "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war",
+      "description": "Children in Ukraine have been profoundly impacted by years of war, sheltering in underground schools – or forced to study online – and living with the psychological strain of constant air raid sirens that could spell death for them and their families.",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167641",
+      "source": "UN News",
+      "publishedAt": "2026-06-03T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026_Ukraine%20Frazier%202.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-fe57ebd823bc",
       "title": "Democracy in Africa: Coups, crises and foregone conclusions",
       "description": "As Ethiopia formally counts the votes following Monday's election, attitudes toward democracy appear to be shifting across Africa. In April, Burkina Faso's junta leader told the Burkinabe people to \"forget\" democracy.",
@@ -117,29 +148,13 @@
       "url": "https://www.csmonitor.com/World/Middle-East/2026/0602/iran-war-gulf-arabs-iraqi-leader-militias?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-02T21:34:27Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/0601_OIRAQGULF_new_PM_lede.jpg?alias=standard_900x600",
+      "image": null,
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-99a43a1c8938",
-      "title": "Why Benjamin Netanyahu poses an obstacle to US and Iran peace deal",
-      "description": "Prime minister under pressure to show his campaigns against Hamas, Hezbollah and Iran have brought results as he faces elections with his political survival at riskIf there is to be a peace deal between the United States and Iran, it will have to go through a familiar obstacle: Benjamin Netanyahu. Israel’s military ope…",
-      "url": "https://www.theguardian.com/world/2026/jun/02/benjamin-netanyahu-us-iran-war",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-02T18:15:47Z",
-      "image": "https://i.guim.co.uk/img/media/c487d5e8719f3d97d16a32f941079cc0b08e0f0a/332_0_3321_2656/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=ea1b8a6060dc2dce30be65b45eeef6a2",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -172,21 +187,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -fbc338b4a579",
-      "title": "UN urges world not to forget Rohingya refugees as aid cuts threaten vital support",
-      "description": "As the world approaches nine years since the mass displacement of Rohingya refugees from Myanmar into Bangladesh, the UN refugee agency (UNHCR) has appealed to the international community not to abandon the 1.2 million refugees living in the country, most of them in camps in Cox’s Bazar.",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167623",
-      "source": "UN News",
-      "publishedAt": "2026-06-02T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-03-2025_UNICEF_Rohingya.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

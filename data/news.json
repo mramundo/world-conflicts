@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T01:11:07Z",
+  "updated": "2026-06-03T03:17:46Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-dd2c65f9abc8",
+      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+      "description": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
+      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-02T23:33:34Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a79/live/ddbe4530-5e8d-11f1-89a3-d1f559421220.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -141,23 +156,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-33a9cb630e57",
-      "title": "Why Myanmar president's India visit is being closely watched",
-      "description": "Myanmar is seeking to broaden diplomatic engagement after years of international criticism and isolation.",
-      "url": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-02T08:29:20Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c201/live/a4a43180-5daf-11f1-8132-9508271dd882.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
       "tags": []
     },
     {

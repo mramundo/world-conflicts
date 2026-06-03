@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T15:40:37Z",
+  "updated": "2026-06-03T17:46:37Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-05-31T17:49:32Z",
   "items": [
@@ -45,9 +45,9 @@
         "Asymmetric"
       ],
       "wikipediaPage": "Gaza_war",
-      "lastUpdate": "2026-06-01",
-      "wikipediaRevision": "2026-06-01T17:47:05Z",
-      "recentNewsCount": 3
+      "lastUpdate": "2026-06-03",
+      "wikipediaRevision": "2026-06-03T17:27:35Z",
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 6
+      "recentNewsCount": 5
     },
     {
       "id": "et-am",
@@ -361,7 +361,7 @@
       "wikipediaPage": "Colombian_conflict",
       "lastUpdate": "2026-06-01",
       "wikipediaRevision": "2026-06-01T14:23:56Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "ly-war",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     }
   ]
 }

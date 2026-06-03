@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-03T15:40:29Z",
+  "updated": "2026-06-03T17:46:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -342464baaf65",
+      "title": "What is the St Petersburg forum, Putin’s economic outreach to the world?",
+      "description": "A Ukrainian drone strike targeted energy facilities near St Petersburg hours before the forum began.",
+      "url": "https://www.aljazeera.com/news/2026/6/3/what-is-the-st-petersburg-forum-putins-economic-outreach-to-the-world?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-03T16:20:32Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-16T144622Z_1224955203_RC2EK1ADAQU5_RTRMADP_3_RUSSIA-FORUM-PUTIN-1686930260.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "fra-e5cd982272d0",
       "title": "Ukraine's attack on Saint Petersburg 'brings war back to Russia'",
@@ -16,6 +32,21 @@
         "conflict"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-8b021a916f94",
+      "title": "Back to Beaufort? Israel’s Lebanon dilemma. - Sponsored Content",
+      "description": "Yaakov Katz speaks with Dr. Seth Frantzman about Israel's endgame in Lebanon, the risk of a prolonged military presence, and how drone warfare is changing the battlefield. The post Back to Beaufort? Israel&#8217;s Lebanon dilemma. appeared first on The Times of Israel.",
+      "url": "https://toi.li/uP1kzE",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-03T14:41:54Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/Screenshot-2026-06-03-at-17.41.19-1024x640.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,43 +66,13 @@
       "tags": []
     },
     {
-      "id": "al -b18102b495ec",
-      "title": "Israel’s invasion of southern Lebanon devastates centuries of history",
-      "description": "From Phoenician temples to Crusader castles, heritage sites bear the brunt of Israel&#039;s expanding military offensive.",
-      "url": "https://www.aljazeera.com/news/2026/6/3/israels-invasion-of-southern-lebanon-devastates-centuries-of-history?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-03T10:41:06Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/INTERACTIVE_LEBANON_UNESCO-02-1780440287.jpg?resize=1200%2C630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-cc8ee700e114",
-      "title": "1 killed in Iranian drone attack on Kuwaiti airport; flights suspended",
-      "description": "Several injured and severe damage reported as fresh missile exchanges in the Gulf test ceasefire and efforts to reach a long-term deal The post 1 killed in Iranian drone attack on Kuwaiti airport; flights suspended appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/1-killed-in-iranian-drone-attack-on-kuwaiti-airport-flights-suspended/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-03T09:18:48Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260601__B4LK2WA__v2__HighRes__TopshotKuwaitIranUsIsraelWarTransportAviation-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-6d275d9ce17a",
-      "title": "Usa confermano lo scudo nucleare, più testate sul fianco est",
-      "description": "Ft: 'Compensano l'annunciato disimpegno'. L'Ue prepara nuove sanzioni a Mosca",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/06/02/usa-confermano-lo-scudo-nucleare-piu-testate-sul-fianco-est_dc89c5aa-36f2-46dd-a9e0-312b255147f1.html",
+      "id": "ans-4a2bac5733d7",
+      "title": "Colombia, De la Espriella ringrazia Trump, 'relazioni come non mai con gli Usa'",
+      "description": "E il suo avvocato denuncia Petro: 'Sta incitando alla guerra civile'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/06/03/colombia-de-la-espriella-ringrazia-trump-relazioni-come-non-mai-con-gli_b52a7a4c-8a7d-4119-9c2f-853616a8f1e4.html",
       "source": "ANSA",
-      "publishedAt": "2026-06-03T08:30:01Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2025/12/29/b1a70dec5d16328ba4c06d3a3f2766dd.jpg",
+      "publishedAt": "2026-06-03T08:11:15Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/31/ce68ee7f2bdcd219101f16d2486cef6c.jpg",
       "categories": [
         "conflict"
       ],
@@ -96,7 +97,7 @@
     },
     {
       "id": "npr-57655e39d6d9",
-      "title": "Iran and the US trade strikes in the Persian Gulf, further testing the ceasefire",
+      "title": "Iran and the U.S. trade strikes in the Persian Gulf, further testing the ceasefire",
       "description": "Kuwait briefly shut the country's main airport after Iranian drones heavily damaged it and killed one person, the latest in a series of attacks by Iran and the U.S. that have tested a fragile truce.",
       "url": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
       "source": "NPR World",
@@ -141,6 +142,22 @@
       "tags": []
     },
     {
+      "id": "the-99a43a1c8938",
+      "title": "Why Benjamin Netanyahu poses an obstacle to US and Iran peace deal",
+      "description": "Prime minister under pressure to show his campaigns against Hamas, Hezbollah and Iran have brought results as he faces elections with his political survival at riskIf there is to be a peace deal between the United States and Iran, it will have to go through a familiar obstacle: Benjamin Netanyahu. Israel’s military ope…",
+      "url": "https://www.theguardian.com/world/2026/jun/02/benjamin-netanyahu-us-iran-war",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-02T18:15:47Z",
+      "image": "https://i.guim.co.uk/img/media/c487d5e8719f3d97d16a32f941079cc0b08e0f0a/332_0_3321_2656/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=ea1b8a6060dc2dce30be65b45eeef6a2",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "rfe-316487a063f6",
       "title": "Ukraine Bolsters Defenses Along Belarus Border Amid Concerns Of New Invasion",
       "description": "In Ukraine's Chernihiv region, along a section of the Dnieper River that divides Ukraine and Belarus, border guards are on the lookout for signs of another invasion from the north. In May, Kyiv warned that Russia was once again trying to draw Belarus into the war against Ukraine. Current Time correspondent Andriy Kuzak…",
@@ -154,22 +171,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-6c2e7e8bdd1a",
-      "title": "Israel strikes southern Lebanon despite Trump’s effort to shore up ceasefire",
-      "description": "Warplanes carry out dozens of airstrikes and Israeli army issues evacuation warning for city of NabatiyehIsraeli warplanes have launched dozens of strikes across southern Lebanon despite a new agreement supposedly brokered by Donald Trump aiming to bolster the tattered ceasefire in Lebanon.The US president said on Mond…",
-      "url": "https://www.theguardian.com/world/2026/jun/02/israel-strikes-southern-lebanon-despite-trump-ceasefire",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-02T18:11:34Z",
-      "image": "https://i.guim.co.uk/img/media/4caca2919f46155e3a1e329c43803e274dfb6a89/487_103_3204_2564/master/3204.jpg?width=140&quality=85&auto=format&fit=max&s=52f8884638cec81c40db2f55dd14a149",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {

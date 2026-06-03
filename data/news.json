@@ -1,38 +1,55 @@
 {
-  "updated": "2026-06-03T11:42:45Z",
+  "updated": "2026-06-03T13:48:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "the-e98c63cef4e2",
-      "title": "Can autonomous AI-powered killer drones take morality onboard?",
-      "description": "While the technology is set to play a growing role in modern warfare, there remains an unresolved ethical challengeShould the AI-powered drones of the future have a licence to kill? The question is becoming ever more pressing as governments and the defence industry acknowledge that drone systems will play an increasing…",
-      "url": "https://www.theguardian.com/world/2026/jun/03/can-autonomous-ai-powered-killer-drones-take-morality-onboard",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-03T11:00:05Z",
-      "image": "https://i.guim.co.uk/img/media/bd81c6d5daae91aac020868af5474879e6cd54dc/289_0_2890_2312/master/2890.jpg?width=140&quality=85&auto=format&fit=max&s=950cbffcb59184b531109691738e4135",
+      "id": "bbc-636c83a8db00",
+      "title": "One killed in Iranian drone strikes on Kuwait airport, local officials say",
+      "description": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-03T13:43:30Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9df3/live/72b3c3e0-5f42-11f1-89a3-d1f559421220.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -a743611dc54c",
+      "title": "Why the French Catholic Church is against lifting the seal of confession",
+      "description": "Lawmakers on June 1 removed an article which would have required priests to report sexual crimes against minors that they learned of in confession, from the bill to 'protect children and combat violence in schools.'",
+      "url": "https://www.lemonde.fr/en/france/article/2026/06/03/why-the-french-catholic-church-is-against-lifting-the-seal-of-confession_6754089_7.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-03T13:00:13Z",
+      "image": "https://img.lemde.fr/2025/02/21/464/0/5568/2784/644/322/60/0/d9fc851_ftp-import-images-1-twqpqxqylnml-5107626-01-06.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 13,
+      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "fra-edb9eef571b5",
-      "title": "Israel strikes hospital in southern Lebanon",
-      "description": "Israel continues to hit targets in Lebanon despite a partial US-brokered ceasefire in place. Lebanese and Israeli diplomats are in Washington for the fourth round of direct talks, but those negotiations have been strongly opposed by Hezbollah. Pressure also mounting within Netanyahu's own government to continue the war…",
-      "url": "https://www.france24.com/en/israel-strikes-hospital-in-southern-lebanon",
+      "id": "fra-04aa47cfb6de",
+      "title": "Aid worker Elsa Softic on Lebanon's worsening humanitarian crisis",
+      "description": "As millions of Lebanese remain displaced from their homes amid the ongoing war between Israel and Hezbollah, Elsa Softic, deputy chief of operations at Première Urgence Internationale, told FRANCE 24 how her organisation is helping those affected. She spoke to us in Perspective.",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260603-aid-worker-elsa-softic-on-lebanon-s-worsening-humanitarian-crisis",
       "source": "France24",
-      "publishedAt": "2026-06-03T10:48:32Z",
-      "image": "https://s.france24.com/media/display/81a93272-5f38-11f1-bebe-005056a97e36/w:1024/p:16x9/EN-20260603-120448-120634-CS.jpg",
+      "publishedAt": "2026-06-03T12:31:23Z",
+      "image": "https://s.france24.com/media/display/714188e0-5f46-11f1-8e14-005056a90284/w:1024/p:16x9/capture-11610019586a201bc5522e12-33398465.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian",
+        "analysis"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -97,21 +114,6 @@
       "tags": []
     },
     {
-      "id": "bbc-dd2c65f9abc8",
-      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "description": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
-      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-02T23:33:34Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a79/live/ddbe4530-5e8d-11f1-89a3-d1f559421220.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -beba3f982eec",
       "title": "Iran war soured Gulf Arabs on Iraq. Can new leader in Baghdad win them back?",
       "description": "Iraq was offering attractive opportunities for Gulf Arab economic and diplomatic initiatives, but the war made it a springboard for Iran-backed militia attacks. Can the country’s young and untested prime minister navigate a multifaceted crisis?",
@@ -141,6 +143,22 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-6c2e7e8bdd1a",
+      "title": "Israel strikes southern Lebanon despite Trump’s effort to shore up ceasefire",
+      "description": "Warplanes carry out dozens of airstrikes and Israeli army issues evacuation warning for city of NabatiyehIsraeli warplanes have launched dozens of strikes across southern Lebanon despite a new agreement supposedly brokered by Donald Trump aiming to bolster the tattered ceasefire in Lebanon.The US president said on Mond…",
+      "url": "https://www.theguardian.com/world/2026/jun/02/israel-strikes-southern-lebanon-despite-trump-ceasefire",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-02T18:11:34Z",
+      "image": "https://i.guim.co.uk/img/media/4caca2919f46155e3a1e329c43803e274dfb6a89/487_103_3204_2564/master/3204.jpg?width=140&quality=85&auto=format&fit=max&s=52f8884638cec81c40db2f55dd14a149",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -187,22 +205,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -1deb31677eb5",
-      "title": "Why consumer electronics prices are surging",
-      "description": "Component prices have surged in recent months, driven by both the race to develop artificial intelligence and by the war in Iran. This trend is now affecting consumer electronics, with no respite expected in the short term.",
-      "url": "https://www.lemonde.fr/en/pixels/article/2026/06/02/why-consumer-electronics-prices-are-surging_6754040_13.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-02T04:30:05Z",
-      "image": "https://img.lemde.fr/2026/06/01/0/0/3000/1500/644/322/60/0/cfa31e6_upload-1-2kxce0enq721-illustration-sans-titre-20.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

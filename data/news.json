@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-02T23:38:03Z",
+  "updated": "2026-06-03T01:11:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -19e04e411a0f",
+      "title": "Why women go to war",
+      "description": "The untold story of women on the battlefield.",
+      "url": "https://www.aljazeera.com/video/all-hail/2026/6/3/why-women-go-to-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-03T00:26:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/ALL-HAIL-2026-EP4-v2-1776295921.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "cs -beba3f982eec",
       "title": "Iran war soured Gulf Arabs on Iraq. Can new leader in Baghdad win them back?",
@@ -32,21 +48,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7d5611e0d506",
-      "title": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
-      "description": "What will Israel and Lebanon discuss in Washington, as Hezbollah and Israel continue to battle in south Lebanon.",
-      "url": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-02T19:24:47Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69ea99421ad8-1776982338.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

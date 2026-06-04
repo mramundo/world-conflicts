@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-04T09:26:33Z",
+  "updated": "2026-06-04T11:09:12Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-05-31T17:49:32Z",
+  "wikipediaListRevision": "2026-06-04T09:40:58Z",
   "items": [
     {
       "id": "ru-ua",
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-06-04",
       "wikipediaRevision": "2026-06-04T06:31:11Z",
-      "recentNewsCount": 5
+      "recentNewsCount": 6
     },
     {
       "id": "il-ps",
@@ -181,7 +181,7 @@
       ],
       "wikipediaPage": "Jihadist_insurgency_in_the_Sahel",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "so-als",
@@ -290,9 +290,9 @@
         "Terrorism"
       ],
       "wikipediaPage": "Republican_insurgency_in_Afghanistan",
-      "lastUpdate": "2026-05-25",
+      "lastUpdate": "2026-06-04",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-05-25T05:50:05Z",
+      "wikipediaRevision": "2026-06-04T09:54:51Z",
       "recentNewsCount": 0
     },
     {
@@ -339,7 +339,7 @@
       "lastUpdate": "2026-05-11",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-05-11T04:53:27Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "co-fgc",

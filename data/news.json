@@ -1,13 +1,28 @@
 {
-  "updated": "2026-06-04T07:46:25Z",
+  "updated": "2026-06-04T09:26:25Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
+      "id": "bbc-a4f58585235b",
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-04T07:49:33Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea2/live/caf5c620-5fb5-11f1-89a3-d1f559421220.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-f0eae91b77f1",
       "title": "Israel and Lebanon agree new ceasefire as Trump scrambles to end Iran war",
-      "description": "Despite deal which is dependent on Hezbollah ceasing fire, Israel carried out multiple drone strikes in southern Lebanon on Thursday morningIsrael and Lebanon have agreed to implement a ceasefire to end hostilities, the Trump administration has announced, as the US looks to overcome one of the largest barriers to reach…",
+      "description": "Despite deal, which is dependent on Hezbollah ceasing fire, Israel carried out multiple drone strikes in southern Lebanon on Thursday morningIsrael and Lebanon have agreed to implement a ceasefire to end hostilities, the Trump administration has announced, as the US looks to overcome one of the largest barriers to reac…",
       "url": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
       "source": "The Guardian",
       "publishedAt": "2026-06-04T07:28:55Z",
@@ -34,6 +49,21 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-3c6f80119ac5",
+      "title": "Israel announces continued operations in south Lebanon – hours after renewing ceasefire",
+      "description": "Israel will continue its operations in southern Lebanon for now and will not withdraw from the country despite Wednesday’s conditional ceasefire after US-mediated talks, Israeli Defence Minister Israel Katz said Thursday. Lebanese state media reported Israeli strikes on the country's south after air raid sirens sounded…",
+      "url": "https://www.france24.com/en/middle-east/20260604-israel-and-lebanon-agree-to-renew-ceasefire-condition-hezbollah-holds-fire",
+      "source": "France24",
+      "publishedAt": "2026-06-04T05:58:15Z",
+      "image": "https://s.france24.com/media/display/7ce1736a-5fd5-11f1-9bcf-005056bfb2b6/w:1024/p:16x9/AP26153375761605.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -82,48 +112,17 @@
       "tags": []
     },
     {
-      "id": "bbc-a4f58585235b",
-      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-04T00:16:44Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea2/live/caf5c620-5fb5-11f1-89a3-d1f559421220.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-b63b3c14b283",
-      "title": "Iran says no 'tangible progress' in war talks, Trump says deal close",
-      "description": "Iran's foreign minister said on Wednesday that negotiations to end the Middle East war had made \"no tangible progress\" after fresh US and Iranian strikes tested a fragile ceasefire. Kuwaiti officials said an Iranian drone strike on Kuwait International Airport killed one person and wounded 63, while President Donald Tr…",
-      "url": "https://www.france24.com/en/middle-east/20260603-iran-says-no-tangible-progress-in-war-talks-trump-says-deal-close",
-      "source": "France24",
-      "publishedAt": "2026-06-03T23:15:16Z",
-      "image": "https://s.france24.com/media/display/00dfabde-5edf-11f1-a0d3-005056a90284/w:1024/p:16x9/AP26112414337945.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -8074b9c9196f",
-      "title": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
-      "description": "Kuwait has released surveillance footage of what it says shows an Iranian drone strike on Kuwait International Airport.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss",
+      "id": "al -51cc51d45529",
+      "title": "Iran war live: Israel attack injuries several after new Lebanon ceasefire",
+      "description": "Lebanon&#039;s Health Ministry reports 3,516 people have now been killed in Israeli attacks since March.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-03T23:02:34Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-KUWAIT-AIRPORT-STRIKE-1780527681.png?resize=1200%2C630",
+      "publishedAt": "2026-06-04T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260603__B4VG3T3__v2__MidRes__TopshotLebanonIsraelUsIranWarHezbollah-1780561819.jpg?resize=1200%2C630",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -206,18 +205,17 @@
       "tags": []
     },
     {
-      "id": "kyi-c58f011350db",
-      "title": "Kyiv Sees Opening for Talks Ahead of Winter as Russian Offensive Slows, Zelensky Says",
-      "description": "Zelensky told CBS News that Russia has been losing battlefield initiative since late 2025, creating a potential “window for negotiations” before winter. He urged increased sanctions pressure on Moscow, said diplomatic talks depend on Russian readiness, and suggested possible mediators including the UK, France, Germany,…",
-      "url": "https://www.kyivpost.com/post/77268",
+      "id": "kyi-25cf8d8c7614",
+      "title": "‘Fundamental Decision Made’: Russian Lawmaker Predicts New Mobilization This Fall",
+      "description": "Russian State Duma deputy Gurulev said a new large-scale mobilization could be announced this fall, arguing that Russia’s winter-spring offensive failed to achieve expected results and that frontline losses remain high. Analysts from the IISS and ISW have previously warned that the Kremlin may eventually need additiona…",
+      "url": "https://www.kyivpost.com/post/77368",
       "source": "Kyiv Post",
-      "publishedAt": "2026-06-01T09:13:52Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/30/bf13cc87282d085ea1a9381d1c701ed6.jpeg?w=640&q=90&f=jpg",
+      "publishedAt": "2026-06-02T13:27:58Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/02/15f1a699eb877a64e1c7b3849b49a20a.jpg?w=640&q=90&f=jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     }

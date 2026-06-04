@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T22:35:30Z",
+  "updated": "2026-06-04T23:31:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/nickel-supply-deficit-projected-over-indonesia-policy-uncertainty-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-04T22:35:26Z",
+      "publishedAt": "2026-06-04T23:30:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F8%2F6%2F12576845-1-eng-GB%2F75210c27b146-DJI_0548.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -ca49dc9b1dd6",
+      "title": "'The current war between Iran and the US stems from decades of mutual humiliation'",
+      "description": "In an interview with Le Monde, researcher Marie Durrieu analyzes the central role that humiliating an adversary plays in international relations.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/06/05/the-current-war-between-iran-and-the-us-stems-from-decades-of-mutual-humiliation_6754153_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-04T22:32:25Z",
+      "image": "https://img.lemde.fr/2026/03/05/114/0/1500/750/644/322/60/0/32e42c9_upload-1-6kdnma8rsdxb-frame-1463.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -46,6 +62,21 @@
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -865f1d5a6c8f",
+      "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+      "description": "Russia&#039;s latest attacks come as Ukraine commemorates the children killed by Russia over the course of the all-out war.",
+      "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-04T18:59:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260602__B4PF7T3__v1__HighRes__UkraineRussiaConflictWar-1780596105.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -95,21 +126,6 @@
       "tags": []
     },
     {
-      "id": "al -b221e9f7c8fb",
-      "title": "Lebanon’s latest truce: What is different from the April agreement?",
-      "description": "The ceasefire&#039;s prospects appear uncertain before its implementation has even started.",
-      "url": "https://www.aljazeera.com/news/2026/6/4/lebanons-latest-truce-what-is-different-from-the-april-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-04T14:58:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a1ee7e0085b-1780410336.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-4a6e62b4c90c",
       "title": "Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon",
       "description": "The U.N. peacekeeping mission for Lebanon, known as UNIFIL, said one peacekeeper was killed and others were wounded when they came under mortar fire in southeastern Lebanon.",
@@ -136,21 +152,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -e748f385942f",
-      "title": "Israel and Lebanon reach minimalist agreement that delays hopes for lasting ceasefire",
-      "description": "After two days of talks in Washington, Israel made the halting of its operations contingent on Hezbollah's disarmament. Nonetheless, the joint statement provides for a gradual withdrawal of the Israeli army from southern Lebanon.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/04/israel-and-lebanon-reach-minimalist-agreement-that-delays-hopes-for-lasting-ceasefire_6754132_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-04T10:53:34Z",
-      "image": "https://img.lemde.fr/2026/06/04/688/0/8256/4128/644/322/60/0/71f526f_ftp-1-lx42ztzlnnrm-5219302-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,21 +1,52 @@
 {
-  "updated": "2026-06-04T03:17:23Z",
+  "updated": "2026-06-04T05:42:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "the-86f3c5120d28",
-      "title": "Middle East crisis live: Israel and Lebanon agree to renew ceasefire; US House rebukes Trump over Iran war",
-      "description": "Statement with US after Israel-Lebanon talks in Washington says agreement will create ‘pilot’ security zones in Lebanon from which Hezbollah bannedOne killed and 63 hurt in Iran attack on Kuwait airport as Trump says ceasefire talks ongoingThe Kuwaiti defence ministry said it intercepted 13 ballistic missiles and 17 dr…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-04T02:47:34Z",
-      "image": "https://i.guim.co.uk/img/media/2ccfcbfdf914d6288c5af1a95d74b0f3cb32d8af/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=b807b9d03bb2be77d1227a41d252155e",
+      "id": "ans-eabdff635239",
+      "title": "Israele e Libano, accordo su tregua e zone sicurezza che escludono Hezbollah",
+      "description": "Idf bombarda condominio a Gaza City, 9 morti tra cui 4 bambini",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/06/04/israele-e-libano-accordo-su-tregua-e-zone-sicurezza-che-escludono-hezbollah_3308dab4-85fb-4358-9b26-bb5c60bb4227.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-04T05:27:05Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/2/3c9b654b6e7a72250b9426f8eec7331c.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-f0eae91b77f1",
+      "title": "Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome barriers to Iran deal",
+      "description": "The US said the ceasefire was contingent on a complete cessation of fire from the Iran-aligned Hezbollah militiaIsrael and Lebanon have agreed to implement a ceasefire to end hostilities, the Trump administration has announced, as the US looks to overcome one of the largest barriers to reaching a broader deal to end th…",
+      "url": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-04T03:22:55Z",
+      "image": "https://i.guim.co.uk/img/media/7090ba4f5ab7b395c721352c86880a7842a55212/1041_0_6871_5496/master/6871.jpg?width=140&quality=85&auto=format&fit=max&s=03a3819577cbbc4cd8e3ce6ffa6b0509",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-763e1fd89376",
+      "title": "Israel and Lebanon agree to renew truce, create ‘pilot’ zones where Hezbollah is banned",
+      "description": "After talks in DC, Lebanon agrees its army will take full control of areas, though unclear how they will be created; sides agree ceasefire relies on halt to terror group's activity The post Israel and Lebanon agree to renew truce, create &#8216;pilot&#8217; zones where Hezbollah is banned appeared first on The Times of…",
+      "url": "https://www.timesofisrael.com/israel-lebanon-agree-to-renew-truce-create-pilot-zones-where-hezbollah-is-banned/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-04T01:26:50Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26153496920192-e1780528519657-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "ans-64254be429af",
-      "title": "Israele e Libano, accordo su tregua e zone sicurezza che escludono Hezbollah",
-      "description": "Dopo la due giorni di dialogo tra ambasciatori al Dipartimento di Stato Usa",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/04/israele-e-libano-accordo-su-tregua-e-zone-sicurezza-che-escludono-hezbollah_af357b26-88c3-421c-8ccd-64bf92f7fc2d.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-03T23:46:38Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/2/3c9b654b6e7a72250b9426f8eec7331c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-b63b3c14b283",
       "title": "Iran says no 'tangible progress' in war talks, Trump says deal close",
       "description": "Iran's foreign minister said on Wednesday that negotiations to end the Middle East war had made \"no tangible progress\" after fresh US and Iranian strikes tested a fragile ceasefire. Kuwaiti officials said an Iranian drone strike on Kuwait International Airport killed one person and wounded 63, while President Donald Tr…",
@@ -77,37 +93,6 @@
         "humanitarian"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-5e68bf56ee97",
-      "title": "US House Advances Ukraine Aid Bill as Rubio Says Russia Failing to Meet War Goals",
-      "description": "The US House of Representatives voted on June 3 to advance legislation providing new military assistance to Ukraine, overcoming opposition from the administration and marking the first major Ukraine support measure to gain traction in Congress since Donald Trump's return to office. The House approved a procedural motio…",
-      "url": "https://www.rferl.org/a/33772022.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-03T22:54:29Z",
-      "image": "https://gdb.rferl.org/058a0000-0aff-0242-d7c7-08dae369865f_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 15,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-67a4b4865b59",
-      "title": "Trump reportedly tells aides he would end ceasefire if Iran kills US troops",
-      "description": "US House backs Democratic-led symbolic resolution aiming to halt Iran war * NYC Jews announce second protest against New York Times over column alleging abuse of Palestinians The post Trump reportedly tells aides he would end ceasefire if Iran kills US troops appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/liveblog-june-4-2026/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-03T22:04:24Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26154769866301-e1780536330792-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -172,6 +157,22 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-316487a063f6",
+      "title": "Ukraine Bolsters Defenses Along Belarus Border Amid Concerns Of New Invasion",
+      "description": "In Ukraine's Chernihiv region, along a section of the Dnieper River that divides Ukraine and Belarus, border guards are on the lookout for signs of another invasion from the north. In May, Kyiv warned that Russia was once again trying to draw Belarus into the war against Ukraine. Current Time correspondent Andriy Kuzak…",
+      "url": "https://www.rferl.org/a/ukraine-bolsters-defenses-along-belarus-border-amid-concerns-of-new-invasion-war/33771143.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-02T18:11:46Z",
+      "image": "https://gdb.rferl.org/cd44784d-d087-4cef-e50a-08debadc7311_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     },
     {

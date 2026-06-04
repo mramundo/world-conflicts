@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T21:36:35Z",
+  "updated": "2026-06-04T22:35:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/nickel-supply-deficit-projected-over-indonesia-policy-uncertainty-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-04T21:36:30Z",
+      "publishedAt": "2026-06-04T22:35:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F8%2F6%2F12576845-1-eng-GB%2F75210c27b146-DJI_0548.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-24397e95bef7",
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "description": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-04T21:34:14Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,17 +65,17 @@
       "tags": []
     },
     {
-      "id": "bbc-90b278e042e5",
-      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-      "description": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials.",
-      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-04T17:50:20Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4773/live/10c39b70-5fff-11f1-b682-cf91850925ea.jpg",
+      "id": "fra-902e1cca4470",
+      "title": "A 'ceasefire war' in Lebanon continues as 'chaotic global leadership' takes its toll",
+      "description": "Hezbollah's chief on Thursday rejected a conditional truce announced by Lebanese and Israeli envoys, demanding instead a comprehensive ceasefire and full Israeli withdrawal as he threatened northern Israel with new attacks. FRANCE 24's Noga Tarnopolsky reports from Jerusalem.",
+      "url": "https://www.france24.com/en/a-ceasefire-war-in-lebanon-continues-as-chaotic-global-leadership-takes-its-toll",
+      "source": "France24",
+      "publishedAt": "2026-06-04T18:30:45Z",
+      "image": "https://s.france24.com/media/display/b1cf2164-6041-11f1-880d-005056a90284/w:1024/p:16x9/EN-20260604-200401-201037-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -72,21 +87,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-06-04T16:31:32Z",
       "image": "https://i.guim.co.uk/img/media/9ff7b8dd370bdaa0d98582b7caea060d5a1f7de5/1649_227_6543_5237/master/6543.jpg?width=140&quality=85&auto=format&fit=max&s=a4993c03c4a7781d09d5da276c549ef7",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-372959904378",
-      "title": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon",
-      "description": "Hezbollah on Thursday rejected the latest ceasefire agreement between Israel and the Lebanese government, and the militant group demanded a complete Israeli withdrawal from Lebanon as more fighting there hampered efforts to end the Iran war. The Hezbollah announcement came as Israeli strikes killed at least four people…",
-      "url": "https://www.france24.com/en/video/20260604-hezbollah-rejects-latest-ceasefire-agreement-as-israeli-strikes-kill-4-in-lebanon",
-      "source": "France24",
-      "publishedAt": "2026-06-04T15:45:36Z",
-      "image": "https://s.france24.com/media/display/6b353eea-6029-11f1-9ac7-005056a97e36/w:1024/p:16x9/EN-20260604-170154-170535-CS.jpg",
       "categories": [
         "conflict"
       ],

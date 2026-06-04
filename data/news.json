@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T17:08:45Z",
+  "updated": "2026-06-04T18:54:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/nickel-supply-deficit-projected-over-indonesia-policy-uncertainty-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-04T17:08:40Z",
+      "publishedAt": "2026-06-04T18:54:18Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F8%2F6%2F12576845-1-eng-GB%2F75210c27b146-DJI_0548.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-a2d5a1eeea25",
+      "title": "Rockets, drones trigger warnings in north after Hezbollah rejects Lebanon ceasefire proposal",
+      "description": "IDF strikes reported in Lebanon, at least 5 said killed; terror group chief calls on Beirut to halt 'farce' of talks, as Aoun touts 'last chance' for comprehensive truce The post Rockets, drones trigger warnings in north after Hezbollah rejects Lebanon ceasefire proposal appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/rockets-drones-trigger-warnings-in-north-after-hezbollah-rejects-lebanon-ceasefire-proposal/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-04T18:35:52Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26155342364901-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-90b278e042e5",
+      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+      "description": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials.",
+      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-04T17:50:20Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4773/live/10c39b70-5fff-11f1-b682-cf91850925ea.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -65,21 +95,6 @@
       "tags": []
     },
     {
-      "id": "bbc-87198121b099",
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-04T14:54:22Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-4a6e62b4c90c",
       "title": "Israel and Lebanon reach an agreement, but ceasefire stalls",
       "description": "The U.N. peacekeeping mission for Lebanon, known as UNIFIL, said one peacekeeper was killed and others were wounded when they came under mortar fire in southeastern Lebanon.",
@@ -106,21 +121,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-913c866fe27e",
-      "title": "Hamas operative indicted for allegedly holding Oron Shaul’s body in fridge in Gaza",
-      "description": "Ibrahim Hilu said to have hidden remains of the 20-year-old IDF soldier, killed in 2014 war, until they were recovered by the IDF in January 2025 The post Hamas operative indicted for allegedly holding Oron Shaul&#8217;s body in fridge in Gaza appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/hamas-operative-indicted-for-allegedly-holding-oron-shauls-body-in-fridge-in-gaza/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-04T10:56:25Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/3345800.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

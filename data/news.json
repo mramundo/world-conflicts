@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T19:45:17Z",
+  "updated": "2026-06-04T20:47:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/nickel-supply-deficit-projected-over-indonesia-policy-uncertainty-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-04T19:45:13Z",
+      "publishedAt": "2026-06-04T20:47:25Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F8%2F6%2F12576845-1-eng-GB%2F75210c27b146-DJI_0548.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-d5a3e98c99fc",
+      "title": "Kremlin Responds: ‘If Zelensky Wants to Meet, He Can Come to Moscow”",
+      "description": "In a direct open letter, President Volodymyr Zelensky called on Kremlin leader Vladimir Putin to hold a meeting about ending the war on neutral grounds. He proposed a full prisoner exchange, monitored ceasefire along the current front line, and international security guarantees as steps towards ending Russia’s full-sca…",
+      "url": "https://www.kyivpost.com/post/77536",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-04T20:27:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/04/a057adfdd9212b37cd4b2c6f3e04fd86.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,7 +111,7 @@
     },
     {
       "id": "npr-4a6e62b4c90c",
-      "title": "Israel and Lebanon reach an agreement, but ceasefire stalls",
+      "title": "Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon",
       "description": "The U.N. peacekeeping mission for Lebanon, known as UNIFIL, said one peacekeeper was killed and others were wounded when they came under mortar fire in southeastern Lebanon.",
       "url": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire",
       "source": "NPR World",
@@ -105,7 +120,7 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -193,7 +208,7 @@
       "url": "https://www.csmonitor.com/World/Middle-East/2026/0602/iran-war-gulf-arabs-iraqi-leader-militias?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-02T21:34:27Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/0601_OIRAQGULF_new_PM_lede.jpg?alias=standard_900x600",
+      "image": null,
       "categories": [
         "conflict",
         "humanitarian"
@@ -216,21 +231,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-25cf8d8c7614",
-      "title": "‘Fundamental Decision Made’: Russian Lawmaker Predicts New Mobilization This Fall",
-      "description": "Russian State Duma deputy Gurulev said a new large-scale mobilization could be announced this fall, arguing that Russia’s winter-spring offensive failed to achieve expected results and that frontline losses remain high. Analysts from the IISS and ISW have previously warned that the Kremlin may eventually need additiona…",
-      "url": "https://www.kyivpost.com/post/77368",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-02T13:27:58Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/02/15f1a699eb877a64e1c7b3849b49a20a.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
       "tags": []
     }
   ]

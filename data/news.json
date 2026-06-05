@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T03:16:48Z",
+  "updated": "2026-06-05T05:37:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/nickel-supply-deficit-projected-over-indonesia-policy-uncertainty-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-05T03:16:43Z",
+      "publishedAt": "2026-06-05T05:37:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F8%2F6%2F12576845-1-eng-GB%2F75210c27b146-DJI_0548.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-24397e95bef7",
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "description": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-05T05:20:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,21 +51,6 @@
       "tags": []
     },
     {
-      "id": "bbc-24397e95bef7",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "description": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-04T23:32:35Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -ca49dc9b1dd6",
       "title": "'The current war between Iran and the US stems from decades of mutual humiliation'",
       "description": "In an interview with Le Monde, researcher Marie Durrieu analyzes the central role that humiliating an adversary plays in international relations.",
@@ -64,21 +64,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-d5a3e98c99fc",
-      "title": "Kremlin Responds: ‘If Zelensky Wants to Meet, He Can Come to Moscow”",
-      "description": "In a direct open letter, President Volodymyr Zelensky called on Kremlin leader Vladimir Putin to hold a meeting about ending the war on neutral grounds. He proposed a full prisoner exchange, monitored ceasefire along the current front line, and international security guarantees as steps towards ending Russia’s full-sca…",
-      "url": "https://www.kyivpost.com/post/77536",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-04T20:27:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/04/a057adfdd9212b37cd4b2c6f3e04fd86.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -139,6 +124,22 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-a1d4145b33f6",
+      "title": "Ukraine’s Drone War Is Rewriting the Rules of Modern Combat – Canada is Ready to Partner",
+      "description": "Ukraine’s rapid military innovation, particularly in drone warfare, is redefining modern combat, wrote Canadian Ambassador to Ukraine Natalka Cmoc. She also discussed a new bilateral agreement to co-produce drones in Canada and explained why Ukraine’s decentralized, tech-driven battlefield approach offers key lessons f…",
+      "url": "https://www.kyivpost.com/opinion/77516",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-04T13:11:39Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/04/283d9e1c6f45fdc39342f013b619b8e5.webp?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": true,
       "tags": []
     },
     {

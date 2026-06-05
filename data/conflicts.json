@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T13:10:52Z",
+  "updated": "2026-06-05T15:06:41Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-06-04T09:40:58Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-06-04",
       "wikipediaRevision": "2026-06-04T06:31:11Z",
-      "recentNewsCount": 7
+      "recentNewsCount": 8
     },
     {
       "id": "il-ps",
@@ -155,10 +155,10 @@
         "Armed groups"
       ],
       "wikipediaPage": "Kivu_conflict",
-      "lastUpdate": "2026-05-28",
+      "lastUpdate": "2026-06-05",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-05-28T20:15:47Z",
-      "recentNewsCount": 1
+      "wikipediaRevision": "2026-06-05T13:34:11Z",
+      "recentNewsCount": 0
     },
     {
       "id": "sahel",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 7
+      "recentNewsCount": 8
     },
     {
       "id": "et-am",

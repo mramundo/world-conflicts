@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T13:10:43Z",
+  "updated": "2026-06-05T15:06:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,39 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/india-gdp-up-7.8-in-march-quarter-despite-iran-war-impact",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-05T13:10:39Z",
+      "publishedAt": "2026-06-05T15:06:28Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F4%2F9%2F2%2F12582944-1-eng-GB%2F2fd1c0378161-2026-06-02T122314Z_1795662607_RC2I7T93RHQH_RTRMADP_3_INDIA-ECONOMY-INFLATION.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-ff0df2b2900a",
+      "title": "Ukraine under heavy drone attack as Zelensky seeks direct meeting with Putin",
+      "description": "Russia fired hundreds of drones at Ukraine between late Thursday and early Friday, killing seven people and destroying a factory that produces milk products for children, authorities said. Moscow and Kyiv have intensified drone strikes on each other in recent months as US-led diplomatic efforts to end the war, now in i…",
+      "url": "https://www.france24.com/en/video/20260605-ukraine-under-heavy-drone-attack-as-zelensky-seeks-direct-meeting-with-putin",
+      "source": "France24",
+      "publishedAt": "2026-06-05T14:08:23Z",
+      "image": "https://s.france24.com/media/display/a38504f2-60e1-11f1-83c8-005056bfb2b6/w:1024/p:16x9/EN-20260605-150139-150323-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-5c4694a0b2df",
+      "title": "Iran at war: Stability masks deepening crises",
+      "description": "One hundred days after the Iran war began, the Islamic Republic appears stable. But beneath the surface, economic strain, social unrest and growing repression point to deeper instability.",
+      "url": "https://www.dw.com/en/iran-at-war-stability-masks-deepening-crises/a-77436037?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-05T13:24:00Z",
+      "image": "https://static.dw.com/image/77425495_6.jpg",
       "categories": [
         "conflict"
       ],
@@ -31,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-95273d7376a3",
-      "title": "Bondi distances herself from 'botched' release of Epstein files | First Thing",
-      "description": "Former attorney general says expected replacement, Todd Blanche, was in charge of controversial process. Plus: why are US consumers so angry?Don’t already get First Thing in your inbox? Sign up hereGood morning. Appearing before the House oversight and reform committee, the former attorney general Pam Bondi told lawmak…",
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/first-thing-bondi-distances-herself-from-botched-release-of-epstein-files",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-05T11:03:56Z",
-      "image": "https://i.guim.co.uk/img/media/39b31f19dbe05cbb9a228aa104ec6ad4606e9937/321_34_1011_810/master/1011.jpg?width=140&quality=85&auto=format&fit=max&s=304ffb3b300b67bec8b882bb875ae96c",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-a9ea8d1efe93",
-      "title": "Lebanon ceasefire brings little comfort to displaced families in Beirut",
-      "description": "Months after fleeing the fighting in eastern and southern Lebanon, thousands of displaced people remain in makeshift camps across Beirut. Despite the announcement of a ceasefire between Israel and Lebanon, many say they feel no safer and have little confidence the truce will hold. France 24's special correspondent Anto…",
-      "url": "https://www.france24.com/en/video/20260605-lebanon-ceasefire-brings-little-comfort-to-displaced-families-in-beirut",
-      "source": "France24",
-      "publishedAt": "2026-06-05T10:21:17Z",
-      "image": "https://s.france24.com/media/display/e4baa784-60c7-11f1-bc85-005056a90284/w:1024/p:16x9/EN-20260605-120622-120807-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -126,6 +127,21 @@
       "tags": []
     },
     {
+      "id": "the-3ebbcbee270e",
+      "title": "Israel to continue ground operation in southern Lebanon despite agreed ceasefire – as it happened",
+      "description": "This blog is now closed, you can read more on this story hereThe commander of the Quds Force, the foreign arm of Iran’s Islamic Revolutionary Guards (IRGC), said Hezbollah is demanding Israel retreat to positions it held before the start of the war, according to a statement carried by Iranian media.“Supporting the resi…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/04/middle-east-crisis-israel-lebanon-hezbolllah-us-ceasefire-southern-military-attacks-continue-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-04T16:31:32Z",
+      "image": "https://i.guim.co.uk/img/media/9ff7b8dd370bdaa0d98582b7caea060d5a1f7de5/1649_227_6543_5237/master/6543.jpg?width=140&quality=85&auto=format&fit=max&s=a4993c03c4a7781d09d5da276c549ef7",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-a1d4145b33f6",
       "title": "Ukraine’s Drone War Is Rewriting the Rules of Modern Combat – Canada is Ready to Partner",
       "description": "Ukraine’s rapid military innovation, particularly in drone warfare, is redefining modern combat, wrote Canadian Ambassador to Ukraine Natalka Cmoc. She also discussed a new bilateral agreement to co-produce drones in Canada and explained why Ukraine’s decentralized, tech-driven battlefield approach offers key lessons f…",
@@ -153,21 +169,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-c9fbb59b24bb",
-      "title": "Tiananmen dissident lambasts China on massacre anniversary",
-      "description": "On the anniversary of the Tiananmen Square massacre, Wu'er Kaixi, who played a leading role during the 1989 protests, spoke to DW about his personal loss and nearly four decades in exile.",
-      "url": "https://www.dw.com/en/tiananmen-dissident-lambasts-china-on-massacre-anniversary/a-77420338?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-04T11:10:00Z",
-      "image": "https://static.dw.com/image/57774200_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -210,7 +211,7 @@
       "url": "https://www.csmonitor.com/World/Middle-East/2026/0602/iran-war-gulf-arabs-iraqi-leader-militias?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-02T21:34:27Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/0601_OIRAQGULF_new_PM_lede.jpg?alias=standard_900x600",
+      "image": null,
       "categories": [
         "conflict",
         "humanitarian"

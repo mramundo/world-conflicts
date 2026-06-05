@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T05:37:41Z",
+  "updated": "2026-06-05T07:38:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/nickel-supply-deficit-projected-over-indonesia-policy-uncertainty-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-05T05:37:37Z",
+      "publishedAt": "2026-06-05T07:38:24Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F8%2F6%2F12576845-1-eng-GB%2F75210c27b146-DJI_0548.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -def52c579f1f",
+      "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
+      "description": "Israel strikes Lebanon despite ceasefire, while Hezbollah rejects deal as death toll tops 3,500.",
+      "url": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-05T06:01:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-04T115000Z_32426330_RC2ZMLAWT0UI_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1780627137.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -26,7 +41,7 @@
       "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-06-05T05:20:57Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b28/live/06172180-6052-11f1-9e88-654a746d9a45.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd6/live/a5e633b0-60aa-11f1-b682-cf91850925ea.jpg",
       "categories": [
         "conflict"
       ],
@@ -35,28 +50,12 @@
       "tags": []
     },
     {
-      "id": "al -0a9de6de169f",
-      "title": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
-      "description": "Tensions over Somali elections escalate into violence, leaving Mogadishu residents grappling with fear and disruption.",
-      "url": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-05T01:12:02Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/IMG_9655-1780585411.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "le -ca49dc9b1dd6",
       "title": "'The current war between Iran and the US stems from decades of mutual humiliation'",
       "description": "In an interview with Le Monde, researcher Marie Durrieu analyzes the central role that humiliating an adversary plays in international relations.",
       "url": "https://www.lemonde.fr/en/opinion/article/2026/06/05/the-current-war-between-iran-and-the-us-stems-from-decades-of-mutual-humiliation_6754153_23.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-04T22:32:25Z",
+      "publishedAt": "2026-06-04T22:32:21Z",
       "image": "https://img.lemde.fr/2026/03/05/114/0/1500/750/644/322/60/0/32e42c9_upload-1-6kdnma8rsdxb-frame-1463.jpg",
       "categories": [
         "conflict",

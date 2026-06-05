@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T18:45:46Z",
+  "updated": "2026-06-05T19:37:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/more-japan-food-daily-goods-makers-eye-price-hikes-as-iran-war-takes-toll",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-05T18:45:43Z",
+      "publishedAt": "2026-06-05T19:37:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F3%2F3%2F12583363-2-eng-GB%2F922b56ea9b43-photo_SXM2026060400007635.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -2bb857cd450d",
+      "title": "Is the latest US ceasefire deal for Lebanon meaningless?",
+      "description": "Israel and Hezbollah continue fighting after truce announcement.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-05T18:45:16Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780682559.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -78,22 +94,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -a6722b19da5c",
-      "title": "Are the US and Iran closer to war or to a deal?",
-      "description": "As US and Iran pursue talks, both signal they are still ready to use force against each other.",
-      "url": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-05T14:33:19Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a22cb445301-1780665156.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

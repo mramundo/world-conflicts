@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T01:02:00Z",
+  "updated": "2026-06-05T03:16:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/nickel-supply-deficit-projected-over-indonesia-policy-uncertainty-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-05T01:01:56Z",
+      "publishedAt": "2026-06-05T03:16:43Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F8%2F6%2F12576845-1-eng-GB%2F75210c27b146-DJI_0548.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,19 @@
       "tags": []
     },
     {
-      "id": "al -0393ba1ba695",
-      "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
-      "description": "Israel&#039;s supreme court annuls government ban on international Red Cross visiting Palestinian prisoners in Israeli jails.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss",
+      "id": "al -0a9de6de169f",
+      "title": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
+      "description": "Tensions over Somali elections escalate into violence, leaving Mogadishu residents grappling with fear and disruption.",
+      "url": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-05T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AA-20260604-41579190-41579186-LEBANESE_ARMY_ANNOUNCED_THAT_IT_HAS_DEPLOYED_TO_THE_TOWN_OF_DIBBIN-1-1780615878.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-05T01:12:02Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/IMG_9655-1780585411.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -209,7 +210,7 @@
       "url": "https://www.csmonitor.com/World/Middle-East/2026/0602/iran-war-gulf-arabs-iraqi-leader-militias?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-02T21:34:27Z",
-      "image": null,
+      "image": "https://images.csmonitor.com/csm/2026/06/0601_OIRAQGULF_new_PM_lede.jpg?alias=standard_900x600",
       "categories": [
         "conflict",
         "humanitarian"

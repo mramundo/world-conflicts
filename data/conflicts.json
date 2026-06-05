@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T01:02:12Z",
+  "updated": "2026-06-05T03:16:58Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-06-04T09:40:58Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-06-03",
       "wikipediaRevision": "2026-06-03T21:22:14Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 3
     },
     {
       "id": "sd-war",
@@ -202,7 +202,7 @@
       ],
       "wikipediaPage": "Somali_civil_war_(2009%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "ng-bh",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 9
+      "recentNewsCount": 8
     },
     {
       "id": "et-am",
@@ -403,9 +403,9 @@
         "Interstate"
       ],
       "wikipediaPage": "Insurgency_in_Jammu_and_Kashmir",
-      "lastUpdate": "2026-05-17",
+      "lastUpdate": "2026-06-05",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-05-17T00:24:08Z",
+      "wikipediaRevision": "2026-06-05T03:14:42Z",
       "recentNewsCount": 0
     },
     {
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 3
     }
   ]
 }

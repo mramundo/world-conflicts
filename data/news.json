@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T17:39:41Z",
+  "updated": "2026-06-05T18:45:46Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/more-japan-food-daily-goods-makers-eye-price-hikes-as-iran-war-takes-toll",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-05T17:39:35Z",
+      "publishedAt": "2026-06-05T18:45:43Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F3%2F3%2F12583363-2-eng-GB%2F922b56ea9b43-photo_SXM2026060400007635.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-71d9e174a95a",
+      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+      "description": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-05T18:16:15Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-0cf1a1dc4654",
+      "title": "Zelensky, 'Putin oggi ha scelto la guerra'",
+      "description": "'Tutti hanno sentito la risposta, una risposta debole'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/05/zelensky-putin-oggi-ha-scelto-la-guerra_a218fb49-65a4-4fa8-8316-9629d8c518de.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-05T17:24:39Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/3/1127776e6d6714a0e9a027f58b7707ba.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,6 +81,22 @@
       "tags": []
     },
     {
+      "id": "al -a6722b19da5c",
+      "title": "Are the US and Iran closer to war or to a deal?",
+      "description": "As US and Iran pursue talks, both signal they are still ready to use force against each other.",
+      "url": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-05T14:33:19Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a22cb445301-1780665156.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "fra-ff0df2b2900a",
       "title": "Ukraine under heavy drone attack as Zelensky seeks direct meeting with Putin",
       "description": "Russia fired hundreds of drones at Ukraine between late Thursday and early Friday, killing seven people and destroying a factory that produces milk products for children, authorities said. Moscow and Kyiv have intensified drone strikes on each other in recent months as US-led diplomatic efforts to end the war, now in i…",
@@ -63,36 +109,6 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -b71b536bd536",
-      "title": "Drone explosion in Romanian port spurs Ukraine war spillover fears",
-      "description": "European Commission president warns that the maritime drone attack was a &#039;direct consequence&#039; of the Russia-Ukraine war.",
-      "url": "https://www.aljazeera.com/news/2026/6/5/drone-explosion-in-romanian-port-spurs-ukraine-war-spillover-fears?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-05T13:09:44Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a22b70b-1780659979.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-57fcad350a2a",
-      "title": "Macron, 'bene se negoziati tra Kiev e Mosca, l'Ue stia al tavolo'",
-      "description": "'Ucraina e Russia oggi le uniche in grado di elaborare un cessate il fuoco'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/05/macron-bene-se-negoziati-tra-kiev-e-mosca-lue-stia-al-tavolo_37ec4bb9-fee3-45dc-aba3-fd1405da4c27.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-05T11:10:05Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/4/36b1a6f43bc5d122070c39fbffcff16b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -127,34 +143,18 @@
       "tags": []
     },
     {
-      "id": "bbc-87198121b099",
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-05T01:44:16Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg",
+      "id": "le -7cb709e6ce4d",
+      "title": "War in Ukraine: Russia fired Oreshnik missile on city occupied by its own forces",
+      "description": "Russian President Vladimir Putin claimed on Thursday that a failed strike with an intermediate-range ballistic missile on a Russian-occupied city in eastern Ukraine on May 23 was actually 'experimental.'",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/05/war-in-ukraine-russia-fired-oreshnik-missile-on-city-occupied-by-its-own-forces_6754168_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-05T09:14:55Z",
+      "image": "https://img.lemde.fr/2026/06/04/333/0/2000/1000/644/322/60/0/92b0e59_upload-1-ygbzra1yai8m-000-b3vt4nv.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -ca49dc9b1dd6",
-      "title": "'The current war between Iran and the US stems from decades of mutual humiliation'",
-      "description": "In an interview with Le Monde, researcher Marie Durrieu analyzes the central role that humiliating an adversary plays in international relations.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/06/05/the-current-war-between-iran-and-the-us-stems-from-decades-of-mutual-humiliation_6754153_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-04T22:32:21Z",
-      "image": "https://img.lemde.fr/2026/03/05/114/0/1500/750/644/322/60/0/32e42c9_upload-1-6kdnma8rsdxb-frame-1463.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

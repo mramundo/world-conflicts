@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T15:32:03Z",
+  "updated": "2026-06-06T16:29:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-06T15:31:59Z",
+      "publishedAt": "2026-06-06T16:29:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -31,6 +31,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -0f26ab08ad65",
+      "title": "Israeli strike kills at least six people during wedding in Gaza",
+      "description": "At least 15 people were injured in the attack on a tent camp in Gaza City, according to local medical sources.",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-06T14:38:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260207__96HJ38F__v1__HighRes__PalestinianIsraelConflictGaza-1780756613.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -77,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -eadb1f0bcc3e",
-      "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
-      "description": "Violence in the West Bank has escalated since Israel began its war on Gaza in 2023.",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-06T10:52:07Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AA-20260605-41591918-41591917-7MONTHOLD_PALESTINIAN_BABY_LOST_HIS_LIFE_AFTER_AN_ISRAELI_ATTACK_IN_HEBRON-1780706177.jpg?resize=1200%2C630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

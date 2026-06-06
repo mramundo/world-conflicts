@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T01:46:38Z",
+  "updated": "2026-06-06T03:13:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-06T01:46:34Z",
+      "publishedAt": "2026-06-06T03:13:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -fef0d58e0e22",
+      "title": "By writing to Putin, Zelensky addresses the Russian elites who are weary of the war in Ukraine",
+      "description": "Behind the offer of an outstretched hand, the Ukrainian president's letter to the Russian leader seeks to exploit Moscow's vulnerabilities and the Russian people's exhaustion after four years of high-intensity war. His initiative comes as his European partners are attempting to regain control of peace talks that the Tr…",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/06/by-writing-to-putin-zelensky-addresses-the-russian-elites-who-are-weary-of-the-war-in-ukraine_6754198_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-06T03:00:14Z",
+      "image": "https://img.lemde.fr/2026/06/03/636/0/3969/1984/644/322/60/0/a015081_ftp-1-ehwjlulig6ms-5213135-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -154,21 +169,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -7cb709e6ce4d",
-      "title": "War in Ukraine: Russia fired Oreshnik missile on city occupied by its own forces",
-      "description": "Russian President Vladimir Putin claimed on Thursday that a failed strike with an intermediate-range ballistic missile on a Russian-occupied city in eastern Ukraine on May 23 was actually 'experimental.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/05/war-in-ukraine-russia-fired-oreshnik-missile-on-city-occupied-by-its-own-forces_6754168_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-05T09:14:55Z",
-      "image": "https://img.lemde.fr/2026/06/04/333/0/2000/1000/644/322/60/0/92b0e59_upload-1-ygbzra1yai8m-000-b3vt4nv.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

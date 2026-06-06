@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T16:29:19Z",
+  "updated": "2026-06-06T17:31:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-06T16:29:15Z",
+      "publishedAt": "2026-06-06T17:31:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-ae7e74652f47",
+      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+      "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-06T17:12:39Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,16 +51,16 @@
     },
     {
       "id": "al -0f26ab08ad65",
-      "title": "Israeli strike kills at least six people during wedding in Gaza",
-      "description": "At least 15 people were injured in the attack on a tent camp in Gaza City, according to local medical sources.",
+      "title": "Israeli attack on Gaza City tent camp kills at least six",
+      "description": "At least 15 people also wounded in strike on site housing displaced people as wedding was under way nearby, locals say.",
       "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-06-06T14:38:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260207__96HJ38F__v1__HighRes__PalestinianIsraelConflictGaza-1780756613.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a244e77-1780764279.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,21 +77,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-ae7e74652f47",
-      "title": "Lebanon says three soldiers killed in Israeli attack on car",
-      "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-06T10:57:28Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

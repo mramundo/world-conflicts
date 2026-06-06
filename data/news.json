@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T08:58:57Z",
+  "updated": "2026-06-06T09:47:18Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-06T08:58:53Z",
+      "publishedAt": "2026-06-06T09:47:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -46,6 +46,21 @@
         "conflict"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-4b4a7299ce96",
+      "title": "Lebanon’s army says Israeli strike killed general, captain and another soldier",
+      "description": "Hezbollah drone falls near IDF troops in south Lebanon after triggering sirens in northern Israel, military says * Iranian FM rejects Lebanese president's accusation of interference by Tehran, tells him to focus on 'real foe' The post Lebanon&#8217;s army says Israeli strike killed general, captain and another soldier …",
+      "url": "https://www.timesofisrael.com/liveblog-june-06-2026/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-06T00:13:55Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/HKHjxn7XwAAQK_6-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -112,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "tim-2b140ed0357d",
-      "title": "Lebanese president says Iran using his country as ‘bargaining chip’ in talks with US",
-      "description": "Aoun asks, 'Aren't you fed up with war since 1948?'; Beirut parliament speaker backs pullout of both ally Hezbollah and IDF from south Lebanon; IDF chief Zamir reportedly tells ministers: Better a Lebanon ceasefire now, than in a month under same terms The post Lebanese president says Iran using his country as &#8216;b…",
-      "url": "https://www.timesofisrael.com/lebanese-president-says-iran-using-his-country-as-bargaining-chip-in-talks-with-us/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-05T17:21:07Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26114485260260-e1780072477667-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-f2a303bacf4c",
       "title": "Israel strikes southern Lebanon after ordering evacuations of nine villages",
       "description": "Thousands flee including from village hosting at least 2,500 displaced people, one day after Hezbollah rejects ceasefireThousands fled their homes after Israel issued forced evacuation orders for nine villages in southern Lebanon before strikes that killed six people on Friday, a day after the Hezbollah militant group …",
@@ -173,6 +173,22 @@
       "tags": []
     },
     {
+      "id": "rfe-b991a1f82247",
+      "title": "From Iran To Ukraine: How Asymmetric Warfare Is Challenging Conventional Military Power",
+      "description": "From Ukraine to Tehran, asymmetric warfare is redefining the modern battlefield. Superiority is no longer measured solely by jets and naval fleets, but by inexpensive unmanned drones.",
+      "url": "https://www.rferl.org/a/drones-iran-ukraine-russia-houthis-hezbollah/33772693.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-05T08:52:16Z",
+      "image": "https://gdb.rferl.org/1d5a17a9-dffb-4038-61de-08de3c91433d_cx0_cy6_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "kyi-a1d4145b33f6",
       "title": "Ukraine’s Drone War Is Rewriting the Rules of Modern Combat – Canada is Ready to Partner",
       "description": "Ukraine’s rapid military innovation, particularly in drone warfare, is redefining modern combat, wrote Canadian Ambassador to Ukraine Natalka Cmoc. She also discussed a new bilateral agreement to co-produce drones in Canada and explained why Ukraine’s decentralized, tech-driven battlefield approach offers key lessons f…",
@@ -201,22 +217,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-cd5b81255f4e",
-      "title": "'No Way Out': Russia Sends Badly Wounded Men Back Into Battle In Ukraine",
-      "description": "As Russia struggles to replace soldiers being killed in high numbers in the fifth year of its full-scale invasion of Ukraine, these is mounting evidence of the military returning men to the war despite severe injuries and, sometimes, medical findings saying they are not fit for further service.",
-      "url": "https://www.rferl.org/a/russia-ukraine-war-casualties-wounded-return/33771000.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-04T06:56:45Z",
-      "image": "https://gdb.rferl.org/01000000-0aff-0242-5aa0-08dc7bdd3a42_cx0_cy5_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
       "tags": []
     },
     {

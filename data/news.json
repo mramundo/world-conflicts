@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T11:34:26Z",
+  "updated": "2026-06-06T12:35:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-06T11:34:23Z",
+      "publishedAt": "2026-06-06T12:35:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-ae7e74652f47",
+      "title": "Lebanon says three soldiers killed in Israeli attack on car",
+      "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-06T10:57:28Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,33 +96,17 @@
       "tags": []
     },
     {
-      "id": "bbc-fa8ad9599e21",
-      "title": "Why are devastating mice plagues happening in Australia?",
-      "description": "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
-      "url": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-05T22:01:20Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4857/live/cef03b80-6095-11f1-b682-cf91850925ea.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -b9356f6a4470",
-      "title": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
-      "description": "A drone attack killed a young woman and injured 15 others near Khan Younis, reported the Wafa news agency.",
-      "url": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
+      "id": "al -06f8adbdd16b",
+      "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
+      "description": "Israel kills two Lebanese army officers, one soldier, and issues more forced displacement orders for southern Lebanon.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-05T20:17:35Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2321b0420e-1780687280.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-06T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-05-30T075830Z_2019755876_RC2JJLAL2ZPQ_RTRMADP_3_IRAN-CRISIS-1780702840.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -118,7 +117,7 @@
       "url": "https://www.csmonitor.com/World/Europe/2026/0605/ukraine-war-volunteer-bravery-european-values?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-05T20:17:27Z",
-      "image": null,
+      "image": "https://images.csmonitor.com/csm/2026/05/0527_OUKRWRITER_Anastasia_lede.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
@@ -220,18 +219,17 @@
       "tags": []
     },
     {
-      "id": "un -26e55dc2066e",
-      "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war",
-      "description": "Children in Ukraine have been profoundly impacted by years of war, sheltering in underground schools – or forced to study online – and living with the psychological strain of constant air raid sirens that could spell death for them and their families.",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167641",
+      "id": "un -3427e3b8bbb5",
+      "title": "Undeclared chemical weapons found in Syria, including type used in notorious Ghouta massacre",
+      "description": "Chemical weapons inspectors have uncovered a significant cache of previously undeclared chemical weapons in Syria – including rockets of the same type used in the notorious 2013 Ghouta attack – in what the UN’s top disarmament official called a “momentous discovery” for international security.",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167652",
       "source": "UN News",
-      "publishedAt": "2026-06-03T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026_Ukraine%20Frazier%202.jpg/image560x340cropped.jpg",
+      "publishedAt": "2026-06-04T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-02-2022_UNICEF_Syria.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     }

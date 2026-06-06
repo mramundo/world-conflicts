@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T09:47:18Z",
+  "updated": "2026-06-06T10:41:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-06T09:47:14Z",
+      "publishedAt": "2026-06-06T10:41:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -81,6 +81,21 @@
       "tags": []
     },
     {
+      "id": "al -b9356f6a4470",
+      "title": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
+      "description": "A drone attack killed a young woman and injured 15 others near Khan Younis, reported the Wafa news agency.",
+      "url": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-05T20:17:35Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2321b0420e-1780687280.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -8ebba560cfff",
       "title": "A battlefield volunteer in Ukraine war has a story. She wants Europe to hear it.",
       "description": "Anastasia Fomitchova left her life in Paris to join the fight for her native Ukraine. She was inspired to write a book about the bravery and unflinching humanity of those she served alongside as a medic. Her message to Europeans: It’s their war, too.",
@@ -93,22 +108,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -2bb857cd450d",
-      "title": "Is the latest US ceasefire deal for Lebanon meaningless?",
-      "description": "Israel and Hezbollah continue fighting after truce announcement.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-05T18:45:16Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780682559.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

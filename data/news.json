@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T05:23:32Z",
+  "updated": "2026-06-06T07:11:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-06T05:23:28Z",
+      "publishedAt": "2026-06-06T07:11:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -32,6 +32,22 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-fa8ad9599e21",
+      "title": "Why are devastating mice plagues happening in Australia?",
+      "description": "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
+      "url": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-05T22:01:20Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4857/live/cef03b80-6095-11f1-b682-cf91850925ea.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -63,21 +79,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-71d9e174a95a",
-      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "description": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
-      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-05T18:16:15Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -127,10 +128,10 @@
       "tags": []
     },
     {
-      "id": "deu-13c77b46a52f",
-      "title": "Kosovo general election: the cost of political polarization",
-      "description": "Sunday's election in Kosovo — the third in under 16 months — is marked by a clash between former allies PM Albin Kurti and ex-President Vjosa Osmani, deadlock in the dialogue with Serbia and obstacles to EU integration.",
-      "url": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-world-4025-rdf",
+      "id": "deu-80751e4fea0a",
+      "title": "Successive elections take a hit on Kosovo's coffers",
+      "description": "Sunday's election in Kosovo — the third in under 16 months — is marked by a clash between former allies PM Albin Kurti and ex-President Vjosa Osmani, deadlock in the dialogue with Serbia, and obstacles to EU integration.",
+      "url": "https://www.dw.com/en/successive-elections-take-a-hit-on-kosovo-s-coffers/a-77390725?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-06-05T14:55:00Z",
       "image": "https://static.dw.com/image/75319578_6.jpg",

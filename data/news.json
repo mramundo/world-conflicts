@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T17:31:44Z",
+  "updated": "2026-06-06T18:33:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-06T17:31:41Z",
+      "publishedAt": "2026-06-06T18:33:08Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -52,7 +52,7 @@
     {
       "id": "al -0f26ab08ad65",
       "title": "Israeli attack on Gaza City tent camp kills at least six",
-      "description": "At least 15 people also wounded in strike on site housing displaced people as wedding was under way nearby, locals say.",
+      "description": "Latest Israeli attack comes as Hamas readies for meetings in Egypt on full implementation of Gaza &#039;ceasefire&#039; agreement.",
       "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-06-06T14:38:50Z",
@@ -60,7 +60,22 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-b1da19d6b0d9",
+      "title": "Iran, 'gli attacchi Usa sono una violazione flagrante del cessate il fuoco'",
+      "description": "Il ministero degli Esteri conferma attacco 'alla sovranità nazionale'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/06/iran-gli-attacchi-usa-sono-una-violazione-flagrante-del-cessate_05ea854f-121c-4121-849c-6359dea1a065.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-06T13:55:45Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/5/f40761c1100cb69b6b70fea7681170fc.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -138,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-0cf1a1dc4654",
-      "title": "Zelensky, 'Putin oggi ha scelto la guerra'",
-      "description": "'Tutti hanno sentito la risposta, una risposta debole'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/05/zelensky-putin-oggi-ha-scelto-la-guerra_a218fb49-65a4-4fa8-8316-9629d8c518de.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-05T17:24:39Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/3/1127776e6d6714a0e9a027f58b7707ba.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

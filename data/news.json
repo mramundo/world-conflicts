@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T23:27:19Z",
+  "updated": "2026-06-07T01:04:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-06T23:27:14Z",
+      "publishedAt": "2026-06-07T01:04:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -31,6 +31,21 @@
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-ad338955ec13",
+      "title": "Two IDF soldiers killed in southern Lebanon as fighting against Hezbollah continues",
+      "description": "Army says Cpt. Shahar Gamla, 23, of elite Egoz Unit was severely hurt by drone, later succumbed to wounds; Sgt. Ohad Yaari, 21, killed by suspected accidental gunfire The post Two IDF soldiers killed in southern Lebanon as fighting against Hezbollah continues appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/two-idf-soldiers-killed-in-separate-incidents-in-south-lebanon-as-fighting-continues/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-06T21:49:02Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/FotoJet5-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -92,21 +107,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-d2aba8794898",
-      "title": "The violent ultra-Orthodox fight against the draft is an ostensible holy war against the state",
-      "description": "The shocking attack on Justice Noam Sohlberg’s home underlines that extremists view the enlistment battle as a religious crusade, in which there can and will be no compromise The post The violent ultra-Orthodox fight against the draft is an ostensible holy war against the state appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/the-violent-ultra-orthodox-fight-against-the-draft-is-a-holy-war-against-the-state/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-06T11:01:59Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/20260603-F260603CG118-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

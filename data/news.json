@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T17:33:41Z",
+  "updated": "2026-06-07T18:33:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-07T17:33:38Z",
+      "publishedAt": "2026-06-07T18:33:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -35,6 +35,21 @@
       "tags": []
     },
     {
+      "id": "fra-e710656ea7c4",
+      "title": "Armenia's parliamentary election a vote on nation's 'geopolitical future'",
+      "description": "Armenians voted on Sunday in a parliamentary election seen as a test of the government's efforts to forge a peace deal following a crushing military defeat by Azerbaijan three years ago. \"This is really a vote on the geopolitical future of Armenia and its ties with Russia,\" FRANCE 24's Philip Turle said in an analysis.…",
+      "url": "https://www.france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future",
+      "source": "France24",
+      "publishedAt": "2026-06-07T15:34:21Z",
+      "image": "https://s.france24.com/media/display/94863476-6285-11f1-a697-005056bfb2b6/w:1024/p:16x9/EN-20260607-160542-160905-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "tim-cf3d1f12ecbc",
       "title": "IDF strikes Beirut’s Dahiyeh after Hezbollah fires rockets at northern Israel",
       "description": "Lebanese media says 2 killed, 11 wounded; strike was reportedly coordinated with US; Netanyahu says Hezbollah is 'in retreat' amid IDF offensive in south The post IDF strikes Beirut&#8217;s Dahiyeh after Hezbollah fires rockets at northern Israel appeared first on The Times of Israel.",
@@ -52,7 +67,7 @@
     {
       "id": "the-220c4105075c",
       "title": "Iran vows ‘painful’ response after Israel strikes Beirut’s southern suburbs",
-      "description": "Tehran official says US bases and assets are ‘legitimate targets’ following Israeli bombing of apartment buildingsMiddle East crisis – live updatesA senior Iranian official has promised a “decisive and painful” response to Israel’s airstrikes on the southern suburbs of Beirut, the most serious escalation in the war in …",
+      "description": "Tehran official says US bases and assets are ‘legitimate targets’ after Israeli bombing of apartment buildingsMiddle East crisis – live updatesA senior Iranian official has promised a “decisive and painful” response to Israel’s airstrikes on the southern suburbs of Beirut, the most serious escalation in the war in Leba…",
       "url": "https://www.theguardian.com/world/2026/jun/07/israel-escalates-war-hezbollah-airstrikes-beirut",
       "source": "The Guardian",
       "publishedAt": "2026-06-07T14:49:37Z",
@@ -107,21 +122,6 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-235843080c3b",
-      "title": "Zelensky ignites fury by honouring Ukrainian WWII fighters who massacred Poles and Jews",
-      "description": "Ukrainian President Volodymyr Zelensky’s decision to name a military unit after a World War II-era militia infamous for massacring Poles and Jews has led to a sharp spike in tensions between Kyiv and Warsaw.",
-      "url": "https://www.france24.com/en/europe/20260607-why-zelensky-celebration-of-wwii-era-nationalist-guerrillas-is-causing-tension-with-poland",
-      "source": "France24",
-      "publishedAt": "2026-06-07T05:40:47Z",
-      "image": "https://s.france24.com/media/display/3c8cb606-60f9-11f1-a3ca-005056a90284/w:1024/p:16x9/000-B3Y9967.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

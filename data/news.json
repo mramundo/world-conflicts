@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T18:33:50Z",
+  "updated": "2026-06-07T19:34:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-07T18:33:46Z",
+      "publishedAt": "2026-06-07T19:34:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -1f8a47bdc025",
+      "title": "Israel strikes Beirut’s southern suburbs days after US-backed ceasefire deal",
+      "description": "The strikes come days after a ceasefire agreement in Washington. Iran had warned that an attack on Beirut would renew full-scale war across the Mideast. Iran’s powerful parliament speaker hints at retaliation.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0607/israel-lebanon-hezbollah-iran-trump-ceasefire-peace?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-06-07T19:12:40Z",
+      "image": "https://images.csmonitor.com/csm/2026/06/1213905_1_0607-lebanon_standard.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -170,21 +185,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -8ebba560cfff",
-      "title": "A battlefield volunteer in Ukraine war has a story. She wants Europe to hear it.",
-      "description": "Anastasia Fomitchova left her life in Paris to join the fight for her native Ukraine. She was inspired to write a book about the bravery and unflinching humanity of those she served alongside as a medic. Her message to Europeans: It’s their war, too.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0605/ukraine-war-volunteer-bravery-european-values?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-06-05T20:17:27Z",
-      "image": "https://images.csmonitor.com/csm/2026/05/0527_OUKRWRITER_Anastasia_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T19:47:54Z",
+  "updated": "2026-06-08T20:57:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/china-s-solar-panel-giants-bleed-red-ink-on-oversupply-price-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-08T19:47:51Z",
+      "publishedAt": "2026-06-08T20:57:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F9%2F6%2F0%2F12590695-2-eng-GB%2Fcea72a613b03-photo_SXM2026060500006831.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -25,12 +25,27 @@
       "description": "Joseph Aoun says Lebanon is in talks about a non-aggression agreement and tells Israel a military solution is not an option for long-lasting securityIranian media is reporting that there were no immediate casualties following apparent Israeli strikes on the Karun petrochemical plant in Mahshahr, a city in Iran’s southw…",
       "url": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
       "source": "The Guardian",
-      "publishedAt": "2026-06-08T19:21:40Z",
+      "publishedAt": "2026-06-08T20:37:25Z",
       "image": "https://i.guim.co.uk/img/media/95bd80096ca83da4cf359911b9adf2e3c72db597/431_0_1617_1294/master/1617.jpg?width=140&quality=85&auto=format&fit=max&s=f3bf4faf7305e5c5aa0bba3e635f0051",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-65e92bd8eaca",
+      "title": "Trump storms out of NBC interview after denying his own “No War” promises",
+      "description": "Donald Trump stormed off from his interview for NBC’s “Meet the Press,\" after he was fact-checked on his false claims about election fraud by reporter Kristen Welker. She also asked him about the Iran war, his controversial \"anti-weaponization\" fund and the cost of living, though Trump made a serious of false and exagg…",
+      "url": "https://www.france24.com/en/trump-storms-out-of-nbc-interview-after-denying-his-own-no-war-promises",
+      "source": "France24",
+      "publishedAt": "2026-06-08T19:51:07Z",
+      "image": "https://s.france24.com/media/display/95727f8a-636f-11f1-baec-005056a90284/w:1024/p:16x9/capture-10714785276a2716c8216517-64522364.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,21 +96,6 @@
       "tags": []
     },
     {
-      "id": "fra-99f57a528551",
-      "title": "Despite tension over war flare-up, fallout between Trump and Netanyahu unlikely",
-      "description": "Israel and Iran exchanged fire for the first time since the start of the truce on June 7, despite US President Donald Trump repeatedly warning Israeli PM Benjamin Netanyahu against launching strikes on Iran. Could that be the first sign of a fallout between the two leaders? FRANCE 24's Angela Diffley tells us more.",
-      "url": "https://www.france24.com/en/despite-tension-over-war-flare-up-fallout-between-trump-and-netanyahu-unlikely",
-      "source": "France24",
-      "publishedAt": "2026-06-08T14:04:34Z",
-      "image": "https://s.france24.com/media/display/e85dc164-5f5a-11f1-a222-005056a97e36/w:1024/p:16x9/2026-05-25T101307Z-194946531-RC2KQIA2JPPH-RTRMADP-3-IRAN-CRISIS-ISRAEL-NETANYAHU.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -2301221124f5",
       "title": "Talented flutist turned epidemiology engineer stands trial for joining IS with her family",
       "description": "Under her husband's influence, Camille F. moved to Syria, where she spent nine years enduring war and loss before being repatriated with her five children in 2022. She is standing trial in Paris starting Monday.",
@@ -107,6 +107,22 @@
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -0d720e00d6e8",
+      "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening",
+      "description": "The Security Council met on Monday amid a sharp escalation in hostilities across Ukraine, where UN officials warned that the war has reached its deadliest point since Russia’s full-scale invasion in 2022. Briefing members, Rosemary DiCarlo, Under-Secretary-General for political affairs, said recent months had seen some…",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167674",
+      "source": "UN News",
+      "publishedAt": "2026-06-08T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-12-2025-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -179,21 +195,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-06-07T19:12:40Z",
       "image": "https://images.csmonitor.com/csm/2026/06/1213905_1_0607-lebanon_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -b97fa73e239c",
-      "title": "From firefights to football matches: Life on a UN peacekeeping frontline",
-      "description": "Night has fallen over the town of Zémio, in the east of the Central African Republic. In a few hours, the December 2025 presidential election is due to take place, but the rebels of the “Azande Ani Kpi Gbe” (AAKG) militia have launched an offensive to seize the city and derail the polls.",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167666",
-      "source": "UN News",
-      "publishedAt": "2026-06-07T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/05-06-2026-MINUSCA-CAR-09.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T09:43:47Z",
+  "updated": "2026-06-08T11:41:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-08T09:43:42Z",
+      "publishedAt": "2026-06-08T11:41:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -21,16 +21,46 @@
     },
     {
       "id": "the-a21ba59a3156",
-      "title": "Middle East crisis live: Israel and Iran exchange fresh round of strikes for first time since April ceasefire",
-      "description": "Israel says it expects several days of fighting after it struck military targets in Iran in response to attacks by TehranIsrael strikes Iran despite Trump plea as Middle East crisis threatens to escalateIranian media is reporting that there were no immediate casualties following apparent Israeli strikes on the Karun pe…",
+      "title": "Middle East crisis live: Iran announces end of attacks against Israel as Trump claims both sides ‘looking to do an immediate ceasefire’",
+      "description": "US president says ‘final peace negotiations’ under way despite countries firing at each other for first time since April ceasefireIsrael strikes Iran despite Trump plea as Middle East crisis threatens to escalateIranian media is reporting that there were no immediate casualties following apparent Israeli strikes on the…",
       "url": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
       "source": "The Guardian",
-      "publishedAt": "2026-06-08T09:26:09Z",
+      "publishedAt": "2026-06-08T11:33:29Z",
       "image": "https://i.guim.co.uk/img/media/95bd80096ca83da4cf359911b9adf2e3c72db597/431_0_1617_1294/master/1617.jpg?width=140&quality=85&auto=format&fit=max&s=f3bf4faf7305e5c5aa0bba3e635f0051",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-ffee22644572",
+      "title": "Israel, Iran trade fire in first clash since truce",
+      "description": "Iran and Israel on Monday attacked each other's territory for the first time since a shaky ceasefire put five weeks of war on hold, sparking fears the escalation could spark a new full-scale conflict. Iran fired a barrage of missiles at Israel overnight and Israel responded by targeting military sites in the Islamic re…",
+      "url": "https://www.france24.com/en/video/20260608-israel-iran-trade-fire-in-first-clash-since-truce",
+      "source": "France24",
+      "publishedAt": "2026-06-08T11:22:38Z",
+      "image": "https://s.france24.com/media/display/cdd0bc8e-6329-11f1-aaa5-005056a90284/w:1024/p:16x9/mini-11.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-c00dc545c993",
+      "title": "Rail Service Suspended in Parts of Crimea After Deadly Drone Attack on Train",
+      "description": "Authorities said a Ukrainian drone killed the assistant driver of a train traveling from Moscow to Simferopol, the peninsula’s second-largest city.",
+      "url": "https://www.themoscowtimes.com/2026/06/08/rail-service-suspended-in-parts-of-crimea-after-deadly-drone-attack-on-train-a92950",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-06-08T08:40:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/71/92950__71b4527c7a2a078db8988f97d95a6f9a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,30 +80,29 @@
       "tags": []
     },
     {
-      "id": "al -8910001cfd69",
-      "title": "‘Homes turned into ovens’: Millions of Yemenis swelter amid heat, blackouts",
-      "description": "Millions of Yemenis grapple with a heatwave as power cuts add to the suffering of people in the war-torn nation.",
-      "url": "https://www.aljazeera.com/features/2026/6/8/homes-turned-into-ovens-millions-of-yemenis-swelter-amid-heat-blackouts?traffic_source=rss",
+      "id": "al -4e699fd03359",
+      "title": "How Lebanon and Iran’s war of words became backdrop for latest Israel clash",
+      "description": "Iran had warned that talks could be stopped and attacks would resume if Israel continued to hit Lebanon.",
+      "url": "https://www.aljazeera.com/features/2026/6/8/how-lebanon-and-irans-war-of-words-became-backdrop-for-latest-israel-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-08T07:42:28Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20240613__34WL3QM__v2__MidRes__YemenConflictDisplacedWaterWeatherHeatWave-1780489702.jpg?resize=1800%2C1200&amp;quality=80",
+      "publishedAt": "2026-06-08T07:26:39Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26157677353691-1780818181.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
-        "humanitarian",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     },
     {
       "id": "npr-52e74a8ef4f7",
       "title": "Israel and Iran exchange missile fire threatening Middle East truce",
-      "description": "The exchange marked a major escalation in the already tense region. It came on the 100th day of the U.S. and Israel's war with Iran as the heightened tensions further complicated efforts to end Middle East fighting.",
+      "description": "The exchange marked a major escalation in the already tense region. It came on the 100th day of a war that began on Feb., further complicating efforts to end Middle East fighting.",
       "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
       "source": "NPR World",
       "publishedAt": "2026-06-08T04:23:36Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6805x4536+0+0/resize/6805x4536!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2Faf%2F98649c214f3eaa2638a34bce3421%2Fap26158789187369.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7504x5002+0+0/resize/7504x5002!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2F38%2F1f34d4f2417b8a0bfd1fe552c38d%2Fap26159264704352.jpg",
       "categories": [
         "conflict"
       ],
@@ -94,22 +123,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -2eb9be7a6d2d",
-      "title": "Farida Rustamova: 'Putin is at an impasse, unable to win or abandon this war'",
-      "description": "Despite the Russian president's refusal to meet with his Ukrainian counterpart, exiled Russian political scientist Farida Rustamova sees signs that the Russian leader may be open to negotiations, which she shares in an interview.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/06/08/farida-rustamova-putin-is-at-an-impasse-unable-to-win-or-abandon-this-war_6754233_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-07T23:00:07Z",
-      "image": "https://img.lemde.fr/2026/06/06/565/0/3205/1602/644/322/60/0/9bf5442_ftp-1-kysb9zkrwfjg-2026-06-06t012615z-562978811-rc2qnlaro5gv-rtrmadp-3-russia-forum-putin.JPG",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -141,21 +154,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-616fd050d951",
-      "title": "Iran launches missiles at Israel in first bombardment since fragile ceasefire",
-      "description": "Air raid sirens sounded in Israel on Sunday night as its military worked to intercept barrages of incoming Iranian missiles for the first time since a fragile ceasefire took effect in early April. The Iranian missile attack was in retaliation for deadly Israeli strikes in Beirut's southern suburbs earlier Sunday as the…",
-      "url": "https://www.france24.com/en/middle-east/20260607-iran-launches-missiles-at-israel-in-first-bombardment-since-fragile-ceasefire",
-      "source": "France24",
-      "publishedAt": "2026-06-07T21:15:29Z",
-      "image": "https://s.france24.com/media/display/d7fdf5d0-62b3-11f1-8e57-005056bfb2b6/w:1024/p:16x9/000-B6B32XU.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -205,6 +203,21 @@
       "tags": []
     },
     {
+      "id": "le -13749ee45e01",
+      "title": "'No one was prepared for what was about to happen': Gaza flotilla activist speaks about violence she suffered in Israel",
+      "description": "The French courts have launched an investigation into 'torture' and 'war crimes' following a foreign ministry report on Israel's treatment of French nationals in the Gaza flotilla. One of them, Malika Baouya, said Israeli soldiers tortured her.",
+      "url": "https://www.lemonde.fr/en/france/article/2026/06/07/no-one-was-prepared-for-what-was-about-to-happen-gaza-flotilla-activist-speaks-about-violence-she-suffered-in-israel_6754213_7.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-06T22:08:01Z",
+      "image": "https://img.lemde.fr/2026/06/06/1688/0/4500/2250/644/322/60/0/57f433e_upload-1-syxrepcaafv3-monge-myop-flotille-10.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-61d59f6c283d",
       "title": "Hunger in Oleshky: Ukraine asks for evacuation",
       "description": "The Ukrainian city of Oleshky has been occupied by Russian troops since 2022. Many residents are cut off from the outside world and living in dire conditions. Now, Kyiv wants to rescue them.",
@@ -217,21 +230,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-468a19efae5f",
-      "title": "At Least 7 Killed in Overnight Russian Attacks Against Ukraine",
-      "description": "Kyiv region Governor Mykola Kalashnyk said four people were killed in an attack on a factory that makes dairy products for children.",
-      "url": "https://www.themoscowtimes.com/2026/06/05/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-06-05T10:00:43Z",
-      "image": "https://static.themoscowtimes.com/image/og/a9/92938__a9949276fc73fa2bb0bc9146fe80958c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

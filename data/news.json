@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T21:38:52Z",
+  "updated": "2026-06-08T22:35:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/china-s-solar-panel-giants-bleed-red-ink-on-oversupply-price-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-08T21:38:47Z",
+      "publishedAt": "2026-06-08T22:35:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F9%2F6%2F0%2F12590695-2-eng-GB%2Fcea72a613b03-photo_SXM2026060500006831.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,12 +20,28 @@
       "tags": []
     },
     {
+      "id": "fra-7bbef996d819",
+      "title": "Zelensky says he had 'positive' talks with Trump envoys on Ukraine war",
+      "description": "Ukrainian President Volodymyr Zelensky said he held a positive conversation with US envoys Steve Witkoff and Jared Kushner on Monday, signalling renewed efforts to advance diplomacy over the war with Russia. The call came as European leaders backed a proposed meeting between Zelensky and Vladimir Putin to seek a ceasef…",
+      "url": "https://www.france24.com/en/europe/20260608-zelensky-says-he-had-positive-talks-with-trump-envoys-on-ukraine-war",
+      "source": "France24",
+      "publishedAt": "2026-06-08T22:09:25Z",
+      "image": "https://s.france24.com/media/display/dd16aa3c-da3f-11f0-b884-005056a97e36/w:1024/p:16x9/2025-12-15T191835Z-1010282262-RC26HIA43C1P-RTRMADP-3-UKRAINE-CRISIS-GERMANY-ZELENSKIY.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-a21ba59a3156",
-      "title": "Middle East crisis live: Lebanon’s president refuses to meet Netanyahu until war ends",
-      "description": "Joseph Aoun says Lebanon is in talks about a non-aggression agreement and tells Israel a military solution is not an option for long-lasting securityIranian media is reporting that there were no immediate casualties following apparent Israeli strikes on the Karun petrochemical plant in Mahshahr, a city in Iran’s southw…",
+      "title": "Lebanon’s president refuses to meet Netanyahu until war ends – as it happened",
+      "description": "This live blog is now closed. For the latest, read more of our coverage on the Middle East conflict here. Iranian media is reporting that there were no immediate casualties following apparent Israeli strikes on the Karun petrochemical plant in Mahshahr, a city in Iran’s southwestern Khuzestan province.According to the …",
       "url": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
       "source": "The Guardian",
-      "publishedAt": "2026-06-08T20:37:25Z",
+      "publishedAt": "2026-06-08T22:04:23Z",
       "image": "https://i.guim.co.uk/img/media/95bd80096ca83da4cf359911b9adf2e3c72db597/431_0_1617_1294/master/1617.jpg?width=140&quality=85&auto=format&fit=max&s=f3bf4faf7305e5c5aa0bba3e635f0051",
       "categories": [
         "conflict"
@@ -46,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-65e92bd8eaca",
-      "title": "Trump storms out of NBC interview after denying his own “No War” promises",
-      "description": "Donald Trump stormed off from his interview for NBC’s “Meet the Press,\" after he was fact-checked on his false claims about election fraud by reporter Kristen Welker. She also asked him about the Iran war, his controversial \"anti-weaponization\" fund and the cost of living, though Trump made a serious of false and exagg…",
-      "url": "https://www.france24.com/en/trump-storms-out-of-nbc-interview-after-denying-his-own-no-war-promises",
-      "source": "France24",
-      "publishedAt": "2026-06-08T19:51:07Z",
-      "image": "https://s.france24.com/media/display/95727f8a-636f-11f1-baec-005056a90284/w:1024/p:16x9/capture-10714785276a2716c8216517-64522364.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T05:41:35Z",
+  "updated": "2026-06-08T07:53:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-08T05:41:32Z",
+      "publishedAt": "2026-06-08T07:53:43Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F1%2F6%2F1%2F12551612-2-eng-GB%2F322eb701a0b8-UXO004.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,25 +20,56 @@
       "tags": []
     },
     {
-      "id": "al -1b758cdcce95",
-      "title": "Satellite images show destruction of the US-Israel war on Iran",
-      "description": "From Iranian naval ports to US military bases across the Gulf, Al Jazeera shows 15 sites before and after the attacks.",
-      "url": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran?traffic_source=rss",
+      "id": "al -8910001cfd69",
+      "title": "‘Homes turned into ovens’: Millions of Yemenis swelter amid heat, blackouts",
+      "description": "Millions of Yemenis grapple with a heatwave as power cuts add to the suffering of people in the war-torn nation.",
+      "url": "https://www.aljazeera.com/features/2026/6/8/homes-turned-into-ovens-millions-of-yemenis-swelter-amid-heat-blackouts?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-08T04:47:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/Screenshot-2026-06-07-at-8.17.45-AM-1780809535.png?resize=1200%2C630",
+      "publishedAt": "2026-06-08T07:42:28Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20240613__34WL3QM__v2__MidRes__YemenConflictDisplacedWaterWeatherHeatWave-1780489702.jpg?resize=1800%2C1200&amp;quality=80",
       "categories": [
         "conflict",
+        "humanitarian",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "isAnalysis": true,
       "tags": []
     },
     {
+      "id": "ans-eb14d3f24288",
+      "title": "Teheran accusa, 'Usa responsabili su violazione del cessate il fuoco'",
+      "description": "Baghaei: 'Centcom sostiene Israele in attività offensive e difensive'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/08/teheran-accusa-usa-responsabili-su-violazione-del-cessate-il-fuoco_e4b7080a-b4cf-4c74-bcbe-7b7178ec4b76.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-08T07:38:27Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/3/9e2506d1a98fdc02ccdf6bf644c7d4cc.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-52e74a8ef4f7",
+      "title": "Israel and Iran trade strikes, threatening to drag region back to full-scale war",
+      "description": "Israel and Iran traded fire early Monday in retaliatory strikes that threatened to drag the wider Middle East back into a full-scale war, while Yemen's Houthi rebels warned they would target Israel-affiliated ships in the Red Sea.",
+      "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
+      "source": "NPR World",
+      "publishedAt": "2026-06-08T04:23:36Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6805x4536+0+0/resize/6805x4536!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2Faf%2F98649c214f3eaa2638a34bce3421%2Fap26158789187369.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "tim-3f0c5e64ac20",
-      "title": "Trump ties Israel’s hands, as the partnership that went to war 100 days ago collapses",
-      "description": "Telling Israel it had better not respond to an Iranian missile attack, the US president -- desperate for a deal with the devilish Tehran regime -- presents Netanyahu with a terrible dilemma The post Trump ties Israel&#8217;s hands, as the partnership that went to war 100 days ago collapses appeared first on The Times o…",
+      "title": "Trump seeks to tie Netanyahu’s hands, as the partnership that went to war 100 days ago collapses",
+      "description": "Telling Israel it had better not respond to an Iranian missile attack, the US president — desperate for a deal with the devilish Tehran regime — presented the PM with a stark dilemma The post Trump seeks to tie Netanyahu&#8217;s hands, as the partnership that went to war 100 days ago collapses appeared first on The Tim…",
       "url": "https://www.timesofisrael.com/trump-ties-israels-hands-as-the-partnership-that-went-to-war-100-days-ago-collapses/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-07T23:53:33Z",
@@ -56,7 +87,7 @@
       "description": "Despite the Russian president's refusal to meet with his Ukrainian counterpart, exiled Russian political scientist Farida Rustamova sees signs that the Russian leader may be open to negotiations, which she shares in an interview.",
       "url": "https://www.lemonde.fr/en/opinion/article/2026/06/08/farida-rustamova-putin-is-at-an-impasse-unable-to-win-or-abandon-this-war_6754233_23.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-07T23:00:09Z",
+      "publishedAt": "2026-06-07T23:00:07Z",
       "image": "https://img.lemde.fr/2026/06/06/565/0/3205/1602/644/322/60/0/9bf5442_ftp-1-kysb9zkrwfjg-2026-06-06t012615z-562978811-rc2qnlaro5gv-rtrmadp-3-russia-forum-putin.JPG",
       "categories": [
         "conflict",
@@ -88,7 +119,7 @@
       "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-06-07T21:39:43Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8377/live/19ba4ba0-62b8-11f1-acb9-e1f505bb1661.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8efc/live/015de090-6302-11f1-b682-cf91850925ea.jpg",
       "categories": [
         "conflict"
       ],
@@ -128,21 +159,6 @@
       "tags": []
     },
     {
-      "id": "npr-6d181113a8c9",
-      "title": "Israel says Iran launched a missile at it, in a first during fragile ceasefire",
-      "description": "The attack would be the first since a fragile ceasefire took effect in early April, complicating mediation efforts for a deal to end the war.",
-      "url": "https://www.npr.org/2026/06/07/g-s1-126816/israel-iran-missile-ceasefire",
-      "source": "NPR World",
-      "publishedAt": "2026-06-07T19:56:27Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F09%2F0ed642314a04bd9269d049ad0756%2Fap26158514776892.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -1f8a47bdc025",
       "title": "Israel strikes Beirut’s southern suburbs days after US-backed ceasefire deal",
       "description": "The strikes come days after a ceasefire agreement in Washington. Iran had warned that an attack on Beirut would renew full-scale war across the Mideast. Iran’s powerful parliament speaker hints at retaliation.",
@@ -169,21 +185,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-e193f5066854",
-      "title": "Kiev, Putin ha sprecato l'occasione di uscire da una guerra senza via d'uscita",
-      "description": "Lo ha detto il ministro degli Esteri riferendosi al rifiuto di incontrare Zelensky",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/07/kiev-putin-ha-sprecato-loccasione-di-uscire-da-una-guerra-senza-via-duscita_28e203bb-d27b-4f22-a04b-3065610444ae.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-07T10:08:37Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/25/357d09107907ff3944261a19e549b356.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

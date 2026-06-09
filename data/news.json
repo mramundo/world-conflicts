@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T18:50:47Z",
+  "updated": "2026-06-09T19:44:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-s-8-year-low-oil-imports-cushion-iran-war-shock-to-global-prices",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-09T18:50:43Z",
+      "publishedAt": "2026-06-09T19:44:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F3%2F5%2F2%2F12592538-2-eng-GB%2F6602e72910b8-2018-08-31T000000Z_1558511804_RC13951C0EB0_RTRMADP_3_CHINA-CRUDE-FUTURES.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -3f0b53e396e4",
+      "title": "What will the fallout be from the unrest in Pakistan-administered Kashmir?",
+      "description": "Recent clashes between protesters and police killed at least 11 people.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-09T19:31:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781031713.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-0d6065971576",
+      "title": "Lebanon says 8 dead in strike on Tyre as Israel keeps up attacks on south",
+      "description": "Lebanon's health ministry said an Israeli airstrike on Tyre killed at least eight people on Tuesday, with the Israeli military warning the entire city to evacuate shortly after the strike. Lebanon's state-run National News Agency (NNA) reported raids on more than a dozen other locations across the country's south, as I…",
+      "url": "https://www.france24.com/en/lebanon-says-8-dead-in-strike-on-tyre-as-israel-keeps-up-attacks-on-south",
+      "source": "France24",
+      "publishedAt": "2026-06-09T19:19:37Z",
+      "image": "https://s.france24.com/media/display/2fe5edfa-6437-11f1-a84a-005056bf30b7/w:1024/p:16x9/EN-20260609-210106-210624-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -49,37 +80,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f1604a619ece",
-      "title": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon",
-      "description": "The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting.",
-      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-09T13:41:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a27f8a5596c-1781004453.jpg?resize=1920%2C1348",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-aa6a93757788",
-      "title": "Why Zelensky asked Russian oligarch Abramovich to test Putin’s appetite for talks",
-      "description": "Ukraine’s Volodymyr Zelensky has confirmed reports that he asked Roman Abramovich to pass on an offer of direct talks to Vladimir Putin. A Russian oligarch loyal to the Kremlin may be a surprise choice of messenger for Kyiv, but the former Chelsea owner has a history of acting as go-between since the start of Russia’s …",
-      "url": "https://www.france24.com/en/europe/20260609-why-zelensky-asked-russian-oligarch-roman-abramovich-to-test-putin-appetite-for-talks",
-      "source": "France24",
-      "publishedAt": "2026-06-09T12:33:02Z",
-      "image": "https://s.france24.com/media/display/99d11dfe-6345-11f1-b688-005056a97e36/w:1024/p:16x9/abramovich-zelensky-putin.png",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {

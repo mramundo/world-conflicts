@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T07:23:19Z",
+  "updated": "2026-06-09T09:16:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-s-8-year-low-oil-imports-cushion-iran-war-shock-to-global-prices",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-09T07:23:14Z",
+      "publishedAt": "2026-06-09T09:16:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F3%2F5%2F2%2F12592538-2-eng-GB%2F6602e72910b8-2018-08-31T000000Z_1558511804_RC13951C0EB0_RTRMADP_3_CHINA-CRUDE-FUTURES.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,73 @@
       "tags": []
     },
     {
-      "id": "al -3814a3281bf4",
-      "title": "Survivors recall Israeli raid that killed 274 in Gaza refugee camp",
-      "description": "Two years on, witnesses recount the June 2024 Israeli raid on Nuseirat refugee camp to free four captives.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/survivors-recall-israeli-raid-that-killed-274-in-gaza-refugee-camp?traffic_source=rss",
+      "id": "the-f90d601ba7ae",
+      "title": "Driver Killed in Moscow Region Car Explosion Near Site of General’s Assassination",
+      "description": "The bombing follows a string of assassination plots inside Russia targeting military officials, pro-war figures and Ukrainian defectors since the 2022 invasion of Ukraine.",
+      "url": "https://www.themoscowtimes.com/2026/06/09/driver-killed-in-moscow-region-car-explosion-near-site-of-generals-assassination-a92958",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-06-09T09:06:29Z",
+      "image": "https://static.themoscowtimes.com/image/og/c7/92958__c78913799698fe2ea7929876c991f3c3.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-59a155e7d538",
+      "title": "Conflicts around the globe hit highest levels since World War II, new report says",
+      "description": "A new report shows global conflicts surged in 2025, reaching levels not seen since World War II.",
+      "url": "https://www.npr.org/2026/06/09/nx-s1-5849221/conflicts-around-the-globe-hit-highest-levels-since-world-war-ii-new-report-says",
+      "source": "NPR World",
+      "publishedAt": "2026-06-09T08:44:31Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5849221",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-fd2dfbaab81a",
+      "title": "Idf, 'evacuare la città di Tiro e le zone circostanti'",
+      "description": "'Hezbollah ha violato il cessate il fuoco, via anche dai quartieri cristiani'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/09/idf-evacuare-la-citta-di-tiro-e-le-zone-circostanti_252f726f-2916-447f-9736-dec1275ea4c3.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-09T07:36:41Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/7/fda0651feaa1636479aef0c9b667918a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e7341abd1b39",
+      "title": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
+      "description": "Iran warns fighting could restart as tensions remain high and Trump urges Israel to protect the fragile ceasefire.",
+      "url": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-08T22:58:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1780959283.jpg?resize=1920%2C1080&amp;quality=80",
+      "publishedAt": "2026-06-09T07:25:06Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-08T073518Z_695446852_RC2UOLA9PS4L_RTRMADP_3_IRAN-CRISIS-1780918728.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-87c87dea3907",
+      "title": "Lebanon’s Aoun urges Israel to pursue talks, not war; says he won’t meet Netanyahu until deal signed",
+      "description": "Lebanese president says any agreement will be a non-aggression pact and not a peace deal, conditioning normalization of Jerusalem-Beirut ties on establishment of Palestinian state The post Lebanon&#8217;s Aoun urges Israel to pursue talks, not war; says he won&#8217;t meet Netanyahu until deal signed appeared first on …",
+      "url": "https://www.timesofisrael.com/lebanons-aoun-urges-israel-to-pursue-talks-not-war-says-he-wont-meet-netanyahu-until-deal-signed/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-08T23:54:25Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/3-combo-4-1024x640.jpeg",
       "categories": [
         "conflict"
       ],
@@ -66,51 +126,6 @@
       "tags": []
     },
     {
-      "id": "tim-2ab314f32907",
-      "title": "IDF strikes said to kill 6 in Gaza; Israel briefly closes crossings amid Iran fighting",
-      "description": "8-year-old boy reportedly among dead in Jabalia; IDF says 3 top Islamic Jihad operatives killed in weekend strike; Cairo talks between mediators, Palestinian factions continue The post IDF strikes said to kill 6 in Gaza; Israel briefly closes crossings amid Iran fighting appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-strikes-said-to-kill-6-in-gaza-israel-briefly-closes-crossings-amid-iran-fighting/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-08T19:02:14Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26159597403140-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-7083d11f390a",
-      "title": "Explained: Roman Abramovich's Behind-the-Scenes Role in Russia-Ukraine Peace Talks",
-      "description": "The billionaire recently traveled to Ukraine carrying messages between Moscow and Kyiv. It's not the first time he has been involved in peace efforts.",
-      "url": "https://www.themoscowtimes.com/2026/06/08/explained-roman-abramovichs-behind-the-scenes-role-in-russia-ukraine-peace-talks-a92952",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-06-08T15:29:45Z",
-      "image": "https://static.themoscowtimes.com/image/og/ed/92952__ed9b697a4fcfd9fe1ba07f4dd5847af5.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -2301221124f5",
-      "title": "Talented flutist turned epidemiology engineer stands trial for joining IS with her family",
-      "description": "Under her husband's influence, Camille F. moved to Syria, where she spent nine years enduring war and loss before being repatriated with her five children in 2022. She is standing trial in Paris starting Monday.",
-      "url": "https://www.lemonde.fr/en/france/article/2026/06/08/talented-flutist-turned-epidemiology-engineer-stands-trial-for-joining-is-with-her-family_6754256_7.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-08T13:33:02Z",
-      "image": "https://img.lemde.fr/2026/06/04/354/0/4252/2126/644/322/60/0/4da27c9_upload-1-rd6oxd01let3-1-me-dias-d-appel-revenante-v3.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -0d720e00d6e8",
       "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening",
       "description": "The Security Council met on Monday amid a sharp escalation in hostilities across Ukraine, where UN officials warned that the war has reached its deadliest point since Russia’s full-scale invasion in 2022. Briefing members, Rosemary DiCarlo, Under-Secretary-General for political affairs, said recent months had seen some…",
@@ -127,33 +142,19 @@
       "tags": []
     },
     {
-      "id": "npr-0bb09edbe50d",
-      "title": "Israel-Iran strikes threaten truce. And, Ebola is spreading at an unprecedented rate",
-      "description": "Israel and Iran's recent exchange of fire is threatening the truce in the Middle East. And, the Ebola outbreak in the Democratic Republic of Congo is spreading at an unprecedented rate, officials say.",
-      "url": "https://www.npr.org/2026/06/08/g-s1-126858/up-first-newsletter-iran-lebanon-israel-trump-meet-the-press-interview-congo-ebola",
-      "source": "NPR World",
-      "publishedAt": "2026-06-08T11:26:58Z",
-      "image": "undefined",
+      "id": "le -2eb9be7a6d2d",
+      "title": "Farida Rustamova: 'Putin is at an impasse, unable to win or abandon this war'",
+      "description": "Despite the Russian president's refusal to meet with his Ukrainian counterpart, exiled Russian political scientist Farida Rustamova sees signs that the Russian leader may be open to negotiations, which she shares in an interview.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/06/08/farida-rustamova-putin-is-at-an-impasse-unable-to-win-or-abandon-this-war_6754233_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-07T23:00:07Z",
+      "image": "https://img.lemde.fr/2026/06/06/565/0/3205/1602/644/322/60/0/9bf5442_ftp-1-kysb9zkrwfjg-2026-06-06t012615z-562978811-rc2qnlaro5gv-rtrmadp-3-russia-forum-putin.JPG",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-c790673865c1",
-      "title": "Teheran accusa, 'Usa responsabili su violazione del cessate il fuoco'",
-      "description": "Baghaei: 'Centcom sostiene Israele in attività offensive e difensive'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/08/teheran-accusa-usa-responsabili-su-violazione-del-cessate-il-fuoco_8540df9d-69f5-426d-a6b2-225def3f56d3.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-08T07:51:49Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2024/4/14/d4312f11af68f484df20db82e79306dd.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {

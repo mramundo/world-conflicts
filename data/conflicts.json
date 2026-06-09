@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T15:17:09Z",
+  "updated": "2026-06-09T17:00:27Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-06-09T04:19:48Z",
   "items": [
@@ -22,8 +22,8 @@
         "Interstate conflict"
       ],
       "wikipediaPage": "Russo-Ukrainian_War",
-      "lastUpdate": "2026-06-04",
-      "wikipediaRevision": "2026-06-04T06:31:11Z",
+      "lastUpdate": "2026-06-09",
+      "wikipediaRevision": "2026-06-09T15:30:53Z",
       "recentNewsCount": 5
     },
     {
@@ -45,9 +45,9 @@
         "Asymmetric"
       ],
       "wikipediaPage": "Gaza_war",
-      "lastUpdate": "2026-06-03",
-      "wikipediaRevision": "2026-06-03T21:22:14Z",
-      "recentNewsCount": 4
+      "lastUpdate": "2026-06-09",
+      "wikipediaRevision": "2026-06-09T15:29:35Z",
+      "recentNewsCount": 5
     },
     {
       "id": "sd-war",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 5
     }
   ]
 }

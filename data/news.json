@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T11:08:17Z",
+  "updated": "2026-06-09T13:08:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-s-8-year-low-oil-imports-cushion-iran-war-shock-to-global-prices",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-09T11:08:13Z",
+      "publishedAt": "2026-06-09T13:08:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F3%2F5%2F2%2F12592538-2-eng-GB%2F6602e72910b8-2018-08-31T000000Z_1558511804_RC13951C0EB0_RTRMADP_3_CHINA-CRUDE-FUTURES.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -cfc50e243261",
+      "title": "EU proposes entry ban on Russians who fought in Ukraine",
+      "description": "The proposal is part of a new round of sanctions on Moscow over the war in Ukraine, which also includes maintaining a price cap on Russian oil and hitting cryptocurrency exchanges used to dodge sanctions.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/09/eu-proposes-entry-ban-on-russians-who-fought-in-ukraine_6754281_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-09T12:18:59Z",
+      "image": "https://img.lemde.fr/2026/06/09/0/0/7349/3674/644/322/60/0/3596343_ftp-1-wc53ffd55q5r-5267799-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,18 +111,32 @@
       "tags": []
     },
     {
-      "id": "tim-6ec78b741a0d",
-      "title": "IDF strikes reported in Tyre, day after Iran said it would respond to ‘aggression’ in Lebanon",
-      "description": "Strikes come after IDF issued evacuation order that included Christian neighborhood where Hezbollah said to be hiding * Iran says at least 2 members of Iranian air defense forces killed in Israeli strikes yesterday The post IDF strikes reported in Tyre, day after Iran said it would respond to &#8216;aggression&#8217; i…",
-      "url": "https://www.timesofisrael.com/liveblog-june-09-2026/",
+      "id": "tim-234e3aa2a12d",
+      "title": "IDF downs drone over Eilat launched by Yemen’s Houthis",
+      "description": "No injuries or damage in attack by Iran-backed rebel group shortly after midnight; incident follows firing of ballistic missiles by Houthis earlier, during escalation with Iran The post IDF downs drone over Eilat launched by Yemen’s Houthis appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-downs-drone-over-eilat-launched-by-yemens-houthis/",
       "source": "Times of Israel",
-      "publishedAt": "2026-06-09T00:28:45Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260609__B6G48WE__v3__HighRes__LebanonIsraelIranUsWar-e1780999009288-1024x640.jpg",
+      "publishedAt": "2026-06-09T05:55:46Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/vlcsnap-2026-06-09-08h12m21s707-1024x640.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-c2cc8d09eb73",
+      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+      "description": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person.",
+      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-09T05:00:06Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4caa/live/37b2b130-63c9-11f1-8546-8f19e4fe30f4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -127,21 +156,6 @@
       "tags": []
     },
     {
-      "id": "bbc-cf63c44d98a5",
-      "title": "Has Trump lost control of the Iran war?",
-      "description": "For the first time since the start of a precarious ceasefire two months ago, Israel and Iran have traded missile strikes.",
-      "url": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-08T19:44:06Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d42/live/ec739c90-6371-11f1-8e1d-bbbb1017d210.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -0d720e00d6e8",
       "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening",
       "description": "The Security Council met on Monday amid a sharp escalation in hostilities across Ukraine, where UN officials warned that the war has reached its deadliest point since Russia’s full-scale invasion in 2022. Briefing members, Rosemary DiCarlo, Under-Secretary-General for political affairs, said recent months had seen some…",
@@ -155,22 +169,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -2eb9be7a6d2d",
-      "title": "Farida Rustamova: 'Putin is at an impasse, unable to win or abandon this war'",
-      "description": "Despite the Russian president's refusal to meet with his Ukrainian counterpart, exiled Russian political scientist Farida Rustamova sees signs that the Russian leader may be open to negotiations, which she shares in an interview.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/06/08/farida-rustamova-putin-is-at-an-impasse-unable-to-win-or-abandon-this-war_6754233_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-07T23:00:07Z",
-      "image": "https://img.lemde.fr/2026/06/06/565/0/3205/1602/644/322/60/0/9bf5442_ftp-1-kysb9zkrwfjg-2026-06-06t012615z-562978811-rc2qnlaro5gv-rtrmadp-3-russia-forum-putin.JPG",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

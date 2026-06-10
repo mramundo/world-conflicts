@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T05:38:12Z",
+  "updated": "2026-06-10T07:38:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-s-8-year-low-oil-imports-cushion-iran-war-shock-to-global-prices",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-10T05:38:07Z",
+      "publishedAt": "2026-06-10T07:38:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F3%2F5%2F2%2F12592538-2-eng-GB%2F6602e72910b8-2018-08-31T000000Z_1558511804_RC13951C0EB0_RTRMADP_3_CHINA-CRUDE-FUTURES.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -06c353987866",
+      "title": "Indonesia jails four military officers for acid attack on rights activist",
+      "description": "Prosecutors argued in court that the soldiers were motivated by anger over Yunus’s activism.",
+      "url": "https://www.aljazeera.com/news/2026/6/10/indonesia-jails-four-military-officers-for-acid-attack-on-rights-activist?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-10T06:54:09Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-10T035808Z_2126605882_RC2QQLATAAZD_RTRMADP_3_INDONESIA-POLITICS-RIGHTS-1781071897.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,22 +65,6 @@
       "tags": []
     },
     {
-      "id": "al -3f0b53e396e4",
-      "title": "What will the fallout be from the unrest in Pakistan-administered Kashmir?",
-      "description": "Recent clashes between protesters and police killed at least 11 people.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-09T19:31:31Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781031713.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "fra-0d6065971576",
       "title": "Lebanon says 8 dead in strike on Tyre as Israel keeps up attacks on south",
       "description": "Lebanon's health ministry said an Israeli airstrike on Tyre killed at least eight people on Tuesday, with the Israeli military warning the entire city to evacuate shortly after the strike. Lebanon's state-run National News Agency (NNA) reported raids on more than a dozen other locations across the country's south, as I…",
@@ -95,6 +94,22 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-b69608ecb95e",
+      "title": "Ukraine Turns Increasingly to Robots for Frontline Missions",
+      "description": "Ukraine’s Ministry of Defense says ground robotic systems are now a regular presence on the front line, performing logistical tasks and providing combat support, as well as helping with medical evacuation. President Volodymyr Zelensky has ordered the expansion of these systems in 2026, explaining that their main purpos…",
+      "url": "https://www.kyivpost.com/post/77842",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-09T16:27:00Z",
+      "image": "https://static.kyivpost.com/storage/2025/09/21/c3b61905d9447273145f844c3c1fc089.png?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -216,22 +231,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-ad809ef3c282",
-      "title": "Ukraine Warns Putin Has ‘Lost His Chance’ for Peace Talks",
-      "description": "Ukrainian Foreign Minister Andrii Sybiha declared that Russian President Vladimir Putin has missed his window to end the war under favorable conditions after rejecting a direct meeting with President Volodymyr Zelensky. Putin dismissed Zelensky’s open-letter proposal for face-to-face peace talks as inappropriate, promp…",
-      "url": "https://www.kyivpost.com/post/77673",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-07T06:48:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/07/484b1e3505f7a660ea66956a659bad11.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 13,
       "isAnalysis": false,
       "tags": []
     }

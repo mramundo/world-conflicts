@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T11:20:37Z",
+  "updated": "2026-06-10T13:19:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-s-8-year-low-oil-imports-cushion-iran-war-shock-to-global-prices",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-10T11:20:33Z",
+      "publishedAt": "2026-06-10T13:19:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F3%2F5%2F2%2F12592538-2-eng-GB%2F6602e72910b8-2018-08-31T000000Z_1558511804_RC13951C0EB0_RTRMADP_3_CHINA-CRUDE-FUTURES.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,32 +20,63 @@
       "tags": []
     },
     {
-      "id": "al -d33ee01036ba",
-      "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
-      "description": "Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss",
+      "id": "al -5089ff7936e2",
+      "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
+      "description": "Israel uses war crimes to accelerate &#039;annexation agenda and settlement expansion&#039; in occupied land, rights group says.",
+      "url": "https://www.aljazeera.com/news/2026/6/10/west-bank-ethnic-cleansing-settler-attacks-israels-state-policy-amnesty?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-10T10:09:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781086090.jpg?resize=1920%2C1080&amp;quality=80",
+      "publishedAt": "2026-06-10T12:55:23Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a284ce88cac-1781026024.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-c793e47bec8b",
-      "title": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz",
-      "description": "Iran's Revolutionary Guards ​said they had carried out missile and drone attacks on U.S. military bases in Jordan, Kuwait and Bahrain on Wednesday in retaliation for American strikes on Iranian targets around the Strait of Hormuz. The clashes mark one of the biggest exchanges in hostilities since the two countries agre…",
-      "url": "https://www.france24.com/en/video/20260610-iran-targets-us-bases-in-jordan-and-the-gulf-after-trump-orders-strikes-near-hormuz",
-      "source": "France24",
-      "publishedAt": "2026-06-10T09:50:21Z",
-      "image": "https://s.france24.com/media/display/9b0b2342-64ab-11f1-8fa2-005056a97e36/w:1024/p:16x9/EN-20260610-100202-100345-CS.jpg",
+      "id": "deu-0ec0ca0d7102",
+      "title": "Why is Hezbollah still important for Iran?",
+      "description": "Although weakened, Lebanon-based Hezbollah militant group remains a central piece of Iran's power projection in the Middle East. Tehran has insisted they be included in any peace deal with the US and Israel.",
+      "url": "https://www.dw.com/en/why-is-hezbollah-still-important-for-iran/a-77487992?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-10T12:22:00Z",
+      "image": "https://static.dw.com/image/74868505_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-37ea30c0204b",
+      "title": "Amnesty accuses Israel of ‘state-led’ ethnic cleansing in West Bank; IDF rejects charge",
+      "description": "Rights group claims routine violence against Bedouin and Palestinian herding communities isn't perpetrated by 'bad apples,' but is 'a core component of a state-sanctioned campaign' The post Amnesty accuses Israel of &#8216;state-led&#8217; ethnic cleansing in West Bank; IDF rejects charge appeared first on The Times of…",
+      "url": "https://www.timesofisrael.com/amnesty-accuses-israel-of-state-led-ethnic-cleansing-in-west-bank-idf-rejects-charge/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-10T12:14:24Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/F260116YN15-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-cf589a5872ff",
+      "title": "US-Iran deal 'wouldn't resolve anything': Trump trapped between 'unwinnable war, unpresentable deal'",
+      "description": "Genie Godula is pleased to welcome Ali Vaez, Iran Project Director at the International Crisis Group. As Iran and the US seek an end to the war, an agreement so far remains elusive. Vaez challenges Donald Trump's claims that a deal is imminent, arguing that Trump is trapped between \"an unwinnable war and an unpresentab…",
+      "url": "https://www.france24.com/en/us-iran-deal-wouldn-t-resolve-anything-trump-trapped-between-unwinnable-war-unpresentable-deal",
+      "source": "France24",
+      "publishedAt": "2026-06-10T11:32:06Z",
+      "image": "https://s.france24.com/media/display/78b51fa2-64bd-11f1-9155-005056bf30b7/w:1024/p:16x9/EN-20260609-130123-130913-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -65,17 +96,32 @@
       "tags": []
     },
     {
-      "id": "tim-a7ac9c17d2b5",
-      "title": "Video appears to show moment IDF soldier fired at family’s car in Hebron, killing baby",
-      "description": "B'Tselem says footage contradicts army's initial statement that soldier believed the vehicle was accelerating toward troops, who are reportedly being probed by Military Police for leaving scene The post Video appears to show moment IDF soldier fired at family&#8217;s car in Hebron, killing baby appeared first on The Ti…",
-      "url": "https://www.timesofisrael.com/video-appears-to-show-moment-idf-soldier-fired-at-familys-car-in-hebron-killing-baby/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-10T00:43:15Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/185C3AC6-C2FD-4B89-B2ED-A72B27751185_1_201_a-e1781048306698-1024x640.jpeg",
+      "id": "the-61136b259608",
+      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+      "description": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global WitnessLeading global brands including Amazon, Ericsson and Sony are “likely” to have sourced minerals linked to a militia accused of widespread sexual violence, summary executions and …",
+      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-10T05:00:11Z",
+      "image": "https://i.guim.co.uk/img/media/33e60df009fdec547631627e7a17a773492cadf7/751_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fd82f98516ba54c540eb5d6b5813e05b",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -565ea1e91a1d",
+      "title": "Ebola outbreak: Anger mounts in Kenya over quarantine center for American patients",
+      "description": "About 200 kilometers from the capital, the city of Nanyuki saw a day of protests against a proposed American quarantine center, set to be established on an air base, on Tuesday. Clashes broke out between protestors and law enforcement.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/06/10/ebola-outbreak-anger-mounts-in-kenya-over-quarantine-center-for-american-patients_6754295_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-09T23:46:17Z",
+      "image": "https://img.lemde.fr/2026/06/04/0/0/5010/2505/644/322/60/0/ede5856_ftp-1-66qveh742gpm-764e5ebbd1724b1aaf54d8ffb8788425-3-a9de52e23f0f483983529100fac51ce4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -92,23 +138,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-251bd03e933e",
-      "title": "Will Israel's troops take over more of southern Lebanon?",
-      "description": "Residents displaced from southern Lebanese towns and cities on evacuation orders from Israel's military now fear that Israel will occupy their homes permanently, or continue to expand its invasion.",
-      "url": "https://www.dw.com/en/will-israel-s-troops-take-over-more-of-southern-lebanon/a-77478170?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-09T17:48:00Z",
-      "image": "https://static.dw.com/image/77473260_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -139,36 +168,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-ccada2667265",
-      "title": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow",
-      "description": "Banks, crypto firms and Kremlin oil reserves also targeted in 21st set of measures since full-scale invasion of UkraineThe EU hopes to ban Russian soldiers from entering its territory as part of further sanctions against Moscow that also target banks, crypto firms and the Kremlin’s oil revenues.Announcing the proposals…",
-      "url": "https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-09T15:12:38Z",
-      "image": "https://i.guim.co.uk/img/media/f5cd40e3e14ce8e899dda00d453fa6086e0b6198/547_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=fc8d66ddbb69fde78378b07cffe5b854",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -cfc50e243261",
-      "title": "EU proposes entry ban on Russians who fought in Ukraine",
-      "description": "The proposal is part of a new round of sanctions on Moscow over the war in Ukraine, which also includes maintaining a price cap on Russian oil and hitting cryptocurrency exchanges used to dodge sanctions.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/09/eu-proposes-entry-ban-on-russians-who-fought-in-ukraine_6754281_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-09T12:18:59Z",
-      "image": "https://img.lemde.fr/2026/06/09/0/0/7349/3674/644/322/60/0/3596343_ftp-1-wc53ffd55q5r-5267799-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

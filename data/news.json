@@ -1,9 +1,25 @@
 {
-  "updated": "2026-06-10T21:45:53Z",
+  "updated": "2026-06-10T22:40:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "rfe-fc6488be9995",
+      "title": "Hours After Trump Warning, US Resumes Air Strikes On Iran",
+      "description": "US armed forces launched a second night of air strikes on Iran late on June 10, just hours after President Donald Trump warned Tehran it would be hit \"very hard\" if a deal aimed at ending more than three months of war is not finalized.",
+      "url": "https://www.rferl.org/a/trump-us-air-strikes-iran/33777784.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-10T22:16:03Z",
+      "image": "https://gdb.rferl.org/8d07dbe7-290a-4060-9b22-629609c49679_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "npr-d747f47672bd",
       "title": "In the Ukraine war, new ground-based drones are playing a key role on the battlefield",
@@ -22,7 +38,7 @@
     {
       "id": "tim-77ab95e59397",
       "title": "IAEA board demands Iran report uranium stocks, grant inspectors access to facilities",
-      "description": "Iranian envoy denounces resolution, says it ignores Tehran's ongoing cooperation with nuclear watchdog, adding access to sites unaffected by war has been granted The post IAEA board demands Iran report uranium stocks, grant inspectors access to facilities appeared first on The Times of Israel.",
+      "description": "Iranian envoy denounces resolution, says it ignores Tehran's ongoing cooperation with nuclear watchdog, claims access to sites unaffected by war has been granted The post IAEA board demands Iran report uranium stocks, grant inspectors access to facilities appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/iaea-board-demands-iran-report-uranium-stocks-grant-inspectors-access-to-facilities/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-10T20:55:25Z",
@@ -32,21 +48,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -d6cb643f0856",
-      "title": "Trump vows attacks on Iran for 'playing' US over peace deal",
-      "description": "US President Donald Trump warned on Wednesday that he would renew US attacks on Iran amid a rapidly detiorating ceasefire that took effect in April. Trump's remarks have elicited international calls for restraint, while the head of the United Nations cautioned against a return to 'full war.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/10/trump-vows-attacks-on-iran-for-playing-us-over-peace-deal_6754323_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-10T19:33:35Z",
-      "image": "https://img.lemde.fr/2026/02/21/280/0/1680/840/644/322/60/0/eb2dbc3_ftp-1-hc9ao6pc4lh5-2026-02-21t164819z-882125511-rc2cqjag10ke-rtrmadp-3-iran-crisis-pezeshkian.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,19 +68,19 @@
       "tags": []
     },
     {
-      "id": "rfe-cf93b5bc06ce",
-      "title": "Trump Threatens To Attack Iran Again If Peace Deal Not Finalized",
-      "description": "President Donald Trump said the ⁠United States is going to attack Iran “very hard” if a deal aimed at ending the three-month war is not finalized.",
-      "url": "https://www.rferl.org/a/trump-iran-war-negotiations/33777713.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-10T17:15:58Z",
-      "image": "https://gdb.rferl.org/6540fd84-df1a-4052-8674-b8be86752b4a_w800_h450.jpg",
+      "id": "le -652fc3d39bfa",
+      "title": "Nearly 1,000 dead in Gaza since start of ceasefire illusion",
+      "description": "The deal brokered by Donald Trump in October 2025 promised an immediate end to hostilities and unlimited humanitarian aid. In the eight months since then, the Gaza Strip has plunged further into a humanitarian crisis, claiming its victims every day.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/10/nearly-1-000-dead-in-gaza-since-start-of-ceasefire-illusion_6754319_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-10T16:37:39Z",
+      "image": "https://img.lemde.fr/2026/06/08/667/0/8004/4002/644/322/60/0/86c78da_ftp-1-pwpaykskt0hi-4969f79d7e784e0f99fb50670236a289-1-0f7044a77c714ad18bc1df4942e3909b.jpg",
       "categories": [
         "conflict",
-        "analysis"
+        "humanitarian"
       ],
       "relevanceScore": 9,
-      "isAnalysis": true,
+      "isAnalysis": false,
       "tags": []
     },
     {

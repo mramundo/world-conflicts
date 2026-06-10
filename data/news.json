@@ -1,9 +1,24 @@
 {
-  "updated": "2026-06-10T20:58:50Z",
+  "updated": "2026-06-10T21:45:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "npr-d747f47672bd",
+      "title": "In the Ukraine war, new ground-based drones are playing a key role on the battlefield",
+      "description": "Ukraine relies on robotic warfare to punch above its weight on the battlefield, including shifting frontline duties from soldiers to land drones.",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5818116/in-the-ukraine-war-new-ground-based-drones-are-playing-a-key-role-on-the-battlefield",
+      "source": "NPR World",
+      "publishedAt": "2026-06-10T20:59:08Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5818116",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "tim-77ab95e59397",
       "title": "IAEA board demands Iran report uranium stocks, grant inspectors access to facilities",
@@ -112,21 +127,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-30a522979bf7",
-      "title": "In Ukraine, a competition puts soldiers' drone skills to the test",
-      "description": "As drones become the weapon of choice in the Russia-Ukraine war, a group of soldiers test their skills in an unusual competition.",
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5847603/in-ukraine-a-competition-puts-soldiers-drone-skills-to-the-test",
-      "source": "NPR World",
-      "publishedAt": "2026-06-10T08:39:50Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5847603",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

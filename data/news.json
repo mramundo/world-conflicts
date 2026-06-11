@@ -1,9 +1,24 @@
 {
-  "updated": "2026-06-11T09:37:32Z",
+  "updated": "2026-06-11T11:37:05Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -f887efc338d1",
+      "title": "Three Indian sailors killed in US strike on oil tanker",
+      "description": "A US strike on an oil tanker accused of transporting Iranian oil has killed three Indian sailors.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/three-indian-sailors-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-11T10:02:03Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/wide-thumb-sailors-killed-1781172058.png?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "fra-a5e8ba0f762d",
       "title": "War in Ukraine now longer than WWI: Russia's full scale invasion reached 1,569 days",
@@ -20,19 +35,19 @@
       "tags": []
     },
     {
-      "id": "al -6e03e58f2bed",
-      "title": "UK, Australia, Canada launch $4m peace fund for Israel-Palestine conflict",
-      "description": "Fund will provide humanitarian support to Palestinians, crack down on Israeli settlers and support Gaza peace plan.",
-      "url": "https://www.aljazeera.com/news/2026/6/11/uk-australia-canada-launch-4mn-peace-fund-for-israel-palestine-conflict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-11T08:59:25Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2a690d89d2-1781164301.jpg?resize=1920%2C1440",
+      "id": "rfe-6b90d749f090",
+      "title": "3 Indian Sailors Dead After US Strike On Tanker Off Coast Of Oman",
+      "description": "As the US-Israeli war with Iran continues to impact and shape the region, journalists from RFE/RL's Central Newsroom and Iranian service, Radio Farda, deliver ongoing updates and analysis.",
+      "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-11T05:00:00Z",
+      "image": "https://gdb.rferl.org/90d314b1-fd2a-4a50-a1c6-eb479747aa29_w800_h450.jpg",
       "categories": [
         "conflict",
-        "humanitarian"
+        "analysis"
       ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -48,22 +63,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-fc6488be9995",
-      "title": "Hours After Trump Warning, US Resumes Air Strikes On Iran",
-      "description": "US armed forces launched a second night of air strikes on Iran late on June 10, just hours after President Donald Trump warned Tehran it would be hit \"very hard\" if a deal aimed at ending more than three months of war is not finalized.",
-      "url": "https://www.rferl.org/a/trump-us-air-strikes-iran/33777784.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-10T22:16:03Z",
-      "image": "https://gdb.rferl.org/8d07dbe7-290a-4060-9b22-629609c49679_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -150,7 +149,7 @@
       "url": "https://www.csmonitor.com/World/Middle-East/2026/0609/syria-peace-economic-growth-popular-mood?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-09T21:39:27Z",
-      "image": null,
+      "image": "https://images.csmonitor.com/csm/2026/06/0609_OSYRIAECON_lede.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],

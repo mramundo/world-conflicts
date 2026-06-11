@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T09:37:40Z",
+  "updated": "2026-06-11T11:37:14Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-06-10T15:05:06Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-06-11",
       "wikipediaRevision": "2026-06-11T00:12:49Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -225,8 +225,8 @@
         "Jihadism"
       ],
       "wikipediaPage": "Boko_Haram_insurgency",
-      "lastUpdate": "2026-06-08",
-      "wikipediaRevision": "2026-06-08T14:01:28Z",
+      "lastUpdate": "2026-06-11",
+      "wikipediaRevision": "2026-06-11T09:42:52Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 5
+      "recentNewsCount": 4
     },
     {
       "id": "et-am",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     }
   ]
 }

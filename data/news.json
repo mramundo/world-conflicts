@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T19:06:11Z",
+  "updated": "2026-06-11T20:54:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-11T19:06:07Z",
+      "publishedAt": "2026-06-11T20:54:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,32 @@
       "tags": []
     },
     {
-      "id": "al -23f1114bf341",
-      "title": "Drone strikes on central Sudanese city kill up to 23: NGO",
-      "description": "Local rights group Emergency Lawyers blamed the attack on the RSF, which did not immediately claim responsibility.",
-      "url": "https://www.aljazeera.com/news/2026/6/11/drone-strikes-on-central-sudanese-city-kill-up-to-23-ngo?traffic_source=rss",
+      "id": "al -cf211b99a204",
+      "title": "Israel deports French journalist accused of supporting Hamas",
+      "description": "Isreal suppressed coverage of its war on Gaza, banning international press and killing hundreds of local journalists.",
+      "url": "https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-11T17:49:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20240624__34YA727__v2__HighRes__SudanConflictDisplaced-1780777129.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-11T19:52:21Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/AA-20250825-38920567-38920556-FAREWELL_CEREMONY_HELD_FOR_FOUR_JOURNALISTS_KILLED_IN_ISRAELI_ATTACK_IN_KHAN_YUNIS-1756124227_dbd7bd-1756167353.jpg?resize=1200%2C630&amp;quality=80",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -113fa7b20545",
+      "title": "Trump says canceling Iran strikes, flags possible deal",
+      "description": "The US president's latest sudden reversal on the war came after what he said were the agreements of 'final points' by numerous countries, except Iran.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/11/trump-says-canceling-iran-strikes-flags-possible-deal_6754369_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-11T18:25:02Z",
+      "image": "https://img.lemde.fr/2026/06/10/40/0/3683/1841/644/322/60/0/1630f04_ftp-1-bfgyru8eecnf-2026-06-10t230122z-440028028-rc24rlacprt9-rtrmadp-3-usa-trump-fund.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -112,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "le -9bdb4a6d4564",
-      "title": "Israel denies entry to French journalist Alice Froussard",
-      "description": "Froussard has been covering the Israeli-Palestinian conflict for public service broadcasters Radio France and Radio France Internationale. Israel's minister for diaspora affairs and combating antisemitism accused the reporter of supporting Palestinian militant group Hamas.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/11/israel-denies-entry-to-french-journalist_6754351_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-11T12:40:31Z",
-      "image": "https://img.lemde.fr/2026/06/11/0/0/5453/2726/644/322/60/0/5d41c7a_upload-1-ewli1ybsknhq-000-62928hh.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -0321d77ce36c",
       "title": "Three seafarers killed in Hormuz strike as UN warns of widening fallout",
       "description": "Three seafarers were killed in an attack on an oil tanker near the Strait of Hormuz on Wednesday, as renewed hostilities in one of the world’s most critical shipping corridors once again heightened concern over food security, fuel prices and broken global supply chains.",
@@ -142,17 +142,17 @@
       "tags": []
     },
     {
-      "id": "npr-d747f47672bd",
-      "title": "In the Ukraine war, new ground-based drones are playing a key role on the battlefield",
-      "description": "Ukraine relies on robotic warfare to punch above its weight on the battlefield, including shifting frontline duties from soldiers to land drones.",
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5818116/in-the-ukraine-war-new-ground-based-drones-are-playing-a-key-role-on-the-battlefield",
+      "id": "npr-ac8342c05856",
+      "title": "Amnesty accuses Israel's government of 'ethnic cleansing' of West Bank Palestinians",
+      "description": "The London-based rights group says the Israeli government is deliberately trying to annex the Palestinian territory.",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127411/amnesty-israel-west-bank",
       "source": "NPR World",
-      "publishedAt": "2026-06-10T20:59:08Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5818116",
+      "publishedAt": "2026-06-11T06:13:40Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2Fb4%2F77d3a39241a1b73c139122b267c0%2Fap26161383278763.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

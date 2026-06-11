@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T21:44:11Z",
+  "updated": "2026-06-11T22:39:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-11T21:44:06Z",
+      "publishedAt": "2026-06-11T22:39:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-1e326be24c0a",
+      "title": "Trump says Iran peace deal is near after threatening new strikes",
+      "description": "US President Donald Trump said Thursday he had halted plans for new military strikes on Iran, claiming negotiators were close to extending a fragile ceasefire, just hours after threatening to intensify the conflict by targeting Iran’s oil industry.",
+      "url": "https://www.france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes",
+      "source": "France24",
+      "publishedAt": "2026-06-11T21:47:25Z",
+      "image": "https://s.france24.com/media/display/00aad5c4-65d0-11f1-8536-005056bf30b7/w:1024/p:16x9/2026-06-11T193149Z-113917332-RC2VRLAXBHRS-RTRMADP-3-USA-TRUMP.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -37,8 +52,8 @@
     },
     {
       "id": "le -113fa7b20545",
-      "title": "Trump says canceling Iran strikes, flags possible deal",
-      "description": "The US president's latest sudden reversal on the war came after what he said were the agreements of 'final points' by numerous countries, except Iran.",
+      "title": "Trump says canceling Iran strikes amid possible deal, but Iran says no 'final conclusion'",
+      "description": "The US president's latest sudden reversal on the war came after what he said were the agreements of 'final points' by numerous countries, except Iran. 'So far, Iran has not reached a final conclusion on the agreement,' foreign ministry spokesman Esmaeil Baqaei said.",
       "url": "https://www.lemonde.fr/en/international/article/2026/06/11/trump-says-canceling-iran-strikes-flags-possible-deal_6754369_4.html",
       "source": "Le Monde (EN)",
       "publishedAt": "2026-06-11T18:25:02Z",
@@ -96,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "fra-170f21645dc0",
-      "title": "War in Ukraine passes 1,569 days, now longer than WWI",
-      "description": "British, French and German ambassadors to Russia held talks Thursday in Russia's foreign ministry, as the war in Ukraine reaches a grim milestone. 1,569 days and counting… The Russian full scale invasion of Ukraine started a century after World War One began and it's now gone on longer than that confit itself.",
-      "url": "https://www.france24.com/en/video/20260611-war-in-ukraine-passes-1-569-days-now-longer-than-wwi",
-      "source": "France24",
-      "publishedAt": "2026-06-11T14:56:48Z",
-      "image": "https://s.france24.com/media/display/29cfaeb8-65a1-11f1-8c0a-005056a97e36/w:1024/p:16x9/EN-20260611-151249-151429-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-80ec38e5b0b3",
       "title": "Iconic Artwork 'Virtually Destroyed' In Crimea Drone Strike",
       "description": "A massive panorama depicting a battle in the 1853-1856 Crimean War has been heavily damaged by what Russian-occupation authorities in Sevastopol say was a Ukrainian drone attack.",
@@ -127,13 +127,13 @@
       "tags": []
     },
     {
-      "id": "un -0321d77ce36c",
-      "title": "Three seafarers killed in Hormuz strike as UN warns of widening fallout",
-      "description": "Three seafarers were killed in an attack on an oil tanker near the Strait of Hormuz on Wednesday, as renewed hostilities in one of the world’s most critical shipping corridors once again heightened concern over food security, fuel prices and broken global supply chains.",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167697",
+      "id": "un -c62a38da7e14",
+      "title": "Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed",
+      "description": "Hate speech is a grave and growing threat to peace and security, Secretary-General António Guterres warned on Thursday, calling for urgent action to break a cycle that can lead to genocide and other atrocity crimes.",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167700",
       "source": "UN News",
       "publishedAt": "2026-06-11T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-04-2026-IMO-seafarer-Turkey.jpg/image560x340cropped.jpg",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/11-06-2026-Adobe-hate-speech.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],

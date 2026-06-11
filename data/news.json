@@ -1,21 +1,37 @@
 {
-  "updated": "2026-06-11T07:50:56Z",
+  "updated": "2026-06-11T09:37:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -2b1dfa09d63e",
-      "title": "Thailand court sentences two men to death for 2015 Bangkok bombing",
-      "description": "The August 2015 attack at the popular Erawan shrine in Bangkok&#039;s commercial heart killed 20 and wounded over 100 more.",
-      "url": "https://www.aljazeera.com/news/2026/6/11/thailand-court-sentences-two-men-to-death-for-2015-bangkok-bombing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-11T06:19:11Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2a4e5a79bc-1781157466.jpg?resize=1920%2C1440",
+      "id": "fra-a5e8ba0f762d",
+      "title": "War in Ukraine now longer than WWI: Russia's full scale invasion reached 1,569 days",
+      "description": "1,569 days – four years and three months: That is how long Russia's war in Ukraine has lasted. It is a milestone, surpassing the duration of World War One. The two conflicts are often compared for their brutal infantry assaults and heavy casualties. For more, FRANCE 24's Gulliver Cragg reports from Kyiv, Ukraine.",
+      "url": "https://www.france24.com/en/video/20260611-war-in-ukraine-now-longer-than-wwi-russia-s-full-scale-invasion-reached-1-569-days",
+      "source": "France24",
+      "publishedAt": "2026-06-11T09:18:24Z",
+      "image": "https://s.france24.com/media/display/c4e37a96-6570-11f1-b72c-005056bfb2b6/w:1024/p:16x9/EN-20260611-100508-100943-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -6e03e58f2bed",
+      "title": "UK, Australia, Canada launch $4m peace fund for Israel-Palestine conflict",
+      "description": "Fund will provide humanitarian support to Palestinians, crack down on Israeli settlers and support Gaza peace plan.",
+      "url": "https://www.aljazeera.com/news/2026/6/11/uk-australia-canada-launch-4mn-peace-fund-for-israel-palestine-conflict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-11T08:59:25Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2a690d89d2-1781164301.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +47,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-e25703a5d6e1",
-      "title": "Israeli strikes kill 12 in Lebanon as Netanyahu urges fight against Hezbollah",
-      "description": "Lebanon's health ministry said Israeli airstrikes in southern Lebanon killed 12 people on Wednesday, as Israeli Prime Minister Benjamin Netanyahu urged Lebanese citizens to join Israel's fight against Hezbollah. A border town said two municipal employees detained by Israeli forces were later released. Fighting has cont…",
-      "url": "https://www.france24.com/en/middle-east/20260611-israeli-strikes-kill-12-in-lebanon-as-netanyahu-urges-fight-against-hezbollah",
-      "source": "France24",
-      "publishedAt": "2026-06-11T02:11:36Z",
-      "image": "https://s.france24.com/media/display/52785d5e-6454-11f1-8ade-005056a90284/w:1024/p:16x9/441b34bcd9b80843a796b0927b480ca6a1175c8e.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -149,7 +150,7 @@
       "url": "https://www.csmonitor.com/World/Middle-East/2026/0609/syria-peace-economic-growth-popular-mood?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-09T21:39:27Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/0609_OSYRIAECON_lede.jpg?alias=standard_900x600",
+      "image": null,
       "categories": [
         "conflict"
       ],

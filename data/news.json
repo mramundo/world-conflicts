@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T09:31:42Z",
+  "updated": "2026-06-12T11:21:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-12T09:31:37Z",
+      "publishedAt": "2026-06-12T11:21:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,63 @@
       "tags": []
     },
     {
-      "id": "tim-32e40ccde037",
-      "title": "Gaza mediators glum on chances for breakthrough before Israeli elections in the fall",
-      "description": "Mideast diplomats say Netanyahu's cooperation with Trump plan diminishing as campaigning ramps up, fear he'll renew war; US official insists Israel can be brought on board if Hamas first agrees to disarm The post Gaza mediators glum on chances for breakthrough before Israeli elections in the fall appeared first on The …",
-      "url": "https://www.timesofisrael.com/gaza-mediators-glum-on-chances-for-breakthrough-before-israeli-elections-in-the-fall/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-12T07:42:41Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/MixCollage-11-Jun-2026-11-39-AM-4786-1024x640.jpg",
+      "id": "fra-a9991d186166",
+      "title": "Will fully autonomous killer drones be the next step in modern warfare?",
+      "description": "Drones have become a major part of modern warfare but the vast majority still require a human to control them. But companies are now developing drones that are powered by AI and can operate autonomously. A recent report in “New Scientist” claimed that for the first time, fully autonomous drones have actually been used …",
+      "url": "https://www.france24.com/en/video/20260612-will-fully-autonomous-killer-drones-be-the-next-step-in-modern-warfare",
+      "source": "France24",
+      "publishedAt": "2026-06-12T11:11:33Z",
+      "image": "https://s.france24.com/media/display/f0581474-664d-11f1-8162-005056a97e36/w:1024/p:16x9/EN-20260612-120400-120554-CS.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -e17706e8c2a4",
+      "title": "US plans to slash fighter jets, warships to NATO in Europe, reports New York Times",
+      "description": "US President Donald Trump has called NATO a 'paper tiger' and its members 'cowards' in frustration that they have not joined the US-Israeli war against Iran.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/12/us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-reports-new-york-times_6754398_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-12T11:02:13Z",
+      "image": "https://img.lemde.fr/2026/06/12/369/0/4436/2218/644/322/60/0/83deae5_ftp-1-aujyowmjb0sp-5295005-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-9c9603a43160",
+      "title": "Tajani, 'per Trump Ue irrilevante? Non è nostra guerra ma facciamo nostra parte'",
+      "description": "",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/06/12/tajani-per-trump-ue-irrilevante-non-e-nostra-guerra-ma-facciamo-nostra-parte_197363bc-cf25-4c45-9d6d-cd80602c9413.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-12T10:42:00Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/12/34dbd62eb2ef047dc3739357baaad691.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-e355549ed17b",
+      "title": "UK Jews decry policy paper in which Muslim police group calls Zionism form of hatred",
+      "description": "National Association of Muslim Police distances itself from July 2025 report that likens Gaza war to Holocaust and disputes Oct. 7 atrocities, insists it does not 'defend Hamas' The post UK Jews decry policy paper in which Muslim police group calls Zionism form of hatred appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/uk-jews-decry-policy-paper-in-which-muslim-police-group-calls-zionism-form-of-hatred/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-12T09:33:34Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26119553238536-e1778025144848-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,51 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-883d2cbf1b96",
-      "title": "Trump a La7, 'abbiamo vinto la guerra, Europa irrilevante'",
-      "description": "'Non avevamo bisogno del loro aiuto'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/12/trump-a-la7-abbiamo-vinto-la-guerra-europa-irrilevante_f4837bb1-f97f-43eb-9872-71e11996355e.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-12T07:09:42Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/12/9b5f95d6442ae1e731f6f9845cc1cc78.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -3252a0e04265",
-      "title": "Belfast rallies disperse peacefully after two nights of violence described as racist by authorities",
-      "description": "Anti-immigrant violence erupted Tuesday in the Northern Irish capital following the online release Monday evening of a video showing a stabbing, for which a Sudanese refugee has been charged.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/12/belfast-rallies-disperse-peacefully-after-two-nights-of-violence-described-as-racist-by-authorities_6754387_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-12T05:33:55Z",
-      "image": "https://img.lemde.fr/2026/06/11/566/0/7736/3868/644/322/60/0/3f2b1fa_ftp-1-tuybyrwvxwze-5289752-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-1e326be24c0a",
-      "title": "Trump says Iran peace deal is near after threatening new strikes",
-      "description": "US President Donald Trump said Thursday he had halted plans for new military strikes on Iran, claiming negotiators were close to extending a fragile ceasefire. Hours before, he threatened to intensify the conflict by targeting Iran’s oil industry.",
-      "url": "https://www.france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes",
-      "source": "France24",
-      "publishedAt": "2026-06-11T21:47:25Z",
-      "image": "https://s.france24.com/media/display/00aad5c4-65d0-11f1-8536-005056bf30b7/w:1024/p:16x9/2026-06-11T193149Z-113917332-RC2VRLAXBHRS-RTRMADP-3-USA-TRUMP.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

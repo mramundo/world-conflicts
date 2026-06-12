@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T15:09:16Z",
+  "updated": "2026-06-12T17:05:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-12T15:09:11Z",
+      "publishedAt": "2026-06-12T17:05:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -36,6 +36,21 @@
       "tags": []
     },
     {
+      "id": "fra-fdb601188080",
+      "title": "US plans to slash fighter jets, warships to NATO in Europe, NY Times reports",
+      "description": "The United States plans to slash the number of fighter jets and warships it provides to NATO in Europe, the New York Times reported on Thursday. The reported cutbacks come as European nations race to bolster their defense capacities since Russia's full-scale invasion of Ukraine in 2022 sparked fears that Moscow could a…",
+      "url": "https://www.france24.com/en/video/20260612-us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-ny-times-reports",
+      "source": "France24",
+      "publishedAt": "2026-06-12T14:04:54Z",
+      "image": "https://s.france24.com/media/display/8f944748-6666-11f1-a6c6-005056a97e36/w:1024/p:16x9/EN-20260612-150705-151044-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-270732ef15be",
       "title": "Russian Lawmaker Calls for Terrorist Designation for SpaceX as Company Readies Blockbuster IPO",
       "description": "SpaceX has provided Starlink satellite internet terminals to Ukraine since the early stages of Russia's full-scale invasion.",
@@ -52,16 +67,17 @@
     },
     {
       "id": "le -c6c58ec3aaa5",
-      "title": "Iran insists on nuclear enrichment under any deal with US",
-      "description": "After Donald Trump claimed a draft deal to end the US-Israeli war on Iran was ready, adding that any agreement would strip Iran of its enriched nuclear material, Tehran's official IRNA news agency said that was out of the question.",
+      "title": "Iran says deal with US 'has never been closer' as Trump lashes out",
+      "description": "Iranian Foreign Minister Abbas Araghchi said a draft deal to end the US-Israeli war on Iran was nearing completion, after Donald Trump earlier dismissed an Iranian account of the draft agreement as lies, bearing 'no relation to the truth.'",
       "url": "https://www.lemonde.fr/en/international/article/2026/06/12/iran-insists-on-nuclear-enrichment-under-any-deal-with-us_6754404_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-12T12:48:43Z",
+      "publishedAt": "2026-06-12T12:48:41Z",
       "image": "https://img.lemde.fr/2026/06/08/0/0/5808/2904/644/322/60/0/9081170_ftp-1-iyuhwihpjkbk-5259751-01-06.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,22 +97,6 @@
       "tags": []
     },
     {
-      "id": "fra-a9991d186166",
-      "title": "Will fully autonomous killer drones be the next step in modern warfare?",
-      "description": "Drones have become a major part of modern warfare but the vast majority still require a human to control them. But companies are now developing drones that are powered by AI and can operate autonomously. A recent report in “New Scientist” claimed that for the first time, fully autonomous drones have actually been used …",
-      "url": "https://www.france24.com/en/video/20260612-will-fully-autonomous-killer-drones-be-the-next-step-in-modern-warfare",
-      "source": "France24",
-      "publishedAt": "2026-06-12T11:11:33Z",
-      "image": "https://s.france24.com/media/display/f0581474-664d-11f1-8162-005056a97e36/w:1024/p:16x9/EN-20260612-120400-120554-CS.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "tim-e355549ed17b",
       "title": "UK Jews decry policy paper in which Muslim police group calls Zionism form of hatred",
       "description": "National Association of Muslim Police distances itself from its ex-VP's July 2025 report that likens Gaza war to Holocaust and disputes Oct. 7 atrocities, insists it does not 'defend Hamas' The post UK Jews decry policy paper in which Muslim police group calls Zionism form of hatred appeared first on The Times of Israe…",
@@ -108,6 +108,21 @@
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-e98a030768d4",
+      "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
+      "description": "Bases across Iran have been hit by US strikes, with experts identifying damage to jets and warships.",
+      "url": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-11T23:37:15Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6651/live/1487b300-60e9-11f1-89a3-d1f559421220.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -214,21 +229,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-5f51232d7b28",
-      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
-      "description": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
-      "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-09T21:13:17Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/677d/live/192e0db0-6417-11f1-9216-c3eba4acaf31.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     }

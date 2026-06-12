@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T01:07:13Z",
+  "updated": "2026-06-12T03:16:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-12T01:07:10Z",
+      "publishedAt": "2026-06-12T03:16:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -26,12 +26,27 @@
       "description": "Revolutionary Guard cited as saying Iranian forces stopped tanker from crossing waterway without coordination; US president says signing could happen in Europe this weekendFull report: Trump says US and Iran on verge of signing peace agreementThree Indian seafarers were killed in a US attack on an oil tanker earlier th…",
       "url": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
       "source": "The Guardian",
-      "publishedAt": "2026-06-12T00:39:39Z",
+      "publishedAt": "2026-06-12T02:46:47Z",
       "image": "https://i.guim.co.uk/img/media/1a8084aa23eec595cf20fb07b60129b216e9daf3/700_0_5955_4766/master/5955.jpg?width=140&quality=85&auto=format&fit=max&s=3f431e621a2ff966b4242e419c0adca1",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a8054157f512",
+      "title": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal",
+      "description": "Wall Street and Asian markets rally on hopes for an end to the US-Israel war on Iran.",
+      "url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-12T01:44:15Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26154532808503-1781223608_e2ed17-1781228516.jpg?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -cf211b99a204",
-      "title": "Israel deports French journalist accused of supporting Hamas",
-      "description": "Isreal suppressed coverage of its war on Gaza, banning international press and killing hundreds of local journalists.",
-      "url": "https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-11T19:52:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/AA-20250825-38920567-38920556-FAREWELL_CEREMONY_HELD_FOR_FOUR_JOURNALISTS_KILLED_IN_ISRAELI_ATTACK_IN_KHAN_YUNIS-1756124227_dbd7bd-1756167353.jpg?resize=1200%2C630&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

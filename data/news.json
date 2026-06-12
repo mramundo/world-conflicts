@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T17:05:30Z",
+  "updated": "2026-06-12T18:46:42Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-12T17:05:26Z",
+      "publishedAt": "2026-06-12T18:46:38Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-adcefc806468",
+      "title": "Iran, Ukraine, Belfast & Albania’s ‘Flamingo Revolution’",
+      "description": "In a week that began with President Trump pronouncing that a ceasefire extension was so close with Iran, two or three days max, and that would only take an hour to finalise. Hours later Tehran downed a US Apache helicopter off the Gulf of Oman with the crew rescued from the sea, the attack reportedly an attempt to dete…",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260612-iran-ukraine-belfast-albania-s-flamingo-revolution",
+      "source": "France24",
+      "publishedAt": "2026-06-12T18:20:53Z",
+      "image": "https://s.france24.com/media/display/b16cd686-6685-11f1-94fe-005056a97e36/w:1024/p:16x9/Anglais-2026-06-12T17-14-48-575Z.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -58e20ff57add",
+      "title": "Amnesty calls for Israel boycott over aggression in the occupied West Bank",
+      "description": "Amnesty International’s Agnes Callamard says the ethnic cleansing and annexation of the occupied West Bank is state-led.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/amnesty-calls-for-israel-boycott-over-aggression-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-12T17:59:11Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2019-03-07T151853Z_134676758_RC18715F8920_RTRMADP_3_SAUDI-RIGHTS-UN-1781286900.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-fdb601188080",
-      "title": "US plans to slash fighter jets, warships to NATO in Europe, NY Times reports",
-      "description": "The United States plans to slash the number of fighter jets and warships it provides to NATO in Europe, the New York Times reported on Thursday. The reported cutbacks come as European nations race to bolster their defense capacities since Russia's full-scale invasion of Ukraine in 2022 sparked fears that Moscow could a…",
-      "url": "https://www.france24.com/en/video/20260612-us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-ny-times-reports",
-      "source": "France24",
-      "publishedAt": "2026-06-12T14:04:54Z",
-      "image": "https://s.france24.com/media/display/8f944748-6666-11f1-a6c6-005056a97e36/w:1024/p:16x9/EN-20260612-150705-151044-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,21 +93,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -133e3140c6f4",
-      "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
-      "description": "The attacks come as Iranian media reports that a draft peace deal with the US would include ending the war in Lebanon.",
-      "url": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-12T12:02:56Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2be6c2-1781262018.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

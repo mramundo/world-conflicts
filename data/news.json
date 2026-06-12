@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T11:21:14Z",
+  "updated": "2026-06-12T13:18:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-12T11:21:12Z",
+      "publishedAt": "2026-06-12T13:18:42Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -133e3140c6f4",
+      "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
+      "description": "The attacks come as Iranian media reports that a draft peace deal with the US would include ending the war in Lebanon.",
+      "url": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-12T12:02:56Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2be6c2-1781262018.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-9c9603a43160",
+      "title": "Tajani, 'per Trump Ue irrilevante? Non è nostra guerra ma facciamo nostra parte'",
+      "description": "",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/06/12/tajani-per-trump-ue-irrilevante-non-e-nostra-guerra-ma-facciamo-nostra-parte_197363bc-cf25-4c45-9d6d-cd80602c9413.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-12T11:23:13Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/12/34dbd62eb2ef047dc3739357baaad691.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -52,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "ans-9c9603a43160",
-      "title": "Tajani, 'per Trump Ue irrilevante? Non è nostra guerra ma facciamo nostra parte'",
-      "description": "",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/06/12/tajani-per-trump-ue-irrilevante-non-e-nostra-guerra-ma-facciamo-nostra-parte_197363bc-cf25-4c45-9d6d-cd80602c9413.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-12T10:42:00Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/12/34dbd62eb2ef047dc3739357baaad691.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-e355549ed17b",
       "title": "UK Jews decry policy paper in which Muslim police group calls Zionism form of hatred",
       "description": "National Association of Muslim Police distances itself from July 2025 report that likens Gaza war to Holocaust and disputes Oct. 7 atrocities, insists it does not 'defend Hamas' The post UK Jews decry policy paper in which Muslim police group calls Zionism form of hatred appeared first on The Times of Israel.",
@@ -78,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -c8b907e9dfd1",
-      "title": "Mountain of war: The India-Pakistan conflict’s deadliest battle zone",
-      "description": "After their war last May, India and Pakistan reached a truce. But deaths continued on the world&#039;s highest battlefield.",
-      "url": "https://www.aljazeera.com/news/longform/2026/6/12/mountain-of-war-the-india-pakistan-conflicts-deadliest-battle-zone?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-12T07:14:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/shutterstock_1702720045-1781083274.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -127,6 +127,21 @@
       "tags": []
     },
     {
+      "id": "deu-d930635a9ace",
+      "title": "Iran: From clerical rule to military capture",
+      "description": "The Iran war and the country's change of leadership are reshaping Iran's power structure. Analysts say the Revolutionary Guard is emerging as the dominant force, weakening the system's clerical foundations.",
+      "url": "https://www.dw.com/en/iran-from-clerical-rule-to-military-capture/a-77509196?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-11T15:43:00Z",
+      "image": "https://static.dw.com/image/76581768_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-80ec38e5b0b3",
       "title": "Iconic Artwork 'Virtually Destroyed' In Crimea Drone Strike",
       "description": "A massive panorama depicting a battle in the 1853-1856 Crimean War has been heavily damaged by what Russian-occupation authorities in Sevastopol say was a Ukrainian drone attack.",
@@ -155,22 +170,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-0ec0ca0d7102",
-      "title": "Why is Hezbollah still important for Iran?",
-      "description": "Although weakened, the Lebanon-based Hezbollah militant group remains a central piece of Iran's power projection in the Middle East. Tehran has insisted they be included in any peace deal with the US and Israel.",
-      "url": "https://www.dw.com/en/why-is-hezbollah-still-important-for-iran/a-77487992?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-10T12:22:00Z",
-      "image": "https://static.dw.com/image/74868505_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

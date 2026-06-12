@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T19:43:06Z",
+  "updated": "2026-06-12T20:50:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-12T19:43:03Z",
+      "publishedAt": "2026-06-12T20:50:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-3948bdcfd8ae",
+      "title": "Report: Qatar offered to cut gas production in exchange for Iran sparing key facility",
+      "description": "Doha strongly denies Washington Post report saying it proposed slashing output in bid to pressure US and Israel to end war, as part of effort to protect Ras Laffan The post Report: Qatar offered to cut gas production in exchange for Iran sparing key facility appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/report-qatar-offered-to-cut-gas-production-in-exchange-for-iran-sparing-key-facility/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-12T20:08:07Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AP26068590189666-e1781290988306-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-24d4a7e65e85",
+      "title": "Ukraine's EU accession bid gains traction as Hungary lifts veto",
+      "description": "The European Union will resume membership negotiations with Ukraine on Monday after Hungary's new government lifted a long-standing veto imposed by former prime minister Viktor Orban. EU leaders said all member states had agreed to open the first phase of accession talks with Ukraine and Moldova, marking a fresh show o…",
+      "url": "https://www.france24.com/en/europe/20260612-ukraine-s-eu-accession-bid-gains-traction-as-hungary-lifts-veto",
+      "source": "France24",
+      "publishedAt": "2026-06-12T20:01:20Z",
+      "image": "https://s.france24.com/media/display/ff44a0bc-6696-11f1-bbd1-005056bf30b7/w:1024/p:16x9/000-B6GP3WH.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -34,21 +64,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-adcefc806468",
-      "title": "Iran, Ukraine, Belfast & Albania’s ‘Flamingo Revolution’",
-      "description": "In a week that began with President Trump pronouncing that a ceasefire extension was so close with Iran, two or three days max, and that would only take an hour to finalise. Hours later Tehran downed a US Apache helicopter off the Gulf of Oman with the crew rescued from the sea, the attack reportedly an attempt to dete…",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260612-iran-ukraine-belfast-albania-s-flamingo-revolution",
-      "source": "France24",
-      "publishedAt": "2026-06-12T18:20:53Z",
-      "image": "https://s.france24.com/media/display/b16cd686-6685-11f1-94fe-005056a97e36/w:1024/p:16x9/Anglais-2026-06-12T17-14-48-575Z.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -94,21 +109,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-e355549ed17b",
-      "title": "UK Jews decry policy paper in which Muslim police group calls Zionism form of hatred",
-      "description": "National Association of Muslim Police distances itself from its ex-VP's July 2025 report that likens Gaza war to Holocaust and disputes Oct. 7 atrocities, insists it does not 'defend Hamas' The post UK Jews decry policy paper in which Muslim police group calls Zionism form of hatred appeared first on The Times of Israe…",
-      "url": "https://www.timesofisrael.com/uk-jews-decry-policy-paper-in-which-muslim-police-group-calls-zionism-form-of-hatred/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-12T09:33:34Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AP26119553238536-e1778025144848-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

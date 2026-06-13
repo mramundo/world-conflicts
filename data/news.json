@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T20:33:59Z",
+  "updated": "2026-06-13T21:31:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-13T20:33:55Z",
+      "publishedAt": "2026-06-13T21:31:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-f7ffd5baf0aa",
+      "title": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
+      "description": "More than 3,700 people in Lebanon have died in the war between Israel and Hezbollah. In a village in southern Lebanon, one airstrike last month killed 14 people, including 10 women and children.",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
+      "source": "NPR World",
+      "publishedAt": "2026-06-13T21:02:53Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5848614",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -8e368db73357",
+      "title": "Lebanese government tracks war damage through scientific agency",
+      "description": "Researchers at Lebanon's National Council for Scientific Research are documenting Israeli attacks in the country and the resulting damage. Their work aims to assess losses for potential legal action.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/13/lebanese-government-tracks-war-damage-through-scientific-agency_6754448_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-13T20:26:26Z",
+      "image": "https://img.lemde.fr/2026/06/10/0/0/8192/4096/644/322/60/0/dbcbfd9_upload-1-q9htiuqlgtte-lbn-lemonde-diegoibarrasanchez-009.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -96,21 +126,6 @@
       "tags": []
     },
     {
-      "id": "npr-dd1a22dff25b",
-      "title": "Trump travels to France for the 52nd G7 Summit",
-      "description": "President Trump heads to France for the G7 as the war in Iran continues to dominate global discussions.",
-      "url": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit",
-      "source": "NPR World",
-      "publishedAt": "2026-06-13T11:39:31Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5854957",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-a24c047b31ee",
       "title": "Mercenaries and high-profile defectors abound in Sudan war",
       "description": "Human rights organizations accuse the UAE of supporting the RSF militia, which has seen a number of high-profile defections to the Sudanese Armed Forces. Meanwhile, the civilian population continues to suffer.",
@@ -152,21 +167,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -14bd782ab608",
-      "title": "France's military quietly prepares for a return to Chad",
-      "description": "A year and a half after the abrupt expulsion of French troops stationed in Chad, Paris and N'Djamena are working on resuming their bilateral military cooperation.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/06/13/france-s-military-quietly-prepares-for-a-return-to-chad_6754429_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-13T04:01:08Z",
-      "image": "https://img.lemde.fr/2026/06/12/0/0/7586/3793/644/322/60/0/2af1cf3_upload-1-wmmtmmgumljt-000-94gn2jp.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

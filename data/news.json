@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T03:14:55Z",
+  "updated": "2026-06-13T05:36:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-13T03:14:51Z",
+      "publishedAt": "2026-06-13T05:36:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,13 +21,28 @@
       "tags": []
     },
     {
-      "id": "tim-59aef7d75796",
-      "title": "Four UK pro-Palestinian activists jailed for violent raid on Israeli defense factory",
-      "description": "Judge hands out years-long sentences as he highlights 'terrorist connection' in 2024 attack on Elbit, during which one activist fractured a policewoman's spine with a sledgehammer The post Four UK pro-Palestinian activists jailed for violent raid on Israeli defense factory appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/four-uk-pro-palestinian-activists-jailed-for-violent-raid-on-israeli-defense-factory/",
+      "id": "the-29e87de63343",
+      "title": "Protesters clash outside One Nation fundraiser while Labor says opposition parties will ‘give us chaos’",
+      "description": "Victoria police confirm no formal arrests were made during the protests in South Melbourne on Friday nightGet our breaking news email, free app or daily news podcastProtesters have clashed with Pauline Hanson supporters, with one man given a move on notice outside a Melbourne venue hosting a One Nation fundraiser on Fr…",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/13/protesters-clash-outside-one-nation-fundraiser-while-labor-says-opposition-parties-will-give-us-chaos-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-13T05:18:01Z",
+      "image": "https://i.guim.co.uk/img/media/e2f0162805c9fb322c7ae16077f7775d41288891/1081_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=e9957b6c36a4f18782a6e0f8aecb6257",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-6d3c778b62fb",
+      "title": "Government reported to restrain IDF action in Lebanon to avoid derailing US-Iran talks",
+      "description": "PM's office denies Kan news report; Israeli strikes in south Lebanon continue as Hezbollah drones target troops, without injuries The post Government reported to restrain IDF action in Lebanon to avoid derailing US-Iran talks appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/government-reported-to-restrain-idf-action-in-lebanon-to-avoid-derailing-us-iran-talks/",
       "source": "Times of Israel",
-      "publishedAt": "2026-06-13T00:21:54Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/02/six-1024x640.jpeg",
+      "publishedAt": "2026-06-13T03:37:59Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26163500313441-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -214,21 +229,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-61136b259608",
-      "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-      "description": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global WitnessLeading global brands including Amazon, Ericsson and Sony are “likely” to have sourced minerals linked to a militia accused of widespread sexual violence, summary executions and …",
-      "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-10T05:00:11Z",
-      "image": "https://i.guim.co.uk/img/media/33e60df009fdec547631627e7a17a773492cadf7/751_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fd82f98516ba54c540eb5d6b5813e05b",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T07:26:24Z",
+  "updated": "2026-06-13T09:10:39Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-13T07:26:21Z",
+      "publishedAt": "2026-06-13T09:10:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-68acf4078d52",
+      "title": "Iran said to have mined entrance to bombed nuclear site to deter raid on enriched uranium",
+      "description": "Former nuclear official says move raises risk Tehran could claim it can't retrieve some of the material at Isfahan; US says it downed multiple Iranian drones targeting ships in Hormuz The post Iran said to have mined entrance to bombed nuclear site to deter raid on enriched uranium appeared first on The Times of Israel…",
+      "url": "https://www.timesofisrael.com/iran-said-to-have-mined-entrance-to-bombed-nuclear-site-to-deter-raid-on-enriched-uranium/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-13T08:25:50Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/01/AP26030681433600-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -45b73030375f",
+      "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
+      "description": "Shady al-Areer, 38, was smuggled from Israel into the occupied West Bank after October 7, 2023. This is his story.",
+      "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-13T08:04:03Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/cover-16_9-1781001038.png?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": true,
       "tags": []
     },
@@ -51,47 +82,32 @@
       "tags": []
     },
     {
-      "id": "tim-6d3c778b62fb",
-      "title": "Government reported to restrain IDF action in Lebanon to avoid derailing US-Iran talks",
-      "description": "PM's office denies Kan news report; Israeli strikes in south Lebanon continue as Hezbollah drones target troops, without injuries The post Government reported to restrain IDF action in Lebanon to avoid derailing US-Iran talks appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/government-reported-to-restrain-idf-action-in-lebanon-to-avoid-derailing-us-iran-talks/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-13T03:37:59Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26163500313441-1024x640.jpg",
+      "id": "le -14bd782ab608",
+      "title": "France's military quietly prepares for a return to Chad",
+      "description": "A year and a half after the abrupt expulsion of French troops stationed in Chad, Paris and N'Djamena are working on resuming their bilateral military cooperation.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/06/13/france-s-military-quietly-prepares-for-a-return-to-chad_6754429_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-13T04:01:08Z",
+      "image": "https://img.lemde.fr/2026/06/12/0/0/7586/3793/644/322/60/0/2af1cf3_upload-1-wmmtmmgumljt-000-94gn2jp.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -37915ec0c558",
-      "title": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
-      "description": "Four activists from Palestine Action jailed by a British court over protest raid on Israeli arms firm in UK.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-13T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-12T125350Z_433693375_RC27SLAZVPZ7_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1781307377.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-24d4a7e65e85",
-      "title": "Ukraine's EU accession bid gains traction as Hungary lifts veto",
-      "description": "The European Union will resume membership negotiations with Ukraine on Monday after Hungary's new government lifted a long-standing veto imposed by former prime minister Viktor Orban. EU leaders said all member states had agreed to open the first phase of accession talks with Ukraine and Moldova, marking a fresh show o…",
-      "url": "https://www.france24.com/en/europe/20260612-ukraine-s-eu-accession-bid-gains-traction-as-hungary-lifts-veto",
+      "id": "fra-de091ef26464",
+      "title": "Middle East war live: Lebanon reports new Israeli strikes in south after IDF warning",
+      "description": "Lebanese state media reported fresh Israeli strikes on the country's south on Saturday shortly after the Israeli army called on residents in 20 towns and villages, including many near Nabatieh city, to leave their homes. The US military said overnight it had “downed” several Iranian drones in the Strait of Hormuz as bo…",
+      "url": "https://www.france24.com/en/middle-east/20260612-middle-east-live-iran-says-us-war-deal-could-be-signed-remotely-in-coming-days",
       "source": "France24",
-      "publishedAt": "2026-06-12T20:01:20Z",
-      "image": "https://s.france24.com/media/display/ff44a0bc-6696-11f1-bbd1-005056bf30b7/w:1024/p:16x9/000-B6GP3WH.jpg",
+      "publishedAt": "2026-06-12T21:33:16Z",
+      "image": "https://s.france24.com/media/display/8eeb4164-66fe-11f1-b52c-005056a97e36/w:1024/p:16x9/2026-06-13T063607Z-1971700067-RC2TSLA8OOAR-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -120,22 +136,6 @@
       "image": "https://static.themoscowtimes.com/image/og/f9/92997__f95430d20637fcc12f1f4ddedfb80827.jpg",
       "categories": [
         "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -c6c58ec3aaa5",
-      "title": "Iran and US say deal 'has never been closer' despite Trump lashing out",
-      "description": "Iranian Foreign Minister Abbas Araghchi said a draft deal to end the US-Israeli war on Iran was nearing completion, after Donald Trump earlier dismissed an Iranian account of the draft agreement as lies, bearing 'no relation to the truth.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/12/iran-insists-on-nuclear-enrichment-under-any-deal-with-us_6754404_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-12T12:48:41Z",
-      "image": "https://img.lemde.fr/2026/06/08/0/0/5808/2904/644/322/60/0/9081170_ftp-1-iyuhwihpjkbk-5259751-01-06.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,

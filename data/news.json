@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T05:36:48Z",
+  "updated": "2026-06-13T07:26:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-13T05:36:44Z",
+      "publishedAt": "2026-06-13T07:26:21Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,9 +21,24 @@
       "tags": []
     },
     {
+      "id": "deu-eb41b89a77a0",
+      "title": "Sudan war: UAE denies supporting RSF and Colombian recruits",
+      "description": "Human rights organizations accuse the UAE of supporting the RSF militia, which has seen a number of high-profile defections to the Sudanese Armed Forces. Meanwhile, the civilian population continues to suffer.",
+      "url": "https://www.dw.com/en/sudan-war-uae-denies-supporting-rsf-and-colombian-recruits/a-77530527?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-13T06:13:00Z",
+      "image": "https://static.dw.com/image/76887182_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-29e87de63343",
       "title": "Protesters clash outside One Nation fundraiser while Labor says opposition parties will ‘give us chaos’",
-      "description": "Victoria police confirm no formal arrests were made during the protests in South Melbourne on Friday nightGet our breaking news email, free app or daily news podcastProtesters have clashed with Pauline Hanson supporters, with one man given a move on notice outside a Melbourne venue hosting a One Nation fundraiser on Fr…",
+      "description": "Pauline Hanson claimed fundraiser was moved from original location due to ‘too many bookings’, not because of expected protestsGet our breaking news email, free app or daily news podcastProtesters have clashed with Pauline Hanson supporters, with one man given a move on notice outside a Melbourne venue hosting a One Na…",
       "url": "https://www.theguardian.com/australia-news/2026/jun/13/protesters-clash-outside-one-nation-fundraiser-while-labor-says-opposition-parties-will-give-us-chaos-ntwnfb",
       "source": "The Guardian",
       "publishedAt": "2026-06-13T05:18:01Z",
@@ -143,31 +158,16 @@
     },
     {
       "id": "npr-6ea441800c1d",
-      "title": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
-      "description": "President Trump had previously been amping up his rhetoric against Iran.",
+      "title": "U.S. and Iran peace deal within reach, Pakistan's prime minister says",
+      "description": "The U.S. and Iran appeared closer to reaching a peace deal on Friday, as a sequence a social media posts signaled progress. President Trump had previously been amping up his rhetoric against Iran.",
       "url": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
       "source": "NPR World",
       "publishedAt": "2026-06-11T20:04:52Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F93%2Febb9399641738416d9c74310efe4%2Fap26162502155547-1.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2Fdc%2Facd91557431abc61989223fc8507%2Fgettyimages-2279879749.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-d930635a9ace",
-      "title": "Iran: From clerical rule to military capture",
-      "description": "The Iran war and the country's change of leadership are reshaping Iran's power structure. Analysts say the Revolutionary Guard is emerging as the dominant force, weakening the system's clerical foundations.",
-      "url": "https://www.dw.com/en/iran-from-clerical-rule-to-military-capture/a-77509196?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-11T15:43:00Z",
-      "image": "https://static.dw.com/image/76581768_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T11:40:15Z",
+  "updated": "2026-06-13T12:44:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-13T11:40:11Z",
+      "publishedAt": "2026-06-13T12:44:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-dd1a22dff25b",
+      "title": "Trump travels to France for the 52nd G7 Summit",
+      "description": "President Trump heads to France for the G7 as the war in Iran continues to dominate global discussions.",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit",
+      "source": "NPR World",
+      "publishedAt": "2026-06-13T11:39:31Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5854957",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -113,16 +128,16 @@
     },
     {
       "id": "fra-de091ef26464",
-      "title": "Middle East war live: Lebanon reports new Israeli strikes in south after IDF warning",
-      "description": "Lebanese state media reported fresh Israeli strikes on the country's south on Saturday shortly after the Israeli army called on residents in 20 towns and villages, including many near Nabatieh city, to leave their homes. The US military said overnight it had “downed” several Iranian drones in the Strait of Hormuz as bo…",
+      "title": "Middle East war live: Pakistan PM says US-Iran deal will likely be finalised ‘within 24 hours’",
+      "description": "Pakistan's Prime Minister Shehbaz Sharif, whose government has mediated peace talks between Iran and the United States, said Saturday that an agreement to end the war could be finalised \"within 24 hours\". The US military said overnight it had “downed” several Iranian drones in the Strait of Hormuz as both sides insiste…",
       "url": "https://www.france24.com/en/middle-east/20260612-middle-east-live-iran-says-us-war-deal-could-be-signed-remotely-in-coming-days",
       "source": "France24",
       "publishedAt": "2026-06-12T21:33:16Z",
-      "image": "https://s.france24.com/media/display/8eeb4164-66fe-11f1-b52c-005056a97e36/w:1024/p:16x9/2026-06-13T063607Z-1971700067-RC2TSLA8OOAR-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg",
+      "image": "https://s.france24.com/media/display/4c26ce9a-671f-11f1-82bb-005056bfb2b6/w:1024/p:16x9/2026-05-25T084142Z-541317094-RC27GLACLIQ0-RTRMADP-3-CHINA-PAKISTAN.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -153,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-6ea441800c1d",
-      "title": "U.S. and Iran peace deal within reach, Pakistan's prime minister says",
-      "description": "The U.S. and Iran appeared closer to reaching a peace deal on Friday, as a sequence of social media posts signaled progress. President Trump had previously been amping up his rhetoric against Iran.",
-      "url": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
-      "source": "NPR World",
-      "publishedAt": "2026-06-11T20:04:52Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2Fdc%2Facd91557431abc61989223fc8507%2Fgettyimages-2279879749.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

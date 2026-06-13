@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T12:44:26Z",
+  "updated": "2026-06-13T13:37:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-13T12:44:22Z",
+      "publishedAt": "2026-06-13T13:37:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-e74ac7bc259b",
+      "title": "Iran peace deal: \"Lebanon is the one to chart its own path forward\"",
+      "description": "Pakistan's prime minister said on Friday that the United States and Iran had agreed on the wording of a deal aimed at ending their war in the Middle East, and that mediators were working with both sides to finalise an agreement. We discuss the developments with Lebanon's Social Affairs Minister, Hanine Al Sayyed.",
+      "url": "https://www.france24.com/en/video/20260613-iran-peace-deal-lebanon-is-the-one-to-chart-its-own-path-forward",
+      "source": "France24",
+      "publishedAt": "2026-06-13T13:11:28Z",
+      "image": "https://s.france24.com/media/display/f72e6a3a-671c-11f1-ac71-005056a90284/w:1024/p:16x9/EN-20260613-130149-130752-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -123,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-de091ef26464",
-      "title": "Middle East war live: Pakistan PM says US-Iran deal will likely be finalised ‘within 24 hours’",
-      "description": "Pakistan's Prime Minister Shehbaz Sharif, whose government has mediated peace talks between Iran and the United States, said Saturday that an agreement to end the war could be finalised \"within 24 hours\". The US military said overnight it had “downed” several Iranian drones in the Strait of Hormuz as both sides insiste…",
-      "url": "https://www.france24.com/en/middle-east/20260612-middle-east-live-iran-says-us-war-deal-could-be-signed-remotely-in-coming-days",
-      "source": "France24",
-      "publishedAt": "2026-06-12T21:33:16Z",
-      "image": "https://s.france24.com/media/display/4c26ce9a-671f-11f1-82bb-005056bfb2b6/w:1024/p:16x9/2026-05-25T084142Z-541317094-RC27GLACLIQ0-RTRMADP-3-CHINA-PAKISTAN.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

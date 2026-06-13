@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T13:37:57Z",
+  "updated": "2026-06-13T14:48:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-13T13:37:53Z",
+      "publishedAt": "2026-06-13T14:48:00Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-0c4c5eb3a883",
+      "title": "Iran Rebuilds Missile Arsenal During US Truce, Stockpiling Fresh Russian Munitions",
+      "description": "Iran has restored approximately 75% of its pre-war missile and drone stockpiles during its recent truce with the US. Despite massive US and Israeli air campaigns designed to permanently cripple Tehran’s offensive capacity, Tehran preserved its core hardware inside deep underground bunkers. Since the April 8 ceasefire t…",
+      "url": "https://www.kyivpost.com/post/78120",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-13T13:34:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/13/5c5b6b738b80d96b31f20178d821a20c.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -214,21 +229,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-61c7946e3c33",
-      "title": "Zelensky Establishes New ‘Day of Unmanned Systems Forces’ to Honor Ukraine’s Drone Troops",
-      "description": "President Volodymyr Zelensky signed a decree establishing June 11 as the “Day of Unmanned Systems Forces,” saying Ukraine is the first country to create such a branch. He credited drone troops with transforming the battlefield, reducing soldier casualties, and inflicting nearly $40 billion in damage on Russian assets i…",
-      "url": "https://www.kyivpost.com/post/77919",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-10T18:37:25Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/10/00b00a526931f02f800d9f2ef041f653.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     }

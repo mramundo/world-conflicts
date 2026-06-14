@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T23:29:06Z",
+  "updated": "2026-06-14T01:06:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-13T23:29:04Z",
+      "publishedAt": "2026-06-14T01:06:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -62ec7e21bb11",
+      "title": "Iran war live: Trump says deal to be signed today; Tehran urges caution",
+      "description": "US and Iran appear close to signing the first stage of a peace deal, the two sides differ on when it will be signed.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-14T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-11T084134Z_1101184355_RC2IRLAZ8W7Y_RTRMADP_3_IRAN-CRISIS-1781393655.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -92,21 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -893f48ade4b6",
-      "title": "Israeli attacks kill three in Gaza as post-‘ceasefire’ deaths hit 983",
-      "description": "One person killed in central Gaza’s Bureij refugee camp, and two others in Khan Younis in the south.",
-      "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-13T16:01:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a2d6e3017a32-1781362224.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

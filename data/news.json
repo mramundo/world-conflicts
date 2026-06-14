@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T16:36:48Z",
+  "updated": "2026-06-14T17:33:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-14T16:36:44Z",
+      "publishedAt": "2026-06-14T17:33:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-0b8d9b2deae9",
+      "title": "IDF says it killed key Hezbollah official responsible for 2007 attack on US troops",
+      "description": "Ali Mussa Daqduq was reported in 2024 to have been killed by Israel in Syria, but he apparently survived; military says he was targeted in strike on south Lebanon over the weekend The post IDF says it killed key Hezbollah official responsible for 2007 attack on US troops appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-says-it-killed-key-hezbollah-official-responsible-for-2007-attack-on-us-troops/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-14T17:20:59Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2019/03/Picture_with_description-06_727x800-e1732344079719-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -7f466c1dadf2",
+      "title": "'The French think they know us, but they are mistaken': Colonization still clouds French-Algerian relations",
+      "description": "'Algeria's unhealed war memories' (3/3). Trauma continues to affect survivors and the descendants of those who suffered during the war. These wounds are tied to a sense of lost identity and dignity in the face of a French perspective that many still see as negative, paternalistic and condescending.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/14/the-french-think-they-know-us-but-they-are-mistaken-colonization-still-clouds-french-algerian-relations_6754468_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-14T16:30:09Z",
+      "image": "https://img.lemde.fr/2026/06/01/520/0/6240/3120/644/322/60/0/6f06ed7_upload-1-600cjgdhsf0h-dscf4949.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -112,21 +142,6 @@
       "tags": []
     },
     {
-      "id": "tim-98f086af7564",
-      "title": "Israel braces for Iranian missile fire after strike on Hezbollah target in Beirut",
-      "description": "Tehran warns attack 'will not go unanswered'; IDF says it hit command center in Lebanese capital's southern suburbs, reportedly killing three The post Israel braces for Iranian missile fire after strike on Hezbollah target in Beirut appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-strikes-hezbollah-target-in-beirut-after-3-drones-hit-northern-israel/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-14T11:55:33Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260614__B6ZR777__v1__HighRes__LebanonIsraelIranUsWar-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-9b51aa50e344",
       "title": "Despite strikes on Ukraine, Russian advances slow, analysts say",
       "description": "As the Russian invasion of Ukraine grinds through its fifth year, battlefield momentum has stalled, creating a strategic deadlock. Russian forces lost more ground than they gained in the spring, hampered by drone warfare that has created an impassable “dead zone” along the front lines. Unable to mount sweeping offensiv…",
@@ -153,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -d45164daba4f",
-      "title": "'The AI war has begun': France and Europe worried as US blocks Anthropic's latest AI model",
-      "description": "The American start-up has disabled its latest AI model, Mythos 5, at the request of Washington. From a European perspective, the decision is seen as evidence of US dominance in the sector and the Trump administration's desire for control.",
-      "url": "https://www.lemonde.fr/en/pixels/article/2026/06/14/the-ai-war-has-begun-france-and-europe-worried-as-us-blocks-anthropic-s-latest-ai-model_6754455_13.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-14T07:57:19Z",
-      "image": "https://img.lemde.fr/2026/05/07/0/0/4497/2248/644/322/60/0/86faada_ftp-1-5ha0rxlvv5m6-dbafe8e9edd84075b5f162ee6163c37b-1-8dc72631950042c0a20049bdcd64aaac.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

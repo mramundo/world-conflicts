@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T15:37:39Z",
+  "updated": "2026-06-14T16:36:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-14T15:37:36Z",
+      "publishedAt": "2026-06-14T16:36:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,77 @@
       "tags": []
     },
     {
-      "id": "fra-37b4e11b414f",
-      "title": "Israeli military strikes Beirut suburbs in the lead-up to anticipated US-Iran deal",
-      "description": "The Israeli military said it launched strikes on Hezbollah targets in Beirut on Sunday despite ongoing efforts to negotiate an end to the U.S.-Iran war. Smoke could be seen rising over the Lebanese capital. We discuss the latest developments with our correspondent in Tehran, Reza Sayah.",
-      "url": "https://www.france24.com/en/video/20260614-israeli-military-strikes-beirut-suburbs-in-the-lead-up-to-anticipated-us-iran-deal",
+      "id": "ans-7d8447a679c1",
+      "title": "Putin chiama Trump per il compleanno, 55 minuti di telefonata",
+      "description": "Il tycoon ha chiesto la fine della guerra in Ucraina",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/14/putin-chiama-trump-per-il-compleanno-55-minuti-di-telefonata_9b0e37cd-845e-4e5a-bb46-c47898e6acb4.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-14T16:14:14Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/12/272240a4e62feeea568db0590fb95986.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-9d88fa342ba9",
+      "title": "Trump vows Mideast deal is on, calls for no more attacks",
+      "description": "US President Donald Trump on Sunday said Israeli strikes on Beirut \"should not have happened\" as he vowed a regional peace deal was at hand, though he did not confirm his earlier claim it would be signed during the day. France 24's Noga Tarnopolsky tells us more.",
+      "url": "https://www.france24.com/en/video/20260614-trump-vows-mideast-deal-is-on-calls-for-no-more-attacks",
       "source": "France24",
-      "publishedAt": "2026-06-14T13:47:02Z",
-      "image": "https://s.france24.com/media/display/1801926e-67f4-11f1-82ac-005056a90284/w:1024/p:16x9/EN-20260614-140106-140442-CS.jpg",
+      "publishedAt": "2026-06-14T15:58:41Z",
+      "image": "https://s.france24.com/media/display/e535b350-6808-11f1-be44-005056a90284/w:1024/p:16x9/EN-20260614-170345-170719-CS.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-338aaafbf482",
+      "title": "British armed forces intercept Russian shadow fleet oil tanker in Channel",
+      "description": "Keir Starmer says operation involving National Crime Agency has delivered ‘yet another blow’ to Russia and PutinKeir Starmer said he directed British troops to seize a Russian shadow fleet oil tanker in the Channel in the early hours of Sunday, the first time the UK has led a naval capture since the start of the war in…",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-14T15:56:27Z",
+      "image": "https://i.guim.co.uk/img/media/4a0fd561401d3a1f3da5025ba3adeb6e2b7a9353/408_0_2029_1624/master/2029.jpg?width=140&quality=85&auto=format&fit=max&s=93d44e81e8ef1ea967b0dd8887d11512",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1b0e7190f254",
+      "title": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
+      "description": "British armed forces intercepted an oil tanker believed to be part of Russia’s sanctioned shadow fleet.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-14T15:39:23Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260614__B6ZQ99E__v1__JPEG__UkForcesInterceptRussianShadowFleetVesselInEnglish-1781451485.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-1f1ec60d43e5",
+      "title": "Lebanon says three killed in Israeli strike on Beirut suburb",
+      "description": "Israel says it targeted the Iran-backed Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
+      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-14T15:34:32Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c96/live/b9b7b210-67f8-11f1-8e1d-bbbb1017d210.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,33 +112,17 @@
       "tags": []
     },
     {
-      "id": "the-de3f5683bbe3",
-      "title": "Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker after armed forces board vessel - as it happened",
-      "description": "Keir Starmer said British armed forces intercepted a Russian shadow fleet vessel in the early hours of Sunday morningBritish armed forces intercept Russian shadow fleet oil tanker in ChannelUkrainian president Volodymyr Zelenskyy has thanked the UK for intercepting a Russian shadow fleet oil tanker in the English Chann…",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-14T12:02:07Z",
-      "image": "https://i.guim.co.uk/img/media/1be6a9150b826f5997adcc12f332bf6526bc164d/340_0_3466_2774/master/3466.jpg?width=140&quality=85&auto=format&fit=max&s=91f9e1a6f4bf1db76bba1ba0ace5792e",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-98f086af7564",
-      "title": "IDF strikes Hezbollah target in Beirut after 3 drones hit north; Iran threatens response",
-      "description": "Military says it hit command center in Lebanese capital's southern suburbs; local media reports 3 killed; IDF issues evacuation orders for 29 villages and towns in south Lebanon The post IDF strikes Hezbollah target in Beirut after 3 drones hit north; Iran threatens response appeared first on The Times of Israel.",
+      "title": "Israel braces for Iranian missile fire after strike on Hezbollah target in Beirut",
+      "description": "Tehran warns attack 'will not go unanswered'; IDF says it hit command center in Lebanese capital's southern suburbs, reportedly killing three The post Israel braces for Iranian missile fire after strike on Hezbollah target in Beirut appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/idf-strikes-hezbollah-target-in-beirut-after-3-drones-hit-northern-israel/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-14T11:55:33Z",
       "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260614__B6ZR777__v1__HighRes__LebanonIsraelIranUsWar-1024x640.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -95,22 +139,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -666197f1d537",
-      "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
-      "description": "US says a deal to stop the war on Iran could be signed as early as Sunday. Tehran, however, disputes the timeline.",
-      "url": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-14T09:18:22Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26103593498039-1780818159_c505ca-1781428730.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -140,36 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-4694517fb61f",
-      "title": "Starmer, 'intercettata nella Manica una petroliera della flotta ombra russa'",
-      "description": "'Duro colpo a chi alimenta la guerra di Putin in Ucraina'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/14/starmer-intercettata-nella-manica-una-petroliera-della-flotta-ombra-russa_ff128a9f-dab1-47f3-8ed4-1b24c45f29a2.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-14T07:24:43Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2025/11/19/6bd08c2a2bb54f5c45ded90c469eb8d7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-e1ea4d619b76",
-      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-      "description": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
-      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-13T23:19:52Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64d9/live/b23a6ab0-666c-11f1-8e1d-bbbb1017d210.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

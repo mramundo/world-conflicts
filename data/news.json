@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-14T05:40:13Z",
+  "updated": "2026-06-14T07:43:50Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-14T05:40:09Z",
+      "publishedAt": "2026-06-14T07:43:47Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,51 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-4694517fb61f",
+      "title": "Starmer, 'intercettata nella Manica una petroliera della flotta ombra russa'",
+      "description": "'Duro colpo a chi alimenta la guerra di Putin in Ucraina'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/14/starmer-intercettata-nella-manica-una-petroliera-della-flotta-ombra-russa_ff128a9f-dab1-47f3-8ed4-1b24c45f29a2.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-14T07:24:43Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2025/11/19/6bd08c2a2bb54f5c45ded90c469eb8d7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-35ce546491d2",
+      "title": "Key Developments as Ukraine War Grinds Through Summer",
+      "description": "Entering the fifth year of the war, battlefield dynamics have shifted toward grueling urban attrition and long-range strategic interdiction. In the Donetsk region, Russian forces have heavily infiltrated the ruined city of Kostyantynivka, utilizing relentless aerial bombardment to wear down Ukrainian defenses and press…",
+      "url": "https://www.kyivpost.com/post/78134",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-14T06:21:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/14/3eaa2be13158545aa8dcccf5514e3aa7.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-ffc6670fe45f",
+      "title": "Despite regular strikes on Ukraine, Russia's offensive seems to be losing steam",
+      "description": "Strikes on Ukraine remain a regular occurrence, but behind this show of force, the Russian army’s offensive on the front lines is showing signs of slowing down, analysts say. More than four years after the full-scale invasion began, Russian capture of Ukrainian towns are becoming increasingly rare.",
+      "url": "https://www.france24.com/en/europe/20260614-despite-regular-strikes-on-ukraine-russian-offensive-loses-steam",
+      "source": "France24",
+      "publishedAt": "2026-06-14T01:23:21Z",
+      "image": "https://s.france24.com/media/display/4dca6030-67b6-11f1-8080-005056a97e36/w:1024/p:16x9/2026-06-12T142728Z-1277857282-RC2ESLAOMSOC-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-DRONES.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,6 +77,21 @@
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-e1ea4d619b76",
+      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+      "description": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
+      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-13T23:19:52Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64d9/live/b23a6ab0-666c-11f1-8e1d-bbbb1017d210.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,36 +156,6 @@
       "tags": []
     },
     {
-      "id": "fra-3271a8103c52",
-      "title": "Iran: Will a peace deal with the US be reached soon?",
-      "description": "Pakistani Prime Minister Shehbaz Sharif said a deal aimed at ending the war was closer than \"ever before\" and expected to be finalized within 24 hours. Pakistan was preparing for the electronic signing of the agreement, to be followed immediately by technical-level talks next week.",
-      "url": "https://www.france24.com/en/video/20260613-iran-will-a-peace-deal-with-the-us-be-reached-soon",
-      "source": "France24",
-      "publishedAt": "2026-06-13T16:23:29Z",
-      "image": "https://s.france24.com/media/display/67e67bb6-673e-11f1-b500-005056a90284/w:1024/p:16x9/EN-20260613-170145-170337-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-0c4c5eb3a883",
-      "title": "Iran Rebuilds Missile Arsenal During US Truce, Stockpiling Fresh Russian Munitions",
-      "description": "Iran has restored approximately 75% of its pre-war missile and drone stockpiles during its recent truce with the US. Despite massive US and Israeli air campaigns designed to permanently cripple Tehran’s offensive capacity, Tehran preserved its core hardware inside deep underground bunkers. Since the April 8 ceasefire t…",
-      "url": "https://www.kyivpost.com/post/78120",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-13T13:34:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/13/5c5b6b738b80d96b31f20178d821a20c.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-a24c047b31ee",
       "title": "Mercenaries and high-profile defectors abound in Sudan war",
       "description": "Human rights organizations accuse the UAE of supporting the RSF militia, which has seen a number of high-profile defections to the Sudanese Armed Forces. Meanwhile, the civilian population continues to suffer.",
@@ -137,21 +167,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-cddba6659bca",
-      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-      "description": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-13T04:09:07Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bf/live/d798f640-66d1-11f1-bb58-c91c9b854a9d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

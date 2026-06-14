@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T13:37:17Z",
+  "updated": "2026-06-14T14:50:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-14T13:37:13Z",
+      "publishedAt": "2026-06-14T14:50:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,64 @@
       "tags": []
     },
     {
-      "id": "the-14bd29b226e4",
-      "title": "Middle East crisis live: Iran says Israeli attack on Beirut show lack of US willing after Trump says peace deal will be signed today",
-      "description": "Tehran’s top negotiator says the strikes showed the ⁠US ‌either lacked ‌the will to ‌fulfil its commitments or the ability to do soTrump says Iran peace deal could be signed by Sunday, with strait of Hormuz to open shortly afterIsrael says it has struck Beirut’s south suburbs, with explosions heard in the city. The Isr…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-14T13:16:49Z",
-      "image": "https://i.guim.co.uk/img/media/136fb7e356bb89faa657116a7b8e7292a9d7764e/443_0_4760_3808/master/4760.jpg?width=140&quality=85&auto=format&fit=max&s=f1d6aa15ce85b55c063020a4d29e8a90",
+      "id": "fra-37b4e11b414f",
+      "title": "Israeli military strikes Beirut suburbs in the lead-up to anticipated US-Iran deal",
+      "description": "The Israeli military said it launched strikes on Hezbollah targets in Beirut on Sunday despite ongoing efforts to negotiate an end to the U.S.-Iran war. Smoke could be seen rising over the Lebanese capital. We discuss the latest developments with our correspondent in Tehran, Reza Sayah.",
+      "url": "https://www.france24.com/en/video/20260614-israeli-military-strikes-beirut-suburbs-in-the-lead-up-to-anticipated-us-iran-deal",
+      "source": "France24",
+      "publishedAt": "2026-06-14T13:47:02Z",
+      "image": "https://s.france24.com/media/display/1801926e-67f4-11f1-82ac-005056a90284/w:1024/p:16x9/EN-20260614-140106-140442-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-4cd6355a14ae",
+      "title": "Ukrainian Drones Target Key Russian Oil Facility, Chemical Plant",
+      "description": "Russia and Ukraine continued to exchange air attacks on June 14, as indefinitely paused peace talks between Moscow and Kyiv appear to be overshadowed by developments on the battlefield.",
+      "url": "https://www.rferl.org/a/33780158.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-14T13:38:21Z",
+      "image": "https://gdb.rferl.org/479f092e-6637-4cc9-8051-a8872ab29bd9_cx2_cy114_cw97_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-de3f5683bbe3",
+      "title": "Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker after armed forces board vessel - as it happened",
+      "description": "Keir Starmer said British armed forces intercepted a Russian shadow fleet vessel in the early hours of Sunday morningBritish armed forces intercept Russian shadow fleet oil tanker in ChannelUkrainian president Volodymyr Zelenskyy has thanked the UK for intercepting a Russian shadow fleet oil tanker in the English Chann…",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-14T12:02:07Z",
+      "image": "https://i.guim.co.uk/img/media/1be6a9150b826f5997adcc12f332bf6526bc164d/340_0_3466_2774/master/3466.jpg?width=140&quality=85&auto=format&fit=max&s=91f9e1a6f4bf1db76bba1ba0ace5792e",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-98f086af7564",
+      "title": "IDF strikes Hezbollah target in Beirut after 3 drones hit north; Iran threatens response",
+      "description": "Military says it hit command center in Lebanese capital's southern suburbs; local media reports 3 killed; IDF issues evacuation orders for 29 villages and towns in south Lebanon The post IDF strikes Hezbollah target in Beirut after 3 drones hit north; Iran threatens response appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-strikes-hezbollah-target-in-beirut-after-3-drones-hit-northern-israel/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-14T11:55:33Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260614__B6ZR777__v1__HighRes__LebanonIsraelIranUsWar-1024x640.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -48,6 +95,22 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -666197f1d537",
+      "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
+      "description": "US says a deal to stop the war on Iran could be signed as early as Sunday. Tehran, however, disputes the timeline.",
+      "url": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-14T09:18:22Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26103593498039-1780818159_c505ca-1781428730.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -92,51 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-a0d8ffb842d1",
-      "title": "Anti-government protesters pan bill for political Oct. 7 inquiry, said set for vote this week",
-      "description": "Relative of slain hostage rails against Netanyahu's 'populist, fascist' bid to avoid establishing state probe into failures that enable the Hamas attack The post Anti-government protesters pan bill for political Oct. 7 inquiry, said set for vote this week appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/anti-government-protesters-pan-bill-for-political-oct-7-inquiry-said-set-for-vote-this-week/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-14T02:15:16Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/F260613AVS51-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-ffc6670fe45f",
-      "title": "Despite regular strikes on Ukraine, Russia's offensive seems to be losing steam",
-      "description": "Strikes on Ukraine remain a regular occurrence, but behind this show of force, the Russian army’s offensive on the front lines is showing signs of slowing down, analysts say. More than four years after the full-scale invasion began, Russian capture of Ukrainian towns are becoming increasingly rare.",
-      "url": "https://www.france24.com/en/europe/20260614-despite-regular-strikes-on-ukraine-russian-offensive-loses-steam",
-      "source": "France24",
-      "publishedAt": "2026-06-14T01:23:21Z",
-      "image": "https://s.france24.com/media/display/4dca6030-67b6-11f1-8080-005056a97e36/w:1024/p:16x9/2026-06-12T142728Z-1277857282-RC2ESLAOMSOC-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-DRONES.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -d1296a227d20",
-      "title": "Two killed in Israeli strike on Gaza",
-      "description": "An Israeli strike on southern Gaza has killed two people and injured another, according to Palestinian authorities.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-14T01:11:06Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781399908.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -214,22 +232,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-b8cabfece177",
-      "title": "Odesa Prepares Wartime Beaches As Divers Clear Drone Debris",
-      "description": "Ukraine's city of Odesa is welcoming beachgoers and tourists for the summer season on its Black Sea coast. Despite the risk of Russian drone and missile strikes, Odesa's beaches offer a temporary respite to war-weary Ukrainians. Along the coastline, emergency divers help keep Odesa's waters safe by removing debris from…",
-      "url": "https://www.rferl.org/a/odesa-prepares-wartime-beaches-as-divers-clear-drone-debris-ukraine-/33778498.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-11T16:47:44Z",
-      "image": "https://gdb.rferl.org/48ba651d-3a18-4602-1702-08debadc4af7_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     }
   ]

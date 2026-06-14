@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T07:43:50Z",
+  "updated": "2026-06-14T09:12:01Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-14T07:43:47Z",
+      "publishedAt": "2026-06-14T09:11:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,67 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-de3f5683bbe3",
+      "title": "UK forces board sanctioned Russian oil tanker in English Channel for the first time, says Keir Starmer - UK politics live",
+      "description": "Prime minister says British armed forces intercepted a Russian shadow fleet vessel in the early hours of Sunday morningBritish armed forces intercept Russian shadow fleet oil tanker in ChannelConservative party leader Kemi Badenoch has posted this on X:I pay tribute to the brave Royal Marine Commandos who boarded a Rus…",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-14T08:57:30Z",
+      "image": "https://i.guim.co.uk/img/media/19533d74d9c7b3da05eca78efe3917fca5bf9772/364_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2f538a14034a5507167044ea71d06e75",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-db132a949886",
+      "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
+      "description": "Britain is investigating a sanctioned tanker that is suspected of being part of the Russian \"shadow fleet,\" shipping oil in violation of international sanctions over Moscow's war on Ukraine.",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet",
+      "source": "NPR World",
+      "publishedAt": "2026-06-14T08:45:23Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8600x5733+0+0/resize/8600x5733!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2F9e%2F7987618240c1a85a6106bc85de79%2Fap26161387487734.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-36a19ad2a76d",
+      "title": "Kyiv Accuses Italy of Blocking the Return of Evacuated Ukrainian Children",
+      "description": "Four years after being evacuated to Italy for safety following the start of Russia’s full-scale invasion of Ukraine in 2022, dozens of Ukrainian children are caught in a legal battle preventing their return home. Applying protections for unaccompanied minors, Italian courts have assigned the children refugee status and…",
+      "url": "https://www.kyivpost.com/post/78139",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-14T08:36:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/14/4fa28739e7cd90c558e89e462c3b556d.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -d45164daba4f",
+      "title": "'The AI war has begun': France and Europe worried as US blocks Anthropic's latest AI model",
+      "description": "The American start-up has disabled its latest AI model, Mythos 5, at the request of Washington. From a European perspective, the decision is seen as evidence of US dominance in the sector and the Trump administration's desire for control.",
+      "url": "https://www.lemonde.fr/en/pixels/article/2026/06/14/the-ai-war-has-begun-france-and-europe-worried-as-us-blocks-anthropic-s-latest-ai-model_6754455_13.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-14T07:57:19Z",
+      "image": "https://img.lemde.fr/2026/05/07/0/0/4497/2248/644/322/60/0/86faada_ftp-1-5ha0rxlvv5m6-dbafe8e9edd84075b5f162ee6163c37b-1-8dc72631950042c0a20049bdcd64aaac.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-35ce546491d2",
-      "title": "Key Developments as Ukraine War Grinds Through Summer",
-      "description": "Entering the fifth year of the war, battlefield dynamics have shifted toward grueling urban attrition and long-range strategic interdiction. In the Donetsk region, Russian forces have heavily infiltrated the ruined city of Kostyantynivka, utilizing relentless aerial bombardment to wear down Ukrainian defenses and press…",
-      "url": "https://www.kyivpost.com/post/78134",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-14T06:21:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/14/3eaa2be13158545aa8dcccf5514e3aa7.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,36 +142,6 @@
       "tags": []
     },
     {
-      "id": "npr-f7ffd5baf0aa",
-      "title": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
-      "description": "More than 3,700 people in Lebanon have died in the war between Israel and Hezbollah. In a village in southern Lebanon, one airstrike last month killed 14 people, including 10 women and children.",
-      "url": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
-      "source": "NPR World",
-      "publishedAt": "2026-06-13T21:02:53Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5848614",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -8e368db73357",
-      "title": "Lebanese government tracks war damage through scientific agency",
-      "description": "Researchers at Lebanon's National Council for Scientific Research are documenting Israeli attacks in the country and the resulting damage. Their work aims to assess losses for potential legal action.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/13/lebanese-government-tracks-war-damage-through-scientific-agency_6754448_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-13T20:26:26Z",
-      "image": "https://img.lemde.fr/2026/06/10/0/0/8192/4096/644/322/60/0/dbcbfd9_upload-1-q9htiuqlgtte-lbn-lemonde-diegoibarrasanchez-009.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-6f2977f4d059",
       "title": "IDF says over 70 Hezbollah sites hit as troops advance near south Lebanon’s Nabatieh",
       "description": "Lebanese army withdraws from southern city, says soldier seriously injured in Israeli drone strike; seven terror operatives killed earlier this week after emerging from tunnel The post IDF says over 70 Hezbollah sites hit as troops advance near south Lebanon&#8217;s Nabatieh appeared first on The Times of Israel.",
@@ -167,21 +183,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-38519cab9803",
-      "title": "US-Iran peace deal remains elusive as Trump and Tehran trade conflicting claims",
-      "description": "US president dismisses Iranian media reports agreement is close, despite earlier suggesting a deal could be signed this weekendProspects for an immediate end to the war between Iran and the US remained uncertain on Friday amid a chaotic series of conflicting claims and counter-claims by US and Iranian officials about o…",
-      "url": "https://www.theguardian.com/world/2026/jun/12/us-iran-peace-deal-remains-elusive-as-trump-and-tehran-trade-conflicting-claims",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-12T18:23:58Z",
-      "image": "https://i.guim.co.uk/img/media/4530d195680bc709569bbacb46b655ad19dfecdc/428_0_4966_3975/master/4966.jpg?width=140&quality=85&auto=format&fit=max&s=1fce2502f99858880014f6951d4c6947",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

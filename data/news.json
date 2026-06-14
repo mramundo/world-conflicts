@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T11:02:43Z",
+  "updated": "2026-06-14T12:47:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/what-naphtha-shortage-china-extends-petrochemicals-lead-during-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-14T11:02:39Z",
+      "publishedAt": "2026-06-14T12:47:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F7%2F9%2F0%2F12600975-1-eng-GB%2F12ff0eae81ca-20260610N-Keiyo-industrial-zone.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -22,16 +22,31 @@
     },
     {
       "id": "the-de3f5683bbe3",
-      "title": "Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker after armed forces board vessel - UK politics live",
+      "title": "Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker after armed forces board vessel - as it happened",
       "description": "Keir Starmer said British armed forces intercepted a Russian shadow fleet vessel in the early hours of Sunday morningBritish armed forces intercept Russian shadow fleet oil tanker in ChannelUkrainian president Volodymyr Zelenskyy has thanked the UK for intercepting a Russian shadow fleet oil tanker in the English Chann…",
       "url": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-06-14T10:48:32Z",
+      "publishedAt": "2026-06-14T12:02:07Z",
       "image": "https://i.guim.co.uk/img/media/1be6a9150b826f5997adcc12f332bf6526bc164d/340_0_3466_2774/master/3466.jpg?width=140&quality=85&auto=format&fit=max&s=91f9e1a6f4bf1db76bba1ba0ace5792e",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-9b51aa50e344",
+      "title": "Despite strikes on Ukraine, Russian advances slow, analysts say",
+      "description": "As the Russian invasion of Ukraine grinds through its fifth year, battlefield momentum has stalled, creating a strategic deadlock. Russian forces lost more ground than they gained in the spring, hampered by drone warfare that has created an impassable “dead zone” along the front lines. Unable to mount sweeping offensiv…",
+      "url": "https://www.kyivpost.com/post/78135",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-14T11:20:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/14/7849c22c16d689c061f0fbdeccf0bf80.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,22 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-36a19ad2a76d",
-      "title": "Kyiv Accuses Italy of Blocking the Return of Evacuated Ukrainian Children",
-      "description": "Four years after being evacuated to Italy for safety following the start of Russia’s full-scale invasion of Ukraine in 2022, dozens of Ukrainian children are caught in a legal battle preventing their return home. Applying protections for unaccompanied minors, Italian courts have assigned the children refugee status and…",
-      "url": "https://www.kyivpost.com/post/78139",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-14T08:36:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/14/4fa28739e7cd90c558e89e462c3b556d.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,6 +96,21 @@
       "tags": []
     },
     {
+      "id": "fra-d3ee68ceb737",
+      "title": "Middle East war live: Israel military hits southern Beirut with air strikes",
+      "description": "Israel announced on Sunday that it had carried out air strikes on the southern suburbs of Beirut, which it considers a stronghold of the pro-Iranian militant group Hezbollah. US and Pakistani leaders forecast a Sunday signing of an agreement to end fighting with Iran, but Tehran has “not yet taken a decision”, accordin…",
+      "url": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday",
+      "source": "France24",
+      "publishedAt": "2026-06-14T05:12:49Z",
+      "image": "https://s.france24.com/media/display/aca36182-67e4-11f1-9c93-005056a90284/w:1024/p:16x9/000-B6ZR777.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "tim-a0d8ffb842d1",
       "title": "Anti-government protesters pan bill for political Oct. 7 inquiry, said set for vote this week",
       "description": "Relative of slain hostage rails against Netanyahu's 'populist, fascist' bid to avoid establishing state probe into failures that enable the Hamas attack The post Anti-government protesters pan bill for political Oct. 7 inquiry, said set for vote this week appeared first on The Times of Israel.",
@@ -108,21 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-ffc6670fe45f",
-      "title": "Despite regular strikes on Ukraine, Russia's offensive seems to be losing steam",
-      "description": "Strikes on Ukraine remain a regular occurrence, but behind this show of force, the Russian army’s offensive on the front lines is showing signs of slowing down, analysts say. More than four years after the full-scale invasion began, Russian capture of Ukrainian towns are becoming increasingly rare.",
-      "url": "https://www.france24.com/en/europe/20260614-despite-regular-strikes-on-ukraine-russian-offensive-loses-steam",
-      "source": "France24",
-      "publishedAt": "2026-06-14T01:23:21Z",
-      "image": "https://s.france24.com/media/display/4dca6030-67b6-11f1-8080-005056a97e36/w:1024/p:16x9/2026-06-12T142728Z-1277857282-RC2ESLAOMSOC-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-DRONES.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -172,6 +171,22 @@
       "tags": []
     },
     {
+      "id": "un -8c00f94a445e",
+      "title": "Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children",
+      "description": "The odyssey begins in Indonesia and ends, 15,000 kilometres later, in Kabul, the capital of Afghanistan. Along the way, critical food aid destined for young Afghan students crosses nine countries, over land and sea, skirting geopolitical unrest and conflict zones.",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167684",
+      "source": "UN News",
+      "publishedAt": "2026-06-13T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-03-2026-WFP-Afghanistan-05.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-a24c047b31ee",
       "title": "Mercenaries and high-profile defectors abound in Sudan war",
       "description": "Human rights organizations accuse the UAE of supporting the RSF militia, which has seen a number of high-profile defections to the Sudanese Armed Forces. Meanwhile, the civilian population continues to suffer.",
@@ -215,21 +230,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -c62a38da7e14",
-      "title": "Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed",
-      "description": "Hate speech is a grave and growing threat to peace and security, Secretary-General António Guterres warned on Thursday, calling for urgent action to break a cycle that can lead to genocide and other atrocity crimes.",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167700",
-      "source": "UN News",
-      "publishedAt": "2026-06-11T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/11-06-2026-Adobe-hate-speech.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     }
   ]

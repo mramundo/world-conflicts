@@ -1,9 +1,39 @@
 {
-  "updated": "2026-06-15T01:09:15Z",
+  "updated": "2026-06-15T03:18:14Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "nik-f0da82860930",
+      "title": "Alibaba weighs acquiring Pupu in quick-commerce battle with Meituan",
+      "description": "",
+      "url": "https://asia.nikkei.com/business/retail/alibaba-weighs-acquiring-pupu-in-quick-commerce-battle-with-meituan",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-06-15T03:18:11Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F2%2F2%2F12612214-1-eng-GB%2Ff9a21160047a-GettyImages-2271619140d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -7626e37ddaae",
+      "title": "Iran and the US agree to reopen Strait of Hormuz, talk further",
+      "description": "The U.S. and Iran have agreed to open the critical waterway that has rattled the global economy and enter into a 60-day ceasefire. The accord brings relief, but the thorniest issues at the root of the conflict remain to be resolved.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0614/iran-peace-ceasefire-trump-beirut?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-06-15T01:30:33Z",
+      "image": "https://images.csmonitor.com/csm/2026/06/0614_ONODEAL_beirut_LEDE.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "fra-684081a9f30c",
       "title": "US, Iran reach deal to end war",
@@ -16,37 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-22f9b4fa5b4c",
-      "title": "Peace deal between US and Iran announced, with strait of Hormuz expected to reopen",
-      "description": "Agreement was struck despite ⁠an Israeli strike on Lebanon on Sunday that drew criticism from both Iran and TrumpMiddle East crisis – live updatesA peace deal between the US and Iran has been reached following nearly four months of fighting in the region, Donald Trump and senior Iranian officials have said.Iranian depu…",
-      "url": "https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-14T23:06:18Z",
-      "image": "https://i.guim.co.uk/img/media/7417b2bd7db483cd37dd9f1f80678965d96790ae/0_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=f6e09451ec8747dc34a8da3a21fc1258",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -ce63549db0c0",
-      "title": "US and Iran reach deal to end war, stop naval blockade",
-      "description": "President Donald Trump posted that “the Deal with the Islamic Republic of Iran is now complete” and says the Strait of Hormuz will open immediately.",
-      "url": "https://www.csmonitor.com/World/2026/0614/US-and-Iran-reach-deal-to-end-war-stop-naval-blockade?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-06-14T22:20:32Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/1214298_1_0614-IranDeal_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,9 +65,24 @@
       "tags": []
     },
     {
+      "id": "the-f22f36456fe5",
+      "title": "Trump reportedly tells Putin he is prepared to help end war in Ukraine",
+      "description": "Trump also says in ‘friendly and frank’ phone call that US is nearing peace deal with Iran, according to Putin adviserDonald Trump told Vladimir Putin that ending Russia’s ongoing war in Ukraine was critical and that he was prepared to help, reported Russia’s TASS news agency.During a phone call on Sunday, Trump also i…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/14/trump-putin-call-ukraine-russia-iran-war",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-14T19:30:58Z",
+      "image": "https://i.guim.co.uk/img/media/29c81af2518d0cad0cb06c7a441aef5240cc6a43/428_0_2891_2313/master/2891.jpg?width=140&quality=85&auto=format&fit=max&s=5a81608e482ae9430b8a7e9dbdd969c8",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -275cea757460",
       "title": "Trump declares US-Iran peace deal 'now complete,' as Iran confirms 'immediate end' to the war",
-      "description": "'The deal with the Islamic Republic of Iran is now complete,' US President Donald Trump announced on Sunday. Pakistani Prime Minister Shehbaz Sharif posted on X that a peace deal 'has been reached,' and Iran confirmed the agreement shortly after.",
+      "description": "The initial announcement from mediator Pakistan was quickly confirmed by Washington and Tehran, and an official signing was scheduled for June 19 in Switzerland. Trump said Sunday the Strait of Hormuz, a vital route for global oil and natural gas supplies, would open after the ceremony.",
       "url": "https://www.lemonde.fr/en/international/article/2026/06/14/trump-insists-iran-deal-hours-away-despite-israeli-strike-on-beirut_6754472_4.html",
       "source": "Le Monde (EN)",
       "publishedAt": "2026-06-14T18:44:06Z",

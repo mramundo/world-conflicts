@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T21:54:58Z",
+  "updated": "2026-06-15T22:45:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/alibaba-weighs-acquiring-pupu-in-quick-commerce-battle-with-meituan",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-15T21:54:54Z",
+      "publishedAt": "2026-06-15T22:45:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F2%2F2%2F12612214-1-eng-GB%2Ff9a21160047a-GettyImages-2271619140d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -417c14c3e9bb",
+      "title": "US-Iran ceasefire leaves Israelis feeling sidelined, their war aims unachieved",
+      "description": "The U.S.-Iran ceasefire deal leaves many Israelis feeling vulnerable and abandoned by their most important ally. They voiced concern for Israel’s security, and some criticized Prime Minister Benjamin Netanyahu for failing to achieve his war aims.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0615/israel-iran-ceasefire-trump-netanyahu-failure?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-06-15T22:10:24Z",
+      "image": "https://images.csmonitor.com/csm/2026/06/0615_OISRAELREAX_missile.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-0f26265d1ff5",
+      "title": "Netanyahu avoids criticizing US-Iran deal, claims war’s main goals have been achieved",
+      "description": "In first press conference in 3 months, PM admits he does not know all details of agreement, stresses that troops will remain in south Lebanon and notes at times he and Trump disagree The post Netanyahu avoids criticizing US-Iran deal, claims war’s main goals have been achieved appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/netanyahu-avoids-criticizing-us-iran-deal-claims-wars-main-goals-have-been-achieved/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-15T21:52:20Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/F260615OFPOOL13-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,21 +80,6 @@
       "tags": []
     },
     {
-      "id": "cs -b6502a52bbaa",
-      "title": "If the US stops policing sanctions, can anyone else fill that role?",
-      "description": "With the United States showing erratic commitment to sanctions on Russia, questions arise about whether others can hold the line without Washington.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0615/sanctions-enforcement-russia-iran-trump-us-eu-uk?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-06-15T20:35:12Z",
-      "image": null,
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-84009b9d020f",
       "title": "Trump declares US-Iran peace deal ‘all signed’ as G7 leaders battle to tie up loose ends",
       "description": "US president says strait of Hormuz will be open from Friday but questions remain over waterway fees and Israeli breaches of ceasefire in Lebanon Tallying the global cost of the US-Israel war against IranMiddle East crisis – live updatesDonald Trump has declared that the strait of Hormuz will be “completely open” from F…",
@@ -91,21 +106,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-56d7acef19f8",
-      "title": "Settlers attack Palestinians and activists near Hebron, vandalize vehicles",
-      "description": "IDF troops declare area a closed military zone, forcing Palestinians to leave their farmland; elsewhere, Palestinian say settlers destroy olive trees near Bethlehem The post Settlers attack Palestinians and activists near Hebron, vandalize vehicles appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/settlers-attack-palestinians-and-activists-near-hebron-vandalize-vehicles/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-15T17:23:48Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/F260615WH010-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

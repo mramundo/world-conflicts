@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T11:11:38Z",
+  "updated": "2026-06-15T14:15:46Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/alibaba-weighs-acquiring-pupu-in-quick-commerce-battle-with-meituan",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-15T11:11:34Z",
+      "publishedAt": "2026-06-15T14:15:43Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F2%2F2%2F12612214-1-eng-GB%2Ff9a21160047a-GettyImages-2271619140d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,65 @@
       "tags": []
     },
     {
-      "id": "fra-8778a4597238",
-      "title": "Historic monastery left in flames as Ukraine faces major Russian attacks",
-      "description": "Four people were killed while the Kyiv Pechersk Lavra monastery, a symbol of Ukrainian spiritual and cultural history, caught fire, in the heaviest Russian air attack on the Ukrainian capital in two weeks, authorities said on Monday.",
-      "url": "https://www.france24.com/en/video/20260615-historic-monastery-left-in-flames-as-ukraine-faces-major-russian-attacks",
-      "source": "France24",
-      "publishedAt": "2026-06-15T09:30:16Z",
-      "image": "https://s.france24.com/media/display/3b3eaeca-6898-11f1-a89e-005056a97e36/w:1024/p:16x9/EN-20260615-101210-101348-CS.jpg",
+      "id": "the-49f7eed4bc77",
+      "title": "EU Sanctions Russia’s Prosecutor General and Dozens of Others",
+      "description": "The latest sanctions package also targets several FSB security service officers allegedly involved in Navalny’s persecution, poisoning and death.",
+      "url": "https://www.themoscowtimes.com/2026/06/15/eu-sanctions-russias-prosecutor-general-and-dozens-of-others-a93017",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-06-15T13:18:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/dc/93017__dc330aab96cc4ed0e85aadf5f23c0a4e.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-7e6cb4144c6f",
+      "title": "1,000 Years Of War And Renewal -- Kyiv's Monastery Of The Caves",
+      "description": "A blaze on June 15 amid Russia's all-out invasion of Ukraine is the latest war wound inflicted on Kyiv's centuries-old Pechersk Lavra, the most iconic religious landmark in the Ukrainian capital.",
+      "url": "https://www.rferl.org/a/ukraine-russia-invasion-lavra-monastery-caves-pechersk-history/33781318.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-15T12:39:33Z",
+      "image": "https://gdb.rferl.org/8d968dad-e611-4851-bc24-28a2e6d1f287_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-650455f433f4",
+      "title": "Russian barrages on Ukraine’s biggest cities kill at least 11, damage historic cathedral",
+      "description": "Dozens injured, including children; bombardment hits 11th-century Kyiv-Pechersk Lavra monastic complex, setting fire to Dormition Cathedral's roof; Zelensky, Trump set to attend G7 The post Russian barrages on Ukraine&#8217;s biggest cities kill at least 11, damage historic cathedral appeared first on The Times of Isra…",
+      "url": "https://www.timesofisrael.com/russian-barrages-on-ukraines-biggest-cities-kill-at-least-11-damage-historic-cathedral/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-15T11:29:44Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26166119129657-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-d6157dec0747",
+      "title": "'Sudanese people have been fighting for freedom for decades': Director Hind Meddeb",
+      "description": "The director of a film that shows how the people of Sudan have spent years fighting for their freedom has spoken of its power. Amid the civil war in Sudan that has killed tens of thousands since it broke out in 2023, a film made four years earlier during the 2019 uprising against the dictatorship has become something o…",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260615-sudanese-people-have-been-fighting-for-freedom-for-decades-director-hind-meddeb",
+      "source": "France24",
+      "publishedAt": "2026-06-15T11:26:56Z",
+      "image": "https://s.france24.com/media/display/92a72442-68a9-11f1-a949-005056bf30b7/w:1024/p:16x9/capture-4913389596a2fdb8e06d592-01093858.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -98,21 +145,6 @@
       "tags": []
     },
     {
-      "id": "tim-ba23124c1532",
-      "title": "Lebanon warns displaced against rushing home after US-Iran deal",
-      "description": "Lebanese media reports IDF drone strike, artillery fire in south * Trump calls Netanyahu ‘very difficult guy,’ says attacks on Iran could resume if nuclear deal not reached The post Lebanon warns displaced against rushing home after US-Iran deal appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/liveblog-june-15-2026/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-15T01:54:34Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260615__B73K6GM__v1__HighRes__LebanonIsraelIranUsWar-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -7626e37ddaae",
       "title": "Iran and the US agree to reopen Strait of Hormuz, talk further",
       "description": "The U.S. and Iran have agreed to open the critical waterway that has rattled the global economy and enter into a 60-day ceasefire. The accord brings relief, but the thorniest issues at the root of the conflict remain to be resolved.",
@@ -124,6 +156,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-5ad4e5095c73",
+      "title": "Protesters clash with police ahead of G7 summit in France",
+      "description": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
+      "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-14T19:46:36Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e640/live/efdb6b60-6821-11f1-8e1d-bbbb1017d210.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -140,22 +187,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-4cd6355a14ae",
-      "title": "Ukrainian Drones Target Key Russian Oil Facility, Chemical Plant",
-      "description": "Russia and Ukraine continued to exchange air attacks on June 14, as indefinitely paused peace talks between Moscow and Kyiv appear to be overshadowed by developments on the battlefield.",
-      "url": "https://www.rferl.org/a/33780158.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-14T13:38:21Z",
-      "image": "https://gdb.rferl.org/479f092e-6637-4cc9-8051-a8872ab29bd9_cx2_cy114_cw97_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -189,21 +220,6 @@
       "tags": []
     },
     {
-      "id": "bbc-e1ea4d619b76",
-      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-      "description": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
-      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-13T23:19:52Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64d9/live/b23a6ab0-666c-11f1-8e1d-bbbb1017d210.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-a24c047b31ee",
       "title": "Mercenaries and high-profile defectors abound in Sudan war",
       "description": "Human rights organizations accuse the UAE of supporting the RSF militia, which has seen a number of high-profile defections to the Sudanese Armed Forces. Meanwhile, the civilian population continues to suffer.",
@@ -215,21 +231,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-270732ef15be",
-      "title": "Russian Lawmaker Calls for Terrorist Designation for SpaceX as Company Readies Blockbuster IPO",
-      "description": "SpaceX has provided Starlink satellite internet terminals to Ukraine since the early stages of Russia's full-scale invasion.",
-      "url": "https://www.themoscowtimes.com/2026/06/12/russian-lawmaker-calls-for-terrorist-designation-for-spacex-as-company-readies-blockbuster-ipo-a92997",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-06-12T13:29:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/f9/92997__f95430d20637fcc12f1f4ddedfb80827.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     }

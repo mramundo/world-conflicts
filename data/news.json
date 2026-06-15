@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T08:12:57Z",
+  "updated": "2026-06-15T11:11:38Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/alibaba-weighs-acquiring-pupu-in-quick-commerce-battle-with-meituan",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-15T08:12:53Z",
+      "publishedAt": "2026-06-15T11:11:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F2%2F2%2F12612214-1-eng-GB%2Ff9a21160047a-GettyImages-2271619140d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,28 +20,60 @@
       "tags": []
     },
     {
-      "id": "le -d9b0baf07657",
-      "title": "Iran, US announce framework deal to end war",
-      "description": "The agreement, which is set to be signed on June 19 in Switzerland, lays out the principles for ending the fighting, ahead of a 60-day round of negotiations on Iran's nuclear program, enriched uranium stockpiles and the lifting of US sanctions.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/15/iran-us-announce-framework-deal-to-end-war_6754486_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-15T08:07:01Z",
-      "image": "https://img.lemde.fr/2026/06/15/626/0/7518/3759/644/322/60/0/b8fe1bd_ftp-1-jiod8rdtb8rw-5322079-01-06.jpg",
+      "id": "fra-8778a4597238",
+      "title": "Historic monastery left in flames as Ukraine faces major Russian attacks",
+      "description": "Four people were killed while the Kyiv Pechersk Lavra monastery, a symbol of Ukrainian spiritual and cultural history, caught fire, in the heaviest Russian air attack on the Ukrainian capital in two weeks, authorities said on Monday.",
+      "url": "https://www.france24.com/en/video/20260615-historic-monastery-left-in-flames-as-ukraine-faces-major-russian-attacks",
+      "source": "France24",
+      "publishedAt": "2026-06-15T09:30:16Z",
+      "image": "https://s.france24.com/media/display/3b3eaeca-6898-11f1-a89e-005056a97e36/w:1024/p:16x9/EN-20260615-101210-101348-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -a0b40acb4195",
-      "title": "Russian attacks in Ukraine kill nine, damage historic Kyiv cathedral",
-      "description": "A large overnight missile and drone attack strikes Kyiv, Kharkiv and other Ukrainian cities.",
-      "url": "https://www.aljazeera.com/news/2026/6/15/russian-attacks-in-ukraine-kill-nine-damage-historic-kyiv-cathedral?traffic_source=rss",
+      "id": "npr-500f8ea27188",
+      "title": "Elite Ukrainian military unit uses drones to weaken Kremlin's war machine",
+      "description": "NPR joins a Ukrainian military unit that launches long-range drones deep inside Russia, including Moscow, in an effort to weaken Russia's war machine.",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5847620/elite-ukrainian-military-unit-uses-drones-to-weaken-kremlins-war-machine",
+      "source": "NPR World",
+      "publishedAt": "2026-06-15T08:43:46Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5847620",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -9434232029b5",
+      "title": "El-Geneina’s struggle: Life amid Sudan war and humanitarian challenges",
+      "description": "El-Geneina residents face soaring food and water costs as aid struggles to meet the needs of displaced families.",
+      "url": "https://www.aljazeera.com/features/2026/6/15/el-geneinas-struggle-life-amid-sudan-war-and-humanitarian-challenges?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-15T07:40:51Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2f950c385e-1781503244.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-15T08:43:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/Sudan3-1780991452.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -d9b0baf07657",
+      "title": "As US, Iran announce framework deal to end war, Trump's priority is to go back to normal trade relations",
+      "description": "The agreement, which is set to be signed on June 19 in Switzerland, lays out the principles for ending the fighting, ahead of a 60-day round of negotiations on Iran's nuclear program, enriched uranium stockpiles and the lifting of US sanctions.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/15/iran-us-announce-framework-deal-to-end-war_6754486_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-15T08:06:58Z",
+      "image": "https://img.lemde.fr/2026/06/15/626/0/7518/3759/644/322/60/0/b8fe1bd_ftp-1-jiod8rdtb8rw-5322079-01-06.jpg",
       "categories": [
         "conflict"
       ],
@@ -66,6 +98,21 @@
       "tags": []
     },
     {
+      "id": "tim-ba23124c1532",
+      "title": "Lebanon warns displaced against rushing home after US-Iran deal",
+      "description": "Lebanese media reports IDF drone strike, artillery fire in south * Trump calls Netanyahu ‘very difficult guy,’ says attacks on Iran could resume if nuclear deal not reached The post Lebanon warns displaced against rushing home after US-Iran deal appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/liveblog-june-15-2026/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-15T01:54:34Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260615__B73K6GM__v1__HighRes__LebanonIsraelIranUsWar-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -7626e37ddaae",
       "title": "Iran and the US agree to reopen Strait of Hormuz, talk further",
       "description": "The U.S. and Iran have agreed to open the critical waterway that has rattled the global economy and enter into a 60-day ceasefire. The accord brings relief, but the thorniest issues at the root of the conflict remain to be resolved.",
@@ -77,36 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-8d9c35e36869",
-      "title": "Putin and Zelensky hold separate calls with Trump on his birthday",
-      "description": "Russia’s Vladimir Putin and Ukraine’s Volodomyr Zelensky on Sunday held separate calls with US President Donald Trump as the latter prepared to celebrate his 80th birthday. The leaders discussed the war in Ukraine and their perceptions on how the more then four-year conflict could be ended.",
-      "url": "https://www.france24.com/en/europe/20260614-putin-zelensky-separate-phonecalls-trump-birthday-ukraine-war-russia-president",
-      "source": "France24",
-      "publishedAt": "2026-06-14T18:03:46Z",
-      "image": "https://s.france24.com/media/display/aead82b8-78a3-11f0-b7e7-005056a90284/w:1024/p:16x9/AP25225769069524.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-0b8d9b2deae9",
-      "title": "IDF says it killed key Hezbollah official responsible for deadly 2007 attack on US troops",
-      "description": "Ali Mussa Daqduq was reported in 2024 to have been killed by Israel in Syria, but he apparently survived; military says he was targeted in strike on south Lebanon over the weekend The post IDF says it killed key Hezbollah official responsible for deadly 2007 attack on US troops appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-says-it-killed-key-hezbollah-official-responsible-for-2007-attack-on-us-troops/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-14T17:20:59Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2019/03/Picture_with_description-06_727x800-e1732344079719-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -168,21 +185,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-db132a949886",
-      "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
-      "description": "Britain is investigating a sanctioned tanker that is suspected of being part of the Russian \"shadow fleet,\" shipping oil in violation of international sanctions over Moscow's war on Ukraine.",
-      "url": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet",
-      "source": "NPR World",
-      "publishedAt": "2026-06-14T08:45:23Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8600x5733+0+0/resize/8600x5733!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2F9e%2F7987618240c1a85a6106bc85de79%2Fap26161387487734.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T14:41:26Z",
+  "updated": "2026-06-16T16:35:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/alibaba-weighs-acquiring-pupu-in-quick-commerce-battle-with-meituan",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-16T14:41:21Z",
+      "publishedAt": "2026-06-16T16:35:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F2%2F2%2F12612214-1-eng-GB%2Ff9a21160047a-GettyImages-2271619140d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4b51be936875",
+      "title": "Israel went to war with Iran, but Netanyahu may be the loser",
+      "description": "Critics say PM Benjamin Netanyahu&#039;s Iran war strengthened Tehran, strained US ties, and left Israel weaker.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/israel-went-to-war-with-iran-netanyahu-may-be-loser?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-16T15:57:03Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-03-19T192158Z_654383220_RC2V7KA6O84I_RTRMADP_3_IRAN-CRISIS-ISRAEL-NETANYAHU-1-1781037025.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-9705b7bf13f2",
+      "title": "'Now is the moment': G7 powers push Russia to end Ukraine war",
+      "description": "G7 leaders agreed on Tuesday to intensify pressure on Russia to end more than four years of war against Ukraine, with US President Donald Trump saying Moscow should \"make a deal\". Ukrainian President Volodymyr Zelensky joined the summit at the French resort of Evian-les-Bains, with Ukraine seen as holding up well on th…",
+      "url": "https://www.france24.com/en/video/20260616-now-is-the-moment-g7-powers-push-russia-to-end-ukraine-war",
+      "source": "France24",
+      "publishedAt": "2026-06-16T14:39:56Z",
+      "image": "https://s.france24.com/media/display/3d3da0fe-698e-11f1-897a-005056a90284/w:1024/p:16x9/EN-20260616-160143-160335-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,21 +80,6 @@
       "tags": []
     },
     {
-      "id": "fra-f770041074f5",
-      "title": "G7 allies scramble to put Ukraine back atop Trump's agenda",
-      "description": "US allies at the Group of Seven summit worked Tuesday to push the war in Ukraine back up the agenda of President Donald Trump after more than four years of fighting sparked by Russia’s full-scale invasion. The Iran conflict has in recent weeks overshadowed the war in Ukraine that Russian President Vladimir Putin launch…",
-      "url": "https://www.france24.com/en/video/20260616-g7-allies-scramble-to-put-ukraine-back-atop-trump-s-agenda",
-      "source": "France24",
-      "publishedAt": "2026-06-16T11:27:09Z",
-      "image": "https://s.france24.com/media/display/98b179d0-6973-11f1-8e15-005056bfb2b6/w:1024/p:16x9/EN-20260616-113147-113335-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-e59dbe8ae914",
       "title": "Traumatized IDF soldiers need treatment before returning to duty - Sponsored Content",
       "description": "After 300+ days of combat and witnessing severe trauma, a soldier on break appeals for therapy funding to heal for his family's sake before returning to active duty. The post Traumatized IDF soldiers need treatment before returning to duty appeared first on The Times of Israel.",
@@ -91,21 +106,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -57782e59e272",
-      "title": "Trump says he will push for peace in Ukraine after meeting Zelenskyy at G7",
-      "description": "US president says he will do what he can to end the Russia-Ukraine war after a &#039;very good&#039; meeting in France.",
-      "url": "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-16T09:13:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-15T192306Z_712214126_RC2IULAGETCP_RTRMADP_3_G7-SUMMIT-BRITAIN-1781601579.jpg?resize=1920%2C1434",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

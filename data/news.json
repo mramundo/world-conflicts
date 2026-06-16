@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T18:33:43Z",
+  "updated": "2026-06-16T20:05:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/alibaba-weighs-acquiring-pupu-in-quick-commerce-battle-with-meituan",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-16T18:33:40Z",
+      "publishedAt": "2026-06-16T20:05:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F2%2F2%2F12612214-1-eng-GB%2Ff9a21160047a-GettyImages-2271619140d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,24 +20,40 @@
       "tags": []
     },
     {
-      "id": "al -c4e1fd361012",
-      "title": "Israeli strikes kill four in southern Lebanon amid ceasefire talks",
-      "description": "Drone attacks target vehicles in Nabatieh amid fragile ceasefire negotiations between Iran and the US.",
-      "url": "https://www.aljazeera.com/news/2026/6/16/israeli-strikes-kill-four-in-southern-lebanon-amid-ceasefire-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-16T17:42:12Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26166485359000-1781603777.jpg?resize=1920%2C1440",
+      "id": "tim-a852a85b4751",
+      "title": "Israel-Lebanon talks said close to yielding lasting ceasefire deal",
+      "description": "Details reportedly being finalized; Iran threatens response if IDF keeps fighting Hezbollah, while Israeli and US officials say US-Iran deal doesn't include pullout from south Lebanon The post Israel-Lebanon talks said close to yielding lasting ceasefire deal appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/israel-lebanon-talks-said-close-to-yielding-lasting-ceasefire-deal/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-16T19:57:16Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26166365908292-1-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -77e2ce73100e",
+      "title": "What has Iran won and lost from this war?",
+      "description": "Iran&#039;s relationship with its Gulf neighbours, which it attacked during the war, has been damaged.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/16/what-has-iran-won-and-lost-from-this-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-16T19:16:42Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781633713.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
       "id": "fra-baf6c821a934",
       "title": "Super powers in the 21st century 'often not able' to defeat smaller powers",
-      "description": "Haxie Meyers-Belkin is pleased to welcome Peter Zamaya, Director of the Eurasia Democracy Initiative. His central argument is that traditional assumptions about military strength are increasingly being challenged by technological innovation, asymmetric warfare, and political resilience. In this framework, Ukraine's abi…",
+      "description": "Haxie Meyers-Belkin is pleased to welcome Peter Zalmayev, Director of the Eurasia Democracy Initiative. His central argument is that traditional assumptions about military strength are increasingly being challenged by technological innovation, asymmetric warfare, and political resilience. In this framework, Ukraine's a…",
       "url": "https://www.france24.com/en/super-powers-in-the-21st-century-often-not-able-to-defeat-smaller-powers",
       "source": "France24",
       "publishedAt": "2026-06-16T17:38:02Z",
@@ -66,33 +82,19 @@
       "tags": []
     },
     {
-      "id": "tim-8642ac021908",
-      "title": "Trump: Israel’s war on Hezbollah is too long, too deadly; Syria should fight the group instead",
-      "description": "At G7 summit, US president says Israel 'would not exist' if not for him, threatens 'ultimate consequences' if Iran seeks nukes; MOU to be signed Friday in Swiss mountaintop resort The post Trump: Israel&#8217;s war on Hezbollah is too long, too deadly; Syria should fight the group instead appeared first on The Times of…",
-      "url": "https://www.timesofisrael.com/trump-israels-war-on-hezbollah-is-too-long-too-deadly-syria-should-fight-the-group-instead/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-16T16:31:51Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26167366420613-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-9119bd4cde65",
-      "title": "Failed joint jet project highlights Europe's defense dilemma",
-      "description": "The collapse of a Franco-German fighter jet project and a faltering joint battle tank program show how national industrial interests can outweigh common defense objectives.",
-      "url": "https://www.dw.com/en/failed-joint-jet-project-highlights-europe-s-defense-dilemma/a-77572732?maca=en-rss-en-world-4025-rdf",
+      "id": "deu-65294244cdb1",
+      "title": "Is the Iran war weakening the US' superpower status?",
+      "description": "The US is still unrivaled in its ability to project military strength around the world, but Iran's success in blocking the Strait of Hormuz has raised tough question on America's role as protector of global trade.",
+      "url": "https://www.dw.com/en/is-the-iran-war-weakening-the-us-superpower-status/a-77577337?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
-      "publishedAt": "2026-06-16T16:03:00Z",
-      "image": "https://static.dw.com/image/76842181_6.jpg",
+      "publishedAt": "2026-06-16T12:27:00Z",
+      "image": "https://static.dw.com/image/77267628_6.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -164,7 +166,7 @@
       "url": "https://www.csmonitor.com/World/Middle-East/2026/0615/israel-iran-ceasefire-trump-netanyahu-failure?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-15T22:10:24Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/0615_OISRAELREAX_missile.jpg?alias=standard_900x600",
+      "image": null,
       "categories": [
         "conflict"
       ],

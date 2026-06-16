@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T23:38:05Z",
+  "updated": "2026-06-16T01:12:38Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/alibaba-weighs-acquiring-pupu-in-quick-commerce-battle-with-meituan",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-15T23:38:02Z",
+      "publishedAt": "2026-06-16T01:12:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F2%2F2%2F12612214-1-eng-GB%2Ff9a21160047a-GettyImages-2271619140d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-da1d7a1a3300",
+      "title": "Amid US-Iran deal, IDF says Hezbollah continues attacking troops in south Lebanon",
+      "description": "Beirut says 1 dead in Israeli strike on car; no injuries reported after terror group fires anti-tank missile and mortars at Israeli soldiers; UNIFIL observes decrease in violence, says UN The post Amid US-Iran deal, IDF says Hezbollah continues attacking troops in south Lebanon appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/amid-us-iran-deal-idf-says-hezbollah-continues-attacking-troops-in-south-lebanon/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-16T00:15:42Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26166502087551-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-0f26265d1ff5",
-      "title": "Netanyahu avoids criticizing US-Iran deal, claims war’s main goals have been achieved",
-      "description": "PM asserts that 'we saved Israel from annihilation' in war, admits he and Trump don't always 'see eye to eye,' stresses troops will remain in south Lebanon, admits he does not know all details of deal The post Netanyahu avoids criticizing US-Iran deal, claims war’s main goals have been achieved appeared first on The Ti…",
-      "url": "https://www.timesofisrael.com/netanyahu-avoids-criticizing-us-iran-deal-claims-wars-main-goals-have-been-achieved/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-15T21:52:20Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/F260615OFPOOL13-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -110,6 +110,22 @@
       "tags": []
     },
     {
+      "id": "le -bcfcefa03555",
+      "title": "What led a teenager and her boyfriend to kill her grandparents: 'They wanted to stop us from living our love'",
+      "description": "On March 31, François and Danielle, a beloved couple in their 70s, were found dead in their home in northern France. Their 16-year-old granddaughter and her 15-year-old boyfriend confessed to the double premeditated murder.",
+      "url": "https://www.lemonde.fr/en/france/article/2026/06/15/what-led-a-teenager-and-her-boyfriend-to-kill-her-grandparents-they-wanted-to-stop-us-from-living-our-love_6754515_7.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-15T15:49:58Z",
+      "image": "https://img.lemde.fr/2026/06/11/849/0/2953/1476/644/322/60/0/b3dd90d_upload-1-i0o1mo4nupwh-dessin-hd-corrections-meurtre-ardennes-lemonde.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "fra-e8212538cab0",
       "title": "Ukraine: Kyiv's historic cathedral set ablaze in Russian attack",
       "description": "One of #Ukraine's most important religious landmarks was hit in an overnight Russian attack on June 15. Ukrainian President Volodymyr #Zelensky visited the cathedral and called for more pressure on Russian President Vladimir #Putin ahead of his attendance at the #G7 summit in #Paris.",
@@ -122,22 +138,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -45412442f437",
-      "title": "Iran war: The price of Trump's blindness",
-      "description": "The US president will have a hard time presenting the framework deal with Tehran as a success if its main result is limited to the reopening of the Strait of Hormuz. He could likely have avoided what now looks like a fiasco had he listened to his G7 allies, whom he is meeting with in Evian on Monday. The same can be sa…",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/06/15/iran-war-the-price-of-trump-s-blindness_6754510_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-15T14:33:37Z",
-      "image": "https://img.lemde.fr/2026/06/15/688/0/8256/4128/644/322/60/0/f83799c_ftp-1-k5isnx5vzewv-5324653-01-06.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

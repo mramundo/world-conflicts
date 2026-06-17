@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T21:42:48Z",
+  "updated": "2026-06-17T22:37:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-russia-drone-war-turns-ugvs-into-medevac-lifeline",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-17T21:42:36Z",
+      "publishedAt": "2026-06-17T22:37:43Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F3%2F7%2F12617339-1-eng-GB%2F2b3977f19cc7-P-1.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-432193927038",
+      "title": "Trump’s Iran deal is result of unrealistic ambitions for an untenable war",
+      "description": "US entered war with maximalist goals and exits it with pragmatic decision to end conflict despite political costMiddle East crisis – live updatesAs the adage goes: no plan of battle survives first contact with the enemy.Donald Trump entered the war with Iran with maximalist goals: eliminating the country’s nuclear prog…",
+      "url": "https://www.theguardian.com/world/2026/jun/17/trumps-iran-deal-is-result-of-unrealistic-ambitions-for-an-untenable-war",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-17T22:17:12Z",
+      "image": "https://i.guim.co.uk/img/media/cdb206993a72bb16bc5819a27117e4a59904edb7/427_0_2007_1606/master/2007.jpg?width=140&quality=85&auto=format&fit=max&s=1798d7aae319bb5e3be5d449891fa9ee",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "the-15819477304d",
-      "title": "Construction equipment multinationals may be aiding Israeli war crimes, experts say",
-      "description": "Exclusive: Images show Israeli military using six companies’ bulldozers and excavators to demolish south Lebanon villagesHuman rights experts have alleged that six multinational construction equipment conglomerates may be aiding and abetting war crimes by supplying excavators and bulldozers to Israel, after photos and …",
-      "url": "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-17T13:00:32Z",
-      "image": "https://i.guim.co.uk/img/media/f809e8944659c46268b42cf7b55a1c780fc32c9c/806_0_4064_3251/master/4064.jpg?width=140&quality=85&auto=format&fit=max&s=45bb12af703125d06cf02d230926bb22",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-00bcd99e8904",
       "title": "Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says",
       "description": "Under its new president, Bolivia is re-establishing severed ties with the US to combat organised crime.",
@@ -178,7 +178,7 @@
       "url": "https://www.dw.com/en/is-the-iran-war-weakening-the-us-superpower-status/a-77577337?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-06-16T12:27:00Z",
-      "image": null,
+      "image": "https://static.dw.com/image/77267628_6.jpg",
       "categories": [
         "conflict",
         "analysis"

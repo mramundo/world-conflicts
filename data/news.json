@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T22:37:47Z",
+  "updated": "2026-06-17T23:37:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-russia-drone-war-turns-ugvs-into-medevac-lifeline",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-17T22:37:43Z",
+      "publishedAt": "2026-06-17T23:37:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F3%2F7%2F12617339-1-eng-GB%2F2b3977f19cc7-P-1.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -31,6 +31,21 @@
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -89ca34c2f414",
+      "title": "Al Jazeera journalist reunited with family in Khartoum after years of war",
+      "description": "Al Jazeera journalist Al-Tahir al-Mardi has been reunited with his family in Khartoum after three years of separation.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-17T21:34:05Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781732037.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -487308ff8a3f",
-      "title": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
-      "description": "More than 1,000 people in Gaza have been killed since a US-brokered &#039;ceasefire&#039; between Hamas and Israel was agreed.",
-      "url": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-17T17:14:31Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a305567-1781552487.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

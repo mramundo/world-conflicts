@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T10:37:27Z",
+  "updated": "2026-06-17T12:26:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-russia-drone-war-turns-ugvs-into-medevac-lifeline",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-17T10:37:23Z",
+      "publishedAt": "2026-06-17T12:26:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F3%2F7%2F12617339-1-eng-GB%2F2b3977f19cc7-P-1.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,17 @@
       "tags": []
     },
     {
-      "id": "the-1ca248f1afc2",
-      "title": "Middle East crisis live: leaders at G7 issue joint statement calling for ‘immediate ceasefire’ in Lebanon to secure US-Iran deal",
-      "description": "Israel’s continued military operation in southern Lebanon puts at risk the agreement reached between Iran and the US on SundayFull report: Iran says peace deal dependent on Israel’s withdrawal from LebanonAnalysis: Where does Iran deal leave US-Israel relationship?In their joint statement, the leaders of the G7 also (v…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
+      "id": "the-bddac997c27b",
+      "title": "First Thing: Trump backs G7 statement on Iran deal as domestic criticism grows",
+      "description": "Republicans question details of deal set to be signed later in the week as European leaders seek to join talks. Plus: can we refreeze the Arctic?Good morning.Donald Trump, facing severe criticism from some domestic supporters for conducting a war against Iran that has met hardly any of its original objectives, has back…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/17/first-thing-trump-g7-iran-deal-domestic-criticism",
       "source": "The Guardian",
-      "publishedAt": "2026-06-17T10:16:27Z",
-      "image": "https://i.guim.co.uk/img/media/411a7dedcb7c10dc66ec81a4ead8ed2dfe5a2ab1/517_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d03661132620181b2b912ea19fe90efa",
+      "publishedAt": "2026-06-17T11:27:22Z",
+      "image": "https://i.guim.co.uk/img/media/cb95624cd9ee2785cc0734619e9182784f1ca8e5/425_0_4909_3926/master/4909.jpg?width=140&quality=85&auto=format&fit=max&s=e2fa1980449062aa06f5b63cb8d5e0da",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,21 +65,6 @@
       "tags": []
     },
     {
-      "id": "al -7cf7e64f08fd",
-      "title": "Inside the ‘unacceptable’ UK fair selling property in Israeli settlements",
-      "description": "Activists say there was no mention of Palestinians, but participants said the war on Gaza could mean property discounts.",
-      "url": "https://www.aljazeera.com/news/2026/6/17/unacceptable-london-property-fair?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-17T09:22:31Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/img27-1781680556.jpg?resize=1200%2C630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-4191b3806dce",
       "title": "G7 Pledges 'Unwavering Support' For Ukraine Amid Signs US Ready To Pressure Kremlin",
       "description": "Leaders of the Group of Seven (G7) nations have pledged their \"unwavering support\" for Ukraine and agreed to increase pressure on Russia through sanctions and weapons supplies to Kyiv amid signs Washington is turning its focus back toward ending Europe's deadliest conflict since World War II.",
@@ -94,6 +78,21 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -76fd6ab04ab8",
+      "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
+      "description": "A statement from the G7 summit in France says leaders are united in their &#039;unwavering support for Ukraine&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-17T08:50:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3249729c90-1781680498.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -128,11 +127,11 @@
     },
     {
       "id": "le -8bb635b8b45e",
-      "title": "Amid the ruins of Southern Lebanon, Hezbollah declares victory over Israel",
+      "title": "Amid the ruins of southern Lebanon, Hezbollah declares victory over Israel",
       "description": "Thousands of Lebanese civilians who had fled the fighting have begun returning to villages south of the Litani River, which were heavily bombarded over the 105 days of war. The Shiite armed group and political party is feeling emboldened, both in relation to the Lebanese state and to Israel, by the memorandum of unders…",
       "url": "https://www.lemonde.fr/en/international/article/2026/06/17/amid-the-ruins-of-southern-lebanon-hezbollah-declares-victory-over-israel_6754574_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-17T02:14:43Z",
+      "publishedAt": "2026-06-17T02:14:38Z",
       "image": "https://img.lemde.fr/2026/06/15/0/0/6000/3000/644/322/60/0/7775a63_ftp-1-x4bgxdoxh473-05d9a513df164e32a1c3acf924738a9a-1-8b935878d99d4e5a8ed9ff4a89b8b9cc.jpg",
       "categories": [
         "conflict"

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T12:27:04Z",
+  "updated": "2026-06-17T14:14:18Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-06-15T05:40:21Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-06-15",
       "wikipediaRevision": "2026-06-15T16:20:05Z",
-      "recentNewsCount": 7
+      "recentNewsCount": 8
     },
     {
       "id": "il-ps",
@@ -45,9 +45,9 @@
         "Asymmetric"
       ],
       "wikipediaPage": "Gaza_war",
-      "lastUpdate": "2026-06-16",
-      "wikipediaRevision": "2026-06-16T19:47:16Z",
-      "recentNewsCount": 3
+      "lastUpdate": "2026-06-17",
+      "wikipediaRevision": "2026-06-17T12:36:09Z",
+      "recentNewsCount": 4
     },
     {
       "id": "sd-war",
@@ -225,8 +225,8 @@
         "Jihadism"
       ],
       "wikipediaPage": "Boko_Haram_insurgency",
-      "lastUpdate": "2026-06-16",
-      "wikipediaRevision": "2026-06-16T20:54:34Z",
+      "lastUpdate": "2026-06-17",
+      "wikipediaRevision": "2026-06-17T13:52:38Z",
       "recentNewsCount": 0
     },
     {
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 4
     }
   ]
 }

@@ -1,9 +1,24 @@
 {
-  "updated": "2026-06-17T03:16:25Z",
+  "updated": "2026-06-17T05:45:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -2634acc72cd5",
+      "title": "Russian drone strikes residential building in Ukraine",
+      "description": "A suspected Russian drone attack on a residential building in Ukraine has injured at least seven people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/russian-drone-strikes-residential-building-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-17T03:02:05Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781665249.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "le -8bb635b8b45e",
       "title": "Amid the ruins of Southern Lebanon, Hezbollah declares victory over Israel",
@@ -62,22 +77,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -77e2ce73100e",
-      "title": "What has Iran won and lost from this war?",
-      "description": "Iran&#039;s relationship with its Gulf neighbours, which it attacked during the war, has been damaged.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/16/what-has-iran-won-and-lost-from-this-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-16T19:16:42Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781633713.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

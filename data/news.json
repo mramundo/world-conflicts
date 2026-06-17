@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T17:55:20Z",
+  "updated": "2026-06-17T18:56:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-russia-drone-war-turns-ugvs-into-medevac-lifeline",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-17T17:55:16Z",
+      "publishedAt": "2026-06-17T18:56:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F3%2F7%2F12617339-1-eng-GB%2F2b3977f19cc7-P-1.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -50,21 +50,6 @@
       "tags": []
     },
     {
-      "id": "the-479345b51a9c",
-      "title": "Archaeologists find musket balls and fort linked to Battle of Bunker Hill",
-      "description": "Dig at Boston site reveals ammunition intriguing finds from 1775 clash that launched revolutionary war in earnestGenerations of Boston families played and picnicked on the grassy, sloping lawns of the Bunker Hill Monument.Musket balls and other artifacts from one of the American Revolution’s most consequential battles …",
-      "url": "https://www.theguardian.com/us-news/2026/jun/17/bunker-hill-battle-archaeology",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-17T16:30:34Z",
-      "image": "https://i.guim.co.uk/img/media/9b9b8b3f1f99c6f3a8d068d4f6181e94468c1db2/74_0_2832_2265/master/2832.jpg?width=140&quality=85&auto=format&fit=max&s=b783585302ba9cca08850523a66129fe",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-6b23207e4391",
       "title": "Trump, 'ho avuto ottimi colloqui con Zelensky e con Putin'",
       "description": "'Vorremmo vedere la fine di questa guerra'",
@@ -93,6 +78,21 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-15819477304d",
+      "title": "Construction equipment multinationals may be aiding Israeli war crimes, experts say",
+      "description": "Exclusive: Images show Israeli military using six companies’ bulldozers and excavators to demolish south Lebanon villagesHuman rights experts have alleged that six multinational construction equipment conglomerates may be aiding and abetting war crimes by supplying excavators and bulldozers to Israel, after photos and …",
+      "url": "https://www.theguardian.com/world/2026/jun/17/construction-equipment-multinationals-may-aiding-israeli-war-crimes-experts",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-17T13:00:32Z",
+      "image": "https://i.guim.co.uk/img/media/f809e8944659c46268b42cf7b55a1c780fc32c9c/806_0_4064_3251/master/4064.jpg?width=140&quality=85&auto=format&fit=max&s=45bb12af703125d06cf02d230926bb22",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {

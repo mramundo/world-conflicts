@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T09:37:05Z",
+  "updated": "2026-06-18T11:27:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-russia-drone-war-turns-ugvs-into-medevac-lifeline",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-18T09:37:01Z",
+      "publishedAt": "2026-06-18T11:27:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F3%2F7%2F12617339-1-eng-GB%2F2b3977f19cc7-P-1.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,63 @@
       "tags": []
     },
     {
-      "id": "bbc-6a261486c848",
-      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
-      "description": "The gunmen concealed their weapons behind flowers and stuffed toys while waiting for the victim outside Guayaquil airport.",
-      "url": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
+      "id": "the-f2af3b9cbd61",
+      "title": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
+      "description": "Attack, which Kyiv said was in response to strike on historic monastery, also forces evacuation at Russia’s biggest airport Europe live – latest updatesUkrainian drones have hit several locations across Moscow in Kyiv’s biggest air raid on the city since the start of the full-scale invasion, setting a major ⁠oil refine…",
+      "url": "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-18T11:04:50Z",
+      "image": "https://i.guim.co.uk/img/media/af232be59891e95527cf183ba8bc3e0ab8cceb4e/706_64_2448_1958/master/2448.jpg?width=140&quality=85&auto=format&fit=max&s=8d7573ce79a46ed71a256bedfca21fd9",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-8a07ed72b22f",
+      "title": "Gunfire and explosions heard at Niger capital's airport",
+      "description": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-06-18T09:26:16Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66b6/live/f1aff820-6af1-11f1-9be9-d920b9420b45.jpg",
+      "publishedAt": "2026-06-18T10:06:47Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/252c/live/b6de6170-fcdb-11f0-9c97-69939b61e7c7.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-956035a9af54",
+      "title": "Cuba approves economic reforms amid US pressure",
+      "description": "Cuba's Communist Party has signed off on a package of free market reforms. One member called the changes a response to \"economic war,\" while the party said they were not a \"deviation\" from the socialist project.",
+      "url": "https://www.dw.com/en/cuba-approves-economic-reforms-amid-us-pressure/a-77597635?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-18T09:12:00Z",
+      "image": "https://static.dw.com/image/77601355_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-0fa9363048a1",
+      "title": "Trump’s unfiltered commentary on Lebanon is leaving Israel with an impossible choice",
+      "description": "Clearly tired of what Israel sees as an urgent fight, US president is making the contradictory claims that the war on Hezbollah is both not speedy enough and not careful enough The post Trump&#8217;s unfiltered commentary on Lebanon is leaving Israel with an impossible choice appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/trumps-unfiltered-commentary-on-lebanon-is-leaving-israel-with-an-impossible-choice/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-18T08:46:48Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26167372592193-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,6 +96,21 @@
       "tags": []
     },
     {
+      "id": "fra-f2603fa76ac9",
+      "title": "Tehran and Washington sign interim peace deal to end US-Israeli war on Iran",
+      "description": "President Donald Trump and his Iranian counterpart Masoud Pezeshkian on Wednesday signed an interim deal to end the US-Israeli war on Iran. The two countries now have 60 days to hammer out a lasting agreement that would see Tehran diluting its enriched uranium stocks in exchange for sweeping sanctions relief and a $300…",
+      "url": "https://www.france24.com/en/middle-east/20260618-tehran-and-washington-sign-interim-peace-deal-to-end-us-israeli-war-on-iran",
+      "source": "France24",
+      "publishedAt": "2026-06-18T06:31:20Z",
+      "image": "https://s.france24.com/media/display/48b67c0e-6ac3-11f1-bc11-005056bfb2b6/w:1024/p:16x9/Iran-usa.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "npr-e7211ad47bdc",
       "title": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
       "description": "Israeli operations in the Gaza Strip have killed 1,005 Palestinians since a ceasefire was reached between Israel and the militant group Hamas last October, according to Gaza Health Ministry.",
@@ -57,21 +118,6 @@
       "source": "NPR World",
       "publishedAt": "2026-06-18T05:56:49Z",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4482x2988+0+0/resize/4482x2988!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F3e%2Fe362abd7407c942cd1c343dd2a82%2Fap26168413341589.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-1c5ef0d973f6",
-      "title": "Ukraine bolsters its northern defences amid fears Belarus is being dragged into war",
-      "description": "Kyiv is not taking any risks amid Moscow’s efforts to integrate Minsk ever more closely into its warRussian spy drones flying into Ukraine from Belarusian airspace have sharply increased since the beginning of the year, as senior officials in Kyiv express mounting concern over Belarus’s involvement in the war.Ukraine h…",
-      "url": "https://www.theguardian.com/world/2026/jun/18/ukraine-bolsters-its-northern-defences-amid-fears-belarus-is-being-dragged-into-war",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-18T05:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/25f7b8e9458740416f0d6f3a33a94f1d88d60bff/704_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=93a5b0a7aa821bbc5291026f88316612",
       "categories": [
         "conflict"
       ],
@@ -89,37 +135,6 @@
       "image": "https://img.lemde.fr/2026/06/17/91/0/4300/2150/644/322/60/0/1a9d071_upload-1-wxxfcs1cu9z2-sergii-24brigade-06.jpg",
       "categories": [
         "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-7bb0f70d5994",
-      "title": "Iran says Israel’s continued presence in south Lebanon would nullify deal with US",
-      "description": "Israel not backing down on keeping troops in south Lebanon, holding 'stubborn' talks with US on matter, official close to Netanyahu says * Hearing underway on petitions seeking annulment of state comptroller election The post Iran says Israel’s continued presence in south Lebanon would nullify deal with US appeared fir…",
-      "url": "https://www.timesofisrael.com/liveblog-june-18-2026/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-17T22:48:12Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26169197827709-e1781762576374-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-e01f28c9673b",
-      "title": "UNHCR campaign to defend fundamental human right to asylum ahead of World Refugee Day",
-      "description": "The UNHCR launched it's \"Until Everyone is Safe\" campaign. It's a call to young people across the world to reclaim and defend the fundamental human right of asylum as a shared global good. •The campaign challenges stereotypes against refugees, emphasizing that the right to seek safety is a crucial lifeline that means f…",
-      "url": "https://www.france24.com/en/video/20260617-unchr-campaign-to-defend-fundamental-human-right-to-asylum-ahead-of-world-refugee-day",
-      "source": "France24",
-      "publishedAt": "2026-06-17T19:48:30Z",
-      "image": "https://s.france24.com/media/display/eb7e4e56-6a84-11f1-975b-005056bfb2b6/w:1024/p:16x9/EN-20260617-213145-213945-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
@@ -168,22 +183,6 @@
         "analysis"
       ],
       "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-65294244cdb1",
-      "title": "Is the Iran war weakening the US' superpower status?",
-      "description": "The US is still unrivaled in its ability to project military strength around the world, but Iran's success in blocking the Strait of Hormuz has raised tough question on America's role as protector of global trade.",
-      "url": "https://www.dw.com/en/is-the-iran-war-weakening-the-us-superpower-status/a-77577337?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-16T12:27:00Z",
-      "image": "https://static.dw.com/image/77267628_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },

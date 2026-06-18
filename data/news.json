@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T21:45:12Z",
+  "updated": "2026-06-18T22:43:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/transportation/india-s-regional-aviation-ambitions-stall-on-iran-war-disruption",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-18T21:45:09Z",
+      "publishedAt": "2026-06-18T22:43:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F5%2F0%2F12620584-1-eng-GB%2F176655aadef9-b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -33,6 +33,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "cs -514f969d1ff2",
+      "title": "For Iran, a new ceasefire means big gains. But Trump’s war goals fall short.",
+      "description": "A new memorandum of understanding signed by U.S. and Iranian leaders has a chance to finally end the war. But the hard work to secure lasting peace in the Middle East is yet to begin.",
+      "url": "https://www.csmonitor.com/World/2026/0618/trump-iran-deal-strait-of-hormuz?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-06-18T21:04:21Z",
+      "image": "https://images.csmonitor.com/csm/2026/06/0618_OIRANDEAL_signing_LEDE.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -216,21 +231,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -417c14c3e9bb",
-      "title": "US-Iran ceasefire leaves Israelis feeling sidelined, their war aims unachieved",
-      "description": "The U.S.-Iran ceasefire deal leaves many Israelis feeling vulnerable and abandoned by their most important ally. They voiced concern for Israel’s security, and some criticized Prime Minister Benjamin Netanyahu for failing to achieve his war aims.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0615/israel-iran-ceasefire-trump-netanyahu-failure?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-06-15T22:10:24Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/0615_OISRAELREAX_missile.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     }
   ]

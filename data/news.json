@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T19:47:23Z",
+  "updated": "2026-06-18T20:54:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-russia-drone-war-turns-ugvs-into-medevac-lifeline",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-18T19:47:19Z",
+      "publishedAt": "2026-06-18T20:54:43Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F3%2F7%2F12617339-1-eng-GB%2F2b3977f19cc7-P-1.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,48 @@
       "tags": []
     },
     {
+      "id": "bbc-de06a1143c7f",
+      "title": "What Iran and US get from deal and why both could struggle to keep it",
+      "description": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-18T20:04:40Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5277/live/e2c02aa0-6b01-11f1-8317-e1f912f75a64.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "the-c9e7bdeeab80",
-      "title": "Middle East crisis live: Trump says US expects ‘complete ceasefire on all fronts, including Lebanon, Hezbollah and Israel’",
+      "title": "Middle East crisis: Trump says US expects ‘complete ceasefire on all fronts, including Lebanon, Hezbollah and Israel’ – as it happened",
       "description": "US president says he encourages Middle East countries to ‘maintain commitment to allowing our negotiations to beautifully unfold’Reaction: Donald Trump’s Iran deal met with anger, relief and incredulityAnalysis: Trump’s Iran deal is result of unrealistic ambitions for an untenable warDonald Trump had urged Israeli prim…",
       "url": "https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel",
       "source": "The Guardian",
-      "publishedAt": "2026-06-18T19:28:17Z",
+      "publishedAt": "2026-06-18T20:04:37Z",
       "image": "https://i.guim.co.uk/img/media/fdf8cd63f870b6a09e982d0d7628467f0d6bc7c9/1466_472_4102_3282/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=8a739cd0c728bc34634d909f4f7dc16a",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-1e2d3660b3cc",
+      "title": "US forces lift Iran ports blockade as uncertainty clouds planned Switzerland talks",
+      "description": "The US lifted its blockade of Iranian ports on Thursday after US President Donald Trump and Iran President Masoud Pezeshkian signed an interim peace deal to end the US-Israeli war on Iran. But uncertainty surrounded Friday's planned talks in Switzerland as both sides prepared for negotiations on Tehran’s nuclear progra…",
+      "url": "https://www.france24.com/en/middle-east/20260618-us-forces-lift-iran-ports-blockade-as-uncertainty-clouds-planned-switzerland-talks",
+      "source": "France24",
+      "publishedAt": "2026-06-18T19:51:35Z",
+      "image": "https://s.france24.com/media/display/a5e11d3e-6b4b-11f1-b892-005056bfb2b6/w:1024/p:16x9/000-B2984AP.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -82,42 +113,11 @@
     {
       "id": "npr-0f5d460e2ed9",
       "title": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
-      "description": "Ukraine launched a new wave of drone attacks on Russia early Thursday, amounting to one of the largest attacks on the Russian capital since the Kremlin ordered the invasion of Ukraine more than four years ago.",
+      "description": "Ukraine launched a wave of drone attacks on Russia early Thursday — one of the largest attacks on Russia's capital since the Kremlin ordered the invasion of Ukraine more than four years ago.",
       "url": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery",
       "source": "NPR World",
       "publishedAt": "2026-06-18T16:12:18Z",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8086x5390+0+0/resize/8086x5390!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fea%2F2e6085a343db8a9bf945a17293c3%2Fgettyimages-2281563734.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-de06a1143c7f",
-      "title": "Why Iran believes deal with US leaves it stronger than before",
-      "description": "Iran has come out of the war's first chapter stronger than many expected, but its next challenge may be harder, the BBC Persian Service's Amir Azimi writes.",
-      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-18T15:38:18Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5277/live/e2c02aa0-6b01-11f1-8317-e1f912f75a64.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-f0203188aa78",
-      "title": "Ukraine launches large drone attack on Moscow ahead of NATO meeting",
-      "description": "Explosions were seen across Moscow on June 18 as Ukraine targeted the capital with a large-scale drone attack. Nearly 200 drones were fired at the city forcing the airport to halt flights and evacuate passengers. It's part of Kyiv's plan to choke Russia's war machine by hitting deeper into its territory.",
-      "url": "https://www.france24.com/en/ukraine-launches-large-drone-attack-on-moscow-ahead-of-nato-meeting",
-      "source": "France24",
-      "publishedAt": "2026-06-18T14:00:50Z",
-      "image": "https://s.france24.com/media/display/e6edf19c-6b07-11f1-883d-005056bf30b7/w:1024/p:16x9/EN-20260618-131120-131308-CS.jpg",
       "categories": [
         "conflict"
       ],

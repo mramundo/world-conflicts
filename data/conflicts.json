@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T20:54:55Z",
+  "updated": "2026-06-18T21:45:21Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-06-17T22:12:35Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-06-18",
       "wikipediaRevision": "2026-06-18T11:11:33Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 3
     },
     {
       "id": "sd-war",
@@ -406,7 +406,7 @@
       "lastUpdate": "2026-06-08",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-06-08T19:44:24Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "red-sea",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 3
     }
   ]
 }

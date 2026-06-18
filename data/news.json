@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T07:50:37Z",
+  "updated": "2026-06-18T09:37:05Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-russia-drone-war-turns-ugvs-into-medevac-lifeline",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-18T07:50:34Z",
+      "publishedAt": "2026-06-18T09:37:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F3%2F7%2F12617339-1-eng-GB%2F2b3977f19cc7-P-1.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-6a261486c848",
+      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
+      "description": "The gunmen concealed their weapons behind flowers and stuffed toys while waiting for the victim outside Guayaquil airport.",
+      "url": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-18T09:26:16Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66b6/live/f1aff820-6af1-11f1-9be9-d920b9420b45.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -fef41bbad0dc",
+      "title": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
+      "description": "Russia&#039;s Defence Ministry says air defences shot down 555 Ukrainian drones over several regions overnight.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-18T08:11:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a339236-1781764662.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,11 +81,11 @@
     },
     {
       "id": "le -4e477373dd90",
-      "title": "Drones carrying hard-boiled eggs and dried meat: On the Donbas front, a warehouse manager aims to improve daily life for Ukrainian soldiers",
+      "title": "On Donbas front, warehouse manager aims to improve daily life for Ukrainian soldiers",
       "description": "In the Donbas, some combat zones have become too dangerous to deliver food, water and medicine to frontline infantry by road. A warehouse manager and amateur cook is doing everything he can to organize drone deliveries of varied food supplies and necessities.",
       "url": "https://www.lemonde.fr/en/international/article/2026/06/18/drones-carrying-hard-boiled-eggs-and-dried-meat-on-the-donbas-front-a-warehouse-manager-aims-to-improve-daily-life-for-ukrainian-soldiers_6754616_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-18T02:36:51Z",
+      "publishedAt": "2026-06-18T02:36:47Z",
       "image": "https://img.lemde.fr/2026/06/17/91/0/4300/2150/644/322/60/0/1a9d071_upload-1-wxxfcs1cu9z2-sergii-24brigade-06.jpg",
       "categories": [
         "conflict"
@@ -66,46 +96,16 @@
     },
     {
       "id": "tim-7bb0f70d5994",
-      "title": "IDF reserve soldier killed, 7 others wounded by Hezbollah explosive in southern Lebanon",
-      "description": "Army says Master Sgt. (res.) Alexander Filin and other troops were walking along Litani River when hit by blast * Trump signs deal with Iran, which says Friday meeting in Switzerland may not happen now The post IDF reserve soldier killed, 7 others wounded by Hezbollah explosive in southern Lebanon appeared first on The…",
+      "title": "Iran says Israel’s continued presence in south Lebanon would nullify deal with US",
+      "description": "Israel not backing down on keeping troops in south Lebanon, holding 'stubborn' talks with US on matter, official close to Netanyahu says * Hearing underway on petitions seeking annulment of state comptroller election The post Iran says Israel’s continued presence in south Lebanon would nullify deal with US appeared fir…",
       "url": "https://www.timesofisrael.com/liveblog-june-18-2026/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-17T22:48:12Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/אלכסנדר-פילין-e1781752850790-1024x640.jpg",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26169197827709-e1781762576374-1024x640.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-cd4302ce35d4",
-      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
-      "description": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
-      "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-17T22:36:13Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2069/live/d976b510-6a41-11f1-9742-4f68b41a569d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -89ca34c2f414",
-      "title": "Al Jazeera journalist reunited with family in Khartoum after years of war",
-      "description": "Al Jazeera journalist Al-Tahir al-Mardi has been reunited with his family in Khartoum after three years of separation.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-17T21:34:05Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781732037.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

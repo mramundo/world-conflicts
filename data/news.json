@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T05:42:48Z",
+  "updated": "2026-06-18T07:50:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-russia-drone-war-turns-ugvs-into-medevac-lifeline",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-18T05:42:43Z",
+      "publishedAt": "2026-06-18T07:50:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F3%2F7%2F12617339-1-eng-GB%2F2b3977f19cc7-P-1.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-e7211ad47bdc",
+      "title": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
+      "description": "Israeli operations in the Gaza Strip have killed 1,005 Palestinians since a ceasefire was reached between Israel and the militant group Hamas last October, according to Gaza Health Ministry.",
+      "url": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say",
+      "source": "NPR World",
+      "publishedAt": "2026-06-18T05:56:49Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4482x2988+0+0/resize/4482x2988!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F3e%2Fe362abd7407c942cd1c343dd2a82%2Fap26168413341589.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,7 +67,7 @@
     {
       "id": "tim-7bb0f70d5994",
       "title": "IDF reserve soldier killed, 7 others wounded by Hezbollah explosive in southern Lebanon",
-      "description": "Arms says Master Sgt. (res.) Alexander Filin and other troops were walking along Litani River when hit by blast * Trump signs deal with Iran, which says Friday meeting in Switzerland may not happen now The post IDF reserve soldier killed, 7 others wounded by Hezbollah explosive in southern Lebanon appeared first on The…",
+      "description": "Army says Master Sgt. (res.) Alexander Filin and other troops were walking along Litani River when hit by blast * Trump signs deal with Iran, which says Friday meeting in Switzerland may not happen now The post IDF reserve soldier killed, 7 others wounded by Hezbollah explosive in southern Lebanon appeared first on The…",
       "url": "https://www.timesofisrael.com/liveblog-june-18-2026/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-17T22:48:12Z",
@@ -154,21 +169,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-d222bfa5bb38",
-      "title": "UN chief visits Haiti, where a new 'gang-suppression force' will be deployed",
-      "description": "U.N. Secretary-General António Guterres's visit to Port-au-Prince comes as gang violence persists. According to U.N. data, 2,300 people have been killed in Haiti this year, with another 100 kidnapped.",
-      "url": "https://www.npr.org/2026/06/17/g-s1-128536/un-chief-visits-haiti",
-      "source": "NPR World",
-      "publishedAt": "2026-06-17T06:15:36Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5652x3768+0+0/resize/5652x3768!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2Fd2%2Ffe470c5c45ffbb5d08aa7aa413c4%2Fap26167603119785.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

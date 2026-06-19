@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T10:34:53Z",
+  "updated": "2026-06-19T12:23:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,59 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-gulf-ceasefire-brings-relief-but-asia-s-energy-strain-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-19T10:34:49Z",
+      "publishedAt": "2026-06-19T12:23:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F1%2F2%2F12612119-1-eng-GB%2F9c8d75eef4ac-1a.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-6bc8e115b988",
+      "title": "Months of war fundamentally change Iran-Gulf ties",
+      "description": "The conflict in the Middle East has altered the strategic landscape between Tehran and Gulf states. Trust is lacking, but at the same time, both sides recognize that they remain dependent on one another.",
+      "url": "https://www.dw.com/en/months-of-war-fundamentally-change-iran-gulf-ties/a-77626785?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-19T12:01:00Z",
+      "image": "https://static.dw.com/image/76630490_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-739b99061116",
+      "title": "EU leaders discuss Ukraine membership and next multi-billion euro budget",
+      "description": "It is day two of the EU leaders' summit, where the bloc's next seven-year budget is being discussed. According to the European Commission's proposal, the 2028-2034 budget should ⁠be €2 trillion. But leaders are set to clash after both net contributors and beneficiaries criticised that initial proposal. They also agreed…",
+      "url": "https://www.france24.com/en/eu-leaders-discuss-ukraine-membership-and-next-multi-billion-euro-budget",
+      "source": "France24",
+      "publishedAt": "2026-06-19T10:52:50Z",
+      "image": "https://s.france24.com/media/display/e54702fc-6bca-11f1-ad32-005056bfb2b6/w:1024/p:16x9/EN-20260619-120847-121344-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a1a6defd7dd5",
+      "title": "Can US-Iran peace ‘deal’ survive Israeli bombing of Lebanon?",
+      "description": "Israel is blowing up buildings in Lebanon - and chances of a lasting deal to secure peace in the region.",
+      "url": "https://www.aljazeera.com/features/2026/6/19/can-us-iran-peace-deal-survive-israeli-bombing-of-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-19T10:13:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-17T124754Z_777408403_RC22LKAIE4B9_RTRMADP_3_IRAN-CRISIS-LEBANON-HEZBOLLAH-1781858213.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -80,22 +126,6 @@
       "tags": []
     },
     {
-      "id": "al -e5e4281dce42",
-      "title": "Behind the noise of an ‘Iran deal’, Palestine continues to burn",
-      "description": "Israel&#039;s war on the Palestinians never stopped; the world just stopped watching.",
-      "url": "https://www.aljazeera.com/opinions/2026/6/19/behind-the-noise-of-an-iran-deal-palestine-continues-to-burn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-19T04:56:53Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2b5fe9deba-1781227497.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "tim-24c4c88f477f",
       "title": "Trump: ‘We expect a complete ceasefire’ between Hezbollah and Israel",
       "description": "Netanyahu vows IDF to stay in Lebanon amid US and Iranian pressure; Israeli envoy to US says Jerusalem remains committed to separate truce with Beirut if Hezbollah doesn't violate it The post Trump: &#8216;We expect a complete ceasefire&#8217; between Hezbollah and Israel appeared first on The Times of Israel.",
@@ -108,21 +138,6 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-929df7b79710",
-      "title": "Colombia sees new peace breakthrough as 100 rebels hand over arms",
-      "description": "About 100 guerrillas surrendered their weapons in southern Colombia on Thursday under a peace deal with leftist President Gustavo Petro. The surrender came days before Sunday's presidential runoff election between Petro ally Senator Ivan Cepeda, who promises to continue the peace initiative, and far-right candidate Abe…",
-      "url": "https://www.france24.com/en/americas/20260619-colombia-peace-breakthrough-100-rebels-hand-over-arms",
-      "source": "France24",
-      "publishedAt": "2026-06-19T00:29:20Z",
-      "image": "https://s.france24.com/media/display/673e5e34-593f-11f1-b8ef-005056a97e36/w:1024/p:16x9/AP26144828956394.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -153,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-d065abd41876",
-      "title": "US-Iran deal: Between conflict and compromise",
-      "description": "The US and Iran are starting tough negotiations after signing a ceasefire agreement. DW looks at the red lines, and where both sides could agree.",
-      "url": "https://www.dw.com/en/us-iran-deal-between-conflict-and-compromise/a-77606668?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-18T13:28:00Z",
-      "image": "https://static.dw.com/image/77596887_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

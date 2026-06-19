@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T21:29:33Z",
+  "updated": "2026-06-19T22:24:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-restaurants-battle-over-limited-pool-of-foreign-workers",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-19T21:29:31Z",
+      "publishedAt": "2026-06-19T22:24:42Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F2%2F12632513-1-eng-GB%2Fed168fca8f71-photo_SXM2026061700002948.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -691fcee7481f",
+      "title": "US announces new round of Israel-Lebanon talks in Washington next week",
+      "description": "Talks come as Hezbollah, Israel say new ceasefire has been reached in wake of US-Iran memorandum to end war.",
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-19T21:02:25Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a359acd-1781897933.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -95,18 +110,19 @@
       "tags": []
     },
     {
-      "id": "al -e7f2e2c1b555",
-      "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
-      "description": "The Kremlin said it will &#039;continue&#039; striking Ukraine after biggest-ever drone attack on Russian capital.",
-      "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-19T15:16:22Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-01T163904Z_1025743258_RC23DJABP1O0_RTRMADP_3_UKRAINE-CRISIS-ATTACK-DNIPROPETROVSK-REGION-1769964280.jpg?resize=1200%2C630",
+      "id": "rfe-26af56006f26",
+      "title": "'It's Come To This': Gas Shortages Hit Russia As Ukraine Hits Refineries",
+      "description": "Pulling up at a gas station with no fuel for sale, a Russian woman is aghast: “What’s going on in this country?” What’s going on is that in the fifth year of the full-scale invasion, Ukraine is fighting back with strikes on oil refineries, part of a bid to bring the war to citizens across Russia.",
+      "url": "https://www.rferl.org/a/russia-gasoline-fuel-crisis-refinery-attacks-ukraine/33784529.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-19T14:19:30Z",
+      "image": "https://gdb.rferl.org/830aaa1b-0e89-4664-2b3d-08decd1f5434_w800_h450.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -213,22 +229,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-4191b3806dce",
-      "title": "G7 Pledges 'Unwavering Support' For Ukraine Amid Signs US Ready To Pressure Kremlin",
-      "description": "Leaders of the Group of Seven (G7) nations have pledged their \"unwavering support\" for Ukraine and agreed to increase pressure on Russia through sanctions and weapons supplies to Kyiv amid signs Washington is turning its focus back toward ending Europe's deadliest conflict since World War II.",
-      "url": "https://www.rferl.org/a/g7-support-ukraine-us-pressure-kremlin-russia-trump-putin/33782886.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-17T09:18:47Z",
-      "image": "https://gdb.rferl.org/7d158082-782a-4140-9c91-2f041c2eb002_cx0_cy7_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     }
   ]

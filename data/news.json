@@ -1,21 +1,36 @@
 {
-  "updated": "2026-06-19T05:49:45Z",
+  "updated": "2026-06-19T08:01:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-7e86ddbe6c9a",
-      "title": "India's regional aviation ambitions stall on Iran war disruption",
+      "id": "nik-20759a6360ff",
+      "title": "Editor's Choice: Gulf ceasefire brings relief but Asia's energy strain persists",
       "description": "",
-      "url": "https://asia.nikkei.com/business/transportation/india-s-regional-aviation-ambitions-stall-on-iran-war-disruption",
+      "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-gulf-ceasefire-brings-relief-but-asia-s-energy-strain-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-19T05:49:40Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F5%2F0%2F12620584-1-eng-GB%2F176655aadef9-b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-06-19T08:01:15Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F1%2F2%2F12612119-1-eng-GB%2F9c8d75eef4ac-1a.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-21ba740d4281",
+      "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+      "description": "Eighteen people and four IDF soldiers are also killed in clashes in Lebanon, officials say, despite a truce meant to be in place in the country.",
+      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-19T07:38:16Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f807/live/15c36cd0-6ba9-11f1-ad4f-418bfa76e5cc.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-c94e336af1e9",
-      "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
-      "description": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
-      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-19T05:33:59Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a7/live/20681b30-6b2d-11f1-b1db-af71d47507d6.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -100,7 +100,7 @@
     {
       "id": "fra-929df7b79710",
       "title": "Colombia sees new peace breakthrough as 100 rebels hand over arms",
-      "description": "About 100 guerrillas surrendered their weapons in southern Colombia on Thursday under a peace deal with leftist President Gustavo Petro, AFP learned. Some 99 rebels from the National Coordinating Committee of the Bolivarian Army laid down arms in Putumayo province ahead of Sunday's presidential runoff election.",
+      "description": "About 100 guerrillas surrendered their weapons in southern Colombia on Thursday under a peace deal with leftist President Gustavo Petro. The surrender came days before Sunday's presidential runoff election between Petro ally Senator Ivan Cepeda, who promises to continue the peace initiative, and far-right candidate Abe…",
       "url": "https://www.france24.com/en/americas/20260619-colombia-peace-breakthrough-100-rebels-hand-over-arms",
       "source": "France24",
       "publishedAt": "2026-06-19T00:29:20Z",

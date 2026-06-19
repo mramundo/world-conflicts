@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T08:01:19Z",
+  "updated": "2026-06-19T10:34:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-gulf-ceasefire-brings-relief-but-asia-s-energy-strain-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-19T08:01:15Z",
+      "publishedAt": "2026-06-19T10:34:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F1%2F2%2F12612119-1-eng-GB%2F9c8d75eef4ac-1a.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,32 +20,62 @@
       "tags": []
     },
     {
-      "id": "bbc-21ba740d4281",
-      "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
-      "description": "Eighteen people and four IDF soldiers are also killed in clashes in Lebanon, officials say, despite a truce meant to be in place in the country.",
-      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-19T07:38:16Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f807/live/15c36cd0-6ba9-11f1-ad4f-418bfa76e5cc.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-bf114410e913",
-      "title": "Media, 'raid aerei Idf nella notte in Libano, almeno 16 morti'",
-      "description": "Esercito Israele, 'Hezbollah aveva violato più volte la tregua'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/19/media-raid-aerei-idf-nella-notte-in-libano-almeno-16-morti_307323a1-1bde-4296-b534-10b988461558.html",
+      "id": "ans-8df54b4609db",
+      "title": "Idf, 'eliminati decine terroristi e colpiti oltre 80 obiettivi nel sud del Libano'",
+      "description": "'In risposta alle violazioni del cessate il fuoco di Hezbollah'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/19/idf-eliminati-decine-terroristi-e-colpiti-oltre-80-obiettivi-nel-sud-del_fd03cfd5-eece-4f56-91ba-de135fda81b6.html",
       "source": "ANSA",
-      "publishedAt": "2026-06-19T05:37:41Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/17/7787b1aa44d46973045de6f7e252adb5.jpg",
+      "publishedAt": "2026-06-19T09:52:56Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2024/8/25/ee5f082f698a30ac33c259c6fe5f1dfb.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-58c8d48b8c5f",
+      "title": "US-Iran talks abruptly called off after Israel and Hezbollah trade deadly attacks",
+      "description": "JD Vance’s staff were at an airbase ready to fly to summit in Obbürgen before trip was suddenly cancelledMiddle East crisis – live updatesTalks due to take place on Friday between the US ⁠and ​Iran in Switzerland to implement a peace deal were cancelled as Hezbollah killed four Israeli soldiers and Israel carried out a…",
+      "url": "https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-19T09:35:02Z",
+      "image": "https://i.guim.co.uk/img/media/f821303100bf18e1d68f3c3435c78b53531e0674/815_185_3777_3023/master/3777.jpg?width=140&quality=85&auto=format&fit=max&s=d98e9aaf05cc1433fbcb17672ed94b03",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -8af732c7c215",
+      "title": "EU hails turning tide for Ukraine, yet membership path remains uncertain",
+      "description": "EU member states applauded what they see as a favorable turn for Kyiv and agreed to extend sanctions against Russia. Despite efforts by Ukrainian President Volodymyr Zelensky, he failed to persuade EU leaders to accelerate membership negotiations for his country.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/19/eu-hails-turning-tide-for-ukraine-yet-membership-path-remains-uncertain_6754657_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-19T08:25:05Z",
+      "image": "https://img.lemde.fr/2026/06/18/581/0/6968/3484/644/322/60/0/a75c7be_ftp-1-pmww1iut4svd-5361589-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-c94e336af1e9",
+      "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+      "description": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
+      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-19T05:33:59Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a7/live/20681b30-6b2d-11f1-b1db-af71d47507d6.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -57,22 +87,6 @@
       "source": "Al Jazeera",
       "publishedAt": "2026-06-19T04:56:53Z",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2b5fe9deba-1781227497.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -e390d939bf17",
-      "title": "'In Iran, none of the causes that sparked the relentless and admirable anti-regime uprisings has disappeared'",
-      "description": "The Islamic Republic is militarily weakened and economically drained after the joint Israeli-American offensive. Until now, Iranian leaders have remained united, but divisions may emerge in the coming months, observes Alain Frachon, columnist at Le Monde, in his regular column.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/06/19/in-iran-none-of-the-causes-that-sparked-the-relentless-and-admirable-anti-regime-uprisings-has-disappeared_6754655_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-19T03:58:49Z",
-      "image": "https://img.lemde.fr/2026/06/17/166/0/5000/2500/644/322/60/0/ae63dba_ftp-1-kpja2njve3qt-2026-06-17t080620z-1472761343-rc2ivlazpuf5-rtrmadp-3-iran-crisis.JPG",
       "categories": [
         "conflict",
         "analysis"
@@ -109,21 +123,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-708a1860defa",
-      "title": "JD Vance tells Iran deal critics in Israel: Trump is your only ally left in the world",
-      "description": "In a sharp rebuke to critics of Trump’s deal with Iran, the vice-president referenced the billions in defence aid Israel recieves from the USNews: Iran announces plans to bring in maritime fees for strait of Hormuz Analysis: Iran peace deal makes clear how far US has been forced to retreat since 2025 US vice-president …",
-      "url": "https://www.theguardian.com/us-news/2026/jun/19/jd-vance-israel-iran-deal-critics",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-18T23:52:54Z",
-      "image": "https://i.guim.co.uk/img/media/eaa8b5ce578a875bec9a1c111cbac1faa174f8aa/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=463fcfb09d7ce387aa719727b175e9ba",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

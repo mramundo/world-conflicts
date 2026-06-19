@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T18:43:21Z",
+  "updated": "2026-06-19T19:36:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-gulf-ceasefire-brings-relief-but-asia-s-energy-strain-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-19T18:43:17Z",
+      "publishedAt": "2026-06-19T19:36:47Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F1%2F2%2F12612119-1-eng-GB%2F9c8d75eef4ac-1a.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-fe4a3adab256",
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "description": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-19T19:27:12Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8c/live/3048d450-6c0d-11f1-866d-31e44f099e94.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -121,21 +136,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-c94e336af1e9",
-      "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
-      "description": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
-      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-19T05:33:59Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a7/live/20681b30-6b2d-11f1-b1db-af71d47507d6.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

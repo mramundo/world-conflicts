@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T01:12:10Z",
+  "updated": "2026-06-19T03:17:09Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/transportation/india-s-regional-aviation-ambitions-stall-on-iran-war-disruption",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-19T01:12:05Z",
+      "publishedAt": "2026-06-19T03:17:05Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F5%2F0%2F12620584-1-eng-GB%2F176655aadef9-b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-24c4c88f477f",
+      "title": "Trump: ‘We expect a complete ceasefire’ between Hezbollah and Israel",
+      "description": "Netanyahu vows IDF to stay in Lebanon amid US and Iranian pressure; Israeli envoy to US says Jerusalem remains committed to separate truce with Beirut if Hezbollah doesn't violate it The post Trump: &#8216;We expect a complete ceasefire&#8217; between Hezbollah and Israel appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/trump-we-expect-a-complete-ceasefire-between-hezbollah-and-israel/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-19T02:00:28Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26169761488822-e1781834194800-1024x640.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -109,21 +125,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-51c12acb4c66",
-      "title": "US ends blockade of Iran, warns of return to war if Tehran doesn’t fulfill deal",
-      "description": "Israel doubles down on keeping troops in south Lebanon, against Iran's demands; Trump derides agreement's critics as 'jealous, bad people, or stupid,' ahead of new talks The post US ends blockade of Iran, warns of return to war if Tehran doesn’t fulfill deal appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/us-says-it-will-reimpose-blockade-if-iran-doesnt-fulfill-deal-as-shipping-opens-up/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-18T16:32:23Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26169405315095-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

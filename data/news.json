@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T03:17:09Z",
+  "updated": "2026-06-19T05:49:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,75 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/transportation/india-s-regional-aviation-ambitions-stall-on-iran-war-disruption",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-19T03:17:05Z",
+      "publishedAt": "2026-06-19T05:49:40Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F5%2F0%2F12620584-1-eng-GB%2F176655aadef9-b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-bf114410e913",
+      "title": "Media, 'raid aerei Idf nella notte in Libano, almeno 16 morti'",
+      "description": "Esercito Israele, 'Hezbollah aveva violato più volte la tregua'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/19/media-raid-aerei-idf-nella-notte-in-libano-almeno-16-morti_307323a1-1bde-4296-b534-10b988461558.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-19T05:37:41Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/17/7787b1aa44d46973045de6f7e252adb5.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-c94e336af1e9",
+      "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+      "description": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
+      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-19T05:33:59Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a7/live/20681b30-6b2d-11f1-b1db-af71d47507d6.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e5e4281dce42",
+      "title": "Behind the noise of an ‘Iran deal’, Palestine continues to burn",
+      "description": "Israel&#039;s war on the Palestinians never stopped; the world just stopped watching.",
+      "url": "https://www.aljazeera.com/opinions/2026/6/19/behind-the-noise-of-an-iran-deal-palestine-continues-to-burn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-19T04:56:53Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2b5fe9deba-1781227497.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -e390d939bf17",
+      "title": "'In Iran, none of the causes that sparked the relentless and admirable anti-regime uprisings has disappeared'",
+      "description": "The Islamic Republic is militarily weakened and economically drained after the joint Israeli-American offensive. Until now, Iranian leaders have remained united, but divisions may emerge in the coming months, observes Alain Frachon, columnist at Le Monde, in his regular column.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/06/19/in-iran-none-of-the-causes-that-sparked-the-relentless-and-admirable-anti-regime-uprisings-has-disappeared_6754655_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-19T03:58:49Z",
+      "image": "https://img.lemde.fr/2026/06/17/166/0/5000/2500/644/322/60/0/ae63dba_ftp-1-kpja2njve3qt-2026-06-17t080620z-1472761343-rc2ivlazpuf5-rtrmadp-3-iran-crisis.JPG",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -66,22 +128,6 @@
       "tags": []
     },
     {
-      "id": "al -473062c58e09",
-      "title": "Are prices really dropping in the US, as Trump claims?",
-      "description": "Donald Trump boasts on social media that since signing of MoU for peace deal, oil is flowing and prices are dropping.",
-      "url": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-18T21:30:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a31bef4-1781645044.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "cs -514f969d1ff2",
       "title": "For Iran, a new ceasefire means big gains. But Trump’s war goals fall short.",
       "description": "A new memorandum of understanding signed by U.S. and Iranian leaders has a chance to finally end the war. But the hard work to secure lasting peace in the Middle East is yet to begin.",
@@ -94,37 +140,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-b1bd97499ad2",
-      "title": "Summit Ue adotta conclusioni sull'Ucraina, prima volta a 27 da 18 mesi",
-      "description": "Non accadeva dal dicembre 2024. Ok anche al rinnovo delle sanzioni alla Russia per 12 mesi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/18/summit-ue-adotta-conclusioni-sullucraina-prima-volta-a-27-da-18-mesi_40b67f3c-0874-4c32-ab19-069d6e36822b.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-18T21:03:27Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/18/1aca0dbf5c17864494e1ebbeaec69cd9.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-de06a1143c7f",
-      "title": "What Iran and US get from deal and why both could struggle to keep it",
-      "description": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
-      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-18T20:04:40Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5277/live/e2c02aa0-6b01-11f1-8317-e1f912f75a64.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -185,21 +200,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -4e477373dd90",
-      "title": "On Donbas front, warehouse manager aims to improve daily life for Ukrainian soldiers",
-      "description": "In the Donbas, some combat zones have become too dangerous to deliver food, water and medicine to frontline infantry by road. A warehouse manager and amateur cook is doing everything he can to organize drone deliveries of varied food supplies and necessities.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/18/drones-carrying-hard-boiled-eggs-and-dried-meat-on-the-donbas-front-a-warehouse-manager-aims-to-improve-daily-life-for-ukrainian-soldiers_6754616_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-18T02:36:47Z",
-      "image": "https://img.lemde.fr/2026/06/17/91/0/4300/2150/644/322/60/0/1a9d071_upload-1-wxxfcs1cu9z2-sergii-24brigade-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

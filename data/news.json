@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T13:37:49Z",
+  "updated": "2026-06-20T14:50:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-restaurants-battle-over-limited-pool-of-foreign-workers",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-20T13:37:45Z",
+      "publishedAt": "2026-06-20T14:50:32Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F2%2F12632513-1-eng-GB%2Fed168fca8f71-photo_SXM2026061700002948.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-e7c2fda39c1e",
+      "title": "Putin's Patsy",
+      "description": "Putin’s strike on Kyiv’s Dormition Cathedral coincided with the G7 summit, where Trump again downplayed Ukraine’s war and framed it as Europe’s burden. Though the US president signed a pledge backing Ukraine, his longstanding deference to Putin undermines any value it holds. Meanwhile, Ukraine continues degrading Russi…",
+      "url": "https://www.kyivpost.com/opinion/78616",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-20T14:01:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/20/7124d9b789852ccdcca7f8fe6c6b420d.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -129,17 +145,17 @@
       "tags": []
     },
     {
-      "id": "ans-aa7b93b1a694",
-      "title": "Reuters, 'Israele e Hezbollah hanno concordato un cessate il fuoco dalle 15'",
-      "description": "I negoziatori degli Stati Uniti e del Qatar hanno raggiunto l'intesa con l'aiuto dell'Iran",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/19/reuters-israele-e-hezbollah-hanno-concordato-un-cessate-il-fuoco-dalle-15_07ea6bf1-7da7-406a-99e8-4aaccb8c2e7d.html",
+      "id": "ans-1325ff1dd00a",
+      "title": "'Israele bombarda il sud del Libano dopo l'inizio del cessate il fuoco'",
+      "description": "Lo riferiscono i media di Stato di Beirut",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/19/israele-bombarda-il-sud-del-libano-dopo-linizio-del-cessate-il-fuoco_e1b84abf-1ab7-4d63-b4d0-46eefe33aa0b.html",
       "source": "ANSA",
-      "publishedAt": "2026-06-19T13:09:51Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/19/d6fb311af8a757c1bf7d683836e5fbd9.jpg",
+      "publishedAt": "2026-06-19T15:08:10Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/19/03572c65c4b238dec80fcf1581568b78.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,21 +217,6 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-c81d5998f0b9",
-      "title": "‘If Ukraine Burns, Moscow Will Burn’: Zelensky Links Moscow Strike to Lavra Attack",
-      "description": "The Ukrainian leader said Kyiv’s latest long-range strike on Moscow was a direct response to Russia’s attack on Kyiv and warned that Russians would increasingly feel the consequences of the war if the Kremlin refuses to end it.",
-      "url": "https://www.kyivpost.com/post/78444",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-18T11:04:03Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/30/127820fda47d60556e7cc70d629ed920.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

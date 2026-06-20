@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T09:10:00Z",
+  "updated": "2026-06-20T10:52:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-restaurants-battle-over-limited-pool-of-foreign-workers",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-20T09:09:56Z",
+      "publishedAt": "2026-06-20T10:52:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F2%2F12632513-1-eng-GB%2Fed168fca8f71-photo_SXM2026061700002948.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -7b377f67d867",
+      "title": "Lebanon ceasefire between Israel and Hezbollah remains fragile under US-Iran pressure",
+      "description": "Although a ceasefire has been in place since Friday afternoon, escalating hostilities threaten the agreement between Washington and Tehran as Israel shows no intention of withdrawing from southern Lebanon.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/20/lebanon-ceasefire-between-israel-and-hezbollah-remains-fragile-under-us-iran-pressure_6754692_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-20T09:41:05Z",
+      "image": "https://img.lemde.fr/2026/06/19/749/0/8256/4128/644/322/60/0/8d1b40b_upload-1-jih1ph7gldo3-abd9496.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-2bd6c3997c85",
+      "title": "Several reported killed in Israeli strikes on Lebanon despite ceasefire",
+      "description": "The IDF said it struck \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces in southern Lebanon.",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-20T08:53:53Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bf1/live/6e8fa4b0-6c7f-11f1-975e-1359364fe88d.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,24 +97,9 @@
       "tags": []
     },
     {
-      "id": "tim-70c800745b4f",
-      "title": "Iran’s Revolutionary Guard to win big if US lifts sanctions as part of peace deal",
-      "description": "IRGC's sprawling sanctions-busting empire is enmeshed in Iran's economy, but the force's terrorist designation may give US firms pause from doing business with it The post Iran&#8217;s Revolutionary Guard to win big if US lifts sanctions as part of peace deal appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/irans-revolutionary-guard-to-win-big-if-us-lifts-sanctions-as-part-of-peace-deal/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-20T05:26:43Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260201__94PX68Q__v2__HighRes__TopshotIranEuProtestsIrgcPolitics-e1781931693800-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-53540c22e9d1",
-      "title": "Middle East live: Israeli strikes on southern Lebanon kill five despite ceasefire",
-      "description": "At least five people were killed in an Israeli air strike on southern Lebanon on Saturday, Lebanese state media said, after Israeli warplanes and drones carried out a series of attacks despite a ceasefire agreed with Hezbollah only a day earlier. The strikes came as US envoy Steve Witkoff and Iranian Foreign Minister A…",
+      "title": "Middle East live: At least 16 killed in southern Lebanon as Israel, Hezbollah trade blame",
+      "description": "Israeli strikes on southern Lebanon on Saturday killed at least 16 people despite a ceasefire agreed with Hezbollah only a day earlier. Israel and Hezbollah accused each other of violating the truce, with the Israeli military alleging breaches by the Iran-backed group and Hezbollah saying it had the right to respond to…",
       "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
       "source": "France24",
       "publishedAt": "2026-06-20T05:24:03Z",
@@ -98,32 +113,18 @@
       "tags": []
     },
     {
-      "id": "bbc-fe4a3adab256",
-      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-      "description": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
-      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-19T19:27:12Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8c/live/3048d450-6c0d-11f1-866d-31e44f099e94.jpg",
+      "id": "tim-e13c79b8c215",
+      "title": "16 said killed in IDF strikes on south Lebanon after dozens of projectiles fired at troops",
+      "description": "Israeli military says it's targeting terror group in response to overnight fire just hours after ceasefire * Lebanese soldier among those killed * Report: US, Qatar working on plan to release billions of frozen funds to Iran for humanitarian needs The post 16 said killed in IDF strikes on south Lebanon after dozens of …",
+      "url": "https://www.timesofisrael.com/liveblog-june-20-2026/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-20T00:28:08Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260620__B7PQ9HD__v1__HighRes__LebanonIsraelIranUsWar-1024x640.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -add53aee70c1",
-      "title": "Israel and Hezbollah agree to ceasefire after deadly exchanges between the two sides",
-      "description": "Lebanon reported 47 people were killed in Israeli airstrikes and Israel announced the deaths of four of its soldiers. Israel's ambassador to the US, Yechiel Leiter, insisted in a social media post on Friday that Israel was committed to an immediate ceasefire in Lebanon, but only 'if Hezbollah honors the agreement and c…",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/19/lebanon-says-47-killed-in-strikes-israel-reports-deaths-of-four-soldiers_6754676_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-19T17:06:09Z",
-      "image": "https://img.lemde.fr/2026/06/19/347/0/3240/1620/644/322/60/0/b3e8329_ftp-1-rnmyeo4k8pkf-2026-06-19t144517z-142180161-rc21xlat1296-rtrmadp-3-iran-crisis-israel-lebanon.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -143,17 +144,32 @@
       "tags": []
     },
     {
-      "id": "ans-8df54b4609db",
-      "title": "Idf, 'eliminati decine terroristi e colpiti oltre 80 obiettivi nel sud del Libano'",
-      "description": "'In risposta alle violazioni del cessate il fuoco di Hezbollah'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/19/idf-eliminati-decine-terroristi-e-colpiti-oltre-80-obiettivi-nel-sud-del_fd03cfd5-eece-4f56-91ba-de135fda81b6.html",
+      "id": "ans-aa7b93b1a694",
+      "title": "Reuters, 'Israele e Hezbollah hanno concordato un cessate il fuoco dalle 15'",
+      "description": "I negoziatori degli Stati Uniti e del Qatar hanno raggiunto l'intesa con l'aiuto dell'Iran",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/19/reuters-israele-e-hezbollah-hanno-concordato-un-cessate-il-fuoco-dalle-15_07ea6bf1-7da7-406a-99e8-4aaccb8c2e7d.html",
       "source": "ANSA",
-      "publishedAt": "2026-06-19T09:52:56Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2024/8/25/ee5f082f698a30ac33c259c6fe5f1dfb.jpg",
+      "publishedAt": "2026-06-19T13:09:51Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/19/d6fb311af8a757c1bf7d683836e5fbd9.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-5c89e2a963ea",
+      "title": "U.S. strike on an alleged drug boat kills 3 in the eastern Pacific Ocean",
+      "description": "The latest attack brings the number of people who have been killed in boat strikes by the U.S. military to at least 211 since the Trump administration began targeting those it calls \"narcoterrorists\" in early September.",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5864084/us-strike-alleged-drug-boat-kills-3-eastern-pacific-ocean",
+      "source": "NPR World",
+      "publishedAt": "2026-06-19T07:13:13Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2Fb5%2F180355854299aa8d46d2badfa4d0%2Fap26147611937984.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -169,21 +185,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-0f5d460e2ed9",
-      "title": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
-      "description": "Ukraine launched a wave of drone attacks on Russia early Thursday — one of the largest attacks on Russia's capital since the Kremlin ordered the invasion of Ukraine more than four years ago.",
-      "url": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery",
-      "source": "NPR World",
-      "publishedAt": "2026-06-18T16:12:18Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8086x5390+0+0/resize/8086x5390!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fea%2F2e6085a343db8a9bf945a17293c3%2Fgettyimages-2281563734.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

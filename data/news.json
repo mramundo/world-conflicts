@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T12:44:32Z",
+  "updated": "2026-06-20T13:37:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-restaurants-battle-over-limited-pool-of-foreign-workers",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-20T12:44:28Z",
+      "publishedAt": "2026-06-20T13:37:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F2%2F12632513-1-eng-GB%2Fed168fca8f71-photo_SXM2026061700002948.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-e514cc615422",
+      "title": "Ukraine officials return Polish honors after Zelenskyy stripped of award",
+      "description": "A decision to strip Ukrainian leader Zelenskyy of Poland's highest state honor benefited Moscow, Ukrainian officials said. Warsaw has been one of Kyiv's key allies since Russia's war in Ukraine.",
+      "url": "https://www.dw.com/en/ukraine-officials-return-polish-honors-after-zelenskyy-stripped-of-award/a-77637366?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-20T13:14:00Z",
+      "image": "https://static.dw.com/image/76978837_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-798966a6972d",
+      "title": "Despite truce, IDF hits Lebanon after repeated Hezbollah attacks; at least 27 said killed",
+      "description": "Military says it remains committed to day-old ceasefire, does not comment on Iran-backed terror group's claim it that it attacked Israeli troops advancing in south Lebanon The post Despite truce, IDF hits Lebanon after repeated Hezbollah attacks; at least 27 said killed appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/despite-truce-idf-hits-lebanon-after-repeated-hezbollah-attacks-at-least-27-said-killed/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-20T13:00:26Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260620__B7PQ9HJ__v1__HighRes__LebanonIsraelIranUsWar-e1781954820809-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-279d8c09f18b",
+      "title": "Drone use expands in Sudan – and kills at least 1,000 civilians in 2026",
+      "description": "According to the United Nations, more than 1,000 civilians have been killed in drone strikes in Sudan since the beginning of the year. There has been a sharp increase in the use of drone warfare – a tactic marking a turning point in the three-year-war, which has created what the UN deems the \"world's worst humanitarian…",
+      "url": "https://www.france24.com/en/video/20260620-drone-use-expands-in-sudan-%E2%80%93-and-kills-at-least-1-000-civilians-in-2026",
+      "source": "France24",
+      "publishedAt": "2026-06-20T11:14:23Z",
+      "image": "https://s.france24.com/media/display/2cc1fa7e-6c98-11f1-b269-005056a90284/w:1024/p:16x9/EN-20260619-214635-214838-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -69,61 +115,16 @@
     {
       "id": "the-0e1650f3626c",
       "title": "Israel and Hezbollah renew ceasefire after deadly flareup disrupts opening of Iran talks",
-      "description": "JD Vance pulls out of US-Iran meeting in Switzerland on implementation of peace deal after clashes in southern LebanonMiddle East crisis – live updatesIsrael and Hezbollah agreed to renew a fragile ceasefire in Lebanon on Friday after 24 hours of intense violence that posed an early challenge to the new agreement betwe…",
+      "description": "At least five killed in Israeli air strike in southern Lebanon on Saturday morning, as US envoy Steve Witkoff reportedly prepares to open talks with Iranian foreign ministerWhat lessons will Iran’s new leadership draw from the 110-day war?‘It’s a big mistake’: Israelis feel betrayed and angry after Iran peace dealIsrae…",
       "url": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
       "source": "The Guardian",
       "publishedAt": "2026-06-20T05:29:54Z",
       "image": "https://i.guim.co.uk/img/media/78d839c9a88d9736a9ea56e9c96989af7b0ca7b5/830_0_4670_3738/master/4670.jpg?width=140&quality=85&auto=format&fit=max&s=695a569c213a1d3ce4ac0232fbdc3161",
       "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-70c800745b4f",
-      "title": "Iran’s Revolutionary Guard to win big if US lifts sanctions as part of peace deal",
-      "description": "IRGC's sprawling sanctions-busting empire is enmeshed in Iran's economy, but the force's terrorist designation may give US firms pause from doing business with it The post Iran&#8217;s Revolutionary Guard to win big if US lifts sanctions as part of peace deal appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/irans-revolutionary-guard-to-win-big-if-us-lifts-sanctions-as-part-of-peace-deal/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-20T05:26:43Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260201__94PX68Q__v2__HighRes__TopshotIranEuProtestsIrgcPolitics-e1781931693800-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-53540c22e9d1",
-      "title": "Middle East live: At least 16 killed in southern Lebanon as Israel, Hezbollah trade blame",
-      "description": "Israeli strikes on southern Lebanon on Saturday killed at least 16 people despite a ceasefire agreed with Hezbollah only a day earlier. Israel and Hezbollah accused each other of violating the truce, with the Israeli military alleging breaches by the Iran-backed group and Hezbollah saying it had the right to respond to…",
-      "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
-      "source": "France24",
-      "publishedAt": "2026-06-20T05:24:03Z",
-      "image": "https://s.france24.com/media/display/3a129e0e-6c7f-11f1-b095-005056a97e36/w:1024/p:16x9/2026-06-20T072246Z-1043425917-RC2HXLA3DIIU-RTRMADP-3-IRAN-CRISIS-LEBANON-SOUTH-STRIKES.jpg",
-      "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-de1bca91965e",
-      "title": "Lebanon: Is US-Iran peace deal a 'victory' for Hezbollah?",
-      "description": "Lebanon's Hezbollah group has claimed that the US-Iran peace deal is a \"great victory.\" The group, which is opposed to Israel, has certainly been bolstered by the deal. But what has Hezbollah really won?",
-      "url": "https://www.dw.com/en/lebanon-is-us-iran-peace-deal-a-victory-for-hezbollah/a-77629727?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-19T16:59:00Z",
-      "image": "https://static.dw.com/image/77576385_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

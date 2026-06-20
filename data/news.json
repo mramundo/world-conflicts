@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T15:37:49Z",
+  "updated": "2026-06-20T16:36:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-restaurants-battle-over-limited-pool-of-foreign-workers",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-20T15:37:45Z",
+      "publishedAt": "2026-06-20T16:36:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F2%2F12632513-1-eng-GB%2Fed168fca8f71-photo_SXM2026061700002948.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-67fe1f0b9e15",
+      "title": "Media, 'Netanyahu e Katz ordinano a Idf cessate il fuoco in Libano'",
+      "description": "'In coordinamento con gli Usa'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/20/media-netanyahu-e-katz-ordinano-a-idf-cessate-il-fuoco-in-libano_5c8f2365-f403-4223-af9e-327bbbf16e03.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-20T15:53:46Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/15/d15dea207cd6723c5ebd833bfb849ee2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,6 +51,21 @@
       "tags": []
     },
     {
+      "id": "bbc-2bd6c3997c85",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "description": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-20T13:23:40Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc31/live/c45bc7c0-6cac-11f1-b1db-af71d47507d6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-e514cc615422",
       "title": "Ukraine officials return Polish honors after Zelenskyy stripped of award",
       "description": "A decision to strip Ukrainian leader Zelenskyy of Poland's highest state honor benefited Moscow, Ukrainian officials said. Warsaw has been one of Kyiv's key allies since Russia's war in Ukraine.",
@@ -47,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-798966a6972d",
-      "title": "Despite truce, IDF hits Lebanon after repeated Hezbollah attacks; at least 27 said killed",
-      "description": "Military says it remains committed to day-old ceasefire, does not comment on Iran-backed terror group's claim it that it attacked Israeli troops advancing in south Lebanon The post Despite truce, IDF hits Lebanon after repeated Hezbollah attacks; at least 27 said killed appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/despite-truce-idf-hits-lebanon-after-repeated-hezbollah-attacks-at-least-27-said-killed/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-20T13:00:26Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260620__B7PQ9HJ__v1__HighRes__LebanonIsraelIranUsWar-e1781954820809-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -144,17 +159,17 @@
       "tags": []
     },
     {
-      "id": "ans-1325ff1dd00a",
-      "title": "'Israele bombarda il sud del Libano dopo l'inizio del cessate il fuoco'",
-      "description": "Lo riferiscono i media di Stato di Beirut",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/19/israele-bombarda-il-sud-del-libano-dopo-linizio-del-cessate-il-fuoco_e1b84abf-1ab7-4d63-b4d0-46eefe33aa0b.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-19T15:08:10Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/19/03572c65c4b238dec80fcf1581568b78.jpg",
+      "id": "tim-70c800745b4f",
+      "title": "Iran’s Revolutionary Guard to win big if US lifts sanctions as part of peace deal",
+      "description": "IRGC's sprawling sanctions-busting empire is enmeshed in Iran's economy, but the force's terrorist designation may give US firms pause from doing business with it The post Iran&#8217;s Revolutionary Guard to win big if US lifts sanctions as part of peace deal appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/irans-revolutionary-guard-to-win-big-if-us-lifts-sanctions-as-part-of-peace-deal/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-20T05:26:43Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260201__94PX68Q__v2__HighRes__TopshotIranEuProtestsIrgcPolitics-e1781931693800-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -166,21 +181,6 @@
       "source": "NPR World",
       "publishedAt": "2026-06-19T07:13:13Z",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2Fb5%2F180355854299aa8d46d2badfa4d0%2Fap26147611937984.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-c94e336af1e9",
-      "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
-      "description": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
-      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-19T05:33:59Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a7/live/20681b30-6b2d-11f1-b1db-af71d47507d6.png",
       "categories": [
         "conflict"
       ],

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T03:14:45Z",
+  "updated": "2026-06-20T05:35:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-restaurants-battle-over-limited-pool-of-foreign-workers",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-20T03:14:41Z",
+      "publishedAt": "2026-06-20T05:35:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F2%2F12632513-1-eng-GB%2Fed168fca8f71-photo_SXM2026061700002948.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-70c800745b4f",
+      "title": "Iran’s Revolutionary Guard to win big if US lifts sanctions as part of peace deal",
+      "description": "IRGC's sprawling sanctions-busting empire is enmeshed in Iran's economy, but the force's terrorist designation may give US firms pause from doing business with it The post Iran&#8217;s Revolutionary Guard to win big if US lifts sanctions as part of peace deal appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/irans-revolutionary-guard-to-win-big-if-us-lifts-sanctions-as-part-of-peace-deal/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-20T05:26:43Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260201__94PX68Q__v2__HighRes__TopshotIranEuProtestsIrgcPolitics-e1781931693800-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -80,21 +95,6 @@
       "tags": []
     },
     {
-      "id": "tim-45ac063af115",
-      "title": "Iran war mediators set to meet in Egypt Sunday, as talks in Switzerland still on hold",
-      "description": "Pakistan, Saudi Arabia, Turkey, Egypt to sit down in Cairo; Trump: 'We didn’t meet out of desperation, Iran did'; Tehran demands ships transiting Strait of Hormuz coordinate routes The post Iran war mediators set to meet in Egypt Sunday, as talks in Switzerland still on hold appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/iran-war-mediators-set-to-meet-in-egypt-sunday-as-talks-in-switzerland-still-on-hold/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-19T19:17:03Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26170426896001-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -add53aee70c1",
       "title": "Israel and Hezbollah agree to ceasefire after deadly exchanges between the two sides",
       "description": "Lebanon reported 47 people were killed in Israeli airstrikes and Israel announced the deaths of four of its soldiers. Israel's ambassador to the US, Yechiel Leiter, insisted in a social media post on Friday that Israel was committed to an immediate ceasefire in Lebanon, but only 'if Hezbollah honors the agreement and c…",
@@ -112,7 +112,7 @@
     {
       "id": "deu-de1bca91965e",
       "title": "Lebanon: Is US-Iran peace deal a 'victory' for Hezbollah?",
-      "description": "Lebanon's Hezbollah group has claimed that the US-Iran peace deal is a \"great victory.\" The group, which is opposed to Israel, has certainly been bolstered by the deal. But what have they really won?",
+      "description": "Lebanon's Hezbollah group has claimed that the US-Iran peace deal is a \"great victory.\" The group, which is opposed to Israel, has certainly been bolstered by the deal. But what has Hezbollah really won?",
       "url": "https://www.dw.com/en/lebanon-is-us-iran-peace-deal-a-victory-for-hezbollah/a-77629727?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-06-19T16:59:00Z",

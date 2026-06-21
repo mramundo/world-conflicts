@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T07:46:38Z",
+  "updated": "2026-06-21T09:21:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,45 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-restaurants-battle-over-limited-pool-of-foreign-workers",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-21T07:46:33Z",
+      "publishedAt": "2026-06-21T09:21:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F2%2F12632513-1-eng-GB%2Fed168fca8f71-photo_SXM2026061700002948.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-1167eb9fa7bf",
+      "title": "US-Iran peace talks to begin, after Tehran closed Strait of Hormuz",
+      "description": "Ahead of negotiations in Switzerland, The Iranian Revolutionary Guard Corps has said vessels should not approach the strait of Hormuz else their security would be at risk. Iran shut the shipping lane on Saturday, saying that Israeli strikes in Lebanon constituted a breach of the preliminary ceasefire, agreed between th…",
+      "url": "https://www.france24.com/en/us-iran-peace-talks-to-begin-after-tehran-closed-strait-of-hormuz",
+      "source": "France24",
+      "publishedAt": "2026-06-21T09:10:47Z",
+      "image": "https://s.france24.com/media/display/9874186a-6d4c-11f1-b7a5-005056bfb2b6/w:1024/p:16x9/EN-20260621-100146-100336-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-b4c118c88488",
+      "title": "Delegations Gather For US-Iran Summit Amid Fragile Regional Truce",
+      "description": "Delegations from the United States, Iran, Qatar and Pakistan began gathering on June 21 at the Lake Lucerne Summit, launching what could become the most consequential diplomatic effort yet to stabilize the Middle East after weeks of war.",
+      "url": "https://www.rferl.org/a/iran-us-talks-switzerland-hormuz/33785567.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-21T08:26:41Z",
+      "image": "https://gdb.rferl.org/57d4c676-dd5b-44d6-81da-ee2b16e070ea_cx0_cy14_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -56,7 +88,7 @@
       "url": "https://www.timesofisrael.com/idf-soldier-killed-13-injured-during-overnight-hezbollah-attack-in-southern-lebanon/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-20T20:01:41Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/55520.jpg",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/355654.jpg",
       "categories": [
         "conflict"
       ],
@@ -123,38 +155,6 @@
         "analysis"
       ],
       "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-279d8c09f18b",
-      "title": "Drone use expands in Sudan – and kills at least 1,000 civilians in 2026",
-      "description": "According to the United Nations, more than 1,000 civilians have been killed in drone strikes in Sudan since the beginning of the year. There has been a sharp increase in the use of drone warfare – a tactic marking a turning point in the three-year-war, which has created what the UN deems the \"world's worst humanitarian…",
-      "url": "https://www.france24.com/en/video/20260620-drone-use-expands-in-sudan-%E2%80%93-and-kills-at-least-1-000-civilians-in-2026",
-      "source": "France24",
-      "publishedAt": "2026-06-20T11:14:23Z",
-      "image": "https://s.france24.com/media/display/2cc1fa7e-6c98-11f1-b269-005056a90284/w:1024/p:16x9/EN-20260619-214635-214838-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-5addda8f4e70",
-      "title": "For One 21-Year-Old New Zealander, War In Ukraine Means A Chance To 'Fight For Freedom'",
-      "description": "A soldier who goes by the call sign \"Kiwi\" was still a teenager in Wellington, New Zealand, when he saw Russia's full-scale invasion of Ukraine on the news in February 2022. As the war dragged on, he learned he could enlist and fight alongside the forces defending Ukraine. RFE/RL's Ukrainian Service spoke to the young …",
-      "url": "https://www.rferl.org/a/new-zealand-volunteer-ukraine-military/33783528.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-20T08:33:15Z",
-      "image": "https://gdb.rferl.org/cb24029f-d392-4dc2-183e-08debadc4af7_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": true,
       "tags": []
     },

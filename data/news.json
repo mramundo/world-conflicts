@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T03:17:12Z",
+  "updated": "2026-06-21T05:43:21Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-restaurants-battle-over-limited-pool-of-foreign-workers",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-21T03:17:09Z",
+      "publishedAt": "2026-06-21T05:43:17Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F2%2F12632513-1-eng-GB%2Fed168fca8f71-photo_SXM2026061700002948.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-5089572b4575",
+      "title": "Iran says it is closing strait of Hormuz over Israeli strikes in Lebanon",
+      "description": "Unclear if threat has been carried out or if move will jeopardise talks with US scheduled for SundayIran has said it is closing the strait of Hormuz after waves of Israeli strikes in Lebanon in a move that threatens to derail the fragile interim peace deal with the US, signed just days ago.The Islamic Revolutionary Gua…",
+      "url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-21T04:44:04Z",
+      "image": "https://i.guim.co.uk/img/media/52db905d7fe5136887b0339a32b14ce832b0cf7c/323_0_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=53cd4b5f3e66d317866fed73449ef6cc",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -37,7 +52,7 @@
     {
       "id": "tim-48ab5aa139bc",
       "title": "IDF soldier killed, 13 injured in overnight Hezbollah attack in southern Lebanon",
-      "description": "Sgt. First Class Nir Ben Ari is killed amid effort to capture terror group's 'strategic' underground facility beneath Ali Taher ridge; 2 more troops killed in Friday incident named The post IDF soldier killed, 13 injured in overnight Hezbollah attack in southern Lebanon appeared first on The Times of Israel.",
+      "description": "Sgt. First Class Nir Ben Ari is killed amid effort to capture terror group's 'strategic' underground facility beneath Ali Taher ridge; 3 more troops killed in Friday incident named The post IDF soldier killed, 13 injured in overnight Hezbollah attack in southern Lebanon appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/idf-soldier-killed-13-injured-during-overnight-hezbollah-attack-in-southern-lebanon/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-20T20:01:41Z",
@@ -46,21 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-dc6732b13fbf",
-      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli strike on Gaza",
-      "description": "Wishah among at least 260 journalists killed since Israel’s war on Gaza began in October 2023Qatar-based news network Al Jazeera has said one of its journalists was killed by an Israeli strike in Gaza on Saturday, becoming one of the at least 260 Palestinian journalists to have been killed since Israel’s war on Gaza be…",
-      "url": "https://www.theguardian.com/world/2026/jun/20/al-jazeera-cameraman-ahmed-wishah-killed-in-israeli-strike-on-gaza",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-20T19:49:11Z",
-      "image": "https://i.guim.co.uk/img/media/01291522341c7de3b1ccf33695dc027e93057946/0_9_1190_952/master/1190.jpg?width=140&quality=85&auto=format&fit=max&s=9de2d2cae50bdf6bcbdecf76015e7064",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,17 +1,17 @@
 {
-  "updated": "2026-06-22T05:56:45Z",
+  "updated": "2026-06-22T08:22:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-6fc51228ca7a",
-      "title": "Japan restaurants battle over limited pool of foreign workers",
+      "id": "nik-46b35a3a7fc0",
+      "title": "Taiwan launches five-day 'immediate combat readiness' drill",
       "description": "",
-      "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-restaurants-battle-over-limited-pool-of-foreign-workers",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-launches-five-day-immediate-combat-readiness-drill",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-22T05:56:42Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F2%2F12632513-1-eng-GB%2Fed168fca8f71-photo_SXM2026061700002948.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-06-22T08:22:25Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F5%2F5%2F12635529-1-eng-GB%2F0d832386cee3-2026-06-11T230532Z_1325381760_RC2QMAAR0N3Q_RTRMADP_3_CHINA-TAIWAN-JAPAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
@@ -20,32 +20,47 @@
       "tags": []
     },
     {
-      "id": "tim-142634e6df9e",
-      "title": "Iran, US agree on roadmap to reach deal in 60 days and will continue talks all week, mediators say",
-      "description": "Statement by Qatar and Pakistan comes after US, Iranian sources clash over whether nuclear program was discussed, other issues; Netanyahu: War created conditions for regime's fall The post Iran, US agree on roadmap to reach deal in 60 days and will continue talks all week, mediators say appeared first on The Times of I…",
-      "url": "https://www.timesofisrael.com/us-iran-talks-said-to-be-ongoing-after-reported-iranian-walkout-following-trump-threats/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-22T01:21:28Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26172528981149-1024x640.jpg",
+      "id": "the-c5b751d877e4",
+      "title": "Moscow Airports Temporarily Suspend Flights Amid Ukrainian Air Attack",
+      "description": "The overnight drone assault comes just days after the Russian capital faced its largest air raid since the start of the war.",
+      "url": "https://www.themoscowtimes.com/2026/06/22/moscow-airports-temporarily-suspend-flights-amid-ukrainian-air-attack-a93066",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-06-22T07:58:16Z",
+      "image": "https://static.themoscowtimes.com/image/og/81/93066__81c603201624a8dad9d7ca5ebc98329e.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -9183a17574b3",
-      "title": "US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks",
-      "description": "Negotiators from the US and Iran wrapped a day of talks in Switzerland.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss",
+      "id": "al -e442b1a13231",
+      "title": "Iran war day 115: Lebanon truce appears to hold as Switzerland talks end",
+      "description": "Mediators Qatar and Pakistan hail &#039;encouraging progress&#039; on the first day of Iran-US talks.",
+      "url": "https://www.aljazeera.com/news/2026/6/22/iran-war-day-115-lebanon-truce-appears-to-hold-as-switzerland-talks-end?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-22T01:19:05Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782091055.jpg?resize=1920%2C1080&amp;quality=80",
+      "publishedAt": "2026-06-22T07:21:10Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a38cd504ea4-1782107472.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-346c2c4b610f",
+      "title": "Explosion at Qatar gas export terminal leaves dozens injured and 18 missing",
+      "description": "State-run QatarEnergy says blast occurred during work to restart production at Ras Laffan LNG plant that was bombed during Iran war; incident could further shake global energy markets The post Explosion at Qatar gas export terminal leaves dozens injured and 18 missing appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/explosion-at-qatar-gas-export-terminal-leaves-dozens-injured-and-18-missing/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-22T06:25:17Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260302__99KZ2CC__v3__HighRes__QatarIranIsraelUsWar-1-e1781290962610-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -95,6 +110,21 @@
       "tags": []
     },
     {
+      "id": "fra-482938dadb07",
+      "title": "Trump threatens to strike Iran over support for Hezbollah as fighting continues in Lebanon",
+      "description": "US President Donald Trump on Sunday threatened to strike Iran if it did not stop Hezbollah from \"causing trouble,\" as peace talks between senior US and Iranian officials began in Switzerland. The memorandum of understanding signed Wednesday between the United States and Iran stipulates a cessation of hostilities on all…",
+      "url": "https://www.france24.com/en/trump-threatens-to-strike-iran-over-support-for-hezbollah-as-fighting-continues-in-lebanon",
+      "source": "France24",
+      "publishedAt": "2026-06-21T16:10:36Z",
+      "image": "https://s.france24.com/media/display/a8f1d226-6d89-11f1-acde-005056bfb2b6/w:1024/p:16x9/EN-20260621-170100-170757-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -e1d0208a4ca1",
       "title": "Ukrainian strikes on Russian-annexed Crimea kill four, pause fuel sales",
       "description": "Ukraine said it targeted military and energy facilities in Crimea – Moscow's key logistics base for its four-year military offensive – in one of the biggest attacks on the peninsula in recent months.",
@@ -106,22 +136,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-dfa7021b7442",
-      "title": "Zelensky stripped of Poland's top award amid diplomatic spat",
-      "description": "Ukraine's president has returned a state decoration he received from Poland amid a diplomatic spat. Poland stripped Volodymyr Zelensky of the award after Zelensky renamed a ⁠military unit in honour of the World War Two-era Ukrainian Insurgent Army. The insurgents were involved in massacres which Poland considers a geno…",
-      "url": "https://www.france24.com/en/zelensky-stripped-of-poland-s-top-award-amid-diplomatic-spat",
-      "source": "France24",
-      "publishedAt": "2026-06-21T10:08:54Z",
-      "image": "https://s.france24.com/media/display/480546ce-6d56-11f1-baf2-005056bfb2b6/w:1024/p:16x9/EN-20260621-091018-091305-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -212,21 +226,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-06-19T15:32:53Z",
       "image": "https://images.csmonitor.com/csm/2026/06/1214609_1_0619-Lebanon_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-b3358da2829e",
-      "title": "Kremlin Praises Performance of Russian Air Defenses After Record Drone Attack on Moscow",
-      "description": "Several reports have suggested that stray air defense missiles may have been partly responsible for the destruction at an oil refinery near Moscow.",
-      "url": "https://www.themoscowtimes.com/2026/06/19/kremlin-praises-performance-of-russian-air-defenses-after-record-drone-attack-on-moscow-a93057",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-06-19T13:23:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/5d/93057__5d76b60e882ddc6dc3cfc0976011a400.jpg",
       "categories": [
         "conflict"
       ],

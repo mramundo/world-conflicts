@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T11:01:35Z",
+  "updated": "2026-06-22T14:00:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-launches-five-day-immediate-combat-readiness-drill",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-22T11:01:32Z",
+      "publishedAt": "2026-06-22T14:00:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F5%2F5%2F12635529-1-eng-GB%2F0d832386cee3-2026-06-11T230532Z_1325381760_RC2QMAAR0N3Q_RTRMADP_3_CHINA-TAIWAN-JAPAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -21,47 +21,78 @@
     },
     {
       "id": "the-3a71b60809cc",
-      "title": "Middle East crisis live: Iran’s negotiating team leaves Switzerland after ‘constructive progress’ in first round of talks",
-      "description": "Iran’s foreign minister earlier said hat ‘major progress’ had been made to end Israel’s war in LebanonAccording to Palestinian news agency Wafa, a high school student was killed and several other civilians were injured earlier today in an Israeli attack on a civilian vehicle in Gaza City. The Gaza health ministry says …",
+      "title": "Middle East crisis live: US-Iran talks laid ‘very good foundation for a successful final deal’, says Vance",
+      "description": "The vice president said the move represented a ‘major milestone’ in ending Iran’s nuclear programmeAccording to Palestinian news agency Wafa, a high school student was killed and several other civilians were injured earlier today in an Israeli attack on a civilian vehicle in Gaza City. The Gaza health ministry says at …",
       "url": "https://www.theguardian.com/world/live/2026/jun/22/middle-east-crisis-iran-us-peace-talks-switzerland-strait-of-hormuz-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-06-22T10:19:50Z",
-      "image": "https://i.guim.co.uk/img/media/03383de19b2ef1ed571fb7c20d6feda79317cc76/575_0_5754_4603/master/5754.jpg?width=140&quality=85&auto=format&fit=max&s=7dde7165fb607fd7cf027d3610b334a2",
+      "publishedAt": "2026-06-22T13:39:52Z",
+      "image": "https://i.guim.co.uk/img/media/9634fc1ce434d8c2bea422542f81e7df3a8621b1/476_0_2730_2184/master/2730.jpg?width=140&quality=85&auto=format&fit=max&s=da461302065f7949db655df9dc359e4d",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-873b0eace33e",
+      "title": "What do Iranians think of the Iran-US deal?",
+      "description": "As talks continue between the US and Iran, our colleagues at France 2 got access to rare on-the-ground perspectives in Tehran. Anti-regime residents had hoped that the war would bring change. But with Iranian leaders seemingly more unified than ever, their disappointment is hitting hard.",
+      "url": "https://www.france24.com/en/what-do-iranians-think-of-the-iran-us-deal",
+      "source": "France24",
+      "publishedAt": "2026-06-22T13:02:53Z",
+      "image": "https://s.france24.com/media/display/aeffa4c4-6e36-11f1-bf53-005056bf30b7/w:1024/p:16x9/EN-20260622-140821-141044-CS.jpg",
       "categories": [
         "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-b7fdce30f413",
-      "title": "US-Iran's first round of talks concludes despite Trump threatening strikes",
-      "description": "High-level negotiations in Switzerland seeking a permanent end to the Iran war have ended, while technical talks will go on there for the rest of the week. US and Iranian delegation met for high-level talks following the recent signing of a \"memorandum of understanding\". However, the Iranian temporarily walked out afte…",
-      "url": "https://www.france24.com/en/us-iran-s-first-round-of-talks-concludes-despite-trump-threatening-strikes",
-      "source": "France24",
-      "publishedAt": "2026-06-22T09:51:03Z",
-      "image": "https://s.france24.com/media/display/de4a742e-6dc9-11f1-8add-005056a90284/w:1024/p:16x9/AP26172535320220.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -9082ec344564",
-      "title": "Two students arrested after three killed in Philippines school shooting",
-      "description": "At least seven people wounded in a rare school shooting in the city of Tacloban in the central Philippines.",
-      "url": "https://www.aljazeera.com/news/2026/6/22/two-students-arrested-after-three-killed-in-philippines-school-shooting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-22T09:19:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a38f505f3b2-1782117638.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
+        "analysis"
       ],
       "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -552fd91d09aa",
+      "title": "Why Coca-Cola and the US taxman are at war over a $20bn tax bill",
+      "description": "Beverage giant is appealing a 2020 ruling that has major implications for how much tax firms pay on overseas profits.",
+      "url": "https://www.aljazeera.com/economy/2026/6/22/why-coca-cola-and-the-us-taxman-are-at-war-over-a-20bn-tax-bill?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-22T10:59:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP24215793546555-1782106303_5860fa-1782106692.jpg?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-8df734e415ad",
+      "title": "IDF says soldiers shot dead two Palestinians hurling Molotov cocktails at settlement",
+      "description": "Palestinian Authority identifies dead as 15- and 19-year-old, says their bodies were detained; settlers reportedly set fire to Ramallah-area car lot, none arrested The post IDF says soldiers shot dead two Palestinians hurling Molotov cocktails at settlement appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-says-soldiers-shot-dead-two-palestinians-hurling-molotov-cocktails-at-settlement/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-22T09:41:34Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/Screenshot-2026-06-22-at-11.57.05-AM-e1782118734750-1024x640.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-23eb8bf43fb6",
+      "title": "Ukrainian soldiers march in Kyiv's Pride parade to push for equal rights",
+      "description": "Ukrainian soldiers and their partners march in Kyiv's Pride parade for the right to marry and enter into civil partnerships in a traditional country that's trying to modernize as it aligns with Western Europe.",
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5865659/ukrainian-soldiers-march-in-kyivs-pride-parade-to-push-for-equal-rights",
+      "source": "NPR World",
+      "publishedAt": "2026-06-22T08:51:47Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5865659",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -82,21 +113,6 @@
       "tags": []
     },
     {
-      "id": "tim-346c2c4b610f",
-      "title": "Explosion at Qatar gas export terminal leaves dozens injured and 18 missing",
-      "description": "State-run QatarEnergy says blast occurred during work to restart production at Ras Laffan LNG plant that was bombed during Iran war; incident could further shake global energy markets The post Explosion at Qatar gas export terminal leaves dozens injured and 18 missing appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/explosion-at-qatar-gas-export-terminal-leaves-dozens-injured-and-18-missing/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-22T06:25:17Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260302__99KZ2CC__v3__HighRes__QatarIranIsraelUsWar-1-e1781290962610-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-a5be7abf821a",
       "title": "Guatemala, piano per la ricerca di 45.000 scomparsi nella guerra civile",
       "description": "Il presidente Arévalo, 'Iniziamo un cammino per sanare una ferita'",
@@ -108,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-deaf75ffdba1",
-      "title": "Colombia weighs peace talks against a tougher approach",
-      "description": "Colombia's government is touting a rare peace deal with a rebel group. But the front-runner in today's presidential election says he'll abandon negotiations. NPR's John Otis reports.",
-      "url": "https://www.npr.org/2026/06/21/nx-s1-5865677/colombia-weighs-peace-talks-against-a-tougher-approach",
-      "source": "NPR World",
-      "publishedAt": "2026-06-21T21:13:36Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5865677",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

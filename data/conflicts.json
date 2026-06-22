@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T11:01:45Z",
+  "updated": "2026-06-22T14:00:30Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-06-22T01:52:39Z",
   "items": [
@@ -23,7 +23,7 @@
       ],
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-06-22",
-      "wikipediaRevision": "2026-06-22T00:28:43Z",
+      "wikipediaRevision": "2026-06-22T12:05:57Z",
       "recentNewsCount": 6
     },
     {
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-06-20",
       "wikipediaRevision": "2026-06-20T11:39:34Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -155,9 +155,9 @@
         "Armed groups"
       ],
       "wikipediaPage": "Kivu_conflict",
-      "lastUpdate": "2026-06-05",
+      "lastUpdate": "2026-06-22",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-06-05T17:13:43Z",
+      "wikipediaRevision": "2026-06-22T11:50:42Z",
       "recentNewsCount": 0
     },
     {
@@ -361,7 +361,7 @@
       "wikipediaPage": "Colombian_conflict",
       "lastUpdate": "2026-06-21",
       "wikipediaRevision": "2026-06-21T13:35:47Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "ly-war",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     }
   ]
 }

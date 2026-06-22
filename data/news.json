@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T14:00:22Z",
+  "updated": "2026-06-22T16:36:00Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-launches-five-day-immediate-combat-readiness-drill",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-22T14:00:19Z",
+      "publishedAt": "2026-06-22T16:35:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F5%2F5%2F12635529-1-eng-GB%2F0d832386cee3-2026-06-11T230532Z_1325381760_RC2QMAAR0N3Q_RTRMADP_3_CHINA-TAIWAN-JAPAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -25,12 +25,27 @@
       "description": "The vice president said the move represented a ‘major milestone’ in ending Iran’s nuclear programmeAccording to Palestinian news agency Wafa, a high school student was killed and several other civilians were injured earlier today in an Israeli attack on a civilian vehicle in Gaza City. The Gaza health ministry says at …",
       "url": "https://www.theguardian.com/world/live/2026/jun/22/middle-east-crisis-iran-us-peace-talks-switzerland-strait-of-hormuz-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-06-22T13:39:52Z",
+      "publishedAt": "2026-06-22T16:08:58Z",
       "image": "https://i.guim.co.uk/img/media/9634fc1ce434d8c2bea422542f81e7df3a8621b1/476_0_2730_2184/master/2730.jpg?width=140&quality=85&auto=format&fit=max&s=da461302065f7949db655df9dc359e4d",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-1b243f6dd33f",
+      "title": "Shin Bet chief said to fear Oct 7-style attack on Eilat, despite no intel on threat",
+      "description": "Zini also reportedly displeased with idea of Arab Israelis moving to the southern resort city, portraying it to government as an attempted 'takeover' The post Shin Bet chief said to fear Oct 7-style attack on Eilat, despite no intel on threat appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/shin-bet-chief-said-to-fear-oct-7-style-attack-on-eilat-despite-no-intel-on-threat/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-22T14:52:19Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260421CG20-e1779769531703-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -64,21 +79,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-8df734e415ad",
-      "title": "IDF says soldiers shot dead two Palestinians hurling Molotov cocktails at settlement",
-      "description": "Palestinian Authority identifies dead as 15- and 19-year-old, says their bodies were detained; settlers reportedly set fire to Ramallah-area car lot, none arrested The post IDF says soldiers shot dead two Palestinians hurling Molotov cocktails at settlement appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-says-soldiers-shot-dead-two-palestinians-hurling-molotov-cocktails-at-settlement/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-22T09:41:34Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/Screenshot-2026-06-22-at-11.57.05-AM-e1782118734750-1024x640.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -120,6 +120,21 @@
       "source": "ANSA",
       "publishedAt": "2026-06-22T01:12:24Z",
       "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/22/8baf6f2915c418e48d06e05c7c87e45e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -4df9aed4bf0c",
+      "title": "Vance meets top Iranian officials as US looks to get negotiations back on track",
+      "description": "U.S. Vice President JD Vance and top Iranian officials are trying to build out the interim deal to end the war in Iran reached by the two sides last week. They are meeting at a Swiss mountainside resort near Lake Lucerne.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0621/trump-iran-israel-swtizerland?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-06-21T16:23:43Z",
+      "image": "https://images.csmonitor.com/csm/2026/06/1214630_1_0621-lucerne_standard.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
@@ -219,21 +234,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -a43d9d6eefa5",
-      "title": "Talks between the US and Iran called off because of fighting in Lebanon, officials say",
-      "description": "Intense fighting between Israel and Hezbollah in southern Lebanon has scuttled scheduled talks between the United States and Iran. The cancellation of talks raised questions about an initial agreement to end the war in Iran.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0619/iran-trump-israel-lebanon?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-06-19T15:32:53Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/1214609_1_0619-Lebanon_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T05:26:55Z",
+  "updated": "2026-06-23T07:23:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-launches-five-day-immediate-combat-readiness-drill",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-23T05:26:51Z",
+      "publishedAt": "2026-06-23T07:23:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F5%2F5%2F12635529-1-eng-GB%2F0d832386cee3-2026-06-11T230532Z_1325381760_RC2QMAAR0N3Q_RTRMADP_3_CHINA-TAIWAN-JAPAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,29 @@
       "tags": []
     },
     {
-      "id": "ans-bdcd209f9cab",
-      "title": "Iran, istituiti gruppi di lavoro su nucleare e su sanzioni",
-      "description": "Conclusi i colloqui tecnici nell'ambito dell'accordo con gli Usa",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/23/iran-istituiti-gruppi-di-lavoro-su-nucleare-e-su-sanzioni_035863f0-b660-4e84-8efa-e34d36a6e504.html",
+      "id": "al -3af5de80b15e",
+      "title": "Why Iran’s President Pezeshkian is heading to Pakistan after US-Iran talks",
+      "description": "This is Pezeshkian&#039;s first overseas trip since Iran war began, and comes a day after the high-stakes Switzerland talks.",
+      "url": "https://www.aljazeera.com/news/2026/6/23/why-irans-president-pezeshkian-is-heading-to-pakistan-after-us-iran-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-23T06:37:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2025-08-03T083219Z_427205860_RC2KZFAUP1XY_RTRMADP_3_PAKISTAN-IRAN-1782187727.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-ea84a0b5600f",
+      "title": "Ghalibaf, 'lo Stretto di Hormuz sarà gestito dall'Iran'",
+      "description": "\"La gestione non tornerà mai più a essere quella di prima della guerra\"",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/23/ghalibaf-lo-stretto-di-hormuz-sara-gestito-dalliran_5476d291-d5a5-4167-b9c1-6feb4098ce96.html",
       "source": "ANSA",
-      "publishedAt": "2026-06-23T05:18:01Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/22/1a7b2b0b497a918b007c4d08b47c841c.jpg",
+      "publishedAt": "2026-06-23T05:37:36Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/21/588e81bada999bbbab177d9b1a869ea8.jpg",
       "categories": [
         "conflict"
       ],
@@ -46,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -d699aefb9734",
-      "title": "Israeli strike kills Palestinian girl on her way to sit exam",
-      "description": "17-year-old Raghad Ashour was walking to school to take an exam when she was killed in an Israeli strike.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-23T01:23:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782177759.jpg?resize=1641%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

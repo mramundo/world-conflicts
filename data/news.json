@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T09:15:42Z",
+  "updated": "2026-06-23T11:07:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,54 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-launches-five-day-immediate-combat-readiness-drill",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-23T09:15:38Z",
+      "publishedAt": "2026-06-23T11:07:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F5%2F5%2F12635529-1-eng-GB%2F0d832386cee3-2026-06-11T230532Z_1325381760_RC2QMAAR0N3Q_RTRMADP_3_CHINA-TAIWAN-JAPAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-975a6c27aa65",
+      "title": "US, Iran agree on Lebanon ceasefire and lifting sanctions on Iranian oil, but much remains",
+      "description": "Both Tehran and Washington hailed the negotiations that took place in Switzerland on June 22 to create a roadmap to close down the war in the Middle East. US Vice president JD Vance said it laid a good foundation for a deal to end the war. The parties agreed to establish mechanisms to open the strait of Hormuz but it i…",
+      "url": "https://www.france24.com/en/us-iran-agree-on-lebanon-ceasefire-and-lifting-sanctions-on-iranian-oil-but-much-remains",
+      "source": "France24",
+      "publishedAt": "2026-06-23T09:45:34Z",
+      "image": "https://s.france24.com/media/display/200e2090-6e2e-11f1-accb-005056a90284/w:1024/p:16x9/AP26173411158865.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-1b01e44f9ef5",
+      "title": "Lebanese struggle to get by in an ancient city under Israeli evacuation order",
+      "description": "In one of the oldest cities in Lebanon, once besieged by Alexander the Great, ordinary people struggle to survive Israeli attacks.",
+      "url": "https://www.npr.org/2026/06/23/g-s1-128783/lebanon-israel-tyre-hezbollah-war",
+      "source": "NPR World",
+      "publishedAt": "2026-06-23T09:00:00Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2Fa3%2Fa484ae9b4df883e9e893259deb26%2Flbn-south-diegoibarrasanchez-003.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-42ad90ee0a0d",
+      "title": "Montreal shooting leaves officer, civilian and suspect dead",
+      "description": "It was the first time in 24 years that a Montreal police officer was killed in the line of duty, the city's police chief said.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-23T08:36:38Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f02/live/0d76a1e0-6e7a-11f1-ab41-9551c72e4c6d.jpg",
       "categories": [
         "conflict"
       ],
@@ -48,21 +94,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-940a709546b1",
-      "title": "Lebanon war damage estimated at $1.3 billion, but who will foot the bill?",
-      "description": "Massive destruction in southern Lebanon in the latest Israel-Hezbollah war is estimated at around $1.38 billion, according to a UN agency and a Lebanese research centre. Reporting from Beirut, FRANCE 24’s Renée Davis notes that while the US-Iran deal includes a proposed $300 billion reconstruction fund for Iran, Lebano…",
-      "url": "https://www.france24.com/en/lebanon-damage-estimated-at-1-3-billion-but-who-will-foot-the-bill",
-      "source": "France24",
-      "publishedAt": "2026-06-23T06:26:17Z",
-      "image": "https://s.france24.com/media/display/065f5e36-6d82-11f1-a9b2-005056bf30b7/w:1024/p:16x9/000-B7RH99E.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -126,17 +157,33 @@
       "tags": []
     },
     {
-      "id": "npr-23eb8bf43fb6",
-      "title": "Ukrainian soldiers march in Kyiv's Pride parade to push for equal rights",
-      "description": "Ukrainian soldiers and their partners march in Kyiv's Pride parade for the right to marry and enter into civil partnerships in a traditional country that's trying to modernize as it aligns with Western Europe.",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5865659/ukrainian-soldiers-march-in-kyivs-pride-parade-to-push-for-equal-rights",
-      "source": "NPR World",
-      "publishedAt": "2026-06-22T08:51:47Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5865659",
+      "id": "deu-a03514ff0e2c",
+      "title": "Why is Bulgaria threatening to veto EU's Russia sanctions?",
+      "description": "Bulgarian PM Rumen Radev has vowed to veto the EU's latest sanctions against Russia because they include Russian Orthodox Patriarch Kirill and former Lukoil president Vagit Alekperov. What's behind his opposition?",
+      "url": "https://www.dw.com/en/why-is-bulgaria-threatening-to-veto-eu-s-russia-sanctions/a-77657628?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-22T13:50:00Z",
+      "image": "https://static.dw.com/image/77659630_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-70cc38c53fcb",
+      "title": "Moscow Airports Temporarily Suspend Flights Amid Latest Drone Assault",
+      "description": "The overnight strikes come just days after the Russian capital faced its largest air raid since the start of the war.",
+      "url": "https://www.themoscowtimes.com/2026/06/22/moscow-airports-temporarily-suspend-flights-amid-latest-drone-assault-a93066",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-06-22T07:58:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/81/93066__81c603201624a8dad9d7ca5ebc98329e.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -173,22 +220,6 @@
       "tags": []
     },
     {
-      "id": "deu-7d4015c9fd27",
-      "title": "Are Ukraine drones really exposing gaps in Russia's defense?",
-      "description": "Once seen as almost impenetrable, Russian air defenses are now under growing strain from Ukrainian drones. A recent attack on Moscow has reignited debate over Russian vulnerabilities.",
-      "url": "https://www.dw.com/en/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense/a-77639467?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-20T18:56:00Z",
-      "image": "https://static.dw.com/image/77622539_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "un -89e7d0363cc8",
       "title": "Sudan: Security Council warns of mass atrocity risk in El Obeid",
       "description": "The UN Security Council has expressed alarm over reports of substantial military reinforcements by the Rapid Support Forces (RSF) around El Obeid in Sudan, warning of the risk of a potential ground offensive on the city.",
@@ -201,36 +232,6 @@
         "humanitarian"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-462bbeb27426",
-      "title": "Russian Strike Kills 1, Wounds 9 in Kharkiv",
-      "description": "The attack came two day after Ukraine launched its largest drone attack of the war against Moscow.",
-      "url": "https://www.themoscowtimes.com/2026/06/20/russian-strike-kills-1-wounds-9-in-kharkiv-a93062",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-06-20T10:52:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/54/93062__54ba8d746432c9b8a55a62ebe4cb2999.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-389eb3bdd2a3",
-      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-      "description": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
-      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-20T10:19:34Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e66a/live/6e4dd6a0-6c04-11f1-8e1d-bbbb1017d210.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     }

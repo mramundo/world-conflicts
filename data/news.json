@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:36:58Z",
+  "updated": "2026-06-23T22:31:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-slash-even-more-output-abroad-as-iran-war-crimps-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-23T21:36:55Z",
+      "publishedAt": "2026-06-23T22:31:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F6%2F3%2F1%2F12641367-2-eng-GB%2Fa97c37d28778-photo_SXM2026062300006651.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -94d6590768d1",
+      "title": "UN: Israel committed genocide by targeting Gaza children",
+      "description": "Israel deliberately targeted Palestinian children in Gaza, resulting in genocide.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-23T21:38:23Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782250626.jpg?resize=1620%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -89,21 +104,6 @@
       "source": "BBC",
       "publishedAt": "2026-06-23T16:47:45Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f126/live/8b76c460-6f1c-11f1-8546-8f19e4fe30f4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -bebc912d5d6e",
-      "title": "Missile strike kills three in Ukraine as Russia feels war’s economic strain",
-      "description": "Kyiv has previously accused Moscow of using cluster munitions, which, when dropped, scatter into smaller munitions.",
-      "url": "https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-23T16:29:28Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3aa7696277b-1782228841.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],

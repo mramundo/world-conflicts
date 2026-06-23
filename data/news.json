@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T20:48:39Z",
+  "updated": "2026-06-23T21:36:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-slash-even-more-output-abroad-as-iran-war-crimps-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-23T20:48:36Z",
+      "publishedAt": "2026-06-23T21:36:55Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F6%2F3%2F1%2F12641367-2-eng-GB%2Fa97c37d28778-photo_SXM2026062300006651.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-04791e977ff8",
+      "title": "Kyiv Smashed, Moscow Burned, Parsing Drone Operations",
+      "description": "Russian forces struck Kyiv this week, damaging the historic Pechersk Lavra monastery and several other UNESCO-listed cultural sites. Ukraine responded with its most ambitious drone strike of the war, sending an estimated 250 aircraft against Moscow’s oil refinery infrastructure in a coordinated, multi-wave attack that …",
+      "url": "https://www.kyivpost.com/opinion/78818",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-23T21:09:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/18/091293628c3778b5de7a3b60b49c8667.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -169,22 +185,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-50fc00d229e3",
-      "title": "Ukraine Creates Multiple Risk Points Now for Putin",
-      "description": "Tim Ash argues that the war in Ukraine is entering a more confident and strategically advantageous phase for Kyiv, driven by advances in drone warfare, expanding European financing, and Ukraine’s growing ability to scale domestic defense production. He says Ukraine is increasingly taking the fight deep into Russia whil…",
-      "url": "https://www.kyivpost.com/opinion/78763",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-23T07:46:35Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/21/4a28e449c24113f8ac0d77463331adf0.png?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     },
     {

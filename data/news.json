@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T18:49:00Z",
+  "updated": "2026-06-23T19:40:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-slash-even-more-output-abroad-as-iran-war-crimps-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-23T18:48:56Z",
+      "publishedAt": "2026-06-23T19:40:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F6%2F3%2F1%2F12641367-2-eng-GB%2Fa97c37d28778-photo_SXM2026062300006651.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-8f47f85141bb",
+      "title": "Cuba risponde alle nuove sanzioni Usa, 'punizione spietata e collettiva'",
+      "description": "Ministro degli Esteri Rodríguez accusa Rubio, 'disonesto e bugiardo'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/06/23/cuba-risponde-alle-nuove-sanzioni-usa-punizione-spietata-e-collettiva_8ad80c76-2097-437e-8c4e-2db5f93f47ff.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-23T18:50:27Z",
+      "image": "https://www.ansa.it",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-972d5008ca6c",
+      "title": "Lebanon's lose-lose: Is there another way out of conflict?",
+      "description": "The new US-Iran peace deal seems to be forcing Lebanon to choose between Israel's sphere of influence or Iran's. It wants neither. But could there be a better alternative, achieved with the help of regional diplomacy?",
+      "url": "https://www.dw.com/en/lebanon-s-lose-lose-is-there-another-way-out-of-conflict/a-77678731?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-23T18:26:00Z",
+      "image": "https://static.dw.com/image/77680127_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-4bd98c87b881",
-      "title": "Putin, 'negoziati sulla base degli accordi di Istanbul e se Kiev cede i territori'",
-      "description": "Prevedevano che si avviassero trattative per le garanzie di sicurezza per l'Ucraina",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/23/putin-negoziati-sulla-base-degli-accordi-di-istanbul-e-se-kiev-cede-i-territori_cfbff146-a66a-481a-8cbe-be5d6916d32b.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-23T17:08:00Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/23/22ab75e0d1ce95b41aa89716010e6fbd.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -126,6 +142,21 @@
       "tags": []
     },
     {
+      "id": "le -760a54280918",
+      "title": "Israel and Lebanon resume negotiations in Washington amid US-Iran talks",
+      "description": "Beirut seeks to keep control over the post-war situation, while Hezbollah pushes for deferring to Tehran, which has made the conflict in Lebanon a key component of the US-Iran memorandum of understanding signed on June 17.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/23/israel-and-lebanon-resume-negotiations-in-washington-amid-us-iran-talks_6754782_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-23T09:40:41Z",
+      "image": "https://img.lemde.fr/2026/06/19/0/0/8256/4128/644/322/60/0/b658c4f_upload-1-fi3lln19crwj-abd8694.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-50fc00d229e3",
       "title": "Ukraine Creates Multiple Risk Points Now for Putin",
       "description": "Tim Ash argues that the war in Ukraine is entering a more confident and strategically advantageous phase for Kyiv, driven by advances in drone warfare, expanding European financing, and Ukraine’s growing ability to scale domestic defense production. He says Ukraine is increasingly taking the fight deep into Russia whil…",
@@ -142,21 +173,6 @@
       "tags": []
     },
     {
-      "id": "le -78da38ebe77b",
-      "title": "Ukrainian photographer Vic Bakin captures the traces of war left on the bodies and landscapes left behind",
-      "description": "In February 2022, when Russian troops launched their invasion of Ukraine, Vic Bakin decided to keep a photographic journal of the unfolding conflict. His images, highly personal and sometimes altered, mixed with portraits of Ukrainian youth, make up the series 'Epitome,' which has received several awards since.",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/06/23/ukrainian-photographer-vic-bakin-captures-the-traces-of-war-left-on-the-bodies-and-landscapes-left-behind_6754768_117.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-23T01:53:28Z",
-      "image": "https://img.lemde.fr/2026/06/12/269/0/1500/750/644/322/60/0/e30a779_ftp-1-q7busia3ylcn-432248-3476250.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-3a71b60809cc",
       "title": "US-Iran talks laid ‘very good foundation for a successful final deal’, says Vance – as happened",
       "description": "The vice president said the move represented a ‘major milestone’ in ending Iran’s nuclear programmeAccording to Palestinian news agency Wafa, a high school student was killed and several other civilians were injured earlier today in an Israeli attack on a civilian vehicle in Gaza City. The Gaza health ministry says at …",
@@ -168,22 +184,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-eed0c67b9e50",
-      "title": "Iran-US talks to end war beset by tension, mistrust",
-      "description": "While both sides claim \"encouraging progress,\" experts say there's a long way to go to turn the shaky diplomatic framework into a durable agreement.",
-      "url": "https://www.dw.com/en/iran-us-talks-to-end-war-beset-by-tension-mistrust/a-77661546?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-22T14:40:00Z",
-      "image": "https://static.dw.com/image/77648663_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

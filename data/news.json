@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T16:54:13Z",
+  "updated": "2026-06-23T17:39:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-slash-even-more-output-abroad-as-iran-war-crimps-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-23T16:54:08Z",
+      "publishedAt": "2026-06-23T17:39:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F6%2F3%2F1%2F12641367-2-eng-GB%2Fa97c37d28778-photo_SXM2026062300006651.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,47 @@
       "tags": []
     },
     {
+      "id": "fra-78ac93034865",
+      "title": "Irish company 'assisting in commission of crimes' by supplying alumina to Russia for Ukraine war",
+      "description": "François Picard is pleased to welcome Wayne Jordash, President of Global Rights Compliance Foundation. He argues that the European Union's approach to alumina exports exposes a fundamental flaw: while seeking to constrain Russia's military-industrial capabilities through sanctions, European authorities continue to perm…",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260623-irish-company-assisting-in-commission-of-crimes-by-supplying-alumina-to-russia-for-ukraine-war",
+      "source": "France24",
+      "publishedAt": "2026-06-23T17:26:00Z",
+      "image": "https://s.france24.com/media/display/b50889ec-6f1e-11f1-820e-005056a97e36/w:1024/p:16x9/EN-20260618-181913-183021-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "ans-4bd98c87b881",
       "title": "Putin, 'negoziati sulla base degli accordi di Istanbul e se Kiev cede i territori'",
       "description": "Prevedevano che si avviassero trattative per le garanzie di sicurezza per l'Ucraina",
       "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/23/putin-negoziati-sulla-base-degli-accordi-di-istanbul-e-se-kiev-cede-i-territori_cfbff146-a66a-481a-8cbe-be5d6916d32b.html",
       "source": "ANSA",
-      "publishedAt": "2026-06-23T16:42:08Z",
+      "publishedAt": "2026-06-23T17:08:00Z",
       "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/23/22ab75e0d1ce95b41aa89716010e6fbd.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-904dae4b9a7d",
+      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+      "description": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
+      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-23T16:47:45Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f126/live/8b76c460-6f1c-11f1-8546-8f19e4fe30f4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,21 +76,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-54f7cfa0d2d5",
-      "title": "France inducts Resistance fighter, soldier, historian Marc Bloch into its Panthéon of greats",
-      "description": "Eighty-two years after he was executed by Nazis, Resistance fighter and historian Marc Bloch will be inducted into the Panthéon on Tuesday to repose alongside such luminaries as Voltaire and Jean-Jacques Rousseau. A professor in medieval history, Bloch fought for France in World War I and joined the Resistance in World…",
-      "url": "https://www.france24.com/en/france/20260623-france-inducts-resistance-fighter-soldier-historian-marc-bloch-panth%C3%A9on-greats",
-      "source": "France24",
-      "publishedAt": "2026-06-23T13:47:46Z",
-      "image": "https://s.france24.com/media/display/b996a6ca-6aea-11f1-9da2-005056bfb2b6/w:1024/p:16x9/1-50.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -107,21 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-f94765075e75",
-      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-      "description": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-23T11:10:06Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51a/live/f1ee76e0-6f06-11f1-8546-8f19e4fe30f4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T00:57:28Z",
+  "updated": "2026-06-23T01:47:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-launches-five-day-immediate-combat-readiness-drill",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-23T00:57:22Z",
+      "publishedAt": "2026-06-23T01:47:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F5%2F5%2F12635529-1-eng-GB%2F0d832386cee3-2026-06-11T230532Z_1325381760_RC2QMAAR0N3Q_RTRMADP_3_CHINA-TAIWAN-JAPAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-ea84a0b5600f",
+      "title": "Ghalibaf, 'lo Stretto di Hormuz sarà gestito dall'Iran'",
+      "description": "\"La gestione non tornerà mai più a essere quella di prima della guerra\"",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/23/ghalibaf-lo-stretto-di-hormuz-sara-gestito-dalliran_5476d291-d5a5-4167-b9c1-6feb4098ce96.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-23T01:21:39Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/21/588e81bada999bbbab177d9b1a869ea8.jpg",
       "categories": [
         "conflict"
       ],
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-84fce82f8ec4",
-      "title": "Primi spiragli, l'Iran apre a ispettori Aiea e gli Usa allentano le sanzioni",
-      "description": "Primi spiragli, l'Iran apre a ispettori Aiea e gli Usa allentano le sanzioni",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/22/svolta-sul-nucleare-trump-ok-delliran-agli-ispettori-dellaiea_c37547ad-7692-438d-a67f-deae78e2917c.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-22T19:02:03Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/18/17641b210765b35f31678da79761ce82.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

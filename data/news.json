@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T13:46:37Z",
+  "updated": "2026-06-24T15:01:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-slash-even-more-output-abroad-as-iran-war-crimps-demand",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-24T13:46:33Z",
+      "publishedAt": "2026-06-24T15:01:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F6%2F3%2F1%2F12641367-2-eng-GB%2Fa97c37d28778-photo_SXM2026062300006651.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-cda0fbc03169",
+      "title": "Fire And Farewells As Ukrainians Flee Continued Russian Advance In The Donbas",
+      "description": "A Ukrainian photojournalist captured life near the front lines as the Russian invasion into eastern Ukraine persists despite Kyiv's successful drone strikes deep inside Russia.",
+      "url": "https://www.rferl.org/a/russia-invasion-ukraine-evacuations-photographer-witness/33787789.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-24T14:31:46Z",
+      "image": "https://gdb.rferl.org/5c751391-ddcd-4071-5b2d-08decd277110_cx0_cy8_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -154,22 +170,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-7ff790e12c01",
-      "title": "Crimea Is Being Strangled. Russian Authorities Are Struggling. Here’s Why (And How) Ukraine Is Doing It",
-      "description": "Since the onset of the all-out invasion in 2022, Ukraine has repeatedly poked at Russian forces -- and Russian tourists -- in occupied Crimea. In recent months, Kyiv’s efforts have become much more deliberate. They appear to be working.",
-      "url": "https://www.rferl.org/a/ukraine-drone-summery-economy/33786439.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-23T13:13:56Z",
-      "image": "https://gdb.rferl.org/e7da6580-c2d0-4fdd-147d-08decd1d5d42_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {

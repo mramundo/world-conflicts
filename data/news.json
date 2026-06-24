@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T18:41:15Z",
+  "updated": "2026-06-24T19:36:00Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/iran-scrambles-to-move-estimated-8.5bn-in-oil-as-us-eases-sanctions",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-24T18:41:10Z",
+      "publishedAt": "2026-06-24T19:35:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F4%2F2%2F7%2F12647241-1-eng-GB%2F3cbb56eef265-20260624N-Iran-tanker-Persian-Gulf.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -81,33 +81,19 @@
       "tags": []
     },
     {
-      "id": "le -84e35262aead",
-      "title": "UN commission denounces ongoing 'genocide' in Gaza: 'By targeting children, Israel is attacking the very capacity of the Palestinian people to exist'",
-      "description": "In a report published Tuesday, an international commission of inquiry, mandated by the United Nations Human Rights Council, identified Israeli security force units that it accused of being responsible for the deaths of Palestinian children. Israel condemned the report as 'defamatory.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/24/un-commission-denounces-ongoing-genocide-in-gaza-by-targeting-children-israel-is-attacking-the-very-capacity-of-the-palestinian-people-to-exist_6754835_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-24T13:30:06Z",
-      "image": "https://img.lemde.fr/2026/06/23/371/0/8192/4096/644/322/60/0/b2ce3f6_upload-1-4fb739rfdu3f-af4a3254.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-cafed1180b69",
-      "title": "Anger mounts as Sudan's army takes in Darfur paramilitary defectors",
-      "description": "As Sudan’s army celebrates a growing number of defections from the rival Rapid Support Forces (RSF), many victims of the country’s brutal civil war fear former RSF commanders could escape accountability for atrocities allegedly committed under their watch. From Darfur and Khartoum, displaced civilians recount abuses an…",
-      "url": "https://www.france24.com/en/video/20260624-anger-mounts-as-sudan-s-army-takes-in-darfur-paramilitary-defectors",
+      "id": "fra-bae82f207b54",
+      "title": "How US independence is being celebrated across the pond",
+      "description": "The United States is celebrating 250 years of independence this July and many events are taking place to commemorate the occasion, both in the US and across the Atlantic. France provided crucial supplies, arms and troops during the Revolutionary War effort, tipping the balance in favour of American independence. Franci…",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260624-how-us-independence-is-being-celebrated-across-the-pond",
       "source": "France24",
-      "publishedAt": "2026-06-24T13:19:20Z",
-      "image": "https://s.france24.com/media/display/865a27d4-6fca-11f1-8b80-005056a97e36/w:1024/p:16x9/EN-20260623-224843-225029-CS.jpg",
+      "publishedAt": "2026-06-24T14:14:41Z",
+      "image": "https://s.france24.com/media/display/42ba0ff8-6fc5-11f1-83be-005056a97e36/w:1024/p:16x9/capture-13799932126a3bc87bcb6bb8-43677642.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -139,6 +125,21 @@
       ],
       "relevanceScore": 15,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -1177b19ee293",
+      "title": "'It's pure terror against civilians': In Ukraine, Kherson's residents live under constant threat of Russian drones",
+      "description": "In this southern Ukrainian city, separated from enemy positions only by the Dnipro River, Ukrainians claim to have regained the upper hand against a weakened Russian artillery but lack the means to launch a counteroffensive.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/24/it-s-pure-terror-against-civilians-in-ukraine-kherson-s-residents-live-under-the-constant-threat-of-russian-drones_6754818_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-24T03:30:04Z",
+      "image": "https://img.lemde.fr/2026/06/23/671/0/5500/2750/644/322/60/0/9ead102_upload-1-6wdebswjhpdp-260617jf047.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:39:09Z",
+  "updated": "2026-06-24T21:34:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/iran-scrambles-to-move-estimated-8.5bn-in-oil-as-us-eases-sanctions",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-24T20:39:06Z",
+      "publishedAt": "2026-06-24T21:34:04Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F4%2F2%2F7%2F12647241-1-eng-GB%2F3cbb56eef265-20260624N-Iran-tanker-Persian-Gulf.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -d55928a753d5",
+      "title": "Two killed in Israeli strike in South Lebanon, Hezbollah denounces true 'violation'",
+      "description": "Two people were killed in southern Lebanon on Wednesday in an Israeli drone strike that Hezbollah said was the latest breach of a ceasefire agreement between the two sides.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/24/two-killed-in-israeli-strike-in-south-lebanon-hezbollah-denounces-true-violation_6754843_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-24T21:25:51Z",
+      "image": "https://img.lemde.fr/2026/06/18/456/0/5472/2736/644/322/60/0/37d12a0_ftp-1-kzjmn5rapc6q-5365986-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -124,21 +139,6 @@
       ],
       "relevanceScore": 15,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -1177b19ee293",
-      "title": "'It's pure terror against civilians': In Ukraine, Kherson's residents live under constant threat of Russian drones",
-      "description": "In this southern Ukrainian city, separated from enemy positions only by the Dnipro River, Ukrainians claim to have regained the upper hand against a weakened Russian artillery but lack the means to launch a counteroffensive.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/24/it-s-pure-terror-against-civilians-in-ukraine-kherson-s-residents-live-under-the-constant-threat-of-russian-drones_6754818_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-24T03:30:04Z",
-      "image": "https://img.lemde.fr/2026/06/23/671/0/5500/2750/644/322/60/0/9ead102_upload-1-6wdebswjhpdp-260617jf047.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

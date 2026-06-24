@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T17:41:21Z",
+  "updated": "2026-06-24T18:41:23Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-06-23T00:57:56Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-06-22",
       "wikipediaRevision": "2026-06-22T20:37:23Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-06-20",
       "wikipediaRevision": "2026-06-20T11:39:34Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 6
     },
     {
       "id": "sd-war",
@@ -68,7 +68,7 @@
       ],
       "wikipediaPage": "Sudanese_civil_war_(2023%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "mm-civ",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 7
+      "recentNewsCount": 9
     },
     {
       "id": "et-am",
@@ -339,7 +339,7 @@
       "lastUpdate": "2026-06-11",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-06-11T04:14:17Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "co-fgc",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 5
+      "recentNewsCount": 6
     }
   ]
 }

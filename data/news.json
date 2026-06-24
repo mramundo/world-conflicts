@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-24T19:36:00Z",
+  "updated": "2026-06-24T20:39:09Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/iran-scrambles-to-move-estimated-8.5bn-in-oil-as-us-eases-sanctions",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-24T19:35:56Z",
+      "publishedAt": "2026-06-24T20:39:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F4%2F2%2F7%2F12647241-1-eng-GB%2F3cbb56eef265-20260624N-Iran-tanker-Persian-Gulf.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-48444141bea2",
+      "title": "Kyiv using AI-powered Hornet drones to strike deep into Russian territory",
+      "description": "Ukraine has stepped up strikes on Russian infrastructure and resources with the aim of choking off its war machine, and as part of that, it's been using a new drone powered by artificial intelligence that seems to be giving it the upper hand over four years into Russia's invasion. FRANCE 24's Luke Shrago reports.",
+      "url": "https://www.france24.com/en/kyiv-using-ai-powered-hornet-drones-to-strike-deep-into-russian-territory",
+      "source": "France24",
+      "publishedAt": "2026-06-24T18:56:20Z",
+      "image": "https://s.france24.com/media/display/6486ab22-6ffd-11f1-865c-005056bf30b7/w:1024/p:16x9/EN-20260624-204152-204409-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,22 +96,6 @@
       "tags": []
     },
     {
-      "id": "fra-bae82f207b54",
-      "title": "How US independence is being celebrated across the pond",
-      "description": "The United States is celebrating 250 years of independence this July and many events are taking place to commemorate the occasion, both in the US and across the Atlantic. France provided crucial supplies, arms and troops during the Revolutionary War effort, tipping the balance in favour of American independence. Franci…",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260624-how-us-independence-is-being-celebrated-across-the-pond",
-      "source": "France24",
-      "publishedAt": "2026-06-24T14:14:41Z",
-      "image": "https://s.france24.com/media/display/42ba0ff8-6fc5-11f1-83be-005056a97e36/w:1024/p:16x9/capture-13799932126a3bc87bcb6bb8-43677642.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "bbc-38be6fa08afa",
       "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
       "description": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
@@ -139,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-da42f22c4988",
-      "title": "Senato contro Trump, approvata risoluzione per lo stop alla guerra in Iran",
-      "description": "Voto simbolico che indica però uno strappo con la Casa Bianca",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/06/23/senato-contro-trump-approvata-risoluzione-per-lo-stop-alla-guerra-in-iran_4b37d188-6055-43ce-a80d-481fae6c88ff.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-23T20:03:37Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/23/4b56644be81838918c5d2de9abf8d4c9.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

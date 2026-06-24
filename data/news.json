@@ -1,21 +1,51 @@
 {
-  "updated": "2026-06-24T15:01:41Z",
+  "updated": "2026-06-24T16:49:29Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-cba02038f824",
-      "title": "Toyota to slash even more output abroad as Iran war crimps demand",
+      "id": "nik-050ed99a2cdd",
+      "title": "Iran scrambles to move estimated $8.5bn in oil as US eases sanctions",
       "description": "",
-      "url": "https://asia.nikkei.com/business/automobiles/toyota-to-slash-even-more-output-abroad-as-iran-war-crimps-demand",
+      "url": "https://asia.nikkei.com/business/energy/iran-scrambles-to-move-estimated-8.5bn-in-oil-as-us-eases-sanctions",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-24T15:01:35Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F6%2F3%2F1%2F12641367-2-eng-GB%2Fa97c37d28778-photo_SXM2026062300006651.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-06-24T16:49:26Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F4%2F2%2F7%2F12647241-1-eng-GB%2F3cbb56eef265-20260624N-Iran-tanker-Persian-Gulf.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-45c9a1fb1325",
+      "title": "Katz vows no IDF withdrawal from south Lebanon ‘even if there’s an American demand’",
+      "description": "Defense minister says, though, that Washington has not demanded Israel pull its forces out; army says 2 Hezbollah gunmen hit while approaching troops; 2 more killed in drone strike The post Katz vows no IDF withdrawal from south Lebanon ‘even if there’s an American demand’ appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/katz-vows-no-idf-withdrawal-from-south-lebanon-even-if-theres-an-american-demand/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-24T16:44:58Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/F260624AVS317-e1782298654587-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -0e1e148ff0b4",
+      "title": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
+      "description": "Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-on-gaza-and-occupied-west-bank-kill-two-including-child?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-24T15:21:59Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-06T100008Z_1308134157_RC2KZGAWVY28_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-ANNIVERSARY-TWINS-1759961317.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,21 +63,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-29f36b4cfd65",
-      "title": "IDF chief to rabbis: We’re short thousands of troops, need female combat soldiers",
-      "description": "In meeting with religious Zionist leaders angry over women's inclusion in tank crews, Zamir says integration is 'of tremendous operational importance' The post IDF chief to rabbis: We&#8217;re short thousands of troops, need female combat soldiers appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-chief-to-rabbis-were-short-thousands-of-troops-need-female-combat-soldiers/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-24T13:27:00Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/HKQq1wEXcAA3-MK-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -77,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -4a973b53a7a9",
-      "title": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
-      "description": "The largest city on the Russia-controlled peninsula has been left without power after an attack on energy facilities.",
-      "url": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-24T10:03:39Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-23T202622Z_672899898_RC2KZLAU6J5S_RTRMADP_3_UKRAINE-CRISIS-ATTACK-RUSSIA-1782296257.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -214,21 +214,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -4df9aed4bf0c",
-      "title": "Vance meets top Iranian officials as US looks to get negotiations back on track",
-      "description": "U.S. Vice President JD Vance and top Iranian officials are trying to build out the interim deal to end the war in Iran reached by the two sides last week. They are meeting at a Swiss mountainside resort near Lake Lucerne.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0621/trump-iran-israel-swtizerland?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-06-21T16:23:43Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/1214630_1_0621-lucerne_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     }

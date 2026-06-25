@@ -1,22 +1,38 @@
 {
-  "updated": "2026-06-25T05:26:57Z",
+  "updated": "2026-06-25T07:20:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-933501a3ec84",
-      "title": "Mitsubishi Corp. goes on offensive with record debt financing",
+      "id": "nik-ebdedc589ed3",
+      "title": "Chinese logistics networks gain ground in US in response to trade war",
       "description": "",
-      "url": "https://asia.nikkei.com/business/companies/mitsubishi-corp.-goes-on-offensive-with-record-debt-financing",
+      "url": "https://asia.nikkei.com/economy/trade-war/chinese-logistics-networks-gain-ground-in-us-in-response-to-trade-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-25T05:26:53Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F2%2F2%2F8%2F12648223-1-eng-GB%2F19900732b5bd-photo_SXM2026062200004679-1-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-06-25T07:20:29Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F1%2F6%2F12646124-1-eng-GB%2F160f7e8306bd-Temu.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -152b588ba772",
+      "title": "Ethiopia is not being ‘dragged into war’",
+      "description": "A response to Redwan Hussein and Getachew Reda’s misleading opinion article.",
+      "url": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-25T06:29:17Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2021-03-26T220144Z_2028567613_RC2AJM9WSSBS_RTRMADP_3_ETHIOPIA-CONFLICT-ERITREA-KILLINGS-1782368686.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -36,12 +52,12 @@
     },
     {
       "id": "fra-80d987552969",
-      "title": "Middle East live: Trump seeks $88 billion in extra funding, mostly for Iran war",
-      "description": "US President Donald Trump asked Congress on Wednesday for nearly $88 billion in extra spending, most of it to cover the cost of the Iran war, at a moment of growing unease in both parties over the conflict and its political price. Follow our liveblog for the latest developments.",
+      "title": "Middle East live: Iran warns against attempts to cross Strait of Hormuz without authorisation",
+      "description": "Iran's Revolutionary Guards said Thursday they would take \"appropriate measures\" against vessels attempting to sail through the Strait of Hormuz without Tehran's authorisation. The warning comes as top US diplomat Marco Rubio visits Bahrain after promising Gulf allies that Washington will protect their interests as it …",
       "url": "https://www.france24.com/en/middle-east/20260625-middle-east-live-trump-seeks-88-billion-in-extra-funding-mostly-for-iran-war",
       "source": "France24",
       "publishedAt": "2026-06-25T00:37:47Z",
-      "image": "https://s.france24.com/media/display/88e9d4a6-702c-11f1-b9f0-005056a90284/w:1024/p:16x9/AP26175760133075.jpg",
+      "image": "https://s.france24.com/media/display/f488219a-7059-11f1-a3d3-005056a97e36/w:1024/p:16x9/2026-06-24T114826Z-502054737-RC280MAOJ755-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
       "categories": [
         "conflict"
       ],
@@ -50,28 +66,13 @@
       "tags": []
     },
     {
-      "id": "al -db7773cf8133",
-      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
-      "description": "The request is likely to face an uphill battle in Congress, which voted a day earlier to rein in Trump&#039;s war powers.",
-      "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-24T23:25:01Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3c5f67deac2-1782341479.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-ea5bd2f24b14",
-      "title": "Defense Ministry civilian contractor killed in Gaza building collapse",
-      "description": "Raad Abu al-Qi'an is first civilian contractor to be killed in the Strip since ceasefire with Hamas began in October The post Defense Ministry civilian contractor killed in Gaza building collapse appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/defense-ministry-civilian-contractor-killed-in-gaza-building-collapse/",
+      "id": "tim-011511be8578",
+      "title": "IDF reservist killed in truck accident in southern Lebanon",
+      "description": "IRGC threatens to target ships using new Hormuz route that forgoes Iran coordination * Tehran accuses NATO of ‘complicity’ in war after bloc chief’s remarks on support for Epic Fury The post IDF reservist killed in truck accident in southern Lebanon appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/liveblog-june-25-2026/",
       "source": "Times of Israel",
-      "publishedAt": "2026-06-24T23:14:51Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/HLmc5UQWAAA-TY8-1024x640.jpeg",
+      "publishedAt": "2026-06-24T23:29:47Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/באסילסוידזל-e1782367770766-1024x640.jpeg",
       "categories": [
         "conflict"
       ],

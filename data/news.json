@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T16:51:19Z",
+  "updated": "2026-06-25T17:50:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-25T16:51:16Z",
+      "publishedAt": "2026-06-25T17:50:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F1%2F6%2F12646124-1-eng-GB%2F160f7e8306bd-Temu.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,20 +20,35 @@
       "tags": []
     },
     {
-      "id": "al -55d122752c83",
-      "title": "Escaping Darfur: Mothers face starvation under trees in Chad",
-      "description": "Fleeing scorched earth, Darfur’s mothers share harrowing tales of starvation and survival in Chad.",
-      "url": "https://www.aljazeera.com/features/2026/6/25/escaping-darfur-mothers-face-starvation-under-trees-in-chad?traffic_source=rss",
+      "id": "al -8e193d158311",
+      "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+      "description": "A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.",
+      "url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-25T16:13:49Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/790878h-1782133954-copy-1782385858.jpg?resize=1920%2C1280&amp;quality=80",
+      "publishedAt": "2026-06-25T17:11:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3bd7526f96-1782306642.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "humanitarian",
         "analysis"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-fd5b211e5b03",
+      "title": "Sudan: Warnings mount over the risk of new mass atrocities",
+      "description": "As Sudan's paramilitary Rapid Support Forces mass around the strategic city of el-Obeid, fears are growing of atrocities similar to those seen in Darfur's el-Fasher. Could sanctions still prevent bloodshed?",
+      "url": "https://www.dw.com/en/sudan-warnings-mount-over-the-risk-of-new-mass-atrocities/a-77709377?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-25T16:33:00Z",
+      "image": "https://static.dw.com/image/77709628_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -99,21 +114,6 @@
       "tags": []
     },
     {
-      "id": "deu-a547fd8c6895",
-      "title": "Fact check: No, Zelenskyy wasn't killed in a Russian airstrike",
-      "description": "Amid a flare-up in violence between Russia and Ukraine, viral posts claim Ukrainian President Volodymyr Zelenskyy has died. DW Fact check takes a closer look.",
-      "url": "https://www.dw.com/en/fact-check-no-zelenskyy-wasn-t-killed-in-a-russian-airstrike/a-77704409?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-25T11:12:00Z",
-      "image": "https://static.dw.com/image/76252047_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -c58d4f0b83b7",
       "title": "France intercepts suspected Russia-linked oil tanker off the coast of Sicily",
       "description": "French maritime authorities said the vessel, the fifth alleged Russian vessel France has boarded, was flying a false flag. 'We will not allow the 'shadow fleet' to circumvent sanctions and finance Russia's war effort,' said Emmanuel Macron.",
@@ -125,6 +125,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-8db1e530f407",
+      "title": "JD Vance is the face of the beleaguered Iran deal – is he its fall guy?",
+      "description": "Vice-president, leading a foundering peace deal to end the kind of war he’s opposed in the past, is left holding the bagJD Vance has taken the greatest gamble of his vice-presidency by making himself the face of the Iran ceasefire deal – a shaky agreement that already seems to be unraveling at the seams.But after month…",
+      "url": "https://www.theguardian.com/us-news/2026/jun/25/jd-vance-iran-peace-deal",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-25T09:46:07Z",
+      "image": "https://i.guim.co.uk/img/media/d2788974b7c5a6d6a4dc87959a74f15e2a076caf/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=5b115ed604ca251f35971beeaa7bfa27",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -170,21 +185,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-194f24f6b267",
-      "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
-      "description": "Defence minister says troops not withdrawing though Tehran sees end to war in Lebanon as part of deal with USThe Israeli defence minister, Israel Katz, has said that Israeli troops would not withdraw from southern Lebanon, further complicating Iran peace talks as fighting in Lebanon continues to be an obstacle to perma…",
-      "url": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-24T21:49:44Z",
-      "image": "https://i.guim.co.uk/img/media/4d13d32d449848563be2f4af921a0b69c39b075b/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2995e3bf313a39dda7239a5600c71eb7",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

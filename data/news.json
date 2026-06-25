@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T11:01:43Z",
+  "updated": "2026-06-25T12:54:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-25T11:01:40Z",
+      "publishedAt": "2026-06-25T12:54:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F1%2F6%2F12646124-1-eng-GB%2F160f7e8306bd-Temu.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-f3375156de8c",
+      "title": "Evacuation of sailors stuck in Gulf likely to take weeks",
+      "description": "A new scheme by the International Maritime Organisation to evacuate some 11,000 commercial sailors stuck in the Gulf has got underway. But with mines still not totally cleared and a bottleneck created by the past few months, it will be a complex, international operation which will take weeks to complete. Meanwhile, glo…",
+      "url": "https://www.france24.com/en/video/20260625-evacuation-of-sailors-stuck-in-gulf-likely-to-take-weeks",
+      "source": "France24",
+      "publishedAt": "2026-06-25T12:11:57Z",
+      "image": "https://s.france24.com/media/display/501d25d6-708d-11f1-93c7-005056bf30b7/w:1024/p:16x9/EN-20260625-111121-111251-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-8de36ca560a4",
+      "title": "Teheran, 'Italia e Romania complici della guerra'",
+      "description": "Portavoce ministero Esteri: 'Europei spieghino ai cittadini ruolo in aggressione'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/25/teheran-italia-e-romania-complici-della-guerra_706a34c2-c535-432d-bda7-c03b015953d3.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-25T11:27:36Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/10/2ae78a12800a249f850d72d1a2463f9a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-a547fd8c6895",
+      "title": "Fact check: No, Zelenskyy wasn't killed in a Russian airstrike",
+      "description": "Amid a flare-up in violence between Russia and Ukraine, viral posts claim Ukrainian President Volodymyr Zelenskyy has died. DW Fact check takes a closer look.",
+      "url": "https://www.dw.com/en/fact-check-no-zelenskyy-wasn-t-killed-in-a-russian-airstrike/a-77704409?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-25T11:12:00Z",
+      "image": "https://static.dw.com/image/76252047_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -41,26 +87,11 @@
       "url": "https://www.timesofisrael.com/reservist-killed-soldier-injured-in-truck-accident-in-south-lebanon/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-25T10:15:35Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/באסילסוידזל-e1782367770766-1024x640.jpeg",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/22001-copy.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-106f48563e33",
-      "title": "Rubio seeks to reassure Gulf states over Iran deal",
-      "description": "US Secretary of State Marco Rubio promised Gulf allies on Wednesday that Washington would protect their interests as it seeks to hammer out a final settlement of the Middle East war in talks with Iran. Rubio is on a regional tour to reassure the Gulf states, which were targeted by Tehran's missiles and drones during th…",
-      "url": "https://www.france24.com/en/video/20260625-rubio-seeks-to-reassure-gulf-states-over-iran-deal",
-      "source": "France24",
-      "publishedAt": "2026-06-25T09:21:12Z",
-      "image": "https://s.france24.com/media/display/e82cbe76-7075-11f1-9f04-005056a90284/w:1024/p:16x9/EN-20260625-101821-101947-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -91,21 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-8de36ca560a4",
-      "title": "Teheran, 'Italia e Romania complici della guerra'",
-      "description": "Portavoce ministero Esteri: 'Europei spieghino ai cittadini ruolo in aggressione'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/25/teheran-italia-e-romania-complici-della-guerra_706a34c2-c535-432d-bda7-c03b015953d3.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-25T08:58:57Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/5/10/2ae78a12800a249f850d72d1a2463f9a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -168,21 +184,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-fd9eb16b588f",
-      "title": "Iran after the war — fragile peace, shattered economy",
-      "description": "The US has temporarily allowed Iran to export oil and indicated it will provide billions to relieve the crisis triggered by the war. With ordinary Iranians at their limit, however, Tehran already fears new protests.",
-      "url": "https://www.dw.com/en/iran-after-the-war-fragile-peace-shattered-economy/a-77690083?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-24T13:56:00Z",
-      "image": "https://static.dw.com/image/76942882_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

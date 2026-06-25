@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:30:01Z",
+  "updated": "2026-06-25T00:59:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/companies/mitsubishi-corp.-goes-on-offensive-with-record-debt-financing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-24T23:29:58Z",
+      "publishedAt": "2026-06-25T00:59:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F2%2F2%2F8%2F12648223-1-eng-GB%2F19900732b5bd-photo_SXM2026062200004679-1-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-80d987552969",
+      "title": "Middle East live: Trump seeks $88 billion in extra funding, mostly for Iran war",
+      "description": "US President Donald Trump asked Congress on Wednesday for nearly $88 billion in extra spending, most of it to cover the cost of the Iran war, at a moment of growing unease in both parties over the conflict and its political price. Follow our liveblog for the latest developments.",
+      "url": "https://www.france24.com/en/middle-east/20260625-middle-east-live-trump-seeks-88-billion-in-extra-funding-mostly-for-iran-war",
+      "source": "France24",
+      "publishedAt": "2026-06-25T00:37:47Z",
+      "image": "https://s.france24.com/media/display/88e9d4a6-702c-11f1-b9f0-005056a90284/w:1024/p:16x9/AP26175760133075.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -db7773cf8133",
+      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
+      "description": "The request is likely to face an uphill battle in Congress, which voted a day earlier to rein in Trump&#039;s war powers.",
+      "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-24T23:25:01Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3c5f67deac2-1782341479.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -57,36 +87,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-06-24T21:25:50Z",
       "image": "https://img.lemde.fr/2026/06/18/456/0/5472/2736/644/322/60/0/37d12a0_ftp-1-kzjmn5rapc6q-5365986-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-48444141bea2",
-      "title": "Kyiv using AI-powered Hornet drones to strike deep into Russian territory",
-      "description": "Ukraine has stepped up strikes on Russian infrastructure and resources with the aim of choking off its war machine, and as part of that, it's been using a new drone powered by artificial intelligence that seems to be giving it the upper hand over four years into Russia's invasion. FRANCE 24's Luke Shrago reports.",
-      "url": "https://www.france24.com/en/kyiv-using-ai-powered-hornet-drones-to-strike-deep-into-russian-territory",
-      "source": "France24",
-      "publishedAt": "2026-06-24T18:56:20Z",
-      "image": "https://s.france24.com/media/display/6486ab22-6ffd-11f1-865c-005056bf30b7/w:1024/p:16x9/EN-20260624-204152-204409-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -db5b7c30873d",
-      "title": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
-      "description": "An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-24T18:03:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782324174.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict"
       ],

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T23:33:04Z",
+  "updated": "2026-06-26T01:01:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-25T23:33:01Z",
+      "publishedAt": "2026-06-26T01:01:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F1%2F6%2F12646124-1-eng-GB%2F160f7e8306bd-Temu.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -0f05f6f7bd43",
+      "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
+      "description": "Israeli leader says military to stay in occupied areas of southern Lebanon &#039;as long as necessary&#039;, despite US-Iran deal.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-26T00:00:09Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3da01e-1782423583.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -79,23 +94,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -8e193d158311",
-      "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
-      "description": "A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.",
-      "url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-25T17:11:34Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3bd7526f96-1782306642.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:36:35Z",
+  "updated": "2026-06-26T20:38:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T19:36:32Z",
+      "publishedAt": "2026-06-26T20:38:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F5%2F4%2F12644591-1-eng-GB%2F24e579a5c3cc-AP26035720346774.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -fe6688bfc123",
+      "title": "Israeli attack on car in central Gaza kills three Palestinians",
+      "description": "Palestinian Interior Ministry says those killed in attack on Maghazi refugee camp were police officers.",
+      "url": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-26T19:49:32Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AA-20260626-41796878-41796866-ISRAELI_ATTACKS_CONTINUE_ON_GAZA_DESPITE_CEASEFIRE-1782498168.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -64,21 +79,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -45f24b9d27de",
-      "title": "Aid groups urge swift action to avert ‘atrocities’ in Sudan’s el-Obeid",
-      "description": "The city is at risk of an &#039;imminent ground offensive&#039; by the RSF paramilitary and its allies, 38 NGOs warn.",
-      "url": "https://www.aljazeera.com/news/2026/6/26/aid-groups-urge-swift-action-to-avert-atrocities-in-sudans-el-obeid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-26T13:32:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3e75945ed7b-1782478228.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {

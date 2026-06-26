@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T09:13:21Z",
+  "updated": "2026-06-26T11:05:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,54 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T09:13:18Z",
+      "publishedAt": "2026-06-26T11:05:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F5%2F4%2F12644591-1-eng-GB%2F24e579a5c3cc-AP26035720346774.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-e6901672e5c4",
+      "title": "Sudan: Fears of atrocities as RSF surrounds key city",
+      "description": "As Sudan's paramilitary Rapid Support Forces mass around the strategic city of el-Obeid, fears are growing of atrocities similar to those seen in Darfur's el-Fasher. Could sanctions still prevent bloodshed?",
+      "url": "https://www.dw.com/en/sudan-fears-of-atrocities-as-rsf-surrounds-key-city/a-77709377?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-26T10:25:00Z",
+      "image": "https://static.dw.com/image/77709628_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ec49997d71d1",
+      "title": "Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid",
+      "description": "The drone attack is one of Kyiv&#039;s biggest of the war, sustaining pressure on Russia as it struggles with fuel shortages.",
+      "url": "https://www.aljazeera.com/news/2026/6/26/russia-reports-downing-660-ukrainian-drones-denies-seeking-belarus-war-aid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-26T10:12:32Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-18T105325Z_1756175838_RC27WLA8MTLJ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-MOSCOW-1781877104.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-e5da8aa3de1a",
+      "title": "Why are Ukrainian drones targeting annexed Crimea's infrastructures?",
+      "description": "Kyiv is seeking retribution and one of its targets is Crimea. The peninsula annexed by Russia in 2014 now threatens to become Moscow's Achilles' heel, as Ukraine steps up its attacks targeting bridges, ferries and oil storage facilities. The strategy appears to be working: fuel and power shortages are becoming increasi…",
+      "url": "https://www.france24.com/en/why-are-ukrainian-drones-targeting-annexed-crimea-s-infrastructures",
+      "source": "France24",
+      "publishedAt": "2026-06-26T09:50:42Z",
+      "image": "https://s.france24.com/media/display/921c75d2-7140-11f1-a50a-005056bfb2b6/w:1024/p:16x9/EN-20260626-111016-111209-CS.jpg",
       "categories": [
         "conflict",
         "analysis"
@@ -82,21 +128,6 @@
       "tags": []
     },
     {
-      "id": "al -3c29d9b3cae1",
-      "title": "France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war",
-      "description": "France seizes fifth Russian ‘shadow fleet’ tanker linked to funding Ukraine war.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/france-seizes-fifth-russian-shadow-fleet-tanker-linked-to-ukraine-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-26T01:20:40Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/wide-thumb-2-1782436737.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-f126328ac53e",
       "title": "IDF: 4 soldiers hurt in clash with Hezbollah operative in southern Lebanon",
       "description": "Hezbollah chief says Iran deal marks a declaration of defeat for Israel and US, says IDF must 'unconditionally' leave Lebanon * Belgian police say it identified suspects behind March attack on Liege synagogue The post IDF: 4 soldiers hurt in clash with Hezbollah operative in southern Lebanon appeared first on The Times…",
@@ -108,37 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-b84dd765d6f0",
-      "title": "US wants Iran deal but 'not at any price', Rubio says",
-      "description": "US Secretary of State Marco Rubio said on Thursday Washington would not accept any Iran deal allowing Tehran to impose fees on shipping through the Strait of Hormuz, warning it would cause \"total chaos\". His remarks came after an attack on a vessel forced the United Nations to suspend mariner evacuation efforts.",
-      "url": "https://www.france24.com/en/middle-east/20260625-us-seeks-iran-deal-not-at-any-price-rubio",
-      "source": "France24",
-      "publishedAt": "2026-06-25T22:35:25Z",
-      "image": "https://s.france24.com/media/display/e2e0c32a-70bd-11f1-8812-005056bf30b7/w:1024/p:16x9/f601bc132accf46e21b4f9ebc24182c53517e156.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-fd5b211e5b03",
-      "title": "Sudan: Warnings mount over the risk of new mass atrocities",
-      "description": "As Sudan's paramilitary Rapid Support Forces mass around the strategic city of el-Obeid, fears are growing of atrocities similar to those seen in Darfur's el-Fasher. Could sanctions still prevent bloodshed?",
-      "url": "https://www.dw.com/en/sudan-warnings-mount-over-the-risk-of-new-mass-atrocities/a-77709377?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-25T16:33:00Z",
-      "image": "https://static.dw.com/image/77709628_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

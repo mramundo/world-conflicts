@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T12:51:23Z",
+  "updated": "2026-06-26T13:44:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T12:51:19Z",
+      "publishedAt": "2026-06-26T13:44:43Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F5%2F4%2F12644591-1-eng-GB%2F24e579a5c3cc-AP26035720346774.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -45f24b9d27de",
+      "title": "Aid groups urge swift action to avert ‘atrocities’ in Sudan’s el-Obeid",
+      "description": "The city is at risk of an &#039;imminent ground offensive&#039; by the RSF paramilitary and its allies, 38 NGOs warn.",
+      "url": "https://www.aljazeera.com/news/2026/6/26/aid-groups-urge-swift-action-to-avert-atrocities-in-sudans-el-obeid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-26T13:32:14Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3e75945ed7b-1782478228.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -66,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "al -ec49997d71d1",
-      "title": "Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid",
-      "description": "The drone attack is one of Kyiv&#039;s biggest of the war, sustaining pressure on Russia as it struggles with fuel shortages.",
-      "url": "https://www.aljazeera.com/news/2026/6/26/russia-reports-downing-660-ukrainian-drones-denies-seeking-belarus-war-aid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-26T10:12:32Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-18T105325Z_1756175838_RC27WLA8MTLJ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-MOSCOW-1781877104.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-5c2e3991b980",
       "title": "South Korea to train half a million military personnel to become ‘drone warriors’",
       "description": "All branches of the military will be taught how to use technology that has become a ‘game changer on the battlefield’, says defence ministerAll of South Korea’s military forces will be trained as drone operators in a sweeping overhaul of its warfare strategy, the defence minister has said.“All soldiers should be able t…",
@@ -98,7 +98,7 @@
     {
       "id": "npr-3da844132345",
       "title": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
-      "description": "",
+      "description": "A United Nations agency paused the evacuation of ships through the Strait of Hormuz on Thursday after the British military said a vessel was hit by a projectile off the coast of Oman following the passage of several tankers that used a route backed by the U.N.",
       "url": "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel",
       "source": "NPR World",
       "publishedAt": "2026-06-26T05:36:59Z",

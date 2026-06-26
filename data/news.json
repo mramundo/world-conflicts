@@ -1,21 +1,36 @@
 {
-  "updated": "2026-06-26T03:15:27Z",
+  "updated": "2026-06-26T05:32:00Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-0e7379b0f44a",
-      "title": "Singapore's Ascott sees Asian tourists staying close to home after Iran war",
+      "id": "nik-c00827fb20af",
+      "title": "India's IPO market draws hope from blockbuster listings, Iran peace deal",
       "description": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/singapore-s-ascott-sees-asian-tourists-staying-close-to-home-after-iran-war",
+      "url": "https://asia.nikkei.com/business/markets/india-s-ipo-market-draws-hope-from-blockbuster-listings-iran-peace-deal",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T03:15:24Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F1%2F9%2F0%2F12650915-1-eng-GB%2Fa2eab685e8d8-photo_SXM2026062500009034gh.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-06-26T05:31:56Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F2%2F6%2F9%2F12649621-1-eng-GB%2F6089a497da76-MYK_3412-20241112c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-509766aa567c",
+      "title": "Mosca, almeno 660 droni ucraini abbattuti nella notte sulla Russia",
+      "description": "Numero fra i più alti della guerra. Bersagliati la capitale, Tula, Crimea, Mar Nero",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/26/mosca-almeno-660-droni-ucraini-abbattuti-nella-notte-sulla-russia_1f6f96aa-cea1-4800-8e83-566e099691d2.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-26T05:25:54Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2023/8/23/07db737a2c485244dc3340c6c0ee7884.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -77,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-d9fd34d8c7de",
-      "title": "Rutte, 'l'Italia ha fatto quello che è previsto dagli accordi bilaterali con Usa'",
-      "description": "'Non ho mai detto che ha fatto di più nella guerra per l'Iran'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/25/rutte-litalia-ha-fatto-quello-che-e-previsto-dagli-accordi-bilaterali-con_b2ae092f-9043-40e5-a0ec-410544a351eb.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-25T18:51:32Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/24/d326a488e71475b145a552f9ee664987.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

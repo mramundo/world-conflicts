@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-26T18:43:06Z",
+  "updated": "2026-06-26T19:36:35Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T18:43:02Z",
+      "publishedAt": "2026-06-26T19:36:32Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F5%2F4%2F12644591-1-eng-GB%2F24e579a5c3cc-AP26035720346774.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-086eb17a5a0a",
+      "title": "Brexit Britain: Sunlit Uplands or a Toad in the Harrow?",
+      "description": "Political change in Britain has dominated the headlines, with Keir Starmer’s resignation paving the way for Andy Burnham, as the country also marks ten years since the Brexit vote. Fresh peace talks between the US and Iran have begun amid continuing tensions and sharply different accounts of progress from both sides.",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260626-brexit-britain-sunlit-uplands-or-a-toad-in-the-harrow",
+      "source": "France24",
+      "publishedAt": "2026-06-26T18:55:52Z",
+      "image": "https://s.france24.com/media/display/6ef8818c-718f-11f1-847c-005056a97e36/w:1024/p:16x9/EN-20260626-190935-195732-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {

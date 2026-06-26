@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:38:53Z",
+  "updated": "2026-06-26T21:33:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T20:38:50Z",
+      "publishedAt": "2026-06-26T21:33:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F5%2F4%2F12644591-1-eng-GB%2F24e579a5c3cc-AP26035720346774.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,37 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-f5565313b71d",
+      "title": "Burkina Faso ruling junta cuts diplomatic ties with ex-ruler France",
+      "description": "Burkina Faso's military junta on Friday cut diplomatic ties with former colonial power France, accusing Paris of acting against its interests and backing subversive networks and militants in the Sahel. The move deepens the ruling authorities' break with Western allies since Captain Ibrahim Traore seized power in a 2022…",
+      "url": "https://www.france24.com/en/africa/20260626-burkina-faso-ruling-junta-cuts-diplomatic-ties-with-ex-ruler-france",
+      "source": "France24",
+      "publishedAt": "2026-06-26T21:28:44Z",
+      "image": "https://s.france24.com/media/display/ac5dd5b6-71a5-11f1-ac61-005056a90284/w:1024/p:16x9/AP25074433188983.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-ec1ea40ce437",
+      "title": "US says it struck Iran targets after attack on cargo ship on the strait of Hormuz",
+      "description": "Strike was in response to drone attack a day earlier on a commercial vessel The US military ⁠conducted strikes ⁠against Iran ​on Friday, ⁠Central Command said in ⁠a statement, ​adding ‌that ‌US aircraft ‌struck Iranian missile and drone storage locations and ‌coastal radar sites ​after Tehran’s attack on a ⁠commercial …",
+      "url": "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-26T21:07:05Z",
+      "image": "https://i.guim.co.uk/img/media/5200152e355ffc3f9e20de46fc38e76333df0949/865_0_4196_3357/master/4196.jpg?width=140&quality=85&auto=format&fit=max&s=8ad550637ce083ae72bd71b6f0e4d233",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,21 +63,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-086eb17a5a0a",
-      "title": "Brexit Britain: Sunlit Uplands or a Toad in the Harrow?",
-      "description": "Political change in Britain has dominated the headlines, with Keir Starmer’s resignation paving the way for Andy Burnham, as the country also marks ten years since the Brexit vote. Fresh peace talks between the US and Iran have begun amid continuing tensions and sharply different accounts of progress from both sides.",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260626-brexit-britain-sunlit-uplands-or-a-toad-in-the-harrow",
-      "source": "France24",
-      "publishedAt": "2026-06-26T18:55:52Z",
-      "image": "https://s.france24.com/media/display/6ef8818c-718f-11f1-847c-005056a97e36/w:1024/p:16x9/EN-20260626-190935-195732-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -108,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-5c2e3991b980",
-      "title": "South Korea to train half a million military personnel to become ‘drone warriors’",
-      "description": "All branches of the military will be taught how to use technology that has become a ‘game changer on the battlefield’, says defence ministerAll of South Korea’s military forces will be trained as drone operators in a sweeping overhaul of its warfare strategy, the defence minister has said.“All soldiers should be able t…",
-      "url": "https://www.theguardian.com/world/2026/jun/26/south-korea-drone-warriors-military-training",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-26T06:04:05Z",
-      "image": "https://i.guim.co.uk/img/media/b59cc4777dfb6b80cbda625150e8f00041e295eb/522_527_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=ba5dd14c47d9350867f8009efaf57309",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

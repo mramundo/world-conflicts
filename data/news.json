@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T15:52:51Z",
+  "updated": "2026-06-26T16:45:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T15:52:48Z",
+      "publishedAt": "2026-06-26T16:45:08Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F5%2F4%2F12644591-1-eng-GB%2F24e579a5c3cc-AP26035720346774.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-a55d885df5d2",
+      "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
+      "description": "Nayef Samaro, 25, was killed in an Israeli military raid on Nablus, in the occupied West Bank, as he prepared to meet his wife at the hospital for the birth of their first child.",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
+      "source": "NPR World",
+      "publishedAt": "2026-06-26T15:45:25Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3000+0+0/resize/4000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2F71%2F6bb17fa740af8bfc5895f3993311%2F20260513-123245.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -37,17 +52,17 @@
       "tags": []
     },
     {
-      "id": "npr-dc8e20696a43",
-      "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
-      "description": "Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, and Russia attacked various regions of Ukraine, as their war grinds on.",
-      "url": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
-      "source": "NPR World",
-      "publishedAt": "2026-06-26T15:08:14Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F20%2Fb9c50f7f4bb39160a43e7c96c30a%2Fap26177395041745.jpg",
+      "id": "the-2d6eef28c67b",
+      "title": "Andy Burnham’s long coup: the chaotic year-long project to return him to Westminster",
+      "description": "Efforts of campaign groups, supporters and party figures coalesced after May elections as MPs’ views began to change The third coming of Andy Burnham began in earnest on the dancefloor of the Ministry of Sound. It was the annual conference of the centre-left pressure group Compass on an unusually hot spring weekend in …",
+      "url": "https://www.theguardian.com/politics/2026/jun/26/andy-burnham-long-coup-chaotic-year-long-project-return-him-westminster",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-26T15:30:15Z",
+      "image": "https://i.guim.co.uk/img/media/0ec8499bf9594f249eea93c526f2a50d12bfa9f6/161_0_1866_1493/master/1866.jpg?width=140&quality=85&auto=format&fit=max&s=7133e8826e9c0080ff81178e24db200e",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -108,21 +123,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-5c2e3991b980",
-      "title": "South Korea to train half a million military personnel to become ‘drone warriors’",
-      "description": "All branches of the military will be taught how to use technology that has become a ‘game changer on the battlefield’, says defence ministerAll of South Korea’s military forces will be trained as drone operators in a sweeping overhaul of its warfare strategy, the defence minister has said.“All soldiers should be able t…",
-      "url": "https://www.theguardian.com/world/2026/jun/26/south-korea-drone-warriors-military-training",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-26T06:04:05Z",
-      "image": "https://i.guim.co.uk/img/media/b59cc4777dfb6b80cbda625150e8f00041e295eb/522_527_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=ba5dd14c47d9350867f8009efaf57309",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

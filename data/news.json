@@ -1,22 +1,23 @@
 {
-  "updated": "2026-06-26T07:26:23Z",
+  "updated": "2026-06-26T09:13:21Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-c00827fb20af",
-      "title": "India's IPO market draws hope from blockbuster listings, Iran peace deal",
+      "id": "nik-7c9877c68929",
+      "title": "The AI cold war needs a nonalignment movement",
       "description": "",
-      "url": "https://asia.nikkei.com/business/markets/india-s-ipo-market-draws-hope-from-blockbuster-listings-iran-peace-deal",
+      "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T07:26:20Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F2%2F6%2F9%2F12649621-1-eng-GB%2F6089a497da76-MYK_3412-20241112c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-06-26T09:13:18Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F5%2F4%2F12644591-1-eng-GB%2F24e579a5c3cc-AP26035720346774.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -96,6 +97,21 @@
       "tags": []
     },
     {
+      "id": "tim-f126328ac53e",
+      "title": "IDF: 4 soldiers hurt in clash with Hezbollah operative in southern Lebanon",
+      "description": "Hezbollah chief says Iran deal marks a declaration of defeat for Israel and US, says IDF must 'unconditionally' leave Lebanon * Belgian police say it identified suspects behind March attack on Liege synagogue The post IDF: 4 soldiers hurt in clash with Hezbollah operative in southern Lebanon appeared first on The Times…",
+      "url": "https://www.timesofisrael.com/liveblog-june-26-2026/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-26T00:36:41Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/DSC06218-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "fra-b84dd765d6f0",
       "title": "US wants Iran deal but 'not at any price', Rubio says",
       "description": "US Secretary of State Marco Rubio said on Thursday Washington would not accept any Iran deal allowing Tehran to impose fees on shipping through the Strait of Hormuz, warning it would cause \"total chaos\". His remarks came after an attack on a vessel forced the United Nations to suspend mariner evacuation efforts.",
@@ -108,21 +124,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-49aa01a3d551",
-      "title": "IDF chief says military needs ‘every male and female combat soldier’",
-      "description": "Alternately booed and cheered at military ceremony, Netanyahu touts wartime achievements, insists troops will stay in southern Lebanon 'for as long as necessary' The post IDF chief says military needs &#8216;every male and female combat soldier&#8217; appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-chief-says-military-needs-every-male-and-female-combat-soldier/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-25T21:56:41Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/00897-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

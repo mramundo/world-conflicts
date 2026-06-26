@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-26T16:45:10Z",
+  "updated": "2026-06-26T17:37:37Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T16:45:08Z",
+      "publishedAt": "2026-06-26T17:37:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F5%2F4%2F12644591-1-eng-GB%2F24e579a5c3cc-AP26035720346774.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -52,21 +52,6 @@
       "tags": []
     },
     {
-      "id": "the-2d6eef28c67b",
-      "title": "Andy Burnham’s long coup: the chaotic year-long project to return him to Westminster",
-      "description": "Efforts of campaign groups, supporters and party figures coalesced after May elections as MPs’ views began to change The third coming of Andy Burnham began in earnest on the dancefloor of the Ministry of Sound. It was the annual conference of the centre-left pressure group Compass on an unusually hot spring weekend in …",
-      "url": "https://www.theguardian.com/politics/2026/jun/26/andy-burnham-long-coup-chaotic-year-long-project-return-him-westminster",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-26T15:30:15Z",
-      "image": "https://i.guim.co.uk/img/media/0ec8499bf9594f249eea93c526f2a50d12bfa9f6/161_0_1866_1493/master/1866.jpg?width=140&quality=85&auto=format&fit=max&s=7133e8826e9c0080ff81178e24db200e",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -45f24b9d27de",
       "title": "Aid groups urge swift action to avert ‘atrocities’ in Sudan’s el-Obeid",
       "description": "The city is at risk of an &#039;imminent ground offensive&#039; by the RSF paramilitary and its allies, 38 NGOs warn.",
@@ -97,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "fra-db1c01494bd1",
-      "title": "Hezbollah claims hits on Israel’s Iron Dome but videos show strikes on decoys",
-      "description": "As the on-again, off-again fighting continues between Israel and Hezbollah, the Iranian-backed militia has revealed its deadly FPV drone fleet: small quadcopters equipped with light explosives. Analysis of videos of the attacks suggests the Israeli army has turned to a Second World War-era trick to counter Hezbollah’s …",
-      "url": "https://www.france24.com/en/middle-east/20260626-hezbollah-fpv-drones-iron-dome-decoy-launchers",
-      "source": "France24",
-      "publishedAt": "2026-06-26T11:45:49Z",
-      "image": "https://s.france24.com/media/display/cef13022-7147-11f1-8cee-005056a90284/w:1024/p:16x9/2180526.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-e6901672e5c4",
       "title": "Sudan: Fears of atrocities as RSF surrounds key city",
       "description": "As Sudan's paramilitary Rapid Support Forces mass around the strategic city of el-Obeid, fears are growing of atrocities similar to those seen in Darfur's el-Fasher. Could sanctions still prevent bloodshed?",
@@ -123,6 +93,21 @@
         "conflict"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-5c2e3991b980",
+      "title": "South Korea to train half a million military personnel to become ‘drone warriors’",
+      "description": "All branches of the military will be taught how to use technology that has become a ‘game changer on the battlefield’, says defence ministerAll of South Korea’s military forces will be trained as drone operators in a sweeping overhaul of its warfare strategy, the defence minister has said.“All soldiers should be able t…",
+      "url": "https://www.theguardian.com/world/2026/jun/26/south-korea-drone-warriors-military-training",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-26T06:04:05Z",
+      "image": "https://i.guim.co.uk/img/media/b59cc4777dfb6b80cbda625150e8f00041e295eb/522_527_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=ba5dd14c47d9350867f8009efaf57309",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

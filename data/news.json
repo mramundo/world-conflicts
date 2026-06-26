@@ -1,21 +1,36 @@
 {
-  "updated": "2026-06-26T01:01:48Z",
+  "updated": "2026-06-26T03:15:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-39aed8efbc07",
-      "title": "Chinese door-to-door logistics networks grow in US to counter trade war",
+      "id": "nik-0e7379b0f44a",
+      "title": "Singapore's Ascott sees Asian tourists staying close to home after Iran war",
       "description": "",
-      "url": "https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/singapore-s-ascott-sees-asian-tourists-staying-close-to-home-after-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T01:01:44Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F1%2F6%2F12646124-1-eng-GB%2F160f7e8306bd-Temu.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-06-26T03:15:24Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F1%2F9%2F0%2F12650915-1-eng-GB%2Fa2eab685e8d8-photo_SXM2026062500009034gh.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -d463cd79ec1b",
+      "title": "Ukraine's Donbas rear area, from Sloviansk to Kramatorsk, is under constant Russian pressure",
+      "description": "'Donbas: The War of Attrition' (1/2). Just a few kilometers from one of Ukraine's fiercest fronts, these two cities are under drone strikes that make residents' lives very difficult. Both civilians and soldiers fear the bombings will intensify.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/26/ukraine-s-donbas-rear-area-from-sloviansk-to-kramatorsk-is-under-constant-russian-pressure_6754889_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-26T03:00:08Z",
+      "image": "https://img.lemde.fr/2026/06/24/0/0/4300/2150/644/322/60/0/3a69d75_upload-1-w7ibkzld9nu2-sloviansk-kramatorsk-203.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -29,22 +44,6 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3da01e-1782423583.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -b8e048c05890",
-      "title": "Iran intensifies internal crackdown as US and Israel wage war on regime",
-      "description": "While diplomatic talks between Tehran and Washington focus on Iran's nuclear program and sanctions, NGOs are warning that executions and mass arrests continue.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/26/iran-intensifies-internal-crackdown-as-us-and-israel-wage-war-on-regime_6754884_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-25T23:12:18Z",
-      "image": "https://img.lemde.fr/2026/06/24/950/0/9373/4686/644/322/60/0/c640a5c_upload-1-phuswff66xmy-080-hl-ebroncard-3127141.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,

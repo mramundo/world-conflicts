@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T05:32:00Z",
+  "updated": "2026-06-26T07:26:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/india-s-ipo-market-draws-hope-from-blockbuster-listings-iran-peace-deal",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-26T05:31:56Z",
+      "publishedAt": "2026-06-26T07:26:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F2%2F6%2F9%2F12649621-1-eng-GB%2F6089a497da76-MYK_3412-20241112c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-5c2e3991b980",
+      "title": "South Korea to train half a million military personnel to become ‘drone warriors’",
+      "description": "All branches of the military will be taught how to use technology that has become a ‘game changer on the battlefield’, says defence ministerAll of South Korea’s military forces will be trained as drone operators in a sweeping overhaul of its warfare strategy, the defence minister has said.“All soldiers should be able t…",
+      "url": "https://www.theguardian.com/world/2026/jun/26/south-korea-drone-warriors-military-training",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-26T06:04:05Z",
+      "image": "https://i.guim.co.uk/img/media/b59cc4777dfb6b80cbda625150e8f00041e295eb/522_527_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=ba5dd14c47d9350867f8009efaf57309",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-3da844132345",
+      "title": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
+      "description": "",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel",
+      "source": "NPR World",
+      "publishedAt": "2026-06-26T05:36:59Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2F1e%2F61802957444198a888f82002a300%2Fap26168706073921.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,24 +81,24 @@
       "tags": []
     },
     {
-      "id": "al -0f05f6f7bd43",
-      "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
-      "description": "Israeli leader says military to stay in occupied areas of southern Lebanon &#039;as long as necessary&#039;, despite US-Iran deal.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
+      "id": "al -3c29d9b3cae1",
+      "title": "France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war",
+      "description": "France seizes fifth Russian ‘shadow fleet’ tanker linked to funding Ukraine war.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/france-seizes-fifth-russian-shadow-fleet-tanker-linked-to-ukraine-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-26T00:00:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3da01e-1782423583.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-26T01:20:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/wide-thumb-2-1782436737.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "fra-b84dd765d6f0",
-      "title": "US seeks Iran deal, but 'not at any price,' Rubio says",
-      "description": "US Secretary of State Marco Rubio said on Thursday Washington would not accept any Iran deal allowing Tehran to impose fees on shipping through the Strait of Hormuz, warning it would cause \"total chaos.\" His remarks came after an attack on a vessel forced the United Nations to suspend mariner evacuation efforts.",
+      "title": "US wants Iran deal but 'not at any price', Rubio says",
+      "description": "US Secretary of State Marco Rubio said on Thursday Washington would not accept any Iran deal allowing Tehran to impose fees on shipping through the Strait of Hormuz, warning it would cause \"total chaos\". His remarks came after an attack on a vessel forced the United Nations to suspend mariner evacuation efforts.",
       "url": "https://www.france24.com/en/middle-east/20260625-us-seeks-iran-deal-not-at-any-price-rubio",
       "source": "France24",
       "publishedAt": "2026-06-25T22:35:25Z",
@@ -157,21 +188,6 @@
       "tags": []
     },
     {
-      "id": "npr-8d1773b4574c",
-      "title": "Trump airs grievances with NATO chief over alliance's lack of Iran war support",
-      "description": "President Trump met with NATO Secretary General Mark Rutte Wednesday, where he shared his frustrations with the lack of support he's received from allies on the Iran war.",
-      "url": "https://www.npr.org/2026/06/25/nx-s1-5869806/trump-airs-grievances-with-nato-chief-over-alliances-lack-of-iran-war-support",
-      "source": "NPR World",
-      "publishedAt": "2026-06-25T08:44:55Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5869806",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-c4afff0b5ba4",
       "title": "In High-Stakes Bluff, Putin Holds a Losing Hand",
       "description": "Ukraine’s recent battlefield successes do not bode well for the Kremlin leader. Thanks to Europe’s steady financial and military support for Kyiv, Russia is experiencing casualties unprecedented since World War II. Meanwhile, the US waivers in its historic transatlantic commitment.",
@@ -185,21 +201,6 @@
       ],
       "relevanceScore": 15,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-694284285e28",
-      "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
-      "description": "Foreign Office failed to act on warnings of genocide due to ‘pressure’ from emirates, Yale human rights investigator will tell a parliamentary select committeeThe British government had received intelligence that Ethiopia appeared to be supporting a genocidal militia in Sudan’s civil war as far back as 2024 but did not…",
-      "url": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-23T13:15:28Z",
-      "image": "https://i.guim.co.uk/img/media/f56a8c7df24d29aa0d3f710f615c9963d95a493b/227_58_762_609/master/762.jpg?width=140&quality=85&auto=format&fit=max&s=5be841116f43e112873558a42538344f",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

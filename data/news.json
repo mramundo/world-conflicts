@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T07:12:35Z",
+  "updated": "2026-06-27T09:00:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-27T07:12:32Z",
+      "publishedAt": "2026-06-27T09:00:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,62 @@
       "tags": []
     },
     {
-      "id": "al -011aca85be13",
-      "title": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
-      "description": "Iran&#039;s IRGC says it targeted US military in region after Trump administration launched attack on the country.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-27T00:00:04Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3f06f440a94-1782515444.jpg?resize=1920%2C1440",
+      "id": "bbc-21d8fa9ea1ba",
+      "title": "US strikes Iran after attack on cargo ship",
+      "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-27T08:25:43Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-27bd8e1eeb0e",
+      "title": "‘Operation Thunderbolt’: 50 years to the heroic raid on Entebbe",
+      "description": "ToI's movie maven and deputy editor discuss the 1977 Israeli adventure film based on the real-life daring IDF rescue of over 100 hostages from Uganda that had taken place only a year earlier The post &#8216;Operation Thunderbolt&#8217;: 50 years to the heroic raid on Entebbe appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/operation-thunderbolt-50-years-to-the-heroic-raid-on-entebbe/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-27T07:51:55Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/Reeeel-Schmooze-YT-Thumbnail-Exodus-6-e1782524961290-1024x640.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-c26e8bcb41f8",
+      "title": "Vance commenta raid Usa contro Iran, 'alla violenza si risponde con violenza'",
+      "description": "'Se hanno un problema con l'accordo possono chiamare. 'Noi rispettiamo tregua'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/06/27/vance-commenta-raid-usa-contro-iran-alla-violenza-si-risponde-con_6eadbd8e-f349-42b0-8f3a-eb06cb42fa14.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-27T07:32:17Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/27/2db2cb46562975114cd1ab8e2b299e3f.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -dc92995dc08f",
+      "title": "Trump justifies strikes on Iran amid ceasefire",
+      "description": "The US has struck Iran in retaliation for what it says was an Iranian attack on a ship in the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-27T00:16:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/kimberly-wide-thumb-1782519333.png?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -115,21 +160,6 @@
       "tags": []
     },
     {
-      "id": "tim-0f5c432dfceb",
-      "title": "6 settlers indicted on terror charges for arson attack on West Bank mosque with people inside",
-      "description": "5 minors and an 18-year-old accused of arriving in Deir Dibwan earlier this month wearing face coverings and carrying knives, tear gas, gloves and combustible material The post 6 settlers indicted on terror charges for arson attack on West Bank mosque with people inside appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/6-settlers-indicted-on-terror-charges-for-arson-attack-on-west-bank-mosque-with-people-inside/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-26T18:08:58Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/3-combo-1-1-1024x640.jpeg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-a55d885df5d2",
       "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
       "description": "Nayef Samaro, 25, was killed in an Israeli military raid on Nablus, in the occupied West Bank, as he prepared to meet his wife at the hospital for the birth of their first child.",
@@ -160,21 +190,6 @@
       "tags": []
     },
     {
-      "id": "ans-509766aa567c",
-      "title": "Mosca, almeno 660 droni ucraini abbattuti nella notte sulla Russia",
-      "description": "Numero fra i più alti della guerra. Bersagliati la capitale, Tula, Crimea, Mar Nero",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/26/mosca-almeno-660-droni-ucraini-abbattuti-nella-notte-sulla-russia_1f6f96aa-cea1-4800-8e83-566e099691d2.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-26T05:25:54Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2023/8/23/07db737a2c485244dc3340c6c0ee7884.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-c2712a1a2a80",
       "title": "The Day Moscow Burned: Inside Ukraine’s Massive 500-Drone Strike",
       "description": "Ukraine’s largest drone raid of the war sent up to 500 strike and decoy drones into Moscow airspace, overwhelming the capital’s air defenses and landing critical hits on the Moscow Oil Refinery in Kapotnya — knocking out nearly half its petroleum processing capacity. The operation followed a Russian strike on the histo…",
@@ -200,21 +215,6 @@
       "categories": [
         "conflict",
         "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-bfa609e263c2",
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "description": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
-      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-25T09:06:59Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6509/live/094ddba0-702e-11f1-86a5-c78e0086fe7e.jpg",
-      "categories": [
-        "conflict"
       ],
       "relevanceScore": 6,
       "isAnalysis": false,

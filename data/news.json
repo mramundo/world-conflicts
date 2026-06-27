@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:46:04Z",
+  "updated": "2026-06-27T03:13:46Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonaligned-movement",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-27T01:45:59Z",
+      "publishedAt": "2026-06-27T03:13:42Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F5%2F4%2F12644591-1-eng-GB%2F24e579a5c3cc-AP26035720346774.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -011aca85be13",
+      "title": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
+      "description": "Iran&#039;s IRGC says it targeted US military in region after Trump administration launched attack on the country.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-27T00:00:04Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3f06f440a94-1782515444.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -35,21 +50,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-8a4fadd5c23f",
-      "title": "US strikes in Iran after attack on cargo ship; Revolutionary Guards threaten response",
-      "description": "Vance tells Tehran to ‘pick up the phone’ if there is a disagreement on MOU, warns ‘violence will be met with violence’ * Hezbollah supporters ride motorcycles through Beirut to protest Israel-Lebanon deal The post US strikes in Iran after attack on cargo ship; Revolutionary Guards threaten response appeared first on T…",
-      "url": "https://www.timesofisrael.com/liveblog-june-27-2026/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-26T22:47:32Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AFP__20260624__B88C6DE__v1__HighRes__UsPoliticsDefenseNato-e1782513668469-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -71,7 +71,7 @@
     {
       "id": "the-ec1ea40ce437",
       "title": "US says it struck Iran targets after attack on cargo ship in the strait of Hormuz",
-      "description": "Strikes against military facilities were in response to drone attack a day earlier on a cargo vesselUS strikes Iran – latest updatesThe US has struck Iran in a tit-for-tat response to a drone strike on a cargo ship, as the ceasefire between the US and Iran that reopened the strait of Hormuz undergoes its greatest test …",
+      "description": "Strikes against military facilities were in response to drone attack a day earlier on a cargo vesselThe US has struck Iran in a tit-for-tat response to a drone strike on a cargo ship, as the ceasefire between the US and Iran that reopened the strait of Hormuz undergoes its greatest test yet.The US strikes targeted mult…",
       "url": "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
       "source": "The Guardian",
       "publishedAt": "2026-06-26T22:21:03Z",
@@ -90,7 +90,7 @@
       "url": "https://www.csmonitor.com/World/Middle-East/2026/0626/Iran-Trump-hormuz-war-gulf?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-26T21:38:04Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/1214983_1_gulf%20ship_standard.jpg?alias=standard_900x600",
+      "image": null,
       "categories": [
         "conflict"
       ],
@@ -115,17 +115,17 @@
       "tags": []
     },
     {
-      "id": "al -fe6688bfc123",
-      "title": "Israeli attack on car in central Gaza kills three Palestinians",
-      "description": "Palestinian Interior Ministry says those killed in attack on Maghazi refugee camp were police officers.",
-      "url": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-26T19:49:32Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AA-20260626-41796878-41796866-ISRAELI_ATTACKS_CONTINUE_ON_GAZA_DESPITE_CEASEFIRE-1782498168.jpg?resize=1920%2C1440",
+      "id": "tim-0f5c432dfceb",
+      "title": "6 settlers indicted on terror charges for arson attack on West Bank mosque with people inside",
+      "description": "5 minors and an 18-year-old accused of arriving in Deir Dibwan earlier this month wearing face coverings and carrying knives, tear gas, gloves and combustible material The post 6 settlers indicted on terror charges for arson attack on West Bank mosque with people inside appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/6-settlers-indicted-on-terror-charges-for-arson-attack-on-west-bank-mosque-with-people-inside/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-26T18:08:58Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/3-combo-1-1-1024x640.jpeg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

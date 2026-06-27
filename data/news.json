@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T14:36:29Z",
+  "updated": "2026-06-27T15:31:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-27T14:36:25Z",
+      "publishedAt": "2026-06-27T15:31:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,53 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-9f51dbf3c4c1",
+      "title": "US-Iran ceasefire threatened by renewed strikes",
+      "description": "The Israeli military carried out an air strike Saturday on the Nabatiyeh area of southern Lebanon, a day after the US announced a framework agreement between Israel and Lebanon. The news comes as Tehran accused the Washington of a \"blatant violation\" of the peace deal after the latest American strikes on its southern d…",
+      "url": "https://www.france24.com/en/us-iran-ceasefire-threatened-by-renewed-strikes",
+      "source": "France24",
+      "publishedAt": "2026-06-27T15:11:24Z",
+      "image": "https://s.france24.com/media/display/e9c5db66-7235-11f1-a0cd-005056a90284/w:1024/p:16x9/EN-20260627-160143-161020-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-c36082b73ab6",
+      "title": "Lebanon-Israel deal may block war crime victims from seeking justice, experts warn",
+      "description": "Agreement could also end hopes of ICC jurisdiction in Lebanon – a move advocates pushed for to prosecute Israel A new agreement between Lebanon and Israel could block victims of Israeli war crimes in Lebanon from pursuing accountability and hinder future efforts to give the international criminal court jurisdiction in …",
+      "url": "https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-27T15:07:58Z",
+      "image": "https://i.guim.co.uk/img/media/d197b8b02b7acfa0b7878be744190e6f8f578fb2/1027_0_5884_4708/master/5884.jpg?width=140&quality=85&auto=format&fit=max&s=813ca31d0b2a643785afed212af8cd81",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-24e36ff23cbf",
+      "title": "Burkina Faso severs diplomatic ties with France",
+      "description": "The West African country's junta accused the former colonial power of undermining its national interests.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-27T14:21:31Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a0c/live/064cc680-7224-11f1-a69f-29c4f147006f.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -67,36 +114,6 @@
       "tags": []
     },
     {
-      "id": "bbc-21d8fa9ea1ba",
-      "title": "US strikes Iran after attack on cargo ship",
-      "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-27T10:40:38Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c18/live/00d7c990-7209-11f1-aede-9f478c3ece44.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-67aec6f756fa",
-      "title": "A cargo ship in the Strait of Hormuz targeted by Iran",
-      "description": "The US military says it has carried out strikes on Iran in response to a drone attack on a cargo ship, after President Donald Trump blamed Tehran for the incident in the Strait of Hormuz and described it as a \"foolish violation\" of the ceasefire. The escalation comes at a particularly delicate moment, as Washington and…",
-      "url": "https://www.france24.com/en/a-cargo-ship-in-the-strait-of-hormuz-targeted-by-iran",
-      "source": "France24",
-      "publishedAt": "2026-06-27T08:44:45Z",
-      "image": "https://s.france24.com/media/display/9aea78f6-7200-11f1-99ea-005056bfb2b6/w:1024/p:16x9/EN-20260627-090207-090325-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-c26e8bcb41f8",
       "title": "Vance commenta raid Usa contro Iran, 'alla violenza si risponde con violenza'",
       "description": "'Se hanno un problema con l'accordo possono chiamare. 'Noi rispettiamo tregua'",
@@ -126,21 +143,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-ec1ea40ce437",
-      "title": "US says it struck Iran targets after attack on cargo ship in the strait of Hormuz",
-      "description": "Strikes against military facilities were in response to drone attack a day earlier on a cargo vesselThe US has struck Iran in a tit-for-tat response to a drone strike on a cargo ship, as the ceasefire between the US and Iran that reopened the strait of Hormuz undergoes its greatest test yet.The US strikes targeted mult…",
-      "url": "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-26T22:21:03Z",
-      "image": "https://i.guim.co.uk/img/media/24a849281bd522626438449d6a19220df6baeac2/198_0_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=a6afa1afbb208bd2c4e091bd8985371c",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

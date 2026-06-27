@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T09:00:56Z",
+  "updated": "2026-06-27T10:43:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-27T09:00:53Z",
+      "publishedAt": "2026-06-27T10:43:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -26,12 +26,27 @@
       "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
       "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-06-27T08:25:43Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg",
+      "publishedAt": "2026-06-27T10:40:38Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c18/live/00d7c990-7209-11f1-aede-9f478c3ece44.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -b42713fb2962",
+      "title": "Lebanon and Israel sign framework agreement in Washington for 'lasting peace and security'",
+      "description": "The document initialed on Friday does not provide for a full Israeli withdrawal, but instead tasks the Lebanese Armed Forces with controlling two 'pilot zones.' Hezbollah rejected the agreement.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/27/lebanon-and-israel-sign-framework-agreement-in-washington-for-lasting-peace-and-security_6754926_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-27T09:12:28Z",
+      "image": "https://img.lemde.fr/2026/06/18/688/0/8256/4128/644/322/60/0/4e8437c_upload-1-diguo86h95r1-abd7436.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -95,22 +110,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -ccc059c213cc",
-      "title": "Burkina Faso cuts diplomatic ties with former colonial ruler France",
-      "description": "On Friday, the West African nation's ruling junta announced on national television its plan to sever diplomatic ties with France after accusing the former colonial power of continuing to harbor 'neo-colonial ambitions.' In response, France called it a 'hostile and baseless decision.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/27/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france_6754917_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-26T22:39:53Z",
-      "image": "https://img.lemde.fr/2023/01/20/86/0/3500/1750/644/322/60/0/2903a79_gggbfa02-burkina-security-france-0120-11.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

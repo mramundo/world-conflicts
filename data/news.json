@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T18:30:54Z",
+  "updated": "2026-06-27T19:33:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,45 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-27T18:30:49Z",
+      "publishedAt": "2026-06-27T19:33:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -b3bfbe57248e",
+      "title": "Why is Crimea critical to the Russia–Ukraine war?",
+      "description": "Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-27T19:22:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782586848.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "rfe-94c22e553e44",
+      "title": "Tears Of Joy As Freed Ukrainians Return Home In Latest Prisoner Swap",
+      "description": "Service members embraced their relatives as they returned home to Ukraine on June 26 in the latest prisoner exchange with Russia. Many of the 160 freed Ukrainians had been held captive since 2022, including soldiers who defended the Azovstal steel plant in Mariupol during a lengthy siege.",
+      "url": "https://www.rferl.org/a/ukraine-prisoners--of-war-released-mariupol/33790207.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-27T19:00:50Z",
+      "image": "https://gdb.rferl.org/42a9c7ed-ade9-4c4a-2cfc-08decd1f5434_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
       "isAnalysis": true,
       "tags": []
     },
@@ -83,22 +115,6 @@
       "tags": []
     },
     {
-      "id": "al -26eee07bf7ac",
-      "title": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
-      "description": "Hezbollah chief calls the deal &#039;null and void&#039;, raising questions if the latest agreement can lead to peace in Lebanon.",
-      "url": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-27T13:54:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-26T091256Z_1018056540_RC2I1MA64J35_RTRMADP_3_RELIGION-ASHURA-LEBANON-DAHIYEH-1782559833.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "le -d23c42ee22d0",
       "title": "In Ukraine, those who leave and those who stay: Life on hold in Sloviansk and Kramatorsk",
       "description": "'Donbas: War of Attrition' (2/2). In this industrial region, 80% of which is occupied by Russian troops, the cities of Sloviansk and Kramatorsk have become the heart of the Ukrainian defensive system. Some of their residents choose to flee to safer areas. Others try to survive as best they can.",
@@ -135,29 +151,12 @@
       "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/06/27/vance-commenta-raid-usa-contro-iran-alla-violenza-si-risponde-con_6eadbd8e-f349-42b0-8f3a-eb06cb42fa14.html",
       "source": "ANSA",
       "publishedAt": "2026-06-27T07:32:17Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/27/2db2cb46562975114cd1ab8e2b299e3f.jpg",
+      "image": null,
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-52748a160f66",
-      "title": "Rubio-Lavrov Rift Reveals Moscow’s Blame-Shifting Strategy On Ukraine, Analysts Say",
-      "description": "As Moscow increasingly invokes the “spirit of Anchorage” to claim a framework for ending the war in Ukraine already exists, US Secretary of State Marco Rubio has flatly pushed back, opening a fierce diplomatic battle over what actually occurred during last year’s high-stakes summit.",
-      "url": "https://www.rferl.org/a/trump-putin-rubio-lavrov-alaska-russia-ukraine/33789730.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-26T23:03:19Z",
-      "image": "https://gdb.rferl.org/a47fd7c7-a05d-4d16-994d-7fb59758d921_cx0_cy5_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     },
     {

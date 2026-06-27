@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T03:13:46Z",
+  "updated": "2026-06-27T05:22:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonaligned-movement",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-27T03:13:42Z",
+      "publishedAt": "2026-06-27T05:22:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F5%2F4%2F12644591-1-eng-GB%2F24e579a5c3cc-AP26035720346774.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -90,7 +90,7 @@
       "url": "https://www.csmonitor.com/World/Middle-East/2026/0626/Iran-Trump-hormuz-war-gulf?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-26T21:38:04Z",
-      "image": null,
+      "image": "https://images.csmonitor.com/csm/2026/06/1214983_1_gulf%20ship_standard.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
@@ -175,6 +175,21 @@
       "tags": []
     },
     {
+      "id": "kyi-c2712a1a2a80",
+      "title": "The Day Moscow Burned: Inside Ukraine’s Massive 500-Drone Strike",
+      "description": "Ukraine’s largest drone raid of the war sent up to 500 strike and decoy drones into Moscow airspace, overwhelming the capital’s air defenses and landing critical hits on the Moscow Oil Refinery in Kapotnya — knocking out nearly half its petroleum processing capacity. The operation followed a Russian strike on the histo…",
+      "url": "https://www.kyivpost.com/videos/78987",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-25T17:00:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/25/314f1f088c50bb1b05bf31358d8c5529.png?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "un -a351f1531d28",
       "title": "Thousands trapped in southern Ukraine struggle to survive",
       "description": "Thousands of civilians trapped in frontline communities in southern Ukraine are facing a deepening humanitarian crisis as access to food, medical care and evacuation routes continues to shrink, the UN Human Rights Monitoring Mission in the country, HMRRU, warned on Wednesday.",
@@ -218,22 +233,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-c4afff0b5ba4",
-      "title": "In High-Stakes Bluff, Putin Holds a Losing Hand",
-      "description": "Ukraine’s recent battlefield successes do not bode well for the Kremlin leader. Thanks to Europe’s steady financial and military support for Kyiv, Russia is experiencing casualties unprecedented since World War II. Meanwhile, the US waivers in its historic transatlantic commitment.",
-      "url": "https://www.kyivpost.com/opinion/78838",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-24T05:37:25Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/19/5a03c25e4842c498d2688a5103f68dbc.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 15,
-      "isAnalysis": true,
       "tags": []
     }
   ]

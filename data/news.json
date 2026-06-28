@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T21:27:30Z",
+  "updated": "2026-06-28T22:26:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-28T21:27:26Z",
+      "publishedAt": "2026-06-28T22:26:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-63721247b1d8",
+      "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
+      "description": "Russia’s president says Ukraine’s attacks on infrastructure are causing ‘obvious’ but not critical problemsThe Russian president, Vladimir Putin, acknowledged that the country was suffering from “a certain shortage” of fuel in an interview published by the Kremlin on Sunday, after repeated Ukrainian strikes in their fo…",
+      "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-28T21:52:52Z",
+      "image": "https://i.guim.co.uk/img/media/99448878dab687094829c3770d6642a14d262c4e/499_322_4162_3328/master/4162.jpg?width=140&quality=85&auto=format&fit=max&s=26d9b28d76a2c4a76d07fea50fd67f2f",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -49,21 +64,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -0c6a4f881d01",
-      "title": "'Their mouths, eyes, hands, were taped and they were thrown into the hole': Russian soldiers confront Putin with reality of front lines",
-      "description": "A Russian exile media outlet has analyzed nearly 7,000 letters from Russian soldiers and their families to the Kremlin thanks to a security flaw.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/28/their-mouths-eyes-hands-were-taped-and-they-were-thrown-into-the-hole-russian-soldiers-confront-putin-with-reality-of-front-lines_6754954_5.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-28T16:44:47Z",
-      "image": "https://img.lemde.fr/2026/06/25/893/0/4000/2000/644/322/60/0/68f1786_upload-1-on67o7s23kgh-008.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -113,6 +113,21 @@
       "tags": []
     },
     {
+      "id": "le -ba5ca2bed2ed",
+      "title": "Israel government recognizes Armenian genocide in rebuke to Turkey; Turkey denounces it as 'political'",
+      "description": "Successive Israeli governments had avoided formally recognizing the Armenian genocide, in part to preserve relations with Turkey. Relations between Israel and Turkey have sharply deteriorated since the war in Gaza erupted in October 2023.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/28/israel-government-recognizes-armenian-genocide-in-rebuke-to-turkey_6754948_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-28T12:52:33Z",
+      "image": "https://img.lemde.fr/2024/12/05/24/0/4103/2051/644/322/60/0/dc1a326_c26ace0b1cba4abcbb32df2ea9cb2f71-0-918fb26d42a8462c821737eb93b4f992.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "fra-f5fa1391ea63",
       "title": "New US-Iran exchange of attacks threatens ceasefire",
       "description": "Iran's Revolutionary Guard on Sunday launched attacks targeting Bahrain and Kuwait in response to US air strikes on 10 Iranian sites. The Islamic Republic threatened a “complete halt” to negotiations to end the war if Washington continues its attacks. Efforts to reopen the Strait of Hormuz without Iran's direct oversig…",
@@ -139,21 +154,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-892eaa0183ba",
-      "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
-      "description": "Across region there is a push to disarm militia and reinforce state authority but the temptation to use proxies remainsAs Marco Rubio ended his brief visit to the Middle East on Friday, he sought to cast in the best possible light his discussions with leaders of the Gulf states. Those leaders are deeply anxious that th…",
-      "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-28T07:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/29db3b71f989120c693d9fd6d4c759ab362be524/759_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ec93bb9f3ed2ebac1312f4412c983122",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

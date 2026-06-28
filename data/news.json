@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T07:28:39Z",
+  "updated": "2026-06-28T09:08:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,8 +10,71 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-28T07:28:37Z",
+      "publishedAt": "2026-06-28T09:08:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-4f55bd5caca0",
+      "title": "Ukrainian Strike Kills One in Southern Russia, Refinery on Fire",
+      "description": "Ukraine has targeted Russian energy infrastructure throughout the war in retaliation for Russian strikes on its civilians and energy infrastructure.",
+      "url": "https://www.themoscowtimes.com/2026/06/28/ukrainian-strike-kills-one-in-southern-russia-refinery-on-fire-a93114",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-06-28T08:57:54Z",
+      "image": "https://static.themoscowtimes.com/image/og/cb/93114__cb972ccf09ed838d22fbf9fe28ed77e8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-b83707798822",
+      "title": "Israel attacks Lebanon despite truce",
+      "description": "Despite the signing of a new framework agreement on Friday aimed at ending the conflict, fighting has continued in Lebanon. On Sunday, the Israeli military said it had killed Hezbollah militants and struck a rocket launcher near Nabatieh in southern Lebanon, while the Iran-backed group rejected the peace deal outright.…",
+      "url": "https://www.france24.com/en/israel-attacks-lebanon-despite-truce",
+      "source": "France24",
+      "publishedAt": "2026-06-28T08:53:53Z",
+      "image": "https://s.france24.com/media/display/dc4de448-72ca-11f1-9c11-005056a90284/w:1024/p:16x9/EN-20260628-090336-090533-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-4fa9d1dc5fa5",
+      "title": "Donald Trump threatens to annihilate Iran after crossfire over Hormuz – Middle East crisis live",
+      "description": "Iran attacked Bahrain and Kuwait after US strikes, and threatened a ‘complete halt’ to talksUS and Iran trade strikes as both sides accuse the other of endangering ceasefireWelcome to our live coverage of the crisis in the Middle East.Earlier this morning, Iran has said it launched a joint missile and drone ⁠operation …",
+      "url": "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-28T08:46:39Z",
+      "image": "https://i.guim.co.uk/img/media/5626b60b813dd1369a1a12b6f09ce10f63207e51/338_0_3380_2704/master/3380.jpg?width=140&quality=85&auto=format&fit=max&s=36c265fbf72b6e1071791481d718b390",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -2703b64130a5",
+      "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
+      "description": "Suffering of Gaza&#039;s children continues unabated due to Israeli attacks despite &#039;ceasefire&#039; reached in October 2025.",
+      "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-28T07:39:08Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/873A4561-copy-1781978881.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
@@ -38,7 +101,7 @@
     {
       "id": "tim-e37b0500ec2d",
       "title": "In direct attack on key election rival, Netanyahu brands Eisenkot as too cautious",
-      "description": "PM says ex-IDF chief, former war cabinet member warned against ops in Gaza, Lebanon, would have left 'all of Hamas' intact; Eisenkot: Netanyahu 'blindly' led us to 'historic low,' lies, evades responsibility The post In direct attack on key election rival, Netanyahu brands Eisenkot as too cautious appeared first on The…",
+      "description": "PM says ex-IDF chief, former war cabinet member had opposed ops in Gaza, Lebanon, would have left 'all of Hamas' intact; Eisenkot: Netanyahu 'blindly' led us to 'historic low,' lies, evades responsibility The post In direct attack on key election rival, Netanyahu brands Eisenkot as too cautious appeared first on The Ti…",
       "url": "https://www.timesofisrael.com/netanyahu-brands-eisenkot-as-too-cautious-in-direct-attack-on-key-election-rival/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-27T21:26:10Z",
@@ -48,22 +111,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -b3bfbe57248e",
-      "title": "Why is Crimea critical to the Russia–Ukraine war?",
-      "description": "Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-27T19:22:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782586848.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -94,37 +141,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-9f51dbf3c4c1",
-      "title": "US-Iran ceasefire threatened by renewed strikes",
-      "description": "The Israeli military carried out an air strike Saturday on the Nabatiyeh area of southern Lebanon, a day after the US announced a framework agreement between Israel and Lebanon. The news comes as Tehran accused the Washington of a \"blatant violation\" of the peace deal after the latest American strikes on its southern d…",
-      "url": "https://www.france24.com/en/us-iran-ceasefire-threatened-by-renewed-strikes",
-      "source": "France24",
-      "publishedAt": "2026-06-27T15:11:24Z",
-      "image": "https://s.france24.com/media/display/e9c5db66-7235-11f1-a0cd-005056a90284/w:1024/p:16x9/EN-20260627-160143-161020-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-c36082b73ab6",
-      "title": "Lebanon-Israel deal may stop war crime victims seeking justice, experts say",
-      "description": "Agreement could also end hopes of ICC jurisdiction in Lebanon, which advocates pushed for to prosecute IsraelA new agreement between Lebanon and Israel could block victims of Israeli war crimes in Lebanon from pursuing accountability and hinder future efforts to give the international criminal court jurisdiction in the…",
-      "url": "https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-27T15:07:58Z",
-      "image": "https://i.guim.co.uk/img/media/d197b8b02b7acfa0b7878be744190e6f8f578fb2/1027_0_5884_4708/master/5884.jpg?width=140&quality=85&auto=format&fit=max&s=813ca31d0b2a643785afed212af8cd81",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -217,21 +233,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-694b75e5591f",
-      "title": "Yabloko Deputy Leader Jailed 7 Years for ‘War Fakes’",
-      "description": "Maxim Kruglov, a former Moscow city councilman, was arrested in October over social media posts from April 2022 discussing civilian deaths following the full-scale invasion of Ukraine.",
-      "url": "https://www.themoscowtimes.com/2026/06/25/yabloko-deputy-leader-jailed-7-years-for-war-fakes-a93093",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-06-25T09:04:28Z",
-      "image": "https://static.themoscowtimes.com/image/og/a2/93093__a26ef4a0c4c94d82d22e9fae28638ec2.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T14:38:22Z",
+  "updated": "2026-06-28T15:31:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-28T14:38:18Z",
+      "publishedAt": "2026-06-28T15:31:55Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -47,6 +47,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -7906e78890f6",
+      "title": "‘Digging with a needle’: Generals stall peace as Sudan’s el-Obeid burns",
+      "description": "The battle for el-Obeid exposes the foreign arms and polarised narratives stalling peace in Sudan’s grinding war.",
+      "url": "https://www.aljazeera.com/news/2026/6/28/digging-with-a-needle-generals-stall-peace-as-sudans-el-obeid-burns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-28T12:27:59Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-01-21T070634Z_248158977_RC2PZIA1RBSJ_RTRMADP_3_SUDAN-POLITICS-OBEID-ATTACKS-1770863263.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -94,22 +109,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -2703b64130a5",
-      "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-      "description": "Suffering of Gaza&#039;s children continues unabated due to Israeli attacks despite &#039;ceasefire&#039; reached in October 2025.",
-      "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-28T07:39:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/873A4561-copy-1781978881.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

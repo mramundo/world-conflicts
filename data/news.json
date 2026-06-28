@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T19:33:39Z",
+  "updated": "2026-06-28T20:31:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-28T19:33:36Z",
+      "publishedAt": "2026-06-28T20:31:17Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,18 +21,19 @@
       "tags": []
     },
     {
-      "id": "al -921499e84d4f",
-      "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-      "description": "Anger over deal that does not force Israeli troops to withdraw from occupied land after months of deadly attacks.",
-      "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss",
+      "id": "al -42c2abd9f6cd",
+      "title": "Can the ICJ help end the war in the eastern DRC?",
+      "description": "The Democratic Republic of Congo takes Rwanda to the International Court of Justice.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/28/can-the-icj-help-end-the-war-in-the-eastern-drc?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-06-28T18:05:18Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3f0773d5e2-1782515571.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-28T19:24:05Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782674094.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict",
+        "humanitarian",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "isAnalysis": true,
       "tags": []
     },
@@ -82,17 +83,17 @@
       "tags": []
     },
     {
-      "id": "tim-e614029fc04f",
-      "title": "Iran attacks Bahrain and Kuwait following US strikes, threatens to end negotiations",
-      "description": "FM Araghchi cites Hormuz 'arrangements' as reason for tension; Bahrain says residential building in capital damaged, nobody killed; Qatar says one of its citizens killed in separate strike; Trump: Iran violated truce with ship attack The post Iran attacks Bahrain and Kuwait following US strikes, threatens to end negoti…",
-      "url": "https://www.timesofisrael.com/iran-attacks-bahrain-and-kuwait-following-us-strikes-threatens-to-end-negotiations/",
+      "id": "tim-bf4c747bcd0b",
+      "title": "Netanyahu’s vow to build ‘broad national government’ marks familiar attempt at pre-election rebrand",
+      "description": "Analyst says PM is courting center-right voters to offset Eisenkot's rising popularity, but will keep current partners if reelected; critics say his appeal for unity is disingenuous, clashes with coalition's current legislative agenda The post Netanyahu&#8217;s vow to build &#8216;broad national government&#8217; marks…",
+      "url": "https://www.timesofisrael.com/netanyahus-vow-to-build-broad-national-government-marks-familiar-attempt-at-pre-election-rebrand/",
       "source": "Times of Israel",
-      "publishedAt": "2026-06-28T13:43:05Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/HL4Sa-fXQAA2J-z-1024x640.jpg",
+      "publishedAt": "2026-06-28T15:14:58Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/F260625FFFF00007-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -112,6 +113,21 @@
       "tags": []
     },
     {
+      "id": "fra-f5fa1391ea63",
+      "title": "New US-Iran exchange of attacks threatens ceasefire",
+      "description": "Iran's Revolutionary Guard on Sunday launched attacks targeting Bahrain and Kuwait in response to US air strikes on 10 Iranian sites. The Islamic Republic threatened a “complete halt” to negotiations to end the war if Washington continues its attacks. Efforts to reopen the Strait of Hormuz without Iran's direct oversig…",
+      "url": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire",
+      "source": "France24",
+      "publishedAt": "2026-06-28T11:27:57Z",
+      "image": "https://s.france24.com/media/display/526e7798-72e2-11f1-842c-005056bfb2b6/w:1024/p:16x9/EN-20260628-120137-120332-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-4f55bd5caca0",
       "title": "Ukrainian Strike Kills 1 in Southern Russia, Refinery on Fire",
       "description": "Ukraine has targeted Russian energy infrastructure throughout the war in retaliation for Russian strikes on its civilians and energy infrastructure.",
@@ -123,22 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-b83707798822",
-      "title": "Israel attacks Lebanon despite truce",
-      "description": "Despite the signing of a new framework agreement on Friday aimed at ending the conflict, fighting has continued in Lebanon. On Sunday, the Israeli military said it had killed Hezbollah militants and struck a rocket launcher near Nabatieh in southern Lebanon, while the Iran-backed group rejected the peace deal outright.…",
-      "url": "https://www.france24.com/en/israel-attacks-lebanon-despite-truce",
-      "source": "France24",
-      "publishedAt": "2026-06-28T08:53:53Z",
-      "image": "https://s.france24.com/media/display/dc4de448-72ca-11f1-9c11-005056a90284/w:1024/p:16x9/EN-20260628-090336-090533-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

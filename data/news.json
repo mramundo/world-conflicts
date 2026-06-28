@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T11:37:19Z",
+  "updated": "2026-06-28T12:35:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-28T11:37:16Z",
+      "publishedAt": "2026-06-28T12:35:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-ef486dc34371",
+      "title": "IDF officer killed in clash with Hezbollah gunman in south Lebanon",
+      "description": "Cpt. David Hazutt was platoon commander in Golani Brigade; death is first Israeli loss since agreement reached with Lebanon to end conflict; Israel strikes terror group positions The post IDF officer killed in clash with Hezbollah gunman in south Lebanon appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-officer-killed-in-clash-with-hezbollah-gunman-in-south-lebanon/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-28T11:42:30Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/דוד-חזות-e1782639170651-1024x640.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -74,26 +89,11 @@
       "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
       "source": "The Guardian",
       "publishedAt": "2026-06-28T07:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/b1092fcab0663dbf143173f9a9f7731fbecf1dee/161_0_3453_2763/master/3453.jpg?width=140&quality=85&auto=format&fit=max&s=cb3379805220aea8facc971b9d7e0f89",
+      "image": "https://i.guim.co.uk/img/media/29db3b71f989120c693d9fd6d4c759ab362be524/759_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ec93bb9f3ed2ebac1312f4412c983122",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-ad7b939f0435",
-      "title": "IDF soldier killed in clash with Hezbollah gunman in south Lebanon",
-      "description": "Iran FM warns any challenge to Tehran’s control of Hormuz will ‘increase tensions’ * Bahrain, Kuwait condemn Iranian attacks * In rebuke to Turkey, government approves proposal to recognize Armenian genocide The post IDF soldier killed in clash with Hezbollah gunman in south Lebanon appeared first on The Times of Israe…",
-      "url": "https://www.timesofisrael.com/liveblog-june-28-2026/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-28T00:08:52Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/דוד-חזות-e1782639170651-1024x640.jpeg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -205,6 +205,22 @@
       "tags": []
     },
     {
+      "id": "un -98e202c17da2",
+      "title": "World News in Brief: Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in Ebola-stricken DR Congo",
+      "description": "More than 2,600 people&nbsp;were displaced in the Artibonite department of&nbsp;Haiti following clashes between armed groups last week as the humanitarian situation continues to worsen, according to the UN’s Office for the Coordination of Humanitarian Assistance (OCHA).",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167823",
+      "source": "UN News",
+      "publishedAt": "2026-06-26T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-02-2026-UNICEF-Haiti-04.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-c2712a1a2a80",
       "title": "The Day Moscow Burned: Inside Ukraine’s Massive 500-Drone Strike",
       "description": "Ukraine’s largest drone raid of the war sent up to 500 strike and decoy drones into Moscow airspace, overwhelming the capital’s air defenses and landing critical hits on the Moscow Oil Refinery in Kapotnya — knocking out nearly half its petroleum processing capacity. The operation followed a Russian strike on the histo…",
@@ -216,22 +232,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -a351f1531d28",
-      "title": "Thousands trapped in southern Ukraine struggle to survive",
-      "description": "Thousands of civilians trapped in frontline communities in southern Ukraine are facing a deepening humanitarian crisis as access to food, medical care and evacuation routes continues to shrink, the UN Human Rights Monitoring Mission in the country, HMRRU, warned on Wednesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167809",
-      "source": "UN News",
-      "publishedAt": "2026-06-25T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-03-2023-UNOCHA-Ukraine.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

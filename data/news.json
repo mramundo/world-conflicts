@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T17:29:58Z",
+  "updated": "2026-06-28T18:30:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-28T17:29:53Z",
+      "publishedAt": "2026-06-28T18:30:43Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,37 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -921499e84d4f",
+      "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
+      "description": "Anger over deal that does not force Israeli troops to withdraw from occupied land after months of deadly attacks.",
+      "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-28T18:05:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3f0773d5e2-1782515571.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-292edf63d9f8",
+      "title": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
+      "description": "President Trump accused Iran of violating their framework agreement, and Tehran threatened to halt negotiations with the U.S. entirely. Meanwhile, violence continued between Israel and Hezbollah.",
+      "url": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
+      "source": "NPR World",
+      "publishedAt": "2026-06-28T18:01:07Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5226x3484+0+0/resize/5226x3484!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2F71%2F005941de460db68d532074531db8%2Fap26179328845342.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -51,6 +82,21 @@
       "tags": []
     },
     {
+      "id": "tim-bf4c747bcd0b",
+      "title": "Netanyahu’s vow to build ‘broad national government’ marks familiar attempt at pre-election rebrand",
+      "description": "Analyst says PM is courting center-right voters to offset Eisenkot's rising popularity, but will keep current partners if reelected; critics say his appeal for unity is disingenuous, clashes with coalition's current legislative agenda The post Netanyahu&#8217;s vow to build &#8216;broad national government&#8217; marks…",
+      "url": "https://www.timesofisrael.com/netanyahus-vow-to-build-broad-national-government-marks-familiar-attempt-at-pre-election-rebrand/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-28T15:14:58Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/F260625FFFF00007-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "ans-ecc9657dfc82",
       "title": "Putin, nessuno può sconfiggere la Russia sul campo di battaglia",
       "description": "L'intervento dello zar al Congresso di Russia Unita",
@@ -62,36 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7906e78890f6",
-      "title": "‘Digging with a needle’: Generals stall peace as Sudan’s el-Obeid burns",
-      "description": "The battle for el-Obeid exposes the foreign arms and polarised narratives stalling peace in Sudan’s grinding war.",
-      "url": "https://www.aljazeera.com/news/2026/6/28/digging-with-a-needle-generals-stall-peace-as-sudans-el-obeid-burns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-28T12:27:59Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-01-21T070634Z_248158977_RC2PZIA1RBSJ_RTRMADP_3_SUDAN-POLITICS-OBEID-ATTACKS-1770863263.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-ef486dc34371",
-      "title": "IDF officer killed in clash with Hezbollah gunman in south Lebanon",
-      "description": "Cpt. David Hazutt was platoon commander in Golani Brigade; death is first Israeli loss since agreement reached with Lebanon to end conflict; operative killed hours later The post IDF officer killed in clash with Hezbollah gunman in south Lebanon appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-officer-killed-in-clash-with-hezbollah-gunman-in-south-lebanon/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-28T11:42:30Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/דוד-חזות-e1782639170651-1024x640.jpeg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -184,21 +200,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-14b18f135639",
-      "title": "A historian analyzes whether Ukraine has a localized advantage in modern combat power",
-      "description": "NPR's Scott Simon talks with strategic studies professor Phillips O'Brien of St Andrew's University in Scotland about whether Ukraine has gained the upper hand in the fight against Russia.",
-      "url": "https://www.npr.org/2026/06/27/nx-s1-5869693/a-historian-analyzes-whether-ukraine-has-a-localized-advantage-in-modern-combat-power",
-      "source": "NPR World",
-      "publishedAt": "2026-06-27T11:40:20Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5869693",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

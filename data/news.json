@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T12:35:56Z",
+  "updated": "2026-06-28T13:35:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-28T12:35:52Z",
+      "publishedAt": "2026-06-28T13:35:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-ecc9657dfc82",
+      "title": "Putin, nessuno può sconfiggere la Russia sul campo di battaglia",
+      "description": "L'intervento dello zar al Congresso di Russia Unita",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/28/putin-nessuno-puo-sconfiggere-la-russia-sul-campo-di-battaglia_17af550c-307e-4f2d-bc33-34a26703d0b7.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-28T13:31:50Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/24/a80c9309ac76a090bed8cb10c4f41c84.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -94,21 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-cd43dda62898",
-      "title": "Trump: 'L'Iran non esisterà più se gli Usa intensificano lo scontro'",
-      "description": "Su Truth: 'Hanno violato l'accordo di cessate il fuoco'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/28/trump-liran-non-esistera-piu-se-gli-usa-intensificano-lo-scontro_d44e2ae3-849c-47e8-8bb6-478f4e6da506.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-27T23:49:18Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/26/c46df610307b3d8ee484c91079e133fc.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

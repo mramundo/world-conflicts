@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T15:14:48Z",
+  "updated": "2026-06-29T17:06:42Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-29T15:14:44Z",
+      "publishedAt": "2026-06-29T17:06:39Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,12 +21,27 @@
       "tags": []
     },
     {
+      "id": "bbc-8226661319a3",
+      "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
+      "description": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-29T15:46:50Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd12/live/616bf460-73d1-11f1-8f46-43735d200ab1.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-5526fd13d9ea",
       "title": "Five people killed in shooting in northern Germany, police say – Europe live",
       "description": "German police say two people were apprehended after ‘numerous’ shots were fired at a youth care facility in StadeMeanwhile, Ukraine is bracing to absorb the impact of the heatwave on its energy network, already pummelled by Russian attacks over more than four years of war, AFP reported.Grid operators in at least five r…",
       "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-06-29T15:03:11Z",
+      "publishedAt": "2026-06-29T15:10:23Z",
       "image": "https://i.guim.co.uk/img/media/5284446be5ce88b08a6c63d3c4fc1a6276a9f6d2/259_0_2070_1656/master/2070.jpg?width=140&quality=85&auto=format&fit=max&s=9495decc8709ee5852c0870323306a34",
       "categories": [
         "conflict"
@@ -110,21 +125,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-8226661319a3",
-      "title": "Pakistani strikes kill dozens in Afghanistan",
-      "description": "The Taliban government says civilians were killed, while Pakistan maintains they targeted militants.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-29T08:15:29Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/223c/live/e6a9e870-7387-11f1-8546-8f19e4fe30f4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T05:41:24Z",
+  "updated": "2026-06-29T07:54:30Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-06-28T19:42:55Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-06-26",
       "wikipediaRevision": "2026-06-26T16:17:51Z",
-      "recentNewsCount": 6
+      "recentNewsCount": 7
     },
     {
       "id": "il-ps",
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sy-war",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-06-22",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-06-22T11:50:42Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 0
     },
     {
       "id": "sahel",
@@ -406,7 +406,7 @@
       "lastUpdate": "2026-06-08",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-06-08T19:44:24Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     },
     {
       "id": "red-sea",

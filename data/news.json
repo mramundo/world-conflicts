@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T09:42:54Z",
+  "updated": "2026-06-29T11:44:39Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-29T09:42:51Z",
+      "publishedAt": "2026-06-29T11:44:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-f1255cd88955",
+      "title": "Pakistan strikes eastern Afghanistan as Taliban says civilians killed",
+      "description": "Pakistan's security forces killed at least 29 militants in ground ​and air operations along the Afghanistan border, it said on Monday, while the Afghan Taliban said at least 38 civilians were killed in airstrikes. France 24's correspodent in Islamabad, Shazaib Wahlah, as the latest.",
+      "url": "https://www.france24.com/en/video/20260629-pakistan-strikes-eastern-afghanistan-as-taliban-says-civilians-killed",
+      "source": "France24",
+      "publishedAt": "2026-06-29T10:18:29Z",
+      "image": "https://s.france24.com/media/display/d4a6a6ee-73a1-11f1-a1b6-005056bf30b7/w:1024/p:16x9/EN-20260629-103831-104049-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c62677949644",
+      "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
+      "description": "Russian president claims Ukraine, which has ramped up attacks on Russia&#039;s energy sector, proposed the limits.",
+      "url": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-29T09:58:08Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2c45d7-1781286359_ee49db-1782721364.jpg?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -79,36 +109,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-19101bb3eaec",
-      "title": "Dozens of civilians killed in Pakistani air strikes on Afghanistan, officials say",
-      "description": "At least 36 civilians have been killed and more than 160 others injured in Pakistani airstrikes in Afghanistan, officials said. Pakistani forces launched a military operation along the border with Afghanistan overnight to Monday in response to multiple militant attacks across Pakistan.",
-      "url": "https://www.france24.com/en/asia-pacific/20260629-dozens-of-civilians-killed-in-pakistani-air-strikes-in-afghanistan-officials-say",
-      "source": "France24",
-      "publishedAt": "2026-06-29T02:14:05Z",
-      "image": "https://s.france24.com/media/display/e1cc6fb2-7355-11f1-922c-005056bf30b7/w:1024/p:16x9/2026-06-10T114701Z-737578812-RC2VQLAG3FDB-RTRMADP-3-AFGHANISTAN-PAKISTAN.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -ee37c1f693e3",
-      "title": "Pakistan says its security forces killed 29 fighters along Afghan border",
-      "description": "Strikes come a day after fighters armed with guns and explosives killed three soldiers in Karachi.",
-      "url": "https://www.aljazeera.com/news/2026/6/29/pakistan-says-its-security-forces-killed-29-fighters-along-afghan-border?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-29T01:06:44Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26179154568216-1782693523.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

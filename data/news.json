@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T21:34:15Z",
+  "updated": "2026-06-29T22:27:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-29T21:34:10Z",
+      "publishedAt": "2026-06-29T22:27:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,13 +21,28 @@
       "tags": []
     },
     {
-      "id": "ans-6c1d0cf05664",
-      "title": "Tre feriti in un'esplosione a Monaco, 'probabile attentato'",
-      "description": "E' avvenuto in un edificio residenziale lungo il confine con la Francia",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/29/tre-feriti-in-unesplosione-a-monaco-probabile-attentato_bf6ff65a-b141-4d50-b291-217a6af6412f.html",
+      "id": "ans-ce78bb5522f9",
+      "title": "Forte esplosione scuote Monaco e ferisce tre ucraini, 'forse un attentato'",
+      "description": "Due sono in gravi condizioni, tra cui un oligarca di Kiev. Un sospettato è in fuga",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/30/forte-esplosione-scuote-monaco-e-ferisce-tre-ucraini-forse-un-attentato_bf6ff65a-b141-4d50-b291-217a6af6412f.html",
       "source": "ANSA",
-      "publishedAt": "2026-06-29T21:29:25Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/29/d01d85d365988d66a3ccf93b92fa4200.jpg",
+      "publishedAt": "2026-06-29T22:19:08Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/30/a83ca6c7df74b8e7f54f484d58d680d5.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -5dbd086c8de9",
+      "title": "In flare-up over Hormuz, a hint at US-Iran roller coaster to come",
+      "description": "If the core U.S.-Iran dispute has long been Tehran’s nuclear program, the tit-for-tat strikes in the Strait of Hormuz make clear that control of the waterway is of immediate concern to both. Neither wants a resumption of full-scale war, yet threats are flying.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0629/trump-iran-war-ceasefire-violations-hormuz-control?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-06-29T20:14:41Z",
+      "image": "https://images.csmonitor.com/csm/2026/06/0629_OHORMUZ_SHIPS.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
@@ -82,6 +97,21 @@
       "tags": []
     },
     {
+      "id": "tim-bb14016181c9",
+      "title": "Katz: Israel has ‘no territorial ambitions’ in Lebanon, will stay until Hezbollah disarmed",
+      "description": "Iran fighting could restart within '2 days,' says minister; Lebanese president tells CENTCOM chief army will deploy up to border; IDF strikes Hezbollah targets in south Lebanon The post Katz: Israel has &#8216;no territorial ambitions&#8217; in Lebanon, will stay until Hezbollah disarmed appeared first on The Times of …",
+      "url": "https://www.timesofisrael.com/katz-israel-has-no-territorial-ambitions-in-lebanon-will-stay-until-hezbollah-disarmed/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-29T16:54:02Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/F260628AMA002-e1782746726139-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-8226661319a3",
       "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
       "description": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
@@ -123,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-6b353b2343b2",
-      "title": "Smotrich takes credit for return of all hostages; former captive decries ‘gaslighting propaganda’",
-      "description": "'I think it is thanks to me,' the far-right minister asserts, despite having opposed various deals throughout the Gaza war that would have seen hostages released sooner The post Smotrich takes credit for return of all hostages; former captive decries &#8216;gaslighting propaganda&#8217; appeared first on The Times of I…",
-      "url": "https://www.timesofisrael.com/smotrich-takes-credit-for-return-of-all-hostages-former-captive-gaslighting-propaganda/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-29T11:05:38Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/F260519YS128-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,21 +216,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -f7fe8f342f4b",
-      "title": "US strikes Iran in response to attack on ship that Trump says violated ceasefire",
-      "description": "U.S. Central Command said the military struck missile and drone locations and coastal radar sites in Iran. The strikes came shortly after President Donald Trump told reporters, “You’ll find out,” whether the U.S. would response to the drone attack.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0626/Iran-Trump-hormuz-war-gulf?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-06-26T21:38:04Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/1214983_1_gulf%20ship_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     }
   ]

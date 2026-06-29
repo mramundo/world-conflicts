@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T19:36:56Z",
+  "updated": "2026-06-29T20:40:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-29T19:36:53Z",
+      "publishedAt": "2026-06-29T20:40:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -53b9d6789ea1",
+      "title": "Israeli forces kill Palestinian teen in West Bank, says Palestinian health ministry",
+      "description": "A 15-year-old Palestinian teenager was shot in the head with live ammunition during a raid in the occupied West Bank. The Israeli military said in a statement that after 'rocks were hurled toward IDF soldiers' during a military operation, the 'soldiers responded with fire' and a 'hit was identified.'",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/29/israeli-forces-kill-palestinian-teen-in-west-bank-says-palestinian-health-ministry_6754989_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-29T19:44:06Z",
+      "image": "https://img.lemde.fr/2026/06/29/0/0/8055/4027/644/322/60/0/c773754_ftp-1-37q8p32ux7ay-5481989-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -36,18 +51,19 @@
       "tags": []
     },
     {
-      "id": "le -9134b11cc1dc",
-      "title": "The killing of West Bank children by Israel's army, a product of Palestinians' dehumanization",
-      "description": "The Israeli human rights organization B'Tselem documented the deaths of 54 minors killed by the Israeli army in the occupied West Bank in January 2025 and the impunity enjoyed by its soldiers.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/29/the-killing-of-west-bank-children-by-israel-s-army-a-product-of-palestinians-dehumanization_6754982_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-29T17:00:03Z",
-      "image": "https://img.lemde.fr/2026/06/26/761/0/5760/2880/644/322/60/0/2285eae_upload-1-vtgdjnwuu3el-lgeai-enterrement-sam-18.jpg",
+      "id": "fra-7cae708d8af2",
+      "title": "What aftermath for Venezuela? Earthquake relief hampered by political crisis",
+      "description": "Kudos to Venezuela's first responders and all the brave citizens still pulling survivors from under the rubble of the 774 buildings that collapsed in last Wednesday’s double earthquakes. Is the sudden pancaking of so many structures - structures built during the boom years of high oil prices, a tipping point for an und…",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260629-what-aftermath-for-venezuela-earthquake-relief-hampered-by-political-crisis",
+      "source": "France24",
+      "publishedAt": "2026-06-29T18:14:26Z",
+      "image": "https://s.france24.com/media/display/609567ce-73e5-11f1-943e-005056a90284/w:1024/p:16x9/Anglais-2026-06-29T17-56-08-723Z.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -78,23 +94,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-2e69a1cda2e3",
-      "title": "Why Oman has become a key diplomatic player in Mideast war",
-      "description": "Iran said Monday it had held its first meeting with Oman on managing the Strait of Hormuz since it signed a preliminary deal to end the Middle East war with the United States. It comes as French President Emmanuel Macron is set to host the Sultan of Oman at the Elysée Palace on Monday, with talks also lilely to focus o…",
-      "url": "https://www.france24.com/en/video/20260629-why-oman-has-become-a-key-diplomatic-player-in-mideast-war",
-      "source": "France24",
-      "publishedAt": "2026-06-29T14:02:18Z",
-      "image": "https://s.france24.com/media/display/f76be800-73c0-11f1-8c4e-005056a97e36/w:1024/p:16x9/EN-20260629-151346-151851-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

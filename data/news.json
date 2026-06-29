@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T07:54:21Z",
+  "updated": "2026-06-29T09:42:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-29T07:54:18Z",
+      "publishedAt": "2026-06-29T09:42:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-7336cf49d489",
+      "title": "Report: IDF warns Hamas is readying to return to war; US opposes new Israeli offensive",
+      "description": "Unsourced report claims terror group is recruiting new fighters, has resumed training its elite Nukhba force as US peace plan fails to progress; IDF says Oct.7 terrorist killed in strike The post Report: IDF warns Hamas is readying to return to war; US opposes new Israeli offensive appeared first on The Times of Israel…",
+      "url": "https://www.timesofisrael.com/report-idf-warns-hamas-is-readying-to-return-to-war-us-opposes-new-israeli-offensive/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-29T08:44:27Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/02/AP25238746730513-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-8226661319a3",
+      "title": "Pakistani strikes kill dozens in Afghanistan",
+      "description": "The Taliban government says civilians were killed, while Pakistan maintains they targeted militants.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-29T08:15:29Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/223c/live/e6a9e870-7387-11f1-8546-8f19e4fe30f4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-7fbbd723dc8e",
-      "title": "IDF says troops fired upon in southern Syria, retaliated with helicopter strike",
-      "description": "No injuries caused to Israeli forces in the incident, which took place a day after the military said it killed two gunmen in the Israeli-held buffer zone inside Syria The post IDF says troops fired upon in southern Syria, retaliated with helicopter strike appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-says-troops-in-southern-syria-fired-upon-retaliated-with-helicopter-strike/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-29T05:07:08Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2025/08/422a3e52-aa90-4a25-bfbf-97fe1ae5a2d8-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,25 +82,10 @@
       "tags": []
     },
     {
-      "id": "bbc-8226661319a3",
-      "title": "Pakistani strikes kill dozens in Afghanistan",
-      "description": "The Taliban government says civilians were killed, while Pakistan maintains they targeted militants.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-29T04:39:05Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/223c/live/e6a9e870-7387-11f1-8546-8f19e4fe30f4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-76db57ce110d",
-      "title": "Dozens of civilians killed in Pakistani airstrikes in Afghanistan, officials say",
+      "id": "fra-19101bb3eaec",
+      "title": "Dozens of civilians killed in Pakistani air strikes on Afghanistan, officials say",
       "description": "At least 36 civilians have been killed and more than 160 others injured in Pakistani airstrikes in Afghanistan, officials said. Pakistani forces launched a military operation along the border with Afghanistan overnight to Monday in response to multiple militant attacks across Pakistan.",
-      "url": "https://www.france24.com/en/middle-east/20260629-pakistan-says-retaliatory-airstrikes-in-afghanistan-killed-25-militants",
+      "url": "https://www.france24.com/en/asia-pacific/20260629-dozens-of-civilians-killed-in-pakistani-air-strikes-in-afghanistan-officials-say",
       "source": "France24",
       "publishedAt": "2026-06-29T02:14:05Z",
       "image": "https://s.france24.com/media/display/e1cc6fb2-7355-11f1-922c-005056bf30b7/w:1024/p:16x9/2026-06-10T114701Z-737578812-RC2VQLAG3FDB-RTRMADP-3-AFGHANISTAN-PAKISTAN.jpg",
@@ -108,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-63721247b1d8",
-      "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
-      "description": "Russia’s president says Ukraine’s attacks on infrastructure are causing ‘obvious’ but not critical problemsThe Russian president, Vladimir Putin, acknowledged that the country was suffering from “a certain shortage” of fuel in an interview published by the Kremlin on Sunday, after repeated Ukrainian strikes in their fo…",
-      "url": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-28T21:52:52Z",
-      "image": "https://i.guim.co.uk/img/media/99448878dab687094829c3770d6642a14d262c4e/499_322_4162_3328/master/4162.jpg?width=140&quality=85&auto=format&fit=max&s=26d9b28d76a2c4a76d07fea50fd67f2f",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -168,6 +153,21 @@
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-892eaa0183ba",
+      "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
+      "description": "Across region there is a push to disarm militia and reinforce state authority but the temptation to use proxies remainsAs Marco Rubio ended his brief visit to the Middle East on Friday, he sought to cast in the best possible light his discussions with leaders of the Gulf states. Those leaders are deeply anxious that th…",
+      "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-28T07:00:03Z",
+      "image": "https://i.guim.co.uk/img/media/29db3b71f989120c693d9fd6d4c759ab362be524/759_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ec93bb9f3ed2ebac1312f4412c983122",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

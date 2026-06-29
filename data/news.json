@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-29T11:44:39Z",
+  "updated": "2026-06-29T13:37:45Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-29T11:44:35Z",
+      "publishedAt": "2026-06-29T13:37:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-5526fd13d9ea",
+      "title": "Five people killed in shooting in northern Germany, police say – Europe live",
+      "description": "German police say two people were apprehended after ‘numerous’ shots were fired at a youth care facility in StadeMeanwhile, Ukraine is bracing to absorb the impact of the heatwave on its energy network, already pummelled by Russian attacks over more than four years of war, AFP reported.Grid operators in at least five r…",
+      "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-29T13:28:22Z",
+      "image": "https://i.guim.co.uk/img/media/eb78bacd330517e2ec8fa31aeacbac84fcfb171b/492_0_2459_1967/master/2459.jpg?width=140&quality=85&auto=format&fit=max&s=78de20256f275f00bb8f58138e13e763",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-45dd26d98d39",
+      "title": "Russian War Veteran Reportedly Jailed After Threatening Armed Revolt Against Kremlin",
+      "description": "Alexander Lunin drew widespread attention last week after claiming the Russian army would “turn its weapons against the Kremlin” unless Putin personally met with him to address the alleged abuse of soldiers by military commanders.",
+      "url": "https://www.themoscowtimes.com/2026/06/29/russian-war-veteran-reportedly-jailed-after-threatening-armed-revolt-against-kremlin-a93121",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-06-29T12:34:47Z",
+      "image": "https://static.themoscowtimes.com/image/og/c8/93121__c8cbfd9d6c698a42b366f67b1a0fa6a5.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -127,51 +157,6 @@
       "tags": []
     },
     {
-      "id": "le -ba5ca2bed2ed",
-      "title": "Israel recognizes Armenian genocide in rebuke to Turkey",
-      "description": "Successive Israeli governments had avoided formally recognizing the Armenian genocide, in part to preserve relations with Turkey. Relations between Israel and Turkey have sharply deteriorated since the war in Gaza erupted in October 2023.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/28/israel-government-recognizes-armenian-genocide-in-rebuke-to-turkey_6754948_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-28T12:52:33Z",
-      "image": "https://img.lemde.fr/2024/12/05/24/0/4103/2051/644/322/60/0/dc1a326_c26ace0b1cba4abcbb32df2ea9cb2f71-0-918fb26d42a8462c821737eb93b4f992.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-4f55bd5caca0",
-      "title": "Ukrainian Strike Kills 1 in Southern Russia, Refinery on Fire",
-      "description": "Ukraine has targeted Russian energy infrastructure throughout the war in retaliation for Russian strikes on its civilians and energy infrastructure.",
-      "url": "https://www.themoscowtimes.com/2026/06/28/ukrainian-strike-kills-one-in-southern-russia-refinery-on-fire-a93114",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-06-28T08:57:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/cb/93114__cb972ccf09ed838d22fbf9fe28ed77e8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-892eaa0183ba",
-      "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
-      "description": "Across region there is a push to disarm militia and reinforce state authority but the temptation to use proxies remainsAs Marco Rubio ended his brief visit to the Middle East on Friday, he sought to cast in the best possible light his discussions with leaders of the Gulf states. Those leaders are deeply anxious that th…",
-      "url": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-28T07:00:03Z",
-      "image": "https://i.guim.co.uk/img/media/29db3b71f989120c693d9fd6d4c759ab362be524/759_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ec93bb9f3ed2ebac1312f4412c983122",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-94c22e553e44",
       "title": "Tears Of Joy As Freed Ukrainians Return Home In Latest Prisoner Swap",
       "description": "Service members embraced their relatives as they returned home to Ukraine on June 26 in the latest prisoner exchange with Russia. Many of the 160 freed Ukrainians had been held captive since 2022, including soldiers who defended the Azovstal steel plant in Mariupol during a lengthy siege.",
@@ -214,22 +199,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -98e202c17da2",
-      "title": "World News in Brief: Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in Ebola-stricken DR Congo",
-      "description": "More than 2,600 people&nbsp;were displaced in the Artibonite department of&nbsp;Haiti following clashes between armed groups last week as the humanitarian situation continues to worsen, according to the UN’s Office for the Coordination of Humanitarian Assistance (OCHA).",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167823",
-      "source": "UN News",
-      "publishedAt": "2026-06-26T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-02-2026-UNICEF-Haiti-04.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T20:40:55Z",
+  "updated": "2026-06-29T21:34:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-29T20:40:51Z",
+      "publishedAt": "2026-06-29T21:34:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-6c1d0cf05664",
+      "title": "Tre feriti in un'esplosione a Monaco, 'probabile attentato'",
+      "description": "E' avvenuto in un edificio residenziale lungo il confine con la Francia",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/29/tre-feriti-in-unesplosione-a-monaco-probabile-attentato_bf6ff65a-b141-4d50-b291-217a6af6412f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-29T21:29:25Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/29/d01d85d365988d66a3ccf93b92fa4200.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -123,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-4cc22626177a",
-      "title": "Idf, 'ucciso a Gaza Abu Salem, aveva partecipato all'attacco del 7 ottobre'",
-      "description": "'Colpiti tre quartier generali di Hezbollah nel sud del Libano'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/29/idf-ucciso-a-gaza-abu-salem-aveva-partecipato-allattacco-del-7-ottobre_1ee42ee8-6f31-46da-898d-b6aace684ce5.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-29T09:02:30Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/26/59fb13433c10339d36d94b74c7f44072.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

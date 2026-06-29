@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T13:37:45Z",
+  "updated": "2026-06-29T15:14:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-29T13:37:41Z",
+      "publishedAt": "2026-06-29T15:14:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -26,13 +26,46 @@
       "description": "German police say two people were apprehended after ‘numerous’ shots were fired at a youth care facility in StadeMeanwhile, Ukraine is bracing to absorb the impact of the heatwave on its energy network, already pummelled by Russian attacks over more than four years of war, AFP reported.Grid operators in at least five r…",
       "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-06-29T13:28:22Z",
-      "image": "https://i.guim.co.uk/img/media/eb78bacd330517e2ec8fa31aeacbac84fcfb171b/492_0_2459_1967/master/2459.jpg?width=140&quality=85&auto=format&fit=max&s=78de20256f275f00bb8f58138e13e763",
+      "publishedAt": "2026-06-29T15:03:11Z",
+      "image": "https://i.guim.co.uk/img/media/5284446be5ce88b08a6c63d3c4fc1a6276a9f6d2/259_0_2070_1656/master/2070.jpg?width=140&quality=85&auto=format&fit=max&s=9495decc8709ee5852c0870323306a34",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -101a0216b170",
+      "title": "Why the Arab League could not stop Israel’s genocide",
+      "description": "Arab governments are constrained by dependency, regime survival and fear of empowering Iran-aligned rivals.",
+      "url": "https://www.aljazeera.com/opinions/2026/6/29/why-the-arab-league-could-not-stop-israels-genocide?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-29T14:43:55Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3feb92-1782573970.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-2e69a1cda2e3",
+      "title": "Why Oman has become a key diplomatic player in Mideast war",
+      "description": "Iran said Monday it had held its first meeting with Oman on managing the Strait of Hormuz since it signed a preliminary deal to end the Middle East war with the United States. It comes as French President Emmanuel Macron is set to host the Sultan of Oman at the Elysée Palace on Monday, with talks also lilely to focus o…",
+      "url": "https://www.france24.com/en/video/20260629-why-oman-has-become-a-key-diplomatic-player-in-mideast-war",
+      "source": "France24",
+      "publishedAt": "2026-06-29T14:02:18Z",
+      "image": "https://s.france24.com/media/display/f76be800-73c0-11f1-8c4e-005056a97e36/w:1024/p:16x9/EN-20260629-151346-151851-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -51,39 +84,24 @@
       "tags": []
     },
     {
-      "id": "fra-f1255cd88955",
-      "title": "Pakistan strikes eastern Afghanistan as Taliban says civilians killed",
-      "description": "Pakistan's security forces killed at least 29 militants in ground ​and air operations along the Afghanistan border, it said on Monday, while the Afghan Taliban said at least 38 civilians were killed in airstrikes. France 24's correspodent in Islamabad, Shazaib Wahlah, as the latest.",
-      "url": "https://www.france24.com/en/video/20260629-pakistan-strikes-eastern-afghanistan-as-taliban-says-civilians-killed",
-      "source": "France24",
-      "publishedAt": "2026-06-29T10:18:29Z",
-      "image": "https://s.france24.com/media/display/d4a6a6ee-73a1-11f1-a1b6-005056bf30b7/w:1024/p:16x9/EN-20260629-103831-104049-CS.jpg",
+      "id": "ans-4cc22626177a",
+      "title": "Idf, 'ucciso a Gaza Abu Salem, aveva partecipato all'attacco del 7 ottobre'",
+      "description": "'Colpiti tre quartier generali di Hezbollah nel sud del Libano'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/29/idf-ucciso-a-gaza-abu-salem-aveva-partecipato-allattacco-del-7-ottobre_1ee42ee8-6f31-46da-898d-b6aace684ce5.html",
+      "source": "ANSA",
+      "publishedAt": "2026-06-29T09:02:30Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/26/59fb13433c10339d36d94b74c7f44072.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -c62677949644",
-      "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-      "description": "Russian president claims Ukraine, which has ramped up attacks on Russia&#039;s energy sector, proposed the limits.",
-      "url": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-29T09:58:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2c45d7-1781286359_ee49db-1782721364.jpg?resize=1200%2C630&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "tim-7336cf49d489",
       "title": "Report: IDF warns Hamas is readying to return to war; US opposes new Israeli offensive",
-      "description": "Unsourced report claims terror group is recruiting new fighters, has resumed training its elite Nukhba force as US peace plan fails to progress; IDF says Oct.7 terrorist killed in strike The post Report: IDF warns Hamas is readying to return to war; US opposes new Israeli offensive appeared first on The Times of Israel…",
+      "description": "Unsourced report claims terror group is recruiting new fighters, has resumed training its elite Nukhba force as US peace plan fails to progress; IDF says Oct. 7 terrorist killed in strike The post Report: IDF warns Hamas is readying to return to war; US opposes new Israeli offensive appeared first on The Times of Israe…",
       "url": "https://www.timesofisrael.com/report-idf-warns-hamas-is-readying-to-return-to-war-us-opposes-new-israeli-offensive/",
       "source": "Times of Israel",
       "publishedAt": "2026-06-29T08:44:27Z",
@@ -142,17 +160,17 @@
       "tags": []
     },
     {
-      "id": "ans-ecc9657dfc82",
-      "title": "Putin, nessuno può sconfiggere la Russia sul campo di battaglia",
-      "description": "L'intervento dello zar al Congresso di Russia Unita",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/28/putin-nessuno-puo-sconfiggere-la-russia-sul-campo-di-battaglia_17af550c-307e-4f2d-bc33-34a26703d0b7.html",
-      "source": "ANSA",
-      "publishedAt": "2026-06-28T13:31:50Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/24/a80c9309ac76a090bed8cb10c4f41c84.jpg",
+      "id": "deu-521a41eae10f",
+      "title": "Albania's 'Flamingo Revolution': What's behind the protests?",
+      "description": "For weeks now, images of crowds of Albanians protesting on the streets have been relayed around the world. The protesters say they are fighting for democracy. PM Edi Rama insists the movement is part of a hybrid war.",
+      "url": "https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-27T20:46:00Z",
+      "image": "https://static.dw.com/image/77542099_6.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -170,21 +188,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-9bfffeb72ba5",
-      "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
-      "description": "The two attacks, in Volgograd and Vladimir regions, are part of President Zelenskyy's strategy to bring the war to the Russian people and force Putin into peace negotiations.",
-      "url": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-27T16:41:00Z",
-      "image": "https://static.dw.com/image/77735421_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {

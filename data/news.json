@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T01:02:58Z",
+  "updated": "2026-06-29T03:17:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-29T01:02:55Z",
+      "publishedAt": "2026-06-29T03:17:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-76db57ce110d",
+      "title": "Pakistan says retaliatory airstrikes in Afghanistan killed 25 militants",
+      "description": "Pakistan has said it carried out airstrikes and ground operations in eastern Afghanistan, killing 25 militants, in response to recent deadly attacks, including the killing of paramilitary troops in Karachi. Islamabad says the strikes targeted militant groups linked to cross-border violence, while Kabul has accused Paki…",
+      "url": "https://www.france24.com/en/middle-east/20260629-pakistan-says-retaliatory-airstrikes-in-afghanistan-killed-25-militants",
+      "source": "France24",
+      "publishedAt": "2026-06-29T02:14:05Z",
+      "image": "https://s.france24.com/media/display/e1cc6fb2-7355-11f1-922c-005056bf30b7/w:1024/p:16x9/2026-06-10T114701Z-737578812-RC2VQLAG3FDB-RTRMADP-3-AFGHANISTAN-PAKISTAN.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -120,21 +135,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-06-28T12:52:33Z",
       "image": "https://img.lemde.fr/2024/12/05/24/0/4103/2051/644/322/60/0/dc1a326_c26ace0b1cba4abcbb32df2ea9cb2f71-0-918fb26d42a8462c821737eb93b4f992.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-f5fa1391ea63",
-      "title": "New US-Iran exchange of attacks threatens ceasefire",
-      "description": "Iran's Revolutionary Guard on Sunday launched attacks targeting Bahrain and Kuwait in response to US air strikes on 10 Iranian sites. The Islamic Republic threatened a “complete halt” to negotiations to end the war if Washington continues its attacks. Efforts to reopen the Strait of Hormuz without Iran's direct oversig…",
-      "url": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire",
-      "source": "France24",
-      "publishedAt": "2026-06-28T11:27:57Z",
-      "image": "https://s.france24.com/media/display/526e7798-72e2-11f1-842c-005056bfb2b6/w:1024/p:16x9/EN-20260628-120137-120332-CS.jpg",
       "categories": [
         "conflict"
       ],

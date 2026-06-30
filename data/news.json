@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T23:25:55Z",
+  "updated": "2026-06-30T00:59:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-29T23:25:51Z",
+      "publishedAt": "2026-06-30T00:58:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,22 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -b34fc90d500b",
+      "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+      "description": "Two people were killed and several others were injured after an Israeli strike hit the Mawasi area of Khan Younis, Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-29T23:29:41Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782775591.jpg?resize=1441%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -36,13 +52,13 @@
       "tags": []
     },
     {
-      "id": "ans-ce78bb5522f9",
-      "title": "Forte esplosione scuote Monaco e ferisce tre ucraini, 'forse un attentato'",
-      "description": "Due sono in gravi condizioni, tra cui un oligarca di Kiev. Un sospettato è in fuga",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/30/forte-esplosione-scuote-monaco-e-ferisce-tre-ucraini-forse-un-attentato_bf6ff65a-b141-4d50-b291-217a6af6412f.html",
+      "id": "ans-0d9b5f3b2076",
+      "title": "Media, 'i feriti dell'attentato nel Principato di Monaco sono ucraini'",
+      "description": "Le Figaro: 'Tre membri di una stessa famiglia, uno dei genitori è un oligarca di Kiev'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/29/media-i-feriti-dellattentato-nel-principato-di-monaco-sono-ucraini_23a6410a-44f7-4dae-b152-a7827a56d27d.html",
       "source": "ANSA",
-      "publishedAt": "2026-06-29T22:33:18Z",
-      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/30/a83ca6c7df74b8e7f54f484d58d680d5.jpg",
+      "publishedAt": "2026-06-29T21:39:55Z",
+      "image": "https://www.ansa.it/webimages/img_1129x635/2026/6/29/c14fe58a8e3947b629541cbb04e88302.jpg",
       "categories": [
         "conflict"
       ],
@@ -77,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -876f2bc6c7c7",
-      "title": "Israel launches attacks and incursions inside southern Syria",
-      "description": "Israeli forces have shelled a village in southern Syria, firing artillery and illumination flares overnight.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-29T18:43:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782758577.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

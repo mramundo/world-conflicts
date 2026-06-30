@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T18:43:31Z",
+  "updated": "2026-06-30T19:38:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/southeast-asians-scale-back-spending-as-iran-war-spillover-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-30T18:43:26Z",
+      "publishedAt": "2026-06-30T19:38:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F1%2F7%2F12657111-1-eng-GB%2Fc5c5d9d72aa5-2024-10-04T111421Z_1485053107_RC2MDAAKPM0N_RTRMADP_3_PHILIPPINES-ECONOMY-INFLATION.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -fe67fb08812b",
+      "title": "Iran prepares for late supreme leader's funeral",
+      "description": "The funeral for Ayatollah Ali Khamenei, who was killed on February 28, the first day of the US-Iran war, was initially delayed but is now set to begin on Saturday. The ceremonies are expected to draw between 15 and 20 million mourners.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/30/iran-prepares-for-late-supreme-leader-s-funeral_6755022_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-30T19:26:17Z",
+      "image": "https://img.lemde.fr/2026/06/30/500/0/6000/3000/644/322/60/0/15d167e_ftp-1-sx1lag6fghyc-5490654-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-78fbee3a7d79",
+      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+      "description": "The BBC's Katy Watson explains why troops are training in remote Australia - a country not at war, thousands of kilometres from today's major conflicts.",
+      "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-06-30T18:37:59Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c44/live/e0849d80-744c-11f1-b1db-af71d47507d6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-e89e8f5b0736",
+      "title": "Crimea back in play? Russia feels pain of Ukraine long-range strikes",
+      "description": "A couple of weeks back, we asked if the tide was turning in Ukraine. Short version: a little with a disclaimer: it's hard cutting through the fog of war. Now, we're beginning to wonder if Crimea could be back in play. Kyiv’s new line of longer-range missiles and drones wreaking havoc on fuel and power supplies. And whi…",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260630-crimea-back-in-play-russia-feels-pain-of-ukraine-long-range-strikes",
+      "source": "France24",
+      "publishedAt": "2026-06-30T18:12:57Z",
+      "image": "https://s.france24.com/media/display/f4dbf34a-74ac-11f1-b426-005056bf30b7/w:1024/p:16x9/2026-06-03T145646Z-1053208027-RC27MLAZWHUB-RTRMADP-3-UKRAINE-CRISIS-CRIMEA-FUEL-1.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,21 +97,6 @@
       "tags": []
     },
     {
-      "id": "le -78e50e95a916",
-      "title": "After Ukraine strikes refineries, Putin admits to 'a certain shortage' of fuel",
-      "description": "The anger of Russians searching for gas at stations is beginning to emerge on social media. The Russian leader has admitted for the first time the impact of the deep-strike operations carried out by Kyiv, while downplaying them.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/30/after-ukraine-strikes-refineries-putin-admits-to-a-certain-shortage-of-fuel_6755013_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-30T14:30:09Z",
-      "image": "https://img.lemde.fr/2026/06/29/193/0/4701/2350/644/322/60/0/5f9c41d_ftp-1-fs01ccersike-2026-06-29t214257z-751259264-rc2j3mayejox-rtrmadp-3-ukraine-crisis-zelenskiy-russia.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-9427a50a3249",
       "title": "'It's The Only Thing They're Talking About': Far From Ukraine War, Russia Fuel Crisis Consumes Local Worries",
       "description": "There’s no gasoline for ambulances in one region. In another, they’ve suspended garbage pickup because there’s no fuel for trucks. There’s a robust black market where you can pay someone to hold your place in endless lines of drivers hoping to fill up cars. Russia’s gasoline crisis is deepening.",
@@ -79,21 +110,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-0625b140bd0f",
-      "title": "Ceasefire brings respite from war but not an end to hardships for Lebanese",
-      "description": "After months of war, a ceasefire with Israel has brought a period of respite to Lebanon. But it has not made the hardships of daily life disappear. Uncertainty, inflation and poverty remain. In the face of these challenges, solidarity also continues to play an essential role.",
-      "url": "https://www.france24.com/en/video/20260630-ceasefire-brings-respite-from-war-but-not-an-end-to-hardships-for-lebanese",
-      "source": "France24",
-      "publishedAt": "2026-06-30T14:12:00Z",
-      "image": "https://s.france24.com/media/display/938955e0-748b-11f1-826d-005056a90284/w:1024/p:16x9/EN-20260630-152241-152505-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -185,21 +201,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-8226661319a3",
-      "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-      "description": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-29T15:46:50Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd12/live/616bf460-73d1-11f1-8f46-43735d200ab1.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

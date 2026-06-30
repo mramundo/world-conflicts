@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T07:26:32Z",
+  "updated": "2026-06-30T09:14:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/southeast-asians-scale-back-spending-as-iran-war-spillover-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-30T07:26:28Z",
+      "publishedAt": "2026-06-30T09:14:17Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F1%2F7%2F12657111-1-eng-GB%2Fc5c5d9d72aa5-2024-10-04T111421Z_1485053107_RC2MDAAKPM0N_RTRMADP_3_PHILIPPINES-ECONOMY-INFLATION.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,45 +20,58 @@
       "tags": []
     },
     {
-      "id": "tim-6135015cd4e1",
-      "title": "How Israel’s ‘campaign between the wars’ risks further straining ties with US",
-      "description": "Years-long strategy, meant to degrade Tehran and its terror proxies ahead of open conflict, could prove difficult to sustain if Washington requests greater coordination after Iran war The post How Israel’s ‘campaign between the wars’ risks further straining ties with US appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/how-israels-campaign-between-the-wars-risks-further-straining-ties-with-us/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-06-30T07:09:35Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2017/07/WhatsApp-Image-2017-07-10-at-19.43.50-e1782799973586-1024x640.jpeg",
+      "id": "al -16c19757b293",
+      "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
+      "description": "An Israeli attack on the al-Mawasi camp in Khan Younis has killed several people, including a mother and her child.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-30T09:10:10Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782810599.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-ded9e9045315",
-      "title": "Tuesday briefing: Inside Shabana Mahmood’s new UK asylum reforms",
-      "description": "In today’s newsletter: As the home secretary details reforms to the asylum system, a look at the challenges Labour faces – and what better story could be told about immigrationGood morning. Last night home secretary, Shabana Mahmood, set out further planned reforms to the asylum system. A new means-tested scheme, which…",
-      "url": "https://www.theguardian.com/world/2026/jun/30/tuesday-briefing-inside-shabana-mahmoods-new-uk-asylum-reforms",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-30T05:45:41Z",
-      "image": "https://i.guim.co.uk/img/media/9af9506e61b0607fbbbf99154a4e1d6ee77d9f54/373_0_3727_2981/master/3727.jpg?width=140&quality=85&auto=format&fit=max&s=aca3c35c1b6c3a2580e3ab18e7653c25",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -fd963908373f",
-      "title": "Police hunt for suspect after three wounded in Monaco blast",
-      "description": "Ukrainian oligarch reported to be among injured in explosion at residential building in the Mediterranean principality.",
-      "url": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-30T02:56:24Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260629__B8QB8GA__v1__HighRes__MonacoFranceExplosionPolice-1782786265.jpg?resize=1920%2C1440",
+      "id": "npr-d416a4823885",
+      "title": "Iran war supercharges pivot to renewable energy",
+      "description": "The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs across the world. Some experts wonder if this year could be the peak of oil demand.",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5869701/iran-war-supercharges-pivot-to-renewable-energy",
+      "source": "NPR World",
+      "publishedAt": "2026-06-30T08:46:26Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5869701",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-23ae90d95ae4",
+      "title": "Israel-Lebanon deal may entrench stalemate rather than end war, analysts say",
+      "description": "Disarmament of Hezbollah is unattainable because Lebanon can't enforce it amid sectarian tensions, experts say, which means that IDF troops could stay in the country indefinitely The post Israel-Lebanon deal may entrench stalemate rather than end war, analysts say appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/israel-lebanon-deal-may-entrench-stalemate-rather-than-end-war-analysts-say/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-06-30T07:30:34Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/F260628AMA001-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -8c22eb72c5ee",
+      "title": "'The heatwave shows, beyond any doubt, that without strong mitigation measures, adaptation will be impossible'",
+      "description": "Efforts to combat climate change require far more than mere technical adjustments, writes Le Monde's Stéphane Foucart in his column.",
+      "url": "https://www.lemonde.fr/en/environment/article/2026/06/30/the-heatwave-shows-beyond-any-doubt-that-without-strong-mitigation-measures-adaptation-will-be-impossible_6754995_114.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-30T02:00:06Z",
+      "image": "https://img.lemde.fr/2026/06/26/954/0/5000/2500/644/322/60/0/b872328_upload-1-bx5mm9sgafkp-kzihnioglu-soc-metz-hopital-26062026-103.JPG",
       "categories": [
         "conflict"
       ],
@@ -97,9 +110,24 @@
       "tags": []
     },
     {
+      "id": "the-3c3717c43602",
+      "title": "Trump claims Iran has agreed to hold peace talks in Doha after recent clashes",
+      "description": "US president posts that meeting will take place on Tuesday in Qatari capital after exchange of fire in strait of HormuzIran is jealously competing with Oman as decision-maker over strait of HormuzDonald Trump has claimed that Iran has agreed to hold talks in Doha after the US and Tehran traded fire in the strait of Hor…",
+      "url": "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-29T18:36:24Z",
+      "image": "https://i.guim.co.uk/img/media/bdf308383fc2f07dfbc637d09b1cffd127c58963/526_0_4850_3878/master/4850.jpg?width=140&quality=85&auto=format&fit=max&s=6b8cecb10313649f803a812537bc9bda",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "fra-7cae708d8af2",
       "title": "What aftermath for Venezuela? Earthquake relief hampered by political crisis",
-      "description": "Kudos to Venezuela's first responders and all the brave citizens still pulling survivors from under the rubble of the 774 buildings that collapsed in last Wednesday’s double earthquakes. Is the sudden pancaking of so many structures - structures built during the boom years of high oil prices, a tipping point for an und…",
+      "description": "We are in awe of Venezuela’s first responders and all the brave citizens still pulling survivors from under the rubble of some 770 buildings that collapsed in last Wednesday’s double earthquakes. Is the sudden collapsing of so many structures – many built during the boom years of high oil prices – a tipping point for a…",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260629-what-aftermath-for-venezuela-earthquake-relief-hampered-by-political-crisis",
       "source": "France24",
       "publishedAt": "2026-06-29T18:14:26Z",
@@ -110,21 +138,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -1f9459dcc03b",
-      "title": "250 years of American independence: Massacre on the prairie",
-      "description": "'America 250' (8/13). While US Army troops and those of the Confederacy fought each other, another conflict was taking place on the plains of the American West, against Native Americans. In November 1864, at Sand Creek, in what became Colorado in 1876, the thirst for gold and land drove settlers to barbarism.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/29/250-years-of-american-independence-massacre-on-the-prairie_6754981_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-29T16:01:04Z",
-      "image": "https://img.lemde.fr/2026/06/29/1137/0/2142/1071/644/322/60/0/f61f306_upload-1-pkrc54qbrs3j-gettyimages-615322088.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -154,21 +167,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-1ca003fa4b05",
-      "title": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
-      "description": "Israel's Cabinet approved a proposal to designate violence against Armenians by the Ottoman Empire during World War I as a genocide. The step reflects deteriorating ties between Israel and Turkey.",
-      "url": "https://www.npr.org/2026/06/29/g-s1-130772/israel-armenian-wwi-deaths-genocide",
-      "source": "NPR World",
-      "publishedAt": "2026-06-29T07:04:50Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F28%2Fd7%2Fb8526e3c4e4c91a3f93688fc71c6%2Fap26179507048487.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-30T13:40:41Z",
+  "updated": "2026-06-30T14:57:34Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/southeast-asians-scale-back-spending-as-iran-war-spillover-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-30T13:40:37Z",
+      "publishedAt": "2026-06-30T14:57:25Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F1%2F7%2F12657111-1-eng-GB%2Fc5c5d9d72aa5-2024-10-04T111421Z_1485053107_RC2MDAAKPM0N_RTRMADP_3_PHILIPPINES-ECONOMY-INFLATION.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,13 @@
       "tags": []
     },
     {
-      "id": "deu-a22a682aec90",
-      "title": "Pope pleads with breakaway Catholics before possible schism",
-      "description": "Pope Leo XIV has called on a rebel Catholic group to call off a planned consecration of bishops. Such a move could trigger a full schism with the mainstream Catholic Church.",
-      "url": "https://www.dw.com/en/pope-pleads-with-breakaway-catholics-before-possible-schism/a-77767568?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-30T10:52:00Z",
-      "image": "https://static.dw.com/image/77528051_6.jpg",
+      "id": "le -78e50e95a916",
+      "title": "After Ukraine strikes refineries, Putin admits to 'a certain shortage' of fuel",
+      "description": "The anger of Russians searching for gas at stations is beginning to emerge on social media. The Russian leader has admitted for the first time the impact of the deep-strike operations carried out by Kyiv, while downplaying them.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/30/after-ukraine-strikes-refineries-putin-admits-to-a-certain-shortage-of-fuel_6755013_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-30T14:30:09Z",
+      "image": "https://img.lemde.fr/2026/06/29/193/0/4701/2350/644/322/60/0/5f9c41d_ftp-1-fs01ccersike-2026-06-29t214257z-751259264-rc2j3mayejox-rtrmadp-3-ukraine-crisis-zelenskiy-russia.JPG",
       "categories": [
         "conflict"
       ],
@@ -35,18 +35,34 @@
       "tags": []
     },
     {
-      "id": "fra-1f9e337438ef",
-      "title": "Ukraine's war-damaged power grid struggles as heatwave moves east",
-      "description": "Central and Eastern Europe are now taking the brunt of an extreme heatwave that has swept Europe in recent days as it moves further east. Among the country's seeing temperatures soar is Ukraine, where the war-battered energy grid is struggling to cope amid the surge in demand for electricity.",
-      "url": "https://www.france24.com/en/video/20260630-ukraine-s-war-damaged-power-grid-struggles-under-soaring-heat",
+      "id": "fra-0625b140bd0f",
+      "title": "Ceasefire brings respite from war but not an end to hardships for Lebanese",
+      "description": "After months of war, a ceasefire with Israel has brought a period of respite to Lebanon. But it has not made the hardships of daily life disappear. Uncertainty, inflation and poverty remain. In the face of these challenges, solidarity also continues to play an essential role.",
+      "url": "https://www.france24.com/en/video/20260630-ceasefire-brings-respite-from-war-but-not-an-end-to-hardships-for-lebanese",
       "source": "France24",
-      "publishedAt": "2026-06-30T10:19:23Z",
-      "image": "https://s.france24.com/media/display/9f05da06-7468-11f1-adc0-005056bfb2b6/w:1024/p:16x9/EN-20260630-101744-101930-CS.jpg",
+      "publishedAt": "2026-06-30T14:12:00Z",
+      "image": "https://s.france24.com/media/display/938955e0-748b-11f1-826d-005056a90284/w:1024/p:16x9/EN-20260630-152241-152505-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-c5538a7ed4e4",
+      "title": "Will alleged crime ties damage Serbia's ruling party?",
+      "description": "Pressure on President Aleksandar Vucic is growing as years of investigations into alleged links between the state and organized crime coincide with a gang war. Experts say the issue is eroding support within his base.",
+      "url": "https://www.dw.com/en/will-alleged-crime-ties-damage-serbia-s-ruling-party/a-77772788?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-30T13:59:00Z",
+      "image": "https://static.dw.com/image/77746536_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {

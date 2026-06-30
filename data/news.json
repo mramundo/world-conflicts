@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-30T20:43:26Z",
+  "updated": "2026-06-30T21:35:58Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-30T20:43:22Z",
+      "publishedAt": "2026-06-30T21:35:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F12671686-7-eng-GB%2F8713a4f0f626-photo_SXM2026060900006147.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -141,6 +141,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "un -394158d92825",
+      "title": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
+      "description": "The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters.",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
+      "source": "UN News",
+      "publishedAt": "2026-06-30T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/23-06-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {

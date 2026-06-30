@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-30T09:14:22Z",
+  "updated": "2026-06-30T11:06:33Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/southeast-asians-scale-back-spending-as-iran-war-spillover-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-30T09:14:17Z",
+      "publishedAt": "2026-06-30T11:06:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F1%2F7%2F12657111-1-eng-GB%2Fc5c5d9d72aa5-2024-10-04T111421Z_1485053107_RC2MDAAKPM0N_RTRMADP_3_PHILIPPINES-ECONOMY-INFLATION.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,50 @@
       "tags": []
     },
     {
-      "id": "al -16c19757b293",
-      "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-      "description": "An Israeli attack on the al-Mawasi camp in Khan Younis has killed several people, including a mother and her child.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-30T09:10:10Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782810599.jpg?resize=1920%2C1080&amp;quality=80",
+      "id": "fra-1f9e337438ef",
+      "title": "Ukraine's war-damaged power grid struggles under soaring heat",
+      "description": "Ukraine's energy grid is struggling to cope amid soaring temperatures as the war-torn country is hit by the deadly heatwave that has afflicted much of Europe over the last week. Russian drone and missile attacks have decimated Ukraine's energy network since Moscow invaded in February 2022 -- causing tens of billions of…",
+      "url": "https://www.france24.com/en/video/20260630-ukraine-s-war-damaged-power-grid-struggles-under-soaring-heat",
+      "source": "France24",
+      "publishedAt": "2026-06-30T10:19:23Z",
+      "image": "https://s.france24.com/media/display/9f05da06-7468-11f1-adc0-005056bfb2b6/w:1024/p:16x9/EN-20260630-101744-101930-CS.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a987203c88ef",
+      "title": "The next British PM should steer clear of Starmer’s shameful legacy",
+      "description": "The outgoing PM succeeded in enabling genocide and failed miserably at improving the lives of ordinary Brits.",
+      "url": "https://www.aljazeera.com/opinions/2026/6/30/the-next-british-pm-should-steer-clear-of-starmers-shameful-legacy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-30T09:41:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a38fcf3-1782119667.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-175181252155",
+      "title": "China Urges Ukraine, Russia to Resume Peace Talks",
+      "description": "China called on Ukraine and Russia to resume peace negotiations \"as soon as possible\" during a UN Security Council meeting on Monday. Beijing also reiterated its support for an immediate ceasefire, saying the humanitarian consequences of the war continue to worsen and urging both sides to demonstrate the political will…",
+      "url": "https://www.kyivpost.com/post/79264",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-30T09:04:37Z",
+      "image": "https://static.kyivpost.com/storage/2025/08/12/379879f6bd30ba22d4f97a5e413ffdd6.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -61,21 +94,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -8c22eb72c5ee",
-      "title": "'The heatwave shows, beyond any doubt, that without strong mitigation measures, adaptation will be impossible'",
-      "description": "Efforts to combat climate change require far more than mere technical adjustments, writes Le Monde's Stéphane Foucart in his column.",
-      "url": "https://www.lemonde.fr/en/environment/article/2026/06/30/the-heatwave-shows-beyond-any-doubt-that-without-strong-mitigation-measures-adaptation-will-be-impossible_6754995_114.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-30T02:00:06Z",
-      "image": "https://img.lemde.fr/2026/06/26/954/0/5000/2500/644/322/60/0/b872328_upload-1-bx5mm9sgafkp-kzihnioglu-soc-metz-hopital-26062026-103.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -125,22 +143,6 @@
       "tags": []
     },
     {
-      "id": "fra-7cae708d8af2",
-      "title": "What aftermath for Venezuela? Earthquake relief hampered by political crisis",
-      "description": "We are in awe of Venezuela’s first responders and all the brave citizens still pulling survivors from under the rubble of some 770 buildings that collapsed in last Wednesday’s double earthquakes. Is the sudden collapsing of so many structures – many built during the boom years of high oil prices – a tipping point for a…",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260629-what-aftermath-for-venezuela-earthquake-relief-hampered-by-political-crisis",
-      "source": "France24",
-      "publishedAt": "2026-06-29T18:14:26Z",
-      "image": "https://s.france24.com/media/display/609567ce-73e5-11f1-943e-005056a90284/w:1024/p:16x9/Anglais-2026-06-29T17-56-08-723Z.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "bbc-8226661319a3",
       "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
       "description": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
@@ -167,37 +169,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-770e11147ce5",
-      "title": "Not Peace Talks – Victory Talks",
-      "description": "Russia has already lost the war and Vladimir Putin’s isolation and evident fear point to a regime on the precipice. The Kremlin leader’s distance from his own officers, the precedent set by Yevgeniy Prigozhin’s mutiny, and the army’s self‑inflicted failures, show a system rotting from within. Ukraine, having proven its…",
-      "url": "https://www.kyivpost.com/opinion/79096",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-06-29T05:06:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/31/02eb88d8150698ca13457bb4ee16f336.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-521a41eae10f",
-      "title": "Albania's 'Flamingo Revolution': What's behind the protests?",
-      "description": "For weeks now, images of crowds of Albanians protesting on the streets have been relayed around the world. The protesters say they are fighting for democracy. PM Edi Rama insists the movement is part of a hybrid war.",
-      "url": "https://www.dw.com/en/albania-s-flamingo-revolution-what-s-behind-the-protests/a-77710991?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-27T20:46:00Z",
-      "image": "https://static.dw.com/image/77542099_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

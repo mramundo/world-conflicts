@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T17:39:42Z",
+  "updated": "2026-06-30T18:43:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/southeast-asians-scale-back-spending-as-iran-war-spillover-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-30T17:39:37Z",
+      "publishedAt": "2026-06-30T18:43:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F1%2F7%2F12657111-1-eng-GB%2Fc5c5d9d72aa5-2024-10-04T111421Z_1485053107_RC2MDAAKPM0N_RTRMADP_3_PHILIPPINES-ECONOMY-INFLATION.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -63,6 +63,22 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-9427a50a3249",
+      "title": "'It's The Only Thing They're Talking About': Far From Ukraine War, Russia Fuel Crisis Consumes Local Worries",
+      "description": "There’s no gasoline for ambulances in one region. In another, they’ve suspended garbage pickup because there’s no fuel for trucks. There’s a robust black market where you can pay someone to hold your place in endless lines of drivers hoping to fill up cars. Russia’s gasoline crisis is deepening.",
+      "url": "https://www.rferl.org/a/russia-ukraine-fuel-gas-crisis-shortage/33792063.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-06-30T14:26:49Z",
+      "image": "https://gdb.rferl.org/00feae1f-0639-4d1e-bc37-e6db977b2820_cx0_cy6_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -200,22 +216,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-94c22e553e44",
-      "title": "Tears Of Joy As Freed Ukrainians Return Home In Latest Prisoner Swap",
-      "description": "Service members embraced their relatives as they returned home to Ukraine on June 26 in the latest prisoner exchange with Russia. Many of the 160 freed Ukrainians had been held captive since 2022, including soldiers who defended the Azovstal steel plant in Mariupol during a lengthy siege.",
-      "url": "https://www.rferl.org/a/ukraine-prisoners--of-war-released-mariupol/33790207.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-06-27T19:00:50Z",
-      "image": "https://gdb.rferl.org/42a9c7ed-ade9-4c4a-2cfc-08decd1f5434_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 14,
-      "isAnalysis": true,
       "tags": []
     }
   ]

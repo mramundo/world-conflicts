@@ -1,21 +1,52 @@
 {
-  "updated": "2026-06-30T19:38:33Z",
+  "updated": "2026-06-30T20:43:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-5a75357dc317",
-      "title": "Southeast Asians scale back spending as Iran war spillover persists",
+      "id": "nik-974f5517ea6e",
+      "title": "China chip material makers battle Japan rivals for $73bn market",
       "description": "",
-      "url": "https://asia.nikkei.com/economy/southeast-asians-scale-back-spending-as-iran-war-spillover-persists",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-30T19:38:29Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F1%2F7%2F12657111-1-eng-GB%2Fc5c5d9d72aa5-2024-10-04T111421Z_1485053107_RC2MDAAKPM0N_RTRMADP_3_PHILIPPINES-ECONOMY-INFLATION.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-06-30T20:43:22Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F12671686-7-eng-GB%2F8713a4f0f626-photo_SXM2026060900006147.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -9bbdb9361846",
+      "title": "Ukraine has brought the (drone) war to Russia. But it may prolong the fighting.",
+      "description": "Ukraine has been taking the fight into Russia in recent months with waves of drone attacks. The Russian public isn’t responding as Kyiv might hope.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0630/ukraine-drone-attacks-russia-moscow-defense?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-06-30T20:37:37Z",
+      "image": "https://images.csmonitor.com/csm/2026/06/0630_OINCURSIONCHURCH.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -fc017114e2a8",
+      "title": "Five humanitarian workers killed in convoy ambush in South Sudan",
+      "description": "UN &#039;deeply saddened&#039; by Monday attack on convoy in Jonglei State, calls for investigation.",
+      "url": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-30T20:03:13Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a4419a208c11-1782847906.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,22 +109,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -a0b418f9ba7e",
-      "title": "How severe is Russia’s energy shortage because of Ukrainian strikes?",
-      "description": "Analysts say Russia&#039;s fuel crisis may affect its domestic economy, but the war in Ukraine will remain the priority.",
-      "url": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-30T16:31:28Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a43dee243713-1782832866.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -171,21 +186,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -5dbd086c8de9",
-      "title": "In flare-up over Hormuz, a hint at US-Iran roller coaster to come",
-      "description": "If the core U.S.-Iran dispute has long been Tehran’s nuclear program, the tit-for-tat strikes in the Strait of Hormuz make clear that control of the waterway is of immediate concern to both. Neither wants a resumption of full-scale war, yet threats are flying.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0629/trump-iran-war-ceasefire-violations-hormuz-control?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-06-29T20:14:41Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/0629_OHORMUZ_SHIPS.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

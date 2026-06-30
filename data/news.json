@@ -1,49 +1,64 @@
 {
-  "updated": "2026-06-30T05:29:29Z",
+  "updated": "2026-06-30T07:26:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-6c09a651e67c",
-      "title": "China and North Korea absorb lessons from Ukraine's evolving battlefield",
+      "id": "nik-5a75357dc317",
+      "title": "Southeast Asians scale back spending as Iran war spillover persists",
       "description": "",
-      "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
+      "url": "https://asia.nikkei.com/economy/southeast-asians-scale-back-spending-as-iran-war-spillover-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-30T05:29:24Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-06-30T07:26:28Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F1%2F7%2F12657111-1-eng-GB%2Fc5c5d9d72aa5-2024-10-04T111421Z_1485053107_RC2MDAAKPM0N_RTRMADP_3_PHILIPPINES-ECONOMY-INFLATION.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -b34fc90d500b",
-      "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
-      "description": "Two people were killed and several others were injured after an Israeli strike hit the Mawasi area of Khan Younis, Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-06-29T23:29:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1782775591.jpg?resize=1441%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "tim-8497522d65cd",
-      "title": "Radar tech AI startup clinches deal for drone attack warning system to Israeli army",
-      "description": "As part of the deal, Magos will supply hundreds of its radar-based detection systems to protect ground forces against approaching unmanned aerial threats, including fiber-optic drones The post Radar tech AI startup clinches deal for drone attack warning system to Israeli army appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/radar-tech-ai-startup-clinches-deal-for-drone-attack-warning-system-to-israeli-army/",
+      "id": "tim-6135015cd4e1",
+      "title": "How Israel’s ‘campaign between the wars’ risks further straining ties with US",
+      "description": "Years-long strategy, meant to degrade Tehran and its terror proxies ahead of open conflict, could prove difficult to sustain if Washington requests greater coordination after Iran war The post How Israel’s ‘campaign between the wars’ risks further straining ties with US appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/how-israels-campaign-between-the-wars-risks-further-straining-ties-with-us/",
       "source": "Times of Israel",
-      "publishedAt": "2026-06-29T22:40:46Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/מאגוס-מערכות_קרדיט-יחצ-1024x640.jpeg",
+      "publishedAt": "2026-06-30T07:09:35Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2017/07/WhatsApp-Image-2017-07-10-at-19.43.50-e1782799973586-1024x640.jpeg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-ded9e9045315",
+      "title": "Tuesday briefing: Inside Shabana Mahmood’s new UK asylum reforms",
+      "description": "In today’s newsletter: As the home secretary details reforms to the asylum system, a look at the challenges Labour faces – and what better story could be told about immigrationGood morning. Last night home secretary, Shabana Mahmood, set out further planned reforms to the asylum system. A new means-tested scheme, which…",
+      "url": "https://www.theguardian.com/world/2026/jun/30/tuesday-briefing-inside-shabana-mahmoods-new-uk-asylum-reforms",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-30T05:45:41Z",
+      "image": "https://i.guim.co.uk/img/media/9af9506e61b0607fbbbf99154a4e1d6ee77d9f54/373_0_3727_2981/master/3727.jpg?width=140&quality=85&auto=format&fit=max&s=aca3c35c1b6c3a2580e3ab18e7653c25",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -fd963908373f",
+      "title": "Police hunt for suspect after three wounded in Monaco blast",
+      "description": "Ukrainian oligarch reported to be among injured in explosion at residential building in the Mediterranean principality.",
+      "url": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-06-30T02:56:24Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260629__B8QB8GA__v1__HighRes__MonacoFranceExplosionPolice-1782786265.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -124,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-5526fd13d9ea",
-      "title": "Five people killed in shooting in northern Germany, police say – Europe live",
-      "description": "German police say two people were apprehended after ‘numerous’ shots were fired at a youth care facility in StadeMeanwhile, Ukraine is bracing to absorb the impact of the heatwave on its energy network, already pummelled by Russian attacks over more than four years of war, AFP reported.Grid operators in at least five r…",
-      "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-29T15:10:23Z",
-      "image": "https://i.guim.co.uk/img/media/5284446be5ce88b08a6c63d3c4fc1a6276a9f6d2/259_0_2070_1656/master/2070.jpg?width=140&quality=85&auto=format&fit=max&s=9495decc8709ee5852c0870323306a34",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

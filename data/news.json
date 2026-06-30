@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T01:49:03Z",
+  "updated": "2026-06-30T03:14:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-30T01:48:59Z",
+      "publishedAt": "2026-06-30T03:14:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F6%2F5%2F12635614-1-eng-GB%2F986006bb8986-illust_SXM2026061800013285.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -82,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "le -53b9d6789ea1",
-      "title": "Israeli forces kill Palestinian teen in West Bank, says Palestinian health ministry",
-      "description": "A 15-year-old Palestinian teenager was shot in the head with live ammunition during a raid in the occupied West Bank. The Israeli military said in a statement that after 'rocks were hurled toward IDF soldiers' during a military operation, the 'soldiers responded with fire' and a 'hit was identified.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/06/29/israeli-forces-kill-palestinian-teen-in-west-bank-says-palestinian-health-ministry_6754989_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-29T19:44:06Z",
-      "image": "https://img.lemde.fr/2026/06/29/0/0/8055/4027/644/322/60/0/c773754_ftp-1-37q8p32ux7ay-5481989-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-7cae708d8af2",
       "title": "What aftermath for Venezuela? Earthquake relief hampered by political crisis",
       "description": "Kudos to Venezuela's first responders and all the brave citizens still pulling survivors from under the rubble of the 774 buildings that collapsed in last Wednesday’s double earthquakes. Is the sudden pancaking of so many structures - structures built during the boom years of high oil prices, a tipping point for an und…",
@@ -110,6 +95,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -1f9459dcc03b",
+      "title": "250 years of American independence: Massacre on the prairie",
+      "description": "'America 250' (8/13). While US Army troops and those of the Confederacy fought each other, another conflict was taking place on the plains of the American West, against Native Americans. In November 1864, at Sand Creek, in what became Colorado in 1876, the thirst for gold and land drove settlers to barbarism.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/06/29/250-years-of-american-independence-massacre-on-the-prairie_6754981_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-06-29T16:01:04Z",
+      "image": "https://img.lemde.fr/2026/06/29/1137/0/2142/1071/644/322/60/0/f61f306_upload-1-pkrc54qbrs3j-gettyimages-615322088.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {

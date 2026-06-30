@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-30T11:06:33Z",
+  "updated": "2026-06-30T12:49:01Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/southeast-asians-scale-back-spending-as-iran-war-spillover-persists",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-06-30T11:06:31Z",
+      "publishedAt": "2026-06-30T12:48:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F1%2F1%2F7%2F12657111-1-eng-GB%2Fc5c5d9d72aa5-2024-10-04T111421Z_1485053107_RC2MDAAKPM0N_RTRMADP_3_PHILIPPINES-ECONOMY-INFLATION.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,47 @@
       "tags": []
     },
     {
+      "id": "the-350de58894fa",
+      "title": "Monaco bombing was ‘attempted assassination’, not terror attack, say prosecutors – Europe live",
+      "description": "Authorities are still searching to identify the suspect of an alleged assassination attempt of a Ukrainian business tycoonJust a reminder that our heatwave/climate Q&amp;A with the Guardian’s Europe environment correspondent Ajit Niranjan is about to start where he will offer his take on the heatwave just passed – and …",
+      "url": "https://www.theguardian.com/world/live/2026/jun/30/monaco-bombing-ukraine-gerany-hungary-poland-baltics-heat-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-30T12:02:58Z",
+      "image": "https://i.guim.co.uk/img/media/94d5c9147cd78ea95e16371f77bb4d31ba0df459/411_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3cb6a99082985bf201b7b338ac3e217e",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-a22a682aec90",
+      "title": "Pope pleads with breakaway Catholics before possible schism",
+      "description": "Pope Leo XIV has called on a rebel Catholic group to call off a planned consecration of bishops. Such a move could trigger a full schism with the mainstream Catholic Church.",
+      "url": "https://www.dw.com/en/pope-pleads-with-breakaway-catholics-before-possible-schism/a-77767568?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-06-30T10:52:00Z",
+      "image": "https://static.dw.com/image/77528051_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "fra-1f9e337438ef",
-      "title": "Ukraine's war-damaged power grid struggles under soaring heat",
-      "description": "Ukraine's energy grid is struggling to cope amid soaring temperatures as the war-torn country is hit by the deadly heatwave that has afflicted much of Europe over the last week. Russian drone and missile attacks have decimated Ukraine's energy network since Moscow invaded in February 2022 -- causing tens of billions of…",
+      "title": "Ukraine's war-damaged power grid struggles as heatwave moves east",
+      "description": "Central and Eastern Europe are now taking the brunt of an extreme heatwave that has swept Europe in recent days as it moves further east. Among the country's seeing temperatures soar is Ukraine, where the war-battered energy grid is struggling to cope amid the surge in demand for electricity.",
       "url": "https://www.france24.com/en/video/20260630-ukraine-s-war-damaged-power-grid-struggles-under-soaring-heat",
       "source": "France24",
       "publishedAt": "2026-06-30T10:19:23Z",
       "image": "https://s.france24.com/media/display/9f05da06-7468-11f1-adc0-005056bfb2b6/w:1024/p:16x9/EN-20260630-101744-101930-CS.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -124,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-3c3717c43602",
-      "title": "Trump claims Iran has agreed to hold peace talks in Doha after recent clashes",
-      "description": "US president posts that meeting will take place on Tuesday in Qatari capital after exchange of fire in strait of HormuzIran is jealously competing with Oman as decision-maker over strait of HormuzDonald Trump has claimed that Iran has agreed to hold talks in Doha after the US and Tehran traded fire in the strait of Hor…",
-      "url": "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-29T18:36:24Z",
-      "image": "https://i.guim.co.uk/img/media/bdf308383fc2f07dfbc637d09b1cffd127c58963/526_0_4850_3878/master/4850.jpg?width=140&quality=85&auto=format&fit=max&s=6b8cecb10313649f803a812537bc9bda",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

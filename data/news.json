@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T11:10:53Z",
+  "updated": "2026-07-01T13:04:05Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-01T11:10:49Z",
+      "publishedAt": "2026-07-01T13:04:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F12671686-7-eng-GB%2F8713a4f0f626-photo_SXM2026060900006147.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,48 @@
       "tags": []
     },
     {
-      "id": "al -71df73166e98",
-      "title": "The Lebanon-Israel agreement is paving the way for the next war",
-      "description": "And the agreement has ensured that Lebanon will be blamed for it.",
-      "url": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
+      "id": "al -348679376d63",
+      "title": "Several people killed in fire at apartment block in Belgium’s Antwerp",
+      "description": "Firefighters battle blaze that has also injured a number of people in Linkeroever area of Antwerp.",
+      "url": "https://www.aljazeera.com/news/2026/7/1/several-killed-in-fire-at-apartment-block-in-belgiums-antwerp?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-01T08:03:40Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3ec42e-1782498350.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-01T12:02:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-01T121714Z_360809916_RC205MAM71ZM_RTRMADP_3_BELGIUM-FIRE-1782908406.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": true,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-97b1fe8f293f",
+      "title": "Sudan's RSF accused of crimes against humanity in el-Fasher",
+      "description": "Amnesty International says Sudan's Rapid Support Forces militia committed ethnic cleansing and crimes against humanity in its assault on the city of el-Fasher amid the longrunning civil war with Sudan's military.",
+      "url": "https://www.dw.com/en/sudan-s-rsf-accused-of-crimes-against-humanity-in-el-fasher/a-77781532?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-01T11:27:00Z",
+      "image": "https://static.dw.com/image/76320448_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-ce75b30ef617",
+      "title": "Anti-Israel candidate wins Colorado primary, says aiming to ‘end genocide in Palestine’",
+      "description": "Democratic socialist Melat Kiros has refused to label deadly firebombing at Boulder support rally for Gaza hostages as antisemitic, and has said October 7 was 'inevitable' The post Anti-Israel candidate wins Colorado primary, says aiming to &#8216;end genocide in Palestine&#8217; appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/anti-israel-candidate-wins-colorado-primary-says-aiming-to-end-genocide-in-palestine/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-01T08:45:16Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26182168919211-1-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -62,21 +91,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-506245a4d149",
-      "title": "Asked how Hamas’s October 7 invasion and massacre changed him, Netanyahu jokes that he ‘lost a little weight’",
-      "description": "Quip sparks outcry from political rivals; PM quickly moved on to a serious response, saying Hamas invasion also led him to see need for buffer zones beyond Israel's borders and importance of a broad mobilization of reservists The post Asked how Hamas&#8217;s October 7 invasion and massacre changed him, Netanyahu jokes …",
-      "url": "https://www.timesofisrael.com/asked-how-he-changed-after-october-7-netanyahu-jokes-that-he-lost-weight/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-01T01:09:33Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/34334-1024x640.jpeg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -124,22 +138,6 @@
         "analysis"
       ],
       "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-c5538a7ed4e4",
-      "title": "Will alleged crime ties damage Serbia's ruling party?",
-      "description": "Pressure on President Aleksandar Vucic is growing as years of investigations into alleged links between the state and organized crime coincide with a gang war. Experts say the issue is eroding support within his base.",
-      "url": "https://www.dw.com/en/will-alleged-crime-ties-damage-serbia-s-ruling-party/a-77772788?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-06-30T13:59:00Z",
-      "image": "https://static.dw.com/image/77746536_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },

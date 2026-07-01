@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-01T05:38:46Z",
+  "updated": "2026-07-01T07:39:01Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-01T05:38:42Z",
+      "publishedAt": "2026-07-01T07:38:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F12671686-7-eng-GB%2F8713a4f0f626-photo_SXM2026060900006147.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,48 +20,63 @@
       "tags": []
     },
     {
-      "id": "al -41b5d4d2538d",
-      "title": "UN chief fears for ‘millions’ of Palestinians amid UNRWA funding shortfall",
-      "description": "Antonio Guterres denounces &#039;disinformation, smear campaigns&#039; against the UN agency for Palestinian refugees.",
-      "url": "https://www.aljazeera.com/news/2026/7/1/un-chief-fears-for-millions-of-palestinians-amid-unrwa-funding-shortfall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-01T02:56:49Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a447ae80f631-1782872808.jpg?resize=1920%2C1440",
+      "id": "tim-e4445913eae0",
+      "title": "Trump weighed return to full war against Iran, but prefers diplomatic efforts – report",
+      "description": "White House official says deconfliction channel including IRGC, US military has been used by both sides; Tehran's chief negotiator: Iran prioritizes diplomacy but is ready for war The post Trump weighed return to full war against Iran, but prefers diplomatic efforts &#8211; report appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/trump-weighed-return-to-full-war-against-iran-but-prefers-diplomatic-efforts-report/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-01T05:59:55Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26180714766864-1024x640.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-d4dcbc984e2c",
-      "title": "Middle East live: Qatar reaffirms backing for US – Iran talks",
-      "description": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman al-Thani reaffirmed his country's role as a mediator in US – Iran negotiations during talks with US envoy Steve Witkoff and presidential adviser Jared Kushner on Tuesday, as Doha said it remained committed to supporting efforts to implement the memorandum of underst…",
-      "url": "https://www.france24.com/en/middle-east/20260701-middle-east-live-qatar-reaffirms-backing-for-us-iran-talks",
-      "source": "France24",
-      "publishedAt": "2026-07-01T02:46:50Z",
-      "image": "https://s.france24.com/media/display/401941ec-6e49-11f1-a244-005056bf30b7/w:1024/p:16x9/000-B7T32RG.jpg",
+      "id": "ans-95120a52a0a6",
+      "title": "Ong, 'oltre 100.000 morti nella guerra in Myanmar'",
+      "description": "Lo afferma l'organizzazione di monitoraggio Acled",
+      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/01/ong-oltre-100.000-morti-nella-guerra-in-myanmar_c55ed066-5de2-4563-8830-545c4ac23a11.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-01T05:58:50Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2025/5/7/7877687ce1ddaa0aedea63c169163d0a.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "tim-506245a4d149",
-      "title": "Asked how he changed since October 7, Netanyahu jokes that he lost weight",
-      "description": "Quip sparks outcry from political rivals, but PM says Hamas invasion also led him to see need for buffer zones beyond Israel's borders and importance of a broad mobilization of reservists The post Asked how he changed since October 7, Netanyahu jokes that he lost weight appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/asked-how-he-changed-after-october-7-netanyahu-jokes-that-he-lost-weight/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-01T01:09:33Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/Screenshot-2026-06-30-at-8.08.00-PM-1024x640.jpg",
+      "id": "al -783f13c9c95b",
+      "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
+      "description": "Former lawyer Melat Kiros, 29, has criticised Democrats for support of Israel during its genocidal war on Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-01T05:56:54Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26182168919211-1782881209.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-11bc747ab0a3",
+      "title": "More than 100,000 killed in Myanmar since 2021 coup, monitor says",
+      "description": "Since a 2021 coup ousted Myanmar's democratically elected government and triggered a civil war, 100,114 people have been killed across the country, according to a report by monitoring group Armed Conflict Location & Event Data (ACLED) released Wednesday.",
+      "url": "https://www.france24.com/en/asia-pacific/20260701-myanmar-mourns-as-post-coup-conflict-death-toll-hits-100-000",
+      "source": "France24",
+      "publishedAt": "2026-07-01T05:53:11Z",
+      "image": "https://s.france24.com/media/display/24452ef8-7511-11f1-9479-005056bf30b7/w:1024/p:16x9/88716f010b5ac9ff69a85ae7c70dea94feed0bc9.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -86,7 +101,7 @@
       "description": "The funeral for Ayatollah Ali Khamenei, who was killed on February 28, the first day of the US-Iran war, was initially delayed but is now set to begin on Saturday. The ceremonies are expected to draw between 15 and 20 million mourners.",
       "url": "https://www.lemonde.fr/en/international/article/2026/06/30/iran-prepares-for-late-supreme-leader-s-funeral_6755022_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-06-30T19:26:17Z",
+      "publishedAt": "2026-06-30T19:26:11Z",
       "image": "https://img.lemde.fr/2026/06/30/500/0/6000/3000/644/322/60/0/15d167e_ftp-1-sx1lag6fghyc-5490654-01-06.jpg",
       "categories": [
         "conflict"

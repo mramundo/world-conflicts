@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-01T16:51:18Z",
+  "updated": "2026-07-01T17:39:48Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-01T16:51:14Z",
+      "publishedAt": "2026-07-01T17:39:42Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F12671686-7-eng-GB%2F8713a4f0f626-photo_SXM2026060900006147.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-2806c933bc03",
+      "title": "US reportedly mulls pulling troops from Saudi Arabia as ties sour over Iran war",
+      "description": "Riyadh initially refused Washington request to use bases critical to Hormuz ship escort operation, prompting US ire; Riyadh interprets Rubio skipping over Saudi on Gulf tour as snub The post US reportedly mulls pulling troops from Saudi Arabia as ties sour over Iran war appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/us-reportedly-mulls-pulling-troops-from-saudi-arabia-as-ties-sour-over-iran-war/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-01T17:19:18Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AP26051271110154-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -80d60242b2e0",
+      "title": "Lebanon's Shiites, torn over Hezbollah, question the meaning of their sacrifices",
+      "description": "Days after Lebanon and Israel signed a framework agreement, supporters and opponents of the militia-party are still measuring the consequences of the devastating war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/01/lebanon-s-shiites-torn-over-hezbollah-question-the-meaning-of-their-sacrifices_6755054_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-01T17:00:05Z",
+      "image": "https://img.lemde.fr/2026/06/23/1249/0/3002/1501/644/322/60/0/a2340a5_upload-1-jhuw4hl1epmy-raf-liban-chiite-018.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -61,21 +91,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-5291eccbfd33",
-      "title": "Gaza border communities attract 5,000 new residents amid post-Oct. 7 rehabilitation",
-      "description": "With 92% of Kibbutz Kissufim residents returning this week, Tekuma Directorate marks 1,000 days since deadly Hamas invasion, says over 1,000 projects completed across region The post Gaza border communities attract 5,000 new residents amid post-Oct. 7 rehabilitation appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/gaza-border-communities-attract-5000-new-residents-amid-post-oct-7-rehabilitation/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-01T14:48:53Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/WhatsApp-Image-2026-04-30-at-14.30.47-1024x640.jpeg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

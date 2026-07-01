@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T03:16:02Z",
+  "updated": "2026-07-01T05:38:46Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-01T03:15:58Z",
+      "publishedAt": "2026-07-01T05:38:42Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F12671686-7-eng-GB%2F8713a4f0f626-photo_SXM2026060900006147.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -31,6 +31,22 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-d4dcbc984e2c",
+      "title": "Middle East live: Qatar reaffirms backing for US – Iran talks",
+      "description": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman al-Thani reaffirmed his country's role as a mediator in US – Iran negotiations during talks with US envoy Steve Witkoff and presidential adviser Jared Kushner on Tuesday, as Doha said it remained committed to supporting efforts to implement the memorandum of underst…",
+      "url": "https://www.france24.com/en/middle-east/20260701-middle-east-live-qatar-reaffirms-backing-for-us-iran-talks",
+      "source": "France24",
+      "publishedAt": "2026-07-01T02:46:50Z",
+      "image": "https://s.france24.com/media/display/401941ec-6e49-11f1-a244-005056bf30b7/w:1024/p:16x9/000-B7T32RG.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,21 +109,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-e89e8f5b0736",
-      "title": "Crimea back in play? Russia feels pain of Ukraine long-range strikes",
-      "description": "A couple of weeks back, we asked if the tide was turning in Ukraine. Short version: a little with a disclaimer: it's hard cutting through the fog of war. Now, we're beginning to wonder if Crimea could be back in play. Kyiv’s new line of longer-range missiles and drones wreaking havoc on fuel and power supplies. And whi…",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260630-crimea-back-in-play-russia-feels-pain-of-ukraine-long-range-strikes",
-      "source": "France24",
-      "publishedAt": "2026-06-30T18:12:57Z",
-      "image": "https://s.france24.com/media/display/f4dbf34a-74ac-11f1-b426-005056bf30b7/w:1024/p:16x9/2026-06-03T145646Z-1053208027-RC27MLAZWHUB-RTRMADP-3-UKRAINE-CRISIS-CRIMEA-FUEL-1.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

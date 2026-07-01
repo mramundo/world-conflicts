@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:35:40Z",
+  "updated": "2026-07-01T22:33:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-01T21:35:35Z",
+      "publishedAt": "2026-07-01T22:33:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F12671686-7-eng-GB%2F8713a4f0f626-photo_SXM2026060900006147.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -1cae339c4841",
+      "title": "War in Ukraine exceeds two million casualties",
+      "description": "Moscow's forces account for the vast majority of the losses, according to a US think tank study.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/02/war-in-ukraine-exceeds-two-million-casualties-study_6755059_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-01T22:26:33Z",
+      "image": "https://img.lemde.fr/2026/06/19/720/0/8640/4320/644/322/60/0/f99c56e_ftp-1-udjpwuuvu03m-507836e254d54c0a8f73162678cd6e0e-0-0d4a606be75542379d1c0616635abdad.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-d97dc7db8105",
+      "title": "Fire breaks out in central Kyiv after explosion during air raid alert",
+      "description": "A fire broke out in central Kyiv after an explosion during an air raid alert on Wednesday, an AFP reporter said. The journalist saw smoke and flames rising as firefighters and ambulances rushed to the scene. Kyiv has faced frequent Russian air strikes more than four years into Moscow's invasion of Ukraine.",
+      "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
+      "source": "France24",
+      "publishedAt": "2026-07-01T21:41:54Z",
+      "image": "https://s.france24.com/media/display/27945062-6868-11f1-83d7-005056bf30b7/w:1024/p:16x9/7159af25ae032b553673699c71ede634e2ea4527.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,21 +97,6 @@
       "tags": []
     },
     {
-      "id": "le -80d60242b2e0",
-      "title": "Lebanon's Shiites, torn over Hezbollah, question the meaning of their sacrifices",
-      "description": "Days after Lebanon and Israel signed a framework agreement, supporters and opponents of the militia-party are still measuring the consequences of the devastating war.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/01/lebanon-s-shiites-torn-over-hezbollah-question-the-meaning-of-their-sacrifices_6755054_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-01T17:00:05Z",
-      "image": "https://img.lemde.fr/2026/06/23/1249/0/3002/1501/644/322/60/0/a2340a5_upload-1-jhuw4hl1epmy-raf-liban-chiite-018.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -8f69e3951426",
       "title": "Amnesty says RSF committed ethnic cleansing in Sudan’s el-Fasher",
       "description": "Rights group accuses the paramilitary of &#039;crimes against humanity&#039; for attacks in and around North Darfur State capital.",
@@ -93,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-f2ba8c3d65c9",
-      "title": "PM Pashinyan warned Armenia does not wish to engage with 'weaponization' of the 1915 genocide",
-      "description": "You're watching Middle East Matters on France 24. Nadia Massih is pleased to welcome our Jerusalem correspondent Noga Tarnopolsky and Amberin Zaman, Chief Correspondent for Al Monitor, a Washington-based independent news organization that covers the Middle East and North Africa. Zaman argues that Israel's apparent reco…",
-      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260701-pm-pashinyas-warned-armenia-does-not-wish-to-engage-with-weaponization-of-the-1915-genocide",
-      "source": "France24",
-      "publishedAt": "2026-07-01T15:58:16Z",
-      "image": "https://s.france24.com/media/display/7a1bedb0-7563-11f1-b8e6-005056bf30b7/w:1024/p:16x9/EN-20260701-162958-164729-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -158,6 +158,21 @@
       "tags": []
     },
     {
+      "id": "bbc-526a62b75d04",
+      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
+      "description": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-01T06:29:31Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e999/live/8b076ed0-7511-11f1-ab91-bba426c6e310.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "ans-95120a52a0a6",
       "title": "Ong, 'oltre 100.000 morti nella guerra in Myanmar'",
       "description": "Lo afferma l'organizzazione di monitoraggio Acled",
@@ -185,22 +200,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-78fbee3a7d79",
-      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
-      "description": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
-      "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-06-30T18:37:59Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c44/live/e0849d80-744c-11f1-b1db-af71d47507d6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T06:01:34Z",
+  "updated": "2026-07-02T10:11:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/are-the-eu-and-china-heading-for-a-trade-war-5-things-to-know",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-02T06:01:30Z",
+      "publishedAt": "2026-07-02T10:11:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12677503-1-eng-GB%2Fe9ee2ddda5c6-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,77 @@
       "tags": []
     },
     {
+      "id": "fra-49432a2aa481",
+      "title": "Kyiv residents reel after largest Russian attack on city kills at least 13",
+      "description": "A devastating wave of overnight attacks has left parts of the Ukrainian capital in ruins. Kyiv officials report multiple casualties following an attack which stuck residential areas. Russia said it would be ramping up the \"pressure\" on Ukraine after launching its largest ever attack on Kyiv overnight. The overnight str…",
+      "url": "https://www.france24.com/en/kyiv-residents-reel-after-largest-russian-attack-on-city-kills-at-least-13",
+      "source": "France24",
+      "publishedAt": "2026-07-02T09:43:51Z",
+      "image": "https://s.france24.com/media/display/d242abd4-75d9-11f1-b467-005056bf30b7/w:1024/p:16x9/AP26183140619258.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-7339165bc4d3",
+      "title": "Notte di raid russi su Kiev, sale a 17 il bilancio dei morti, oltre 80 i feriti. Kallas: 'Proporrò nuove sanzioni'",
+      "description": "La replica del Cremlino: 'Continueremo ad aumentare la pressione sul regime ucraino'. Zelensky: dopo l'attacco ho chiesto agli Usa la licenza per produrre i Patriot",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-almeno-8-i-morti_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-02T09:35:25Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/2/51333dcb1ea51f63adbc0a567248e0d2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-03ca13f062a5",
-      "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
-      "description": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+      "title": "At least 13 killed in 'most massive' Russian attack on Kyiv",
+      "description": "Kyiv's mayor declares a day of mourning after the 'most massive attack on the capital' by Russia.",
       "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-07-02T05:00:57Z",
+      "publishedAt": "2026-07-02T09:15:16Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-d73402b8562f",
+      "title": "Bankers and unions set for clash over possible Burnham tax raid on UK banks",
+      "description": "City bosses say move would be economically disastrous, but union leaders urge likely new PM to ignore ‘vested interests’Battle lines are being drawn between City bosses and trade unions over a possible tax raid on UK banks to help fund Andy Burnham’s package for struggling households this winter.While bankers have warn…",
+      "url": "https://www.theguardian.com/business/2026/jul/02/bankers-trade-unions-clash-possible-tax-raid-uk-banks",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-02T09:00:01Z",
+      "image": "https://i.guim.co.uk/img/media/01fff65d0efcf114ed7c751631cc4c3f88918edb/226_0_4798_3839/master/4798.jpg?width=140&quality=85&auto=format&fit=max&s=08c2921c6417152a2c1c28a33e68f7a6",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-1fda8bab40c5",
+      "title": "Russia attacks Ukraine's capital, killing more than a dozen people",
+      "description": "Russia launched a large-scale attack on Ukraine's capital overnight into Thursday, with ballistic and cruise missiles and drones, killing several people.",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people",
+      "source": "NPR World",
+      "publishedAt": "2026-07-02T08:47:15Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5878894",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,13 +112,13 @@
       "tags": []
     },
     {
-      "id": "le -1cae339c4841",
-      "title": "War in Ukraine exceeds two million casualties",
-      "description": "Moscow's forces account for the vast majority of the losses, according to a US think tank study.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/02/war-in-ukraine-exceeds-two-million-casualties-study_6755059_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-01T22:26:33Z",
-      "image": "https://img.lemde.fr/2026/06/19/720/0/8640/4320/644/322/60/0/f99c56e_ftp-1-udjpwuuvu03m-507836e254d54c0a8f73162678cd6e0e-0-0d4a606be75542379d1c0616635abdad.jpg",
+      "id": "tim-e9b81915b414",
+      "title": "‘They’ve never taken responsibility’: Oct 7 survivors, families rail at government on 1,000th day",
+      "description": "Iran's chief negotiator: IAEA inspectors cannot visit nuclear sites bombed by US * Footage: Soldiers beat and detain Palestinian as settlers hang Israeli flags on West Bank homes The post &#8216;They&#8217;ve never taken responsibility&#8217;: Oct 7 survivors, families rail at government on 1,000th day appeared first o…",
+      "url": "https://www.timesofisrael.com/liveblog-july-2-2026/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-01T22:33:12Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260702AVS12-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -83,48 +143,17 @@
       "tags": []
     },
     {
-      "id": "fra-69aabe2f29a3",
-      "title": "Iran after Khamenei: What direction after Supreme Leader's funeral?",
-      "description": "Some days they talk. Some days they fight. Iran and the United States have settled into a pattern since the truce signed last month. This Wednesday in Doha... they’re sort of talking. Both sides present in indirect negotiations. Whatever comes of that, the attention's now shifting to Tehran, where the Islamic Republic’…",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260701-iran-after-khamenei-what-direction-after-supreme-leader-s-funeral",
-      "source": "France24",
-      "publishedAt": "2026-07-01T18:22:37Z",
-      "image": "https://s.france24.com/media/display/48d89ea8-7575-11f1-b5e7-005056bfb2b6/w:1024/p:16x9/2026-07-01T162550Z-1925746408-RC2U4MADR8LX-RTRMADP-3-IRAN-CRISIS-KHAMENEI.jpg",
+      "id": "le -80d60242b2e0",
+      "title": "Lebanon's Shiites, torn over Hezbollah, question the meaning of their sacrifices",
+      "description": "Days after Lebanon and Israel signed a framework agreement, supporters and opponents of the militia-party are still measuring the consequences of the devastating war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/01/lebanon-s-shiites-torn-over-hezbollah-question-the-meaning-of-their-sacrifices_6755054_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-01T17:00:05Z",
+      "image": "https://img.lemde.fr/2026/06/23/1249/0/3002/1501/644/322/60/0/a2340a5_upload-1-jhuw4hl1epmy-raf-liban-chiite-018.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-e3ed7eeba9d3",
-      "title": "IDF says Hamas commander, 4 terrorists killed in Gazac when planning attacks on troops",
-      "description": "As strikes continue to hit Gaza, technocrats say 'highly productive' meetings held on advancing plans for enclave's future; Board of Peace: ‘UNRWA has no place in the new Gaza' The post IDF says Hamas commander, 4 terrorists killed in Gazac when planning attacks on troops appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-says-hamas-commander-4-terrorists-killed-in-gaza-for-planning-attacks-on-troops/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-01T18:19:49Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26182597575574-e1782926824448-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-eacd17df01dd",
-      "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
-      "description": "Here's a look at some of the major developments since major back-to-back earthquakes rocked Venezuela on June 24, devastating parts of a country already reeling from crisis after crisis.",
-      "url": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-07-01T17:54:10Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F7f%2F1f65788144fbb2233c17b995d4f9%2Fap26181461793242.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -175,21 +204,6 @@
       "tags": []
     },
     {
-      "id": "ans-95120a52a0a6",
-      "title": "Ong, 'oltre 100.000 morti nella guerra in Myanmar'",
-      "description": "Lo afferma l'organizzazione di monitoraggio Acled",
-      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/07/01/ong-oltre-100.000-morti-nella-guerra-in-myanmar_c55ed066-5de2-4563-8830-545c4ac23a11.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-01T05:58:50Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2025/5/7/7877687ce1ddaa0aedea63c169163d0a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -9bbdb9361846",
       "title": "Ukraine has brought the (drone) war to Russia. But it may prolong the fighting.",
       "description": "Ukraine has been taking the fight into Russia in recent months with waves of drone attacks. The Russian public isn’t responding as Kyiv might hope.",
@@ -201,21 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-3c3717c43602",
-      "title": "Trump claims Iran has agreed to hold peace talks in Doha after recent clashes",
-      "description": "US president posts that meeting will take place on Tuesday in Qatari capital after exchange of fire in strait of HormuzIran is jealously competing with Oman as decision-maker over strait of HormuzDonald Trump has claimed that Iran has agreed to hold talks in Doha after the US and Tehran traded fire in the strait of Hor…",
-      "url": "https://www.theguardian.com/world/2026/jun/29/trump-iran-peace-talks-doha",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-29T18:36:24Z",
-      "image": "https://i.guim.co.uk/img/media/bdf308383fc2f07dfbc637d09b1cffd127c58963/526_0_4850_3878/master/4850.jpg?width=140&quality=85&auto=format&fit=max&s=6b8cecb10313649f803a812537bc9bda",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T15:24:31Z",
+  "updated": "2026-07-02T17:50:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/are-the-eu-and-china-heading-for-a-trade-war-5-things-to-know",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-02T15:24:28Z",
+      "publishedAt": "2026-07-02T17:50:24Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12677503-1-eng-GB%2Fe9ee2ddda5c6-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,13 +21,44 @@
       "tags": []
     },
     {
-      "id": "bbc-03ca13f062a5",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
-      "description": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-02T15:16:40Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef2/live/2276f720-7627-11f1-a627-714adb4eed6e.jpg",
+      "id": "ans-52fff638210c",
+      "title": "Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo",
+      "description": "'L'attacco più grave dall'inizio della guerra'. La rabbia di Zelensky: 'Reagiremo'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-sale-a-20-il-bilancio-dei-morti.-zelensky-con_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-02T17:44:32Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/2/71456c7ed1ae34182d0c7ec62ba029df.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -6c9c8b2bd467",
+      "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+      "description": "Despite Iranian attacks, several GCC states continue to speak with Tehran in effort to mend ties and forge cooperation.",
+      "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-02T17:34:42Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-18T131155Z_2111309546_RC2AWLASE77C_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1782929761.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-17478fc6be2c",
+      "title": "Survivors rail at government on 1,000th day since Oct. 7: ‘They’ve never taken responsibility’",
+      "description": "Families and former hostages accuse government for not taking responsibility for massacre, demand state commission of inquiry, pan Netanyahu, Smotrich, for out of touch comments The post Survivors rail at government on 1,000th day since Oct. 7: &#8216;They&#8217;ve never taken responsibility&#8217; appeared first on Th…",
+      "url": "https://www.timesofisrael.com/survivors-rail-at-government-on-1000th-day-since-oct-7-theyve-never-taken-responsibility/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-02T15:29:41Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260702CG39-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -67,47 +98,17 @@
       "tags": []
     },
     {
-      "id": "ans-7339165bc4d3",
-      "title": "Notte di raid russi su Kiev, sale a 20 il bilancio dei morti, oltre 80 i feriti. Kallas: 'Proporrò nuove sanzioni'",
-      "description": "La replica del Cremlino: 'Continueremo ad aumentare la pressione sul regime ucraino'. Zelensky: dopo l'attacco ho chiesto agli Usa la licenza per produrre i Patriot",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-almeno-8-i-morti_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-02T14:44:56Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/2/45b7e992be481fd65f639eefdc1a95f4.jpg",
+      "id": "le -91499ff290a5",
+      "title": "French justice system investigates alleged criminal Israeli airstrikes in Lebanon",
+      "description": "A Franco-Lebanese national has filed a complaint in Paris for war crimes and crimes against humanity after four members of his family were killed in a bombing in Tyre in April. This is the second such complaint filed in France regarding Israeli military operations in Lebanon.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/02/french-justice-system-investigates-alleged-criminal-israeli-airstrikes-in-lebanon_6755085_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-02T15:00:07Z",
+      "image": "https://img.lemde.fr/2026/06/05/830/0/4000/2000/644/322/60/0/9d26291_upload-1-2gui6zhyldec-raf-liban-tyr-005.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -57bc28e20398",
-      "title": "Gaza’s first women’s amputee football team reclaims the pitch after war",
-      "description": "Gaza’s first women’s amputee football team is reclaiming a space that war tried to take from them.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/gazas-first-womens-amputee-football-team-reclaims-the-pitch-after-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-02T13:41:39Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1782999684.jpg?resize=1918%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-e62ce544d0e3",
-      "title": "Far-right minister says IDF hostage point man ‘to blame’ for Oct. 7 abductions, killings",
-      "description": "Amichay Eliyahu leads coalition backlash against Nitzan Alon for pushing back after Smotrich claimed credit for captives' return, says top general would have enabled Hamas to threaten Israel again The post Far-right minister says IDF hostage point man &#8216;to blame&#8217; for Oct. 7 abductions, killings appeared firs…",
-      "url": "https://www.timesofisrael.com/far-right-minister-says-idf-hostage-point-man-to-blame-for-oct-7-abductions-killings/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-02T11:37:14Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/DUAL444-1024x640.jpeg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -142,17 +143,18 @@
       "tags": []
     },
     {
-      "id": "le -c7c993646369",
-      "title": "Ukraine's General Valery Zaluzhny emerges as a key figure in national politics",
-      "description": "While still hypothetical, elections have reportedly been discussed by Ukrainian President Volodymyr Zelensky for the fall, fueling speculation about a possible candidacy by the former commander-in-chief. Like Zaluzhny, several senior officers enjoy strong public support and could play a major role in political life aft…",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/02/ukraine-s-general-valery-zaluzhny-emerges-as-a-key-figure-in-national-politics_6755061_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-01T23:27:55Z",
-      "image": "https://img.lemde.fr/2026/07/01/1246/0/7476/3738/644/322/60/0/fe21320_upload-1-2ozdgnjzemcc-ap26033602107206.jpg",
+      "id": "bbc-4577780d3ba5",
+      "title": "Gaza patients face agonising delays for medical evacuation",
+      "description": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-02T04:59:55Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec3/live/6f002bc0-709b-11f1-86cf-0fd142c2b6fb.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

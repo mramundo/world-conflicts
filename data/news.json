@@ -1,22 +1,54 @@
 {
-  "updated": "2026-07-02T01:49:05Z",
+  "updated": "2026-07-02T06:01:34Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-974f5517ea6e",
-      "title": "China chip material makers battle Japan rivals for $73bn market",
+      "id": "nik-e4b1e8ec44fa",
+      "title": "Are the EU and China heading for a trade war? 5 things to know",
       "description": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market",
+      "url": "https://asia.nikkei.com/economy/trade/are-the-eu-and-china-heading-for-a-trade-war-5-things-to-know",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-02T01:49:00Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F12671686-7-eng-GB%2F8713a4f0f626-photo_SXM2026060900006147.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-07-02T06:01:30Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12677503-1-eng-GB%2Fe9ee2ddda5c6-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-03ca13f062a5",
+      "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "description": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-02T05:00:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -922b0235c776",
+      "title": "On the front line of Congo’s Ebola outbreak",
+      "description": "Al Jazeera&#039;s Catherine Wambua-Soi reports from Bunia, on the front line of the Ebola response.",
+      "url": "https://www.aljazeera.com/editorial/2026/7/2/on-the-front-line-of-congos-ebola-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-02T02:58:27Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3ba851-1782294609.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -27,21 +59,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-07-01T22:26:33Z",
       "image": "https://img.lemde.fr/2026/06/19/720/0/8640/4320/644/322/60/0/f99c56e_ftp-1-udjpwuuvu03m-507836e254d54c0a8f73162678cd6e0e-0-0d4a606be75542379d1c0616635abdad.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -d579de8d9723",
-      "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-      "description": "An Israeli drone strike near a Gaza hospital and fuel station kills at least three people, reports Wafa news agency.",
-      "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-01T19:29:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4556832320-1782929027.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -62,6 +79,21 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-69aabe2f29a3",
+      "title": "Iran after Khamenei: What direction after Supreme Leader's funeral?",
+      "description": "Some days they talk. Some days they fight. Iran and the United States have settled into a pattern since the truce signed last month. This Wednesday in Doha... they’re sort of talking. Both sides present in indirect negotiations. Whatever comes of that, the attention's now shifting to Tehran, where the Islamic Republic’…",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260701-iran-after-khamenei-what-direction-after-supreme-leader-s-funeral",
+      "source": "France24",
+      "publishedAt": "2026-07-01T18:22:37Z",
+      "image": "https://s.france24.com/media/display/48d89ea8-7575-11f1-b5e7-005056bfb2b6/w:1024/p:16x9/2026-07-01T162550Z-1925746408-RC2U4MADR8LX-RTRMADP-3-IRAN-CRISIS-KHAMENEI.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,21 +125,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-f2ba8c3d65c9",
-      "title": "PM Pashinyan warned Armenia does not wish to engage with 'weaponization' of the 1915 genocide",
-      "description": "You're watching Middle East Matters on France 24. Nadia Massih is pleased to welcome our Jerusalem correspondent Noga Tarnopolsky and Amberin Zaman, Chief Correspondent for Al Monitor, a Washington-based independent news organization that covers the Middle East and North Africa. Zaman argues that Israel's apparent reco…",
-      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260701-pm-pashinyas-warned-armenia-does-not-wish-to-engage-with-weaponization-of-the-1915-genocide",
-      "source": "France24",
-      "publishedAt": "2026-07-01T15:58:16Z",
-      "image": "https://s.france24.com/media/display/7a1bedb0-7563-11f1-b8e6-005056bf30b7/w:1024/p:16x9/EN-20260701-162958-164729-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -154,21 +171,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-526a62b75d04",
-      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
-      "description": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
-      "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-01T06:29:31Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e999/live/8b076ed0-7511-11f1-ab91-bba426c6e310.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

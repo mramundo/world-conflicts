@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:27:04Z",
+  "updated": "2026-07-02T21:10:18Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/are-the-eu-and-china-heading-for-a-trade-war-5-things-to-know",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-02T19:27:01Z",
+      "publishedAt": "2026-07-02T21:10:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12677503-1-eng-GB%2Fe9ee2ddda5c6-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -ccdb3f40c540",
+      "title": "Fears of new massacre in Sudan’s el-Obeid: What do we know?",
+      "description": "As RSF troops besiege el-Obeid, 500,000 civilians face mass atrocities amid drone strikes and a stalled peace process.",
+      "url": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-02T18:59:41Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260629__B8NF8G3__v1__HighRes__SudanConflictRsfArmyElObeid-1782894481.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 13,
       "isAnalysis": true,
       "tags": []
     },
@@ -33,22 +49,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -6c9c8b2bd467",
-      "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
-      "description": "Despite Iranian attacks, several GCC states continue to speak with Tehran in effort to mend ties and forge cooperation.",
-      "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-02T17:34:42Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-18T131155Z_2111309546_RC2AWLASE77C_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1782929761.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

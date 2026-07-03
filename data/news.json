@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T21:09:21Z",
+  "updated": "2026-07-03T23:06:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/are-the-eu-and-china-heading-for-a-trade-war-5-things-to-know",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-03T21:09:17Z",
+      "publishedAt": "2026-07-03T23:06:28Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12677503-1-eng-GB%2Fe9ee2ddda5c6-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -9f8cf708513d",
+      "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+      "description": "Top Iranian officials and foreign dignitaries pay respects to late leader killed in joint US-Israeli strike in February.",
+      "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-03T18:39:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a47c83c-1783089212.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -54,7 +69,7 @@
     {
       "id": "tim-cc27bc727bab",
       "title": "IDF shells Hezbollah sites after soldier hurt in clash with gunman in south Lebanon",
-      "description": "A week after Beirut-Jerusalem framework signed, Israel says it hit 10 infrastructure sites used by terror group; report says 640,000 displaced people have returned home so far The post IDF shells Hezbollah sites after soldier hurt in clash with gunman in south Lebanon appeared first on The Times of Israel.",
+      "description": "A week after Beirut-Jerusalem framework signed, Israel says it hit 10 infrastructure sites used by terror group; report says 640,000 displaced Lebanese have returned home so far The post IDF shells Hezbollah sites after soldier hurt in clash with gunman in south Lebanon appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/idf-shells-hezbollah-sites-after-soldier-hurt-in-clash-with-gunman-in-south-lebanon/",
       "source": "Times of Israel",
       "publishedAt": "2026-07-03T17:08:02Z",
@@ -62,7 +77,7 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7219aa9fd191",
-      "title": "Gaza sports community pledges to continue legacy of killed goalkeeper",
-      "description": "Slain seeking cooking gas, Gaza goalkeeper Saleem al-Ashqar joins more than 1,000 Palestinian athletes killed in war.",
-      "url": "https://www.aljazeera.com/sports/2026/7/3/gaza-sports-community-pledges-to-continue-legacy-of-killed-goalkeeper?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-03T14:43:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/s1-1782993088.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -143,6 +143,22 @@
       "tags": []
     },
     {
+      "id": "npr-bd059f820bd1",
+      "title": "Are the wars in Ukraine and Iran showing the limits of global powers?",
+      "description": "We look at the Russian attacks on Kyiv and the overall state of the wars between Russia and Ukraine and the U.S. and Iran.",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5877615/are-the-wars-in-ukraine-and-iran-showing-the-limits-of-global-powers",
+      "source": "NPR World",
+      "publishedAt": "2026-07-02T20:13:37Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5877615",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "the-0acd7c99c152",
       "title": "Papua separatists kill American pilot in ‘message’ to US and Indonesia",
       "description": "Rebels shoot pilot and set his civilian ⁠plane on fire amid long-running low-level battle for independence in regionSeparatist rebels in Indonesia’s restive easternmost region of Papua have shot dead an American pilot and set a civilian ⁠plane on fire, in what a spokesperson for a local militant group described as a “m…",
@@ -169,21 +185,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-1fda8bab40c5",
-      "title": "Russia hits Ukraine's capital with a massive drone and missile attack, killing at least 18",
-      "description": "Russia launched a large-scale attack on Ukraine's capital overnight into Thursday, with ballistic and cruise missiles and drones, killing several people.",
-      "url": "https://www.npr.org/2026/07/02/nx-s1-5878894/russia-attacks-ukraines-capital-killing-more-than-a-dozen-people",
-      "source": "NPR World",
-      "publishedAt": "2026-07-02T08:47:15Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x4032+0+0/resize/6048x4032!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2F95%2Fd5e475da47859220d9d82801cb78%2Fap26183325349657.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

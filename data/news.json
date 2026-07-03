@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T03:29:06Z",
+  "updated": "2026-07-03T07:22:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/are-the-eu-and-china-heading-for-a-trade-war-5-things-to-know",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-03T03:29:01Z",
+      "publishedAt": "2026-07-03T07:22:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12677503-1-eng-GB%2Fe9ee2ddda5c6-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,51 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-52fff638210c",
+      "title": "Sale a 30 il bilancio dei morti a Kiev nell'attacco russo di ieri. Drone contro un condominio a Sumy",
+      "description": "'L'attacco più grave dall'inizio della guerra'. La rabbia di Zelensky: 'Reagiremo'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-sale-a-20-il-bilancio-dei-morti.-zelensky-con_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-03T06:39:00Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/2/1fb1aef74785c651b21c6fecce1e46ee.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-14531b77e44b",
+      "title": "AI drones made in Germany see duty on Ukraine's front line",
+      "description": "The German defense company Helsing is supplying combat drones to Ukraine and will soon provide them to the Bundeswehr. How effective are they on the front line? DW joined a Ukrainian combat mission to find out.",
+      "url": "https://www.dw.com/en/ai-drones-made-in-germany-see-duty-on-ukraine-s-front-line/a-77804928?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-03T04:38:00Z",
+      "image": "https://static.dw.com/image/76834238_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -bbae32bf05f6",
+      "title": "Papua rebels claim to have killed US pilot in Indonesia",
+      "description": "A US pilot has been killed in Indonesia’s Papua region after separatist rebels said they shot him.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-03T03:48:59Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783050394.jpg?resize=1920%2C1072&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -42,53 +87,7 @@
       "url": "https://www.timesofisrael.com/we-wont-give-up-crowd-marking-1000-days-since-oct-7-vows-to-keep-demanding-state-inquiry/",
       "source": "Times of Israel",
       "publishedAt": "2026-07-02T23:34:05Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260702CG937-e1783026368134-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -ccdb3f40c540",
-      "title": "Fears of new massacre in Sudan’s el-Obeid: What do we know?",
-      "description": "As RSF troops besiege el-Obeid, 500,000 civilians face mass atrocities amid drone strikes and a stalled peace process.",
-      "url": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-02T18:59:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260629__B8NF8G3__v1__HighRes__SudanConflictRsfArmyElObeid-1782894481.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-52fff638210c",
-      "title": "Putin scatena l'inferno su Kiev, oltre 20 morti e palazzi rasi al suolo",
-      "description": "'L'attacco più grave dall'inizio della guerra'. La rabbia di Zelensky: 'Reagiremo'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-sale-a-20-il-bilancio-dei-morti.-zelensky-con_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-02T17:59:15Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/2/71456c7ed1ae34182d0c7ec62ba029df.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-d24e24835d13",
-      "title": "Death toll rises to 21 with more than 80 injured in huge Russian attack on Kyiv –as it happened",
-      "description": "Damage recorded in 30 locations across in the city from overnight attacks, with ‘most of them ordinary residential buildings’in DublinVolodymyr Zelenskyy has said he hopes not to wait too long for the results of an Irish government investigation into alumina exports to Russia thought to be feeding the Kremlin’s war mac…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-02T15:04:54Z",
-      "image": "https://i.guim.co.uk/img/media/91618da2ca0b829cf3c5add2c44d193045359fd9/1273_0_7919_6336/master/7919.jpg?width=140&quality=85&auto=format&fit=max&s=7cb906c1b328d42a9329a4307c940bb6",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260702CG917-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -104,6 +103,21 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-07-02T15:00:07Z",
       "image": "https://img.lemde.fr/2026/06/05/830/0/4000/2000/644/322/60/0/9d26291_upload-1-2gui6zhyldec-raf-liban-tyr-005.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-0acd7c99c152",
+      "title": "Papua separatists kill American pilot in ‘message’ to US and Indonesia",
+      "description": "Rebels shoot pilot and set his civilian ⁠plane on fire amid long-running low-level battle for independence in regionSeparatist rebels in Indonesia’s restive easternmost region of Papua have shot dead an American pilot and set a civilian ⁠plane on fire, in what a spokesperson for a local militant group described as a “m…",
+      "url": "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-02T12:18:48Z",
+      "image": "https://i.guim.co.uk/img/media/ca7c065e42bfdb3b6c0d1b3955f9577bb0a1ed9b/1035_0_1404_1123/master/1404.jpg?width=140&quality=85&auto=format&fit=max&s=fe9e407fcbb8a06d0a40a541abdf6ead",
       "categories": [
         "conflict"
       ],
@@ -154,21 +168,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-beb28165c0c4",
-      "title": "Explosion in Monaco: Who is Vadym Yermolaiev?",
-      "description": "Ukrainian-born businessman Vadym Yermolaiev was reportedly injured in a suspected assassination attempt in Monaco. Kyiv had previously imposed sanctions on him. What is known about the case?",
-      "url": "https://www.dw.com/en/explosion-in-monaco-who-is-vadym-yermolaiev/a-77792178?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-01T19:53:00Z",
-      "image": "https://static.dw.com/image/77763087_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

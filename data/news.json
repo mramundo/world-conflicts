@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T10:38:17Z",
+  "updated": "2026-07-03T12:56:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/are-the-eu-and-china-heading-for-a-trade-war-5-things-to-know",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-03T10:38:13Z",
+      "publishedAt": "2026-07-03T12:56:48Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12677503-1-eng-GB%2Fe9ee2ddda5c6-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,37 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-68ba8ede6784",
+      "title": "Human rights catastrophe unfolding in Sudan's al-Obeid, says UN",
+      "description": "Another human rights catastrophe is unfolding in Sudan around the besieged city of al-Obeid, the United Nations human rights chief said on Friday, warning of a pattern of ​atrocities and urging ‌the world to act. Al-Obeid is the capital of North Kordofan state, a ⁠focus of recent fighting in a war between Sudan's army …",
+      "url": "https://www.france24.com/en/video/20260703-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un",
+      "source": "France24",
+      "publishedAt": "2026-07-03T12:43:53Z",
+      "image": "https://s.france24.com/media/display/d15b29d4-76d9-11f1-a0c7-005056a90284/w:1024/p:16x9/EN-20260703-135504-135708-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ee654a2f94ad",
+      "title": "Five killed in Ukraine a day after deadliest Russian attacks this year",
+      "description": "Separately, at least 10 people killed in Ukrainian attacks on Russia and Russian-controlled areas.",
+      "url": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-03T09:26:27Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260702__B9434WE__v2__HighRes__TopshotUkraineRussiaConflictWar-1783065667.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -47,36 +78,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -bbae32bf05f6",
-      "title": "Papua rebels claim to have killed US pilot in Indonesia",
-      "description": "A US pilot has been killed in Indonesia’s Papua region after separatist rebels said they shot him.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-03T03:48:59Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783050394.jpg?resize=1920%2C1072&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-1463fbf25f2a",
-      "title": "'If Ukraine falls, this will be the end of the European Union and the end of Europe's future'",
-      "description": "Nadia Massih is pleased to welcome Dr. Volodymyr Yermolenko, Ukrainian philosopher, journalist, author and President of PEN Ukraine. According to Dr Yermolenko, the war is not simply a military confrontation, Europe's future hangs in the balance. Speaking hours after a devastating missile attack on Kyiv, he juxtaposes …",
-      "url": "https://www.france24.com/en/video/20260703-if-ukraine-falls-this-will-be-the-end-of-the-european-union-and-the-end-of-europe-s-future",
-      "source": "France24",
-      "publishedAt": "2026-07-03T01:49:41Z",
-      "image": "https://s.france24.com/media/display/cf16b204-764f-11f1-b71c-005056bfb2b6/w:1024/p:16x9/EN-20260702-150102-151127-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

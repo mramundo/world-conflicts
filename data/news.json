@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T17:27:30Z",
+  "updated": "2026-07-03T19:25:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/are-the-eu-and-china-heading-for-a-trade-war-5-things-to-know",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-03T17:27:27Z",
+      "publishedAt": "2026-07-03T19:25:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12677503-1-eng-GB%2Fe9ee2ddda5c6-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,37 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -51a5c010b34d",
+      "title": "How the Russian army lost its military advantage against Ukraine",
+      "description": "Russia is becoming bogged down in the ground war and falling further behind technologically, while its human and oil resources dwindle. The Ukrainian army, supported by an innovative defense industry, has nevertheless been unable to switch to an offensive posture in ground combat.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/03/how-the-russian-army-lost-its-advantage-against-ukraine_6755124_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-03T18:00:06Z",
+      "image": "https://img.lemde.fr/2026/07/02/500/0/6000/3000/644/322/60/0/5597802_ftp-1-1cdxkvdc8ypq-5507707-01-06.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-1c15a3659d52",
+      "title": "'Not a proxy war': Sudan civil war 'would not go on like this' without role of international players",
+      "description": "Gavin Lee is pleased to welcome Jan Pospisil, Sudan Affairs Analyst at the Peace and Conflict Resolution Evidence Platform. He says the siege has been going on for almost a year, and the RSF seems committed to seizing el-Obeid. While Pospisil explains that Sudan's civil war is not a proxy war in the literal sense, he d…",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260703-not-a-proxy-war-sudan-civil-war-would-not-go-on-like-this-without-role-of-international-players",
+      "source": "France24",
+      "publishedAt": "2026-07-03T17:22:29Z",
+      "image": "https://s.france24.com/media/display/14965b5c-7701-11f1-853a-005056bf30b7/w:1024/p:16x9/EN-20260703-180535-181821-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -67,22 +98,6 @@
       "tags": []
     },
     {
-      "id": "fra-44b5332e8417",
-      "title": "International Red Cross: 'Civilian suffering in Sudan is not inevitable'",
-      "description": "William Hilderbrandt is pleased to welcome Mateo Jaramillo Ortega, ICRC Regional Spokesperson for Eastern Africa. He asserts that '\"civilian suffering in Sudan is not inevitable: much of the harm over the past three years, since the beginning of combat in Khartoum, and nowadays in el-Obeid, could have been prevented ha…",
-      "url": "https://www.france24.com/en/international-red-cross-civilian-suffering-in-sudan-is-not-inevitable",
-      "source": "France24",
-      "publishedAt": "2026-07-03T13:26:02Z",
-      "image": "https://s.france24.com/media/display/2ee4006a-76e1-11f1-b88e-005056bfb2b6/w:1024/p:16x9/EN-20260703-130705-131143-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-d50627a6b5ae",
       "title": "IDF says it killed Hamas terrorist who abducted tank officer Daniel Perez, held hostages",
       "description": "Muhammad Na'im Jandiya seized body of Daniel Perez during Oct. 7 attack, held captive Yotam Haim, Samar Talalka and Alon Shamriz, whose brothers respond 'world is a better place' The post IDF says it killed Hamas terrorist who abducted tank officer Daniel Perez, held hostages appeared first on The Times of Israel.",
@@ -124,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -91499ff290a5",
-      "title": "French justice system investigates alleged criminal Israeli airstrikes in Lebanon",
-      "description": "A Franco-Lebanese national has filed a complaint in Paris for war crimes and crimes against humanity after four members of his family were killed in a bombing in Tyre in April. This is the second such complaint filed in France regarding Israeli military operations in Lebanon.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/02/french-justice-system-investigates-alleged-criminal-israeli-airstrikes-in-lebanon_6755085_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-02T15:00:07Z",
-      "image": "https://img.lemde.fr/2026/06/05/830/0/4000/2000/644/322/60/0/9d26291_upload-1-2gui6zhyldec-raf-liban-tyr-005.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

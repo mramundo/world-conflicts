@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T15:15:05Z",
+  "updated": "2026-07-03T17:27:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/are-the-eu-and-china-heading-for-a-trade-war-5-things-to-know",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-03T15:15:02Z",
+      "publishedAt": "2026-07-03T17:27:27Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12677503-1-eng-GB%2Fe9ee2ddda5c6-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -67,33 +67,18 @@
       "tags": []
     },
     {
-      "id": "ans-52fff638210c",
-      "title": "Sale a 30 il bilancio dei morti a Kiev nell'attacco russo di ieri. Drone contro un condominio a Sumy",
-      "description": "'L'attacco più grave dall'inizio della guerra'. La rabbia di Zelensky: 'Reagiremo'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-sale-a-20-il-bilancio-dei-morti.-zelensky-con_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-03T14:25:06Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/2/1fb1aef74785c651b21c6fecce1e46ee.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-68ba8ede6784",
-      "title": "Human rights catastrophe unfolding in Sudan's al-Obeid, says UN",
-      "description": "Another human rights catastrophe is unfolding in Sudan around the besieged city of al-Obeid, the United Nations human rights chief said on Friday, warning of a pattern of ​atrocities and urging ‌the world to act. Al-Obeid is the capital of North Kordofan state, a ⁠focus of recent fighting in a war between Sudan's army …",
-      "url": "https://www.france24.com/en/video/20260703-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un",
+      "id": "fra-44b5332e8417",
+      "title": "International Red Cross: 'Civilian suffering in Sudan is not inevitable'",
+      "description": "William Hilderbrandt is pleased to welcome Mateo Jaramillo Ortega, ICRC Regional Spokesperson for Eastern Africa. He asserts that '\"civilian suffering in Sudan is not inevitable: much of the harm over the past three years, since the beginning of combat in Khartoum, and nowadays in el-Obeid, could have been prevented ha…",
+      "url": "https://www.france24.com/en/international-red-cross-civilian-suffering-in-sudan-is-not-inevitable",
       "source": "France24",
-      "publishedAt": "2026-07-03T12:43:53Z",
-      "image": "https://s.france24.com/media/display/d15b29d4-76d9-11f1-a0c7-005056a90284/w:1024/p:16x9/EN-20260703-135504-135708-CS.jpg",
+      "publishedAt": "2026-07-03T13:26:02Z",
+      "image": "https://s.france24.com/media/display/2ee4006a-76e1-11f1-b88e-005056bfb2b6/w:1024/p:16x9/EN-20260703-130705-131143-CS.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -109,6 +94,21 @@
         "conflict"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-7b4bf19b18ed",
+      "title": "Procuratore, l'ucraina non ha agito da sola nell'attentato a Monaco",
+      "description": "Passata in Italia per raggiungere la Svizzera",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/03/procuratore-lucraina-non-ha-agito-da-sola-nellattentato-a-monaco_d3870069-00ac-4b8d-9a32-53397b03149b.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-03T10:21:47Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/30/50aa92cc9e507b8a99e93636723995d2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -226,7 +226,7 @@
       "url": "https://www.csmonitor.com/World/Europe/2026/0630/ukraine-drone-attacks-russia-moscow-defense?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-06-30T20:37:37Z",
-      "image": null,
+      "image": "https://images.csmonitor.com/csm/2026/06/0630_OINCURSIONCHURCH.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],

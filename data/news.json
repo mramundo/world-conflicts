@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T23:09:51Z",
+  "updated": "2026-07-03T03:29:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/trade/are-the-eu-and-china-heading-for-a-trade-war-5-things-to-know",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-02T23:09:46Z",
+      "publishedAt": "2026-07-03T03:29:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F0%2F5%2F7%2F12677503-1-eng-GB%2Fe9ee2ddda5c6-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-1463fbf25f2a",
+      "title": "'If Ukraine falls, this will be the end of the European Union and the end of Europe's future'",
+      "description": "Nadia Massih is pleased to welcome Dr. Volodymyr Yermolenko, Ukrainian philosopher, journalist, author and President of PEN Ukraine. According to Dr Yermolenko, the war is not simply a military confrontation, Europe's future hangs in the balance. Speaking hours after a devastating missile attack on Kyiv, he juxtaposes …",
+      "url": "https://www.france24.com/en/video/20260703-if-ukraine-falls-this-will-be-the-end-of-the-european-union-and-the-end-of-europe-s-future",
+      "source": "France24",
+      "publishedAt": "2026-07-03T01:49:41Z",
+      "image": "https://s.france24.com/media/display/cf16b204-764f-11f1-b71c-005056bfb2b6/w:1024/p:16x9/EN-20260702-150102-151127-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-b4840038f066",
+      "title": "‘We won’t give up’: Crowd marking 1,000 days since Oct. 7 vows to keep demanding state inquiry",
+      "description": "Former hostage Rom Braslavski says 'personal war' against PTSD continues; at least 7 arrested blocking Ayalon Highway ahead of rally at Hostages Square, where speakers slam government The post &#8216;We won&#8217;t give up&#8217;: Crowd marking 1,000 days since Oct. 7 vows to keep demanding state inquiry appeared first…",
+      "url": "https://www.timesofisrael.com/we-wont-give-up-crowd-marking-1000-days-since-oct-7-vows-to-keep-demanding-state-inquiry/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-02T23:34:05Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260702CG937-e1783026368134-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -52,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "tim-17478fc6be2c",
-      "title": "Survivors rail at government on 1,000th day since Oct. 7: ‘They’ve never taken responsibility’",
-      "description": "Families and former hostages denounce government for ducking responsibility for massacre, demand state commission of inquiry, pan Netanyahu, Smotrich, for out of touch comments The post Survivors rail at government on 1,000th day since Oct. 7: &#8216;They&#8217;ve never taken responsibility&#8217; appeared first on The…",
-      "url": "https://www.timesofisrael.com/survivors-rail-at-government-on-1000th-day-since-oct-7-theyve-never-taken-responsibility/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-02T15:29:41Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260702CG39-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-d24e24835d13",
       "title": "Death toll rises to 21 with more than 80 injured in huge Russian attack on Kyiv –as it happened",
       "description": "Damage recorded in 30 locations across in the city from overnight attacks, with ‘most of them ordinary residential buildings’in DublinVolodymyr Zelenskyy has said he hopes not to wait too long for the results of an Irish government investigation into alumina exports to Russia thought to be feeding the Kremlin’s war mac…",
@@ -78,22 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-e8a421068f6f",
-      "title": "Gazans take stock of the war 1,000 days after its start",
-      "description": "1,000 days since the massacres of October 7th means 1,000 since total war was unleashed on the more than 2 million residents of the Gaza strip. Israeli retaliation to the Hamas massacre is said to have killed more than 73,000 people and wounded many more, including since the ceasefire of October 2025. Benjamin Netanyah…",
-      "url": "https://www.france24.com/en/gazans-take-stock-of-the-war-1-000-days-after-its-start",
-      "source": "France24",
-      "publishedAt": "2026-07-02T15:02:12Z",
-      "image": "https://s.france24.com/media/display/91c56930-761e-11f1-9e6f-005056a90284/w:1024/p:16x9/AP26183211760801.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 13,
       "isAnalysis": false,
       "tags": []
     },

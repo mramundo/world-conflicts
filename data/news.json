@@ -1,9 +1,70 @@
 {
-  "updated": "2026-07-04T11:33:29Z",
+  "updated": "2026-07-04T13:37:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "fra-b6f46899a6f2",
+      "title": "Mali government says rebels attacking northern towns",
+      "description": "The Malian army said Saturday that several northern towns, including Gao and Sévaré, were targeted by rebels. The statement came as a rebel group announced a new offensive to capture a northern town. Mohamed Elmaouloud Ramadane, a spokesperson for ​the Azawad Liberation Front (FLA), said in a Facebook post that the tow…",
+      "url": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
+      "source": "France24",
+      "publishedAt": "2026-07-04T13:18:56Z",
+      "image": "https://s.france24.com/media/display/a6d6293a-77aa-11f1-bfb8-005056bf30b7/w:1024/p:16x9/EN-20260704-150110-150423-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-0a6fbb1c8b9e",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-04T13:13:52Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-320d6c401b2a",
+      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "description": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima is losing count of the number of drone attacks on the besieged city of El Obeid in Sudan, but says the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, kill…",
+      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-04T12:43:43Z",
+      "image": "https://i.guim.co.uk/img/media/44e2787e66b60b8c57b8311b2fe08158f3630873/289_0_4923_3939/master/4923.jpg?width=140&quality=85&auto=format&fit=max&s=468d020df4a8981b27163738056b2d30",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-c4916cec9269",
+      "title": "Ukraine Denies Russian Claims of Capturing Kostiantynivka",
+      "description": "The Ukrainian Defense Forces have refuted claims made by Russian President Vladimir Putin that Russian troops have fully captured the city of Kostiantynivka in the Donetsk region. The Ukrainian military’s “East” command and the General Staff confirmed on Saturday that the city remains under Ukrainian control, though ur…",
+      "url": "https://www.kyivpost.com/post/79584",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-04T10:25:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/14/3eaa2be13158545aa8dcccf5514e3aa7.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "ans-1bf78733548d",
       "title": "Colombia, Petro chiede a Trump di rimuoverlo dalla lista Usa delle sanzioni Ofac",
@@ -67,8 +128,8 @@
     },
     {
       "id": "npr-6c0e5c2550d1",
-      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
-      "description": "Iran began a dayslong funeral Saturday for the late Supreme Leader Ayatollah Ali Khamenei, months after an airstrike killed him at the start of the war. He was 86.",
+      "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
+      "description": "Khamenei, who ruled Iran for more than three decades, was killed in an airstrike on Feb. 28 at the start of the U.S.-Israeli war against Iran.",
       "url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
       "source": "NPR World",
       "publishedAt": "2026-07-04T05:04:16Z",
@@ -76,22 +137,7 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-a6c1178dfdb4",
-      "title": "More than 400 dead in DR Congo's Ebola outbreak",
-      "description": "In tonight's edition, Ebola is spreading beyond its original hotspot in the DRC as a new case has been detected nearly 600 kilometers away. And another human rights catastrophe is unfolding in Sudan around the besieged city of al-Obeid, the UN says.",
-      "url": "https://www.france24.com/en/more-than-400-dead-in-dr-congo-s-ebola-outbreak",
-      "source": "France24",
-      "publishedAt": "2026-07-03T21:39:49Z",
-      "image": "https://s.france24.com/media/display/d4f5ad2e-7726-11f1-b195-005056bf30b7/w:1024/p:16x9/WB183985-O-01-20260703-01.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -127,6 +173,21 @@
       "tags": []
     },
     {
+      "id": "un -1c763508ddc5",
+      "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
+      "description": "The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167871",
+      "source": "UN News",
+      "publishedAt": "2026-07-03T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-14531b77e44b",
       "title": "AI drones made in Germany see duty on Ukraine's front line",
       "description": "The German defense company Helsing is supplying combat drones to Ukraine and will soon provide them to the German army. How effective are they on the front line? DW joined a Ukrainian combat mission to find out.",
@@ -142,36 +203,6 @@
       "tags": []
     },
     {
-      "id": "bbc-68918412f677",
-      "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-      "description": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
-      "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-02T12:37:02Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aee/live/e52ac5e0-7621-11f1-9510-1546718f668b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-0acd7c99c152",
-      "title": "Papua separatists kill American pilot in ‘message’ to US and Indonesia",
-      "description": "Rebels shoot pilot and set his civilian ⁠plane on fire amid long-running low-level battle for independence in regionSeparatist rebels in Indonesia’s restive easternmost region of Papua have shot dead an American pilot and set a civilian ⁠plane on fire, in what a spokesperson for a local militant group described as a “m…",
-      "url": "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-02T12:18:48Z",
-      "image": "https://i.guim.co.uk/img/media/ca7c065e42bfdb3b6c0d1b3955f9577bb0a1ed9b/1035_0_1404_1123/master/1404.jpg?width=140&quality=85&auto=format&fit=max&s=fe9e407fcbb8a06d0a40a541abdf6ead",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -c3aa17421eb7",
       "title": "From ‘greatest friend’ to ‘loser’: US-Iran deal sours many Israelis on Trump",
       "description": "Israeli attitudes toward U.S. President Donald Trump, once seen as the nation’s savior, have shifted dramatically. The initial U.S.-Iran ceasefire deal is already seen as a blow to Israel’s strategy and standing, and the backlash on the Israeli right has been harsh.",
@@ -183,37 +214,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-f63d82463f26",
-      "title": "Zelensky Warns of Massive Russian Overnight Strike on Ukraine",
-      "description": "President Volodymyr Zelensky said Ukrainian intelligence has identified signs of another massive Russian strike expected overnight, urging citizens to take shelter and heed air raid warnings. He made the comments during a media briefing with Irish Prime Minister Micheál Martin, accusing Kremlin leader Vladimir Putin of…",
-      "url": "https://www.kyivpost.com/post/79388",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-01T18:23:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/01/4656904bdeddfea6f791f1ceee5e08f0.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -99e5264627e9",
-      "title": "World News in Brief: Risk of atrocities in Sudan, UN programme prevents climate displacement, more civilians killed in Ukraine",
-      "description": "Drone attacks by advancing rebel fighters who are besieging El Obeid,&nbsp;Sudan, continue to result in civilian casualties, putting around half a million civilians at grave risk of large-scale atrocities.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167856",
-      "source": "UN News",
-      "publishedAt": "2026-07-01T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/23-06-2026-UNICEF-Sudan.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     }

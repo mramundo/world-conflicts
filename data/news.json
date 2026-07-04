@@ -1,9 +1,24 @@
 {
-  "updated": "2026-07-04T03:21:43Z",
+  "updated": "2026-07-04T06:48:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "npr-6c0e5c2550d1",
+      "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei",
+      "description": "Iran began a dayslong funeral Saturday for the late Supreme Leader Ayatollah Ali Khamenei, months after an airstrike killed him at the start of the war. He was 86.",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
+      "source": "NPR World",
+      "publishedAt": "2026-07-04T05:04:16Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x2135+0+0/resize/3200x2135!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F6f%2Fb80d9d2b4e0b8d021a50c913368f%2Fap26185163937406.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "al -1be321f005c9",
       "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
@@ -11,7 +26,7 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-07-04T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-04T023616Z_1441683112_RC2Q6MAXCLCA_RTRMADP_3_IRAN-CRISIS-KHAMENEI-1783132835.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-04T043816Z_733236058_RC2R6MA8HMYP_RTRMADP_3_IRAN-CRISIS-KHAMENEI-1783140693.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -124,22 +139,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-bd059f820bd1",
-      "title": "Are the wars in Ukraine and Iran showing the limits of global powers?",
-      "description": "We look at the Russian attacks on Kyiv and the overall state of the wars between Russia and Ukraine and the U.S. and Iran.",
-      "url": "https://www.npr.org/2026/07/02/nx-s1-5877615/are-the-wars-in-ukraine-and-iran-showing-the-limits-of-global-powers",
-      "source": "NPR World",
-      "publishedAt": "2026-07-02T20:13:37Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5877615",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
       "tags": []
     },
     {

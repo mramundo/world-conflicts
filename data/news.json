@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-04T19:16:47Z",
+  "updated": "2026-07-04T20:59:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -e391bc5be133",
+      "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
+      "description": "Relentless Ukrainian strikes on refineries have caused a fuel crisis in Russia.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-04T19:19:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783190434.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "bbc-0a6fbb1c8b9e",
       "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
@@ -92,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -3ba899db0834",
-      "title": "Mali’s army says rebels launch new attacks on towns and cities",
-      "description": "Tuareg-led armed ⁠group says it attacked northern town where Malian troops and Russian fighters are based.",
-      "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-04T09:14:56Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fceee1160c-1778183905.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

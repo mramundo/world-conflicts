@@ -1,9 +1,24 @@
 {
-  "updated": "2026-07-04T13:37:45Z",
+  "updated": "2026-07-04T15:07:00Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "bbc-0a6fbb1c8b9e",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-04T14:07:31Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "fra-b6f46899a6f2",
       "title": "Mali government says rebels attacking northern towns",
@@ -20,24 +35,9 @@
       "tags": []
     },
     {
-      "id": "bbc-0a6fbb1c8b9e",
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-04T13:13:52Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-320d6c401b2a",
       "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "description": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima is losing count of the number of drone attacks on the besieged city of El Obeid in Sudan, but says the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, kill…",
+      "description": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, killi…",
       "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
       "source": "The Guardian",
       "publishedAt": "2026-07-04T12:43:43Z",

@@ -1,9 +1,41 @@
 {
-  "updated": "2026-07-05T15:14:09Z",
+  "updated": "2026-07-05T17:13:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "ans-b93c74838179",
+      "title": "Sondaggio Ft, per il 58% degli elettori Usa la guerra all'Iran non è valsa la spesa",
+      "description": "Il 53% pensa che Washington debba restare nella Nato, solo il 23% favorevole all'uscita",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/05/sondaggio-ft-per-il-58-degli-elettori-usa-la-guerra-alliran-non-e-valsa-la-spesa_3ab62177-d2d6-437f-a341-c38cc230624d.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-05T15:43:07Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/5/20/a8bdc838e6dd089c2c640792669c1d5b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-2ca45e4cc71a",
+      "title": "Ahead Of High-Stakes NATO Summit, Ex-US Envoy To OSCE James Gilmore Says Alliance Is Renewing Itself",
+      "description": "WASHINGTON – As NATO leaders prepare for a pivotal July 7-8 summit in Ankara amid Russia's war against Ukraine and renewed tensions in the Middle East, former US Ambassador to the Organization for Security and Cooperation in Europe (OSCE) James Gilmore says the alliance is undergoing a difficult but ultimately strength…",
+      "url": "https://www.rferl.org/a/33797187.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-07-05T15:19:04Z",
+      "image": "https://gdb.rferl.org/e2541294-07e7-4acb-bc21-8c95f3c2da28_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 16,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "fra-3ccb54d691f5",
       "title": "Iran's new Supreme Leader Mojtaba Khamenei absent from mass funeral for father",
@@ -20,24 +52,9 @@
       "tags": []
     },
     {
-      "id": "ans-cd219e5f866e",
-      "title": "Netanyahu, 'no alla ricostruzione di Gaza senza il disarmo di Hamas'",
-      "description": "Il premier: 'Fake news' divergenze con Trump su distruzione tunnel Hezbollah in Libano",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/05/netanyahu-no-alla-ricostruzione-di-gaza-senza-il-disarmo-di-hamas_274595ba-92ff-4415-9d8f-d587a441d076.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-05T14:46:35Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/5/27/bb53f03d2a44a849f42e4a0fa12f7983.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -b0974e772d3a",
-      "title": "At least 15 Yemeni government troops killed in Hodeidah fighting",
-      "description": "Yemeni minister says more than 50 Houthi fighters were killed in the Hodeidah clashes.",
+      "title": "Houthi rebels kill 16 Yemeni government troops in fiercest clashes in years",
+      "description": "Medical sources on the Red Sea coast report 16 dead from pro-government forces and 22 wounded.",
       "url": "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-07-05T13:46:32Z",
@@ -126,22 +143,6 @@
       "tags": []
     },
     {
-      "id": "rfe-72b5ea5678ae",
-      "title": "Ukraine Is Winning Its War On Russian Oil Refineries. On The Front Line, It's A Bloody Slugfest.",
-      "description": "Ukraine’s drone campaign on Russian gasoline refineries is wreaking havoc, leading to nationwide shortages, fraying tempers, and mounting headaches for the Kremlin. On the battlefield, however, Ukraine’s troops face a grim fight. Look at what’s happening in Kostyantynivka.",
-      "url": "https://www.rferl.org/a/russia-ukraine-donbas-war-kostyantynivka-/33795647.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-04T08:02:02Z",
-      "image": "https://gdb.rferl.org/b598c563-5a7c-426b-22f1-08de3be37656_cx0_cy14_cw0_w800_h450.jpeg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 14,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "npr-6c0e5c2550d1",
       "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
       "description": "Khamenei, who ruled Iran for more than three decades, was killed in an airstrike on Feb. 28 at the start of the U.S.-Israeli war against Iran.",
@@ -153,6 +154,21 @@
         "conflict"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-a0bb5da75526",
+      "title": "Kielce pogrom in Poland: 80th anniversary of 1946 massacre",
+      "description": "Just over a year after World War II ended, a mob in the Polish city of Kielce killed around 40 Jews, some of them Holocaust survivors. A lie about ritual child murder escalated the violence.",
+      "url": "https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-04T04:24:00Z",
+      "image": "https://static.dw.com/image/77818576_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -183,21 +199,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-14531b77e44b",
-      "title": "AI drones made in Germany see duty on Ukraine's front line",
-      "description": "The German defense company Helsing is supplying combat drones to Ukraine and will soon provide them to the German army. How effective are they on the front line? DW joined a Ukrainian combat mission to find out.",
-      "url": "https://www.dw.com/en/ai-drones-made-in-germany-see-duty-on-ukraine-s-front-line/a-77804928?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-03T04:38:00Z",
-      "image": "https://static.dw.com/image/76834238_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

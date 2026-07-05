@@ -1,9 +1,54 @@
 {
-  "updated": "2026-07-05T13:43:57Z",
+  "updated": "2026-07-05T15:14:09Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "fra-3ccb54d691f5",
+      "title": "Iran's new Supreme Leader Mojtaba Khamenei absent from mass funeral for father",
+      "description": "Ayatollah Ali Khamenei’s son and successor was not among the family members and thousands of mourners who turned out Sunday for a second day of ceremonies to honour Iran’s late supreme leader. Mojtaba Khamenei has remained out of the public eye since he was wounded in the strike that killed his father.",
+      "url": "https://www.france24.com/en/asia-pacific/20260705-iran-new-supreme-leader-mojtaba-khamenei-absent-from-mass-funeral-for-father",
+      "source": "France24",
+      "publishedAt": "2026-07-05T14:52:34Z",
+      "image": "https://s.france24.com/media/display/24284788-7878-11f1-9751-005056bf30b7/w:1024/p:16x9/AP26186357666870.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-cd219e5f866e",
+      "title": "Netanyahu, 'no alla ricostruzione di Gaza senza il disarmo di Hamas'",
+      "description": "Il premier: 'Fake news' divergenze con Trump su distruzione tunnel Hezbollah in Libano",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/05/netanyahu-no-alla-ricostruzione-di-gaza-senza-il-disarmo-di-hamas_274595ba-92ff-4415-9d8f-d587a441d076.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-05T14:46:35Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/5/27/bb53f03d2a44a849f42e4a0fa12f7983.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b0974e772d3a",
+      "title": "At least 15 Yemeni government troops killed in Hodeidah fighting",
+      "description": "Yemeni minister says more than 50 Houthi fighters were killed in the Hodeidah clashes.",
+      "url": "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-05T13:46:32Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4a3f03d3f3-1783250691.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "tim-4dd731376912",
       "title": "Daily Briefing July 5 – IDF chief’s plea for more troops collides with Haredi anti-draft push",
@@ -20,37 +65,6 @@
       "tags": []
     },
     {
-      "id": "al -ef158f388bb0",
-      "title": "Release Dr Hussam Abu Safia immediately!",
-      "description": "It’s been more than 1,000 days of genocide and 500 days of Abu Safia’s detention. We need urgent action to end both.",
-      "url": "https://www.aljazeera.com/opinions/2026/7/5/release-dr-hussam-abu-safia-immediately?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-05T10:56:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a312fe1-1781608417.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-a38c58d4a182",
-      "title": "Seconda apparizione pubblica al funerale di Khamenei per il capo dei Pasdaran",
-      "description": "Ahmad Vahidi non si era mostrato dai giorni della guerra per timore di essere assassinato",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/05/seconda-apparizione-pubblica-al-funerale-di-khamenei-per-il-capo-dei-pasdaran_d48e5ccd-c516-43e8-acc9-c86f7107ef80.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-05T10:26:13Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/e04c8037fc6ac104a421ef1a43283225.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -392aa248dfd5",
       "title": "Tehran sees crowds gather to pray on second day of funeral ceremonies for Iran's Ali Khamenei",
       "description": "Iranian President Masoud Pezeshkian attended the ceremony on Sunday, accompanied by Iranian allies and members of the team currently negotiating with the US after an initial ceasefire in the US-Israeli war against Iran.",
@@ -62,21 +76,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-3a1284b1f60c",
-      "title": "Live: Putin and Zelensky speak to Trump ahead of NATO summit in Turkey",
-      "description": "US President Donald Trump spoke with Russia's Vladimir Putin and Ukraine's Volodymyr Zelensky late Saturday to discuss the conflict in Ukraine ahead of a NATO summit in Ankara on July 7 and 8. Negotiations remain at an impasse, with Moscow demanding the withdrawal of Ukrainian forces from Ukraine's Donetsk region – a d…",
-      "url": "https://www.france24.com/en/europe/20260705-live-putin-and-zelensky-speak-to-trump-ahead-of-nato-summit-in-turkey",
-      "source": "France24",
-      "publishedAt": "2026-07-05T07:56:09Z",
-      "image": "https://s.france24.com/media/display/f5f454ae-7842-11f1-930b-005056a97e36/w:1024/p:16x9/Ukraine-live-1.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,23 +1,53 @@
 {
-  "updated": "2026-07-05T19:20:38Z",
+  "updated": "2026-07-05T21:03:06Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "tim-651f35bfeee2",
-      "title": "Why the first Jews in Colonial American nearly vanished - Sponsored Content",
-      "description": "A century before the Declaration of Independence, a boatload of Jewish refugees landed in New Amsterdam with no money, no synagogue, and a governor who desperately wanted them gone. The post Why the first Jews in Colonial American nearly vanished appeared first on The Times of Israel.",
-      "url": "https://toi.li/Hx8DXX",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-05T18:47:59Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2019/08/5870579-early-map-of-colonial-america-printed-in-england-in-1795--1024x640.jpg",
+      "id": "nik-df9fd9e7efa5",
+      "title": "A new European security architecture is needed to end war in Ukraine",
+      "description": "",
+      "url": "https://asia.nikkei.com/opinion/a-new-european-security-architecture-is-needed-to-end-war-in-ukraine",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-07-05T21:03:03Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F12682248-1-eng-GB%2F0883a62cfd4d-2026-07-02T054933Z_1184171808_RC2E5MA5MD7E_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-09b56acb582e",
+      "title": "IDF says Hezbollah cell hit in south Lebanon, warns it will attack if truce violated",
+      "description": "Military reports operatives spotted close to buffer zone; Zamir tours Beaufort Castle, nearby Hezbollah tunnels; Netanyahu claims Christian villages seek annexation to Israel The post IDF says Hezbollah cell hit in south Lebanon, warns it will attack if truce violated appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-says-hezbollah-cell-hit-in-south-lebanon-warns-it-will-attack-if-truce-violated/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-05T19:56:16Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/WhatsApp_Image_2026-07-05_at_11.02.50_3-1024x640.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-ddc678e5176a",
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "description": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-05T17:58:01Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f067/live/f76e6560-789a-11f1-9510-1546718f668b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -95,21 +125,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-0a6fbb1c8b9e",
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-04T18:41:25Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

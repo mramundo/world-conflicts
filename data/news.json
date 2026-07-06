@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-06T08:22:35Z",
+  "updated": "2026-07-06T12:49:50Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-new-european-security-architecture-is-needed-to-end-war-in-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-06T08:22:31Z",
+      "publishedAt": "2026-07-06T12:49:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F12682248-1-eng-GB%2F0883a62cfd4d-2026-07-02T054933Z_1184171808_RC2E5MA5MD7E_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,10 +21,85 @@
       "tags": []
     },
     {
-      "id": "npr-01b1dac0e840",
-      "title": "Russian missile and drone attack on Ukraine's capital kills at least 11",
-      "description": "Russia launched waves of missiles and drones targeting Kyiv early Monday that killed at least 11 people, authorities said.",
-      "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-11",
+      "id": "al -c762a0c9c14e",
+      "title": "El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?",
+      "description": "UN warns of &#039;catastrophe&#039; in el-Obeid after RSF atrocities in el-Fasher last year.",
+      "url": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-06T12:21:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-03T104245Z_656219531_RC2QZIA2ZKU2_RTRMADP_3_SUDAN-POLITICS-UN-1783329094.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-bccfb91f0985",
+      "title": "Ukraine warns of interceptor missile shortage as 19 killed in Kyiv region",
+      "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-06T12:15:43Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-231f158492d9",
+      "title": "Putin 'starting to understand he may not win' the war in Ukraine",
+      "description": "Russia struck Ukraine's Kyiv region with ballistic missiles and drones on July 7, killing at least 11 people and wounding dozens on the eve of a NATO summit in Turkey. This comes as, within Russia, the war has come under growing criticism as Ukraine has ramped up strikes inside the country and Russian casualties keep g…",
+      "url": "https://www.france24.com/en/putin-starting-to-understand-he-may-not-win-the-war-in-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-07-06T09:53:50Z",
+      "image": "https://s.france24.com/media/display/8bda68d0-5ab8-11f1-bb4a-005056bf30b7/w:1024/p:16x9/AP26145427709034.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-9d430a770653",
+      "title": "At least 14 killed in Russian strikes on Kyiv ahead of key NATO summit",
+      "description": "Zelensky urges alliance to bolster Ukraine's air defenses in face of deadly Russian attacks ahead of meeting with Trump on Wednesday in Ankara The post At least 14 killed in Russian strikes on Kyiv ahead of key NATO summit appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/at-least-14-killed-in-russian-strikes-on-kyiv-ahead-of-key-nato-summit/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-06T09:15:11Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26187080568010-e1783327910391-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -c1e6cb088ae6",
+      "title": "Ahead of summit, NATO eyes the security of Europe’s ports and bridges",
+      "description": "If war breaks out in Europe, the resilience of civilian hubs – such as ports – might be as critical as the size of armies. This will be a major theme of NATO’s annual summit.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0706/nato-summit-turkey-us-resilience-defense?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-07-06T09:00:10Z",
+      "image": "https://images.csmonitor.com/csm/2026/06/0706_ZONATORESILIENCE_map_LEDE.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-427383aef348",
+      "title": "Russian missile and drone attack on Ukraine's capital kills at least 12",
+      "description": "Russia launched waves of missiles and drones at Kyiv early Monday, killing at least 12 people in an attack that exposed widening gaps in Ukraine's air defenses, authorities said.",
+      "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12",
       "source": "NPR World",
       "publishedAt": "2026-07-06T07:41:08Z",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5394x3596+0+0/resize/5394x3596!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Fcf%2F1422e6114e15a3f6ef9de9c4000f%2Fap26187080827017.jpg",
@@ -32,68 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-acb65cc6161c",
-      "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
-      "description": "Eastern Europe correspondent Sarah Rainsford explains why Crimea is a target for Kyiv, and why the peninsula matters to Vladimir Putin.",
-      "url": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-06T06:00:05Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a10/live/c7cbf380-77c9-11f1-b976-0b9c15b0ccfc.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-3e8be940de15",
-      "title": "Live: Russian missile attack on Kyiv region kills several",
-      "description": "Russia struck Ukraine's Kyiv region with ballistic missiles on Monday, killing at least 11 people and wounding dozens, authorities said, on the eve of a NATO summit in Turkey. The assault was the second on the capital and its surroundings in less than a week and came as both sides increased long-range attacks, underlin…",
-      "url": "https://www.france24.com/en/europe/20260706-live-russia-launches-deadly-barrage-on-kyiv-region-on-eve-of-nato-summit",
-      "source": "France24",
-      "publishedAt": "2026-07-06T02:48:05Z",
-      "image": "https://s.france24.com/media/display/baf02ee2-78e6-11f1-96bc-005056bfb2b6/w:1024/p:16x9/AP26187080564257.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -80aacf3a39f5",
-      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-      "description": "The move underscores growing scrutiny of the conflict mineral trade fuelling violence in eastern DR Congo.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-06T02:10:37Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/getty_683f17da44-1748965338.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-3c8ab0425e74",
-      "title": "IDF veteran who self-immolated begs Knesset: Prioritize combat soldiers, not Torah study",
-      "description": "Addressing debate on Basic Law to declare Torah study foundational value, Itzik Saidyan says highest priority must be 'the ones who go into battle... who feel forgotten' The post IDF veteran who self-immolated begs Knesset: Prioritize combat soldiers, not Torah study appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-veteran-who-self-immolated-begs-knesset-prioritize-combat-soldiers-not-torah-study/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-05T21:43:15Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/OAM5681-1-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -142,6 +155,21 @@
       ],
       "relevanceScore": 16,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "un -efff8225d5bf",
+      "title": "As deadly as war and as powerful as governments, global organized crime remains in the shadows",
+      "description": "When people think of the world’s deadliest threats, armed conflicts usually come to mind first. Yet every year, organized crime quietly claims a comparable number of lives.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167867",
+      "source": "UN News",
+      "publishedAt": "2026-07-05T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/20-02-2026-UNICEF-Cell.jpeg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -202,21 +230,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -1c763508ddc5",
-      "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
-      "description": "The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167871",
-      "source": "UN News",
-      "publishedAt": "2026-07-03T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T18:55:56Z",
+  "updated": "2026-07-06T20:53:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-new-european-security-architecture-is-needed-to-end-war-in-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-06T18:55:52Z",
+      "publishedAt": "2026-07-06T20:53:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F12682248-1-eng-GB%2F0883a62cfd4d-2026-07-02T054933Z_1184171808_RC2E5MA5MD7E_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,37 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-046ae5583ac4",
+      "title": "Russia-Ukraine war escalates before NATO summit",
+      "description": "Russia pounds Kyiv ahead of NATO summit, as Ukraine war returns to center stage amid high-stakes diplomacy.",
+      "url": "https://www.npr.org/2026/07/06/nx-s1-5883752/russia-ukraine-war-escalates-before-nato-summit",
+      "source": "NPR World",
+      "publishedAt": "2026-07-06T20:37:06Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5883752",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -a248ce68d702",
+      "title": "Did the US-Israeli war against Iran save the Islamic Republic?",
+      "description": "Before the U.S.-Israeli war, the Iranian regime appeared to face an existential threat stemming from its violent repression of dissent in January and chronic grievances over corruption and the economy. But now the Islamic Republic is exuding bold confidence.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0706/khamenei-funeral-iran-war-regime-strength?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-07-06T19:40:22Z",
+      "image": "https://images.csmonitor.com/csm/2026/07/0706_OIRANSTRONG_FUNERAL_LEDE.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -103,36 +134,6 @@
       "source": "UN News",
       "publishedAt": "2026-07-06T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/01-07-2026-UNOCHA-Ukraine-06.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -c1e6cb088ae6",
-      "title": "Ahead of summit, NATO eyes the security of Europe’s ports and bridges",
-      "description": "If war breaks out in Europe, the resilience of civilian hubs – such as ports – might be as critical as the size of armies. This will be a major theme of NATO’s annual summit.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0706/nato-summit-turkey-us-resilience-defense?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-07-06T09:00:10Z",
-      "image": "https://images.csmonitor.com/csm/2026/06/0706_ZONATORESILIENCE_map_LEDE.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-427383aef348",
-      "title": "Russian missile and drone attack on Ukraine's capital kills at least 12",
-      "description": "Russia launched waves of missiles and drones at Kyiv early Monday, killing at least 12 people in an attack that exposed widening gaps in Ukraine's air defenses, authorities said.",
-      "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12",
-      "source": "NPR World",
-      "publishedAt": "2026-07-06T07:41:08Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5394x3596+0+0/resize/5394x3596!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Fcf%2F1422e6114e15a3f6ef9de9c4000f%2Fap26187080827017.jpg",
       "categories": [
         "conflict"
       ],

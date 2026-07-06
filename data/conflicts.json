@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T12:50:02Z",
+  "updated": "2026-07-06T16:21:33Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-07-05T19:19:01Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-07-06",
       "wikipediaRevision": "2026-07-06T10:29:55Z",
-      "recentNewsCount": 7
+      "recentNewsCount": 6
     },
     {
       "id": "il-ps",
@@ -46,8 +46,8 @@
       ],
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-07-06",
-      "wikipediaRevision": "2026-07-06T12:00:27Z",
-      "recentNewsCount": 2
+      "wikipediaRevision": "2026-07-06T14:02:37Z",
+      "recentNewsCount": 3
     },
     {
       "id": "sd-war",
@@ -290,9 +290,9 @@
         "Terrorism"
       ],
       "wikipediaPage": "Republican_insurgency_in_Afghanistan",
-      "lastUpdate": "2026-07-05",
+      "lastUpdate": "2026-07-06",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-07-05T01:50:46Z",
+      "wikipediaRevision": "2026-07-06T13:12:13Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     },
     {
       "id": "et-am",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     }
   ]
 }

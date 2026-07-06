@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-06T12:49:50Z",
+  "updated": "2026-07-06T16:21:24Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-new-european-security-architecture-is-needed-to-end-war-in-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-06T12:49:46Z",
+      "publishedAt": "2026-07-06T16:21:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F12682248-1-eng-GB%2F0883a62cfd4d-2026-07-02T054933Z_1184171808_RC2E5MA5MD7E_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,51 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-bccfb91f0985",
+      "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
+      "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-06T15:09:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-e80d40856e75",
+      "title": "Trump, 'Putin vuole finire la guerra in Ucraina, ne parleremo alla Nato'",
+      "description": "'Anche Zelensky lo vuole'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/06/trump-putin-vuole-finire-la-guerra-in-ucraina-ne-parleremo-alla-nato_732135c9-d7cd-4b86-8c08-1e85e3820b52.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-06T14:15:25Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/6/6d41f21bacef87330d87ec3441b456e0.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-f814ad76f867",
+      "title": "Iranians struggle as ongoing economic crisis shows no sign of abatting",
+      "description": "Across Iran, families are grappling with soaring living costs, as the combined weight of war, subsidy reforms and sanctions pushes basic necessities beyond the reach of many. Some Iranians had hoped foreign intervention would unseat the regime - instead, the US-Israel war has crushed livelihoods.",
+      "url": "https://www.france24.com/en/iranians-struggle-as-ongoing-economic-crisis-shows-no-sign-of-abatting",
+      "source": "France24",
+      "publishedAt": "2026-07-06T13:43:08Z",
+      "image": "https://s.france24.com/media/display/35b4fcf0-4950-11f1-84e0-005056a97e36/w:1024/p:16x9/2026-04-30T120348Z-1518127107-RC2DYKAZR6M5-RTRMADP-3-IRAN-CRISIS-ECONOMY.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -36,32 +81,17 @@
       "tags": []
     },
     {
-      "id": "bbc-bccfb91f0985",
-      "title": "Ukraine warns of interceptor missile shortage as 19 killed in Kyiv region",
-      "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-06T12:15:43Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg",
+      "id": "un -d825eff7e876",
+      "title": "From AI to ‘killer robots’: UN chief issues urgent governance call",
+      "description": "UN chief&nbsp;António Guterres&nbsp;appealed on Monday for far-reaching, worldwide controls on Artificial Intelligence, as increasingly powerful AI chips that are designed for civilian use shift to the battlefield, where “killer robots” are already the norm.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167873",
+      "source": "UN News",
+      "publishedAt": "2026-07-06T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/25-06-26_World_Bank_India_Agriculture-1.jpeg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-231f158492d9",
-      "title": "Putin 'starting to understand he may not win' the war in Ukraine",
-      "description": "Russia struck Ukraine's Kyiv region with ballistic missiles and drones on July 7, killing at least 11 people and wounding dozens on the eve of a NATO summit in Turkey. This comes as, within Russia, the war has come under growing criticism as Ukraine has ramped up strikes inside the country and Russian casualties keep g…",
-      "url": "https://www.france24.com/en/putin-starting-to-understand-he-may-not-win-the-war-in-ukraine",
-      "source": "France24",
-      "publishedAt": "2026-07-06T09:53:50Z",
-      "image": "https://s.france24.com/media/display/8bda68d0-5ab8-11f1-bb4a-005056bf30b7/w:1024/p:16x9/AP26145427709034.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,28 +141,28 @@
       "tags": []
     },
     {
-      "id": "le -7c8c1041b8c1",
-      "title": "Netanyahu says some Lebanese Christian villages 'asked to be annexed' by Israel",
-      "description": "Israeli Prime Minister Benjamin Netanyahu insisted on Sunday that some Christian villages in southern Lebanon have asked for Israel's protection from Hezbollah militants. A mayor of one such Christian village denies the claim, adding that '15 Christian towns had issued a statement' also denying these allegations.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/05/netanyahu-says-some-lebanese-christian-villages-asked-to-be-annexed-by-israel_6755174_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-05T21:20:13Z",
-      "image": "https://img.lemde.fr/2026/07/05/117/0/3814/1907/644/322/60/0/9ff8569_ftp-1-uee2s62mq408-5539347-01-06.jpg",
+      "id": "the-1b5b0a8ddd4a",
+      "title": "Fresh Russian Attack on Kyiv Kills At Least 11",
+      "description": "The combined drone and missile attack comes just a few days after the deadliest Russian assault on the Ukrainian capital this year.",
+      "url": "https://www.themoscowtimes.com/2026/07/06/fresh-russian-attack-on-kyiv-kills-at-least-11-a93168",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-07-06T07:31:37Z",
+      "image": "https://static.themoscowtimes.com/image/og/58/93168__581ff1f0d53d18bf7ae4b5952835eb8f.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "ans-0e99b0b3e5c4",
-      "title": "'Trump vuole contattare Putin dopo l'incontro di Ankara con Zelensky'",
-      "description": "Secondo alto funzionario Usa rientra negli sforzi per chiudere la guerra",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/05/trump-vuole-contattare-putin-dopo-lincontro-di-ankara-con-zelensky_c29b4bfa-612c-4b69-8106-47c911823d70.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-05T21:09:27Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/8765ea3cdd81630243e4c03a7b72d398.jpg",
+      "id": "deu-23afde08111d",
+      "title": "Students leave Gaza to continue studies, others in limbo",
+      "description": "Israel's war on Hamas has shattered Gaza's education system, leaving students desperate to continue their studies abroad and schools expanding online teaching.",
+      "url": "https://www.dw.com/en/students-leave-gaza-to-continue-studies-others-in-limbo/a-77816921?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-05T16:28:00Z",
+      "image": "https://static.dw.com/image/77824812_6.jpg",
       "categories": [
         "conflict"
       ],
@@ -155,21 +185,6 @@
       ],
       "relevanceScore": 16,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -efff8225d5bf",
-      "title": "As deadly as war and as powerful as governments, global organized crime remains in the shadows",
-      "description": "When people think of the world’s deadliest threats, armed conflicts usually come to mind first. Yet every year, organized crime quietly claims a comparable number of lives.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167867",
-      "source": "UN News",
-      "publishedAt": "2026-07-05T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/20-02-2026-UNICEF-Cell.jpeg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -200,36 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-a0bb5da75526",
-      "title": "Kielce pogrom in Poland: 80th anniversary of 1946 massacre",
-      "description": "Just over a year after World War II ended, a mob in the Polish city of Kielce killed around 40 Jews, some of them Holocaust survivors. A lie about ritual child murder escalated the violence.",
-      "url": "https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-04T04:24:00Z",
-      "image": "https://static.dw.com/image/77818576_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-f8eef288fa21",
-      "title": "5 Killed in Ukrainian Strike on Market in Occupied Zaporizhzhia, Pro-Kremlin Official Says",
-      "description": "Another 18 people were said to have been wounded in the afternoon attack on an open-air market in the city of Tokmak.",
-      "url": "https://www.themoscowtimes.com/2026/07/03/5-killed-in-ukrainian-strike-on-market-in-occupied-zaporizhzhia-pro-kremlin-official-says-a93162",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-07-03T15:02:42Z",
-      "image": "https://static.themoscowtimes.com/image/og/3d/93162__3d5e22d98d004760d185c61aa0e7d0ab.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     }

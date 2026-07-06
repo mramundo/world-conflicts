@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:53:32Z",
+  "updated": "2026-07-06T22:14:39Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-new-european-security-architecture-is-needed-to-end-war-in-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-06T20:53:29Z",
+      "publishedAt": "2026-07-06T22:14:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F12682248-1-eng-GB%2F0883a62cfd4d-2026-07-02T054933Z_1184171808_RC2E5MA5MD7E_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-bccfb91f0985",
+      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+      "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-06T21:02:37Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -37,6 +52,22 @@
       "tags": []
     },
     {
+      "id": "al -f84711a43342",
+      "title": "What is the fallout of the increasing violence in Mali?",
+      "description": "Coalition of rebels and armed groups carries out another series of attacks.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/6/what-is-the-fallout-of-the-increasing-violence-in-mali?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-06T20:11:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783364064.jpg?resize=1920%2C1061&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "cs -a248ce68d702",
       "title": "Did the US-Israeli war against Iran save the Islamic Republic?",
       "description": "Before the U.S.-Israeli war, the Iranian regime appeared to face an existential threat stemming from its violent repression of dissent in January and chronic grievances over corruption and the economy. But now the Islamic Republic is exuding bold confidence.",
@@ -48,36 +79,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -34f6f9f44a01",
-      "title": "Lebanon latest: Teacher killed by Israeli airstrike",
-      "description": "Al Jazeera’s Heidi Pett brings you the latest from Lebanon, where Israeli strikes continue despite a ‘ceasefire’.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-06T16:10:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783353948.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-bccfb91f0985",
-      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-      "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-06T15:09:57Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

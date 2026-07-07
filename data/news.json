@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-07T11:52:30Z",
+  "updated": "2026-07-07T14:39:53Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/asean-money/southeast-asian-tourism-pivots-on-iran-war-as-travelers-stay-local",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-07T11:52:26Z",
+      "publishedAt": "2026-07-07T14:39:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F0%2F5%2F12675043-1-eng-GB%2F094a316bf603-20260625-1N9A8211_Photo-by-Ken-Kobayashi.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -25,12 +25,73 @@
       "description": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
       "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-07-07T11:42:40Z",
+      "publishedAt": "2026-07-07T14:08:57Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59ce/live/2103aa00-79f6-11f1-bee8-53ce494e1abc.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-62edd5dc8d66",
+      "title": "Nato summit faces tricky diplomacy with Trump over his defense spending demands | First Thing",
+      "description": "Leaders meeting in Ankara urged to show concrete steps towards increasing their budget contribution. Plus, why Madonna’s new album is a triumphGood morning. Nato leaders will gather in Ankara today for their latest summit after a turbulent six months, hoping to mollify an unpredictable Donald Trump, as Washington conti…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/07/first-thing-nato-summit-tricky-diplomacy-trump-defense-spending-demands",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-07T13:34:50Z",
+      "image": "https://i.guim.co.uk/img/media/b3ced592716fd22489448f1b509c73a6df828e68/521_697_3936_3149/master/3936.jpg?width=140&quality=85&auto=format&fit=max&s=8c772f27ac12f26d4d5c733ce99477a3",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-850de0ff4625",
+      "title": "Man killed, another seriously wounded in shooting in northern Arab town of Tamra",
+      "description": "Police searching for suspects; homicide brings Arab Israeli community toll to 153 this year as deadly wave of violence continues unabated The post Man killed, another seriously wounded in shooting in northern Arab town of Tamra appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/man-killed-another-seriously-wounded-in-shooting-in-northern-arab-town-of-tamra/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-07T12:57:12Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2021/02/F190823YS06-e1613219407889-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-849c8176ba6f",
+      "title": "Ukraine: Suspect in Monaco bomb attack found dead near Kyiv",
+      "description": "Ukrainain prosecutors say the body of the woman suspected of the bombing that targeted businessman Vadym Yermolaiev was found near Kyiv. Police said they had detained two individuals suspected of murdering her.",
+      "url": "https://www.dw.com/en/ukraine-suspect-in-monaco-bomb-attack-found-dead-near-kyiv/a-77863128?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-07T12:29:00Z",
+      "image": "https://static.dw.com/image/77822925_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -c8ebcfd7f496",
+      "title": "Ukrainian woman suspected of Monaco bombing shot dead near Kyiv, police says",
+      "description": "Anastasiia Berezovska was wanted in Monaco for the attempted murder of three people on June 29 after a parcel bomb was left on a public road near the French border.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/07/ukrainian-woman-suspected-of-monaco-bombing-shot-dead-near-kyiv-police-says_6755233_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-07T12:10:28Z",
+      "image": "https://img.lemde.fr/2026/07/03/148/0/4029/2014/644/322/60/0/d591f3b_ftp-1-tdisuthgx9va-5518689-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,13 +112,13 @@
       "tags": []
     },
     {
-      "id": "le -dd70c4c53d79",
-      "title": "Ukraine dreams of becoming the 'arsenal of the free world' as allies are still unsure on how far they want cooperation to go",
-      "description": "Many European countries seemed torn between the desire to contribute to Ukraine's war effort, the need to maintain a degree of strategic ambiguity regarding their defense industry cooperation and the fear of seeing a new competitor emerge.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/07/ukraine-dreams-of-becoming-the-arsenal-of-the-free-world-as-allies-are-still-unsure-on-how-far-they-want-cooperation-to-go_6755228_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-07T09:00:11Z",
-      "image": "https://img.lemde.fr/2026/06/25/500/0/6000/3000/644/322/60/0/4cce2a9_ftp-1-r05ny32a2q1p-2026-06-25t120305z-1147420639-rc2ygkay1j99-rtrmadp-3-ukraine-crisis-fire-point.JPG",
+      "id": "ans-d85067697975",
+      "title": "Media ucraini, trovata uccisa a Kiev donna sospettata di attentato a Monaco",
+      "description": "Raggiunta da colpi di arma da fuoco",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/07/media-ucraini-trovata-uccisa-a-kiev-donna-sospettata-di-attentato-a-monaco_86292ae3-9802-4a96-a3c9-5b40ee4a4ee3.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-07T08:26:31Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/3/71a22109733a3fb63729bd6cc796e8fb.jpg",
       "categories": [
         "conflict"
       ],
@@ -66,17 +127,17 @@
       "tags": []
     },
     {
-      "id": "al -fac64c289904",
-      "title": "Palestine weekly: One thousand days of genocide in Gaza",
-      "description": "Gaza marks 1,000 days of Israel&#039;s genocidal war, with at least 1,072 killed since October &#039;ceasefire&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
+      "id": "al -ca990dca1a76",
+      "title": "Russia touts ‘war with NATO’ amid losses in Ukraine",
+      "description": "As Russia faces challenges on the frontlines and at home, President Putin&#039;s backers decry Kyiv&#039;s Western allies.",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russia-touts-war-with-nato-amid-losses-in-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-07T05:48:37Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T131201Z_447910098_RC2D8MA25I50_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1783388351.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-07T08:22:39Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-04T051849Z_8299436_RC2T6MAFW0BO_RTRMADP_3_UKRAINE-CRISIS-KOSTIANTYNIVKA-CAPTURE-1783374126-1-1783414738.jpg?resize=1920%2C1112",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -127,21 +188,6 @@
       "tags": []
     },
     {
-      "id": "ans-e80d40856e75",
-      "title": "Trump, 'Putin vuole finire la guerra in Ucraina, ne parleremo alla Nato'",
-      "description": "'Anche Zelensky lo vuole'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/06/trump-putin-vuole-finire-la-guerra-in-ucraina-ne-parleremo-alla-nato_732135c9-d7cd-4b86-8c08-1e85e3820b52.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-06T14:15:25Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/6/6d41f21bacef87330d87ec3441b456e0.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -798bf1745b48",
       "title": "Ukraine: Latest Russian assault leaves at least 14 dead in Kyiv",
       "description": "Russian strikes on the Ukrainian capital Kyiv killed at least 14 civilians and injured more than 80 others overnight on Monday, according to local authorities.",
@@ -172,21 +218,6 @@
       "tags": []
     },
     {
-      "id": "deu-23afde08111d",
-      "title": "Students leave Gaza to continue studies, others in limbo",
-      "description": "Israel's war on Hamas has shattered Gaza's education system, leaving students desperate to continue their studies abroad and schools expanding online teaching.",
-      "url": "https://www.dw.com/en/students-leave-gaza-to-continue-studies-others-in-limbo/a-77816921?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-05T16:28:00Z",
-      "image": "https://static.dw.com/image/77824812_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-2ca45e4cc71a",
       "title": "Ahead Of High-Stakes NATO Summit, Ex-US Envoy To OSCE James Gilmore Says Alliance Is Renewing Itself",
       "description": "WASHINGTON – As NATO leaders prepare for a pivotal July 7-8 summit in Ankara amid Russia's war against Ukraine and renewed tensions in the Middle East, former US Ambassador to the Organization for Security and Cooperation in Europe (OSCE) James Gilmore says the alliance is undergoing a difficult but ultimately strength…",
@@ -201,22 +232,6 @@
       ],
       "relevanceScore": 16,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-320d6c401b2a",
-      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "description": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, killi…",
-      "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-04T15:14:18Z",
-      "image": "https://i.guim.co.uk/img/media/44e2787e66b60b8c57b8311b2fe08158f3630873/289_0_4923_3939/master/4923.jpg?width=140&quality=85&auto=format&fit=max&s=468d020df4a8981b27163738056b2d30",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     }
   ]

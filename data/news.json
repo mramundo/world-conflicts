@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-07T04:53:15Z",
+  "updated": "2026-07-07T08:24:14Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-new-european-security-architecture-is-needed-to-end-war-in-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-07T04:53:11Z",
+      "publishedAt": "2026-07-07T08:24:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F12682248-1-eng-GB%2F0883a62cfd4d-2026-07-02T054933Z_1184171808_RC2E5MA5MD7E_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,20 +21,18 @@
       "tags": []
     },
     {
-      "id": "al -79a6b9fddaa1",
-      "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
-      "description": "How fighting for el-Obeid could shape both Sudan&#039;s war and its humanitarian crisis.",
-      "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
+      "id": "al -fac64c289904",
+      "title": "Palestine weekly: One thousand days of genocide in Gaza",
+      "description": "Gaza marks 1,000 days of Israel&#039;s genocidal war, with at least 1,072 killed since October &#039;ceasefire&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-07T00:34:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260629__B8NF8G3__v1__HighRes__SudanConflictRsfArmyElObeid-1783076077.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-07T05:48:37Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T131201Z_447910098_RC2D8MA25I50_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1783388351.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -95,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-2692d0951fb8",
-      "title": "West Bank arts fest returns for first time since Gaza war, in ‘act of resistance’",
-      "description": "'Without music and joy, for me there is no life,' says participant, as Palestinian and Arab Israeli artists take part in 11-day celebration of Palestinian identity in Ramallah The post West Bank arts fest returns for first time since Gaza war, in &#8216;act of resistance&#8217; appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/west-bank-arts-fest-returns-for-first-time-since-gaza-war-in-act-of-resistance/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-06T15:03:20Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/Untitled-5-e1783347856694-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

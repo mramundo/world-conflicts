@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-07T17:17:27Z",
+  "updated": "2026-07-07T19:58:14Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 15,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/asean-money/southeast-asian-tourism-pivots-on-iran-war-as-travelers-stay-local",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-07T17:17:25Z",
+      "publishedAt": "2026-07-07T19:58:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F0%2F5%2F12675043-1-eng-GB%2F094a316bf603-20260625-1N9A8211_Photo-by-Ken-Kobayashi.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,63 @@
       "tags": []
     },
     {
+      "id": "fra-614f1056e214",
+      "title": "Woman suspected of Monaco bombing is found dead in Ukraine, authorities say",
+      "description": "The woman suspected of trying to kill a Ukrainian business tycoon in a bombing attack in Monaco last week was found dead in Ukraine with gunshot wounds to the head, Ukraine’s Security Service said on Tuesday. FRANCE 24's Morgan Ayre reports.",
+      "url": "https://www.france24.com/en/woman-suspected-of-monaco-bombing-is-found-dead-in-ukraine-authorities-say",
+      "source": "France24",
+      "publishedAt": "2026-07-07T19:27:39Z",
+      "image": "https://s.france24.com/media/display/768f8ae6-7a39-11f1-8283-005056bf30b7/w:1024/p:16x9/EN-20260707-211744-211852-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-84bd5b5ee549",
       "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
       "description": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
       "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-07-07T16:31:04Z",
+      "publishedAt": "2026-07-07T17:58:48Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59ce/live/2103aa00-79f6-11f1-bee8-53ce494e1abc.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -43f608e672e3",
+      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+      "description": "The US has imposed sanctions on Rwandan companies it says helped finance armed groups through the illicit minerals trade",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-07T17:23:21Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783444978.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-cf314a4e06b9",
+      "title": "Nato should let Ukraine join to ‘make all of us stronger’, says Zelenskyy",
+      "description": "Ukraine’s president argues defensive capabilities built up in war with Russia mean it shouldn’t be excludedEurope live – latest updatesVolodymyr Zelenskyy has argued for Ukraine to be allowed to join Nato at its annual summit – saying it would be wrong to exclude a country that had built up strong defences in its long …",
+      "url": "https://www.theguardian.com/world/2026/jul/07/zelenskyy-nato-let-ukraine-join-make-stronger",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-07T17:05:42Z",
+      "image": "https://i.guim.co.uk/img/media/724e14608ce0b3470ce1683bf396b04ff6b7a67e/273_0_2568_2055/master/2568.jpg?width=140&quality=85&auto=format&fit=max&s=d66f6b2a94efd6ef76add702adbb63cd",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,18 +96,19 @@
       "tags": []
     },
     {
-      "id": "fra-195b0a0ecdb6",
-      "title": "Hamas withdrawal from Gaza governance a bid to unblock 'deadlocked' peace plan",
-      "description": "Nearly 20 years after taking power in Gaza, Hamas said on Monday it would hand over control of the territory to a committee of Palestinian technocrats. The move is a bid to get the ball rolling on the second phase of a peace plan backed by US President Donald Trump and wrest some control of the territory from Israel's …",
-      "url": "https://www.france24.com/en/middle-east/20260707-hamas-withdrawal-from-gaza-governance-a-bid-to-unblock-deadlocked-peace-plan",
-      "source": "France24",
-      "publishedAt": "2026-07-07T15:14:06Z",
-      "image": "https://s.france24.com/media/display/a19cfda0-7970-11f1-9a3d-005056bfb2b6/w:1024/p:16x9/AP26187389778454.jpg",
+      "id": "le -8034d9c8bad5",
+      "title": "How Malian jihadists and pro-independence groups joined forces to overthrow the junta",
+      "description": "For years, jihadists from JNIM and pro-independence fighters from the FLA harbored deadly hatred for each other. But they put their differences aside to confront their common enemy: the ruling junta in Bamako. Since April 25, they have launched a major offensive.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/07/07/how-malian-jihadists-and-pro-independence-groups-joined-forces-to-overthrow-the-junta_6755235_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-07T13:19:42Z",
+      "image": "https://img.lemde.fr/2026/07/04/437/0/5244/2622/644/322/60/0/35b46bf_upload-1-gzrucklpzzuf-000-b2492n9.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -80,37 +127,6 @@
       "tags": []
     },
     {
-      "id": "le -c8ebcfd7f496",
-      "title": "Ukrainian woman suspected of Monaco bombing shot dead near Kyiv, police says",
-      "description": "Anastasiia Berezovska was wanted in Monaco for the attempted murder of three people on June 29 after a parcel bomb was left on a public road near the French border.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/07/ukrainian-woman-suspected-of-monaco-bombing-shot-dead-near-kyiv-police-says_6755233_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-07T12:10:28Z",
-      "image": "https://img.lemde.fr/2026/07/03/148/0/4029/2014/644/322/60/0/d591f3b_ftp-1-tdisuthgx9va-5518689-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -d3a44bbe065b",
-      "title": "What is the new Gaza administration as Hamas dissolves government?",
-      "description": "The NCAG will oversee civilian affairs such as health and education, as well as security.",
-      "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-07T10:38:03Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26187389752765-1783413634.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "ans-d85067697975",
       "title": "Media ucraini, trovata uccisa a Kiev donna sospettata di attentato a Monaco",
       "description": "Raggiunta da colpi di arma da fuoco",
@@ -122,22 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-046ae5583ac4",
-      "title": "Russia-Ukraine war escalates before NATO summit",
-      "description": "Russia pounds Kyiv ahead of NATO summit, as Ukraine war returns to center stage amid high-stakes diplomacy.",
-      "url": "https://www.npr.org/2026/07/06/nx-s1-5883752/russia-ukraine-war-escalates-before-nato-summit",
-      "source": "NPR World",
-      "publishedAt": "2026-07-06T20:37:06Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5883752",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -168,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-e4b264a9e390",
-      "title": "Middle East crisis: Funeral procession for supreme leader Ali Khamenei begins in Iran – as it happened",
-      "description": "Millions join funeral procession in capital of Tehran to mourn Khamenei who was kiled in US-Israel airstrikes in FebruaryLebanese state media said an Israeli strike on a car in the country’s south on Monday killed four people, including three women, despite a fragile ceasefire between Israel and Hezbollah.Lebanon’s off…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-06T15:58:04Z",
-      "image": "https://i.guim.co.uk/img/media/1f9581f0a6402e1827a05f15c4bd4167805c55e7/55_0_1881_1504/master/1881.jpg?width=140&quality=85&auto=format&fit=max&s=dab6268201b83eae150dd329d1b7a657",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

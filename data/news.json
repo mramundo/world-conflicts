@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-07T00:09:26Z",
+  "updated": "2026-07-07T04:53:15Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-new-european-security-architecture-is-needed-to-end-war-in-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-07T00:09:22Z",
+      "publishedAt": "2026-07-07T04:53:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F12682248-1-eng-GB%2F0883a62cfd4d-2026-07-02T054933Z_1184171808_RC2E5MA5MD7E_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,38 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -79a6b9fddaa1",
+      "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
+      "description": "How fighting for el-Obeid could shape both Sudan&#039;s war and its humanitarian crisis.",
+      "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-07T00:34:41Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260629__B8NF8G3__v1__HighRes__SudanConflictRsfArmyElObeid-1783076077.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -7b6120862cf1",
+      "title": "Netanyahu government's legal coup challenges Israel's justice system: 'The final nail in the coffin of democracy'",
+      "description": "By declaring he would not comply with a Supreme Court ruling, Israeli Prime Minister Benjamin Netanyahu is directly confronting the country's highest legal authority, plunging Israel into a constitutional crisis.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/07/netanyahu-government-s-legal-coup-challenges-israel-s-justice-system-the-final-nail-in-the-coffin-of-democracy_6755216_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-07T00:02:45Z",
+      "image": "https://img.lemde.fr/2026/07/05/399/0/4790/2395/644/322/60/0/9802455_ftp-1-3qtifstjrqdh-5539398-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -36,21 +68,6 @@
       "tags": []
     },
     {
-      "id": "bbc-bccfb91f0985",
-      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-      "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-06T21:02:37Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-046ae5583ac4",
       "title": "Russia-Ukraine war escalates before NATO summit",
       "description": "Russia pounds Kyiv ahead of NATO summit, as Ukraine war returns to center stage amid high-stakes diplomacy.",
@@ -64,22 +81,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f84711a43342",
-      "title": "What is the fallout of the increasing violence in Mali?",
-      "description": "Coalition of rebels and armed groups carries out another series of attacks.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/6/what-is-the-fallout-of-the-increasing-violence-in-mali?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-06T20:11:31Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783364064.jpg?resize=1920%2C1061&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -155,6 +156,22 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-acb65cc6161c",
+      "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin",
+      "description": "Eastern Europe correspondent Sarah Rainsford explains why Crimea is a target for Kyiv, and why the peninsula matters to Vladimir Putin.",
+      "url": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-06T06:00:05Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a10/live/c7cbf380-77c9-11f1-b976-0b9c15b0ccfc.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {

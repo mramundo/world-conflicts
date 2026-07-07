@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T22:14:39Z",
+  "updated": "2026-07-07T00:09:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-new-european-security-architecture-is-needed-to-end-war-in-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-06T22:14:35Z",
+      "publishedAt": "2026-07-07T00:09:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F12682248-1-eng-GB%2F0883a62cfd4d-2026-07-02T054933Z_1184171808_RC2E5MA5MD7E_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-7ea37f77ffe5",
+      "title": "Russian missile and drone strikes kill 24 in Kyiv ahead of NATO summit",
+      "description": "Russia launched a deadly barrage of missiles and drones on Kyiv on Monday, killing at least 24 people and wounding more than 100 in its second major strike on the capital in a week. The attack came on the eve of a NATO summit, where President Volodymyr Zelensky is expected to press allies for stronger air defence suppo…",
+      "url": "https://www.france24.com/en/europe/20260706-russian-missile-and-drone-strikes-kill-24-in-kyiv-ahead-of-nato-summit",
+      "source": "France24",
+      "publishedAt": "2026-07-06T22:45:39Z",
+      "image": "https://s.france24.com/media/display/89d179d6-7938-11f1-b143-005056a90284/w:1024/p:16x9/0395c72ba74c028f48b3c34af6a9935c6ca02382.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -105,21 +120,6 @@
       "source": "ANSA",
       "publishedAt": "2026-07-06T14:15:25Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/6/6d41f21bacef87330d87ec3441b456e0.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-f814ad76f867",
-      "title": "Iranians struggle as ongoing economic crisis shows no sign of abatting",
-      "description": "Across Iran, families are grappling with soaring living costs, as the combined weight of war, subsidy reforms and sanctions pushes basic necessities beyond the reach of many. Some Iranians had hoped foreign intervention would unseat the regime - instead, the US-Israel war has crushed livelihoods.",
-      "url": "https://www.france24.com/en/iranians-struggle-as-ongoing-economic-crisis-shows-no-sign-of-abatting",
-      "source": "France24",
-      "publishedAt": "2026-07-06T13:43:08Z",
-      "image": "https://s.france24.com/media/display/35b4fcf0-4950-11f1-84e0-005056a97e36/w:1024/p:16x9/2026-04-30T120348Z-1518127107-RC2DYKAZR6M5-RTRMADP-3-IRAN-CRISIS-ECONOMY.jpg",
       "categories": [
         "conflict"
       ],

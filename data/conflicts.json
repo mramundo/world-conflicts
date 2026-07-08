@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T16:41:06Z",
+  "updated": "2026-07-08T18:19:28Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-07-07T23:01:59Z",
   "items": [
@@ -46,8 +46,8 @@
       ],
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-07-08",
-      "wikipediaRevision": "2026-07-08T12:04:06Z",
-      "recentNewsCount": 2
+      "wikipediaRevision": "2026-07-08T18:10:16Z",
+      "recentNewsCount": 3
     },
     {
       "id": "sd-war",
@@ -247,8 +247,8 @@
         "Crime war"
       ],
       "wikipediaPage": "Mexican_drug_war",
-      "lastUpdate": "2026-07-07",
-      "wikipediaRevision": "2026-07-07T05:36:34Z",
+      "lastUpdate": "2026-07-08",
+      "wikipediaRevision": "2026-07-08T17:58:04Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 6
+      "recentNewsCount": 7
     },
     {
       "id": "et-am",
@@ -406,7 +406,7 @@
       "lastUpdate": "2026-06-08",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-06-08T19:44:24Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "red-sea",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     }
   ]
 }

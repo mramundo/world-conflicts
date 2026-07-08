@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T23:03:48Z",
+  "updated": "2026-07-08T02:52:05Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/asean-money/southeast-asian-tourism-pivots-on-iran-war-as-travelers-stay-local",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-07T23:03:43Z",
+      "publishedAt": "2026-07-08T02:52:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F0%2F5%2F12675043-1-eng-GB%2F094a316bf603-20260625-1N9A8211_Photo-by-Ken-Kobayashi.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a02cad0a881c",
+      "title": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
+      "description": "The US-Israel war on Iran is forcing African governments to rethink their security and economic priorities.",
+      "url": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-08T01:04:26Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26124419258830-1783382378_4d7b33-1783392578.jpg?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-46d2cdfe6bcf",
+      "title": "US strikes Iran, revokes oil sanctions waiver after attacks on tankers in Hormuz",
+      "description": "Islamic Republic threatens 'crushing response' following launch of 'powerful' strikes that US says targeted air defenses, missiles and IRGC small boats; Riyadh slams Tehran for attacking Saudi and Qatari ships The post US strikes Iran, revokes oil sanctions waiver after attacks on tankers in Hormuz appeared first on Th…",
+      "url": "https://www.timesofisrael.com/us-strikes-iran-revokes-oil-sanctions-waiver-after-attacks-on-tankers-in-hormuz/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-08T00:44:03Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26188635373826-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -61,37 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -43f608e672e3",
-      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-      "description": "The US has imposed sanctions on Rwandan companies it says helped finance armed groups through the illicit minerals trade",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-07T17:23:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783444978.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-9e8660ea9887",
-      "title": "Poll: Third of US Jews say Israel committed genocide in Gaza, as broader support dives",
-      "description": "Only 2 in 10 Americans say Israel did not commit genocide, while half don't know enough to say; 58% of Dems think US too supportive of Israel; only 20% have positive view of Netanyahu The post Poll: Third of US Jews say Israel committed genocide in Gaza, as broader support dives appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/poll-third-of-us-jews-say-israel-committed-genocide-in-gaza-as-broader-support-dives/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-07T15:16:58Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/image-39-e1782900239993-1024x640.jpeg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

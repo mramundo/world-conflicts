@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-09T12:05:56Z",
+  "updated": "2026-07-09T15:57:31Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-07-08T21:47:34Z",
+  "wikipediaListRevision": "2026-07-09T13:50:50Z",
   "items": [
     {
       "id": "ru-ua",
@@ -23,8 +23,8 @@
       ],
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-07-09",
-      "wikipediaRevision": "2026-07-09T04:26:20Z",
-      "recentNewsCount": 4
+      "wikipediaRevision": "2026-07-09T13:22:16Z",
+      "recentNewsCount": 3
     },
     {
       "id": "il-ps",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-06-22",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-06-22T11:50:42Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "sahel",
@@ -225,9 +225,9 @@
         "Jihadism"
       ],
       "wikipediaPage": "Boko_Haram_insurgency",
-      "lastUpdate": "2026-07-08",
-      "wikipediaRevision": "2026-07-08T22:05:26Z",
-      "recentNewsCount": 0
+      "lastUpdate": "2026-07-09",
+      "wikipediaRevision": "2026-07-09T15:39:15Z",
+      "recentNewsCount": 1
     },
     {
       "id": "mx-cartels",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 6
+      "recentNewsCount": 4
     },
     {
       "id": "et-am",

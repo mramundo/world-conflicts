@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T20:24:16Z",
+  "updated": "2026-07-10T22:05:25Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,39 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-10T20:24:13Z",
+      "publishedAt": "2026-07-10T22:05:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-1e2d72de90be",
+      "title": "US Senators, Administration Agree To Advance Russia Sanctions Bill; Kyiv Hails Move",
+      "description": "A bipartisan group of US senators said they had reached an agreement with the Trump administration to advance long-delayed legislation aimed at imposing tougher economic penalties on Russia and countries that continue to support Moscow’s war economy.",
+      "url": "https://www.rferl.org/a/senate-trump-russia-sanctions-ukraine-graham/33801207.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-07-10T20:56:03Z",
+      "image": "https://gdb.rferl.org/8814a323-dc84-4390-153e-08decad58b60_w800_h450.png",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "tim-f5e41a5439a8",
+      "title": "UK police arrest suspect in the killing of former Parliament member Ann Widdecombe",
+      "description": "Widdecombe, 78, found dead in her home in southwest England, police say she sustained “serious injuries\"; killing not believed to be politically motivated The post UK police arrest suspect in the killing of former Parliament member Ann Widdecombe appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/uk-police-arrest-suspect-in-the-killing-of-former-parliament-member-ann-widdecombe/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-10T20:36:30Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26191548196187-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -32,37 +63,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-8a53939b4415",
-      "title": "IDF kills three Hamas commanders, including Oct. 7 invader, in Gaza airstrikes",
-      "description": "After pledging 20,000 international peacekeepers to Gaza, US reportedly struggling to deploy just twenty; Israel defends detention of Gaza hospital chief, who is also Hamas officer The post IDF kills three Hamas commanders, including Oct. 7 invader, in Gaza airstrikes appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-kills-three-hamas-commanders-including-oct-7-invader-in-gaza-airstrikes/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-10T18:47:44Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26191530646209-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-5564775d9785",
-      "title": "Crowds Brawl With Recruiters In Lviv In Latest Clash Over Mobilization",
-      "description": "A brawl between Ukrainian military recruiters and local residents erupted in Lviv, western Ukraine, on July 8, as the officers were detaining men who had failed to register for duty. Authorities opened a criminal investigation and accused Russia of using propaganda to incite unrest. Clashes between civilians and milita…",
-      "url": "https://www.rferl.org/a/ukraine-military-conscription-brawl-lviv/33801167.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-10T17:48:21Z",
-      "image": "https://gdb.rferl.org/9f6ee657-1b7f-445d-1541-08decad58b60_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -96,18 +96,32 @@
       "tags": []
     },
     {
-      "id": "fra-4c183059cbbe",
-      "title": "Sudan: El-Obeid civilians trapped under RSF siege",
-      "description": "The UN has raised the alarm over a worsening humanitarian crisis in El-Obeid, a city besieged by the Rapid Support Forces (RSF) in Sudan, where many civilians are dying amid relentless attacks. FRANCE 24 correspondent Bastien Renoul spoke to residents trapped inside, who describe bombed water infrastructure, constant s…",
-      "url": "https://www.france24.com/en/sudan-el-obeid-civilians-trapped-under-rsf-siege",
+      "id": "fra-2db89361954d",
+      "title": "‘Weaker’? Mojtaba Khamenei’s absence from father’s funeral may signal shifting role for Iran leader",
+      "description": "Iran's new Supreme Leader Mojtaba Khamenei has not been seen in public since he was wounded in the US-Israeli air strikes that killed his father and wife – even at their week-long funeral ceremonies this week. While his injuries and the threat of assassination could well have played a role in his disappearance, analyst…",
+      "url": "https://www.france24.com/en/asia-pacific/20260710-mojtaba-khamenei-s-absence-from-his-father-s-funeral-could-signal-shifting-role-for-iran-leader",
       "source": "France24",
-      "publishedAt": "2026-07-10T12:47:20Z",
-      "image": "https://s.france24.com/media/display/e17179ec-7c59-11f1-a879-005056a90284/w:1024/p:16x9/EN-20260710-131914-132203-CS.jpg",
+      "publishedAt": "2026-07-10T16:21:14Z",
+      "image": "https://s.france24.com/media/display/5e4d466e-7c7b-11f1-a21a-005056a90284/w:1024/p:16x9/df890ac748fe43b58dcf17c5abd5920c59765ea6.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-b1044a47c163",
+      "title": "Ukraine Reports 233 Combat Clashes in Single Day Across Front Line",
+      "description": "Ukraine’s military reported 233 combat engagements and thousands of Russian strikes and drone attacks on Thursday, with intense fighting across multiple axes from North-Slobozhanske to Orikhiv. Commanders say Ukrainian forces resisted dozens of assaults, particularly near Sloviansk, Kostiantynivka, and Pokrovsk.",
+      "url": "https://www.kyivpost.com/post/79985",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-10T07:40:07Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/05/88afed08a8fd944d70ccde233072d1c0.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,21 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-97a7246796ad",
-      "title": "Russian Ballistic Missile Strike Injures 9 in Odesa Region",
-      "description": "Russian armed forces struck the Odesa region on the evening of Tuesday, with a ballistic missile armed with a cluster warhead, damaging a production facility building and several vehicles. Regional authorities say at least nine people were injured, with five of them hospitalized, including a 48-year-old man in serious …",
-      "url": "https://www.kyivpost.com/post/79790",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-07T21:26:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/08/3d1277ccd6b6675ea4df4ef1cf29d67f.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     }

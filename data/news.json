@@ -1,24 +1,9 @@
 {
-  "updated": "2026-07-10T00:06:17Z",
+  "updated": "2026-07-10T04:53:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
-    {
-      "id": "the-96b32fc9aa47",
-      "title": "Eight charged with murder conspiracy over alleged White House UFC attack plot",
-      "description": "Group accused of planning sniper and drone attack on Donald Trump’s UFC cage-fighting show in JuneEight men were indicted on murder and terrorism conspiracy charges Thursday for their alleged roles in a thwarted drone and sniper attack on the UFC cage-fighting show staged at the White House in June.The indictment, retu…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/09/white-house-ufc-drone-attack-plot",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-09T23:06:13Z",
-      "image": "https://i.guim.co.uk/img/media/0790fe2420af8d23642ebdf9bb2dfd6d4fa96ab5/968_0_9680_7744/master/9680.jpg?width=140&quality=85&auto=format&fit=max&s=5d3b22867004ae5c2fc8ef0f4c39c527",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
     {
       "id": "al -c57257b989f8",
       "title": "Waiting for Moses: Africa’s sons in Russia’s war",
@@ -94,6 +79,22 @@
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-137f313cb8ed",
+      "title": "IDF accused of ‘field execution’ of Palestinian driver bringing aid into Gaza",
+      "description": "Local truckers’ association says it may suspend operations, after several eyewitnesses decried Ahmad Esleem’s murderA Palestinian driver bringing food aid from the World Central Kitchen (WCK) into Gaza has been killed by an Israeli soldier “in a field execution”, according to witnesses and the local truckers’ associati…",
+      "url": "https://www.theguardian.com/world/2026/jul/09/idf-accused-of-field-execution-of-palestinian-driver-bringing-aid-into-gaza",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-09T17:58:50Z",
+      "image": "https://i.guim.co.uk/img/media/bb676e32eea961cb3facda82ee640d9007a9979f/500_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=789d0287ee3fb103080c161431b0f393",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

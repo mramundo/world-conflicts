@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T14:31:12Z",
+  "updated": "2026-07-10T16:57:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,38 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-10T14:31:08Z",
+      "publishedAt": "2026-07-10T16:57:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-2cbe54b5daf0",
+      "title": "Trump says US will continue holding talks with Iran, but ceasefire is over",
+      "description": "Top Iranian official threatens to target Israel as part of retaliation for US attacks; some Israeli officials said in favor of resuming strikes on Iran, awaiting Trump's go-ahead The post Trump says US will continue holding talks with Iran, but ceasefire is over appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/trump-says-us-will-continue-holding-talks-with-iran-but-ceasefire-is-over/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-10T16:13:37Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26190203322780-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-c49829c15b99",
+      "title": "Trump, colloqui con l'Iran proseguono, ma il cessate il fuoco è finito",
+      "description": "'Ci hanno chiesto di continuare a parlare e abbiamo accettato'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/10/trump-colloqui-con-liran-proseguono-ma-il-cessate-il-fuoco-e-finito_1f5a9801-2583-4edc-b959-dea1326a240c.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-10T14:41:11Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/fec05ef1681ce42230c08ad93838c2ea.jpg",
       "categories": [
         "conflict"
       ],
@@ -67,36 +97,6 @@
       "tags": []
     },
     {
-      "id": "tim-77cb7b6d9724",
-      "title": "4 Arab Israelis arrested, indicted over plot for mass terror attack at Beersheba bus station",
-      "description": "Suspects said to have decided to use guns because knives would be insufficient; also planned shooting attack at Segev Shalom police station; group leader published pro-terror content The post 4 Arab Israelis arrested, indicted over plot for mass terror attack at Beersheba bus station appeared first on The Times of Isra…",
-      "url": "https://www.timesofisrael.com/4-arab-israelis-arrested-indicted-over-plot-for-mass-terror-attack-at-beersheba-bus-station/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-10T11:43:13Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2025/11/454524500-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-7d7aa43ca114",
-      "title": "Shelling at night, gunfire by day in Israel's expanding zone of control in Gaza",
-      "description": "When the U.S. brokered a ceasefire last year, Israel controlled half of Gaza. Now Israeli forces have pushed deeper, and Palestinians are paying a deadly price.",
-      "url": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-      "source": "NPR World",
-      "publishedAt": "2026-07-10T09:00:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2F8c%2Fdf738b414dcb9ce3e1cb7f56f5c6%2Fp1-img-1364.jpeg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-fda8cc34e06f",
       "title": "Ukraine Strikes Oil Refinery in Southern Russia",
       "description": "Authorities in the city of Taganrog evacuated some residents from their homes following a separate strike on a seaport.",
@@ -126,6 +126,21 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-21330e9b8032",
+      "title": "Where are Iran and Ukraine wars headed after NATO summit?",
+      "description": "Fresh strikes between Iran and the United States and a tense ceasefire scrapped — Is the war with Iran back on?",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit",
+      "source": "NPR World",
+      "publishedAt": "2026-07-09T20:01:45Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5886200",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -173,22 +188,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-8da5ce7d121d",
-      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
-      "description": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
-      "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-09T08:49:45Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6422/live/570d66a0-7b67-11f1-bee8-53ce494e1abc.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

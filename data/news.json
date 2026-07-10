@@ -1,23 +1,69 @@
 {
-  "updated": "2026-07-10T04:53:22Z",
+  "updated": "2026-07-10T08:23:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -c57257b989f8",
-      "title": "Waiting for Moses: Africa’s sons in Russia’s war",
-      "description": "Russia&#039;s war in Ukraine is leaving African families to count the cost.",
-      "url": "https://www.aljazeera.com/features/2026/7/9/waiting-for-moses-africas-sons-in-russias-war?traffic_source=rss",
+      "id": "nik-910f5319df23",
+      "title": "Hong Kong looks beyond Iran war in cultivating China-Mideast business",
+      "description": "",
+      "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-07-10T08:23:50Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1c49291ac207",
+      "title": "Administration without sovereignty will not free Palestine",
+      "description": "The end of Hamas governance in Gaza may change who administers it, but not who holds power over Palestinian life.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-09T22:59:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2023/07/WEB_MAP_CAMEROON_DOUALA-1690125224.jpg?resize=1200%2C675",
+      "publishedAt": "2026-07-10T08:03:44Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a50a74150dd-1783670593.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 5,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-fda8cc34e06f",
+      "title": "Ukraine Strikes Oil Refinery in Southern Russia",
+      "description": "Authorities in the city of Taganrog evacuated some residents from their homes following a separate strike on a seaport.",
+      "url": "https://www.themoscowtimes.com/2026/07/10/ukraine-strikes-oil-refinery-in-southern-russia-a93215",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-07-10T07:32:22Z",
+      "image": "https://static.themoscowtimes.com/image/og/31/93215__314d9a1dfef92bc9fa4ec9fc725bd885.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-a3c6bebe5537",
+      "title": "Khamenei buried after dayslong funeral procession as successor son remains out of sight",
+      "description": "'By the blood of the supreme leader, Trump, we will kill you!' shout crowds in Mashhad, more than four months after the longtime supreme leader was killed in opening strikes of the war The post Khamenei buried after dayslong funeral procession as successor son remains out of sight appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/khamenei-buried-following-dayslong-funeral-procession-as-successor-remains-out-of-sight/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-10T03:47:50Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26190057827751-e1783640764224-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -68,28 +114,13 @@
       "tags": []
     },
     {
-      "id": "tim-d90954bf1327",
-      "title": "Haredi parties give a little ground: Basic Law won’t explicitly put Torah study on par with IDF service",
-      "description": "Bill advances in 6-4 committee vote, with final Knesset readings slated for next week; combat veterans with PTSD interrupt hearing: 'You've exploited us for political gain; rebel Likud MK: 'Compromise' is mere 'window dressing' The post Haredi parties give a little ground: Basic Law won&#8217;t explicitly put Torah stu…",
-      "url": "https://www.timesofisrael.com/haredi-parties-back-down-basic-law-wont-put-torah-study-on-par-with-idf-service/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-09T18:17:31Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260709YS52-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-137f313cb8ed",
       "title": "IDF accused of ‘field execution’ of Palestinian driver bringing aid into Gaza",
       "description": "Local truckers’ association says it may suspend operations, after several eyewitnesses decried Ahmad Esleem’s murderA Palestinian driver bringing food aid from the World Central Kitchen (WCK) into Gaza has been killed by an Israeli soldier “in a field execution”, according to witnesses and the local truckers’ associati…",
       "url": "https://www.theguardian.com/world/2026/jul/09/idf-accused-of-field-execution-of-palestinian-driver-bringing-aid-into-gaza",
       "source": "The Guardian",
       "publishedAt": "2026-07-09T17:58:50Z",
-      "image": "https://i.guim.co.uk/img/media/bb676e32eea961cb3facda82ee640d9007a9979f/500_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=789d0287ee3fb103080c161431b0f393",
+      "image": "https://i.guim.co.uk/img/media/31d0b2ab14ec5d9567a22b637a816250219afc4e/0_0_1980_1584/master/1980.jpg?width=140&quality=85&auto=format&fit=max&s=2ad0c2a6c09342fe608a9e235dbf22dc",
       "categories": [
         "conflict",
         "humanitarian"
@@ -161,22 +192,6 @@
       "tags": []
     },
     {
-      "id": "le -d1edf2364b80",
-      "title": "How Ukraine is turning Crimea, the Russians' Riviera, into a battlefield",
-      "description": "The annexed Ukrainian peninsula, which Vladimir Putin sees as his crowning jewel, has descended into chaos as Kyiv ramps up attacks on the territory. Shocked tourists and residents express their distress as shortages worsen.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/09/how-ukrainians-are-turning-crimea-the-russians-riviera-into-a-battlefield_6755294_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-09T03:01:02Z",
-      "image": "https://img.lemde.fr/2026/06/10/121/0/2560/1280/644/322/60/0/a9034c9_ftp-1-ttmhnxap4mgl-2026-06-10t153300z-1277001309-rc23rla6fqeq-rtrmadp-3-ukraine-crisis-attack-crimea.JPG",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "un -d06175a9e990",
       "title": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators",
       "description": "Atrocities committed by the Rapid Support Forces (RSF) militia against Sudanese civilians in El Fasher in October – including mass killings, abductions and gang rapes – bear the markers of genocide, independent UN human rights investigators&nbsp;reported on Wednesday.",
@@ -188,21 +203,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-c2e872226699",
-      "title": "At Least 2 Killed in Russia as Ukraine Hits Multiple Oil Refineries",
-      "description": "Ukrainian President Volodymyr Zelensky said his military struck oil refineries in the Saratov region and republics of Tatarstan and Bashkortostan.",
-      "url": "https://www.themoscowtimes.com/2026/07/08/at-least-2-killed-in-russia-as-ukraine-hits-multiple-oil-refineries-a93193",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-07-08T08:18:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/d9/93193__d996bee9380f388cb5c3e14ca2a7009d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

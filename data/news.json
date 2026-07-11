@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T03:33:15Z",
+  "updated": "2026-07-11T06:15:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-11T03:33:11Z",
+      "publishedAt": "2026-07-11T06:15:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -87955683cbb0",
+      "title": "Are the US and Iran at war again?",
+      "description": "Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over&#039;.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-11T04:51:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783745453.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -8f768cc6381f",
+      "title": "'Behind the suffering there are people who love life, art and peace': Words of hope from a poetry contest in Gaza",
+      "description": "About 60 students from Gaza, aged 18 to 25, responded to a call from the French Institute of Gaza and the NGO Academic Solidarity with Palestine by submitting poems or videos in which they shared, in French, their feelings and hopes in the face of the war that has affected them for almost three years.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/11/behind-the-suffering-there-are-people-who-love-life-art-and-peace-words-of-hope-from-a-poetry-contest-in-gaza_6755362_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-11T01:05:33Z",
+      "image": "https://img.lemde.fr/2026/07/07/825/0/1132/566/644/322/60/0/679f0f3_upload-1-xjqcuuimzhzj-capture-d-e-cran-2026-07-07-a-16-32-17.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,21 +66,6 @@
       "tags": []
     },
     {
-      "id": "al -c9e54ad6663b",
-      "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
-      "description": "The hostages were taken from three separate schools in the southwestern state of Oyo in May.",
-      "url": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-10T21:01:27Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-05T100626Z_158885141_RC2OLLAXC69Z_RTRMADP_3_NIGERIA-SECURITY-1783712591.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-1e2d72de90be",
       "title": "US Senators, Administration Agree To Advance Russia Sanctions Bill; Kyiv Hails Move",
       "description": "A bipartisan group of US senators said they had reached an agreement with the Trump administration to advance long-delayed legislation aimed at imposing tougher economic penalties on Russia and countries that continue to support Moscow’s war economy.",
@@ -63,21 +79,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -516c828e64a0",
-      "title": "Nigerian security forces rescue dozens of abducted schoolchildren and teachers",
-      "description": "Gunmen kidnapped 46 pupils and staff from three schools in the southwestern state of Oyo on May 15. President Bola Tinubu's spokesman announced on Friday that 'all the kidnapped pupils and teachers in Orire, Oyo, have been rescued.' Tinubu shared a statement expressing how 'profoundly happy' he was about the 'successfu…",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/10/nigerian-security-forces-rescue-dozens-of-abducted-students-and-teachers_6755354_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-10T19:36:19Z",
-      "image": "https://img.lemde.fr/2023/02/23/351/0/3670/1835/644/322/60/0/3635a3d_1677141195586-000-1hg4b8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {

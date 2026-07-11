@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T06:15:19Z",
+  "updated": "2026-07-11T08:48:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-11T06:15:15Z",
+      "publishedAt": "2026-07-11T08:48:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-377732a1270a",
+      "title": "10 Wounded in Russian Strike on Kyiv",
+      "description": "Russia launched six ballistic missiles, six cruise missiles and 121 drones, Ukraine’s air force said.",
+      "url": "https://www.themoscowtimes.com/2026/07/11/10-wounded-in-russian-strike-on-kyiv-a93225",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-07-11T08:17:16Z",
+      "image": "https://static.themoscowtimes.com/image/og/6d/93225__6dcd7be4e1a9df358e4c16b356176308.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-b6bcc4fb08c1",
+      "title": "Braving war losses and tough conditions, Thai workers stay rooted in Israeli agriculture",
+      "description": "51 foreign laborers from Thailand have been killed by terror groups since 2023, and 31 were among the Oct. 7 hostages, but that hasn't caused them to flee Israel's fields and groves The post Braving war losses and tough conditions, Thai workers stay rooted in Israeli agriculture appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/braving-war-losses-and-tough-conditions-thai-workers-stay-rooted-in-israeli-agriculture/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-11T06:35:18Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/IMG_2921-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -41,23 +71,8 @@
       "description": "About 60 students from Gaza, aged 18 to 25, responded to a call from the French Institute of Gaza and the NGO Academic Solidarity with Palestine by submitting poems or videos in which they shared, in French, their feelings and hopes in the face of the war that has affected them for almost three years.",
       "url": "https://www.lemonde.fr/en/international/article/2026/07/11/behind-the-suffering-there-are-people-who-love-life-art-and-peace-words-of-hope-from-a-poetry-contest-in-gaza_6755362_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-11T01:05:33Z",
+      "publishedAt": "2026-07-11T01:05:31Z",
       "image": "https://img.lemde.fr/2026/07/07/825/0/1132/566/644/322/60/0/679f0f3_upload-1-xjqcuuimzhzj-capture-d-e-cran-2026-07-07-a-16-32-17.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-62c1d036180b",
-      "title": "‘Blatant corruption’: New US sanctions target Mojtaba Khamenei’s moneyman",
-      "description": "US Treasury accuses Dubai-based Ali Ansari of serving as financier for other regime elites and the IRGC; several Iranian exchange houses and 'front companies' also blacklisted The post ‘Blatant corruption’: New US sanctions target Mojtaba Khamenei’s moneyman appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/blatant-corruption-new-us-sanctions-target-mojtaba-khameneis-moneyman/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-10T23:12:53Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26186695771777-e1783723942347-1024x640.jpg",
       "categories": [
         "conflict"
       ],
@@ -123,22 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-fda8cc34e06f",
-      "title": "Ukraine Strikes Oil Refinery in Southern Russia",
-      "description": "Authorities in the city of Taganrog evacuated some residents from their homes following a separate strike on a seaport.",
-      "url": "https://www.themoscowtimes.com/2026/07/10/ukraine-strikes-oil-refinery-in-southern-russia-a93215",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-07-10T07:32:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/31/93215__314d9a1dfef92bc9fa4ec9fc725bd885.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

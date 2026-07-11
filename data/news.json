@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-11T08:48:50Z",
+  "updated": "2026-07-11T10:16:40Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-11T08:48:46Z",
+      "publishedAt": "2026-07-11T10:16:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-cca64875d33d",
+      "title": "Trump agrees to more Iran talks but insists truce is over",
+      "description": "US President Donald Trump said Friday he had agreed to further negotiations with Iran, even as he repeated his assertion that the ceasefire between the long-time foes was over.",
+      "url": "https://www.france24.com/en/video/20260711-trump-agrees-to-more-iran-talks-but-insists-truce-is-over",
+      "source": "France24",
+      "publishedAt": "2026-07-11T09:06:07Z",
+      "image": "https://s.france24.com/media/display/612ededa-7d00-11f1-adfd-005056bfb2b6/w:1024/p:16x9/EN-20260711-100153-100318-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-bd27d34bb690",
+      "title": "Ukrainian Forces Strike 21 Russian Tankers, Four Tugboats, and Two Cargo Ships",
+      "description": "The General Staff of the Armed Forces of Ukraine reported a massive, coordinated strike on Russian maritime assets in the Sea of Azov on July 11. According to the military, Ukrainian Defense Forces successfully hit 21 Russian tankers used to bypass international sanctions, alongside four tugboats and two dry cargo ship…",
+      "url": "https://www.kyivpost.com/post/80071",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-11T09:03:00Z",
+      "image": "https://static.kyivpost.com/storage/2025/09/27/ad59cafbd7691d4dda36c955275f24b8.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,6 +111,21 @@
       "tags": []
     },
     {
+      "id": "bbc-0198d1f189a3",
+      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+      "description": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
+      "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-10T23:02:35Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1edf/live/7311ddc0-793e-11f1-86fe-4309bed8b569.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-1e2d72de90be",
       "title": "US Senators, Administration Agree To Advance Russia Sanctions Bill; Kyiv Hails Move",
       "description": "A bipartisan group of US senators said they had reached an agreement with the Trump administration to advance long-delayed legislation aimed at imposing tougher economic penalties on Russia and countries that continue to support Moscow’s war economy.",
@@ -108,36 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-2db89361954d",
-      "title": "‘Weaker’? Mojtaba Khamenei’s absence from father’s funeral may signal shifting role for Iran leader",
-      "description": "Iran's new Supreme Leader Mojtaba Khamenei has not been seen in public since he was wounded in the US-Israeli air strikes that killed his father and wife – even at their week-long funeral ceremonies this week. While his injuries and the threat of assassination could well have played a role in his disappearance, analyst…",
-      "url": "https://www.france24.com/en/asia-pacific/20260710-mojtaba-khamenei-s-absence-from-his-father-s-funeral-could-signal-shifting-role-for-iran-leader",
-      "source": "France24",
-      "publishedAt": "2026-07-10T16:21:14Z",
-      "image": "https://s.france24.com/media/display/5e4d466e-7c7b-11f1-a21a-005056a90284/w:1024/p:16x9/df890ac748fe43b58dcf17c5abd5920c59765ea6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-b1044a47c163",
-      "title": "Ukraine Reports 233 Combat Clashes in Single Day Across Front Line",
-      "description": "Ukraine’s military reported 233 combat engagements and thousands of Russian strikes and drone attacks on Thursday, with intense fighting across multiple axes from North-Slobozhanske to Orikhiv. Commanders say Ukrainian forces resisted dozens of assaults, particularly near Sloviansk, Kostiantynivka, and Pokrovsk.",
-      "url": "https://www.kyivpost.com/post/79985",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-10T07:40:07Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/05/88afed08a8fd944d70ccde233072d1c0.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T23:59:38Z",
+  "updated": "2026-07-11T03:33:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-10T23:59:34Z",
+      "publishedAt": "2026-07-11T03:33:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -31,6 +31,21 @@
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c9e54ad6663b",
+      "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
+      "description": "The hostages were taken from three separate schools in the southwestern state of Oyo in May.",
+      "url": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-10T21:01:27Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-06-05T100626Z_158885141_RC2OLLAXC69Z_RTRMADP_3_NIGERIA-SECURITY-1783712591.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -5a60849797d7",
-      "title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
-      "description": "Palestinian Health Ministry denounces attack as part of Israel&#039;s &#039;systematic targeting of health facilities&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-10T18:01:25Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2024/12/Screenshot-2024-12-18-at-12.06.20%E2%80%AFAM-copy-1734469633.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

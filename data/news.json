@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T11:54:14Z",
+  "updated": "2026-07-11T13:23:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-11T11:54:10Z",
+      "publishedAt": "2026-07-11T13:23:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-922b0defa4d9",
+      "title": "Kiev, 'stanotte colpite 21 petroliere russe nel Mar d'Azov'",
+      "description": "'Utilizzate da Mosca per ttasportare greggio eludendo le sanzioni'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/11/kiev-stanotte-colpite-21-petroliere-russe-nel-mar-dazov_65341574-28a6-4d27-9fbb-0c7af04f577d.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-11T13:16:17Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/f22e411ef6d53b25d4acbacfcf49ab9d.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-ebc27bfdbe68",
+      "title": "Azov Mayhem, Tavria Offensive Tactics, How to Shoot Stuff Down",
+      "description": "Is Ukraine preparing to take back the Azov coast? Kyiv expanded its campaign against Russia’s shadow tanker fleet, fuel infrastructure and rear-area logistics while concentrating capable units in the Zaporizhzhia sector and testing new drone-led assault tactics. Meanwhile the crucial air battle it heating up.",
+      "url": "https://www.kyivpost.com/opinion/80046",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-11T12:00:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/11/766802d8eebfb37335530300d98716a5.webp?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-8de1a055cc8f",
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "description": "Vigilantes also took part in the fight that raged all night and the following morning, residents sayNigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, according to a government official.Government troops targeted the gangs in Gummi distr…",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-11T11:59:11Z",
+      "image": "https://i.guim.co.uk/img/media/d858003c23f5b83b5571c5f6ef15e6cd9be9eebc/753_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=a005778c97ec1794e7dd4edfc5732eb0",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,6 +81,21 @@
       "tags": []
     },
     {
+      "id": "the-bd08139b510b",
+      "title": "One Killed in Drone Strike on Vessels in Taganrog Bay, Russian Authorities Say",
+      "description": "Regional authorities said more than one and a half dozen drones were destroyed during the attack.",
+      "url": "https://www.themoscowtimes.com/2026/07/11/one-killed-in-drone-strike-on-vessels-in-taganrog-bay-russian-authorities-say-a93224",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-07-11T09:28:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/80/93224__80ccd4ef75c324bfe779e90d1b0ff715.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "fra-cca64875d33d",
       "title": "Trump agrees to more Iran talks but insists truce is over",
       "description": "US President Donald Trump said Friday he had agreed to further negotiations with Iran, even as he repeated his assertion that the ceasefire between the long-time foes was over.",
@@ -46,36 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-bd27d34bb690",
-      "title": "Ukrainian Forces Strike 21 Russian Tankers, 4 Tugboats, 2 Cargo Ships",
-      "description": "The General Staff of the Armed Forces of Ukraine reported a massive, coordinated strike on Russian maritime assets in the Sea of Azov on July 11. According to the military, Ukrainian Defense Forces successfully hit 21 Russian tankers used to bypass international sanctions, alongside four tugboats and two dry cargo ship…",
-      "url": "https://www.kyivpost.com/post/80071",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-11T09:03:00Z",
-      "image": "https://static.kyivpost.com/storage/2025/09/27/ad59cafbd7691d4dda36c955275f24b8.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-377732a1270a",
-      "title": "10 Wounded in Russian Strike on Kyiv",
-      "description": "Russia launched six ballistic missiles, six cruise missiles and 121 drones, Ukraine’s air force said.",
-      "url": "https://www.themoscowtimes.com/2026/07/11/10-wounded-in-russian-strike-on-kyiv-a93225",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-07-11T08:17:16Z",
-      "image": "https://static.themoscowtimes.com/image/og/6d/93225__6dcd7be4e1a9df358e4c16b356176308.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -142,13 +173,29 @@
       "tags": []
     },
     {
-      "id": "ans-03d1201f76e1",
-      "title": "Le vittime dell'attentato di Monaco sono ancora ricoverate in ospedale",
-      "description": "I coinvolti sono oligarca Erbolaev, la compagna e figlio. Uccisa l'attentatrice ucraina",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/10/le-vittime-dellattentato-di-monaco-sono-ancora-ricoverate-in-ospedale_de2bd7b2-d98c-4e55-978a-226e2267d6ec.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-10T17:37:05Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/30/a935398b8fee6a9728da0c018017e393.jpg",
+      "id": "un -814de7b20419",
+      "title": "New cholera outbreak alert for Sudan’s war-weary communities",
+      "description": "In war-torn Sudan, a deadly new cholera outbreak has already claimed more than 100 lives, heightening serious concerns for vulnerable communities including in besieged El-Obeid, where daily drone attacks have continued to hamper aid access.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167913",
+      "source": "UN News",
+      "publishedAt": "2026-07-10T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UNOCHA-Sudan-03.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-5fda51dd6d3f",
+      "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
+      "description": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
+      "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+      "source": "NPR World",
+      "publishedAt": "2026-07-10T11:43:38Z",
+      "image": "undefined",
       "categories": [
         "conflict"
       ],
@@ -173,37 +220,6 @@
       "tags": []
     },
     {
-      "id": "npr-21330e9b8032",
-      "title": "Where are Iran and Ukraine wars headed after NATO summit?",
-      "description": "Fresh strikes between Iran and the United States and a tense ceasefire scrapped — Is the war with Iran back on?",
-      "url": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit",
-      "source": "NPR World",
-      "publishedAt": "2026-07-09T20:01:45Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5886200",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-137f313cb8ed",
-      "title": "IDF accused of ‘field execution’ of Palestinian driver bringing aid into Gaza",
-      "description": "Local truckers’ association says it may suspend operations, after several eyewitnesses decried Ahmad Esleem’s murderA Palestinian driver bringing food aid from the World Central Kitchen (WCK) into Gaza has been killed by an Israeli soldier “in a field execution”, according to witnesses and the local truckers’ associati…",
-      "url": "https://www.theguardian.com/world/2026/jul/09/idf-accused-of-field-execution-of-palestinian-driver-bringing-aid-into-gaza",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-09T17:58:50Z",
-      "image": "https://i.guim.co.uk/img/media/31d0b2ab14ec5d9567a22b637a816250219afc4e/0_0_1980_1584/master/1980.jpg?width=140&quality=85&auto=format&fit=max&s=2ad0c2a6c09342fe608a9e235dbf22dc",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-5238b14eebd2",
       "title": "Congo: UN laments uptick in fighting in South Kivu",
       "description": "The UN human rights chief has called for an immediate halt to fighting in eastern Democratic Republic of Congo. This follows intensified clashses between the army and the Rwanda-backed M23 militia in South Kivu.",
@@ -215,21 +231,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -d06175a9e990",
-      "title": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators",
-      "description": "Atrocities committed by the Rapid Support Forces (RSF) militia against Sudanese civilians in El Fasher in October – including mass killings, abductions and gang rapes – bear the markers of genocide, independent UN human rights investigators&nbsp;reported on Wednesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167897",
-      "source": "UN News",
-      "publishedAt": "2026-07-08T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-UNOCHA-Sudan-Darfur-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     }

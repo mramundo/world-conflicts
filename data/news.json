@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T10:16:40Z",
+  "updated": "2026-07-11T11:54:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-11T10:16:37Z",
+      "publishedAt": "2026-07-11T11:54:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -0c8ffef5a345",
+      "title": "War in Ukraine: Kyiv spends sleepless nights underground as Russia intensifies attacks",
+      "description": "Since May 24, the Ukrainian capital has been in mourning, hit by Russian strikes involving ballistic missiles and new, ultra-fast jet-powered drones, while the city's air defense faces a severe shortage of anti-missile systems.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/11/war-in-ukraine-kyiv-spends-sleepless-nights-underground-as-russia-intensifies-attacks_6755371_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-11T10:30:04Z",
+      "image": "https://img.lemde.fr/2026/07/10/443/0/2953/1476/644/322/60/0/2a89c88_upload-1-y4dq6fquyf20-2026-07-10-heg-ukraine-0091.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,7 +51,7 @@
     },
     {
       "id": "kyi-bd27d34bb690",
-      "title": "Ukrainian Forces Strike 21 Russian Tankers, Four Tugboats, and Two Cargo Ships",
+      "title": "Ukrainian Forces Strike 21 Russian Tankers, 4 Tugboats, 2 Cargo Ships",
       "description": "The General Staff of the Armed Forces of Ukraine reported a massive, coordinated strike on Russian maritime assets in the Sea of Azov on July 11. According to the military, Ukrainian Defense Forces successfully hit 21 Russian tankers used to bypass international sanctions, alongside four tugboats and two dry cargo ship…",
       "url": "https://www.kyivpost.com/post/80071",
       "source": "Kyiv Post",
@@ -93,21 +108,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -8f768cc6381f",
-      "title": "'Behind the suffering there are people who love life, art and peace': Words of hope from a poetry contest in Gaza",
-      "description": "About 60 students from Gaza, aged 18 to 25, responded to a call from the French Institute of Gaza and the NGO Academic Solidarity with Palestine by submitting poems or videos in which they shared, in French, their feelings and hopes in the face of the war that has affected them for almost three years.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/11/behind-the-suffering-there-are-people-who-love-life-art-and-peace-words-of-hope-from-a-poetry-contest-in-gaza_6755362_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-11T01:05:31Z",
-      "image": "https://img.lemde.fr/2026/07/07/825/0/1132/566/644/322/60/0/679f0f3_upload-1-xjqcuuimzhzj-capture-d-e-cran-2026-07-07-a-16-32-17.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

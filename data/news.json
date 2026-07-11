@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T14:56:00Z",
+  "updated": "2026-07-11T15:59:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-11T14:55:57Z",
+      "publishedAt": "2026-07-11T15:59:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -25,13 +25,44 @@
       "description": "'Utilizzate da Mosca per ttasportare greggio eludendo le sanzioni'",
       "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/11/kiev-stanotte-colpite-21-petroliere-russe-nel-mar-dazov_65341574-28a6-4d27-9fbb-0c7af04f577d.html",
       "source": "ANSA",
-      "publishedAt": "2026-07-11T13:16:17Z",
+      "publishedAt": "2026-07-11T15:17:05Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/f22e411ef6d53b25d4acbacfcf49ab9d.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-608f457b6d70",
+      "title": "11 wounded in overnight Russian missile and drone strikes on Kyiv",
+      "description": "At least 11 people, including a child, were wounded after Russia launched an overnight missile and drone attack on Kyiv early Saturday, according to Ukraine’s State Emergency Service.",
+      "url": "https://www.france24.com/en/video/20260711-11-wounded-in-overnight-russian-missile-and-drone-strikes-on-kyiv",
+      "source": "France24",
+      "publishedAt": "2026-07-11T14:54:06Z",
+      "image": "https://s.france24.com/media/display/de0ff248-7d34-11f1-b10d-005056bf30b7/w:1024/p:16x9/EN-20260711-150718-150853-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -d6c8273f4d18",
+      "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+      "description": "Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.",
+      "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-11T13:18:29Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/img_6438_720-1783771001.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -96,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "fra-cca64875d33d",
-      "title": "Trump agrees to more Iran talks but insists truce is over",
-      "description": "US President Donald Trump said Friday he had agreed to further negotiations with Iran, even as he repeated his assertion that the ceasefire between the long-time foes was over.",
-      "url": "https://www.france24.com/en/video/20260711-trump-agrees-to-more-iran-talks-but-insists-truce-is-over",
-      "source": "France24",
-      "publishedAt": "2026-07-11T09:06:07Z",
-      "image": "https://s.france24.com/media/display/612ededa-7d00-11f1-adfd-005056bfb2b6/w:1024/p:16x9/EN-20260711-100153-100318-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "tim-b6bcc4fb08c1",
       "title": "Braving war losses and tough conditions, Thai workers stay rooted in Israeli agriculture",
       "description": "51 foreign laborers from Thailand have been killed by terror groups since 2023, and 31 were among the Oct. 7 hostages, but that hasn't caused them to flee Israel's fields and groves The post Braving war losses and tough conditions, Thai workers stay rooted in Israeli agriculture appeared first on The Times of Israel.",
@@ -123,22 +139,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -87955683cbb0",
-      "title": "Are the US and Iran at war again?",
-      "description": "Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over&#039;.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-11T04:51:20Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783745453.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {

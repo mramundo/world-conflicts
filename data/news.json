@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12T14:58:26Z",
+  "updated": "2026-07-12T16:04:46Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-12T14:58:22Z",
+      "publishedAt": "2026-07-12T16:04:42Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b212d7ad214f",
+      "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
+      "description": "Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-12T15:16:44Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a539e905166-1783864976.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,21 +50,6 @@
       "tags": []
     },
     {
-      "id": "al -1e57ca42b2c7",
-      "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
-      "description": "Tehran hits back at several GCC countries, following the most intense US bombing since an MoU was signed last month.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-12T09:13:26Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-09T160746Z_996646820_RC2BAMAXYFOB_RTRMADP_3_IRAN-CRISIS-KHAMENEI-1783841223.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-b3a73e33a07c",
       "title": "Ukrainian Forces Strike Syzran Oil Refinery, 10 Tankers and 4 Ferries",
       "description": "The General Staff of the Armed Forces of Ukraine confirmed that defense forces struck the Syzran oil refinery in the Samara region, causing explosions and fires. The facility has an annual capacity of 8.5 million tons and supplies fuel to the Russian military. Additionally, Ukrainian forces struck 10 Russian tankers an…",
@@ -61,6 +61,21 @@
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-8ac22e0d81eb",
+      "title": "Live: Middle East live: US military says Strait of Hormuz open, despite Iran's claims",
+      "description": "The US military on Sunday said that \"traffic is flowing\" through the Strait of Hormuz despite Iran's claim to have closed it in the latest flare-up of the Middle East war. Iran had earlier attacked US-allied Gulf neighbors in response to the latest series of US strikes on Iran, further endangering a deal that was suppo…",
+      "url": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
+      "source": "France24",
+      "publishedAt": "2026-07-12T05:05:35Z",
+      "image": "https://s.france24.com/media/display/fc0d07c6-7dad-11f1-bb75-005056bfb2b6/w:1024/p:16x9/000-B9UE4C4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

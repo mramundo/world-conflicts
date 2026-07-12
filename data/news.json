@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T03:35:19Z",
+  "updated": "2026-07-12T06:34:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-12T03:35:15Z",
+      "publishedAt": "2026-07-12T06:34:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,33 @@
       "tags": []
     },
     {
-      "id": "al -dfdd826765e2",
-      "title": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
-      "description": "Explosions heard in the port cities of Bandar Abbas, Sirik, Chabahar, Bandar-e Deyr and Asaluyeh as US attacks continue.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+      "id": "the-a468c8ac0498",
+      "title": "EU accused of dragging its feet over ban on trade with illegal Israeli settlements",
+      "description": "Foreign ministers will discuss options on Monday but decision on imports is not expected for months The EU has been accused of dragging its feet over upholding international law, on the eve of a long-awaited debate about banning trade with illegal Israeli settlements.EU foreign ministers meeting in Brussels on Monday w…",
+      "url": "https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-12T05:00:09Z",
+      "image": "https://i.guim.co.uk/img/media/f6a893852401e2008933431a54de4507eab07832/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=84f15941e0d0ba84a9d7ec096bc3ca01",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -edf4318b70f7",
+      "title": "Nigeria rescues dozens of abducted school children in Oyo state",
+      "description": "Nigerian security forces have rescued 39 schoolchildren and five teachers abducted nearly two months ago in Oyo state.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-12T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260710__B9UE4C4__v2__HighRes__TopshotUaeIranUsIsraelWar-1783813844.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-12T01:56:01Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783821312.jpg?resize=1619%2C1080&amp;quality=80",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -124,21 +140,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-8de1a055cc8f",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "description": "Vigilantes also took part in the fight that raged all night and the following morning, residents sayNigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, according to a government official.Government troops targeted the gangs in Gummi distr…",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-11T11:59:11Z",
-      "image": "https://i.guim.co.uk/img/media/d858003c23f5b83b5571c5f6ef15e6cd9be9eebc/753_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=a005778c97ec1794e7dd4edfc5732eb0",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {

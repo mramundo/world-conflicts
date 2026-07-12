@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12T16:04:46Z",
+  "updated": "2026-07-12T18:00:05Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-12T16:04:42Z",
+      "publishedAt": "2026-07-12T17:59:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,32 +20,47 @@
       "tags": []
     },
     {
-      "id": "al -b212d7ad214f",
-      "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
-      "description": "Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-12T15:16:44Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a539e905166-1783864976.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-6ced47296bc6",
-      "title": "“You are going to war. I don’t know whether you will return.” - Sponsored Content",
-      "description": "After surviving the battlefield, Eitan faced a new fight at home. Read how one wounded veteran finally found justice, and why thousands still need your help. The post &#8220;You are going to war. I don’t know whether you will return.&#8221; appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/spotlight/you-are-going-to-war-i-dont-know-whether-you-will-return/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-12T09:57:48Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/איתן-עלייב-1-1024x640.jpg",
+      "id": "the-597505f4d1d5",
+      "title": "Trump rejects Iran’s strait of Hormuz closure claim as battle for control continues",
+      "description": "US and Iranian attacks push ceasefire to point of collapse as tensions escalate across Gulf regionDonald Trump has rejected Iranian claims to have closed off the strait of Hormuz, as both sides battled for control over the waterway, leaving a ceasefire agreed last month at the point of collapse.US forces said they had …",
+      "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-12T17:46:32Z",
+      "image": "https://i.guim.co.uk/img/media/1d5ae5f7e9cd17db1393a67cbf0caebef1ff3f54/0_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=85b6023aa26be57a3343a00a86b540e4",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-d319e5e70fb3",
+      "title": "IDF says it hit weapons site in Gaza, as 6 said killed in Strip, including girl",
+      "description": "IDF says unaware of incident in which 9-year-old reported killed; says operatives were inside arms factory during strike, 2 Hamas members killed last week The post IDF says it hit weapons site in Gaza, as 6 said killed in Strip, including girl appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/idf-says-it-hit-weapons-site-in-gaza-as-6-said-killed-in-strip-including-girl/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-12T17:17:04Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20260712__B9YJ3LB__v1__HighRes__PalestinianIsraelConflictGaza-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e4234ce207b1",
+      "title": "UK Christians protest for Church of England to recognise genocide in Gaza",
+      "description": "UK Christians are urging the Church of England General Synod to pass a motion to engage with Kairos Palelestine II",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-12T16:54:49Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783875274.jpg?resize=1441%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -61,37 +76,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-8ac22e0d81eb",
-      "title": "Live: Middle East live: US military says Strait of Hormuz open, despite Iran's claims",
-      "description": "The US military on Sunday said that \"traffic is flowing\" through the Strait of Hormuz despite Iran's claim to have closed it in the latest flare-up of the Middle East war. Iran had earlier attacked US-allied Gulf neighbors in response to the latest series of US strikes on Iran, further endangering a deal that was suppo…",
-      "url": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
-      "source": "France24",
-      "publishedAt": "2026-07-12T05:05:35Z",
-      "image": "https://s.france24.com/media/display/fc0d07c6-7dad-11f1-bb75-005056bfb2b6/w:1024/p:16x9/000-B9UE4C4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-a468c8ac0498",
-      "title": "EU accused of dragging its feet over ban on trade with illegal Israeli settlements",
-      "description": "Foreign ministers will discuss options on Monday but decision on imports is not expected for months The EU has been accused of dragging its feet over upholding international law, on the eve of a long-awaited debate about banning trade with illegal Israeli settlements.EU foreign ministers meeting in Brussels on Monday w…",
-      "url": "https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-12T05:00:09Z",
-      "image": "https://i.guim.co.uk/img/media/f6a893852401e2008933431a54de4507eab07832/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=84f15941e0d0ba84a9d7ec096bc3ca01",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

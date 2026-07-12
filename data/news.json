@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12T13:23:55Z",
+  "updated": "2026-07-12T14:58:26Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,27 +10,12 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-12T13:23:52Z",
+      "publishedAt": "2026-07-12T14:58:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-77eb40560669",
-      "title": "Trump praises Lindsey Graham as ‘one of the greatest people I have ever known’ after senator dies of sudden illness – live",
-      "description": "Graham’s abrupt death will send shock waves through Washington and the Republican partyLindsey Graham, key ally of Donald Trump, has died after sudden illness, his office saysSign up for the Breaking News US emailLindsey Graham made a name for himself with his work on foreign policy and was a leading voice in Washingto…",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/12/lindsey-graham-dies-sudden-illness-trump-politics-live",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-12T13:09:56Z",
-      "image": "https://i.guim.co.uk/img/media/0efe72f19d9f9b3069b1b545c785b173a2203db5/223_0_4375_3498/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=8afce6e5521dcb90c30d78fd1de44a51",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -80,6 +65,22 @@
       "tags": []
     },
     {
+      "id": "the-a468c8ac0498",
+      "title": "EU accused of dragging its feet over ban on trade with illegal Israeli settlements",
+      "description": "Foreign ministers will discuss options on Monday but decision on imports is not expected for months The EU has been accused of dragging its feet over upholding international law, on the eve of a long-awaited debate about banning trade with illegal Israeli settlements.EU foreign ministers meeting in Brussels on Monday w…",
+      "url": "https://www.theguardian.com/world/2026/jul/12/eu-accused-dragging-its-feet-ban-trade-israeli-settlements",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-12T05:00:09Z",
+      "image": "https://i.guim.co.uk/img/media/f6a893852401e2008933431a54de4507eab07832/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=84f15941e0d0ba84a9d7ec096bc3ca01",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-983923e110d2",
       "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
       "description": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
@@ -111,21 +112,6 @@
       "tags": []
     },
     {
-      "id": "ans-922b0defa4d9",
-      "title": "Kiev, 'stanotte colpite 21 petroliere russe nel Mar d'Azov'",
-      "description": "'Utilizzate da Mosca per ttasportare greggio eludendo le sanzioni'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/11/kiev-stanotte-colpite-21-petroliere-russe-nel-mar-dazov_65341574-28a6-4d27-9fbb-0c7af04f577d.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-11T15:17:05Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/f22e411ef6d53b25d4acbacfcf49ab9d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-bd08139b510b",
       "title": "One Killed in Drone Strike on Vessels in Taganrog Bay, Russian Authorities Say",
       "description": "Regional authorities said more than one and a half dozen drones were destroyed during the attack.",
@@ -137,6 +123,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-8ca4f954469d",
+      "title": "Poland could cut arms aid to Ukraine as WWII spat continues",
+      "description": "As Poland observes a day of remembrance for the victims of a Ukrainian nationalist military unit, there are increasing signs that it could cut off its neighbor from military aid, even as the war against Russia continues.",
+      "url": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-11T05:19:00Z",
+      "image": "https://static.dw.com/image/77426072_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,21 +202,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-5238b14eebd2",
-      "title": "Congo: UN laments uptick in fighting in South Kivu",
-      "description": "The UN human rights chief has called for an immediate halt to fighting in eastern Democratic Republic of Congo. This follows intensified clashses between the army and the Rwanda-backed M23 militia in South Kivu.",
-      "url": "https://www.dw.com/en/congo-un-laments-uptick-in-fighting-in-south-kivu/a-77887082?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-09T13:57:00Z",
-      "image": "https://static.dw.com/image/77889756_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12T19:18:32Z",
+  "updated": "2026-07-12T20:52:26Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-12T19:18:29Z",
+      "publishedAt": "2026-07-12T20:52:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,8 +20,39 @@
       "tags": []
     },
     {
+      "id": "the-19d81b7571c9",
+      "title": "US congressman says ‘IDF is lying’ about his detention by settlers and soldiers",
+      "description": "Israeli ambassador to US accuses Ro Khanna of political stunt to distract from support for Graham PlatnerRo Khanna accused the Israeli government and military of “lying” on Sunday about the US congressman’s detention by armed settlers and Israeli soldiers during a recent visit to the Israeli-occupied West Bank.Khanna –…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/ro-khanna-israel-detention-reaction",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-12T20:25:43Z",
+      "image": "https://i.guim.co.uk/img/media/e01053124788d2b4852f5672553dd27144e0e80a/352_0_3517_2813/master/3517.jpg?width=140&quality=85&auto=format&fit=max&s=0bc3e320c90d8b80e64f4d5adbd4e387",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -915391471fcf",
+      "title": "Why the Iran-US ceasefire is falling apart",
+      "description": "Iran, US resumed fighting because they don’t see each other as ‘reliable negotiating partners’, says analyst Ali Vaez.",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-12T19:27:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783884431.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "fra-94e22af6e371",
-      "title": "Are tanks aging like the cavalry in WW1?",
+      "title": "Are tanks ageing like the cavalry in WW1?",
       "description": "The rapid pace of technological advances in drone warfare, guided by artificial intelligence in Ukraine and elsewhere in the world, has fundamentally changed the face of conflict. There is a question about how radical that change is: an evolution or a revolution in warfare? And it's causing all sorts of headaches for g…",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260712-are-tanks-aging-like-the-cavalry-in-ww1",
       "source": "France24",
@@ -47,21 +78,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e4234ce207b1",
-      "title": "UK Christians protest for Church of England to recognise genocide in Gaza",
-      "description": "UK Christians are urging the Church of England General Synod to pass a motion to engage with Kairos Palelestine II",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-12T16:54:49Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783875274.jpg?resize=1441%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,33 +112,17 @@
       "tags": []
     },
     {
-      "id": "le -a35f01af6f42",
-      "title": "Why heatwaves disrupt our sleep – and how we can protect it",
-      "description": "High temperatures shorten nights by affecting sleep quality, posing a threat to public health. To help combat this, one expert advises keeping up morning outings to avoid further disruptions to our body clocks.",
-      "url": "https://www.lemonde.fr/en/science/article/2026/07/11/why-heatwaves-disrupt-our-sleep-and-how-we-can-protect-it_6755384_10.html",
+      "id": "le -0c8ffef5a345",
+      "title": "War in Ukraine: Kyiv spends sleepless nights underground as Russia intensifies attacks",
+      "description": "Since May 24, the Ukrainian capital has been in mourning, hit by Russian strikes involving ballistic missiles and new, ultra-fast jet-powered drones, while the city's air defense faces a severe shortage of anti-missile systems.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/11/war-in-ukraine-kyiv-spends-sleepless-nights-underground-as-russia-intensifies-attacks_6755371_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-11T21:02:12Z",
-      "image": "https://img.lemde.fr/2026/07/10/404/0/5000/2500/644/322/60/0/3a63d05_upload-1-6pto5d6do2nb-000-b8e33ke.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-8de1a055cc8f",
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "description": "Vigilantes also took part in the fight that raged all night and the following morning, residents sayNigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, according to a government official.Government troops targeted the gangs in Gummi distr…",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-11T11:59:11Z",
-      "image": "https://i.guim.co.uk/img/media/d858003c23f5b83b5571c5f6ef15e6cd9be9eebc/753_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=a005778c97ec1794e7dd4edfc5732eb0",
+      "publishedAt": "2026-07-11T10:30:04Z",
+      "image": "https://img.lemde.fr/2026/07/10/443/0/2953/1476/644/322/60/0/2a89c88_upload-1-y4dq6fquyf20-2026-07-10-heg-ukraine-0091.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,22 +201,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -1d4264eebf57",
-      "title": "Why Erdoğan’s Turkey is seeing its stock rise in NATO and the Middle East",
-      "description": "NATO summit host Turkey is enjoying a moment of increased stature, both within the alliance and the region. Key to its ascendance has been the flexibility it has displayed to maneuver among warring factions in Syria, Ukraine, and the Persian Gulf.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0709/turkey-erdogan-trump-russia-nato-iran?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-07-09T20:03:47Z",
-      "image": "https://images.csmonitor.com/csm/2026/07/0709_OTURKEY_lede_trump_erdogan.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
       "tags": []
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12T18:00:05Z",
+  "updated": "2026-07-12T19:18:32Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-12T17:59:56Z",
+      "publishedAt": "2026-07-12T19:18:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,19 @@
       "tags": []
     },
     {
-      "id": "the-597505f4d1d5",
-      "title": "Trump rejects Iran’s strait of Hormuz closure claim as battle for control continues",
-      "description": "US and Iranian attacks push ceasefire to point of collapse as tensions escalate across Gulf regionDonald Trump has rejected Iranian claims to have closed off the strait of Hormuz, as both sides battled for control over the waterway, leaving a ceasefire agreed last month at the point of collapse.US forces said they had …",
-      "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-12T17:46:32Z",
-      "image": "https://i.guim.co.uk/img/media/1d5ae5f7e9cd17db1393a67cbf0caebef1ff3f54/0_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=85b6023aa26be57a3343a00a86b540e4",
+      "id": "fra-94e22af6e371",
+      "title": "Are tanks aging like the cavalry in WW1?",
+      "description": "The rapid pace of technological advances in drone warfare, guided by artificial intelligence in Ukraine and elsewhere in the world, has fundamentally changed the face of conflict. There is a question about how radical that change is: an evolution or a revolution in warfare? And it's causing all sorts of headaches for g…",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260712-are-tanks-aging-like-the-cavalry-in-ww1",
+      "source": "France24",
+      "publishedAt": "2026-07-12T17:33:28Z",
+      "image": "https://s.france24.com/media/display/902a7e82-7e0f-11f1-8437-005056bfb2b6/w:1024/p:16x9/ANGL260712-1815-Live-CS1815.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -108,6 +109,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-8de1a055cc8f",
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "description": "Vigilantes also took part in the fight that raged all night and the following morning, residents sayNigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, according to a government official.Government troops targeted the gangs in Gummi distr…",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-11T11:59:11Z",
+      "image": "https://i.guim.co.uk/img/media/d858003c23f5b83b5571c5f6ef15e6cd9be9eebc/753_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=a005778c97ec1794e7dd4edfc5732eb0",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T23:56:56Z",
+  "updated": "2026-07-12T03:35:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-11T23:56:52Z",
+      "publishedAt": "2026-07-12T03:35:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -dfdd826765e2",
+      "title": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+      "description": "Explosions heard in the port cities of Bandar Abbas, Sirik, Chabahar, Bandar-e Deyr and Asaluyeh as US attacks continue.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-12T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260710__B9UE4C4__v2__HighRes__TopshotUaeIranUsIsraelWar-1783813844.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,22 +108,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -d6c8273f4d18",
-      "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
-      "description": "Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.",
-      "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-11T13:18:29Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/img_6438_720-1783771001.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

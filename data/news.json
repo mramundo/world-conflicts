@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T06:34:26Z",
+  "updated": "2026-07-12T09:03:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/hong-kong-looks-beyond-iran-war-in-cultivating-china-mideast-business",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-12T06:34:22Z",
+      "publishedAt": "2026-07-12T09:03:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F1%2F7%2F2%2F12752714-1-eng-GB%2F0b15e8172d85-IMG_3758.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-b3a73e33a07c",
+      "title": "Ukrainian Forces Strike Syzran Oil Refinery, 10 Tankers and 4 Ferries",
+      "description": "The General Staff of the Armed Forces of Ukraine confirmed that defense forces struck the Syzran oil refinery in the Samara region, causing explosions and fires. The facility has an annual capacity of 8.5 million tons and supplies fuel to the Russian military. Additionally, Ukrainian forces struck 10 Russian tankers an…",
+      "url": "https://www.kyivpost.com/post/80102",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-12T07:42:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/12/88e133fa15a8c4c5ac511706369eaa55.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,17 +51,17 @@
       "tags": []
     },
     {
-      "id": "al -edf4318b70f7",
-      "title": "Nigeria rescues dozens of abducted school children in Oyo state",
-      "description": "Nigerian security forces have rescued 39 schoolchildren and five teachers abducted nearly two months ago in Oyo state.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
+      "id": "al -dfdd826765e2",
+      "title": "Iran war live: Tehran attacks Jordan, Gulf states after US bombardment",
+      "description": "Fears grow of further US-Iran escalation after largest tit-for-tat attacks yet during the ceasefire.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-12T01:56:01Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783821312.jpg?resize=1619%2C1080&amp;quality=80",
+      "publishedAt": "2026-07-12T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a534455-1783841877.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -124,22 +139,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-ebc27bfdbe68",
-      "title": "Azov Mayhem, Tavria Offensive Tactics, How to Shoot Stuff Down",
-      "description": "Is Ukraine preparing to take back the Azov coast? Kyiv expanded its campaign against Russia’s shadow tanker fleet, fuel infrastructure and rear-area logistics while concentrating capable units in the Zaporizhzhia sector and testing new drone-led assault tactics. Meanwhile the crucial air battle it heating up.",
-      "url": "https://www.kyivpost.com/opinion/80046",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-11T12:00:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/11/766802d8eebfb37335530300d98716a5.webp?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     },
     {

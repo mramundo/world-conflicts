@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-13T06:54:49Z",
+  "updated": "2026-07-13T10:29:07Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/us-emerges-as-helium-winner-amid-iran-war-and-china-restrictions2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-13T06:54:47Z",
+      "publishedAt": "2026-07-13T10:29:03Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F9%2F7%2F5%2F12755793-2-eng-GB%2Fe1da095d88ae-1b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,59 @@
       "tags": []
     },
     {
-      "id": "al -0bdf3a2b13c2",
-      "title": "Sheikh Hamad: The Arab leader who broke Israel’s siege on Gaza",
-      "description": "A look at Sheikh Hamad bin Khalifa Al Thani&#039;s enduring legacy of solidarity and support for the Palestinian people.",
-      "url": "https://www.aljazeera.com/news/2026/7/13/sheikh-hamad-the-arab-leader-who-broke-israels-siege-on-gaza?traffic_source=rss",
+      "id": "the-689981e6e789",
+      "title": "Iran launches attacks on American military facilities in Bahrain and Kuwait after fresh US strikes – Middle East crisis live",
+      "description": "US military says it hit dozens of Iranian sites in strikes on Monday while UN chief warns that a return to full-scale fighting would be ‘catastrophic’US launches new attack wave on Iran as Tehran says diplomacy has proven ‘futile’Gaza’s health ministry said in its latest update that at least 7 people were killed and 32…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-13T10:24:12Z",
+      "image": "https://i.guim.co.uk/img/media/837d557acf263834b1834840440863736403b35e/386_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=c946267a29b47077a6ffe5041931cac5",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-59c3d39a122f",
+      "title": "Cremlino, 'i Volenterosi sono istigatori della guerra'",
+      "description": "'Seguiremo attentamente il loro vertice a Parigi'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/13/cremlino-i-volenterosi-sono-istigatori-della-guerra_b21e18e2-e853-4e6c-9fb4-bb6b3fc5e6d7.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-13T10:03:58Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/5/29/476d53ed6484eae0608291eddbe8158a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-9f429a0a28df",
+      "title": "'Coalition of the willing' meets in Paris to bolster war support to Ukraine",
+      "description": "Ukrainian drone strikes killed four people and wounded seven in Russia on July 13, most in the Moscow region, as Kyiv upped its strikes in response to Kremlin's barrages. This comes as the 'coalition of the willing', a coalition of Ukraine's allies, gather in Paris. FRANCE 24's Gulliver Cragg tells us more.",
+      "url": "https://www.france24.com/en/video/20260713-coalition-of-the-willing-meets-in-paris-to-bolster-war-support-to-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-07-13T09:32:49Z",
+      "image": "https://s.france24.com/media/display/8b847822-7e9d-11f1-8823-005056a97e36/w:1024/p:16x9/AP26006720743424.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ff348b81618f",
+      "title": "US and Iran trade strikes as ceasefire comes under growing strain",
+      "description": "Iran&#039;s IRGC says it attacked sites linked to the US military in Kuwait, Bahrain and Oman after latest US bombardment.",
+      "url": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-13T05:39:53Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/GettyImages-154604964-1783833258.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-13T09:01:48Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-13T034404Z_15392971_RC2RCMAAB9QI_RTRMADP_3_IRAN-CRISIS-1783929758.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -35,48 +81,32 @@
       "tags": []
     },
     {
-      "id": "the-19d81b7571c9",
-      "title": "US congressman says ‘IDF is lying’ about his detention by settlers and soldiers",
-      "description": "Israeli ambassador to US accuses Ro Khanna of political stunt to distract from support for Graham PlatnerRo Khanna accused the Israeli government and military of “lying” on Sunday about the US congressman’s detention by armed settlers and Israeli soldiers during a recent visit to the Israeli-occupied West Bank.Khanna –…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/12/ro-khanna-israel-detention-reaction",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-12T20:25:43Z",
-      "image": "https://i.guim.co.uk/img/media/e01053124788d2b4852f5672553dd27144e0e80a/352_0_3517_2813/master/3517.jpg?width=140&quality=85&auto=format&fit=max&s=0bc3e320c90d8b80e64f4d5adbd4e387",
+      "id": "le -8d9ed3baa8fe",
+      "title": "Ukraine's allies gather in Paris to rally support, pile pressure on Russia",
+      "description": "More than 25 heads of state will join Ukrainian President Volodymyr Zelensky in Paris on Monday for a summit aimed at pushing a ceasefire and countering signs of allied fatigue, a day before Zelensky joins France's Bastille Day military parade.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/13/ukraine-s-allies-gather-in-paris-to-rally-support-pile-pressure-on-russia_6755424_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-13T07:37:53Z",
+      "image": "https://img.lemde.fr/2026/07/09/492/0/8640/4320/644/322/60/0/c2e774f_ftp-1-cekqikzq9tut-3f73336475b8413ca9771c070026411c-0-43707c212e214e1998932545f36b30f1.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-94e22af6e371",
-      "title": "Are tanks ageing like the cavalry in WW1?",
-      "description": "The rapid pace of technological advances in drone warfare, guided by artificial intelligence in Ukraine and elsewhere in the world, has fundamentally changed the face of conflict. There is a question about how radical that change is: an evolution or a revolution in warfare? And it's causing all sorts of headaches for g…",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260712-are-tanks-aging-like-the-cavalry-in-ww1",
-      "source": "France24",
-      "publishedAt": "2026-07-12T17:33:28Z",
-      "image": "https://s.france24.com/media/display/902a7e82-7e0f-11f1-8437-005056bfb2b6/w:1024/p:16x9/ANGL260712-1815-Live-CS1815.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-d319e5e70fb3",
-      "title": "IDF says it hit weapons site in Gaza, as 6 said killed in Strip, including girl",
-      "description": "IDF says unaware of incident in which 9-year-old reported killed; says operatives were inside arms factory during strike, 2 Hamas members killed last week The post IDF says it hit weapons site in Gaza, as 6 said killed in Strip, including girl appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/idf-says-it-hit-weapons-site-in-gaza-as-6-said-killed-in-strip-including-girl/",
+      "id": "tim-f587a963446d",
+      "title": "50 years since Entebbe: Operation Thunderbolt - Sponsored Content",
+      "description": "Noam unpacks Operation Thunderbolt, Israel's secret operation to rescue the hostages at Entebbe, and asks whether this story has enduring lessons for us today. The post 50 years since Entebbe: Operation Thunderbolt appeared first on The Times of Israel.",
+      "url": "https://toi.li/JUAq07",
       "source": "Times of Israel",
-      "publishedAt": "2026-07-12T17:17:04Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20260712__B9YJ3LB__v1__HighRes__PalestinianIsraelConflictGaza-1024x640.jpg",
+      "publishedAt": "2026-07-13T07:21:39Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP7607040321-e1783143581941-1024x640.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -107,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -0c8ffef5a345",
-      "title": "War in Ukraine: Kyiv spends sleepless nights underground as Russia intensifies attacks",
-      "description": "Since May 24, the Ukrainian capital has been in mourning, hit by Russian strikes involving ballistic missiles and new, ultra-fast jet-powered drones, while the city's air defense faces a severe shortage of anti-missile systems.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/11/war-in-ukraine-kyiv-spends-sleepless-nights-underground-as-russia-intensifies-attacks_6755371_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-11T10:30:04Z",
-      "image": "https://img.lemde.fr/2026/07/10/443/0/2953/1476/644/322/60/0/2a89c88_upload-1-y4dq6fquyf20-2026-07-10-heg-ukraine-0091.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

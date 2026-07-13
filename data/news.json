@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-13T16:35:34Z",
+  "updated": "2026-07-13T18:44:48Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 15,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/us-emerges-as-helium-winner-amid-iran-war-and-china-restrictions2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-13T16:35:32Z",
+      "publishedAt": "2026-07-13T18:44:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F9%2F7%2F5%2F12755793-2-eng-GB%2Fe1da095d88ae-1b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -21,16 +21,77 @@
     },
     {
       "id": "the-81ba02f57d67",
-      "title": "Shabana Mahmood tells MPs suspect in Ann Widdecombe investigation ‘not known to Prevent’ – UK politics live",
+      "title": "Shabana Mahmood tells MPs suspect in Ann Widdecombe investigation ‘not known to Prevent’ – as it happened",
       "description": "Home secretary updates Parliament after counter-terrorism police take over investigation into her deathAnn Widdecombe death: counter-terrorism police take over investigationThe government has announced that it is in effect proscribing the Islamic Revolutionary Guard Corps (IRGC). It is doing so using new powers under t…",
       "url": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour",
       "source": "The Guardian",
-      "publishedAt": "2026-07-13T16:24:17Z",
-      "image": "https://i.guim.co.uk/img/media/a3d6a8e3982dabb504f91d421ecd7d5759019eda/516_0_2968_2374/master/2968.jpg?width=140&quality=85&auto=format&fit=max&s=2009a549225803d6bc7e014dd84f4895",
+      "publishedAt": "2026-07-13T17:40:45Z",
+      "image": "https://i.guim.co.uk/img/media/6a11bd06b73c5d8c9dd32cd9b0a65f693580ac24/635_0_2677_2143/master/2677.jpg?width=140&quality=85&auto=format&fit=max&s=bb04ae76877333879a745184610c6e5c",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-5a7870ba078b",
+      "title": "Trump administration launches effort to ‘dismantle’ the International Criminal Court",
+      "description": "Rubio says plan's message is 'sovereign states over globalism'; State Dept. official says options include travel bans, visa revocations, increased sanctions against court officials The post Trump administration launches effort to &#8216;dismantle&#8217; the International Criminal Court appeared first on The Times of Is…",
+      "url": "https://www.timesofisrael.com/trump-administration-launches-effort-to-dismantle-the-international-criminal-court/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-13T17:35:18Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2024/11/AP24317382720482-1024x640.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -d337f32e19a8",
+      "title": "Winter was harsh, but resilient Odesa making summer a season of hope",
+      "description": "Odesa, home to a Ukrainian seaport that is a critical link in the global food security chain, endured its worst winter of Russian attacks since the war began, then prepared for a vibrant summer with a determination not just to survive but to build a better future.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0713/ukraine-russia-war-odesa-port-resilience-hope?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-07-13T17:31:38Z",
+      "image": "https://images.csmonitor.com/csm/2026/06/0605_OODESA_beach_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-529d3ad08009",
+      "title": "Lula, il pedaggio Usa sullo Stretto di Hormuz sarebbe 'pirateria'",
+      "description": "Il presidente brasiliano attacca Trump: 'anormale guadagnare dalla guerra'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/13/lula-il-pedaggio-usa-sullo-stretto-di-hormuz-sarebbe-pirateria_69095cef-42f9-4749-a88e-6663e6a16297.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-13T17:12:41Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/11/b3cd76fb04c93eb361fa62f75c061ac4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-12eda169485f",
+      "title": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
+      "description": "The move comes after the U.S. and Iran exchanged fire for the third weekend in a row, raising the specter of a return to all-out war after a shaky ceasefire took effect in June.",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
+      "source": "NPR World",
+      "publishedAt": "2026-07-13T16:53:40Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F07%2F5b023aca4e0496bd9e51ae8bc34c%2Fgettyimages-2285158693.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,21 +112,6 @@
       "tags": []
     },
     {
-      "id": "ans-ea0ad5c9d85b",
-      "title": "Rubio annuncia una nuova offensiva contro la Cpi, minaccia nuove sanzioni",
-      "description": "Al vaglio dell'amministrazione Usa nuove iniziative contro la Corte e i suoi giudici",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/13/rubio-annuncia-una-nuova-offensiva-contro-la-cpi-minaccia-nuove-sanzioni_a19cad78-48dd-4fc3-ab5a-7e157cd1b400.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-13T15:26:46Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/3/3edd48949c4edf1afe6382966d0d49a0.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -7b515ca803ff",
       "title": "What is the EU’s plan to cut trade with illegal Israeli settlements?",
       "description": "Foreign ministers&#039; meeting comes months after the EU imposed sanctions on Israel over West Bank settlement construction.",
@@ -79,21 +125,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "tim-85ef891e9820",
-      "title": "Yemen’s Saudi-backed army bombs Houthi-held Sanaa airport to block Iranian plane",
-      "description": "Rebels say plane landed anyway, without saying where, blame Saudi Arabia and vow retaliation, as tensions flare between group and internationally recognized Yemeni government The post Yemen&#8217;s Saudi-backed army bombs Houthi-held Sanaa airport to block Iranian plane appeared first on The Times of Israel.",
-      "url": "https://www.timesofisrael.com/yemens-saudi-backed-army-bombs-houthi-held-sanaa-airport-to-block-iranian-plane/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-13T13:40:07Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20260713__C22E6CQ__v2__HighRes__YemenSaudiConflictAviation-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -127,32 +158,17 @@
       "tags": []
     },
     {
-      "id": "npr-18ee6e106e7a",
-      "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
-      "description": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.",
-      "url": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
-      "source": "NPR World",
-      "publishedAt": "2026-07-13T12:02:33Z",
-      "image": "undefined",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-a41d1c6ce98a",
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "description": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
-      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "id": "bbc-fdb35ced4029",
+      "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
+      "description": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-07-12T16:35:50Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d015/live/7ee2a4e0-7df8-11f1-9800-45cddfec00b9.jpg",
+      "publishedAt": "2026-07-13T12:02:19Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f7/live/eb705460-7eaf-11f1-b5ec-67e9897fe2ad.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

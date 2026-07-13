@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T18:44:48Z",
+  "updated": "2026-07-13T20:16:42Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/us-emerges-as-helium-winner-amid-iran-war-and-china-restrictions2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-13T18:44:44Z",
+      "publishedAt": "2026-07-13T20:16:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F9%2F7%2F5%2F12755793-2-eng-GB%2Fe1da095d88ae-1b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,32 @@
       "tags": []
     },
     {
-      "id": "the-81ba02f57d67",
-      "title": "Shabana Mahmood tells MPs suspect in Ann Widdecombe investigation ‘not known to Prevent’ – as it happened",
-      "description": "Home secretary updates Parliament after counter-terrorism police take over investigation into her deathAnn Widdecombe death: counter-terrorism police take over investigationThe government has announced that it is in effect proscribing the Islamic Revolutionary Guard Corps (IRGC). It is doing so using new powers under t…",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-13T17:40:45Z",
-      "image": "https://i.guim.co.uk/img/media/6a11bd06b73c5d8c9dd32cd9b0a65f693580ac24/635_0_2677_2143/master/2677.jpg?width=140&quality=85&auto=format&fit=max&s=bb04ae76877333879a745184610c6e5c",
+      "id": "ans-6496276df5fc",
+      "title": "Mondiali: appello dei veterani delle Malvinas, 'il calcio non è una guerra'",
+      "description": "Alla vigilia di Argentina-Inghilterra: \"Nessuna rivincita, solo una partita\"",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/13/mondiali-appello-dei-veterani-delle-malvinas-il-calcio-non-e-una-guerra_35f1caec-4226-4e0e-a047-7cb81c31e258.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-13T19:40:30Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/4/2/ed0167f762c18b1254cdae455e707d20.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-614e5ff9883d",
+      "title": "‘Coalition of the willing’ to build shared European anti-ballistic programme",
+      "description": "Ukraine and nine other countries including UK issue joint statement as leaders meet Volodymyr Zelenskyy in ParisUkraine and nine other countries including the UK, Germany and France are to build a shared protection programme for Europe against ballistic missiles, using Kyiv’s experience in fighting Russia’s full-scale …",
+      "url": "https://www.theguardian.com/world/2026/jul/13/coalition-of-the-willing-build-shared-european-anti-ballistic-programme",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-13T18:45:46Z",
+      "image": "https://i.guim.co.uk/img/media/0480fec21079366ccf7a0805b22730be72d4fcbf/471_103_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=718eb14c72ecf96c5d675e5e558096c8",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,24 +81,9 @@
       "tags": []
     },
     {
-      "id": "ans-529d3ad08009",
-      "title": "Lula, il pedaggio Usa sullo Stretto di Hormuz sarebbe 'pirateria'",
-      "description": "Il presidente brasiliano attacca Trump: 'anormale guadagnare dalla guerra'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/13/lula-il-pedaggio-usa-sullo-stretto-di-hormuz-sarebbe-pirateria_69095cef-42f9-4749-a88e-6663e6a16297.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-13T17:12:41Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/11/b3cd76fb04c93eb361fa62f75c061ac4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-12eda169485f",
-      "title": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
-      "description": "The move comes after the U.S. and Iran exchanged fire for the third weekend in a row, raising the specter of a return to all-out war after a shaky ceasefire took effect in June.",
+      "title": "Trump says the U.S. is back to blockading Iran and will charge ships a toll in Hormuz",
+      "description": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
       "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
       "source": "NPR World",
       "publishedAt": "2026-07-13T16:53:40Z",
@@ -158,6 +158,21 @@
       "tags": []
     },
     {
+      "id": "le -04849ae46e9d",
+      "title": "France sanctions Russian elite cyberespionage unit 'Turla'",
+      "description": "France accused Russia's Federal Security Service (FSB) of a series of cyberattacks targeting French ministries and a research institute working on sensitive subjects. The Russian ambassador to France will be summoned in the coming days.",
+      "url": "https://www.lemonde.fr/en/pixels/article/2026/07/13/france-sanctions-russian-elite-cyberespionage-unit-turla_6755432_13.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-13T12:16:38Z",
+      "image": "https://img.lemde.fr/2026/07/13/171/0/5692/2846/644/322/60/0/f6672a1_ftp-1-lrlcjf78hmfy-2026-07-13t082209z-700640867-rc2m3lavnoca-rtrmadp-3-ukraine-crisis-russia-france.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-fdb35ced4029",
       "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
       "description": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
@@ -185,22 +200,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -a35f01af6f42",
-      "title": "Why heatwaves disrupt our sleep – and how we can protect it",
-      "description": "High temperatures shorten nights by affecting sleep quality, posing a threat to public health. To help combat this, one expert advises keeping up morning outings to avoid further disruptions to our body clocks.",
-      "url": "https://www.lemonde.fr/en/science/article/2026/07/11/why-heatwaves-disrupt-our-sleep-and-how-we-can-protect-it_6755384_10.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-11T21:02:12Z",
-      "image": "https://img.lemde.fr/2026/07/10/404/0/5000/2500/644/322/60/0/3a63d05_upload-1-6pto5d6do2nb-000-b8e33ke.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

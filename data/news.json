@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T05:32:52Z",
+  "updated": "2026-07-14T08:09:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/us-emerges-as-helium-winner-amid-iran-war-and-china-restrictions2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-14T05:32:47Z",
+      "publishedAt": "2026-07-14T08:09:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F9%2F7%2F5%2F12755793-2-eng-GB%2Fe1da095d88ae-1b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-ab8d58fec172",
+      "title": "Watch live: France's Bastille Day parade to showcase European support for Ukraine",
+      "description": "France's annual July 14 military parade will feature aircraft from 11 European countries and around 500 troops from the Coalition of the Willing allies that have pledged to help with Ukraine’s post-war security in a showcase of support for Kyiv. The event will also mark President Emmanuel Macron’s last Bastille Day in …",
+      "url": "https://www.france24.com/en/france/20260714-france-bastille-day-parade-showcase-european-support-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-07-14T06:16:49Z",
+      "image": "https://s.france24.com/media/display/fa6b0362-7ed6-11f1-b29c-005056a97e36/w:1024/p:16x9/000-66P28RU.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,24 +50,24 @@
       "tags": []
     },
     {
-      "id": "al -d796cfd220fd",
-      "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
-      "description": "Israel shows no sign of letting up its attacks on the devastated Palestinian territory, despite a &#039;ceasefire&#039; in place.",
-      "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
+      "id": "al -66cc1c85ddb7",
+      "title": "Iran war live: US launches more attacks; 1 killed in Iranian strike on ship",
+      "description": "Tehran claims retaliatory strikes on Kuwait, Bahrain and Jordan, as well as two oil tankers in the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-13T23:41:32Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a547fcfad-1783922639.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26194329729132-1783984926.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "tim-45b82cc062b5",
       "title": "In major escalation, Yemen’s Houthis target Saudi Arabia’s Abha airport",
-      "description": "Iran-backed rebels warn airlines against using Saudi air space as they fire missiles and drones in response to attack on Sanaa International Airport that they blame on Riyadh The post In major escalation, Yemen&#8217;s Houthis target Saudi Arabia&#8217;s Abha airport appeared first on The Times of Israel.",
+      "description": "Iran-backed rebels warn airlines against using Saudi airspace as they fire missiles and drones in response to attack on Sanaa International Airport that they blame on Riyadh The post In major escalation, Yemen&#8217;s Houthis target Saudi Arabia&#8217;s Abha airport appeared first on The Times of Israel.",
       "url": "https://www.timesofisrael.com/in-major-escalation-yemens-houthis-target-saudi-arabias-abha-airport/",
       "source": "Times of Israel",
       "publishedAt": "2026-07-13T21:56:45Z",
@@ -137,22 +152,6 @@
         "analysis"
       ],
       "relevanceScore": 14,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-c8923e37da9b",
-      "title": "What is the Coalition of the willing that is meeting in Paris?",
-      "description": "The coalition of the willing, an initiative of 35 countries committed to supporting Ukraine militarily, is meeting in Paris on July 13. Ukrainian President Volodymyr Zelensky will be in attendance. It's a sign of the “strategic awakening” Europe hopes to see in the face of Vladimir Putin’s Russia and Donald Trump’s Ame…",
-      "url": "https://www.france24.com/en/what-is-the-coalition-of-the-willing-that-is-meeting-in-paris",
-      "source": "France24",
-      "publishedAt": "2026-07-13T15:06:57Z",
-      "image": "https://s.france24.com/media/display/c7e962b8-7ecb-11f1-a5d3-005056a97e36/w:1024/p:16x9/000-C22T42A.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },

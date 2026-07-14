@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T12:15:15Z",
+  "updated": "2026-07-14T14:53:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/us-emerges-as-helium-winner-amid-iran-war-and-china-restrictions2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-14T12:15:12Z",
+      "publishedAt": "2026-07-14T14:53:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F9%2F7%2F5%2F12755793-2-eng-GB%2Fe1da095d88ae-1b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,33 +20,77 @@
       "tags": []
     },
     {
-      "id": "al -b24fcb2a290a",
-      "title": "What we know about UK politician Ann Widdecombe’s murder",
-      "description": "The former politician was found dead in her home last week after sustaining &#039;serious injuries&#039;, according to police.",
-      "url": "https://www.aljazeera.com/news/2026/7/14/what-we-know-about-uk-politician-ann-widdecombes-murder?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-14T11:40:56Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a55ef09cfa7-1784016649.jpg?resize=1920%2C1440",
+      "id": "bbc-a1a443dd0815",
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "description": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-14T13:46:14Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/d7d46710-7f87-11f1-a47a-d94293d2b0e4.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "the-abc16f9ccd62",
-      "title": "Russia Prepares to Reroute Grain Exports From Sea of Azov After Ukrainian Attacks",
-      "description": "Shipping in the Sea of Azov remained restricted on Tuesday, according to Reuters sources, marking the biggest disruption to the Black Sea grain trade since the start of the war in Ukraine.",
-      "url": "https://www.themoscowtimes.com/2026/07/14/russia-prepares-to-reroute-grain-exports-from-sea-of-azov-after-ukrainian-attacks-a93241",
+      "id": "the-53a2213d4c7a",
+      "title": "Japan Admits Need to Counter Espionage After Russian ‘Den of Spies’ Report",
+      "description": "The New York Times reported that thanks to \"weak espionage laws,\" Moscow was using Japan as a hub for intelligence gathering and procurement of dual-use technology needed for its war in Ukraine.",
+      "url": "https://www.themoscowtimes.com/2026/07/14/japan-admits-need-to-counter-espionage-after-russian-den-of-spies-report-a93245",
       "source": "The Moscow Times",
-      "publishedAt": "2026-07-14T10:28:44Z",
-      "image": "https://static.themoscowtimes.com/image/og/45/93241__45c1824b0a9aea167565a29e700a1ca1.jpg",
+      "publishedAt": "2026-07-14T13:44:41Z",
+      "image": "https://static.themoscowtimes.com/image/og/a1/93245__a147a5ba96d9e1dc049486ecf7f2ab77.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-39d8a2983793",
+      "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran deal",
+      "description": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by 70 cents on last yearInflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, which has since ended, brought energy prices down, according to new data from the Bureau of Labor Statistics.The consumer pr…",
+      "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-14T13:29:52Z",
+      "image": "https://i.guim.co.uk/img/media/73777bbbf4a12fad407f0cc3de044975b225c483/635_0_6292_5031/master/6292.jpg?width=140&quality=85&auto=format&fit=max&s=83f24351873855320fa2bee823340bda",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -153d95121dd0",
+      "title": "Sudan sentences RSF chief Hemedti to death: Who’s he, what’s he accused of?",
+      "description": "Port Sudan trial of paramilitary leaders centres on atrocities in West Darfur.",
+      "url": "https://www.aljazeera.com/news/2026/7/14/sudan-sentences-rsf-chief-hemedti-to-death-whos-he-whats-he-accused-of?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-14T12:02:37Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/11/ap_6924bf1fea8ce-1764015903.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "tim-5315bd01ddef",
+      "title": "US military footage shows its first-ever suicide boat drone strike on Iran",
+      "description": "Corsair unmanned surface vessels hit Iranian submarine and ship maintenance facility at Bandar Abbas, a month after drone boat rescued downed US aircrew in Strait of Hormuz The post US military footage shows its first-ever suicide boat drone strike on Iran appeared first on The Times of Israel.",
+      "url": "https://www.timesofisrael.com/us-military-footage-shows-its-first-ever-suicide-boat-drone-strike-on-iran/",
+      "source": "Times of Israel",
+      "publishedAt": "2026-07-14T11:35:11Z",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26194774981470-1024x640.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,21 +110,6 @@
       "tags": []
     },
     {
-      "id": "the-7e26dd3b0330",
-      "title": "Polish-Ukrainian solidarity over Russian threat undermined by bitter historical dispute",
-      "description": "Kyiv’s decision to honour second world war fighters who killed about 100,000 Poles has revived simmering tensionsIn the aftermath of Russia’s attack on Ukraine in February 2022, Polish-Ukrainian solidarity emerged as one of the most heartwarming subplots of the Kremlin’s brutal war. Millions of Poles, remembering their…",
-      "url": "https://www.theguardian.com/world/2026/jul/14/poland-ukraine-upa-second-world-war-massacre-dispute",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-14T08:19:19Z",
-      "image": "https://i.guim.co.uk/img/media/10036d424ce56a137af0b09d1da903a8d11b0d8f/644_362_4444_3555/master/4444.jpg?width=140&quality=85&auto=format&fit=max&s=2840189081a5b5bbe971a522ad7bab1e",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-ab8d58fec172",
       "title": "France's Bastille Day parade showcases European support for Ukraine",
       "description": "France's annual July 14 military parade this year featured aircraft from 11 European countries and around 500 troops from Coalition of the Willing allies that have pledged to help with Ukraine’s post-war security in a showcase of support for Kyiv. The event marked President Emmanuel Macron’s last Bastille Day parade in…",
@@ -92,21 +121,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "tim-09857e67510a",
-      "title": "Candidate vying to replace Platner claims Israel ‘committing genocide in Gaza right now’",
-      "description": "Maine's Shenna Bellows adopts anti-Israel stance while seeking Democratic nomination for US Senate, as belief in genocide claim becomes increasingly prevalent among party members The post Candidate vying to replace Platner claims Israel &#8216;committing genocide in Gaza right now&#8217; appeared first on The Times of …",
-      "url": "https://www.timesofisrael.com/candidate-vying-to-replace-platner-claims-israel-committing-genocide-in-gaza-right-now/",
-      "source": "Times of Israel",
-      "publishedAt": "2026-07-14T03:53:19Z",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP24317683747964-e1784000268413-1024x640.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -183,21 +197,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-fdb35ced4029",
-      "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
-      "description": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
-      "url": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-13T12:02:19Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f7/live/eb705460-7eaf-11f1-b5ec-67e9897fe2ad.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

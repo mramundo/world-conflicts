@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T10:48:33Z",
+  "updated": "2026-07-14T12:15:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 15,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/us-emerges-as-helium-winner-amid-iran-war-and-china-restrictions2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-14T10:48:29Z",
+      "publishedAt": "2026-07-14T12:15:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F9%2F7%2F5%2F12755793-2-eng-GB%2Fe1da095d88ae-1b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b24fcb2a290a",
+      "title": "What we know about UK politician Ann Widdecombe’s murder",
+      "description": "The former politician was found dead in her home last week after sustaining &#039;serious injuries&#039;, according to police.",
+      "url": "https://www.aljazeera.com/news/2026/7/14/what-we-know-about-uk-politician-ann-widdecombes-murder?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-14T11:40:56Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a55ef09cfa7-1784016649.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -36,7 +52,7 @@
     },
     {
       "id": "le -c6c7abc8c8fa",
-      "title": "France celebrates Bastille Day, Macron's last, with parade showcasing unity with allies and Ukraine",
+      "title": "France celebrates Bastille Day, Macron's last as president, with parade showcasing unity with allies and Ukraine",
       "description": "The final July 14 parade presided over by President Emmanuel Macron, the event brought together thousands of French troops but also two dozen foreign heads of state and government, including Ukrainian President Volodymyr Zelensky.",
       "url": "https://www.lemonde.fr/en/france/article/2026/07/14/france-celebrates-bastille-day-macron-s-last-with-parade-centering-on-ukraine_6755456_7.html",
       "source": "Le Monde (EN)",
@@ -76,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -6dae631342a6",
-      "title": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
-      "description": "Yemen&#039;s Houthis say they struck Saudi Arabia&#039;s Abha airport in retaliation for a strike on Sanaa’s international airport",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-14T04:10:13Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784001865.jpg?resize=1620%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,6 +202,22 @@
       "tags": []
     },
     {
+      "id": "un -427461d77496",
+      "title": "Strait of Hormuz: UN agencies call for diplomacy to end attacks",
+      "description": "As both Washington and Tehran claim to control the critical commercial shipping route through the narrow Strait of Hormuz, UN agencies on Monday are calling for de-escalation amid the recent spike in strikes in the region related to the US-Iran war.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167929",
+      "source": "UN News",
+      "publishedAt": "2026-07-13T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-03-2026-NASA-Hormus-02.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-b3a73e33a07c",
       "title": "Ukrainian Forces Strike Syzran Oil Refinery, 10 Tankers and 4 Ferries",
       "description": "The General Staff of the Armed Forces of Ukraine confirmed that defense forces struck the Syzran oil refinery in the Samara region, causing explosions and fires. The facility has an annual capacity of 8.5 million tons and supplies fuel to the Russian military. Additionally, Ukrainian forces struck 10 Russian tankers an…",
@@ -212,21 +229,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -6768f260695d",
-      "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
-      "description": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrike…",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
-      "source": "UN News",
-      "publishedAt": "2026-07-11T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/09-07-2026_UNNews_Gaza_Rubble_02.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

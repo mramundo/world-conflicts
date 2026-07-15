@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:10:56Z",
+  "updated": "2026-07-15T22:02:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-15T20:10:51Z",
+      "publishedAt": "2026-07-15T22:02:55Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,13 @@
       "tags": []
     },
     {
-      "id": "fra-fbae37961bd6",
-      "title": "EU, Ukraine seal 'drone deal' to boost production, establish joint ventures",
-      "description": "EU chief Ursula von der Leyen on Wednesday announced a \"drone deal\" with Ukraine to boost joint production of the key battlefield technology. Ukraine has already signed similar deals with some individual EU countries and Gulf nations looking to tap into the expertise Kyiv has developed during more than four years of wa…",
-      "url": "https://www.france24.com/en/eu-ukraine-seal-drone-deal-to-boost-production-establish-joint-ventures",
+      "id": "fra-acf560257455",
+      "title": "Ukraine defence minister resigns as part of Zelensky's cabinet reshuffle",
+      "description": "Ukraine's Defence Minister Mykhailo Fedorov announced his resignation on Wednesday as part of President Volodymyr Zelensky's cabinet reshuffle, stepping down after overseeing a rapid expansion of drone warfare capabilities and military reforms during Russia's full-scale invasion.",
+      "url": "https://www.france24.com/en/europe/20260715-ukraine-defence-minister-resigns-zelensky-cabinet-reshuffle",
       "source": "France24",
-      "publishedAt": "2026-07-15T19:34:53Z",
-      "image": "https://s.france24.com/media/display/4749d3ea-8083-11f1-b7b7-005056a90284/w:1024/p:16x9/EN-20260715-203831-204337-CS.jpg",
+      "publishedAt": "2026-07-15T21:49:52Z",
+      "image": "https://s.france24.com/media/display/5cc6fa8a-8093-11f1-ba05-005056bfb2b6/w:1024/p:16x9/2026-07-15T192242Z-774889553-RC2W4MARBEUJ-RTRMADP-3-UKRAINE-CRISIS-GOVERNMENT-FEDOROV.jpg",
       "categories": [
         "conflict"
       ],
@@ -35,32 +35,48 @@
       "tags": []
     },
     {
-      "id": "kyi-dd26e02cf099",
-      "title": "UN Records June as Deadliest Month for Ukrainian Civilians Since April 2022",
-      "description": "The United Nation’s (UN) Human Rights Monitoring Mission in Ukraine recorded 293 civilians killed and 1,990 injured in June 2026, the highest monthly toll since the early phases of Russia’s full-scale invasion of Ukraine in April 2022. Long-range weapons and frontline drone strikes drove most of the casualties.",
-      "url": "https://www.kyivpost.com/post/80343",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-15T18:16:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/05/15/f6c8b28d234fc754f64e49b9de68bc4d.jpg?w=640&q=90&f=jpg",
+      "id": "npr-a18ae2e31921",
+      "title": "Sen. Shaheen discusses new Russia sanctions bill",
+      "description": "A conversation with Jeanne Shaheen, Democratic Senator from New Hampshire, about a bipartisan bill she put together with the late Senator Lindsey Graham that slaps new sanctions on Russia.",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5893688/sen-shaheen-discusses-new-russia-sanctions-bill",
+      "source": "NPR World",
+      "publishedAt": "2026-07-15T21:23:00Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5893688",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -4a9b2912de3b",
-      "title": "Father, mother, daughter killed in Israeli attack on Gaza home",
-      "description": "Palestinians held a funeral for a father, a mother and their six-year-old daughter killed in an Israeli air attack.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
+      "id": "al -43d99c4c7c50",
+      "title": "What are the obstacles to peace between Israel and Lebanon?",
+      "description": "Another round of talks is under way between Israel and Lebanon to try to advance the ceasefire agreement.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-15T16:24:39Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide_thumb-1784132651.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-15T20:46:03Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784147690.jpg?resize=1920%2C1061&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-2df62d228fbb",
+      "title": "Russia Fires 6,001 Drones, 170 Bombs as Ukraine Repels 235 Clashes",
+      "description": "The Armed Forces of Ukraine repelled 235 clashes across the front line on Wednesday, July 15, with the heaviest fighting near Pokrovsk and Kostiantynivka. Russian forces used 170 guided bombs and 6,001 kamikaze drones during the assault.",
+      "url": "https://www.kyivpost.com/post/80346",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-15T20:34:00Z",
+      "image": "https://static.kyivpost.com/storage/2024/06/04/a4307f3873855398b2c91a4a04c959ca.jpg?w=640&q=90&f=jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -83,7 +99,7 @@
     {
       "id": "un -5b9f3fe9d3a9",
       "title": "Security Council LIVE: International Criminal Court briefs on Darfur",
-      "description": "The Security Council meets at 3pm on Wednesday for an update on the International Criminal Court's work in Sudan's Darfur region, referred to the Court back in 2005. Focus has recently turned to atrocities in the ongoing war between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF). The briefing comes …",
+      "description": "The Security Council is meeting on Wednesday for an update on the International Criminal Court's work in Sudan's Darfur region, referred to the Court back in 2005. Focus has recently turned to atrocities in the ongoing war between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF). The briefing comes as…",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167945",
       "source": "UN News",
       "publishedAt": "2026-07-15T12:00:00Z",
@@ -150,21 +166,6 @@
       "source": "ANSA",
       "publishedAt": "2026-07-14T22:30:11Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/14/5e708220a21fe39e99b68a72fcf4af2d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-d7e4b35a248b",
-      "title": "Rep. Ro Khanna on being detained by Israeli settlers in the West Bank",
-      "description": "NPR's Ailsa Chang speaks with Rep. Ro Khanna, D-Calif., about his recent trip to the occupied West Bank and temporary detention by Israeli settlers and soldiers.",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5893386/rep-ro-khanna-on-being-detained-by-israeli-settlers-in-the-west-bank",
-      "source": "NPR World",
-      "publishedAt": "2026-07-14T22:23:59Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5893386",
       "categories": [
         "conflict"
       ],

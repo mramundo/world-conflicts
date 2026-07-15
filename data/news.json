@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T10:51:58Z",
+  "updated": "2026-07-15T12:16:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/companies/china-s-big-three-airlines-lose-up-to-1.33bn-amid-middle-east-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-15T10:51:56Z",
+      "publishedAt": "2026-07-15T12:16:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F9%2F4%2F12804957-1-eng-GB%2F20e2fdc9eb8b-2024-04-05T031927Z_733270637_RC2HZ6A60J41_RTRMADP_3_TOTW-TRAVEL-AIR.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,34 @@
       "tags": []
     },
     {
-      "id": "fra-3b74a901594e",
-      "title": "Firefighters continue to battle 'contained' Fontainebleau fire near Paris",
-      "description": "Hundreds of French firefighters on Tuesday managed to contain two fires that have burned over 2,000 hectares of the historic Fontainebleau forest near Paris over the last two days. But the local prefect warned that the fires were not extinguished and firefighters will need to remain on the scene for days, if not weeks.",
-      "url": "https://www.france24.com/en/video/20260715-firefighters-continue-to-battle-contained-fontainebleau-fire-near-paris",
-      "source": "France24",
-      "publishedAt": "2026-07-15T10:40:00Z",
-      "image": "https://s.france24.com/media/display/017a1520-8036-11f1-8deb-005056bfb2b6/w:1024/p:16x9/EN-20260715-103722-103911-CS.jpg",
+      "id": "the-252ba09ec2a8",
+      "title": "Trump flip-flops on Hormuz toll and threatens Iran’s civilian infrastructure | First Thing",
+      "description": "US president says power plants and bridges could be targeted, which would probably constitute war crimes. Plus, the bear that raided an elderly couple’s fridge, and a stolen cat involved in a bank robberyGood morning. Donald Trump has threatened to expand US strikes on Iran next week to target civilian infrastructure i…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/first-thing-trump-hormuz-toll-iran-civilian-infrastructure",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-15T11:42:56Z",
+      "image": "https://i.guim.co.uk/img/media/755c730dce6ad3e8649dd80302bbef85b9962076/322_0_2459_1968/master/2459.jpg?width=140&quality=85&auto=format&fit=max&s=943ac89089711c85d4d64f21ac8fdf7e",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-0d64a673db7b",
+      "title": "Haiti trapped by violence: Humanitarian aid deliveries struggle to reach local population",
+      "description": "In this edition, our reporters look at Haiti, which is still in the grips of a long-running battle against armed gangs in the capital and some provinces. A new international security force is being deployed but has yet to make widespread progress. Against this backdrop, the humanitarian crisis in the country is continu…",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260715-haiti-trapped-by-violence-humanitarian-aid-deliveries-struggle-to-reach-local-population",
+      "source": "France24",
+      "publishedAt": "2026-07-15T11:02:24Z",
+      "image": "https://s.france24.com/media/display/daa9897c-7f9e-11f1-8d7e-005056a97e36/w:1024/p:16x9/FR-NW-OOV-ECRAN-FREEZE-HAITI-AIDE-HUMANITAIRE-BAIN-Lauren.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -42,21 +59,6 @@
       "source": "The Moscow Times",
       "publishedAt": "2026-07-15T09:29:33Z",
       "image": "https://static.themoscowtimes.com/image/og/51/93251__51fc0cbae9cd6f8e65210a693dd870d7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-672b40c96912",
-      "title": "Former Sydney church turned LGBTQ+ arts venue weighs legal action after landlord orders it to stop ‘offensive trade’",
-      "description": "Divine Playhouse promoter and founder says venue faces significant operational, legal and financial challengesGet our breaking news email, free app or daily news podcastA former church turned arts venue at the centre of a culture war is exploring legal action after receiving a notice from its landlord that forced its o…",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/15/divine-playhouse-sydney-lgbtq-church-religious-protest-landlord-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-15T09:15:41Z",
-      "image": "https://i.guim.co.uk/img/media/140093a430b67f9f1d87c8f75e432790723da365/1396_647_3505_2805/master/3505.jpg?width=140&quality=85&auto=format&fit=max&s=a5f1e79b3f888c8ff19476a54f5bdbc7",
       "categories": [
         "conflict"
       ],
@@ -103,6 +105,21 @@
       "source": "ANSA",
       "publishedAt": "2026-07-14T22:30:11Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/14/5e708220a21fe39e99b68a72fcf4af2d.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-d7e4b35a248b",
+      "title": "Rep. Ro Khanna on being detained by Israeli settlers in the West Bank",
+      "description": "NPR's Ailsa Chang speaks with Rep. Ro Khanna, D-Calif., about his recent trip to the occupied West Bank and temporary detention by Israeli settlers and soldiers.",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893386/rep-ro-khanna-on-being-detained-by-israeli-settlers-in-the-west-bank",
+      "source": "NPR World",
+      "publishedAt": "2026-07-14T22:23:59Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5893386",
       "categories": [
         "conflict"
       ],
@@ -168,21 +185,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-12eda169485f",
-      "title": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
-      "description": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-07-13T16:53:40Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2F0d%2Fa2d1316548308b755735e222358b%2Fap26194329729132.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

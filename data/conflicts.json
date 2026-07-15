@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T12:16:42Z",
+  "updated": "2026-07-15T14:52:49Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-07-14T23:45:47Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-07-15",
       "wikipediaRevision": "2026-07-15T03:05:06Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -403,10 +403,10 @@
         "Interstate"
       ],
       "wikipediaPage": "Insurgency_in_Jammu_and_Kashmir",
-      "lastUpdate": "2026-06-08",
+      "lastUpdate": "2026-07-15",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-06-08T19:44:24Z",
-      "recentNewsCount": 0
+      "wikipediaRevision": "2026-07-15T12:44:32Z",
+      "recentNewsCount": 1
     },
     {
       "id": "red-sea",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     }
   ]
 }

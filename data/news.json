@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-15T18:09:55Z",
+  "updated": "2026-07-15T20:10:56Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-15T18:09:49Z",
+      "publishedAt": "2026-07-15T20:10:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-fbae37961bd6",
+      "title": "EU, Ukraine seal 'drone deal' to boost production, establish joint ventures",
+      "description": "EU chief Ursula von der Leyen on Wednesday announced a \"drone deal\" with Ukraine to boost joint production of the key battlefield technology. Ukraine has already signed similar deals with some individual EU countries and Gulf nations looking to tap into the expertise Kyiv has developed during more than four years of wa…",
+      "url": "https://www.france24.com/en/eu-ukraine-seal-drone-deal-to-boost-production-establish-joint-ventures",
+      "source": "France24",
+      "publishedAt": "2026-07-15T19:34:53Z",
+      "image": "https://s.france24.com/media/display/4749d3ea-8083-11f1-b7b7-005056a90284/w:1024/p:16x9/EN-20260715-203831-204337-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-dd26e02cf099",
+      "title": "UN Records June as Deadliest Month for Ukrainian Civilians Since April 2022",
+      "description": "The United Nation’s (UN) Human Rights Monitoring Mission in Ukraine recorded 293 civilians killed and 1,990 injured in June 2026, the highest monthly toll since the early phases of Russia’s full-scale invasion of Ukraine in April 2022. Long-range weapons and frontline drone strikes drove most of the casualties.",
+      "url": "https://www.kyivpost.com/post/80343",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-15T18:16:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/15/f6c8b28d234fc754f64e49b9de68bc4d.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,22 +65,6 @@
       "tags": []
     },
     {
-      "id": "fra-0fb1f47a47ba",
-      "title": "Why the US is launching naval drones at Iran’s port city of Bandar Abbas",
-      "description": "The US has pounded Iran’s southern port city of Bandar Abbas since Tehran and Washington renewed missile strikes last week, including an unprecedented sea drone attack on a submarine maintenance facility. We take a look at why this city of more than half a million people has become a prime target for the US military.",
-      "url": "https://www.france24.com/en/middle-east/20260715-why-the-us-is-launching-naval-drones-at-iran-s-port-city-of-bandar-abbas",
-      "source": "France24",
-      "publishedAt": "2026-07-15T16:24:28Z",
-      "image": "https://s.france24.com/media/display/65d5a672-7f11-11f1-b75f-005056a90284/w:1024/p:16x9/2026-07-13T191949Z-263152874-RC20DMAOGMIR-RTRMADP-3-IRAN-CRISIS-USA-CENTCOM-SEA-DRONES.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "the-aaf4a4812b8f",
       "title": "As Russia’s assault continues, Ukraine’s politics shift and an old alliance begins to fray",
       "description": "Beneath the ​drone strikes and ​talk of ceasefires lies a battle over history that is testing ​Kyiv’s chances for an end to the conflict• Don’t get This Is Europe delivered to your inbox? Sign up hereI’ve just come back from a trip to Kyiv, where after more than four years of war, it can feel like the political and dip…",
@@ -58,6 +72,22 @@
       "source": "The Guardian",
       "publishedAt": "2026-07-15T14:30:56Z",
       "image": "https://i.guim.co.uk/img/media/df3bc516444cbec96aa4b61717bc38b70bb45ff9/848_0_4221_3379/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=5a6466eac7d44ce9a4b425201fdcc8f7",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -5b9f3fe9d3a9",
+      "title": "Security Council LIVE: International Criminal Court briefs on Darfur",
+      "description": "The Security Council meets at 3pm on Wednesday for an update on the International Criminal Court's work in Sudan's Darfur region, referred to the Court back in 2005. Focus has recently turned to atrocities in the ongoing war between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF). The briefing comes …",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167945",
+      "source": "UN News",
+      "publishedAt": "2026-07-15T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-UNOCHA-Sudan-Darfur-04.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict",
         "humanitarian"
@@ -154,21 +184,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -1b290d8af64d",
-      "title": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022",
-      "description": "Civilian casualties in Ukraine soared during the first half of 2026 amid escalating Russian attacks and intensifying use of deadly weapons, the UN human rights monitoring mission in the country, HRMMU, said on Tuesday.&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167935",
-      "source": "UN News",
-      "publishedAt": "2026-07-14T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/06-07-2026-UNOCHA-Ukraine-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T15:41:18Z",
+  "updated": "2026-07-16T17:18:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-16T15:41:14Z",
+      "publishedAt": "2026-07-16T17:18:42Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-c9b25cd9ad8c",
+      "title": "Zelensky invoca 'unità' esercito dopo le critiche per le dimissioni di Fedorov",
+      "description": "'Un presidente in tempo di guerra non dovrebbe essere costretto a scegliere'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/16/zelensky-invoca-unita-esercito-dopo-le-critiche-per-le-dimissioni-di-fedorov_be4b8544-a7b3-4a2c-9cd1-69136160a2c2.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-16T16:30:31Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/16/c934300b9568cfc37e18aae6693d95b4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-e91abaa0a151",
+      "title": "Monaco assassination plot takes a new turn",
+      "description": "A woman suspected of plotting to assassinate a Ukrainian-Cypriot businessman in Monaco has been found dead in Ukraine. Two men with ties to Ukraine's intelligence services have now been brought into custody.",
+      "url": "https://www.dw.com/en/monaco-assassination-plot-takes-a-new-turn/a-77983714?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-16T16:04:00Z",
+      "image": "https://static.dw.com/image/77942402_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -61,21 +91,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-c9b25cd9ad8c",
-      "title": "Zelensky invoca 'unità' esercito dopo le critiche per le dimissioni di Fedorov",
-      "description": "'Un presidente in tempo di guerra non dovrebbe essere costretto a scegliere'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/16/zelensky-invoca-unita-esercito-dopo-le-critiche-per-le-dimissioni-di-fedorov_be4b8544-a7b3-4a2c-9cd1-69136160a2c2.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-16T12:32:39Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/16/c934300b9568cfc37e18aae6693d95b4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -167,21 +182,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-87244a43ab8a",
-      "title": "Palestinians in Gaza: Stuck between Hamas and Israel",
-      "description": "Hamas is planning to transfer control of Gaza's civilian administration to Palestinian technocrats as part of the fragile US ceasefire. How is that affecting the daily lives of people living in Gaza?",
-      "url": "https://www.dw.com/en/palestinians-in-gaza-stuck-between-hamas-and-israel/a-77956421?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-15T08:08:00Z",
-      "image": "https://static.dw.com/image/77686166_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

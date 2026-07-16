@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-16T11:41:14Z",
+  "updated": "2026-07-16T13:56:50Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,59 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-16T11:41:11Z",
+      "publishedAt": "2026-07-16T13:56:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-6568a45c1dbb",
+      "title": "Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live",
+      "description": "Foreign ministry spokesman says children’s cancer hospital had to be evacuated in Ahvaz; Kuwait says it responding to renewed Iranian drone attacksUS attacks oil tanker in strait of Hormuz as strikes reported in TehranThe Lebanese foreign minister, Youssef Raggi, said Lebanon has made a decision to “end Hezbollah’s mil…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-16T13:32:41Z",
+      "image": "https://i.guim.co.uk/img/media/46569dc860738ad3220fae89b1bae87bf53cd606/291_0_2498_1999/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=2b93f17382fe4bbb260366a375ba5728",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-bb3b570c9004",
+      "title": "'Thousands of people are still dying over a few meters of ground' in Ukraine",
+      "description": "In this edition, British photographer Mark Neville, who is based in Kyiv, talks about his passion for the future of Ukraine and his belief that the country will win the war with Russia that started after Moscow’s full-scale invasion in 2022. He has spoken with FRANCE 24 multiple times to share some of the still photogr…",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260716-thousands-of-people-are-still-dying-over-a-few-meters-of-ground-in-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-07-16T12:35:38Z",
+      "image": "https://s.france24.com/media/display/1460834c-80f7-11f1-9dc4-005056bf30b7/w:1024/p:16x9/ANGL260716-1015-Live-CS1015.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-c9b25cd9ad8c",
+      "title": "Zelensky invoca 'unità' esercito dopo le critiche per le dimissioni di Fedorov",
+      "description": "'Un presidente in tempo di guerra non dovrebbe essere costretto a scegliere'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/16/zelensky-invoca-unita-esercito-dopo-le-critiche-per-le-dimissioni-di-fedorov_be4b8544-a7b3-4a2c-9cd1-69136160a2c2.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-16T12:32:39Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/16/c934300b9568cfc37e18aae6693d95b4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,52 +82,6 @@
       "tags": []
     },
     {
-      "id": "the-6568a45c1dbb",
-      "title": "US strikes expand to northern Iran as Tehran fires on Bahrain, Kuwait and Jordan – Middle East crisis live",
-      "description": "Iran reports explosions in several cities including capital while US military says it also hit and disabled tanker in strait of Hormuz US attacks oil tanker in strait of Hormuz as strikes reported in TehranThe Lebanese foreign minister, Youssef Raggi, said Lebanon has made a decision to “end Hezbollah’s military presen…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-16T11:21:04Z",
-      "image": "https://i.guim.co.uk/img/media/5589e0def504971b669a1a0272bf09788bc48fed/563_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=cd1eb9380225548c8b9cc32bad865189",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-e5c8a92f6b6d",
-      "title": "Protests erupt in Ukraine as Zelensky removes 'his most popular' minister",
-      "description": "Large protests erupted in several Ukrainian cities on July 16 against the removal of popular Defence Minister Mykhailo Fedorov by President Volodymyr Zelensky. Only appointed six months ago, Fedorov carved a reputation as a moderniser who tried to reform the Ukrainian military, worn down by more than four years of the …",
-      "url": "https://www.france24.com/en/protests-erupt-in-ukraine-as-zelensky-removes-defence-minister-his-most-popular",
-      "source": "France24",
-      "publishedAt": "2026-07-16T08:55:28Z",
-      "image": "https://s.france24.com/media/display/0ff57118-80ee-11f1-92fd-005056a90284/w:1024/p:16x9/2026-07-16T075109Z-1708748864-RC2VEMA35USU-RTRMADP-3-UKRAINE-CRISIS-GOVERNMENT-PROTEST.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -a8991b7e3e24",
-      "title": "Pete Hegseth says US military to start testosterone screening for over 30s",
-      "description": "US Defense Secretary says plan is &#039;about restoring and optimising ... natural capabilities&#039; of troops.",
-      "url": "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-16T07:57:55Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a587e5df2d2-1784184414.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -7bbf2410aa83",
       "title": "Over 500 feared dead in two suspected shipwrecks off Myanmar, UN warns",
       "description": "Two United Nations agencies reported Thursday the ships that disappeared in recent weeks were carrying more than 500 people from Myanmar's war-torn Rakhine State. Most of the people on the vessels were thought to be members of the country's Muslim Rohingya minority.",
@@ -93,21 +94,6 @@
         "humanitarian"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-1af14d245281",
-      "title": "Bolivia chiede chiarimenti a Mosca su connazionali reclutati per la guerra in Ucraina",
-      "description": "Attivati i protocolli consolari dopo denunce su due giovani morti e altri casi sospetti",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/16/bolivia-chiede-chiarimenti-a-mosca-su-connazionali-reclutati-per-la-guerra-in-ucraina_31ae806c-1ba3-40e5-b2bf-e77affaba9c5.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-15T22:32:50Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/14/3a821a5e3c70d6274127154db85f73ef.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

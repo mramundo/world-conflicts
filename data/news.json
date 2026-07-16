@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-16T06:20:26Z",
+  "updated": "2026-07-16T09:16:54Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-16T06:20:23Z",
+      "publishedAt": "2026-07-16T09:16:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,63 @@
       "tags": []
     },
     {
-      "id": "al -9adab55113a5",
-      "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
-      "description": "Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-16T00:00:48Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260715__C28T2WH__v1__HighRes__UsIranIsraelWar-1-1784180682.jpg?resize=1920%2C1440",
+      "id": "the-d063d01484b2",
+      "title": "Zelenskyy faces outrage over defence minister sacking as Starmer makes farewell Ukraine visit as UK PM – Europe live",
+      "description": "Arrival of outgoing British leader in Ukraine comes as Zelenskyy faces outrage after removing Mykhailo FedorovUkraine’s military ⁠struck six Russian tankers ⁠and ⁠two tugboats ​in the Black ⁠Sea and Sea of ⁠Azov overnight, the ​military’s ‌General ‌Staff said, as reported by Reuters.The tankers are being used to transp…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-16T08:50:53Z",
+      "image": "https://i.guim.co.uk/img/media/47464e373ff8fcfc88d323d12eebcffb67dee47b/619_0_3930_3144/master/3930.jpg?width=140&quality=85&auto=format&fit=max&s=df50823728a590e8d759b97a040b7761",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-00a1cbafdaab",
+      "title": "Dismissal of Ukraine's popular defense minister draws intense criticism",
+      "description": "As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism",
+      "source": "NPR World",
+      "publishedAt": "2026-07-16T08:44:04Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5894781",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -7bbf2410aa83",
+      "title": "Over 500 feared dead in two suspected shipwrecks off Myanmar, UN warns",
+      "description": "Two United Nations agencies reported Thursday the ships that disappeared in recent weeks were carrying more than 500 people from Myanmar's war-torn Rakhine State. Most of the people on the vessels were thought to be members of the country's Muslim Rohingya minority.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/16/over-500-feared-dead-in-two-suspected-shipwrecks-off-myanmar-un-warns_6755526_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-16T06:33:21Z",
+      "image": "https://img.lemde.fr/2026/04/21/27/0/5500/2750/644/322/60/0/186929e_ftp-1-1nm7a46atg1a-2026-04-21t021017z-1270615001-rc2tqka8jlvc-rtrmadp-3-bangladesh-rohingya-capsize.JPG",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1a0fef34e0e8",
+      "title": "Two killed in Russian missile attacks on Kyiv after Ukraine-EU drone deal",
+      "description": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
+      "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-16T01:58:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-15T164046Z_166059555_RC2FEMAX5LOJ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-1784160211.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -65,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "npr-a18ae2e31921",
-      "title": "Sen. Shaheen discusses new Russia sanctions bill",
-      "description": "A conversation with Jeanne Shaheen, Democratic Senator from New Hampshire, about a bipartisan bill she put together with the late Senator Lindsey Graham that slaps new sanctions on Russia.",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893688/sen-shaheen-discusses-new-russia-sanctions-bill",
-      "source": "NPR World",
-      "publishedAt": "2026-07-15T21:23:00Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5893688",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-2df62d228fbb",
       "title": "Russia Fires 6,001 Drones, 170 Bombs as Ukraine Repels 235 Clashes",
       "description": "The Armed Forces of Ukraine repelled 235 clashes across the front line on Wednesday, July 15, with the heaviest fighting near Pokrovsk and Kostiantynivka. Russian forces used 170 guided bombs and 6,001 kamikaze drones during the assault.",
@@ -91,21 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-917fce7b5439",
-      "title": "Moscow warns that foreign troops in Ukraine would be seen as legitimate targets – as it happened",
-      "description": "Members of the pro-Ukraine “coalition of the willing” this week reasserted their desire for such a force after a cessation of hostilitiesMeanwhile, the Kremlin has rejected Lithuanian president’s warnings about a potential Russian attack on critical infrastructure (10:06), dismissing them as “horror stories” intended t…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/15/ursula-von-der-leyen-ukraine-russia-volodymyr-zelenskyy-vladimir-putin-europe-live-news",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-15T15:15:38Z",
-      "image": "https://i.guim.co.uk/img/media/b493483ec10884f71dd4139b4a623073c4b7c148/422_0_4215_3372/master/4215.jpg?width=140&quality=85&auto=format&fit=max&s=f411c0d19f8c90557c80b536d90dda5d",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

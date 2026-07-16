@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T19:14:26Z",
+  "updated": "2026-07-16T21:01:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-16T19:14:22Z",
+      "publishedAt": "2026-07-16T21:01:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-f1d27f1a1f64",
+      "title": "At least one dead in Texas floods ravaging same area where campers died",
+      "description": "The same area devastated by floods last year - causing more than 130 deaths, including those at Camp Mystic - is once again being hit.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-16T17:56:47Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890e/live/3c71ee80-8137-11f1-b525-63787292c170.jpg",
       "categories": [
         "conflict"
       ],
@@ -87,7 +102,7 @@
       "url": "https://www.theguardian.com/world/2026/jul/16/trumps-board-of-peace-drops-full-gaza-recovery-plan-for-tiny-pilot-scheme",
       "source": "The Guardian",
       "publishedAt": "2026-07-16T13:58:29Z",
-      "image": "https://i.guim.co.uk/img/media/d60240c9eb4c3a87a332c4b123b9bcad0a581acc/328_0_2363_1890/master/2363.jpg?width=140&quality=85&auto=format&fit=max&s=eba0f38f1a9d3fb6b0e7b27b673bf75a",
+      "image": "https://i.guim.co.uk/img/media/10dfb9aeae89e462deb1ea780a92134db7b3f9b7/174_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=3c3ab27a88f15b69b755a6587bacac64",
       "categories": [
         "conflict"
       ],
@@ -122,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-a9fa473c092f",
-      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-      "description": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-15T21:21:19Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d14b/live/76285910-802f-11f1-a2a1-e90920ef9667.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

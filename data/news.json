@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-16T13:56:50Z",
+  "updated": "2026-07-16T15:41:18Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-16T13:56:45Z",
+      "publishedAt": "2026-07-16T15:41:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,35 +20,48 @@
       "tags": []
     },
     {
-      "id": "the-6568a45c1dbb",
-      "title": "Iran accuses US of ‘barbaric’ strike near hospital as Kuwait says it is under attack – Middle East crisis live",
-      "description": "Foreign ministry spokesman says children’s cancer hospital had to be evacuated in Ahvaz; Kuwait says it responding to renewed Iranian drone attacksUS attacks oil tanker in strait of Hormuz as strikes reported in TehranThe Lebanese foreign minister, Youssef Raggi, said Lebanon has made a decision to “end Hezbollah’s mil…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/16/iran-us-donald-trump-war-strait-hormuz-oil-israel-lebanon-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-16T13:32:41Z",
-      "image": "https://i.guim.co.uk/img/media/46569dc860738ad3220fae89b1bae87bf53cd606/291_0_2498_1999/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=2b93f17382fe4bbb260366a375ba5728",
+      "id": "fra-962e97252daa",
+      "title": "Mykhailo Fedorov: Ousted defence chief's reforms riled Ukrainian army bosses",
+      "description": "Ukraine's ousted defence minister Mykhailo Fedorov served just six months before his ambitious drive to reform the military led to irreconcilable clashes with the country's top brass, which he viewed as out of date, inflexible and mired in bureaucracy. Fedorov's early bet on drone warfare was a game-changer as Ukraine …",
+      "url": "https://www.france24.com/en/europe/20260716-ousted-defence-chief-mykhailo-fedorov-whose-reforms-riled-ukraine-s-army-bosses",
+      "source": "France24",
+      "publishedAt": "2026-07-16T14:15:14Z",
+      "image": "https://s.france24.com/media/display/df033ca4-8122-11f1-ab6a-005056bf30b7/w:1024/p:16x9/Mykhailo-Fedorov.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-bb3b570c9004",
-      "title": "'Thousands of people are still dying over a few meters of ground' in Ukraine",
-      "description": "In this edition, British photographer Mark Neville, who is based in Kyiv, talks about his passion for the future of Ukraine and his belief that the country will win the war with Russia that started after Moscow’s full-scale invasion in 2022. He has spoken with FRANCE 24 multiple times to share some of the still photogr…",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260716-thousands-of-people-are-still-dying-over-a-few-meters-of-ground-in-ukraine",
-      "source": "France24",
-      "publishedAt": "2026-07-16T12:35:38Z",
-      "image": "https://s.france24.com/media/display/1460834c-80f7-11f1-9dc4-005056bf30b7/w:1024/p:16x9/ANGL260716-1015-Live-CS1015.jpg",
+      "id": "al -36ee052caeb7",
+      "title": "US or Iran — Who needs a new truce deal more?",
+      "description": "Both sides face pressure points that could make a protracted war painful.",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-or-iran-who-needs-a-new-truce-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-16T14:13:10Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260716__C2C48XP__v1__HighRes__IranUsIsraelWar-1784194973.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 14,
-      "isAnalysis": true,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-a368a20a7cee",
+      "title": "Trump’s Board of Peace drops full Gaza recovery plan in favour of tiny pilot scheme",
+      "description": "Revised plan aims to ‘keep something going’ amid fears Netanyahu may gamble on new all-out offensive before Israeli electionsMiddle East crisis live – latest updatesThe Gaza recovery plan being pursued by Donald Trump’s Board of Peace (BoP) has shrunk dramatically from an ambitious blueprint for the reconstruction of t…",
+      "url": "https://www.theguardian.com/world/2026/jul/16/trumps-board-of-peace-drops-full-gaza-recovery-plan-for-tiny-pilot-scheme",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-16T13:58:29Z",
+      "image": "https://i.guim.co.uk/img/media/d60240c9eb4c3a87a332c4b123b9bcad0a581acc/328_0_2363_1890/master/2363.jpg?width=140&quality=85&auto=format&fit=max&s=eba0f38f1a9d3fb6b0e7b27b673bf75a",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -82,18 +95,17 @@
       "tags": []
     },
     {
-      "id": "le -7bbf2410aa83",
-      "title": "Over 500 feared dead in two suspected shipwrecks off Myanmar, UN warns",
-      "description": "Two United Nations agencies reported Thursday the ships that disappeared in recent weeks were carrying more than 500 people from Myanmar's war-torn Rakhine State. Most of the people on the vessels were thought to be members of the country's Muslim Rohingya minority.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/16/over-500-feared-dead-in-two-suspected-shipwrecks-off-myanmar-un-warns_6755526_4.html",
+      "id": "le -4a62b0a9a740",
+      "title": "Departure of Ukraine's popular defense minister sparks protests",
+      "description": "Rallies in support of Mykhailo Fedorov, Ukraine's young and popular defense minister, were held in Kyiv and around the country on Thursday, after President Volodymyr Zelensky angered politicians, military officials and the general public by announcing his removal the previous day.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/16/departure-of-ukraine-s-popular-defense-minister-sparks-protests_6755534_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-16T06:33:21Z",
-      "image": "https://img.lemde.fr/2026/04/21/27/0/5500/2750/644/322/60/0/186929e_ftp-1-1nm7a46atg1a-2026-04-21t021017z-1270615001-rc2tqka8jlvc-rtrmadp-3-bangladesh-rohingya-capsize.JPG",
+      "publishedAt": "2026-07-16T09:49:05Z",
+      "image": "https://img.lemde.fr/2026/07/16/220/0/2953/1476/644/322/60/0/5264676_upload-1-nkpzbviwcyqq-2026-07-16-heg-ukraine-0074.JPG",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T23:59:35Z",
+  "updated": "2026-07-16T03:29:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-15T23:59:32Z",
+      "publishedAt": "2026-07-16T03:29:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -9adab55113a5",
+      "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
+      "description": "Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-16T00:00:48Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-15T124225Z_2083184903_RC27EMA0BTZ8_RTRMADP_3_IRAN-CRISIS-1784159884.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,21 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -adbfe5d88265",
-      "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
-      "description": "The US announced a new wave of attacks Wednesday night, amid reported explosions in Bandar Abbas, Chabahar and Ahvaz.",
-      "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-15T21:46:57Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a57ff92-1784151954.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

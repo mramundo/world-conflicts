@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T00:05:51Z",
+  "updated": "2026-07-17T04:07:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,74 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-17T00:05:48Z",
+      "publishedAt": "2026-07-17T04:07:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-944040272f81",
+      "title": "US Senate Leadership Throws Weight Behind Renewed Russia Sanctions Push",
+      "description": "Senate Republican leadership has thrown its weight behind a renewed bipartisan push to impose sweeping new sanctions on Russia that supporters say marks the strongest congressional effort yet to increase economic pressure on Moscow over its war against Ukraine.",
+      "url": "https://www.rferl.org/a/senate-russia-sanctions-legislation-graham-war/33805545.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-07-17T03:02:57Z",
+      "image": "https://gdb.rferl.org/aa1a7559-4b05-4e6f-8430-9613265ed3df_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -afda1b8c32e6",
+      "title": "'Contemporary films about the Occupation in France sound alarm bells, with varying degrees of subtlety'",
+      "description": "The abundance of films about World War II helps explain how the gradual abandonment of democratic and republican values led to disaster, writes historian Henry Rousso in this op-ed for Le Monde.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/07/17/contemporary-films-about-the-occupation-in-france-sound-alarm-bells-with-varying-degrees-of-subtlety_6755557_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-17T01:20:45Z",
+      "image": "https://img.lemde.fr/2026/02/25/76/0/1500/750/644/322/60/0/341d0ec_upload-1-nakzuxwtpcxx-frame-1413.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -65247ba15fac",
+      "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
+      "description": "Officials report power outages, attack on train station in Bandar, as Iran says Hormuz won&#039;t return to pre-war status.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-16T23:58:15Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T063055Z_845135880_RC2REMA7T02V_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1784245726.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-f5ff5fa07bbd",
+      "title": "Middle East live: US strikes in Iran hit airport, bridges and railway station",
+      "description": "Deadly US strikes overnight hit an airport, a railway station and two bridges in Iran, killing three people, Iranian state media reported on Friday. The United States and Iran have traded fire as the foes battle over the vital Strait of Hormuz waterway in the renewed Middle East war. Follow our liveblog for the latest …",
+      "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-strikes-in-iran-hit-airport-bridges-and-railway-station",
+      "source": "France24",
+      "publishedAt": "2026-07-16T23:56:57Z",
+      "image": "https://s.france24.com/media/display/5ceab22e-816d-11f1-ab30-005056bfb2b6/w:1024/p:16x9/2026-07-09T103633Z-1709429281-RC2AAMAOMSTF-RTRMADP-3-IRAN-CRISIS-BRIDGE.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,37 +109,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-c8fdcc266699",
-      "title": "US Defense Secretary Pete Hegseth announces testosterone screening for US troops",
-      "description": "US Defense Secretary Pete Hegseth announced Wednesday that military personnel age 30 and older will undergo testing for testosterone deficiency as part of annual health screenings. \"It's well-established science that as we age, testosterone levels often naturally drop,\" Hegseth said in a video posted on X along with th…",
-      "url": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-announces-testosterone-screening-for-us-troops",
-      "source": "France24",
-      "publishedAt": "2026-07-16T20:24:37Z",
-      "image": "https://s.france24.com/media/display/3064806e-8153-11f1-a1c3-005056a90284/w:1024/p:16x9/EN-20260716-220736-221144-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7fa5cefc0772",
-      "title": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
-      "description": "Jobar was held by rebels for much of Syria&#039;s 13-year war but was destroyed by repeated government assaults.",
-      "url": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-16T17:54:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2021/03/Eastern-Gouta2018-04-02T143524Z_603854982_RC165314CDA0_RTRMADP_3_MIDEAST-CRISIS-SYRIA-GHOUTA.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -126,21 +157,6 @@
       "tags": []
     },
     {
-      "id": "le -4a62b0a9a740",
-      "title": "Departure of Ukraine's popular defense minister sparks protests",
-      "description": "Rallies in support of Mykhailo Fedorov, Ukraine's young and popular defense minister, were held in Kyiv and around the country on Thursday, after President Volodymyr Zelensky angered politicians, military officials and the general public by announcing his removal the previous day.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/16/departure-of-ukraine-s-popular-defense-minister-sparks-protests_6755534_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-16T09:49:05Z",
-      "image": "https://img.lemde.fr/2026/07/16/220/0/2953/1476/644/322/60/0/5264676_upload-1-nkpzbviwcyqq-2026-07-16-heg-ukraine-0074.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-2df62d228fbb",
       "title": "Russia Fires 6,001 Drones, 170 Bombs as Ukraine Repels 235 Clashes",
       "description": "The Armed Forces of Ukraine repelled 235 clashes across the front line on Wednesday, July 15, with the heaviest fighting near Pokrovsk and Kostiantynivka. Russian forces used 170 guided bombs and 6,001 kamikaze drones during the assault.",
@@ -184,22 +200,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-d50c6c817acd",
-      "title": "After Double Amputation, Ukrainian Vet Says 'Thirst For Independence' Led The Way To Recovery",
-      "description": "Ukrainian soldier Artem lost both his arms in combat near Pokrovske, a frontline village in Ukraine's Dnipropetrovsk region. Recovering from his injuries has meant relearning how to do daily activities -- from getting dressed to working at a computer. With the support of his wife, Veronika, Artem is now sharing stories…",
-      "url": "https://www.rferl.org/a/ukraine-wounded-soldier-amputee-disability/33803695.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-15T05:30:18Z",
-      "image": "https://gdb.rferl.org/653d7c7d-abaf-4660-304b-08decd1f5434_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     }
   ]

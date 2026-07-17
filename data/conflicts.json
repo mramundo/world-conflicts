@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-17T00:06:02Z",
+  "updated": "2026-07-17T04:08:04Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-07-15T22:28:24Z",
+  "wikipediaListRevision": "2026-07-17T00:33:55Z",
   "items": [
     {
       "id": "ru-ua",
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-07-15",
       "wikipediaRevision": "2026-07-15T22:33:03Z",
-      "recentNewsCount": 6
+      "recentNewsCount": 5
     },
     {
       "id": "il-ps",
@@ -134,7 +134,7 @@
       "lastUpdate": "2026-07-12",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-07-12T17:04:27Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "cd-east",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 2
     },
     {
       "id": "et-am",

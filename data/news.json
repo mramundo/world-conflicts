@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T19:13:22Z",
+  "updated": "2026-07-17T20:58:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-17T19:13:19Z",
+      "publishedAt": "2026-07-17T20:58:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-592aab07c959",
+      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "description": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-17T19:04:09Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d83/live/2d7f0f80-8212-11f1-bee8-53ce494e1abc.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-993d7c03cdc0",
+      "title": "Ukraine: Trouble at the Top? Adieu Keir, Alright Andy",
+      "description": "In a week that’s seen rare wartime demonstrations in Ukraine protesting the ousting of Defence Minister Mykhailo (Misha) Fedorov after six months in a job in which he’s been credited with making a difference on the battlefield and in an anti-corruption drive. But he had reportedly clashed with Ukraine’s commander-in-ch…",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
+      "source": "France24",
+      "publishedAt": "2026-07-17T18:31:02Z",
+      "image": "https://s.france24.com/media/display/0b9122c2-8209-11f1-88c5-005056a90284/w:1024/p:16x9/Anglais-2026-07-17T17-55-15-309Z.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,36 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-271835d9a49c",
-      "title": "From colonial symbol to sanctuary: Paris's Grand Mosque turns 100",
-      "description": "The Grand Mosque of Paris, built in 1926 in the Latin Quarter as a tribute to Muslim soldiers who died for France during World War I, marks its 100th anniversary this year. French historian Benjamin Stora traces its little-known role as a geopolitical bridge – not only between France and Algeria, but also between Musli…",
-      "url": "https://www.france24.com/en/france/20260717-from-colonial-symbol-sanctuary-paris-grand-mosque-turns-100",
-      "source": "France24",
-      "publishedAt": "2026-07-17T15:57:48Z",
-      "image": "https://s.france24.com/media/display/9810e9f4-7f60-11f1-b794-005056a90284/w:1024/p:16x9/AP22292519172638.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-f1d27f1a1f64",
-      "title": "At least two dead in Texas floods ravaging same area where campers died",
-      "description": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-17T14:56:26Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7e/live/26ca8eb0-81ec-11f1-b7bc-5dd9ae7a9918.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

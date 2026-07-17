@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-17T11:35:00Z",
+  "updated": "2026-07-17T13:42:08Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-fd4225c4daa8",
-      "title": "Japan Coast Guard boosts cyber capabilities to combat digital crime rings",
-      "description": "",
-      "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
-      "source": "Nikkei Asia",
-      "publishedAt": "2026-07-17T11:34:57Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "id": "al -439dbaebac10",
+      "title": "Ukraine ‘cuts off’ Crimea from Russia, plunging it into an energy crisis",
+      "description": "Ukraine is ramping up short-, medium- and long-range drone production to bring Russia’s war to a standstill.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-17T13:10:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5a208d-1784291469.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -27,21 +27,6 @@
       "source": "France24",
       "publishedAt": "2026-07-17T09:27:23Z",
       "image": "https://s.france24.com/media/display/66018abe-81c1-11f1-ab72-005056bf30b7/w:1024/p:16x9/AP26197370443572.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e257e8d7e720",
-      "title": "Israeli settlers attack Sinjil town in occupied West Bank",
-      "description": "Clashes erupted after Israeli settlers attacked the outskirts of the occupied West Bank town of Sinjil.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-17T04:39:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784263085.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict"
       ],
@@ -112,17 +97,17 @@
       "tags": []
     },
     {
-      "id": "ans-c9b25cd9ad8c",
-      "title": "Zelensky invoca 'unità' esercito dopo le critiche per le dimissioni di Fedorov",
-      "description": "'Un presidente in tempo di guerra non dovrebbe essere costretto a scegliere'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/16/zelensky-invoca-unita-esercito-dopo-le-critiche-per-le-dimissioni-di-fedorov_be4b8544-a7b3-4a2c-9cd1-69136160a2c2.html",
+      "id": "ans-fa61f61b1f0e",
+      "title": "Brasilia, le dichiarazioni di Rubio sui dazi 'inaccettabili, offensive e arroganti'",
+      "description": "Il ministro Vieira: le nuove tariffe Usa 'politiche' e un 'tentativo di interferenza'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/16/brasilia-le-dichiarazioni-di-rubio-sui-dazi-inaccettabili-offensive-e-arroganti_ed5d7128-c7ca-44ba-97b4-bcc263becc3e.html",
       "source": "ANSA",
-      "publishedAt": "2026-07-16T16:30:31Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/16/c934300b9568cfc37e18aae6693d95b4.jpg",
+      "publishedAt": "2026-07-16T18:20:13Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/1/31/da414dfd3d766491ac893bd41ed0dbfe.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

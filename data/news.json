@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T07:18:11Z",
+  "updated": "2026-07-17T09:59:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-17T07:18:08Z",
+      "publishedAt": "2026-07-17T09:59:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -35,6 +35,21 @@
       "tags": []
     },
     {
+      "id": "al -e257e8d7e720",
+      "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+      "description": "Clashes erupted after Israeli settlers attacked the outskirts of the occupied West Bank town of Sinjil.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-17T04:39:08Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784263085.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-944040272f81",
       "title": "US Senate Leadership Throws Weight Behind Renewed Russia Sanctions Push",
       "description": "Senate Republican leadership has thrown its weight behind a renewed bipartisan push to impose sweeping new sanctions on Russia that supporters say marks the strongest congressional effort yet to increase economic pressure on Moscow over its war against Ukraine.",
@@ -48,21 +63,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -65247ba15fac",
-      "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
-      "description": "Officials report power outages, attack on train station in Bandar, as Iran says Hormuz won&#039;t return to pre-war status.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-16T23:58:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T063055Z_845135880_RC2REMA7T02V_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1784245726.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {

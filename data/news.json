@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T04:07:54Z",
+  "updated": "2026-07-17T07:18:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-coast-guard-boosts-cyber-capabilities-to-combat-digital-crime-rings",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-17T04:07:50Z",
+      "publishedAt": "2026-07-17T07:18:08Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F3%2F7%2F12807322-2-eng-GB%2F13c352f5ac1c-photo_SXM2026050300001221.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -0f9c8f4e63fc",
+      "title": "US launches new strikes on Iran as Tehran warns of reprisals",
+      "description": "A battle over the strategic Strait of Hormuz has rekindled the war in the Middle East, with the United States and Tehran trading fire for six days running.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/17/us-launches-new-strikes-on-iran-as-tehran-warns-of-reprisals_6755565_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-17T05:41:21Z",
+      "image": "https://img.lemde.fr/2026/07/17/160/0/5120/2560/644/322/60/0/8834771_ftp-1-dxum3crp9q7f-2026-07-17t024315z-974955948-rc2efmabxyfk-rtrmadp-3-iran-crisis-usa-strikes-targets.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,22 +51,6 @@
       "tags": []
     },
     {
-      "id": "le -afda1b8c32e6",
-      "title": "'Contemporary films about the Occupation in France sound alarm bells, with varying degrees of subtlety'",
-      "description": "The abundance of films about World War II helps explain how the gradual abandonment of democratic and republican values led to disaster, writes historian Henry Rousso in this op-ed for Le Monde.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/07/17/contemporary-films-about-the-occupation-in-france-sound-alarm-bells-with-varying-degrees-of-subtlety_6755557_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-17T01:20:45Z",
-      "image": "https://img.lemde.fr/2026/02/25/76/0/1500/750/644/322/60/0/341d0ec_upload-1-nakzuxwtpcxx-frame-1413.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "al -65247ba15fac",
       "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
       "description": "Officials report power outages, attack on train station in Bandar, as Iran says Hormuz won&#039;t return to pre-war status.",
@@ -59,21 +58,6 @@
       "source": "Al Jazeera",
       "publishedAt": "2026-07-16T23:58:15Z",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T063055Z_845135880_RC2REMA7T02V_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1784245726.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-f5ff5fa07bbd",
-      "title": "Middle East live: US strikes in Iran hit airport, bridges and railway station",
-      "description": "Deadly US strikes overnight hit an airport, a railway station and two bridges in Iran, killing three people, Iranian state media reported on Friday. The United States and Iran have traded fire as the foes battle over the vital Strait of Hormuz waterway in the renewed Middle East war. Follow our liveblog for the latest …",
-      "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-strikes-in-iran-hit-airport-bridges-and-railway-station",
-      "source": "France24",
-      "publishedAt": "2026-07-16T23:56:57Z",
-      "image": "https://s.france24.com/media/display/5ceab22e-816d-11f1-ab30-005056bfb2b6/w:1024/p:16x9/2026-07-09T103633Z-1709429281-RC2AAMAOMSTF-RTRMADP-3-IRAN-CRISIS-BRIDGE.jpg",
       "categories": [
         "conflict"
       ],
@@ -108,6 +92,21 @@
         "conflict"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-c8fdcc266699",
+      "title": "US Defense Secretary Pete Hegseth announces testosterone screening for US troops",
+      "description": "US Defense Secretary Pete Hegseth announced Wednesday that military personnel age 30 and older will undergo testing for testosterone deficiency as part of annual health screenings. \"It's well-established science that as we age, testosterone levels often naturally drop,\" Hegseth said in a video posted on X along with th…",
+      "url": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-announces-testosterone-screening-for-us-troops",
+      "source": "France24",
+      "publishedAt": "2026-07-16T20:24:37Z",
+      "image": "https://s.france24.com/media/display/3064806e-8153-11f1-a1c3-005056a90284/w:1024/p:16x9/EN-20260716-220736-221144-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

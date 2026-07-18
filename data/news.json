@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T09:27:33Z",
+  "updated": "2026-07-18T11:05:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-18T09:27:30Z",
+      "publishedAt": "2026-07-18T11:05:08Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-36d270357eb1",
+      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "description": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+      "source": "NPR World",
+      "publishedAt": "2026-07-18T10:45:43Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x4124+0+0/resize/5500x4124!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Fbe%2F8fc227b44e9091768a2fb361c3ee%2Fap26199361352287.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -128,6 +143,21 @@
       "tags": []
     },
     {
+      "id": "the-fbdd07d4cf6c",
+      "title": "Pro-Kremlin Blogger Arrested for ‘War Fakes’ Months After Denouncing Putin",
+      "description": "In March, Ilya Remeslo shocked both supporters and critics when he publicly denounced President Vladimir Putin in a scathing manifesto.",
+      "url": "https://www.themoscowtimes.com/2026/07/17/pro-kremlin-blogger-arrested-for-war-fakes-months-after-denouncing-putin-a93275",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-07-17T09:38:38Z",
+      "image": "https://static.themoscowtimes.com/image/og/e6/93275__e64ec084e0775960b9d3e16a5c75547b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-944040272f81",
       "title": "US Senate Leadership Throws Weight Behind Renewed Russia Sanctions Push",
       "description": "Senate Republican leadership has thrown its weight behind a renewed bipartisan push to impose sweeping new sanctions on Russia that supporters say marks the strongest congressional effort yet to increase economic pressure on Moscow over its war against Ukraine.",
@@ -141,21 +171,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-c0185869cb1e",
-      "title": "Boris Nadezhdin is a rare Russian politician speaking out against the Ukraine war",
-      "description": "Boris Nadezhdin wants to run for Russia's parliament on a platform that gives voice to the Russians against the war in Ukraine. That's why, he says, the Kremlin is doing everything to stop him.",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894746/boris-nadezhdin-is-a-rare-russian-politician-speaking-out-against-the-ukraine-war",
-      "source": "NPR World",
-      "publishedAt": "2026-07-16T21:19:29Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5894746",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -186,21 +201,6 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-5896be4cb85c",
-      "title": "Russian Attack on Odesa Kills 3 as Ukraine Strikes Ships in Black Sea",
-      "description": "Ukraine's top drone commander said Wednesday that Kyiv hit 20 Russian vessels in the Black Sea overnight.",
-      "url": "https://www.themoscowtimes.com/2026/07/15/russian-attack-on-odesa-kills-3-as-ukraine-strikes-ships-in-black-sea-a93251",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-07-15T09:29:33Z",
-      "image": "https://static.themoscowtimes.com/image/og/51/93251__51fc0cbae9cd6f8e65210a693dd870d7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T07:53:50Z",
+  "updated": "2026-07-18T09:27:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-18T07:53:47Z",
+      "publishedAt": "2026-07-18T09:27:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-aee9a8567f66",
+      "title": "Why is Trump risking midterm disaster by resuming an already unpopular war with Iran?",
+      "description": "Less than a month after hailing a ceasefire, Trump resumed strikes on Iran, a move experts warn could prolong the war and hurt Republicans ahead of midtermsFor half a century, Donald Trump has performed a public high-wire act based on high-stakes risks and shattering time-honored norms to get what he wants.The approach…",
+      "url": "https://www.theguardian.com/world/2026/jul/18/trump-iran-war-political-midterm-risk",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-18T09:00:02Z",
+      "image": "https://i.guim.co.uk/img/media/4bc10d92ee5f8365eb68e10fd5612beb021b9182/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=5494bc0408d200f382bda2a270c23ca4",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -108,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-024c67a71c16",
-      "title": "Israeli strike on Gaza funeral killed at least seven people, hospital says",
-      "description": "Another 22 reportedly injured while mourning Palestinian killed in Israeli attack earlier in the dayAn Israeli strike on a funeral in the Gaza Strip has killed at least seven people and injured another 22, according to a local hospital.There was no immediate comment from the Israeli military. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jul/17/israeli-strike-gaza-funeral-multiple-deaths",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-17T16:06:37Z",
-      "image": "https://i.guim.co.uk/img/media/a80c69bcd7f369a622e465701f30b1b8cab3cf81/1061_0_5532_4426/master/5532.jpg?width=140&quality=85&auto=format&fit=max&s=0a7e7495f88098c64727eabc3ed3bd39",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

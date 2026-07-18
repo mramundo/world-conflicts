@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T21:52:59Z",
+  "updated": "2026-07-18T22:52:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-18T21:52:55Z",
+      "publishedAt": "2026-07-18T22:52:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-6aa40f2ad68d",
+      "title": "2 US Service Members Killed, 1 Missing In Jordan As Iran Steps Up Attacks, Threats",
+      "description": "The US military suffered its first combat fatalities since March in the Iran war, with the Pentagon saying two service members were killed and another was missing during defensive operations in Jordan, as hostilities ramped up in the region and further endangered a fragile cease-fire.",
+      "url": "https://www.rferl.org/a/centcom-soldiers-killed-jordan-iran-missile-attack/33806519.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-07-18T22:00:40Z",
+      "image": "https://gdb.rferl.org/ea70a95a-7e13-4ae9-0a09-08de3bed1b27_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -82,8 +98,8 @@
     },
     {
       "id": "the-aee9a8567f66",
-      "title": "Why is Trump risking midterm disaster by resuming an already unpopular war with Iran?",
-      "description": "Less than a month after hailing a ceasefire, Trump resumed strikes on Iran, a move experts warn could prolong the war and hurt Republicans ahead of midtermsFor half a century, Donald Trump has performed a public high-wire act based on high-stakes risks and shattering time-honored norms to get what he wants.The approach…",
+      "title": "Why is Trump risking midterm disaster by resuming the unpopular Iran war?",
+      "description": "Less than a month after hailing a ceasefire, Trump resumed strikes on Iran, a move experts warn could prolong the war and hurt Republicans before the midtermsFor half a century, Donald Trump has performed a public high-wire act based on high-stakes risks and shattering time-honored norms to get what he wants.The approa…",
       "url": "https://www.theguardian.com/world/2026/jul/18/trump-iran-war-political-midterm-risk",
       "source": "The Guardian",
       "publishedAt": "2026-07-18T09:00:02Z",
@@ -171,22 +187,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-944040272f81",
-      "title": "US Senate Leadership Throws Weight Behind Renewed Russia Sanctions Push",
-      "description": "Senate Republican leadership has thrown its weight behind a renewed bipartisan push to impose sweeping new sanctions on Russia that supporters say marks the strongest congressional effort yet to increase economic pressure on Moscow over its war against Ukraine.",
-      "url": "https://www.rferl.org/a/senate-russia-sanctions-legislation-graham-war/33805545.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-17T03:02:57Z",
-      "image": "https://gdb.rferl.org/aa1a7559-4b05-4e6f-8430-9613265ed3df_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

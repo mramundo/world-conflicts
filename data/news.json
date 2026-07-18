@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:07:45Z",
+  "updated": "2026-07-18T20:51:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-18T19:07:40Z",
+      "publishedAt": "2026-07-18T20:51:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,34 @@
       "tags": []
     },
     {
-      "id": "al -a3c327419f9e",
-      "title": "US military says two service members killed in Iranian strike in Jordan",
-      "description": "US and Iran have stepped up attacks in the last week, prompting alarm about return to full-scale war across the region.",
-      "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-18T18:04:47Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a59d3602d4b-1784271712.jpg?resize=1920%2C1440",
+      "id": "fra-74672a455a40",
+      "title": "Khamenei threatens ‘unforgettable lessons’, two US troops killed in Iranian attack",
+      "description": "Iranian Supreme Leader Ayatollah Majotaba Khamenei on Saturday vowed to teach the US \"unforgettable lessons\" in a written message broadcast on state TV. US Central Command reported its first troop deaths due to Iranian fire when two service members were killed and an another missing in an attack on a base in Jordan.",
+      "url": "https://www.france24.com/en/middle-east/20260718-khamenei-threatens-unforgettable-lessons-two-us-troops-killed-in-iranian-attack",
+      "source": "France24",
+      "publishedAt": "2026-07-18T20:10:02Z",
+      "image": "https://s.france24.com/media/display/217bd1c8-82d5-11f1-887d-005056bfb2b6/w:1024/p:16x9/000-C2HX3D2.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 9,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -db14ac801d4c",
+      "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+      "description": "Palestinians who have endured Israel&#039;s genocidal war are still being targeted.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-18T19:55:16Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784403287.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -46,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-0c4f85a7075c",
-      "title": "Ethiopia: New refugee support centre opens in Addis Ababa",
-      "description": "The UN refugee agency and the Ethiopian government have opened a new support centre in Addis Ababa to provide refugees with free legal advice and access to essential services. The initiative aims to help refugees navigate bureaucracy, obtain vital documents and improve their chances of finding work. Ethiopia hosts more…",
-      "url": "https://www.france24.com/en/ethiopia-new-refugee-support-centre-opens-in-addis-ababa",
-      "source": "France24",
-      "publishedAt": "2026-07-18T11:09:57Z",
-      "image": "https://s.france24.com/media/display/bfbfefaa-8298-11f1-ae4c-005056a90284/w:1024/p:16x9/EN-20260717-214523-214700-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T23:53:54Z",
+  "updated": "2026-07-18T02:39:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,59 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-17T23:53:51Z",
+      "publishedAt": "2026-07-18T02:39:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a93706fbcd88",
+      "title": "Iranian official says the policy of negotiating during war is over",
+      "description": "Mohsen Rezaee has warned that if the US continues bombing Iran, Tehran will escalate its response into full-scale war.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-18T02:09:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784340498.jpg?resize=1919%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -124acece6264",
+      "title": "Why Russia's hybrid warfare is forcing France to raise its voice",
+      "description": "Between acts of sabotage and drone flyovers, the General Directorate of Internal Security (DGSI) attributed a large-scale cyberespionage campaign to Russian domestic intelligence. In response, the chargé d'affaires at the Russian embassy in Paris was summoned by the foreign minister on Friday, July 17.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/18/why-russia-s-hybrid-warfare-is-forcing-france-to-raise-its-voice_6755588_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-18T00:06:33Z",
+      "image": "https://img.lemde.fr/2026/07/17/420/0/2040/1020/644/322/60/0/e0db418_upload-1-njhbl2zd5dyp-20260717tgb4906.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-9f2ad627bee4",
+      "title": "UN launches new refugee hub in Ethiopia offering legal aid and protection",
+      "description": "In tonight's edition, Algeria mourns the 11 people killed in a deadly orphanage fire as investigators search for the cause. Ethiopia and the UN refugee agency launch a new support centre offering refugees free legal advice. Meanwhile, Drill music is booming in Ethiopia, winning over young fans while fuelling debate ove…",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260717-un-launches-new-refugee-hub-in-ethiopia-offering-legal-aid-and-protection",
+      "source": "France24",
+      "publishedAt": "2026-07-17T21:40:21Z",
+      "image": "https://s.france24.com/media/display/8bd56ae2-8227-11f1-a858-005056a97e36/w:1024/p:16x9/capture-11867521896a5aa052388f12-68152146.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,21 +97,6 @@
       "tags": []
     },
     {
-      "id": "fra-993d7c03cdc0",
-      "title": "Ukraine: Trouble at the Top? Adieu Keir, Alright Andy",
-      "description": "In a week that’s seen rare wartime demonstrations in Ukraine protesting the ousting of Defence Minister Mykhailo (Misha) Fedorov after six months in a job in which he’s been credited with making a difference on the battlefield and in an anti-corruption drive. But he had reportedly clashed with Ukraine’s commander-in-ch…",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
-      "source": "France24",
-      "publishedAt": "2026-07-17T18:31:02Z",
-      "image": "https://s.france24.com/media/display/0b9122c2-8209-11f1-88c5-005056a90284/w:1024/p:16x9/Anglais-2026-07-17T17-55-15-309Z.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-446ed7e71815",
       "title": "A 32 anni dall'attentato Amia la comunità ebraica argentina chiede giustizia",
       "description": "'E' come se la causa fosse bloccata, sospesa o accantonata'",
@@ -77,22 +109,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -912d40be5366",
-      "title": "Life after amputation: Gaza women find recovery through football",
-      "description": "Palestinian women in Gaza who have lost limbs during Israel&#039;s genocidal war are using football as a way of recovering.",
-      "url": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-17T18:02:39Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/IMG-20260709-WA0150-1784306274.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -123,22 +139,6 @@
         "analysis"
       ],
       "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -afda1b8c32e6",
-      "title": "'Contemporary films about the Occupation of France are sounding alarm bells, with varying degrees of subtlety'",
-      "description": "The abundance of films about World War II helps explain how the gradual abandonment of democratic and republican values led to disaster, writes historian Henry Rousso in this op-ed.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/07/17/contemporary-films-about-the-occupation-in-france-sound-alarm-bells-with-varying-degrees-of-subtlety_6755557_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-17T01:20:42Z",
-      "image": "https://img.lemde.fr/2026/02/25/76/0/1500/750/644/322/60/0/341d0ec_upload-1-nakzuxwtpcxx-frame-1413.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },

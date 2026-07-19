@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T05:59:30Z",
+  "updated": "2026-07-19T08:30:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-19T05:59:26Z",
+      "publishedAt": "2026-07-19T08:30:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,8 +20,23 @@
       "tags": []
     },
     {
+      "id": "al -8b0a25fc869a",
+      "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+      "description": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
+      "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-19T07:28:08Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5c6a204e16-1784441376.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-fef1009c3402",
-      "title": "Russia Launches Ballistic Missile Attack on Kyiv, Killing 1 and Injuring 15",
+      "title": "Russia Launches Ballistic Missile Attack on Kyiv – 1 Dead, 15 Injured",
       "description": "Early Sunday morning, July 19, Russian forces launched approximately 40 ballistic missiles – including Iskander-M, Zircon, and S-400 types – at Kyiv in the largest such attack on the capital since the start of the full-scale war. The strikes killed one person and injured 15 within the city, causing fires and structural…",
       "url": "https://www.kyivpost.com/post/80600",
       "source": "Kyiv Post",
@@ -78,22 +93,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -db14ac801d4c",
-      "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-      "description": "Palestinians who have endured Israel&#039;s genocidal war are still being targeted.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-18T19:55:16Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784403287.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

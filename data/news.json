@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T17:58:19Z",
+  "updated": "2026-07-19T19:18:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-19T17:58:15Z",
+      "publishedAt": "2026-07-19T19:18:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-9db1ab53495b",
+      "title": "Mission in Iran war has pivoted toward ensuring oil flow, Trump official says",
+      "description": "Energy secretary grapples with mounting criticism over length of US war as Democrat calls conflict ‘war of choice’A Trump administration official on Sunday grappled with mounting criticism over the length of the US war with Iran after months of promised diplomatic breakthroughs, short-lived ceasefires, and the deaths o…",
+      "url": "https://www.theguardian.com/us-news/2026/jul/19/trump-official-iran-war-oil-flow-strait-hormuz",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-19T18:48:12Z",
+      "image": "https://i.guim.co.uk/img/media/c59b6eb48ac8f54cabd1c3ab85301a9a6dd4b57c/437_0_4366_3493/master/4366.jpg?width=140&quality=85&auto=format&fit=max&s=3adac15bf5eed03d3b78f827ebd6c26e",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-225b6f9d3d41",
+      "title": "Marina ucraina, missili russi su una nave mercantile turca, 5 morti",
+      "description": "'Stava lasciando la zona di guerra' nel Mar Nero. Si contano anche 5 dispersi e 8 feriti",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/19/marina-ucraina-missili-russi-su-una-nave-mercantile-turca-5-morti_ec320c44-1d49-4645-b13d-c1ce1223222e.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-19T18:32:24Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2023/2/18/5a8fc7ef9aec42219c8a510b9552cd91.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -48d781dbcf9a",
+      "title": "At least 50 Malian soldiers killed in attack on military convoy",
+      "description": "At least 50 Malian soldiers were killed after a joint Malian army and Russia&#039;s Africa Corps convoy was ambushed.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-19T18:27:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/WIDE-THUMB-MALI-1784485557.png?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "ans-99c84642ddc4",
-      "title": "Kiev, 20 morti e almeno 142 feriti in attacchi russi nelle ultime 24 ore",
-      "description": "Nel mirino di Mosca la capitale ucraina e la zona di Kharkiv",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/19/kiev-20-morti-e-almeno-142-feriti-in-attacchi-russi-nelle-ultime-24-ore_b28b5850-dcaa-437a-b78b-dcbee20b7715.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-19T16:09:20Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/19/fcf90686a2ff4b243dc11d612198106c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -7fe5d13767ca",
       "title": "Gaza's children, traumatized and mutilated by war: 'His prosthesis hurts, but he endures it to show that he isn't different'",
       "description": "Due to the bombings carried out by Israel since October 7, 2023, the Gaza Strip now holds the grim record for the highest number of amputee children per capita in the world, according to the World Health Organization. These children have been trying to rebuild their lives despite forced displacement and lack of medical…",
@@ -61,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -ddacf3fb91bd",
-      "title": "Iranians suffer from power blackouts during war and heatwave",
-      "description": "Collapsing grid, battered by military strikes and chronic underinvestment, leaves Iranians sweltering in the dark.",
-      "url": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-19T11:16:20Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/iran-5-1784396890-1784440360.webp?resize=1200%2C630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -153,22 +169,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-aee9a8567f66",
-      "title": "Why is Trump risking midterm disaster by resuming the unpopular Iran war?",
-      "description": "Less than a month after hailing a ceasefire, Trump resumed strikes on Iran, a move experts warn could prolong the war and hurt Republicans before the midtermsFor half a century, Donald Trump has performed a public high-wire act based on high-stakes risks and shattering time-honored norms to get what he wants.The approa…",
-      "url": "https://www.theguardian.com/world/2026/jul/18/trump-iran-war-political-midterm-risk",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-18T09:00:02Z",
-      "image": "https://i.guim.co.uk/img/media/4bc10d92ee5f8365eb68e10fd5612beb021b9182/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=5494bc0408d200f382bda2a270c23ca4",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {

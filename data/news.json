@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T10:36:23Z",
+  "updated": "2026-07-19T12:00:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-19T10:36:20Z",
+      "publishedAt": "2026-07-19T12:00:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,9 +20,40 @@
       "tags": []
     },
     {
+      "id": "bbc-fdf722c98f4c",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "description": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-19T11:57:10Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-836173ae8c05",
+      "title": "Russia Hits Kyiv In Massive Missile And Drone Attack",
+      "description": "Russia launched 41 missiles and 125 drones in a massive overnight attack on Ukraine, with Kyiv as the main target. Ukrainian officials said it was Russia's largest use of ballistic missiles since the start of the full-scale invasion. At least one person was killed and 16 were injured.",
+      "url": "https://www.rferl.org/a/russia-hits-kyiv-in-massive-missile-and-drone-attack/33806892.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-07-19T11:07:43Z",
+      "image": "https://gdb.rferl.org/ea8d852c-a2f3-4e8c-16d3-08decad58b60_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "kyi-250ef172ecd2",
-      "title": "Russian Strike on Kharkiv Suburbs Kills Three, Injures 16",
-      "description": "Russian forces attacked the suburbs of Kharkiv on Sunday, July 19, resulting in three civilian deaths and 16 injuries. Kharkiv Regional Military Administration Head Oleh Syniehubov reported that nine individuals were hospitalized, with three in serious condition. The strike follows a series of attacks earlier in the da…",
+      "title": "Russian Strike on Kharkiv Suburbs Kills Three, Injures 20",
+      "description": "Russian forces attacked the suburbs of Kharkiv on Sunday, July 19, resulting in three civilian deaths and 20 people injured. Kharkiv Regional Military Administration Head Oleh Syniehubov reported that nine individuals were hospitalized, with three in serious condition. The strike follows a series of attacks earlier in …",
       "url": "https://www.kyivpost.com/post/80623",
       "source": "Kyiv Post",
       "publishedAt": "2026-07-19T10:06:00Z",
@@ -31,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-f4bd263aa059",
-      "title": "Russia launches major ballistic missile attack on Kyiv",
-      "description": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-19T09:54:50Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,22 +78,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-b0c6e76a94f4",
-      "title": "Russia Launches Major Missile, Drone Attack On Kyiv As Ukraine Hits Black Sea Tankers",
-      "description": "Russia launched one of its largest ballistic missile attacks on Kyiv since the start of its full-scale invasion overnight on July 19 killing one person and wounding 16 others, Ukrainian President Volodymyr Zelenskyy said, as Ukraine announced strikes on two Russian oil tankers in the Black Sea.",
-      "url": "https://www.rferl.org/a/ukraine-kyiv-russia-zelenskyy-ballistic-missile-attacks/33806851.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-19T09:03:49Z",
-      "image": "https://gdb.rferl.org/20975187-cdc3-423f-16d0-08decad58b60_cx0_cy3_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -172,6 +172,22 @@
       "tags": []
     },
     {
+      "id": "un -15ca70e80381",
+      "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
+      "description": "UN humanitarians working in war-torn Sudan on Friday highlighted rapidly growing needs among the more than 100,000 displaced people now sheltering in camps in the city of El Obeid.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167967",
+      "source": "UN News",
+      "publishedAt": "2026-07-17T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/26-03-2026_Ala_Khadija.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-fbdd07d4cf6c",
       "title": "Pro-Kremlin Blogger Arrested for ‘War Fakes’ Months After Denouncing Putin",
       "description": "In March, Ilya Remeslo shocked both supporters and critics when he publicly denounced President Vladimir Putin in a scathing manifesto.",
@@ -183,21 +199,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -b98064d42e4e",
-      "title": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
-      "description": "The UN is supporting farmers in Gaza who are struggling to rebuild their smallholdings in areas devastated by the Hamas-Israel war.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
-      "source": "UN News",
-      "publishedAt": "2026-07-16T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-04-2026_UNNews_Gaza_Framing_01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     }

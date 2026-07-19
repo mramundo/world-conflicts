@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T08:30:13Z",
+  "updated": "2026-07-19T10:36:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,13 +10,74 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-19T08:30:10Z",
+      "publishedAt": "2026-07-19T10:36:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-250ef172ecd2",
+      "title": "Russian Strike on Kharkiv Suburbs Kills Three, Injures 16",
+      "description": "Russian forces attacked the suburbs of Kharkiv on Sunday, July 19, resulting in three civilian deaths and 16 injuries. Kharkiv Regional Military Administration Head Oleh Syniehubov reported that nine individuals were hospitalized, with three in serious condition. The strike follows a series of attacks earlier in the da…",
+      "url": "https://www.kyivpost.com/post/80623",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-19T10:06:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/19/d810d61d047d28e167b446fd015eec22.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-f4bd263aa059",
+      "title": "Russia launches major ballistic missile attack on Kyiv",
+      "description": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-19T09:54:50Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-c46aa15ec4b6",
+      "title": "At least 50 Malian soldiers killed in rebel-jihadist attack",
+      "description": "At least 50 Malian soldiers were killed and dozens more were taken prisoner in an attack by Tuareg separatists and jihadists, local sources said told AFP on Sunday.",
+      "url": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack",
+      "source": "France24",
+      "publishedAt": "2026-07-19T09:44:32Z",
+      "image": "https://s.france24.com/media/display/0b09bb18-8356-11f1-9196-005056bfb2b6/w:1024/p:16x9/000-A92J2CF-3.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-b0c6e76a94f4",
+      "title": "Russia Launches Major Missile, Drone Attack On Kyiv As Ukraine Hits Black Sea Tankers",
+      "description": "Russia launched one of its largest ballistic missile attacks on Kyiv since the start of its full-scale invasion overnight on July 19 killing one person and wounding 16 others, Ukrainian President Volodymyr Zelenskyy said, as Ukraine announced strikes on two Russian oil tankers in the Black Sea.",
+      "url": "https://www.rferl.org/a/ukraine-kyiv-russia-zelenskyy-ballistic-missile-attacks/33806851.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-07-19T09:03:49Z",
+      "image": "https://gdb.rferl.org/20975187-cdc3-423f-16d0-08decad58b60_cx0_cy3_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -35,21 +96,6 @@
       "tags": []
     },
     {
-      "id": "kyi-fef1009c3402",
-      "title": "Russia Launches Ballistic Missile Attack on Kyiv – 1 Dead, 15 Injured",
-      "description": "Early Sunday morning, July 19, Russian forces launched approximately 40 ballistic missiles – including Iskander-M, Zircon, and S-400 types – at Kyiv in the largest such attack on the capital since the start of the full-scale war. The strikes killed one person and injured 15 within the city, causing fires and structural…",
-      "url": "https://www.kyivpost.com/post/80600",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-19T05:28:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/19/251340c1f21cc25c3891052f552a1923.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -9b1f2f04370e",
       "title": "NY mayor in talks over whether to arrest Netanyahu at upcoming UN summit",
       "description": "In an interview with the 'New York Times,' Mayor Zohran Mamdani called Israeli Prime Minister Benjamin Netanyahu a 'war criminal' who 'belongs in The Hague.' He is currently discussing options with the city's legal team to determine his authority to enforce arrest warrants against foreign leaders.",
@@ -61,37 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-6aa40f2ad68d",
-      "title": "2 US Service Members Killed, 1 Missing In Jordan As Iran Steps Up Attacks, Threats",
-      "description": "The US military suffered its first combat fatalities since March in the Iran war, with the Pentagon saying two service members were killed and another was missing during defensive operations in Jordan, as hostilities ramped up in the region and further endangered a fragile cease-fire.",
-      "url": "https://www.rferl.org/a/centcom-soldiers-killed-jordan-iran-missile-attack/33806519.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-18T22:00:40Z",
-      "image": "https://gdb.rferl.org/ea70a95a-7e13-4ae9-0a09-08de3bed1b27_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-74672a455a40",
-      "title": "Khamenei threatens ‘unforgettable lessons’, two US troops killed in Iranian attack",
-      "description": "Iranian Supreme Leader Ayatollah Majotaba Khamenei on Saturday vowed to teach the US \"unforgettable lessons\" in a written message broadcast on state TV. US Central Command reported its first troop deaths due to Iranian fire when two service members were killed and an another missing in an attack on a base in Jordan.",
-      "url": "https://www.france24.com/en/middle-east/20260718-khamenei-threatens-unforgettable-lessons-two-us-troops-killed-in-iranian-attack",
-      "source": "France24",
-      "publishedAt": "2026-07-18T20:10:02Z",
-      "image": "https://s.france24.com/media/display/217bd1c8-82d5-11f1-887d-005056bfb2b6/w:1024/p:16x9/000-C2HX3D2.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -153,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-592aab07c959",
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "description": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-17T19:04:09Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d83/live/2d7f0f80-8212-11f1-bee8-53ce494e1abc.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

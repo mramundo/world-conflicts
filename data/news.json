@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T15:52:22Z",
+  "updated": "2026-07-20T18:05:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-20T15:52:17Z",
+      "publishedAt": "2026-07-20T18:05:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-2714d1874b85",
+      "title": "‘Israeli settlers are in partnership with the army,’ say Palestinians after two shot dead in West Bank",
+      "description": "Residents of Deir Jarir say series of raids late on Sunday, also involving security forces, is part of a pattern of violenceEven by the brutal standards of militant settler violence in the West Bank, the raid on Deir Jarir late on Sunday night that killed two Palestinians and left another in hospital with a gunshot wou…",
+      "url": "https://www.theguardian.com/world/2026/jul/20/israeli-settlers-partnership-army-palestinians-bury-dead-west-bank",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-20T17:53:28Z",
+      "image": "https://i.guim.co.uk/img/media/cd95ddd8a76d0e9517dd1021c7c7c2f394789079/81_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=12d510ba3ebd95bf0cd6b2261a8beb37",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-6035c8c54cda",
-      "title": "Russian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – as it happened",
-      "description": "Moscow targets southern city after the Russian capital was hit by 400 drones in response to one of the war’s biggest attacks on Kyiv at the weekendThere is also a bit more from Reuters on the context – and the significance – of these continued strikes on ships:“Both Russia and Ukraine are major grain exporters, and ​th…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/20/ukraine-russia-drones-missiles-hungary-germany-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-20T15:08:45Z",
-      "image": "https://i.guim.co.uk/img/media/0263e9820e0f84f7e0b48cb72f2e3b73368c83c5/179_0_4725_3780/master/4725.jpg?width=140&quality=85&auto=format&fit=max&s=ff9c74bb1af9525e5a67912f85c360b0",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

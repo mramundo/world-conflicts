@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T20:22:34Z",
+  "updated": "2026-07-20T22:01:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,13 +10,45 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-20T20:22:30Z",
+      "publishedAt": "2026-07-20T22:01:21Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F6%2F12816258-1-eng-GB%2Fc98f38b10e87-20260717N-NEC-submarine-cable.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -e5978135e130",
+      "title": "Why so many Ukrainians are up in arms over firing of defense minister",
+      "description": "Ukrainian President Volodymyr Zelenskyy’s dismissal of the popular defense minister, an architect of Ukraine’s effective high-tech warfare, has sparked protests across the country. More than just strategy, youth appears part of his appeal.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0720/ukraine-drone-war-defense-minister-fedorov-general-syrskyi?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-07-20T21:33:07Z",
+      "image": "https://images.csmonitor.com/csm/2026/07/0720_OUKRAINEMOOD_METRO.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -a39f47a5f62e",
+      "title": "How will Zelenskyy handle the growing political crisis at home?",
+      "description": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-20T20:50:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784574869.jpg?resize=1920%2C1061&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -35,19 +67,18 @@
       "tags": []
     },
     {
-      "id": "al -b477642cad88",
-      "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
-      "description": "Al-Hayya wins Hamas leadership with a single-vote margin, signalling a focus on Gaza amidst continued Israeli aggression",
-      "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-20T19:43:02Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2024/10/AP24213464306513-1729254699.jpg?resize=1920%2C1440",
+      "id": "le -40f97dbd7f36",
+      "title": "UK man charged with murder of right-wing ex-MP Ann Widdecombe",
+      "description": "Joshua Kerry, 28, was arrested in his hometown of Rotherham in Yorkshire, northern England, about 300 miles (500 kilometers) from Ann Widdecombe's home. The former Conservative minister, a spokesperson for the far-right Reform UK party, was found dead in her home in Devon on July 9. Kerry was charged after a police inv…",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/20/uk-man-charged-with-murder-of-right-wing-ex-mp-ann-widdecombe_6755664_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-20T19:47:18Z",
+      "image": "https://img.lemde.fr/2026/07/11/376/0/4512/2256/644/322/60/0/8a88753_ftp-1-wkn4sravwbl1-2026-07-11t152853z-953918451-rc2obmak48y4-rtrmadp-3-britain-crime-widdecombe.JPG",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -81,21 +112,6 @@
       "tags": []
     },
     {
-      "id": "fra-384c6b93e817",
-      "title": "Ukraine fires 400 missiles at Moscow after deadly Russian attacks",
-      "description": "Ukraine fired more than 400 drones toward Moscow in its latest major attack on the Russian capital on July 20. The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.",
-      "url": "https://www.france24.com/en/ukraine-fires-400-missiles-on-moscow-after-deadly-russian-attacks",
-      "source": "France24",
-      "publishedAt": "2026-07-20T14:31:50Z",
-      "image": "https://s.france24.com/media/display/fe6ee974-8412-11f1-b6f3-005056a90284/w:1024/p:16x9/2026-07-20T062204Z-1400823776-RC2DHMA4O44B-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-DRONES.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-125ec004f577",
       "title": "What We Know About the Aftermath of Ukraine’s Wildberries Drone Strikes",
       "description": "The strikes, one of the costliest attacks on Russia’s commercial infrastructure since the start of the war, hit small businesses especially hard.",
@@ -123,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -2ebe8aaf5234",
-      "title": "US launches ninth night of strikes on Iran as it hits out at Gulf neighbors",
-      "description": "Early on Monday, Iran's Revolutionary Guards said they had launched a 'surprise attack' on an 'enemy command center' in Syria. This fresh round of violence comes after three new US military fatalities were announced, as hope for a political settlement to end the war has dimmed.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/20/us-launches-ninth-night-of-strikes-on-iran-as-it-hits-out-at-gulf-neighbors_6755640_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-20T03:26:25Z",
-      "image": "https://img.lemde.fr/2026/07/18/300/0/3600/1800/644/322/60/0/f299e95_ftp-1-zbpypc4khjjx-5653387-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-21T21:11:34Z",
+  "updated": "2026-07-21T22:58:57Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/four-indians-killed-in-russian-strike-on-vessel-off-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-21T21:11:31Z",
+      "publishedAt": "2026-07-21T22:58:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F7%2F3%2F12823755-3-eng-GB%2F0dc0c9ab6671-2025-12-03T114541Z_846617125_RC2Y8IAS39IC_RTRMADP_3_INDIA-RUSSIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,33 @@
       "tags": []
     },
     {
-      "id": "al -3bec22110b4c",
-      "title": "Can mediators broker a truce between the US and Iran?",
-      "description": "With every new round of attacks raising political cost of compromise, analysts warn the window for peace may be closing.",
-      "url": "https://www.aljazeera.com/news/2026/7/21/can-mediators-broker-a-truce-between-the-us-and-iran?traffic_source=rss",
+      "id": "npr-8afb6377a4ee",
+      "title": "Ukraine's Zelenskyy fires his military chief after protests and names a new one",
+      "description": "President Volodymyr Zelenskyy fired Gen. Oleksandr Syrskyi as commander-in-chief of Ukraine's armed forces following days of protests demanding his removal. Zelenskyy appointed Mykhailo Drapatyi as the new army chief.",
+      "url": "https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests",
+      "source": "NPR World",
+      "publishedAt": "2026-07-21T21:30:02Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/2000x1333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2F57%2F0bcd69b04045b6553fd33188e37a%2Fap26199705557337.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -242ce36d918a",
+      "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
+      "description": "Newly named Hamas leader al-Hayya faces pressure to cede power amid Gaza&#039;s fragile ceasefire.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-21T19:27:26Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-21T112941Z_313971264_RC2AIMA5UKVB_RTRMADP_3_IRAN-CRISIS-1784635363.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-21T21:03:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784665547.jpg?resize=1920%2C1061&amp;quality=80",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "isAnalysis": true,
       "tags": []
     },
@@ -77,36 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-f0830f97316a",
-      "title": "Ukraine plunges into political crisis as anger over defence minister's dismissal grows",
-      "description": "Street protests were held for a fifth day on July 19 in Ukraine, over the firing of Defense Minister Mykhailo Fedorov. Fedorov was dismissed following frequent clashes with top Army general Oleksandr Syrsky, sparking indignation particularly among young Ukrainians, who credit the tech-savvy 35-year old Fedorov with inn…",
-      "url": "https://www.france24.com/en/ukraine-plunges-into-political-crisis-as-anger-over-defence-minister-s-dismissal-grows",
-      "source": "France24",
-      "publishedAt": "2026-07-21T13:23:49Z",
-      "image": "https://s.france24.com/media/display/8595d74c-821e-11f1-95ce-005056a97e36/w:1024/p:16x9/AP26198678736122.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-7832b30bb112",
-      "title": "Amid U.S.-Iran war, Houthis declare a blockade of another key strait: Bab el-Mandeb",
-      "description": "The Houthis, a Shia militia in Yemen that's aligned with Iran, have announced a naval blockade of a key waterway, the Bab el-Mandeb Strait.",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
-      "source": "NPR World",
-      "publishedAt": "2026-07-21T10:21:43Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff9%2F4a%2F2b55656042d695f950596178c8db%2Fgettyimages-2285874543.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

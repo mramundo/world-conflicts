@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T15:45:36Z",
+  "updated": "2026-07-21T17:22:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/four-indians-killed-in-russian-strike-on-vessel-off-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-21T15:45:33Z",
+      "publishedAt": "2026-07-21T17:22:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F7%2F3%2F12823755-3-eng-GB%2F0dc0c9ab6671-2025-12-03T114541Z_846617125_RC2Y8IAS39IC_RTRMADP_3_INDIA-RUSSIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,47 @@
       "tags": []
     },
     {
-      "id": "bbc-0277db438edb",
-      "title": "Israeli air strike in Gaza City kills family of six, medics say",
-      "description": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-21T14:47:41Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b85/live/38d92850-8511-11f1-bee8-53ce494e1abc.jpg",
+      "id": "al -5a05e2953ece",
+      "title": "Steep rise in civilian casualties in Russia-Ukraine war, UN says",
+      "description": "Increasing use of long-range missiles and drones against targets far from the front line is worsening the civilian toll.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/steep-rise-in-civilian-casualties-in-russia-ukraine-war-un-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-21T16:31:35Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a5f6c697a-1784638569.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -9402e466209c",
+      "title": "Life in Kidal, Mali, amid pro-independence Azawad Liberation Front rebels",
+      "description": "Algerian photojournalist Samir Maouche traveled to the Kidal region, controlled by pro-independence fighters from the Azawad Liberation Front (ALF), in the weeks following their April 25 offensive in northern and central Mali.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/21/life-in-kidal-mali-amid-pro-independence-azawad-liberation-front-rebels_6755694_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-21T16:30:08Z",
+      "image": "https://img.lemde.fr/2026/07/06/363/0/5473/2736/644/322/60/0/fe5302f_upload-1-8rgnpom9hwj3-smaouche-27.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-31d16025de84",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "description": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-21T16:03:22Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d3d/live/a63a1b50-84e1-11f1-bee8-53ce494e1abc.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -65,22 +95,6 @@
       "tags": []
     },
     {
-      "id": "al -62366a35f645",
-      "title": "Can AI systems make moral decisions in war?",
-      "description": "As more militaries adopt AI technology into their kill chain, Al Jazeera asks if they are capable of moral judgement.",
-      "url": "https://www.aljazeera.com/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-21T10:21:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/INTERACTIVE-AI-military-moral-cover-1784579203.png?resize=1351%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "the-2714d1874b85",
       "title": "IDF accused of working with settlers after latest deadly West Bank raid",
       "description": "Residents of Deir Jarir say raids that killed two Palestinians late on Sunday are part of pattern of violenceEven by the brutal standards of militant settler violence in the West Bank, the raid on Deir Jarir late on Sunday night that killed two Palestinians and left another in hospital with a gunshot wound was extreme.…",
@@ -103,21 +117,6 @@
       "source": "ANSA",
       "publishedAt": "2026-07-21T03:58:18Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/11/94dc7539f809d08bad362a1dbfcb2e6a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -529e6738d85a",
-      "title": "Two months before Russian parliamentary elections, antiwar voices still struggle for traction",
-      "description": "The Kremlin continues to stifle the few parliamentary candidates opposed to the war in Ukraine, even as the public and some industrialists begin to imagine peace.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/21/two-months-before-russian-parliamentary-elections-antiwar-voices-still-struggle-for-traction_6755677_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-21T03:30:05Z",
-      "image": "https://img.lemde.fr/2026/07/17/602/0/5450/2725/644/322/60/0/c02050c_ftp-1-leburpr3ceib-5643135-01-06.jpg",
       "categories": [
         "conflict"
       ],

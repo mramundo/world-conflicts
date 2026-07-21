@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T19:26:00Z",
+  "updated": "2026-07-21T21:11:34Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/four-indians-killed-in-russian-strike-on-vessel-off-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-21T19:25:56Z",
+      "publishedAt": "2026-07-21T21:11:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F7%2F3%2F12823755-3-eng-GB%2F0dc0c9ab6671-2025-12-03T114541Z_846617125_RC2Y8IAS39IC_RTRMADP_3_INDIA-RUSSIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -3bec22110b4c",
+      "title": "Can mediators broker a truce between the US and Iran?",
+      "description": "With every new round of attacks raising political cost of compromise, analysts warn the window for peace may be closing.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/can-mediators-broker-a-truce-between-the-us-and-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-21T19:27:26Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-21T112941Z_313971264_RC2AIMA5UKVB_RTRMADP_3_IRAN-CRISIS-1784635363.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -46,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -5a05e2953ece",
-      "title": "Steep rise in civilian casualties in Russia-Ukraine war, UN says",
-      "description": "Increasing use of long-range missiles and drones against targets far from the front line is worsening the civilian toll.",
-      "url": "https://www.aljazeera.com/news/2026/7/21/steep-rise-in-civilian-casualties-in-russia-ukraine-war-un-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-21T16:31:35Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a5f6c697a-1784638569.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,7 +97,7 @@
     },
     {
       "id": "npr-7832b30bb112",
-      "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
+      "title": "Amid U.S.-Iran war, Houthis declare a blockade of another key strait: Bab el-Mandeb",
       "description": "The Houthis, a Shia militia in Yemen that's aligned with Iran, have announced a naval blockade of a key waterway, the Bab el-Mandeb Strait.",
       "url": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
       "source": "NPR World",
@@ -105,7 +106,7 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

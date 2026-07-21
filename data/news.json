@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T11:47:44Z",
+  "updated": "2026-07-21T13:55:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/four-indians-killed-in-russian-strike-on-vessel-off-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-21T11:47:41Z",
+      "publishedAt": "2026-07-21T13:55:39Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F7%2F3%2F12823755-3-eng-GB%2F0dc0c9ab6671-2025-12-03T114541Z_846617125_RC2Y8IAS39IC_RTRMADP_3_INDIA-RUSSIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-f0830f97316a",
+      "title": "Ukraine plunges into political crisis as anger over defence minister's dismissal grows",
+      "description": "Street protests were held for a fifth day on July 19 in Ukraine, over the firing of Defense Minister Mykhailo Fedorov. Fedorov was dismissed following frequent clashes with top Army general Oleksandr Syrsky, sparking indignation particularly among young Ukrainians, who credit the tech-savvy 35-year old Fedorov with inn…",
+      "url": "https://www.france24.com/en/ukraine-plunges-into-political-crisis-as-anger-over-defence-minister-s-dismissal-grows",
+      "source": "France24",
+      "publishedAt": "2026-07-21T13:23:49Z",
+      "image": "https://s.france24.com/media/display/8595d74c-821e-11f1-95ce-005056a97e36/w:1024/p:16x9/AP26198678736122.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,6 +65,22 @@
       "tags": []
     },
     {
+      "id": "al -62366a35f645",
+      "title": "Can AI systems make moral decisions in war?",
+      "description": "As more militaries adopt AI technology into their kill chain, Al Jazeera asks if they are capable of moral judgement.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-21T10:21:08Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/INTERACTIVE-AI-military-moral-cover-1784579203.png?resize=1351%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "the-2714d1874b85",
       "title": "IDF accused of working with settlers after latest deadly West Bank raid",
       "description": "Residents of Deir Jarir say raids that killed two Palestinians late on Sunday are part of pattern of violenceEven by the brutal standards of militant settler violence in the West Bank, the raid on Deir Jarir late on Sunday night that killed two Palestinians and left another in hospital with a gunshot wound was extreme.…",
@@ -61,36 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-2c6aed67b546",
-      "title": "Russia-Ukraine war: First half of 2026 sees sharp rise in civilian casualties",
-      "description": "The first six months of 2026 saw a steep rise in the number of civilians killed or wounded in the war between Russia and Ukraine, the UN said Tuesday. Both Moscow and Kyiv have increased the number of air strikes targeting vital infrastructure as the Russian invasion grinds into its fifth year.",
-      "url": "https://www.france24.com/en/europe/20260721-russia-ukraine-war-first-half-of-2026-sees-sharp-rise-in-civilian-casualties",
-      "source": "France24",
-      "publishedAt": "2026-07-21T09:57:20Z",
-      "image": "https://s.france24.com/media/display/c0b95dda-84e4-11f1-9b17-005056a97e36/w:1024/p:16x9/AP26202231513642.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -950706501434",
-      "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
-      "description": "An Israeli air attack on an apartment in Gaza City set the building on fire, killing five people.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-21T07:55:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784620534.jpg?resize=1918%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

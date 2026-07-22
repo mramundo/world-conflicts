@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-22T12:25:40Z",
+  "updated": "2026-07-22T15:04:53Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/four-indians-killed-in-russian-strike-on-vessel-off-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-22T12:25:36Z",
+      "publishedAt": "2026-07-22T15:04:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F7%2F3%2F12823755-3-eng-GB%2F0dc0c9ab6671-2025-12-03T114541Z_846617125_RC2Y8IAS39IC_RTRMADP_3_INDIA-RUSSIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -21,16 +21,46 @@
     },
     {
       "id": "bbc-2ab9c18182ef",
-      "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-      "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
+      "title": "Modelling scout linked to Epstein found dead in Paris",
+      "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
       "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-07-22T12:08:41Z",
+      "publishedAt": "2026-07-22T14:54:27Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -f7eda57682b9",
+      "title": "Zelensky forced to dismiss Oleksandr Syrsky, Ukraine's armed forces chief",
+      "description": "Yielding to mounting pressure from demonstrators calling for General Syrsky's departure, Ukrainian President Volodymyr Zelensky reversed course and has replaced him with General Mykhailo Drapaty.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/22/zelensky-forced-to-dismiss-oleksandr-syrsky-ukraine-s-armed-forces-chief_6755725_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-22T14:24:50Z",
+      "image": "https://img.lemde.fr/2026/07/21/240/616/1360/680/644/322/60/0/992f22b_ftp-1-43eto4yofuve-56532e4f9daf4544bb7cca264295bb91-0-8a490e59c26d4d50b2a61f67df231dd6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-5b3c181f94f9",
+      "title": "Ukraine’s New Military Commander Maj. Gen. Mykhailo Drapaty: 5 Things to Know",
+      "description": "Mykhailo Drapaty, Ukraine’s new senior officer, is renowned for frontline leadership since 2014. He pioneered large-scale drone-centric warfare, helped liberate Kherson, and is respected for decentralized command, innovation, and accepting responsibility for battlefield failures.",
+      "url": "https://www.kyivpost.com/post/80841",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-22T13:07:52Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/22/0e72330cbd69689fc29d7689dbd8ef39.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -107,51 +137,6 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-dbae5b3c908a",
-      "title": "Ukraine's Zelensky fires military chief after protests and names a replacement",
-      "description": "President Volodymyr Zelensky on Tuesday fired Gen. Oleksandr Syrsky as commander-in-chief of Ukraine’s armed forces, following days of mass protests in Kyiv and other cities nationwide demanding his removal. Zelenskyy appointed Mykhailo Drapatyi as the new army chief, according to a statement on social media.",
-      "url": "https://www.france24.com/en/ukraine-s-zelensky-fires-military-chief-after-protests-and-names-a-replacement",
-      "source": "France24",
-      "publishedAt": "2026-07-21T20:12:45Z",
-      "image": "https://s.france24.com/media/display/13bf5128-8540-11f1-9b22-005056bf30b7/w:1024/p:16x9/EN-20260721-220211-220526-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-7f560c081b16",
-      "title": "The Battle Beyond the Battlefield: Winning Back Hearts",
-      "description": "Ukraine’s wartime image in the West, once bolstered by its heroic resistance, is eroding — partly due to a historical dispute with Poland over the UPA’s legacy. After Zelensky named a unit after UPA figures tied to WWII massacres of Poles, tensions flared. The piece argues Ukraine needs pragmatic, durable solutions on …",
-      "url": "https://www.kyivpost.com/post/80779",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-21T16:52:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/04/822420491b59735429688cc674e0a3cc.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -e592eac5af98",
-      "title": "Israel is considering new operation against Iran, as war escalates with the US",
-      "description": "Directly involved in the initial phase of the conflict with Iran, Israel said it is prepared to conduct 'both defensive and offensive' operations.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/21/israel-is-backing-us-against-iran-as-war-escalates_6755693_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-21T15:42:56Z",
-      "image": "https://img.lemde.fr/2026/07/15/924/0/6160/3080/644/322/60/0/7d71468_upload-1-5o9psc98mxci-ll-tel-aviv-universite-02.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

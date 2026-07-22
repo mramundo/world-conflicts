@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T10:26:32Z",
+  "updated": "2026-07-22T12:25:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/four-indians-killed-in-russian-strike-on-vessel-off-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-22T10:26:28Z",
+      "publishedAt": "2026-07-22T12:25:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F7%2F3%2F12823755-3-eng-GB%2F0dc0c9ab6671-2025-12-03T114541Z_846617125_RC2Y8IAS39IC_RTRMADP_3_INDIA-RUSSIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,13 @@
       "tags": []
     },
     {
-      "id": "ans-88a2c7397764",
-      "title": "Dubai contrasta la crisi per la guerra, 800 dollari a chi porta turisti",
-      "description": "Lancia il 'A Dubai Invite' per rilanciare i flussi nell'emirato",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/dubai-contrasta-la-crisi-per-la-guerra-800-dollari-a-chi-porta-turisti_6ccd1491-c66a-45d2-9f6a-d5abb4a80b0e.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-22T08:26:39Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2017/1/9/89713c7b1816d3bf3f04446050af733d.jpg",
+      "id": "bbc-2ab9c18182ef",
+      "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+      "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-22T12:08:41Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
       "categories": [
         "conflict"
       ],
@@ -35,9 +35,54 @@
       "tags": []
     },
     {
+      "id": "npr-92b637ec8357",
+      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
+      "description": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran.",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
+      "source": "NPR World",
+      "publishedAt": "2026-07-22T11:24:22Z",
+      "image": "undefined",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-1d2dd7d7e0dc",
+      "title": "Oslo ricorda le 77 vittime del doppio attentato di 15 anni fa",
+      "description": "La capitale norvegese e Utoya colpite da estremista di destra Anders Bering Breivik",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/22/oslo-ricorda-le-77-vittime-del-doppio-attentato-di-15-anni-fa_6ee9e350-fb69-42b3-99a2-c82ec725625b.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-22T11:23:31Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/22/95d97c7878afd46409ce06ba95f89715.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -fc73698b5123",
+      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+      "description": "Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-22T11:04:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP25320473566001-1784708088.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-7532132e74c5",
       "title": "Turkey-PKK talks: Is peace finally possible?",
-      "description": "It was a year ago that PKK fighters held a symbolic disarmament ceremony, burning their weapons. Peace talks between the PKK and Turkey are going slowly, but some observers believe that they will succeed this time.",
+      "description": "A year ago, the Kurdish militant group PKK announced an end to its armed struggle. Since then, peace talks with Turkey have progressed slowly, but some observers believe they could succeed.",
       "url": "https://www.dw.com/en/turkey-pkk-talks-is-peace-finally-possible/a-78059048?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-07-22T08:12:00Z",
@@ -45,22 +90,7 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-c2a32cb73bb0",
-      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-      "description": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
-      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-22T05:33:04Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f675/live/0c1cb720-4a9f-11f1-859d-cdc2d74f1ea0.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,36 +111,6 @@
       "tags": []
     },
     {
-      "id": "al -ca7fbed9647b",
-      "title": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
-      "description": "NYC Mayor Zohran Mamdani releases a video statement calling for Israeli PM Netanyahu to face trial for war crimes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-22T04:07:58Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784693249.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-8afb6377a4ee",
-      "title": "Ukraine's Zelenskyy fires his military chief after protests and names a new one",
-      "description": "President Volodymyr Zelenskyy fired Gen. Oleksandr Syrskyi as commander-in-chief of Ukraine's armed forces following days of protests demanding his removal. Zelenskyy appointed Mykhailo Drapatyi as the new army chief.",
-      "url": "https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests",
-      "source": "NPR World",
-      "publishedAt": "2026-07-21T21:30:02Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/2000x1333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2F57%2F0bcd69b04045b6553fd33188e37a%2Fap26199705557337.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-dbae5b3c908a",
       "title": "Ukraine's Zelensky fires military chief after protests and names a replacement",
       "description": "President Volodymyr Zelensky on Tuesday fired Gen. Oleksandr Syrsky as commander-in-chief of Ukraine’s armed forces, following days of mass protests in Kyiv and other cities nationwide demanding his removal. Zelenskyy appointed Mykhailo Drapatyi as the new army chief, according to a statement on social media.",
@@ -126,6 +126,21 @@
       "tags": []
     },
     {
+      "id": "kyi-7f560c081b16",
+      "title": "The Battle Beyond the Battlefield: Winning Back Hearts",
+      "description": "Ukraine’s wartime image in the West, once bolstered by its heroic resistance, is eroding — partly due to a historical dispute with Poland over the UPA’s legacy. After Zelensky named a unit after UPA figures tied to WWII massacres of Poles, tensions flared. The piece argues Ukraine needs pragmatic, durable solutions on …",
+      "url": "https://www.kyivpost.com/post/80779",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-21T16:52:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/04/822420491b59735429688cc674e0a3cc.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -e592eac5af98",
       "title": "Israel is considering new operation against Iran, as war escalates with the US",
       "description": "Directly involved in the initial phase of the conflict with Iran, Israel said it is prepared to conduct 'both defensive and offensive' operations.",
@@ -137,6 +152,38 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-b439a23685ce",
+      "title": "One Business Lost, A Second In Flames. Despite Russia's War, A Ukrainian Entrepreneur Won't Quit.",
+      "description": "When a Russian drone and missile attack on June 16 hit the Kyiv market where Kateryna Kolmykova’s store and warehouse were located, it was the second time she had lost a business during the war. But in a tearful statement, she says she'll start over yet again.",
+      "url": "https://www.rferl.org/a/mariupol-family-loses-business-twice-russia-ukraine-war-kolmykova/33808968.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-07-21T12:42:28Z",
+      "image": "https://gdb.rferl.org/c653908a-f695-4c8c-1741-08decad58b60_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "un -8ac3112fe08e",
+      "title": "Guterres calls for stepping up diplomatic efforts to end US-Iran conflict",
+      "description": "The United Nations again called for restraint as war ramps up in the Middle East, underscoring the need for dialogue and an end to attacks on “vital infrastructure” across the region.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167989",
+      "source": "UN News",
+      "publishedAt": "2026-07-21T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/09/25328/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -169,52 +216,6 @@
         "analysis"
       ],
       "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -16ea4b490c9e",
-      "title": "Ukraine: UN condemns overnight attack on Kyiv",
-      "description": "United Nations agencies have deplored a fresh Russian assault on the Ukrainian capital Kyiv which left at least one person dead and a dozen injured.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167975",
-      "source": "UN News",
-      "publishedAt": "2026-07-19T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/02-07-2026-UNICEF-Ukraine-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-b9357429f974",
-      "title": "Russian Ballistic Missile Strike Destroys UKRTAC Military Gear Factory in Kyiv",
-      "description": "A direct Russian missile strike completely destroyed the manufacturing facilities and warehouses of UKRTAC, a Ukrainian producer of military gear and personal protective equipment, during an attack on Kyiv on Sunday, July 19. Company founder Severion Dangadze confirmed the total destruction of the plant but reported no…",
-      "url": "https://www.kyivpost.com/post/80625",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-19T11:46:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/19/ded1cd4debef7e2b653bdab3579ebf95.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-836173ae8c05",
-      "title": "Russia Hits Kyiv In Massive Missile And Drone Attack",
-      "description": "Russia launched 41 missiles and 125 drones in a massive overnight attack on Ukraine, with Kyiv as the main target. Ukrainian officials said it was Russia's largest use of ballistic missiles since the start of the full-scale invasion. At least one person was killed and 16 were injured.",
-      "url": "https://www.rferl.org/a/russia-hits-kyiv-in-massive-missile-and-drone-attack/33806892.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-19T11:07:43Z",
-      "image": "https://gdb.rferl.org/ea8d852c-a2f3-4e8c-16d3-08decad58b60_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 14,
       "isAnalysis": true,
       "tags": []
     }

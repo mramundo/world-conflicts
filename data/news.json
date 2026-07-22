@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-22T15:04:53Z",
+  "updated": "2026-07-22T17:22:11Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/four-indians-killed-in-russian-strike-on-vessel-off-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-22T15:04:50Z",
+      "publishedAt": "2026-07-22T17:22:05Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F7%2F3%2F12823755-3-eng-GB%2F0dc0c9ab6671-2025-12-03T114541Z_846617125_RC2Y8IAS39IC_RTRMADP_3_INDIA-RUSSIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,32 @@
       "tags": []
     },
     {
-      "id": "bbc-2ab9c18182ef",
-      "title": "Modelling scout linked to Epstein found dead in Paris",
-      "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-22T14:54:27Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
+      "id": "ans-8c8f855367ed",
+      "title": "Gli Houthi rialzano la testa, scommettono sull'Iran sfidando Riad",
+      "description": "Dopo anni di tregua con Mbs tornano a minacciare il Mar Rosso dopo le incertezze a Hormuz",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/gli-houthi-rialzano-la-testa-scommettono-sulliran-sfidando-riad_93ce782d-a144-44a9-abe5-c6c554623f77.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-22T16:51:59Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/22/9e8ed09ee8dcd0ad28674bd4de2d99d5.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-1748a3d7961d",
+      "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+      "description": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
+      "url": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-22T15:19:48Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116e/live/d8585fa0-85d3-11f1-b976-0b9c15b0ccfc.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,6 +61,36 @@
         "conflict"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a87675e808dd",
+      "title": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
+      "description": "Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-22T14:10:54Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a60b78eee53-1784723342.jpg?resize=1920%2C1425",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-10e19b7e7bfb",
+      "title": "Mounting violence in Mali poses threat to military-led government",
+      "description": "Mali’s military has suffered one of its deadliest losses in years. At least 50 soldiers were killed in an ambush near the northern town of Anefis, in an attack claimed by Tuareg separatists and Al-Qaeda-linked jihadists. The assault is the latest in a string of setbacks, with militants also targeting Malian and Russian…",
+      "url": "https://www.france24.com/en/mounting-violence-in-mali-poses-threat-to-military-led-governement",
+      "source": "France24",
+      "publishedAt": "2026-07-22T14:01:59Z",
+      "image": "https://s.france24.com/media/display/5123ec7a-85d3-11f1-95fc-005056a97e36/w:1024/p:16x9/EN-20260721-214719-215235-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,36 +121,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-1d2dd7d7e0dc",
-      "title": "Oslo ricorda le 77 vittime del doppio attentato di 15 anni fa",
-      "description": "La capitale norvegese e Utoya colpite da estremista di destra Anders Bering Breivik",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/22/oslo-ricorda-le-77-vittime-del-doppio-attentato-di-15-anni-fa_6ee9e350-fb69-42b3-99a2-c82ec725625b.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-22T11:23:31Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/22/95d97c7878afd46409ce06ba95f89715.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -fc73698b5123",
-      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
-      "description": "Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.",
-      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-22T11:04:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP25320473566001-1784708088.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

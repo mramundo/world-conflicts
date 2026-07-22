@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T07:34:44Z",
+  "updated": "2026-07-22T10:26:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,57 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/four-indians-killed-in-russian-strike-on-vessel-off-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-22T07:34:40Z",
+      "publishedAt": "2026-07-22T10:26:28Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F7%2F3%2F12823755-3-eng-GB%2F0dc0c9ab6671-2025-12-03T114541Z_846617125_RC2Y8IAS39IC_RTRMADP_3_INDIA-RUSSIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-88a2c7397764",
+      "title": "Dubai contrasta la crisi per la guerra, 800 dollari a chi porta turisti",
+      "description": "Lancia il 'A Dubai Invite' per rilanciare i flussi nell'emirato",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/dubai-contrasta-la-crisi-per-la-guerra-800-dollari-a-chi-porta-turisti_6ccd1491-c66a-45d2-9f6a-d5abb4a80b0e.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-22T08:26:39Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2017/1/9/89713c7b1816d3bf3f04446050af733d.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-7532132e74c5",
+      "title": "Turkey-PKK talks: Is peace finally possible?",
+      "description": "It was a year ago that PKK fighters held a symbolic disarmament ceremony, burning their weapons. Peace talks between the PKK and Turkey are going slowly, but some observers believe that they will succeed this time.",
+      "url": "https://www.dw.com/en/turkey-pkk-talks-is-peace-finally-possible/a-78059048?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-22T08:12:00Z",
+      "image": "https://static.dw.com/image/73240679_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-c2a32cb73bb0",
+      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+      "description": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
+      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-22T05:33:04Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f675/live/0c1cb720-4a9f-11f1-859d-cdc2d74f1ea0.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,13 +111,13 @@
       "tags": []
     },
     {
-      "id": "fra-91808cd9e76d",
-      "title": "Senegal u-turns to back ex-president Sall to lead UN",
-      "description": "In tonight's edition, a deadly ambush in northern Mali leaves at least 50 soldiers dead. Also, Nigeria is facing a new challenge in its own war against jihadists as foreign fighters are joining insurgent groups. And Senegalese President Bassirou Diomaye Faye is now backing former president Macky Sall's bid for UN Secre…",
-      "url": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
+      "id": "fra-dbae5b3c908a",
+      "title": "Ukraine's Zelensky fires military chief after protests and names a replacement",
+      "description": "President Volodymyr Zelensky on Tuesday fired Gen. Oleksandr Syrsky as commander-in-chief of Ukraine’s armed forces, following days of mass protests in Kyiv and other cities nationwide demanding his removal. Zelenskyy appointed Mykhailo Drapatyi as the new army chief, according to a statement on social media.",
+      "url": "https://www.france24.com/en/ukraine-s-zelensky-fires-military-chief-after-protests-and-names-a-replacement",
       "source": "France24",
-      "publishedAt": "2026-07-21T20:16:19Z",
-      "image": "https://s.france24.com/media/display/fbb4cbda-853f-11f1-89a6-005056a97e36/w:1024/p:16x9/ANGL260721-2145-Live-01.jpg",
+      "publishedAt": "2026-07-21T20:12:45Z",
+      "image": "https://s.france24.com/media/display/13bf5128-8540-11f1-9b22-005056bf30b7/w:1024/p:16x9/EN-20260721-220211-220526-CS.jpg",
       "categories": [
         "conflict"
       ],
@@ -81,62 +126,17 @@
       "tags": []
     },
     {
-      "id": "deu-2ce32e90d6dc",
-      "title": "Jordan faces growing risk of becoming latest frontline state in US-Iran conflict",
-      "description": "As Iranian attacks intensify, Jordan is emerging as the latest frontline state in the widening Middle East conflict. Why is the Hashemite Kingdom a target for Tehran?",
-      "url": "https://www.dw.com/en/jordan-faces-growing-risk-of-becoming-latest-frontline-state-in-us-iran-conflict/a-78055209?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-21T18:39:00Z",
-      "image": "https://static.dw.com/image/78049718_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-31d16025de84",
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "description": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-21T18:07:34Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff6/live/ae6301f0-852e-11f1-b976-0b9c15b0ccfc.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -9402e466209c",
-      "title": "Life in Kidal, Mali, amid pro-independence Azawad Liberation Front rebels",
-      "description": "Algerian photojournalist Samir Maouche traveled to the Kidal region, controlled by pro-independence fighters from the Azawad Liberation Front (ALF), in the weeks following their April 25 offensive in northern and central Mali.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/21/life-in-kidal-mali-amid-pro-independence-azawad-liberation-front-rebels_6755694_4.html",
+      "id": "le -e592eac5af98",
+      "title": "Israel is considering new operation against Iran, as war escalates with the US",
+      "description": "Directly involved in the initial phase of the conflict with Iran, Israel said it is prepared to conduct 'both defensive and offensive' operations.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/21/israel-is-backing-us-against-iran-as-war-escalates_6755693_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-21T16:30:08Z",
-      "image": "https://img.lemde.fr/2026/07/06/363/0/5473/2736/644/322/60/0/fe5302f_upload-1-8rgnpom9hwj3-smaouche-27.jpg",
+      "publishedAt": "2026-07-21T15:42:56Z",
+      "image": "https://img.lemde.fr/2026/07/15/924/0/6160/3080/644/322/60/0/7d71468_upload-1-5o9psc98mxci-ll-tel-aviv-universite-02.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-8215b41150d4",
-      "title": "'Pentagono a corto di fondi con la guerra in Iran, Hegseth al Congresso'",
-      "description": "Wp, i tempi stringono per approvare nuove risorse, ma è stallo",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/21/pentagono-a-corto-di-fondi-con-la-guerra-in-iran-hegseth-al-congresso_5ba39def-4723-4835-bf0e-e0746ff70e5d.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-21T13:34:20Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/21/3b9c16ae4d8d6c213a7107b0d8da9cfb.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -188,6 +188,21 @@
       "tags": []
     },
     {
+      "id": "kyi-b9357429f974",
+      "title": "Russian Ballistic Missile Strike Destroys UKRTAC Military Gear Factory in Kyiv",
+      "description": "A direct Russian missile strike completely destroyed the manufacturing facilities and warehouses of UKRTAC, a Ukrainian producer of military gear and personal protective equipment, during an attack on Kyiv on Sunday, July 19. Company founder Severion Dangadze confirmed the total destruction of the plant but reported no…",
+      "url": "https://www.kyivpost.com/post/80625",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-19T11:46:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/19/ded1cd4debef7e2b653bdab3579ebf95.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-836173ae8c05",
       "title": "Russia Hits Kyiv In Massive Missile And Drone Attack",
       "description": "Russia launched 41 missiles and 125 drones in a massive overnight attack on Ukraine, with Kyiv as the main target. Ukrainian officials said it was Russia's largest use of ballistic missiles since the start of the full-scale invasion. At least one person was killed and 16 were injured.",
@@ -201,21 +216,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-250ef172ecd2",
-      "title": "Russian Strike on Kharkiv Suburbs Kills Three, Injures 20",
-      "description": "Russian forces attacked the suburbs of Kharkiv on Sunday, July 19, resulting in three civilian deaths and 20 people injured. Kharkiv Regional Military Administration Head Oleh Syniehubov reported that nine individuals were hospitalized, with three in serious condition. The strike follows a series of attacks earlier in …",
-      "url": "https://www.kyivpost.com/post/80623",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-19T10:06:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/19/d810d61d047d28e167b446fd015eec22.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
       "tags": []
     }
   ]

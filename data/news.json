@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T17:22:11Z",
+  "updated": "2026-07-22T19:23:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/four-indians-killed-in-russian-strike-on-vessel-off-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-22T17:22:05Z",
+      "publishedAt": "2026-07-22T19:23:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F7%2F3%2F12823755-3-eng-GB%2F0dc0c9ab6671-2025-12-03T114541Z_846617125_RC2Y8IAS39IC_RTRMADP_3_INDIA-RUSSIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,48 @@
       "tags": []
     },
     {
-      "id": "ans-8c8f855367ed",
-      "title": "Gli Houthi rialzano la testa, scommettono sull'Iran sfidando Riad",
-      "description": "Dopo anni di tregua con Mbs tornano a minacciare il Mar Rosso dopo le incertezze a Hormuz",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/22/gli-houthi-rialzano-la-testa-scommettono-sulliran-sfidando-riad_93ce782d-a144-44a9-abe5-c6c554623f77.html",
+      "id": "ans-558743f5d6ec",
+      "title": "'Zelensky ha parlato con Witkoff e Kushner sugli sforzi per la fine della guerra'",
+      "description": "Lo riporta Axios citando alcune fonti",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/22/zelensky-ha-parlato-con-witkoff-e-kushner-sugli-sforzi-per-la-fine-della_b021550a-8ee5-4851-ba84-74289e13448f.html",
       "source": "ANSA",
-      "publishedAt": "2026-07-22T16:51:59Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/22/9e8ed09ee8dcd0ad28674bd4de2d99d5.jpg",
+      "publishedAt": "2026-07-22T18:11:15Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/15/182693a6489ae1658d33a157bf1440e3.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-939066f8a409",
+      "title": "How Russia is luring foreign nationals to fight in Ukraine",
+      "description": "More and more, Russia is recruiting men from the world’s poorest countries to send them to the front in the Ukraine war. Why are people joining up?",
+      "url": "https://www.dw.com/en/how-russia-is-luring-foreign-nationals-to-fight-in-ukraine/a-78074153?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-22T17:37:00Z",
+      "image": "https://static.dw.com/image/77613175_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -58955478f01a",
+      "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
+      "description": "In his first speech since being elected Hamas political chief, Khalil al-Hayya called for a permanent ceasefire in Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-22T17:02:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-17.58.25-1784739695.png?resize=1200%2C630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -57,21 +88,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-07-22T14:24:50Z",
       "image": "https://img.lemde.fr/2026/07/21/240/616/1360/680/644/322/60/0/992f22b_ftp-1-43eto4yofuve-56532e4f9daf4544bb7cca264295bb91-0-8a490e59c26d4d50b2a61f67df231dd6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -a87675e808dd",
-      "title": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
-      "description": "Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-22T14:10:54Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a60b78eee53-1784723342.jpg?resize=1920%2C1425",
       "categories": [
         "conflict"
       ],
@@ -121,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-7532132e74c5",
-      "title": "Turkey-PKK talks: Is peace finally possible?",
-      "description": "A year ago, the Kurdish militant group PKK announced an end to its armed struggle. Since then, peace talks with Turkey have progressed slowly, but some observers believe they could succeed.",
-      "url": "https://www.dw.com/en/turkey-pkk-talks-is-peace-finally-possible/a-78059048?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-22T08:12:00Z",
-      "image": "https://static.dw.com/image/73240679_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

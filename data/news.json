@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T21:20:26Z",
+  "updated": "2026-07-22T23:05:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/four-indians-killed-in-russian-strike-on-vessel-off-ukraine",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-22T21:20:23Z",
+      "publishedAt": "2026-07-22T23:05:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F7%2F3%2F12823755-3-eng-GB%2F0dc0c9ab6671-2025-12-03T114541Z_846617125_RC2Y8IAS39IC_RTRMADP_3_INDIA-RUSSIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -08b7e9177949",
+      "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
+      "description": "Killing of three US soldiers at Jordan base shows Iran maintains the ability to exact deadly toll in grinding conflict.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-22T22:03:13Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a612705380d9-1784751877.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,17 +66,17 @@
       "tags": []
     },
     {
-      "id": "al -58955478f01a",
-      "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
-      "description": "In his first speech since being elected Hamas political chief, Khalil al-Hayya called for a permanent ceasefire in Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-22T17:02:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-17.58.25-1784739695.png?resize=1200%2C630",
+      "id": "the-3dcd1491bb08",
+      "title": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalise fresh Russia sanctions – as it happened",
+      "description": "Brussels talks between senior diplomats now underway in attempt to sign off 21st package of sanctions, after previous failed attempts The Venice Biennale said it would challenge a European Union decision to withdraw a €2 ⁠million grant in response to the return of Russia to its 2026 edition, despite continuing aggressi…",
+      "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-22T15:49:20Z",
+      "image": "https://i.guim.co.uk/img/media/0e0bf1ee00941b59db4cf04af99d4d2f93ae08d6/0_0_3458_2765/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=e1c86f016c6e525c6ce7892aa10f1ae9",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -137,22 +152,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-777361e9d050",
-      "title": "Iran’s foreign minister describes moment of attack that killed Khamenei",
-      "description": "Abbas Araghchi says he has kept on the move since being pulled from rubble after strike on first day of warIran’s foreign minister, Abbas Araghchi, has described how he was pulled from the rubble of a leadership compound after the US-Israeli airstrike that killed the country’s supreme leader, Ali Khamenei, on the first…",
-      "url": "https://www.theguardian.com/world/2026/jul/22/iran-foreign-minister-abbas-aragchi-attack-killed-khamenei",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-22T05:00:07Z",
-      "image": "https://i.guim.co.uk/img/media/ac57669072b3ded06db43e39233f784738ac3529/0_49_1389_1111/master/1389.jpg?width=140&quality=85&auto=format&fit=max&s=f02a3beb121d0906a86f3522bdcc160b",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

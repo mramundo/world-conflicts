@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T02:54:13Z",
+  "updated": "2026-07-23T05:56:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/materials/china-s-copper-mine-in-pakistan-targeted-by-militant-blockade",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-23T02:54:09Z",
+      "publishedAt": "2026-07-23T05:56:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F2%2F2%2F6%2F12896225-1-eng-GB%2Fcca6cf7ee90f-2026-07-22-20.02.11.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -2c06f70eb6d8",
+      "title": "Five soldiers killed in southern Thailand checkpoint attack",
+      "description": "The assault in Narathiwat comes a day after a car bombing elsewhere in the province wounded a police officer.",
+      "url": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-23T03:53:05Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260722__C2TX399__v1__HighRes__ThailandSouthUnrest-1784777667.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-341e3e413aab",
+      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "description": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-23T03:48:27Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,36 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -08b7e9177949",
-      "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
-      "description": "Killing of three US soldiers at Jordan base shows Iran maintains the ability to exact deadly toll in grinding conflict.",
-      "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-22T22:03:13Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a612705380d9-1784751877.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-2ab9c18182ef",
-      "title": "Modelling scout linked to Epstein found dead in Paris",
-      "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-22T18:21:55Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

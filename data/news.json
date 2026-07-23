@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-23T16:37:06Z",
+  "updated": "2026-07-23T18:13:56Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/japan-aims-to-build-naphtha-reserves-after-iran-war-shortages",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-23T16:37:01Z",
+      "publishedAt": "2026-07-23T18:13:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F9%2F0%2F12900978-1-eng-GB%2F3901c643874f-20260723N-oil-refinery-Chiba.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,8 +20,38 @@
       "tags": []
     },
     {
+      "id": "bbc-16c6a00a2cb6",
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "description": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-23T17:37:59Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcc1/live/101e62c0-86b7-11f1-bb58-d3ffca85db6d.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -9c348db81b02",
+      "title": "Greece to build 'Achilles Shield' defense dome with Israeli arms",
+      "description": "The country's defense ministry says the military modernization project must incorporate lessons from the war in Ukraine and is aimed at preparing Greece's armed forces for the challenges of the 21st century.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/23/greece-to-build-achilles-shield-defense-dome-with-israeli-arms_6755769_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-23T16:39:08Z",
+      "image": "https://img.lemde.fr/2026/07/23/417/0/5000/2500/644/322/60/0/1e982ce_upload-1-4jmy1cg1egae-1e982ce-upload-1-oal4ggg7qcco-ap26020376750653.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-fef2eb1b973e",
-      "title": "Ousted Ukrainian defence minister refuses any other role in Zelenskyy’s government – Europe live",
+      "title": "Ousted Ukrainian defence minister refuses any other role in Zelenskyy’s government – as it happened",
       "description": "Mykhailo Fedorov says only in his former post could he ‘combat procurement corruption and complete the army’s transformation’EU foreign policy chief Kaja Kallas has offered a bit more detail on the new package of sanctions, saying they are “the largest round in four years,” and will “hit Putin where it hurts most.”In a…",
       "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
       "source": "The Guardian",
@@ -35,17 +65,17 @@
       "tags": []
     },
     {
-      "id": "bbc-5a577cbb7702",
-      "title": "Oil prices hit $100 for the first time since May",
-      "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-23T15:31:00Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d668/live/b41122b0-867a-11f1-8c77-df97511a6b05.jpg",
+      "id": "al -9eb8b4543baa",
+      "title": "US House votes to limit Iran war for first time since ceasefire breakdown",
+      "description": "Senate fails to pass latest War Powers resolution, in largely symbolic move attempting to reign in Trump.",
+      "url": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-23T16:12:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/epa_6a622fc75194-1784819655.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,53 +108,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-655f2241ca3d",
-      "title": "How Houthi strikes on oil tankers will impact the Middle East war",
-      "description": "Yemen's Houthi rebels say they have attacked two Saudi oil tankers. The Houthis are supported by Iran, and the attacks in the Red Sea could be a new front for the war between the US and Iran. But how will this affect the conflict?",
-      "url": "https://www.france24.com/en/how-houthi-strikes-on-oil-tankers-will-impact-the-middle-east-war",
-      "source": "France24",
-      "publishedAt": "2026-07-23T12:27:25Z",
-      "image": "https://s.france24.com/media/display/b1b9d426-8436-11f1-9437-005056a90284/w:1024/p:16x9/2026-07-15T122836Z-97536865-RC20HKAGF0XM-RTRMADP-3-IRAN-CRISIS-YEMEN-RED-SEA.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -40f13cf03e4c",
-      "title": "Can Iran withstand new pressure from the US?",
-      "description": "After a truce, the US has returned to war with Iran. Alex Gatopoulos looks at what’s different this time",
-      "url": "https://www.aljazeera.com/video/project-force-2/2026/7/23/can-iran-withstand-new-pressure-from-the-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-23T11:55:23Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/Project-Force-Wide-9-1784807645.png?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -150c6c499295",
-      "title": "EU struggles to adopt new round of economic sanctions against Russia",
-      "description": "The 27 member states reached an agreement on Thursday on a 21st package of sanctions against Moscow. Several member states asserted their individual interests and secured concessions.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/23/eu-struggles-to-adopt-new-round-of-economic-sanctions-against-russia_6755756_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-23T10:25:37Z",
-      "image": "https://img.lemde.fr/2026/07/15/369/0/4425/2212/644/322/60/0/25cc050_ftp-1-klkgcwbfhlrf-2026-07-15t140332z-1665803860-rc29emasr2nv-rtrmadp-3-ukraine-crisis-eu.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

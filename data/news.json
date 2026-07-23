@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T08:39:15Z",
+  "updated": "2026-07-23T11:11:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/materials/china-s-copper-mine-in-pakistan-targeted-by-militant-blockade",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-23T08:39:11Z",
+      "publishedAt": "2026-07-23T11:11:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F2%2F2%2F6%2F12896225-1-eng-GB%2Fcca6cf7ee90f-2026-07-22-20.02.11.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,64 @@
       "tags": []
     },
     {
-      "id": "the-fef2eb1b973e",
-      "title": "Marco Rubio says ‘new ideas’ needed to end war in Ukraine after meeting Russia’s Lavrov – Europe live",
-      "description": "The US secretary of state said proposals put forward so far were ‘not acceptable to Ukraine’Rubio gets asked about a Russian readout from his meeting with Lavrov, and a suggestion that the US should not be selling arms to Ukraine.He doesn’t recognise these statements, and says there has been no change in the US policy.…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-23T08:15:47Z",
-      "image": "https://i.guim.co.uk/img/media/8cd5eaf5479cdb70750a37b1ef7e4e9c882b9e68/1208_0_6653_5322/master/6653.jpg?width=140&quality=85&auto=format&fit=max&s=44bb346a3dab8907ec706d8f5033901e",
+      "id": "le -150c6c499295",
+      "title": "EU struggles to adopt new round of economic sanctions against Russia",
+      "description": "The 27 member states reached an agreement on Thursday on a 21st package of sanctions against Moscow. Several member states asserted their individual interests and secured concessions.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/23/eu-struggles-to-adopt-new-round-of-economic-sanctions-against-russia_6755756_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-23T10:25:37Z",
+      "image": "https://img.lemde.fr/2026/07/15/369/0/4425/2212/644/322/60/0/25cc050_ftp-1-klkgcwbfhlrf-2026-07-15t140332z-1665803860-rc29emasr2nv-rtrmadp-3-ukraine-crisis-eu.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-a768276d3d97",
+      "title": "Rubio Says U.S. Remains Committed to Ukraine Peace Talks After Meeting With Lavrov",
+      "description": "Rubio said President Donald Trump had made clear that the United States was prepared to help facilitate an end to a \"senseless war\" if the opportunity arose.",
+      "url": "https://www.themoscowtimes.com/2026/07/23/rubio-says-us-remains-committed-to-ukraine-peace-talks-after-meeting-with-lavrov-a93320",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-07-23T10:12:50Z",
+      "image": "https://static.themoscowtimes.com/image/og/0b/93320__0b48e75db1f1bbe3ab0c857e2a8930d6.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-09afc527373a",
+      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
+      "description": "Angel Rampersad, Michael Swinton, Isabella Gonzales and Tyler Feehan were among 18 US troops killed in the warA 30-year-old husband and father of two. A 25-year-old officer just weeks away from earning his MBA. A 19-year-old recent high school graduate. And a 28-year-old from Queens, New York, with a “radiant smile”.Th…",
+      "url": "https://www.theguardian.com/world/2026/jul/23/iran-war-us-troops",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-23T10:00:42Z",
+      "image": "https://i.guim.co.uk/img/media/630bfa2606808a4594d113f16a7ebf80efc44ddd/0_0_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=3053ae6b80a5cfe1d274902608e96348",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-93a2ede78158",
+      "title": "Countless Ukrainians Need Prosthetics. Homegrown Start-Ups Are Supplying Them",
+      "description": "As battlefield injuries mount from a long-running war, Ukrainian companies are racing to meet a high demand for prosthetic limbs. One start-up, Allbionics, is making sophisticated prosthetics that it says are comparable to those produced abroad. With help from the Ukrainian government and private donors, the company is…",
+      "url": "https://www.rferl.org/a/ukraine-disabled-veterans-prosthetic-limbs/33809139.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-07-23T09:18:10Z",
+      "image": "https://gdb.rferl.org/8a799c02-a35a-476b-4375-08decacf94d0_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -56,7 +102,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-07-23T03:48:27Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf38/live/90c9e750-8676-11f1-b976-0b9c15b0ccfc.jpg",
       "categories": [
         "conflict"
       ],
@@ -111,21 +157,6 @@
       "tags": []
     },
     {
-      "id": "le -f7eda57682b9",
-      "title": "Zelensky forced to dismiss Oleksandr Syrsky, Ukraine's armed forces chief",
-      "description": "Yielding to mounting pressure from demonstrators calling for General Syrsky's departure, Ukrainian President Volodymyr Zelensky reversed course and has replaced him with General Mykhailo Drapaty.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/22/zelensky-forced-to-dismiss-oleksandr-syrsky-ukraine-s-armed-forces-chief_6755725_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-22T14:24:50Z",
-      "image": "https://img.lemde.fr/2026/07/21/240/616/1360/680/644/322/60/0/992f22b_ftp-1-43eto4yofuve-56532e4f9daf4544bb7cca264295bb91-0-8a490e59c26d4d50b2a61f67df231dd6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-5b3c181f94f9",
       "title": "Ukraine’s New Military Commander Maj. Gen. Mykhailo Drapaty: 5 Things to Know",
       "description": "Mykhailo Drapaty, Ukraine’s new senior officer, is renowned for frontline leadership since 2014. He pioneered large-scale drone-centric warfare, helped liberate Kherson, and is respected for decentralized command, innovation, and accepting responsibility for battlefield failures.",
@@ -171,22 +202,6 @@
       "tags": []
     },
     {
-      "id": "rfe-b439a23685ce",
-      "title": "One Business Lost, A Second In Flames. Despite Russia's War, A Ukrainian Entrepreneur Won't Quit.",
-      "description": "When a Russian drone and missile attack on June 16 hit the Kyiv market where Kateryna Kolmykova’s store and warehouse were located, it was the second time she had lost a business during the war. But in a tearful statement, she says she'll start over yet again.",
-      "url": "https://www.rferl.org/a/mariupol-family-loses-business-twice-russia-ukraine-war-kolmykova/33808968.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-21T12:42:28Z",
-      "image": "https://gdb.rferl.org/c653908a-f695-4c8c-1741-08decad58b60_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "cs -e5978135e130",
       "title": "Why so many Ukrainians are up in arms over firing of defense minister",
       "description": "Ukrainian President Volodymyr Zelenskyy’s dismissal of the popular defense minister, an architect of Ukraine’s effective high-tech warfare, has sparked protests across the country. More than just strategy, youth appears part of his appeal.",
@@ -199,22 +214,6 @@
         "analysis"
       ],
       "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-125ec004f577",
-      "title": "What We Know About the Aftermath of Ukraine’s Wildberries Drone Strikes",
-      "description": "The strikes, one of the costliest attacks on Russia’s commercial infrastructure since the start of the war, hit small businesses especially hard.",
-      "url": "https://www.themoscowtimes.com/2026/07/20/what-we-know-about-the-aftermath-of-ukraines-wildberries-drone-strikes-a93285",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-07-20T14:02:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/10/93285__10487103811cd258d658ff3b9fec0f11.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": true,
       "tags": []
     }

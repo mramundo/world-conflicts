@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T20:14:07Z",
+  "updated": "2026-07-23T22:06:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/commodities/japan-aims-to-build-naphtha-reserves-after-iran-war-shortages",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-23T20:14:03Z",
+      "publishedAt": "2026-07-23T22:05:55Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F9%2F0%2F12900978-1-eng-GB%2F3901c643874f-20260723N-oil-refinery-Chiba.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-c648853ad4d4",
+      "title": "Messico, nuove sanzioni Usa contro il nuovo leader del cartello di Jalisco",
+      "description": "Coinvolte 55 persone e società, congelati beni per riciclaggio e narcotraffico",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/messico-nuove-sanzioni-usa-contro-il-nuovo-leader-del-cartello-di-jalisco_9efc23aa-55ad-44cc-bf09-8a1e8afaeaba.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-23T21:59:00Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/3/13/18868a4b56ad2da01016b4e36b46f669.jpg",
       "categories": [
         "conflict"
       ],
@@ -76,21 +91,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-641a585e2d69",
-      "title": "Nuovo schiaffo a Trump, un'altra risoluzione della Camera contro la guerra in Iran",
-      "description": "Quattro repubblicani votano con i dem per limiti ai poteri del presidente",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/23/nuovo-schiaffo-a-trump-unaltra-risoluzione-della-camera-contro-la-guerra-in-iran_803fe4fd-e499-43d1-a2f5-aa5b916fce48.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-23T15:46:49Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/2/25/87039ab7dd9df48d22abd53918ee8258.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -203,19 +203,19 @@
       "tags": []
     },
     {
-      "id": "cs -e5978135e130",
-      "title": "Why so many Ukrainians are up in arms over firing of defense minister",
-      "description": "Ukrainian President Volodymyr Zelenskyy’s dismissal of the popular defense minister, an architect of Ukraine’s effective high-tech warfare, has sparked protests across the country. More than just strategy, youth appears part of his appeal.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0720/ukraine-drone-war-defense-minister-fedorov-general-syrskyi?icid=rss",
+      "id": "cs -e854975c4479",
+      "title": "Surrounded by warring factions, Sudan’s el-Obeid must rely on local relief",
+      "description": "Several hundred thousand civilians in the Sudanese city of el-Obeid are caught in the middle of fighting between rival military forces, relying in part on humanitarian aid from local activists.",
+      "url": "https://www.csmonitor.com/World/Africa/2026/0721/sudan-el-obeid-civil-war-kordofan-el-fasher?icid=rss",
       "source": "CS Monitor",
-      "publishedAt": "2026-07-20T21:33:07Z",
-      "image": "https://images.csmonitor.com/csm/2026/07/0720_OUKRAINEMOOD_METRO.jpg?alias=standard_900x600",
+      "publishedAt": "2026-07-21T21:39:25Z",
+      "image": "https://images.csmonitor.com/csm/2026/07/OSUDANCITY_tents.jpg?alias=standard_900x600",
       "categories": [
         "conflict",
-        "analysis"
+        "humanitarian"
       ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     }
   ]

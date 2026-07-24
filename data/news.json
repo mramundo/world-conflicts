@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-24T20:21:23Z",
+  "updated": "2026-07-24T22:05:55Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-24T20:21:19Z",
+      "publishedAt": "2026-07-24T22:05:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -35,6 +35,21 @@
       "tags": []
     },
     {
+      "id": "al -496e127c5768",
+      "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
+      "description": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-24T18:01:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-thumb-gaza-crator-1784916019.png?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-8e8ae412b867",
       "title": "How Chinese tech and Russian tactics are aiding Iran’s bombing of US bases",
       "description": "Increasingly accurate and lethal attacks are revealing weaknesses in stretched defences across the GulfAs the crisis in the Middle East escalates, Iran has been bombing US bases and critical infrastructure in the Gulf with increasing accuracy, helped by Chinese satellite imagery and tactics learned by Russia in Ukraine…",
@@ -48,21 +63,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -80d315e66950",
-      "title": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
-      "description": "Visit will be Netanyahu&#039;s seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-24T16:01:18Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T091420Z_516337771_RC2XNCAHOZDD_RTRMADP_3_USA-ISRAEL-VANCE-IRAN-1784905472.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -143,17 +143,17 @@
       "tags": []
     },
     {
-      "id": "le -af5de39790ab",
-      "title": "Four Palestinians and one Israeli killed in West Bank",
-      "description": "Walid Zidan, head of Tel village council, told AFP that about 20 Israeli settlers 'stormed the village, with the intention of killing, vandalizing and setting property on fire.' Israeli PM Netanyahu promised to respond with 'full force.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/24/four-palestinians-and-one-israeli-killed-in-west-bank_6755788_4.html",
+      "id": "le -2755a91e2d73",
+      "title": "Bab Al-Mandab Strait threatens to be new front in war with Iran",
+      "description": "The Houthi forces, who announced a blockade of Saudi ports on Monday, claimed responsibility for an attack in the Red Sea targeting two Saudi Arabian oil tankers on Wednesday. Iran and the Houthis are betting that the economic consequences of the war will bring Donald Trump back to the negotiating table.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/24/bab-al-mandab-strait-threatens-to-be-new-front-in-war-with-iran_6755785_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-24T10:02:17Z",
-      "image": "https://img.lemde.fr/2026/07/24/684/0/8192/4096/644/322/60/0/e8defdb_ftp-1-1he35himvkdg-5693536-01-06.jpg",
+      "publishedAt": "2026-07-24T08:58:09Z",
+      "image": "https://img.lemde.fr/2026/07/23/0/0/6720/3360/644/322/60/0/ebf5eee_ftp-1-b5kmpzzod7qd-2026-07-23t132251z-1737362783-rc20hkargega-rtrmadp-3-iran-crisis-stocks.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,22 +201,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -e854975c4479",
-      "title": "Surrounded by warring factions, Sudan’s el-Obeid must rely on local relief",
-      "description": "Several hundred thousand civilians in the Sudanese city of el-Obeid are caught in the middle of fighting between rival military forces, relying in part on humanitarian aid from local activists.",
-      "url": "https://www.csmonitor.com/World/Africa/2026/0721/sudan-el-obeid-civil-war-kordofan-el-fasher?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-07-21T21:39:25Z",
-      "image": "https://images.csmonitor.com/csm/2026/07/OSUDANCITY_tents.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     }

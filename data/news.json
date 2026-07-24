@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-24T10:20:15Z",
+  "updated": "2026-07-24T12:20:13Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,59 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/south-china-sea/philippines-seeks-china-reset-as-sea-clashes-overshadow-asean-talks",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-24T10:20:11Z",
+      "publishedAt": "2026-07-24T12:20:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F4%2F3%2F12903456-1-eng-GB%2Fbc82bbeca938-GettyImages-2286420210b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b3ffe2bfbeba",
+      "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+      "description": "Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries warehouses hit again.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-24T11:45:04Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a635017-1784893463.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-5395fae4e0ff",
+      "title": "How the Houthis blockade of the Red Sea could affect the global economy",
+      "description": "NPR's A Martínez asks former U.S. deputy national security adviser Jon Finer what the blockade of the Red Sea by Houthi rebels means for the global economy.",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5904543/how-the-houthis-blockade-of-the-red-sea-could-affect-the-global-economy",
+      "source": "NPR World",
+      "publishedAt": "2026-07-24T10:44:01Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5904543",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-15a76d026643",
+      "title": "Gaza faces ongoing food crisis despite ceasefire",
+      "description": "More than nine months into the ceasefire between Israel and Hamas, two-thirds of Gaza's population is still facing crisis levels of food insecurity, according to a new UN report released on Thursday. The report warns that recent gains could quickly be reversed unless humanitarian agencies continue to receive sustained …",
+      "url": "https://www.france24.com/en/gaza-faces-ongoing-food-crisis-despite-ceasefire",
+      "source": "France24",
+      "publishedAt": "2026-07-24T10:12:05Z",
+      "image": "https://s.france24.com/media/display/060bf3d0-8746-11f1-b792-005056a97e36/w:1024/p:16x9/EN-20260724-091028-091821-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,32 +82,17 @@
       "tags": []
     },
     {
-      "id": "al -970e2c210d82",
-      "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
-      "description": "A major fire broke out at a Wildberries e-commerce warehouse in St Petersburg after a Ukrainian drone attack.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-24T08:42:07Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784882498.jpg?resize=1920%2C1080&amp;quality=80",
+      "id": "the-f49185dc1ca9",
+      "title": "UK ‘ready to defend itself’ after Iranian threat over US bases",
+      "description": "IRGC claims base in south-west England was used by US to launch bombing missions, making it ‘legitimate target’The government has said the UK is “ready to defend itself” after Iran’s military warned that any bases being used by the US were “legitimate targets”.The UK has allowed the US to launch “defensive” operations …",
+      "url": "https://www.theguardian.com/world/2026/jul/23/uk-ready-to-defend-itself-iran-threat-us-bases",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-23T22:41:37Z",
+      "image": "https://i.guim.co.uk/img/media/e1c12d0d4c30b233389f2362dd10269516d753c0/611_0_5551_4442/master/5551.jpg?width=140&quality=85&auto=format&fit=max&s=f00e148f7e5d1e1118628e83ca1a3d26",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-24dfaf1a9715",
-      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-      "description": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\"",
-      "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
-      "source": "NPR World",
-      "publishedAt": "2026-07-24T05:45:47Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6631x4421+0+0/resize/6631x4421!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2Fad%2Fcb69e62947769122fe52fbdbbcd4%2Fap26204156739024.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -107,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-fef2eb1b973e",
-      "title": "Ousted Ukrainian defence minister refuses any other role in Zelenskyy’s government – as it happened",
-      "description": "Mykhailo Fedorov says only in his former post could he ‘combat procurement corruption and complete the army’s transformation’EU foreign policy chief Kaja Kallas has offered a bit more detail on the new package of sanctions, saying they are “the largest round in four years,” and will “hit Putin where it hurts most.”In a…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-23T16:13:00Z",
-      "image": "https://i.guim.co.uk/img/media/dc9f7bf97ba987e92a814e041072ff9bb85a2cb7/647_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=59026df37964f2c312ae32c7deae2082",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

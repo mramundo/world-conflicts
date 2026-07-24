@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T14:56:57Z",
+  "updated": "2026-07-24T16:46:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,57 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-24T14:56:54Z",
+      "publishedAt": "2026-07-24T16:46:47Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-7ab1c997b068",
+      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "description": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
+      "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-24T16:08:51Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e61e/live/c260d230-8773-11f1-b430-afa19a42b819.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -80d315e66950",
+      "title": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+      "description": "Visit will be Netanyahu&#039;s seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-24T16:01:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T091420Z_516337771_RC2XNCAHOZDD_RTRMADP_3_USA-ISRAEL-VANCE-IRAN-1784905472.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-437c3e51a61b",
+      "title": "Deadly clashes in the occupied West Bank",
+      "description": "Israeli Prime Minister Benjamin Netanyahu has vowed to respond with \"full force\" following a deadly clash in the occupied West Bank. Two Israeli soldiers were killed on Friday in fighting near the settlement of Havat Gilad and the neighbouring village of Tal. The incident comes amid a sharp rise in violence across the …",
+      "url": "https://www.france24.com/en/deadly-clashes-in-the-occupied-west-bank",
+      "source": "France24",
+      "publishedAt": "2026-07-24T15:57:10Z",
+      "image": "https://s.france24.com/media/display/c89a5b2c-8777-11f1-9f86-005056a97e36/w:1024/p:16x9/EN-20260724-170417-170751-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -37,7 +82,7 @@
     {
       "id": "deu-53842c2c9254",
       "title": "Can Pakistan-administered Kashmir elections calm tensions?",
-      "description": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashmir. One local group has called for the election to be boycotted.",
+      "description": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashmir. One local group has called for the elections to be boycotted.",
       "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-07-24T12:46:00Z",
@@ -48,21 +93,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -b3ffe2bfbeba",
-      "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-      "description": "Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries warehouses hit again.",
-      "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-24T11:45:04Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a635017-1784893463.jpg?resize=1200%2C630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -79,22 +109,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-15a76d026643",
-      "title": "Gaza faces ongoing food crisis despite ceasefire",
-      "description": "More than nine months into the ceasefire between Israel and Hamas, two-thirds of Gaza's population is still facing crisis levels of food insecurity, according to a new UN report released on Thursday. The report warns that recent gains could quickly be reversed unless humanitarian agencies continue to receive sustained …",
-      "url": "https://www.france24.com/en/gaza-faces-ongoing-food-crisis-despite-ceasefire",
-      "source": "France24",
-      "publishedAt": "2026-07-24T10:12:05Z",
-      "image": "https://s.france24.com/media/display/060bf3d0-8746-11f1-b792-005056a97e36/w:1024/p:16x9/EN-20260724-091028-091821-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -141,21 +155,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-16c6a00a2cb6",
-      "title": "Ukraine's ousted defence minister insists on being reinstated",
-      "description": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-23T17:37:59Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcc1/live/101e62c0-86b7-11f1-bb58-d3ffca85db6d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {

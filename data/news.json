@@ -1,22 +1,53 @@
 {
-  "updated": "2026-07-24T12:20:13Z",
+  "updated": "2026-07-24T14:56:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-167d5726f6b9",
-      "title": "Philippines seeks China reset as sea clashes overshadow ASEAN talks",
+      "id": "nik-70aea612d844",
+      "title": "Myanmar military clashes with rebels drop by half from peak",
       "description": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/south-china-sea/philippines-seeks-china-reset-as-sea-clashes-overshadow-asean-talks",
+      "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-24T12:20:09Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F4%2F3%2F12903456-1-eng-GB%2Fbc82bbeca938-GettyImages-2286420210b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-07-24T14:56:54Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-a00c87349c9c",
+      "title": "Media, nella sparatoria vicino Nablus morto un maggiore dell'Idf rimasto ferito",
+      "description": "Yuval Ezra 'ucciso nell'attentato terroristico in Cisgiordania'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/media-nella-sparatoria-vicino-nablus-morto-un-maggiore-dellidf-rimasto-ferito_0467bdb2-d2bc-4fe7-88ce-c2cf9932da3f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-24T13:46:17Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/1/85aa09135e65c86e54ab3589d0e18a49.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-53842c2c9254",
+      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
+      "description": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashmir. One local group has called for the election to be boycotted.",
+      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-24T12:46:00Z",
+      "image": "https://static.dw.com/image/78101101_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -113,21 +144,6 @@
       "tags": []
     },
     {
-      "id": "ans-c648853ad4d4",
-      "title": "Messico, nuove sanzioni Usa contro il nuovo leader del cartello di Jalisco",
-      "description": "Coinvolte 55 persone e società, congelati beni per riciclaggio e narcotraffico",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/23/messico-nuove-sanzioni-usa-contro-il-nuovo-leader-del-cartello-di-jalisco_9efc23aa-55ad-44cc-bf09-8a1e8afaeaba.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-23T21:59:00Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/3/13/18868a4b56ad2da01016b4e36b46f669.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-16c6a00a2cb6",
       "title": "Ukraine's ousted defence minister insists on being reinstated",
       "description": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
@@ -139,21 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-ac38a6c73c6e",
-      "title": "Trump's refugee policy: Only white South Africans welcome?",
-      "description": "Trump is spending more money on refugees, but it's mostly white South Africans who benefit. People from crisis-stricken countries are being denied entry. Experts say the credibility of US refugee aid has been damaged.",
-      "url": "https://www.dw.com/en/trump-s-refugee-policy-only-white-south-africans-welcome/a-78075039?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-23T14:53:00Z",
-      "image": "https://static.dw.com/image/72775447_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

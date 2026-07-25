@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-25T21:57:58Z",
+  "updated": "2026-07-25T23:02:06Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-25T21:57:55Z",
+      "publishedAt": "2026-07-25T23:02:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -77,6 +77,21 @@
         "conflict"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-3bf1816fc6dc",
+      "title": "Palestinians bury four people killed in occupied West Bank clash with Israeli settlers",
+      "description": "Grieving family members on Saturday buried four Palestinian men killed during a clash with Israeli settlers a day earlier in the occupied West Bank. Palestinians reported a series of violent settler attacks on other villages in the Palestinian territory late Friday following the deadly confrontation, with local officia…",
+      "url": "https://www.france24.com/en/middle-east/20260725-palestinians-bury-four-people-killed-in-occupied-west-bank-clash-with-israeli-settlers",
+      "source": "France24",
+      "publishedAt": "2026-07-25T08:42:58Z",
+      "image": "https://s.france24.com/media/display/5544ce72-87ff-11f1-bd29-005056a90284/w:1024/p:16x9/2026-07-24T224242Z-1147157310-RC2MKMAJ90B6-RTRMADP-3-ISRAEL-PALESTINIANS-WEST-BANK-VIOLENCE-FUNERAL.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

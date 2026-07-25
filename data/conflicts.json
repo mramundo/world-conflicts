@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T19:09:44Z",
+  "updated": "2026-07-25T20:54:56Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-07-25T14:59:42Z",
   "items": [
@@ -46,7 +46,7 @@
       ],
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-07-25",
-      "wikipediaRevision": "2026-07-25T02:58:47Z",
+      "wikipediaRevision": "2026-07-25T20:02:59Z",
       "recentNewsCount": 0
     },
     {
@@ -429,7 +429,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-07-25",
       "wikipediaRevision": "2026-07-25T14:54:34Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "wb-isr",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     }
   ]
 }

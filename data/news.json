@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T13:38:19Z",
+  "updated": "2026-07-25T15:04:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-25T13:38:14Z",
+      "publishedAt": "2026-07-25T15:04:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -46,6 +46,21 @@
         "conflict"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-3c8a61c4b8a1",
+      "title": "Middle East: Red Sea tensions grow as Saudi-Houthi clashes open new front",
+      "description": "The Houthis have accused US ally Riyadh of a \"dangerous escalation\" after it struck military targets belonging to the group on Friday, following the rebels announcing a maritime blockade of the top oil producer and hitting its ships in the Red Sea.",
+      "url": "https://www.france24.com/en/middle-east-red-sea-tensions-grow-as-saudi-houthi-clashes-open-new-front",
+      "source": "France24",
+      "publishedAt": "2026-07-25T08:30:30Z",
+      "image": "https://s.france24.com/media/display/c4642b74-8807-11f1-b0bf-005056a90284/w:1024/p:16x9/000-C364463.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,32 +111,17 @@
       "tags": []
     },
     {
-      "id": "fra-9e5b263d641d",
-      "title": "Yemen's Houthis say they hit Saudi Arabia as Trump weighs harder Iran strikes",
-      "description": "Yemen's Houthi rebels have claimed responsibility for a missile attack on the city of Jizan in Saudi Arabia on Saturday as the fallout of the US-Israeli war against Iran spreads further across the Middle East. The Iran-backed group last week announced a maritime blockade on Saudi Arabia and has targeted its ships in th…",
-      "url": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
-      "source": "France24",
-      "publishedAt": "2026-07-24T22:31:12Z",
-      "image": "https://s.france24.com/media/display/60619e4c-879c-11f1-90a5-005056bf30b7/w:1024/p:16x9/57b9e509d054e79a877097c55b0c24b371a6e089.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-a00c87349c9c",
-      "title": "Media, nella sparatoria vicino Nablus morto un maggiore dell'Idf rimasto ferito",
-      "description": "Yuval Ezra 'ucciso nell'attentato terroristico in Cisgiordania'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/24/media-nella-sparatoria-vicino-nablus-morto-un-maggiore-dellidf-rimasto-ferito_0467bdb2-d2bc-4fe7-88ce-c2cf9932da3f.html",
+      "id": "ans-a997c6d882d9",
+      "title": "Lula rilancia la difesa del Brasile, 'ci sono pazzi che vogliono fare la guerra'",
+      "description": "In visita a un'azienda militare allude a Trump e cita la guerra della Triplice Alleanza",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/lula-rilancia-la-difesa-del-brasile-ci-sono-pazzi-che-vogliono-fare_05819f9d-567f-48be-b408-6db58f52ee1b.html",
       "source": "ANSA",
-      "publishedAt": "2026-07-24T13:46:17Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/1/85aa09135e65c86e54ab3589d0e18a49.jpg",
+      "publishedAt": "2026-07-24T22:58:25Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/24/b69825862d7ba9f2ff46ca020fc8a7ba.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

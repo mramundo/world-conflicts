@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T09:49:44Z",
+  "updated": "2026-07-25T11:12:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-25T09:49:41Z",
+      "publishedAt": "2026-07-25T11:12:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -d708c5273cd0",
+      "title": "Netanyahu launches large-scale operation in West Bank after deadly clashes between Palestinians and settlers",
+      "description": "Violence that broke out Friday morning around Nablus left two Israelis and four Palestinians dead. The Israeli government ordered the army to accelerate illegal settlements.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/25/netanyahu-launches-large-scale-operation-in-west-bank-after-deadly-clashes-between-palestinians-and-settlers_6755824_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-25T10:51:38Z",
+      "image": "https://img.lemde.fr/2026/07/06/720/0/5760/2880/644/322/60/0/970153d_upload-1-6npwudxwfvsu-lgeai-routes-colonisation-41.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,6 +81,21 @@
       "tags": []
     },
     {
+      "id": "fra-9e5b263d641d",
+      "title": "Yemen's Houthis say they hit Saudi Arabia as Trump weighs harder Iran strikes",
+      "description": "Yemen's Houthi rebels have claimed responsibility for a missile attack on the city of Jizan in Saudi Arabia on Saturday as the fallout of the US-Israeli war against Iran spreads further across the Middle East. The Iran-backed group last week announced a maritime blockade on Saudi Arabia and has targeted its ships in th…",
+      "url": "https://www.france24.com/en/middle-east/20260724-yemen-s-houthis-say-they-hit-saudi-arabia-as-trump-weighs-harder-iran-strikes",
+      "source": "France24",
+      "publishedAt": "2026-07-24T22:31:12Z",
+      "image": "https://s.france24.com/media/display/60619e4c-879c-11f1-90a5-005056bf30b7/w:1024/p:16x9/57b9e509d054e79a877097c55b0c24b371a6e089.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-8e8ae412b867",
       "title": "How Chinese tech and Russian tactics are aiding Iran’s bombing of US bases",
       "description": "Increasingly accurate and lethal attacks are revealing weaknesses in stretched defences across the GulfAs the crisis in the Middle East escalates, Iran has been bombing US bases and critical infrastructure in the Gulf with increasing accuracy, helped by Chinese satellite imagery and tactics learned by Russia in Ukraine…",
@@ -79,21 +109,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-437c3e51a61b",
-      "title": "Deadly clashes in the occupied West Bank",
-      "description": "Israeli Prime Minister Benjamin Netanyahu has vowed to respond with \"full force\" following a deadly clash in the occupied West Bank. Two Israeli soldiers were killed on Friday in fighting near the settlement of Havat Gilad and the neighbouring village of Tal. The incident comes amid a sharp rise in violence across the …",
-      "url": "https://www.france24.com/en/deadly-clashes-in-the-occupied-west-bank",
-      "source": "France24",
-      "publishedAt": "2026-07-24T15:57:10Z",
-      "image": "https://s.france24.com/media/display/c89a5b2c-8777-11f1-9f86-005056a97e36/w:1024/p:16x9/EN-20260724-170417-170751-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -156,21 +171,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -2755a91e2d73",
-      "title": "Bab Al-Mandab Strait threatens to be new front in war with Iran",
-      "description": "The Houthi forces, who announced a blockade of Saudi ports on Monday, claimed responsibility for an attack in the Red Sea targeting two Saudi Arabian oil tankers on Wednesday. Iran and the Houthis are betting that the economic consequences of the war will bring Donald Trump back to the negotiating table.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/24/bab-al-mandab-strait-threatens-to-be-new-front-in-war-with-iran_6755785_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-24T08:58:09Z",
-      "image": "https://img.lemde.fr/2026/07/23/0/0/6720/3360/644/322/60/0/ebf5eee_ftp-1-b5kmpzzod7qd-2026-07-23t132251z-1737362783-rc20hkargega-rtrmadp-3-iran-crisis-stocks.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {

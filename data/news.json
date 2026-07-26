@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-26T19:13:47Z",
+  "updated": "2026-07-26T20:59:14Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,60 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-26T19:13:44Z",
+      "publishedAt": "2026-07-26T20:59:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-0711f6be8cd5",
+      "title": "Netanyahu accuses Mamdani of ‘fomenting hate’ in calls for PM’s arrest",
+      "description": "Israeli prime minister says ICC’s war crime charges are ‘bogus’ and plans to be in New York for UN gathering this fallBenjamin Netanyahu said on Sunday that Zohran Mamdani, the New York City mayor, is “fomenting hate” by calling the Israeli prime minister a war criminal who should be arrested over Israel’s war in Gaza …",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/netanyahu-mamdani-icc-arrest-gaza-war-united-nations",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-26T20:43:20Z",
+      "image": "https://i.guim.co.uk/img/media/f79d146460844bd368ab830a4d365439820e4916/370_0_2886_2309/master/2886.jpg?width=140&quality=85&auto=format&fit=max&s=9f9bc4d674a219833227f104ce0ffeaf",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -2953bfe866c1",
+      "title": "US pauses attacks on Iran for a second day and Tehran does, too",
+      "description": "The pause comes amid efforts to resume negotiations on an interim ceasefire deal. The U.S. previously targeted Iranian coastal areas after Iran fired at ships in the Strait of Hormuz.",
+      "url": "https://www.csmonitor.com/World/2026/0726/US-pauses-attacks-on-Iran-for-a-second-day-and-Tehran-does-too?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-07-26T20:15:13Z",
+      "image": "https://images.csmonitor.com/csm/2026/07/1216427_1_APWire072626_standard.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -d5dd9fb323bc",
+      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+      "description": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-26T19:31:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26159434486953-1785085570.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -47,22 +94,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -c22fa0e07777",
-      "title": "Israel and the cost paradox of the Iran war",
-      "description": "Israel instigated the war on Iran and yet it has borne few of its costs.",
-      "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-26T14:04:39Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2020-11-05T101443Z_53853412_RC2YWJ9GVQDI_RTRMADP_3_HEALTH-CORONAVIRUS-ISRAEL-BOURSE-1785072462.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -169,21 +200,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-372f89d0d73e",
-      "title": "Family of missing Rohingya footballer fear he is among 500 believed dead in Myanmar shipwrecks",
-      "description": "‘I can’t tolerate this life,’ said the 24-year-old in his last voice message to his relatives. Attacked by the military, a rebel army and criminal gangs, Siraz Ullah risked all for a better futureThe fear was audible as he spoke, recording a message to his family, asking for their prayers. After pressing send, 24-year-…",
-      "url": "https://www.theguardian.com/global-development/2026/jul/25/family-of-missing-rohingya-footballer-fear-he-is-among-500-believed-dead-in-myanmar-shipwrecks",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-25T09:00:38Z",
-      "image": "https://i.guim.co.uk/img/media/0a452b083ef8349ba79ab417db0b5937e6946450/94_0_1406_1125/master/1406.jpg?width=140&quality=85&auto=format&fit=max&s=21f973a15e7163902a9d153b3f994c91",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {

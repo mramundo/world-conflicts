@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-26T06:10:44Z",
+  "updated": "2026-07-26T09:13:49Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-26T06:10:41Z",
+      "publishedAt": "2026-07-26T09:13:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,49 @@
       "tags": []
     },
     {
-      "id": "al -99c44438f2f4",
-      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-      "description": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.",
-      "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-26T04:40:17Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a64aaf4-1784982260.jpg?resize=1920%2C1440",
+      "id": "ans-b4d60647e940",
+      "title": "Katy Perry contro la Casa Bianca: 'Non usate la mia musica per celebrare la guerra'",
+      "description": "Il governo americano ha utilizzato 'Firework' in un video su attacchi militari",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/26/katy-perry-contro-la-casa-bianca-non-usate-la-mia-musica-per_356a2fc2-a432-448d-9878-1681d2b0fcd2.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-26T09:07:11Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2025/9/15/84eb92123e36b17660ddafcb5d881c0c.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -523a29d9070a",
+      "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+      "description": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
+      "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-26T08:55:10Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/873A1583-copy-1785046158.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-eb276c7326a0",
+      "title": "Polish Drone Guides Ukrainian Strike on Russian Ammo Depot",
+      "description": "A Polish-manufactured FlyEye reconnaissance drone was utilized by Ukraine’s 26th Separate Artillery Brigade to identify and destroy a Russian ammunition storage facility in the Bakhmut sector. The drone guided a HIMARS missile strike, resulting in a secondary detonation that destroyed the weapons stockpile and an adjac…",
+      "url": "https://www.kyivpost.com/post/81083",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-26T08:12:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/26/320a49ec14ef0f361a2f986a09d462a7.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,8 +82,23 @@
       "tags": []
     },
     {
+      "id": "fra-fd29fbded40d",
+      "title": "Kazakhstan's president urges Putin to ‘freeze’ war in Ukraine",
+      "description": "Kazakhstan's president on Saturday urged Russian leader Vladimir Putin to end the war in Ukraine during talks in the Siberian city of Omsk. Hours earlier, Ukrainian drones struck an oil refinery in Siberia in one of Kyiv's deepest attacks inside Russia.",
+      "url": "https://www.france24.com/en/europe/20260725-kazakh-leader-tells-putin-war-should-end-ukraine-launches-fresh-strikes",
+      "source": "France24",
+      "publishedAt": "2026-07-25T14:55:13Z",
+      "image": "https://s.france24.com/media/display/77da0b74-8862-11f1-aee9-005056a97e36/w:1024/p:16x9/24366c89d0f2d3e91e7f69baf5dd6c7e7ebcd3ec.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-b3b8f9ae35f9",
-      "title": "Zelenskyy Says Russia Wants To Bring North Korean Troops Into Ukraine War Again",
+      "title": "Zelenskyy Says Russia Wants To Bring More North Korean Troops Into Ukraine War",
       "description": "President Volodymyr Zelenskyy said that Moscow wants to bring in thousands of North Korean soldiers again for its invasion of Ukraine, with preparations in Russia having been under way since early summer.",
       "url": "https://www.rferl.org/a/ukraine-claims-caspian-strike-russia-iran-military-route-kyiv-mourning/33812868.html",
       "source": "RFE/RL",
@@ -77,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-2bd4ba699d83",
-      "title": "Musk Calls Full Russian Withdrawal ‘Unrealistic,’ Details Starlink Smuggling Scheme",
-      "description": "SpaceX CEO Elon Musk stated that a complete withdrawal of Russian troops from occupied Ukrainian territories is “unrealistic” and called for a “pragmatic” peace agreement. He criticized diplomats who insist on a full withdrawal, arguing that the front line has remained largely static for the past two to three years and…",
-      "url": "https://www.kyivpost.com/post/81034",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-25T05:55:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/25/c9d9aa972340395b91e30b83778ee628.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

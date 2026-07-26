@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T13:26:31Z",
+  "updated": "2026-07-26T15:06:57Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-07-25T23:19:14Z",
   "items": [
@@ -225,8 +225,8 @@
         "Jihadism"
       ],
       "wikipediaPage": "Boko_Haram_insurgency",
-      "lastUpdate": "2026-07-24",
-      "wikipediaRevision": "2026-07-24T13:02:17Z",
+      "lastUpdate": "2026-07-26",
+      "wikipediaRevision": "2026-07-26T13:27:31Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "et-am",
@@ -429,7 +429,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-07-25",
       "wikipediaRevision": "2026-07-25T14:54:34Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "wb-isr",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     }
   ]
 }

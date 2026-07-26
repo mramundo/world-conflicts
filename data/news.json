@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T11:20:30Z",
+  "updated": "2026-07-26T13:26:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-26T11:20:27Z",
+      "publishedAt": "2026-07-26T13:26:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,47 @@
       "tags": []
     },
     {
-      "id": "ans-36a785db0d21",
-      "title": "Chi è il giovane ricercato per l'attentato al Pride di Berlino",
-      "description": "Ha 21 anni, era uscito a maggio da un riformatorio. Sarebbe un sostenitore dello Stato Islamico",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/polizia-berlino-cerca-21enne-abdul-per-attentato-al-pride-forse-complici_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-26T10:15:54Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/26/f0c922f09f50326b22a3f3c53cb636aa.jpg",
+      "id": "the-fded1453e9b1",
+      "title": "Russia and Ukraine Both Report Civilians Killed in Strikes",
+      "description": "Russia said four people were killed by a Ukrainian drone strike in the Russian-occupied Ukrainian city of Horlivka.",
+      "url": "https://www.themoscowtimes.com/2026/07/26/russia-and-ukraine-both-report-civilians-killed-in-strikes-a93341",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-07-26T11:55:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/a9/93341__a99d779eceb6f80f7f9d4ce5f6a346b8.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-873def0d4d86",
+      "title": "Attentato Berlino, 'il sospetto avrebbe tentato di unirsi all'Isis in Siria'",
+      "description": "Media tedeschi, arrestato in Libano e rimpatriato in Germania",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attentato-berlino-il-sospetto-avrebbe-tentato-di-unirsi-allisis-in-siria_9b488ff6-f832-4e15-95b3-f932c95af862.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-26T11:51:17Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/26/6f08e50114e4c3012e18d19a1696745a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-e3464b0c0c5e",
+      "title": "Lebanese displaced by war turn to satellites to check their homes",
+      "description": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
+      "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+      "source": "NPR World",
+      "publishedAt": "2026-07-26T10:00:00Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F69%2Ffabb52b142ccb415c94f068524d2%2Fmazen-farah-pointing-to-location-of-convent-on-phone.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,21 +123,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-f793e9b1ac1b",
-      "title": "Speaking Alongside Putin, Kazakh President Calls for Freeze of Ukraine War",
-      "description": "The Kremlin later said that \"freezing the conflict as such is impossible, given Kyiv's position.\"",
-      "url": "https://www.themoscowtimes.com/2026/07/26/speaking-alongside-putin-kazakh-president-calls-for-freeze-of-ukraine-war-a93339",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-07-26T07:29:13Z",
-      "image": "https://static.themoscowtimes.com/image/og/97/93339__979119b54f7ce1f122d43e04e113a75a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -185,22 +200,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-5395fae4e0ff",
-      "title": "How the Houthis blockade of the Red Sea could affect the global economy",
-      "description": "NPR's A Martínez asks former U.S. deputy national security adviser Jon Finer what the blockade of the Red Sea by Houthi rebels means for the global economy.",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5904543/how-the-houthis-blockade-of-the-red-sea-could-affect-the-global-economy",
-      "source": "NPR World",
-      "publishedAt": "2026-07-24T10:44:01Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5904543",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     }
   ]

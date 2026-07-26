@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-26T02:57:03Z",
+  "updated": "2026-07-26T06:10:44Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-26T02:57:01Z",
+      "publishedAt": "2026-07-26T06:10:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,13 @@
       "tags": []
     },
     {
-      "id": "le -b50baefba06d",
-      "title": "Russian authorities try to recruit students to make up for soldiers shortages in drone regiments",
-      "description": "As rumors of a new wave of conscription spread across social media, the Kremlin has ordered universities to provide 2% of their student body to support its war effort against Ukraine.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/26/russian-authorities-try-to-recruit-students-to-make-up-for-soldiers-shortages-in-drone-regiments_6755840_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-26T02:17:13Z",
-      "image": "https://img.lemde.fr/2026/07/23/0/0/5244/2622/644/322/60/0/7e4c271_upload-1-t0nbtqecrgtc-ap26023534956436.jpg",
+      "id": "al -99c44438f2f4",
+      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+      "description": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-26T04:40:17Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a64aaf4-1784982260.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -35,32 +35,17 @@
       "tags": []
     },
     {
-      "id": "al -bd9e77ad00b4",
-      "title": "The Battle Over Al-Aqsa",
-      "description": "What happened when thousands of Israelis stormed the Al-Aqsa Mosque compound under Israeli police protection?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-25T15:49:53Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784994438.jpg?resize=1920%2C1080&amp;quality=80",
+      "id": "le -59a7f98071ce",
+      "title": "My life as a Russian exile in Paris: 'Becoming a customer of a French bank when you come from Moscow is a real feat'",
+      "description": "'A Russian in Paris' (4/6). Journalist Elizaveta Osetinskaya, who has taken refuge in France since Russia's invasion of Ukraine in 2022, recounts her difficulties opening a bank account as French banks are required to enforce financial sanctions against friends and relatives of the Kremlin.",
+      "url": "https://www.lemonde.fr/en/summer-reads/article/2026/07/26/my-life-as-a-russian-exile-in-paris-becoming-a-customer-of-a-french-bank-when-you-come-from-moscow-is-a-real-feat_6755841_183.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-26T03:00:02Z",
+      "image": "https://img.lemde.fr/2026/07/16/377/0/1850/925/644/322/60/0/9c95fc3_upload-1-03z6xngjwio7-episode-4-banque.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-fd29fbded40d",
-      "title": "Kazakh leader tells Putin war should end, Ukrainian drones target Siberian oil facility",
-      "description": "Kazakhstan's president urged Russian leader Vladimir Putin to end the war during talks in the Siberian city of Omsk while Ukrainian drones struck an oil refinery in Siberia on Saturday in one of Kyiv's deepest attacks inside Russia.",
-      "url": "https://www.france24.com/en/europe/20260725-kazakh-leader-tells-putin-war-should-end-ukraine-launches-fresh-strikes",
-      "source": "France24",
-      "publishedAt": "2026-07-25T14:55:13Z",
-      "image": "https://s.france24.com/media/display/77da0b74-8862-11f1-aee9-005056a97e36/w:1024/p:16x9/24366c89d0f2d3e91e7f69baf5dd6c7e7ebcd3ec.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

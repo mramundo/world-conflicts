@@ -1,22 +1,37 @@
 {
-  "updated": "2026-07-27T19:36:16Z",
+  "updated": "2026-07-27T21:12:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -8a36c4b6c815",
-      "title": "Why a new war in Yemen could be different for the Houthis",
-      "description": "Recent developments strengthen anti-Houthi forces in Yemen as signs indicate that a re-eruption of the war is imminent.",
-      "url": "https://www.aljazeera.com/news/2026/7/27/why-a-new-war-in-yemen-could-be-different-for-the-houthis?traffic_source=rss",
+      "id": "cs -59fcab6ebaa6",
+      "title": "Searching for Sudan’s looted treasures",
+      "description": "Since Sudan's civil war began, looters have stolen thousands of valuable artifacts from the country's museums. Now, authorities are trying to get them back.",
+      "url": "https://www.csmonitor.com/World/Africa/2026/0727/sudan-war-rsf-rapid-support-forces-museums-looting?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-07-27T20:56:28Z",
+      "image": "https://images.csmonitor.com/csm/2026/07/ZOSUDANARTRETURN_BUILDING.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -6508072aedf0",
+      "title": "Are the US and Iran heading towards a forever war?",
+      "description": "Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.",
+      "url": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-27T15:20:32Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a674c98-1785154712.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-27T18:40:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785177620.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },
@@ -141,21 +156,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -2953bfe866c1",
-      "title": "US pauses attacks on Iran for a second day and Tehran does, too",
-      "description": "The pause comes amid efforts to resume negotiations on an interim ceasefire deal. The U.S. previously targeted Iranian coastal areas after Iran fired at ships in the Strait of Hormuz.",
-      "url": "https://www.csmonitor.com/World/2026/0726/US-pauses-attacks-on-Iran-for-a-second-day-and-Tehran-does-too?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-07-26T20:15:13Z",
-      "image": "https://images.csmonitor.com/csm/2026/07/1216427_1_APWire072626_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

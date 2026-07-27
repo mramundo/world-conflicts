@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-27T00:02:00Z",
+  "updated": "2026-07-27T04:37:34Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-27T00:01:56Z",
+      "publishedAt": "2026-07-27T04:37:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -075aa3a97631",
+      "title": "Why Mali’s northern conflict has entered a dangerous new phase",
+      "description": "A separatist–al-Qaeda alliance has shifted the balance of power in northern Mali and complicated efforts to end the war.",
+      "url": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-27T02:49:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/FLA1-1785041286.png?resize=1254%2C1080",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -48,22 +64,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -d5dd9fb323bc",
-      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-      "description": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
-      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-26T19:31:58Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26159434486953-1785085570.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -153,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-19da44f75482",
-      "title": "Israel detains over 70 suspects following deadly violence in the West Bank",
-      "description": "Israel’s military said it detained over 70 suspects across the occupied West Bank overnight and on Saturday, a day after troops deployed across the territory following violence that left two Isrelisoldiers and four Palestinian villagers dead. Soldiers remained in the village of Tell, in the northern West Bank, where Fr…",
-      "url": "https://www.france24.com/en/israel-detains-over-70-suspects-following-deadly-violence-in-the-west-bank",
-      "source": "France24",
-      "publishedAt": "2026-07-26T09:49:38Z",
-      "image": "https://s.france24.com/media/display/6db49f66-88d4-11f1-8dc3-005056bfb2b6/w:1024/p:16x9/EN-20260726-101117-101248-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

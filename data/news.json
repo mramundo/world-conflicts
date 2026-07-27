@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-27T04:37:34Z",
+  "updated": "2026-07-27T08:32:03Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,45 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-27T04:37:30Z",
+      "publishedAt": "2026-07-27T08:31:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F5%2F7%2F1%2F12901754-2-eng-GB%2Fd77407bac51d-photo_SXM2026071100005538.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-096067c363f4",
+      "title": "Media, Netanyahu si opporrà a ritiro Idf da 'zone sicurezza' di Gaza, Libano e Siria",
+      "description": "Domani vede Trump alla Casa Bianca, prima volta dalla guerra contro l'Iran",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/27/media-netanyahu-si-opporra-a-ritiro-idf-da-zone-sicurezza-di-gaza-libano-e-siria_27da89bb-73ad-46ac-b7f6-5ce6253c1529.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-27T08:08:42Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/c751b4e9c886bfe7333cfb796205e1be.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-413fed7b0de1",
+      "title": "Can the U.S. and Iran take the off-ramp?",
+      "description": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
+      "url": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+      "source": "NPR World",
+      "publishedAt": "2026-07-27T05:57:59Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5188x3459+0+0/resize/5188x3459!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F20%2F96aff419411fbb1bd4a3c4a071b2%2Fap26205707073234.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -67,21 +99,6 @@
       "tags": []
     },
     {
-      "id": "ans-b301b83f9cbb",
-      "title": "Attentato al Pride di Berlino: chi era Abdul Ballout, estremista di origine libanese già condannato",
-      "description": "Il 21enne provò a unirsi all'Isis in Siria, doveva fare un percorso di deradicalizzazione",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attentato-al-pride-di-berlino-chi-era-abdul-ballout-estremista-di-origine-libanese_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-26T17:58:25Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/26/f0c922f09f50326b22a3f3c53cb636aa.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -c1f48595d208",
       "title": "'Magyar,' the man leading Ukraine's drone war: 'Drones are the Black Death of the third millennium'",
       "description": "A former businessman now leading the new unmanned drone corps established by the Ukrainian army, Robert Brovdi became famous for tallying the number of Russian soldiers killed by his brigade and for his graphic videos. This summer, he is leading 'Operation Crimea' and continuing his strikes on refineries deep inside Ru…",
@@ -113,8 +130,8 @@
     },
     {
       "id": "un -412315b50abd",
-      "title": "Gaza: Dialysis patients face grueling hospital journey by donkey cart",
-      "description": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
+      "title": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
+      "description": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice-weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168026",
       "source": "UN News",
       "publishedAt": "2026-07-26T12:00:00Z",
@@ -127,17 +144,17 @@
       "tags": []
     },
     {
-      "id": "npr-e3464b0c0c5e",
-      "title": "Lebanese displaced by war turn to satellites to check their homes",
-      "description": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
-      "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
-      "source": "NPR World",
-      "publishedAt": "2026-07-26T10:00:00Z",
-      "image": "undefined",
+      "id": "fra-d286f19bfd92",
+      "title": "Deadly attack on holiday camp in Russian-held part of Ukraine, officials say",
+      "description": "At least 11 people were killed, including five children, in an overnight drone attack on a holiday camp in a Russian-held part of Ukraine's ‌Zaporizhzhia region, Russian installed local authorities said on Saturday, ⁠accusing Ukraine of deliberately attacking civilians.",
+      "url": "https://www.france24.com/en/zelensky-says-russia-seeks-30-000-extra-n-korea-troops-for-ukraine-war",
+      "source": "France24",
+      "publishedAt": "2026-07-26T10:32:59Z",
+      "image": "https://s.france24.com/media/display/ce841706-88dc-11f1-817d-005056bf30b7/w:1024/p:16x9/EN-20260726-120748-120949-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

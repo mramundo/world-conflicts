@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T11:19:23Z",
+  "updated": "2026-07-28T14:10:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-six-point-plan-to-make-the-us-japan-alliance-battle-ready",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-28T11:19:19Z",
+      "publishedAt": "2026-07-28T14:10:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F5%2F8%2F12898555-1-eng-GB%2Fe4246659f78c-aaj.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,8 +21,24 @@
       "tags": []
     },
     {
+      "id": "al -f4b7d38a8a20",
+      "title": "Why has Iran’s economy not collapsed under US war pressure?",
+      "description": "Millions in sanctions-hit country keep absorbing economic shockwaves, with analysts saying trend looks set to continue.",
+      "url": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-28T12:30:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-20T141718Z_1099693971_RC2KHMAW3PLX_RTRMADP_3_IRAN-CRISIS-1785237839.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "fra-c36513d40dfa",
-      "title": "'Trump Needs a Way Out of This War': General Yakovlev explains 'charade' over US-Iran negotiations",
+      "title": "'Trump Needs a Way Out of This War': Michel Yakovleff explains 'charade' over US-Iran negotiations",
       "description": "Eve Irvine is pleased to welcome General Michel Yakovleff, Professor at Sciences-Po and Former Vice-Chief of Staff at NATO's Supreme Headquarters Allied Powers Europe (Shape).. He presents a strategic rather than tactical reading of the current lull in the US-Iran conflict. He argues that the apparent de-escalation is …",
       "url": "https://www.france24.com/en/trump-needs-a-way-out-of-this-war-general-yakovlev-explains-charade-over-us-iran-negotiations",
       "source": "France24",
@@ -37,19 +53,18 @@
       "tags": []
     },
     {
-      "id": "al -93c98cc7750e",
-      "title": "Refugee Convention at 75: The world must keep the promise that saved me",
-      "description": "Millions of people forced to flee need the same chance that protection gave me.",
-      "url": "https://www.aljazeera.com/opinions/2026/7/28/refugee-convention-at-75-the-world-must-keep-the-promise-that-saved-me?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-28T07:24:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/yusra-2-1785221027.jpeg?resize=1200%2C675",
+      "id": "ans-26431a5e06a7",
+      "title": "Caracas, 'dialogare con l'opposizione non significa capitolare'",
+      "description": "Il governo ad interim del Venezuela chiede però la revoca delle sanzioni",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/28/caracas-dialogare-con-lopposizione-non-significa-capitolare_6960dce7-c53b-47a4-bb16-ddc273de83f3.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-28T10:07:55Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/4/30/84dca34f4b10e47597a4779f0ae7931b.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -114,18 +129,19 @@
       "tags": []
     },
     {
-      "id": "ans-f78997bd5f07",
-      "title": "Houthi, attaccati con droni impianti petroliferi sauditi",
-      "description": "I ribelli dello Yemen rivendicano nuove aggressioni",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/27/houthi-attaccati-con-droni-impianti-petroliferi-sauditi_6b2aa76d-e459-48b3-90dd-88210f9d7e68.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-27T13:34:02Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/25/06543aaead9dbfdfa2b2e1f1572b5e9d.jpg",
+      "id": "rfe-16b9c5c62c03",
+      "title": "'A Robot Won't Do': 60-Year-Old Ukrainian Volunteer Supplies Front Lines Amid Rise Of Unmanned Ground Vehicles",
+      "description": "Russian drone attacks are making it increasingly dangerous to deliver supplies to Ukraine's frontline troops. While Kyiv is deploying unmanned ground vehicles for some of the riskiest missions, volunteers like 60-year-old Mykhaylo continue making supply runs the old-fashioned way. He makes dangerous boat trips to suppo…",
+      "url": "https://www.rferl.org/a/year-old-ukrainian-volunteer-supplies-front-lines-amid-rise-of-unmanned-ground-vehicles/33815972.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-07-27T14:14:42Z",
+      "image": "https://gdb.rferl.org/71ffff1f-f3db-4636-4437-08decacf94d0_tv_w800_h450.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
+      "relevanceScore": 12,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -205,22 +221,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-b3b8f9ae35f9",
-      "title": "Zelenskyy Says Russia Wants To Bring More North Korean Troops Into Ukraine War",
-      "description": "President Volodymyr Zelenskyy said that Moscow wants to bring in thousands of North Korean soldiers again for its invasion of Ukraine, with preparations in Russia having been under way since early summer.",
-      "url": "https://www.rferl.org/a/ukraine-claims-caspian-strike-russia-iran-military-route-kyiv-mourning/33812868.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-25T13:32:07Z",
-      "image": "https://gdb.rferl.org/b8d821ab-9dec-48b7-b686-74d2725451ec_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 14,
-      "isAnalysis": true,
       "tags": []
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-28T18:15:36Z",
+  "updated": "2026-07-28T20:16:29Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-six-point-plan-to-make-the-us-japan-alliance-battle-ready",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-28T18:15:33Z",
+      "publishedAt": "2026-07-28T20:16:25Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F5%2F8%2F12898555-1-eng-GB%2Fe4246659f78c-aaj.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,18 +21,19 @@
       "tags": []
     },
     {
-      "id": "al -7ad095c76760",
-      "title": "Inside the secret battle to document RSF abuses in Sudan",
-      "description": "Operating quietly, a human rights network is racing to document atrocities in Sudan before the evidence is erased.",
-      "url": "https://www.aljazeera.com/news/2026/7/28/inside-the-secret-battle-to-document-rsf-abuses-in-sudan?traffic_source=rss",
+      "id": "al -e92c3b4f9787",
+      "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
+      "description": "At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel&#039;s genocide and blockade.",
+      "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-28T17:37:48Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/getty_699e9f5610-1772003158.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-28T18:46:57Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785247080.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -41,7 +42,7 @@
       "description": "Belarusian President Alexander Lukashenko, whom Kyiv has pressed to cut military ties with Moscow and Western powers have unsuccessfully courted, keeps discreetly supporting Russia, all while holding off on committing troops.",
       "url": "https://www.lemonde.fr/en/international/article/2026/07/28/war-in-ukraine-europe-fears-more-active-belarusian-involvement_6755929_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-28T17:22:24Z",
+      "publishedAt": "2026-07-28T17:22:21Z",
       "image": "https://img.lemde.fr/2026/07/27/523/0/3139/1569/644/322/60/0/2f38914_upload-1-3m0n0ovhctbm-000-b2bz9pu.jpg",
       "categories": [
         "conflict"
@@ -62,6 +63,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-6331dfce1a4e",
+      "title": "For the first time since Iran war, Trump and Netanyahu meet amid fraying ties",
+      "description": "Benjamin Netanyahu is set to visit the White House once again on July 28. But the Israeli Prime Minister is likely to get a cooler welcome in Washington than on previous trips. The US's full-scale air war on Iran - which Netanyahu reportedly had a major role in convincing Donald Trump to launch - has become a major hea…",
+      "url": "https://www.france24.com/en/for-the-first-time-since-iran-war-trump-and-netanyahu-meet-amid-fraying-ties",
+      "source": "France24",
+      "publishedAt": "2026-07-28T12:51:59Z",
+      "image": "https://s.france24.com/media/display/c4764b02-8a4a-11f1-8d0a-005056a97e36/w:1024/p:16x9/000-B4VA2NQ.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

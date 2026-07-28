@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T20:16:29Z",
+  "updated": "2026-07-28T22:05:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,30 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-six-point-plan-to-make-the-us-japan-alliance-battle-ready",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-28T20:16:25Z",
+      "publishedAt": "2026-07-28T22:05:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F5%2F8%2F12898555-1-eng-GB%2Fe4246659f78c-aaj.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "cs -0ff37e2dafc6",
+      "title": "How Ukraine’s long-range drones are changing what’s possible in war with Russia",
+      "description": "The latest story of the Ukraine war has been the shift – on the battlefield, and in the adversaries’ minds – wrought by Ukraine’s drone strikes deep into Russia. The goal is to pave a path to a diplomatic resolution.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0728/ukraine-zelenskyy-trump-drone-warfare-russia?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-07-28T21:46:18Z",
+      "image": "https://images.csmonitor.com/csm/2026/07/0728_OUKRDEEPSTRIKE_LEDE.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": true,
       "tags": []
     },
@@ -82,6 +99,21 @@
       "tags": []
     },
     {
+      "id": "npr-9d84910eb4d5",
+      "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+      "description": "The meeting comes as both face pressures at home. Netanyahu is up for reelection, embattled in part due to his deteriorating relationship with Trump. Trump is under pressure to end an unpopular war.",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
+      "source": "NPR World",
+      "publishedAt": "2026-07-28T07:42:11Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4441x2961+0+0/resize/4441x2961!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Fba%2Fffc9437542daa5381b023a5237e1%2Fap26208782971465.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-a0851f53ba3c",
       "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
       "description": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
@@ -95,21 +127,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -59fcab6ebaa6",
-      "title": "Searching for Sudan’s looted treasures",
-      "description": "Since Sudan's civil war began, looters have stolen thousands of valuable artifacts from the country's museums. Now, authorities are trying to get them back.",
-      "url": "https://www.csmonitor.com/World/Africa/2026/0727/sudan-war-rsf-rapid-support-forces-museums-looting?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-07-27T20:56:28Z",
-      "image": "https://images.csmonitor.com/csm/2026/07/ZOSUDANARTRETURN_BUILDING.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -156,21 +173,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-a723502eac35",
-      "title": "Ukrainian peace negotiator says drone strikes could force Russia into ceasefire",
-      "description": "Sergiy Kyslytsya, a top Ukrainian peace negotiator, says long-range drone strikes into Russia have strengthened Ukraine's hand and could compel Vladimir Putin toward a ceasefire deal.",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5906461/ukrainian-peace-negotiator-says-drone-strikes-could-force-russia-into-ceasefire",
-      "source": "NPR World",
-      "publishedAt": "2026-07-27T08:43:21Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5906461",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

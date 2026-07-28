@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T14:10:58Z",
+  "updated": "2026-07-28T16:41:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-six-point-plan-to-make-the-us-japan-alliance-battle-ready",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-28T14:10:54Z",
+      "publishedAt": "2026-07-28T16:41:24Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F5%2F8%2F12898555-1-eng-GB%2Fe4246659f78c-aaj.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-e781d1718e0b",
+      "title": "Governo Teheran, 'oltre 350 dipendenti pubblici uccisi nella guerra'",
+      "description": "",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/governo-teheran-oltre-350-dipendenti-pubblici-uccisi-nella-guerra_f4ee08fa-a8c0-4ab2-92c4-17eb0103d22b.html",
+      "source": "ANSA",
+      "publishedAt": "2026-07-28T14:25:27Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/18/73ef7e09c5eabee3d2bd4a6ef0189491.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -6a3ec387af7c",
+      "title": "Berlin Pride attacker pledged allegiance to Islamic State, prosecutors say",
+      "description": "The man blamed for the deadly attack on the weekend pledged allegiance to the Islamic State group in a video, prosecutors said on Tuesday. He was shot dead on Sunday by police.",
+      "url": "https://www.lemonde.fr/en/germany/article/2026/07/28/berlin-pride-attacker-pledged-allegiance-to-islamic-state-prosecutors-say_6755926_146.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-28T14:14:40Z",
+      "image": "https://img.lemde.fr/2026/07/28/377/0/3702/1851/644/322/60/0/41f7ff3_ftp-1-re6tjhkkuzuw-2026-07-28t133840z-2117582782-rc20nma4q9p4-rtrmadp-3-germany-lgbt-pride-attack.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -49,36 +79,6 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-26431a5e06a7",
-      "title": "Caracas, 'dialogare con l'opposizione non significa capitolare'",
-      "description": "Il governo ad interim del Venezuela chiede però la revoca delle sanzioni",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/28/caracas-dialogare-con-lopposizione-non-significa-capitolare_6960dce7-c53b-47a4-bb16-ddc273de83f3.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-28T10:07:55Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/4/30/84dca34f4b10e47597a4779f0ae7931b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -e2b4d05e292d",
-      "title": "My life as a Russian exile in Paris: Healthcare here is like in Moscow, some pay 'for speed' while others 'wait in pain'",
-      "description": "'A Russian in Paris' (6/6). Journalist Elizaveta Osetinskaya, who has taken refuge in France since Russia's invasion of Ukraine in 2022, recounts her painful experience with the French hospital system.",
-      "url": "https://www.lemonde.fr/en/summer-reads/article/2026/07/28/my-life-as-a-russian-exile-in-paris-healthcare-here-is-like-in-moscow-some-pay-for-speed-while-others-wait-in-pain_6755905_183.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-28T02:00:10Z",
-      "image": "https://img.lemde.fr/2026/07/16/564/0/1850/925/644/322/60/0/a4ba6a5_upload-1-63xofcxy0uxl-episode-6-me-decine.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

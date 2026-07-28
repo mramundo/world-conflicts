@@ -1,9 +1,24 @@
 {
-  "updated": "2026-07-27T23:03:34Z",
+  "updated": "2026-07-28T02:40:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "le -c39d792cc043",
+      "title": "At least 31 civilians killed by ADF jihadists in northeast DRC",
+      "description": "The Islamic State-affiliated ADF – the Allied Democratic Forces, formed by Ugandan rebels – is notorious for extreme violence against civilians and has carried out repeated massacres in North Kivu and Ituri provinces.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/28/at-least-31-civilians-killed-by-adf-jihadists-in-northeast-drc_6755906_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-28T02:02:00Z",
+      "image": "https://img.lemde.fr/2026/07/25/300/0/7728/3864/644/322/60/0/134dd90_ftp-1-dfpvqzosg9lc-2026-07-25t085711z-848090143-rc2zjmarwdq3-rtrmadp-3-health-ebola-drc.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "cs -59fcab6ebaa6",
       "title": "Searching for Sudan’s looted treasures",
@@ -93,21 +108,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -4bff9589d8c8",
-      "title": "Young Ukrainian drone operators launch attacks on Crimea from wheat fields",
-      "description": "The 'Magyar Birds' brigade is at the heart of Kyiv's summer offensive targeting Russian-occupied Crimea. Its young, laid-back drone operators launch remotely piloted aircraft at night, far from the front lines, controlling the missions from computer screens.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/27/ukrainian-drone-operators-strike-crimea-from-wheat-fields_6755875_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-27T11:00:10Z",
-      "image": "https://img.lemde.fr/2026/07/24/164/0/2953/1476/644/322/60/0/fc302e6_upload-1-db9v17nvqfw2-2026-07-19-heg-ukraine-0926.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

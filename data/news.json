@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-28T16:41:28Z",
+  "updated": "2026-07-28T18:15:36Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-six-point-plan-to-make-the-us-japan-alliance-battle-ready",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-28T16:41:24Z",
+      "publishedAt": "2026-07-28T18:15:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F5%2F8%2F12898555-1-eng-GB%2Fe4246659f78c-aaj.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -7ad095c76760",
+      "title": "Inside the secret battle to document RSF abuses in Sudan",
+      "description": "Operating quietly, a human rights network is racing to document atrocities in Sudan before the evidence is erased.",
+      "url": "https://www.aljazeera.com/news/2026/7/28/inside-the-secret-battle-to-document-rsf-abuses-in-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-28T17:37:48Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/getty_699e9f5610-1772003158.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -63722cca7d44",
+      "title": "War in Ukraine: Europe fears more active Belarusian involvement",
+      "description": "Belarusian President Alexander Lukashenko, whom Kyiv has pressed to cut military ties with Moscow and Western powers have unsuccessfully courted, keeps discreetly supporting Russia, all while holding off on committing troops.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/28/war-in-ukraine-europe-fears-more-active-belarusian-involvement_6755929_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-28T17:22:24Z",
+      "image": "https://img.lemde.fr/2026/07/27/523/0/3139/1569/644/322/60/0/2f38914_upload-1-3m0n0ovhctbm-000-b2bz9pu.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,53 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -6a3ec387af7c",
-      "title": "Berlin Pride attacker pledged allegiance to Islamic State, prosecutors say",
-      "description": "The man blamed for the deadly attack on the weekend pledged allegiance to the Islamic State group in a video, prosecutors said on Tuesday. He was shot dead on Sunday by police.",
-      "url": "https://www.lemonde.fr/en/germany/article/2026/07/28/berlin-pride-attacker-pledged-allegiance-to-islamic-state-prosecutors-say_6755926_146.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-28T14:14:40Z",
-      "image": "https://img.lemde.fr/2026/07/28/377/0/3702/1851/644/322/60/0/41f7ff3_ftp-1-re6tjhkkuzuw-2026-07-28t133840z-2117582782-rc20nma4q9p4-rtrmadp-3-germany-lgbt-pride-attack.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f4b7d38a8a20",
-      "title": "Why has Iran’s economy not collapsed under US war pressure?",
-      "description": "Millions in sanctions-hit country keep absorbing economic shockwaves, with analysts saying trend looks set to continue.",
-      "url": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-28T12:30:18Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-20T141718Z_1099693971_RC2KHMAW3PLX_RTRMADP_3_IRAN-CRISIS-1785237839.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-c36513d40dfa",
-      "title": "'Trump Needs a Way Out of This War': Michel Yakovleff explains 'charade' over US-Iran negotiations",
-      "description": "Eve Irvine is pleased to welcome General Michel Yakovleff, Professor at Sciences-Po and Former Vice-Chief of Staff at NATO's Supreme Headquarters Allied Powers Europe (Shape).. He presents a strategic rather than tactical reading of the current lull in the US-Iran conflict. He argues that the apparent de-escalation is …",
-      "url": "https://www.france24.com/en/trump-needs-a-way-out-of-this-war-general-yakovlev-explains-charade-over-us-iran-negotiations",
-      "source": "France24",
-      "publishedAt": "2026-07-28T10:58:18Z",
-      "image": "https://s.france24.com/media/display/7af34410-8a6f-11f1-b3a2-005056a97e36/w:1024/p:16x9/EN-20260728-090958-091757-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -161,20 +144,18 @@
       "tags": []
     },
     {
-      "id": "npr-413fed7b0de1",
-      "title": "Can the U.S. and Iran take the off-ramp?",
-      "description": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
-      "url": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+      "id": "npr-a723502eac35",
+      "title": "Ukrainian peace negotiator says drone strikes could force Russia into ceasefire",
+      "description": "Sergiy Kyslytsya, a top Ukrainian peace negotiator, says long-range drone strikes into Russia have strengthened Ukraine's hand and could compel Vladimir Putin toward a ceasefire deal.",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5906461/ukrainian-peace-negotiator-says-drone-strikes-could-force-russia-into-ceasefire",
       "source": "NPR World",
-      "publishedAt": "2026-07-27T05:57:59Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5188x3459+0+0/resize/5188x3459!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F20%2F96aff419411fbb1bd4a3c4a071b2%2Fap26205707073234.jpg",
+      "publishedAt": "2026-07-27T08:43:21Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5906461",
       "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {

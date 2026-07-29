@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T23:58:47Z",
+  "updated": "2026-07-29T03:28:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-six-point-plan-to-make-the-us-japan-alliance-battle-ready",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-28T23:58:43Z",
+      "publishedAt": "2026-07-29T03:28:08Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F5%2F8%2F12898555-1-eng-GB%2Fe4246659f78c-aaj.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -7194953af93c",
+      "title": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
+      "description": "After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-29T01:30:14Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/9O4A0362-1785163675.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -38,33 +53,33 @@
       "tags": []
     },
     {
-      "id": "al -e92c3b4f9787",
-      "title": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-      "description": "At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel&#039;s genocide and blockade.",
-      "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-28T18:46:57Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785247080.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -63722cca7d44",
-      "title": "War in Ukraine: Europe fears more active Belarusian involvement",
-      "description": "Belarusian President Alexander Lukashenko, whom Kyiv has pressed to cut military ties with Moscow and Western powers have unsuccessfully courted, keeps discreetly supporting Russia, all while holding off on committing troops.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/28/war-in-ukraine-europe-fears-more-active-belarusian-involvement_6755929_4.html",
+      "id": "le -4777953d4da8",
+      "title": "Zelensky hails 'good meeting' in Washington with Trump on Patriot air defenses",
+      "description": "Relations between Ukrainian President Volodymyr Zelensky and Donald Trump have warmed since the start of the US president's second term, with Trump suggesting earlier this month that Ukrainian strikes inside Russia could help end the war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/28/zelensky-hails-good-meeting-in-washington-with-trump-on-patriot-air-defenses_6755933_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-28T17:22:21Z",
-      "image": "https://img.lemde.fr/2026/07/27/523/0/3139/1569/644/322/60/0/2f38914_upload-1-3m0n0ovhctbm-000-b2bz9pu.jpg",
+      "publishedAt": "2026-07-28T20:16:41Z",
+      "image": "https://img.lemde.fr/2026/07/28/0/0/2048/1024/644/322/60/0/e5757ea_ftp-1-v1yogjjreokl-5725690-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-9d9d3eec3080",
+      "title": "Zelensky visit White House in test to Maga's 'significant shift towards' Kyiv",
+      "description": "Ukrainian President Volodymyr Zelensky is expected at the White House on July 28 for talks with US counterpart Donald Trump, as Kyiv seeks to win fresh diplomatic and military support in its fight against Russia. Zelensky is also in the US to attend US senator Lindsey Graham's funeral, an important support of Ukraine i…",
+      "url": "https://www.france24.com/en/zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-kyiv",
+      "source": "France24",
+      "publishedAt": "2026-07-28T14:33:15Z",
+      "image": "https://s.france24.com/media/display/fe0adac2-8a90-11f1-b4c5-005056bf30b7/w:1024/p:16x9/2026-07-28T050016Z-230701877-RC2XPIALK8V5-RTRMADP-3-USA-TRUMP-NETANYAHU.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -80,21 +95,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-6331dfce1a4e",
-      "title": "For the first time since Iran war, Trump and Netanyahu meet amid fraying ties",
-      "description": "Benjamin Netanyahu is set to visit the White House once again on July 28. But the Israeli Prime Minister is likely to get a cooler welcome in Washington than on previous trips. The US's full-scale air war on Iran - which Netanyahu reportedly had a major role in convincing Donald Trump to launch - has become a major hea…",
-      "url": "https://www.france24.com/en/for-the-first-time-since-iran-war-trump-and-netanyahu-meet-amid-fraying-ties",
-      "source": "France24",
-      "publishedAt": "2026-07-28T12:51:59Z",
-      "image": "https://s.france24.com/media/display/c4764b02-8a4a-11f1-8d0a-005056a97e36/w:1024/p:16x9/000-B4VA2NQ.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

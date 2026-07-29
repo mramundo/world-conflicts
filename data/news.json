@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T19:19:02Z",
+  "updated": "2026-07-29T20:57:52Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-six-point-plan-to-make-the-us-japan-alliance-battle-ready",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-29T19:18:57Z",
+      "publishedAt": "2026-07-29T20:57:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F5%2F8%2F12898555-1-eng-GB%2Fe4246659f78c-aaj.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,34 +21,50 @@
       "tags": []
     },
     {
-      "id": "le -709b3e6405b2",
-      "title": "Gaza: Israeli army strikes mosque, claims it served as Hamas weapons depot",
-      "description": "An airstrike destroyed the Al-Muttaqin Mosque, which Israel described as a Hamas weapons storage site.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/29/gaza-israeli-army-strikes-mosque-claims-it-served-as-hamas-weapons-depot_6755970_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-29T16:00:54Z",
-      "image": "https://img.lemde.fr/2026/07/29/275/0/5472/2736/644/322/60/0/68d7406_ftp-1-jyq7gz9rlplj-5728947-01-06.jpg",
+      "id": "deu-a7c4f9697aae",
+      "title": "How well are LGBTQ+ rights protected across Europe?",
+      "description": "After the attack on Berlin’s Pride event on Saturday, the situation of the LGBTQ+ community in Germany is a topic of conversation. How well are queer rights protected in other European countries? An overview.",
+      "url": "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-29T19:53:00Z",
+      "image": "https://static.dw.com/image/78160940_6.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -265f57a3608b",
+      "title": "Ice cream for education: Gaza cafe raises funds for studies",
+      "description": "In war-torn Gaza, a group of Palestinian students opened Flora, an ice cream shop and cafe, to pay university fees.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-29T19:46:57Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785354402.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "humanitarian"
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -d173a674357d",
-      "title": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
-      "description": "Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.",
-      "url": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-29T13:58:28Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a660403beca1-1785070595.jpg?resize=1920%2C1440",
+      "id": "le -709b3e6405b2",
+      "title": "Israeli army strikes mosque in Gaza, claims it served as Hamas weapons depot",
+      "description": "An airstrike destroyed the Al-Muttaqin Mosque, which Israel described as a Hamas weapons storage site.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/29/gaza-israeli-army-strikes-mosque-claims-it-served-as-hamas-weapons-depot_6755970_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-29T16:00:52Z",
+      "image": "https://img.lemde.fr/2026/07/29/275/0/5472/2736/644/322/60/0/68d7406_ftp-1-jyq7gz9rlplj-5728947-01-06.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -141,22 +157,6 @@
         "analysis"
       ],
       "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-25538a4fee18",
-      "title": "Will Pakistan intervene amid Houthi attacks on Saudi ships?",
-      "description": "Pakistan and Saudi Arabia are strategic defense partners, but experts say there are limits to how far Islamabad can go in opposing Iran-backed Houthis.",
-      "url": "https://www.dw.com/en/will-pakistan-intervene-amid-houthi-attacks-on-saudi-ships/a-78144890?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-28T11:54:00Z",
-      "image": "https://static.dw.com/image/78107474_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": true,
       "tags": []
     },

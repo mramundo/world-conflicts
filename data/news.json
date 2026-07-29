@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-29T06:32:39Z",
+  "updated": "2026-07-29T09:38:57Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/a-six-point-plan-to-make-the-us-japan-alliance-battle-ready",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-29T06:32:36Z",
+      "publishedAt": "2026-07-29T09:38:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F5%2F5%2F8%2F12898555-1-eng-GB%2Fe4246659f78c-aaj.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,51 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-f8a5585dbb5f",
+      "title": "US says Iran trying to 'derail ongoing ceasefire talks' as strikes resume",
+      "description": "Jordan's army said it intercepted five Iranian missiles on July 29, Tehran's first regional strike in days following a pause in fighting between it and the United States. Iran's Revolutionary Guards confirmed the attack, saying it was in response to \"the aggressive actions\" of the United States, without elaborating. Th…",
+      "url": "https://www.france24.com/en/us-says-iran-trying-to-derail-ongoing-ceasefire-talks-as-strikes-resume",
+      "source": "France24",
+      "publishedAt": "2026-07-29T08:59:42Z",
+      "image": "https://s.france24.com/media/display/a717986a-8278-11f1-aee4-005056bf30b7/w:1024/p:16x9/000-C2G42T4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -13d35b2a6e42",
+      "title": "Zelensky cultivates new relationship with Trump on Washington visit",
+      "description": "As Trump takes a more considerate approach toward his Ukrainian counterpart, a new package of sanctions against Russia has cleared a key hurdle in the Senate.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/29/zelensky-cultivates-new-relationship-with-trump-on-washington-visit_6755951_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-07-29T08:26:35Z",
+      "image": "https://img.lemde.fr/2026/07/28/51/0/3500/1750/644/322/60/0/3ae4143_ftp-1-c0kcf6mf3hmu-5726856-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-6013296e73d2",
+      "title": "At Least 3 Dead in Russia and Crimea After Ukraine Strikes Industrial Sites",
+      "description": "Ukraine claimed its armed forces hit multiple oil refineries, a logistics center and other sites connected to the Russian military.",
+      "url": "https://www.themoscowtimes.com/2026/07/29/at-least-3-dead-in-russia-and-crimea-after-ukraine-strikes-industrial-sites-a93363",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-07-29T07:30:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/c9/93363__c93c3c6c564196a469c9067fe7459f8a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -37,6 +82,21 @@
       "tags": []
     },
     {
+      "id": "npr-c9e3c9f1256a",
+      "title": "Rescuers search for the missing after Japan earthquake as death toll rises to 13",
+      "description": "Soldiers and emergency workers combed through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 13 people.",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
+      "source": "NPR World",
+      "publishedAt": "2026-07-29T05:34:42Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3968x2726+0+0/resize/3968x2726!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F36%2Fd660d94d4cd7a7353454fa34ec86%2Fap26210157559813.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-6a7a2fd427df",
       "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
       "description": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
@@ -52,17 +112,17 @@
       "tags": []
     },
     {
-      "id": "al -7194953af93c",
-      "title": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
-      "description": "After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.",
-      "url": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss",
+      "id": "al -3488e59d7878",
+      "title": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan",
+      "description": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz Strait.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-07-29T01:30:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/9O4A0362-1785163675.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-29T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260729__C3FK3WF__v6__HighRes__TopshotIraqUsSaudiIranIsraelWar-1785315308.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -84,17 +144,17 @@
       "tags": []
     },
     {
-      "id": "le -4777953d4da8",
-      "title": "Zelensky hails 'good meeting' in Washington with Trump on Patriot air defenses",
-      "description": "Relations between Ukrainian President Volodymyr Zelensky and Donald Trump have warmed since the start of the US president's second term, with Trump suggesting earlier this month that Ukrainian strikes inside Russia could help end the war.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/28/zelensky-hails-good-meeting-in-washington-with-trump-on-patriot-air-defenses_6755933_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-28T20:16:41Z",
-      "image": "https://img.lemde.fr/2026/07/28/0/0/2048/1024/644/322/60/0/e5757ea_ftp-1-v1yogjjreokl-5725690-01-06.jpg",
+      "id": "kyi-0260e1801a38",
+      "title": "Ukraine Reports 226 Combat Clashes, 29 Attacks Near Pokrovsk on Tuesday",
+      "description": "The General Staff of Armed Forces of Ukraine (AFU) reported 226 combat clashes across the front on Tuesday, July 28 alone, with the heaviest fighting recorded near Pokrovsk, where 32 Russian soldiers were killed and 296 drones destroyed.",
+      "url": "https://www.kyivpost.com/post/81270",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-28T21:01:36Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/05/5c5cf0cb1b4c1252bfc19fe244dcfdec.jpeg?w=640&q=90&f=jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -114,33 +174,19 @@
       "tags": []
     },
     {
-      "id": "npr-9d84910eb4d5",
-      "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
-      "description": "The meeting comes as both face pressures at home. Netanyahu is up for reelection, embattled in part due to his deteriorating relationship with Trump. Trump is under pressure to end an unpopular war.",
-      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
-      "source": "NPR World",
-      "publishedAt": "2026-07-28T07:42:11Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4441x2961+0+0/resize/4441x2961!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Fba%2Fffc9437542daa5381b023a5237e1%2Fap26208782971465.jpg",
+      "id": "deu-25538a4fee18",
+      "title": "Will Pakistan intervene amid Houthi attacks on Saudi ships?",
+      "description": "Pakistan and Saudi Arabia are strategic defense partners, but experts say there are limits to how far Islamabad can go in opposing Iran-backed Houthis.",
+      "url": "https://www.dw.com/en/will-pakistan-intervene-amid-houthi-attacks-on-saudi-ships/a-78144890?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-28T11:54:00Z",
+      "image": "https://static.dw.com/image/78107474_6.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-fc350512cb4b",
-      "title": "Montenegro Ends Visa-Free Entry for Russians Amid 2028 EU Membership Bid",
-      "description": "Montenegro has remained one of the few European countries to offer visa-free entry to Russians for up to 30 days, and saw a massive influx of anti-war Russian citizens after the 2022 invasion of Ukraine.",
-      "url": "https://www.themoscowtimes.com/2026/07/27/montenegro-ends-visa-free-entry-for-russians-amid-2028-eu-membership-bid-a93351",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-07-27T14:55:39Z",
-      "image": "https://static.themoscowtimes.com/image/og/96/93351__96f3cf8ff6f313a3bef1f9a082bc1898.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
+      "relevanceScore": 5,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -172,36 +218,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-b38a568ac5b0",
-      "title": "Sudan civil war: Civilians used as 'human shields'",
-      "description": "The situation in the besieged city of El Obeid in Sudan is worsening by the day, with rights organizations warning of mass atrocities. Children are traumatized and do not dare go to school.",
-      "url": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-26T09:56:00Z",
-      "image": "https://static.dw.com/image/78069797_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-eb276c7326a0",
-      "title": "Polish Drone Guides Ukrainian Strike on Russian Ammo Depot",
-      "description": "A Polish-manufactured FlyEye reconnaissance drone was utilized by Ukraine’s 26th Separate Artillery Brigade to identify and destroy a Russian ammunition storage facility in the Bakhmut sector. The drone guided a HIMARS missile strike, resulting in a secondary detonation that destroyed the weapons stockpile and an adjac…",
-      "url": "https://www.kyivpost.com/post/81083",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-26T08:12:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/26/320a49ec14ef0f361a2f986a09d462a7.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     }

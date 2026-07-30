@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T17:36:30Z",
+  "updated": "2026-07-30T19:28:18Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/iran-war-drives-asia-ev-boost-but-china-slowdown-weighs-on-overall-sales",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-30T17:36:26Z",
+      "publishedAt": "2026-07-30T19:28:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F8%2F6%2F2%2F12922682-1-eng-GB%2F4b1f7d63ce51-aa.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-c7c3cde717cd",
+      "title": "Russian missile destroys US firm’s Kyiv drone factory",
+      "description": "Strike on Terminal Autonomy plant appears to be first time in the war that Moscow has targeted a US companyA drone factory in Kyiv destroyed by a Russian ballistic missile on Friday was owned by a US corporation registered in Delaware, in what appears to be the first time Moscow has targeted a US company in the conflic…",
+      "url": "https://www.theguardian.com/world/2026/jul/30/us-firm-drone-factory-terminal-autonomy-ukraine-russia",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-30T17:40:29Z",
+      "image": "https://i.guim.co.uk/img/media/05ed819a0c97181d077bc37fc2e6ad2308e70ce1/717_46_2160_1729/master/2160.jpg?width=140&quality=85&auto=format&fit=max&s=a553effbf7de32a7db8a52020702b38f",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-242d8cee88b1",
-      "title": "Democrats demand answers over treatment of wounded US troops after Iran strike",
-      "description": "Lawmakers question delays in medical care, casualty figures and Pentagon’s handling of drone attack in KuwaitUS politics live – latest updatesThe Trump administration is facing growing demands to explain why wounded US soldiers went more than a week without adequate hospital care after a March drone strike in Kuwait, j…",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/iran-strike-democrats-troops-wounded",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-30T14:58:38Z",
-      "image": "https://i.guim.co.uk/img/media/cc7a1fcf903b0f946de7c0295e050560a1443d73/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=0f520e2157cdf69c0ee64ebb7ecc23f6",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,17 +81,17 @@
       "tags": []
     },
     {
-      "id": "le -8e12b514b0a6",
-      "title": "Taxing big fortunes, a battle both political and legal",
-      "description": "Dismissed by France's inquiry committee on 'taxing large fortunes and the highest incomes,' the proposal championed by the left is set to reemerge during the 2027 budget debate this autumn.",
-      "url": "https://www.lemonde.fr/en/economy/article/2026/07/30/taxing-big-fortunes-a-battle-both-political-and-legal_6756005_19.html",
+      "id": "le -89c358fa5f2a",
+      "title": "Syria positions itself as an alternative energy and logistics hub to Strait of Hormuz",
+      "description": "Backed by the Gulf countries, Turkey and Washington, Syrian President Ahmed al-Sharaa is betting on his country's geographic location to turn it into a key energy corridor between the Gulf and Europe, aiming to bring Syria out of isolation after 14 years of civil war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/07/30/syria-positions-itself-as-an-alternative-energy-and-logistics-hub-to-strait-of-hormuz_6755993_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-30T14:28:15Z",
-      "image": "https://img.lemde.fr/2026/07/27/62/0/4724/2362/644/322/60/0/f64d3d6_upload-1-jvt8ivjd67id-sipa-01260615-000004.jpg",
+      "publishedAt": "2026-07-30T09:55:42Z",
+      "image": "https://img.lemde.fr/2026/07/29/923/0/8073/4036/644/322/60/0/66f86d3_upload-1-zijzs8vvglse-dsc-1159-1.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

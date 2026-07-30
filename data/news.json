@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T19:28:18Z",
+  "updated": "2026-07-30T21:11:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -10,13 +10,45 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/iran-war-drives-asia-ev-boost-but-china-slowdown-weighs-on-overall-sales",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-30T19:28:15Z",
+      "publishedAt": "2026-07-30T21:11:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F8%2F6%2F2%2F12922682-1-eng-GB%2F4b1f7d63ce51-aa.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e6714c72c7fe",
+      "title": "Will Saudi Arabia be dragged further into the war in Iran?",
+      "description": "Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-07-30T21:00:28Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785445085.jpg?resize=1920%2C1061&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-133d8705300a",
+      "title": "Are Iran and Ukraine wars getting tangled in Caspian Sea?",
+      "description": "Tehran has threatened a response after a Ukrainian strike on an Iranian cargo ship in the Caspian Sea that Kyiv says was carrying weapons to Russia. Still, Ukraine says it wants to avoid escalation with Tehran.",
+      "url": "https://www.dw.com/en/are-iran-and-ukraine-wars-getting-tangled-in-caspian-sea/a-78178784?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-30T19:28:00Z",
+      "image": "https://static.dw.com/image/71157443_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -35,6 +67,22 @@
       "tags": []
     },
     {
+      "id": "rfe-cab0eb813971",
+      "title": "'Get Off The Bus, Get Out Of The Country.' Ukrainians Took Refuge In Poland. Now They're Increasingly Fearful.",
+      "description": "Ukrainians who've taken refuge in Poland from the Russian invasion say they’re increasingly under threat, targeted by xenophobic, racist attacks. The fears come as tensions between Kyiv and Warsaw fester due to grievances dating back to World War II.",
+      "url": "https://www.rferl.org/a/ukraine-poland-war-refugees-hate-crimes/33818435.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-07-30T16:42:47Z",
+      "image": "https://gdb.rferl.org/0295912a-cbef-4a1f-aafe-08dd4a814ce6_cx0_cy7_cw0_w800_h450.jpeg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "bbc-0e0252d43d00",
       "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
       "description": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
@@ -50,34 +98,18 @@
       "tags": []
     },
     {
-      "id": "al -6c0ab1748853",
-      "title": "War on Iran: Phase II: Day 19",
-      "description": "The US resumes bombing Iran, with a family of three killed in Qeshm Island.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-07-30T14:56:59Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/IMG_0878-1785423404.png?resize=1920%2C1080&amp;quality=80",
+      "id": "fra-2713da32d7fd",
+      "title": "#Ukraine pounded in Russian attack, Polish airspace 'violated'",
+      "description": "In #Russia's latest deadly attack on #Ukraine, an unidentified object violated Polish airspace and crashed into a field. Ukrainian President Volodymyr #Zelensky has urged allies for anti-ballistic #missiles against 'Russian terror', while the #EU has slammed the attack.",
+      "url": "https://www.france24.com/en/video/20260730-ukraine-pounded-in-russian-attack-polish-airspace-violated-1",
+      "source": "France24",
+      "publishedAt": "2026-07-30T11:31:09Z",
+      "image": "https://s.france24.com/media/display/040afa96-8c09-11f1-b75b-005056bf30b7/w:1024/p:16x9/VIGNETTE-LVIV-2.png",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-133d8705300a",
-      "title": "Are Iran and Ukraine wars getting tangled in Caspian Sea?",
-      "description": "Tehran has threatened a response after a Ukrainian strike on an Iranian cargo ship in the Caspian Sea that Kyiv says was carrying weapons to Russia. Still, Ukraine says it wants to avoid escalation with Tehran.",
-      "url": "https://www.dw.com/en/are-iran-and-ukraine-wars-getting-tangled-in-caspian-sea/a-78178784?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-30T14:49:00Z",
-      "image": "https://static.dw.com/image/71157443_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -92,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-5a3d0c573382",
-      "title": "US launches wave of strikes on Iran in response to Tehran missile attack in Jordan",
-      "description": "The US military completed a \"heavy wave of strikes\" against Iran on Thursday in retaliation against Tehran targeting American bases in Jordan, as fighting intensified in the Middle East war after a nearly week-long pause. The reignited hostilities have drawn in the Islamic republic's proxies, and appear to have dashed …",
-      "url": "https://www.france24.com/en/video/20260730-us-launches-wave-of-strikes-on-iran-in-response-to-tehran-missile-attack-in-jordan",
-      "source": "France24",
-      "publishedAt": "2026-07-30T09:48:50Z",
-      "image": "https://s.france24.com/media/display/e5815600-8bfa-11f1-ab1b-005056bfb2b6/w:1024/p:16x9/EN-20260730-090139-090521-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -152,22 +169,6 @@
       "categories": [
         "conflict",
         "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "rfe-025c042952b1",
-      "title": "Russia-Iran Sanctions Bill Signals Congress United Behind Ukraine, Senator Whitehouse Tells RFE/RL",
-      "description": "As the US Senate prepared to vote on a sweeping bipartisan sanctions package targeting Russia and Iran, Democratic Senator Sheldon Whitehouse, a co-sponsor of the legislation, said the measure reflects renewed bipartisan resolve to squeeze the Kremlin war machine and reinforce support for Ukraine.",
-      "url": "https://www.rferl.org/a/us-senate-whitehouse-sanctions-russia-iran/33816935.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-28T19:22:21Z",
-      "image": "https://gdb.rferl.org/7230949A-A8BE-4A8A-96C7-33A7D94E690D_cx0_cy6_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
         "analysis"
       ],
       "relevanceScore": 11,

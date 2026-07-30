@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-30T15:11:22Z",
+  "updated": "2026-07-30T17:36:30Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/iran-war-drives-asia-ev-boost-but-china-slowdown-weighs-on-overall-sales",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-30T15:11:19Z",
+      "publishedAt": "2026-07-30T17:36:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F8%2F6%2F2%2F12922682-1-eng-GB%2F4b1f7d63ce51-aa.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-0e0252d43d00",
+      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
+      "description": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-07-30T15:20:19Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce2/live/9f464590-8c24-11f1-bdac-871e920411eb.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,17 +65,33 @@
       "tags": []
     },
     {
-      "id": "le -89c358fa5f2a",
-      "title": "Syria positions itself as an alternative energy and logistics hub to Strait of Hormuz",
-      "description": "Backed by the Gulf countries, Turkey and Washington, Syrian President Ahmed al-Sharaa is betting on his country's geographic location to turn it into a key energy corridor between the Gulf and Europe, aiming to bring Syria out of isolation after 14 years of civil war.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/30/syria-positions-itself-as-an-alternative-energy-and-logistics-hub-to-strait-of-hormuz_6755993_4.html",
+      "id": "deu-133d8705300a",
+      "title": "Are Iran and Ukraine wars getting tangled in Caspian Sea?",
+      "description": "Tehran has threatened a response after a Ukrainian strike on an Iranian cargo ship in the Caspian Sea that Kyiv says was carrying weapons to Russia. Still, Ukraine says it wants to avoid escalation with Tehran.",
+      "url": "https://www.dw.com/en/are-iran-and-ukraine-wars-getting-tangled-in-caspian-sea/a-78178784?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-07-30T14:49:00Z",
+      "image": "https://static.dw.com/image/71157443_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -8e12b514b0a6",
+      "title": "Taxing big fortunes, a battle both political and legal",
+      "description": "Dismissed by France's inquiry committee on 'taxing large fortunes and the highest incomes,' the proposal championed by the left is set to reemerge during the 2027 budget debate this autumn.",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/07/30/taxing-big-fortunes-a-battle-both-political-and-legal_6756005_19.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-30T09:55:42Z",
-      "image": "https://img.lemde.fr/2026/07/29/923/0/8073/4036/644/322/60/0/66f86d3_upload-1-zijzs8vvglse-dsc-1159-1.jpg",
+      "publishedAt": "2026-07-30T14:28:15Z",
+      "image": "https://img.lemde.fr/2026/07/27/62/0/4724/2362/644/322/60/0/f64d3d6_upload-1-jvt8ivjd67id-sipa-01260615-000004.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -80,37 +111,6 @@
       "tags": []
     },
     {
-      "id": "bbc-0e0252d43d00",
-      "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
-      "description": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-07-30T09:21:55Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a2/live/20e2a280-8bd3-11f1-8ca8-e7392cbe9869.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-a7c4f9697aae",
-      "title": "How well are LGBTQ+ rights protected across Europe?",
-      "description": "After the attack on Berlin’s Pride event on Saturday, the situation of the LGBTQ+ community in Germany is a topic of conversation. How well are queer rights protected in other European countries? An overview.",
-      "url": "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-07-29T19:53:00Z",
-      "image": "https://static.dw.com/image/78160940_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "kyi-d2fa7a52059c",
       "title": "Writing on Wall for Putin in D.C.",
       "description": "Timothy Ash argues that Washington’s growing bipartisan support for tougher Russia sanctions, Ukraine’s battlefield gains and drone warfare edge are shifting the dynamics of the war. He says mounting pressure could push Vladimir Putin toward negotiations as the Kremlin faces rising economic and military challenges.",
@@ -124,21 +124,6 @@
       ],
       "relevanceScore": 15,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-77e9871637a0",
-      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
-      "description": "The flare-up on multiple fronts raised the risk of a return to all-out war, underscoring the difficulty of winding down a five-month conflict that has jolted the world economy.",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
-      "source": "NPR World",
-      "publishedAt": "2026-07-29T09:07:03Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5145x3430+0+0/resize/5145x3430!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F7f%2F6e8fb8134e29ae162b0c0da58493%2Fap26210255812509.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

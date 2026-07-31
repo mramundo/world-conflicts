@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-31T17:40:00Z",
+  "updated": "2026-07-31T19:35:57Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-31T17:39:56Z",
+      "publishedAt": "2026-07-31T19:35:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -25,7 +25,7 @@
       "description": "The agreement is a ‘great breakthrough’, the president says in response to media questionsTrump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertainSaudi Arabia prepares sea and possible land offensive against HouthisAl Jazeera reporter Hani Mahmoud has reported the mood in Gaza this morni…",
       "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
       "source": "The Guardian",
-      "publishedAt": "2026-07-31T17:26:41Z",
+      "publishedAt": "2026-07-31T19:23:02Z",
       "image": "https://i.guim.co.uk/img/media/4d6ae08cd990b7b3648e594492ee1bfaad798ac0/0_337_4163_3330/master/4163.jpg?width=140&quality=85&auto=format&fit=max&s=ef13e8e1520204ce59eef2a93f7e3d22",
       "categories": [
         "conflict"
@@ -46,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-21717e7e115e",
-      "title": "Hamas disarming would be 'first concrete step to re-energise peace plan', but questions remain",
-      "description": "Israel will not withdraw from the Gaza Strip until Hamas's \"genuine disarmament\", a political source told AFP on July 31, after the group said it had agreed to a deal involving its disarmament and Israel's exit. But officially, the country has stayed silent regarding the agreement. It was announced by US President Dona…",
-      "url": "https://www.france24.com/en/hamas-disarmament-would-be-first-concrete-step-to-re-energise-peace-plan-but-questions-remain",
-      "source": "France24",
-      "publishedAt": "2026-07-31T16:16:13Z",
-      "image": "https://s.france24.com/media/display/795f00d8-7923-11f1-acef-005056a97e36/w:1024/p:16x9/AP26160636992012.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -109,6 +94,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "un -d7fd78a2b4bc",
+      "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
+      "description": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168062",
+      "source": "UN News",
+      "publishedAt": "2026-07-31T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/23-07-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -170,21 +170,6 @@
       ],
       "relevanceScore": 15,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -4f1db60e1a27",
-      "title": "World News in Brief: Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
-      "description": "Independent UN experts on Wednesday called for urgent action to support Rohingya refugees in Bangladesh after reports indicated two boats carrying more than 500 passengers&nbsp;may have capsized off the coast of Myanmar in mid-July.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168049",
-      "source": "UN News",
-      "publishedAt": "2026-07-29T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/06/15064/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

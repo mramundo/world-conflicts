@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T17:40:10Z",
+  "updated": "2026-07-31T19:36:06Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-07-31T00:13:25Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-07-31",
       "wikipediaRevision": "2026-07-31T10:15:10Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -89,7 +89,7 @@
       ],
       "wikipediaPage": "Myanmar_civil_war_(2021%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "ye-war",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 6
+      "recentNewsCount": 5
     },
     {
       "id": "et-am",
@@ -403,9 +403,9 @@
         "Interstate"
       ],
       "wikipediaPage": "Insurgency_in_Jammu_and_Kashmir",
-      "lastUpdate": "2026-07-15",
+      "lastUpdate": "2026-07-31",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-07-15T12:44:32Z",
+      "wikipediaRevision": "2026-07-31T18:47:54Z",
       "recentNewsCount": 0
     },
     {

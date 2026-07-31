@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-30T23:09:06Z",
+  "updated": "2026-07-31T02:57:51Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-07-30T23:06:32Z",
+  "wikipediaListRevision": "2026-07-31T00:13:25Z",
   "items": [
     {
       "id": "ru-ua",
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-07-30",
       "wikipediaRevision": "2026-07-30T21:41:44Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 5
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-07-27",
       "wikipediaRevision": "2026-07-27T08:07:56Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "sd-war",
@@ -134,7 +134,7 @@
       "lastUpdate": "2026-07-20",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-07-20T21:40:24Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "cd-east",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 5
     },
     {
       "id": "et-am",
@@ -427,8 +427,8 @@
         "Global economy"
       ],
       "wikipediaPage": "Red_Sea_crisis",
-      "lastUpdate": "2026-07-25",
-      "wikipediaRevision": "2026-07-25T14:54:34Z",
+      "lastUpdate": "2026-07-30",
+      "wikipediaRevision": "2026-07-30T23:19:04Z",
       "recentNewsCount": 0
     },
     {
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     }
   ]
 }

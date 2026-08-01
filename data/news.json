@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T19:10:29Z",
+  "updated": "2026-08-01T20:54:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-01T19:10:26Z",
+      "publishedAt": "2026-08-01T20:54:24Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-2b265756ae76",
+      "title": "Trump prepara un nuovo attacco, Teheran: 'Vuole la guerra totale'",
+      "description": "Allerta delle ambasciate Usa nella regione. Nel mirino l'energia, ma il governo è spaccato",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/01/le-ambasciate-usa-agli-americani-valutare-la-possibilita-di-lasciare-il-medio-oriente_11b7abfc-4279-494d-815e-907b7b2849cb.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-01T19:48:52Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/1/365893cee9dc470fe4d1b7abe41cd810.jpg",
       "categories": [
         "conflict"
       ],
@@ -32,21 +47,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-173544342f1e",
-      "title": "Autobomba esplode in Colombia, 11 feriti",
-      "description": "L'attentato a Cúcuta a sei giorni dall'insediamento di De la Espriella",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/01/autobomba-esplode-in-colombia-11-feriti_20e03b05-44a2-49c6-a48a-a9dab5a74a6f.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-01T14:03:38Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/afe1d24c6be3962c8b41ef92ae8c4da7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

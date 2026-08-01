@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-01T06:06:06Z",
+  "updated": "2026-08-01T09:06:32Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-01T06:06:03Z",
+      "publishedAt": "2026-08-01T09:06:28Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,9 +20,39 @@
       "tags": []
     },
     {
+      "id": "ans-8df08d838a7f",
+      "title": "Teheran, 'gli Usa preparano un conflitto totale nella regione'",
+      "description": "'Chi farà loro da scudo brucerà nelle fiamme della guerra'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/teheran-gli-usa-preparano-un-conflitto-totale-nella-regione_69465145-a863-4929-9644-a10b66e991cc.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-01T08:57:52Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/4/15/6184b2fc3c9880284fa9cf877174a137.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-0c50209e29ba",
+      "title": "Russia Pounds Kyiv With Missiles, Killing At Least 9",
+      "description": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
+      "url": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-9-a93392",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-01T06:22:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/68/93392__68c2129e00970a8d1fdbf9d8f06abd13.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "fra-bd491d478822",
       "title": "Russian attack on Ukrainian capital kills at least nine people",
-      "description": "At leased nine people were killed and 28 others wounded in Ukrainian capital Kyiv after Russia launched a series of ballistic missiles overnight Saturday, authorities said. Both Russia and Ukraine have ramped up attacks in recent months, with Moscow increasing its long-range strikes on towns and cities across Ukraine.",
+      "description": "At leased nine people were killed and 28 others wounded in Ukraine's capital Kyiv after Russia launched a series of ballistic missiles overnight into Saturday, authorities said. Both Russia and Ukraine have ramped up attacks in recent months, with Moscow increasing its long-range strikes on towns and cities across Ukra…",
       "url": "https://www.france24.com/en/europe/20260801-russian-attack-on-ukrainian-capital-kills-at-least-nine-people",
       "source": "France24",
       "publishedAt": "2026-08-01T05:14:39Z",
@@ -35,18 +65,19 @@
       "tags": []
     },
     {
-      "id": "al -1bf3a0201a5d",
-      "title": "Russian missile attack kills three in Ukraine’s Kyiv",
-      "description": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+      "id": "al -36b1c217518d",
+      "title": "Is Israel really ready to withdraw from Gaza?",
+      "description": "Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel&#039;s potential withdrawal from the enclave.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-01T02:06:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a6d3fd2-1785544658.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-01T03:21:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a690890a5d49-1785268368.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
+      "relevanceScore": 5,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -65,21 +96,6 @@
       "tags": []
     },
     {
-      "id": "le -3c0e862714d0",
-      "title": "Hamas agrees to disarmament roadmap under Gaza ceasefire deal",
-      "description": "The Palestinian militant group said it had accepted a US-backed plan under which its weapons would be transferred to a new Palestinian governing body as Israeli forces withdraw in phases, though Israel has yet to endorse the agreement and insists any pullback depends on Hamas's complete disarmament.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/07/31/hamas-agrees-to-disarmament-roadmap-under-gaza-ceasefire-deal_6756050_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-07-31T20:53:52Z",
-      "image": "https://img.lemde.fr/2026/07/31/333/0/3996/1998/644/322/60/0/f7dcbac_ftp-1-lltqi0enp7np-5750103-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -d117422d8573",
       "title": "Boldly going in different directions? US and Russia diverge on joint space plans.",
       "description": "U.S.-Russia space cooperation, a success story of the Cold War, could be under threat if a new agreement can't be reached.",
@@ -87,21 +103,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-07-31T19:04:29Z",
       "image": "https://images.csmonitor.com/csm/2026/07/0731_ORUSSIASPACE_lede_1.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-932fc75b5641",
-      "title": "'Il tasso di approvazione di Trump al 32%, 6 americani su 10 contro la guerra in Iran'",
-      "description": "Quinnipa: 'Il 55% pensa che durerà un anno o di più",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/31/il-tasso-di-approvazione-di-trump-al-32-6-americani-su-10-contro-la-guerra-in-iran_ed97397b-43fb-48b3-9645-e9f2f1bda285.html",
-      "source": "ANSA",
-      "publishedAt": "2026-07-31T17:11:28Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/30/4f0c17a32778e0ac52ecac61e0df1447.jpg",
       "categories": [
         "conflict"
       ],
@@ -199,21 +200,6 @@
       ],
       "relevanceScore": 15,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-6013296e73d2",
-      "title": "At Least 3 Dead in Russia and Crimea After Ukraine Strikes Industrial Sites",
-      "description": "Ukraine claimed its armed forces hit multiple oil refineries, a logistics center and other sites connected to the Russian military.",
-      "url": "https://www.themoscowtimes.com/2026/07/29/at-least-3-dead-in-russia-and-crimea-after-ukraine-strikes-industrial-sites-a93363",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-07-29T07:30:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/c9/93363__c93c3c6c564196a469c9067fe7459f8a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     }
   ]

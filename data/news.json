@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-31T23:02:25Z",
+  "updated": "2026-08-01T02:57:34Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-07-31T23:02:22Z",
+      "publishedAt": "2026-08-01T02:57:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,8 +20,23 @@
       "tags": []
     },
     {
+      "id": "al -1bf3a0201a5d",
+      "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+      "description": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-01T02:06:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a6d3fd2-1785544658.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-860c295fd16d",
-      "title": "Middle East crisis live: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first",
+      "title": "Middle East crisis: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first – as it happened",
       "description": "The agreement is a ‘great breakthrough’, the president says in response to media questionsTrump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertainSaudi Arabia prepares sea and possible land offensive against HouthisAl Jazeera reporter Hani Mahmoud has reported the mood in Gaza this morni…",
       "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
       "source": "The Guardian",

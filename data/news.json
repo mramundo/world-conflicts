@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T09:06:32Z",
+  "updated": "2026-08-01T11:17:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-01T09:06:28Z",
+      "publishedAt": "2026-08-01T11:17:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,32 @@
       "tags": []
     },
     {
-      "id": "ans-8df08d838a7f",
-      "title": "Teheran, 'gli Usa preparano un conflitto totale nella regione'",
-      "description": "'Chi farà loro da scudo brucerà nelle fiamme della guerra'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/01/teheran-gli-usa-preparano-un-conflitto-totale-nella-regione_69465145-a863-4929-9644-a10b66e991cc.html",
+      "id": "ans-c13d682eb76f",
+      "title": "Ucraina, esplosioni a Kiev: 'Almeno 9 morti e 23 feriti'",
+      "description": "L'annuncio del sindaco su Telegram: 'Restate nei rifugi'. Raid ucraini a Sebastopoli e Zaporizhzhia",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
       "source": "ANSA",
-      "publishedAt": "2026-08-01T08:57:52Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/4/15/6184b2fc3c9880284fa9cf877174a137.jpg",
+      "publishedAt": "2026-08-01T10:30:23Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/1/6fe4656a5d11247663f0fe18c33a23ae.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -fababd7c8736",
+      "title": "Iran: The Making of a War",
+      "description": "From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.",
+      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-01T10:30:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785507170.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,7 +67,7 @@
     {
       "id": "fra-bd491d478822",
       "title": "Russian attack on Ukrainian capital kills at least nine people",
-      "description": "At leased nine people were killed and 28 others wounded in Ukraine's capital Kyiv after Russia launched a series of ballistic missiles overnight into Saturday, authorities said. Both Russia and Ukraine have ramped up attacks in recent months, with Moscow increasing its long-range strikes on towns and cities across Ukra…",
+      "description": "At least nine people were killed and 28 others wounded in Ukraine's capital Kyiv after Russia launched a series of ballistic missiles overnight into Saturday, authorities said. Both Russia and Ukraine have ramped up attacks in recent months, with Moscow increasing its long-range strikes on towns and cities across Ukrai…",
       "url": "https://www.france24.com/en/europe/20260801-russian-attack-on-ukrainian-capital-kills-at-least-nine-people",
       "source": "France24",
       "publishedAt": "2026-08-01T05:14:39Z",
@@ -62,22 +77,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -36b1c217518d",
-      "title": "Is Israel really ready to withdraw from Gaza?",
-      "description": "Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel&#039;s potential withdrawal from the enclave.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-01T03:21:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a690890a5d49-1785268368.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
       "tags": []
     },
     {

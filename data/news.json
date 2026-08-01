@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-01T11:17:11Z",
+  "updated": "2026-08-01T13:25:04Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-01T11:17:07Z",
+      "publishedAt": "2026-08-01T13:25:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,42 +20,12 @@
       "tags": []
     },
     {
-      "id": "ans-c13d682eb76f",
-      "title": "Ucraina, esplosioni a Kiev: 'Almeno 9 morti e 23 feriti'",
-      "description": "L'annuncio del sindaco su Telegram: 'Restate nei rifugi'. Raid ucraini a Sebastopoli e Zaporizhzhia",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-01T10:30:23Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/1/6fe4656a5d11247663f0fe18c33a23ae.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -fababd7c8736",
-      "title": "Iran: The Making of a War",
-      "description": "From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-01T10:30:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1785507170.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-0c50209e29ba",
-      "title": "Russia Pounds Kyiv With Missiles, Killing At Least 9",
+      "id": "the-8670a35886eb",
+      "title": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
       "description": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
-      "url": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-9-a93392",
+      "url": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-10-a93392",
       "source": "The Moscow Times",
-      "publishedAt": "2026-08-01T06:22:00Z",
+      "publishedAt": "2026-08-01T12:52:00Z",
       "image": "https://static.themoscowtimes.com/image/og/68/93392__68c2129e00970a8d1fdbf9d8f06abd13.jpg",
       "categories": [
         "conflict"
@@ -65,17 +35,33 @@
       "tags": []
     },
     {
-      "id": "fra-bd491d478822",
-      "title": "Russian attack on Ukrainian capital kills at least nine people",
-      "description": "At least nine people were killed and 28 others wounded in Ukraine's capital Kyiv after Russia launched a series of ballistic missiles overnight into Saturday, authorities said. Both Russia and Ukraine have ramped up attacks in recent months, with Moscow increasing its long-range strikes on towns and cities across Ukrai…",
-      "url": "https://www.france24.com/en/europe/20260801-russian-attack-on-ukrainian-capital-kills-at-least-nine-people",
-      "source": "France24",
-      "publishedAt": "2026-08-01T05:14:39Z",
-      "image": "https://s.france24.com/media/display/47696072-8d47-11f1-a97e-005056bf30b7/w:1024/p:16x9/a711ca62d713122092c14acee0a6cc6b3af3c4b1.jpg",
+      "id": "al -55b0b7d423f3",
+      "title": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+      "description": "Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-01T12:40:36Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a6de92e86a38-1785588014.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-5ac4b7d90baf",
+      "title": "Ucraina, esplosioni a Kiev: 'Almeno 9 morti e 23 feriti. Danneggiata l'ambasciata lituana'",
+      "description": "L'annuncio del sindaco su Telegram: 'Restate nei rifugi'. Raid ucraini a Sebastopoli e Zaporizhzhia",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti.-danneggiata-lambasciata-lituana_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-01T12:38:35Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/1/6fe4656a5d11247663f0fe18c33a23ae.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -87,6 +73,21 @@
       "source": "The Guardian",
       "publishedAt": "2026-07-31T20:57:36Z",
       "image": "https://i.guim.co.uk/img/media/4d6ae08cd990b7b3648e594492ee1bfaad798ac0/0_337_4163_3330/master/4163.jpg?width=140&quality=85&auto=format&fit=max&s=ef13e8e1520204ce59eef2a93f7e3d22",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-539072c3fcc6",
+      "title": "General Staff of AFU Reports 207 Combat Clashes in 24 Hours",
+      "description": "The General Staff of the Armed Forces of Ukraine (AFU) reported 207 combat clashes over a 24-hour period on Friday, July 31, reporting heaviest fighting near Pokrovsk, where the AFU repelled 28 enemy attacks. Russian forces carried out 55 airstrikes and nearly 2,000 shellings nationwide.",
+      "url": "https://www.kyivpost.com/post/81499",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-07-31T19:43:20Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/05/88afed08a8fd944d70ccde233072d1c0.jpeg?w=640&q=90&f=jpg",
       "categories": [
         "conflict"
       ],
@@ -183,22 +184,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-d2fa7a52059c",
-      "title": "Writing on Wall for Putin in D.C.",
-      "description": "Timothy Ash argues that Washington’s growing bipartisan support for tougher Russia sanctions, Ukraine’s battlefield gains and drone warfare edge are shifting the dynamics of the war. He says mounting pressure could push Vladimir Putin toward negotiations as the Kremlin faces rising economic and military challenges.",
-      "url": "https://www.kyivpost.com/opinion/81334",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-07-29T12:52:09Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/29/c0dd338655a0b80fed580a5131bc743d.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 15,
-      "isAnalysis": true,
       "tags": []
     }
   ]

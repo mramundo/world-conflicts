@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T02:57:34Z",
+  "updated": "2026-08-01T06:06:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-01T02:57:31Z",
+      "publishedAt": "2026-08-01T06:06:03Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-bd491d478822",
+      "title": "Russian attack on Ukrainian capital kills at least nine people",
+      "description": "At leased nine people were killed and 28 others wounded in Ukrainian capital Kyiv after Russia launched a series of ballistic missiles overnight Saturday, authorities said. Both Russia and Ukraine have ramped up attacks in recent months, with Moscow increasing its long-range strikes on towns and cities across Ukraine.",
+      "url": "https://www.france24.com/en/europe/20260801-russian-attack-on-ukrainian-capital-kills-at-least-nine-people",
+      "source": "France24",
+      "publishedAt": "2026-08-01T05:14:39Z",
+      "image": "https://s.france24.com/media/display/47696072-8d47-11f1-a97e-005056bf30b7/w:1024/p:16x9/a711ca62d713122092c14acee0a6cc6b3af3c4b1.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,21 +91,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-511432ecded7",
-      "title": "Hamas agrees to disarm under Trump ceasefire deal",
-      "description": "Hamas said on Friday it had agreed to hand over its weapons to a Palestinian governing committee as part of a US-backed roadmap that would see a gradual Israeli military withdrawal from Gaza, though Israel said it would not pull back until the militant group is fully disarmed.",
-      "url": "https://www.france24.com/en/middle-east/20260731-hamas-agrees-to-disarm-under-trump-plan",
-      "source": "France24",
-      "publishedAt": "2026-07-31T18:25:15Z",
-      "image": "https://s.france24.com/media/display/657fdfb6-8c8c-11f1-aa8e-005056bfb2b6/w:1024/p:16x9/047ccfdb9282bb6bdb9caa3c29912419ee39bd64.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

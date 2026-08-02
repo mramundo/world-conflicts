@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T02:56:15Z",
+  "updated": "2026-08-02T06:06:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-02T02:56:11Z",
+      "publishedAt": "2026-08-02T06:06:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -7549a16c463e",
+      "title": "Gaza students overcome Israel’s genocide to celebrate Tawjihi results",
+      "description": "Students in Gaza overcome distressing conditions amid Israel&#039;s genocide to finish their Tawjihi high school exams.",
+      "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-02T05:27:04Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/IMG_7804-1785588145_e68b7c-1785592646.png?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -33,21 +49,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -c8f94c5c37c2",
-      "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
-      "description": "Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.",
-      "url": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-01T20:38:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/WEB-1000x562-ETHIOPIA-TIGRAY-1785610774.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T06:06:22Z",
+  "updated": "2026-08-02T09:09:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-02T06:06:20Z",
+      "publishedAt": "2026-08-02T09:09:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,8 +20,23 @@
       "tags": []
     },
     {
+      "id": "fra-38f761c6b502",
+      "title": "Three people killed in Moscow bombing",
+      "description": "A blast near the centre of Moscow has killed at least three people and injured 21 others. It happened at around 8pm local time, when a homemade explosive device detonated as a woman tried to enter a restaurant and was stopped by a security guard, according to Russia’s National Anti-Terrorist Committee. Both the woman a…",
+      "url": "https://www.france24.com/en/three-people-killed-in-moscow-bombing",
+      "source": "France24",
+      "publishedAt": "2026-08-02T08:41:16Z",
+      "image": "https://s.france24.com/media/display/444e34d6-8e4a-11f1-acbd-005056a97e36/w:1024/p:16x9/EN-20260802-090150-090249-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -7549a16c463e",
-      "title": "Gaza students overcome Israel’s genocide to celebrate Tawjihi results",
+      "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
       "description": "Students in Gaza overcome distressing conditions amid Israel&#039;s genocide to finish their Tawjihi high school exams.",
       "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
       "source": "Al Jazeera",
@@ -78,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-4101684dd779",
-      "title": "Kyiv: 9 dead and 22 hurt in missile attack",
-      "description": "At leased nine people were killed and 22 others wounded in Ukraine's capital Kyiv after Russia launched a series of ballistic missiles overnight into Saturday, authorities said. Both Russia and Ukraine have ramped up attacks in recent months, with Moscow increasing its long-range strikes on towns and cities across Ukra…",
-      "url": "https://www.france24.com/en/kyiv-9-dead-and-22-hurt-in-missile-attack",
-      "source": "France24",
-      "publishedAt": "2026-08-01T11:19:43Z",
-      "image": "https://s.france24.com/media/display/d1329d72-8d89-11f1-bfce-005056bfb2b6/w:1024/p:16x9/EN-20260801-100152-100347-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

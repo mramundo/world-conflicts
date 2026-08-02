@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T13:25:15Z",
+  "updated": "2026-08-02T15:03:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-02T13:25:12Z",
+      "publishedAt": "2026-08-02T15:03:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-8cc100f996af",
+      "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-02T15:02:56Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,6 +46,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -6da2a130f099",
+      "title": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
+      "description": "A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.",
+      "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-02T11:07:13Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/YouTube-Thumb_A-1785668052.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,38 +92,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7549a16c463e",
-      "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-      "description": "Students in Gaza overcome distressing conditions amid Israel&#039;s genocide to finish their Tawjihi high school exams.",
-      "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-02T05:27:04Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/IMG_7804-1785588145_e68b7c-1785592646.png?resize=1200%2C630&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-bcb6a83b1705",
-      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
-      "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
-      "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-01T23:03:15Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35b4/live/aedc5530-8cc4-11f1-a7ab-8b30adf0800a.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T21:04:29Z",
+  "updated": "2026-08-03T23:02:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-security-chief-says-china-s-hybrid-warfare-tests-whole-region",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-03T21:04:25Z",
+      "publishedAt": "2026-08-03T23:02:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F7%2F5%2F8%2F12928573-3-eng-GB%2Ff1ba712f41c3-CE531A8F-0F86-4117-9ACF-CAEAC4BA3611.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,12 +20,27 @@
       "tags": []
     },
     {
+      "id": "ans-3b516ebcb6f2",
+      "title": "Zelensky, 'sanzioni contro le imprese dell'industria della difesa russa'",
+      "description": "Nell'elenco figura anche un'azienda ucraina",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/04/zelensky-sanzioni-contro-le-imprese-dellindustria-della-difesa-russa_1396869c-5ea9-4dde-bf22-19894ada493a.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-03T22:27:14Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/15/d018c4793e3157d588f3d7e96f7c2dfb.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -8d45b0407ae1",
       "title": "Ukrainian firefighters join battle against France fire in an unprecedented mobilization",
       "description": "On Sunday, August 2, 70 Ukrainian firefighters arrived in a convoy of 15 vehicles, including 10 fire engines, after travelling through Ukraine, Poland, Germany and France to help their French counterparts west of the city of Bordeaux.",
       "url": "https://www.lemonde.fr/en/international/article/2026/08/03/ukrainian-firefighters-join-battle-against-france-fire-in-an-unprecedented-mobilization_6756126_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-03T19:50:40Z",
+      "publishedAt": "2026-08-03T19:50:39Z",
       "image": "https://img.lemde.fr/2026/08/03/0/0/6000/3000/644/322/60/0/f197689_ftp-1-h3ekbx3zi1xr-5765480-01-06.jpg",
       "categories": [
         "conflict"
@@ -123,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-98eb711eab0a",
-      "title": "Farage risponde alla linea dura di Burnham sui migranti, 'con noi blocco navale'",
-      "description": "Reform Uk evoca 'la più grande operazione da Seconda guerra mondiale'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/03/farage-risponde-alla-linea-dura-di-burnham-sui-migranti-con-noi_97d96e0e-f892-425b-b1cd-f6d63faa1c58.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-03T09:52:29Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/045c2f12ce9830d742425ec929995df1.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

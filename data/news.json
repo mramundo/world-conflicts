@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-03T14:42:34Z",
+  "updated": "2026-08-03T17:09:36Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-security-chief-says-china-s-hybrid-warfare-tests-whole-region",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-03T14:42:30Z",
+      "publishedAt": "2026-08-03T17:09:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F7%2F5%2F8%2F12928573-3-eng-GB%2Ff1ba712f41c3-CE531A8F-0F86-4117-9ACF-CAEAC4BA3611.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-2084aafaa985",
+      "title": "Anti-war politician and Kremlin critic Boris Nadezhdin flees Russia for France",
+      "description": "Kremlin critic and anti-war politician Boris Nadezhdin – who openly criticised President Vladimir Putin and Moscow's Ukraine offensive – said Monday he had fled Russia for Paris. Nadezhdin was recently detained outside Moscow and blocked from running for parliament. Russia's clampdown on dissent has left most critics i…",
+      "url": "https://www.france24.com/en/europe/20260803-anti-war-politician-and-kremlin-critic-boris-nadezhdin-flees-russia-for-france",
+      "source": "France24",
+      "publishedAt": "2026-08-03T14:47:54Z",
+      "image": "https://s.france24.com/media/display/2a27ca42-8f47-11f1-81fd-005056a90284/w:1024/p:16x9/000-C2BA6T3.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-ad5c6d1b55e2",
+      "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
+      "description": "Juan Jesús Vivas says influx seen as ‘at least encouraged or permitted’ by Rabat, as Spain demands EU solidarityExplainer: why is Ceuta a migration flashpoint?A growing chorus of voices have accused Morocco of helping to fuel the crisis in Ceuta, with the leader of the Spanish enclave describing last week’s border cros…",
+      "url": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-03T14:13:01Z",
+      "image": "https://i.guim.co.uk/img/media/627df0859f4b87862448d1d2a1071cdb1861ff74/569_0_3388_2710/master/3388.jpg?width=140&quality=85&auto=format&fit=max&s=43ad1f825aacd0f09cd3d38da29a2965",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,22 +63,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-c90c0b6b843f",
-      "title": "Iran in talks with Oman over shipping but US negotiations on hold, says Tehran",
-      "description": "Iran discussing creation of temporary route through strait of Hormuz with its neighbour, says spokespersonMiddle East crisis live – latest updatesIran has been in discussion with Oman about the creation of a new temporary route through the strait of Hormuz that would allow commercial shipping to resume, but is not yet …",
-      "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-03T11:52:56Z",
-      "image": "https://i.guim.co.uk/img/media/80d64c7cd54b8c961b081fc5533e48b9135c77e5/129_0_1320_1056/master/1320.jpg?width=140&quality=85&auto=format&fit=max&s=f7808e3cc1cdd9c1fa39136d1a747dba",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -97,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "fra-66d16867bffa",
-      "title": "Sudan army drone strike kills 35 at Darfur court, rights group says",
-      "description": "The Sudanese army struck a traditional court in a Rapid Support Forces-held village in North Darfur with drones on Sunday, killing 35 people, a rights group said. Emergency Lawyers said the attack hit Garra al Zawaya as civilians gathered for local court hearings, wounding several others during the afternoon strike.",
-      "url": "https://www.france24.com/en/africa/20260803-sudan-darfur-drone-army-kill",
-      "source": "France24",
-      "publishedAt": "2026-08-03T01:30:16Z",
-      "image": "https://s.france24.com/media/display/8fc4ffbc-8edb-11f1-8f3b-005056bf30b7/w:1024/p:16x9/000-B8TT6ZQ.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -616978035db5",
       "title": "Trump now says he will halt Iran strikes, having reached outline to end war",
       "description": "President Donald Trump says he'll hold off on strikes he had threatened on against Iran, claiming allies reached the outline of a deal to end the war.",
@@ -119,21 +118,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-08-02T22:36:55Z",
       "image": "https://images.csmonitor.com/csm/2026/08/1216832_1_Trump_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -8b839bbb86ba",
-      "title": "In Barcelona, Russian and Ukrainian exiles cross paths at the baths: 'We don't talk about the war, not even at the banya'",
-      "description": "For the past year, traditional steam baths from Eastern Europe and Russia have been springing up across the Catalan capital. Popular with both Russians and Ukrainians – who arrived by the thousands on the Costa Brava at the start of the war in 2022 – the establishments have become an unexpected place for the two commun…",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/02/in-barcelona-russian-and-ukrainian-exiles-cross-paths-at-the-baths-we-don-t-talk-about-the-war-not-even-at-the-banya_6756093_117.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-02T18:30:01Z",
-      "image": "https://img.lemde.fr/2026/07/22/227/0/1125/562/644/322/60/0/7854c91_ftp-1-wekzjqobknow-436622-3488301.jpg",
       "categories": [
         "conflict"
       ],
@@ -172,6 +156,22 @@
       "tags": []
     },
     {
+      "id": "rfe-2b823096989d",
+      "title": "At Least 3 Killed, 21 Wounded In Moscow Restaurant Bombing, Russian Authorities Say",
+      "description": "Russian authorities said on August 2 that an improvised explosive device was detonated at a restaurant in central Moscow, killing three people and wounding 21 others, as investigators worked to determine who was behind the bombing.",
+      "url": "https://www.rferl.org/a/moscow-russia-restaurant-bombing--kudrinkskaya-square/33820153.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-02T08:47:27Z",
+      "image": "https://gdb.rferl.org/e7c851b0-cd04-4bc7-85e6-e7fd5fd28f9f_cx0_cy2_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "un -2e9456401188",
       "title": "Recovery in Ukraine, one life at a time",
       "description": "In classrooms, maternity wards, hospital corridors and local communities across Ukraine, people are rebuilding their lives despite the ongoing war.",
@@ -199,22 +199,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-64b87c972e34",
-      "title": "Memorial Held For Ukrainian Family Destroyed By Russian Missile",
-      "description": "Mourners made a makeshift memorial to members of the Voronov family, which was almost entirely wiped out by a Russian missile strike on the Ukrainian village of Radushne. Six out of the 10 family members were killed in the July 30 attack when the missile destroyed their home. Ukrainian President Volodymyr Zelenskyy sai…",
-      "url": "https://www.rferl.org/a/memorial-held-for-ukrainian-family-destroyed-by-russian-missile-/33819261.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-07-31T15:38:30Z",
-      "image": "https://gdb.rferl.org/b79eab5d-d28d-4038-33ec-08decd1f5434_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     }
   ]

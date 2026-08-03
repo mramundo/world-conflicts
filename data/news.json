@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-02T23:59:11Z",
+  "updated": "2026-08-03T03:45:42Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-e0f6b03006e3",
-      "title": "DeepSeek releases beta version of V4 models as AI price war heats up",
+      "id": "nik-02e750cb1189",
+      "title": "Taiwan security chief says China's 'hybrid warfare' tests whole region",
       "description": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-security-chief-says-china-s-hybrid-warfare-tests-whole-region",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-02T23:59:07Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F6%2F9%2F12929688-1-eng-GB%2Fdca30e3a3fe5-GettyImages-2272305138r.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-08-03T03:45:39Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F7%2F5%2F8%2F12928573-3-eng-GB%2Ff1ba712f41c3-CE531A8F-0F86-4117-9ACF-CAEAC4BA3611.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
@@ -106,6 +106,21 @@
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-38f761c6b502",
+      "title": "Three people killed in Moscow bombing",
+      "description": "A blast near the centre of Moscow has killed at least three people and injured 21 others. It happened at around 8pm local time, when a homemade explosive device detonated as a woman tried to enter a restaurant and was stopped by a security guard, according to Russia’s National Anti-Terrorist Committee. Both the woman a…",
+      "url": "https://www.france24.com/en/three-people-killed-in-moscow-bombing",
+      "source": "France24",
+      "publishedAt": "2026-08-02T08:41:16Z",
+      "image": "https://s.france24.com/media/display/444e34d6-8e4a-11f1-acbd-005056a97e36/w:1024/p:16x9/EN-20260802-090150-090249-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

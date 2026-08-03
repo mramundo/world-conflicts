@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T03:45:42Z",
+  "updated": "2026-08-03T07:29:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-security-chief-says-china-s-hybrid-warfare-tests-whole-region",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-03T03:45:39Z",
+      "publishedAt": "2026-08-03T07:29:03Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F7%2F5%2F8%2F12928573-3-eng-GB%2Ff1ba712f41c3-CE531A8F-0F86-4117-9ACF-CAEAC4BA3611.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-fbf11ac2f816",
+      "title": "Israel says it has serious concerns with Hamas disarmament deal",
+      "description": "President Trump announced proposed disarmament deal with Hamas last week. Israeli strikes overnight and into Sunday evening killed at least 17 people, including children, in Gaza.",
+      "url": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
+      "source": "NPR World",
+      "publishedAt": "2026-08-03T07:03:52Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F64%2F624ea45e4e7991aae5f5f203d17e%2Fap26214581608527.jpg",
       "categories": [
         "conflict"
       ],
@@ -80,6 +95,21 @@
       "tags": []
     },
     {
+      "id": "fra-ff77eaf48839",
+      "title": "At least 14 dead as Ukraine and Russia exchange strikes",
+      "description": "At least nine people were killed in Russia and five in Ukraine on Sunday as Kyiv and Moscow intensified long-range attacks on each other. US-led talks on ending the war in Ukraine have been effectively frozen since February, when the United States and Israel launched joint strikes on Iran.",
+      "url": "https://www.france24.com/en/europe/20260802-ukrainian-drone-strikes-kill-at-least-five-russia-set-another-wildberries-warehouse-ablaze",
+      "source": "France24",
+      "publishedAt": "2026-08-02T16:06:04Z",
+      "image": "https://s.france24.com/media/display/92b25eb8-8ea4-11f1-aebc-005056bf30b7/w:1024/p:16x9/2026-08-02T172717Z-905839662-RC2GQMA86Y5M-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-8cc100f996af",
       "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
       "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
@@ -110,21 +140,6 @@
       "tags": []
     },
     {
-      "id": "fra-38f761c6b502",
-      "title": "Three people killed in Moscow bombing",
-      "description": "A blast near the centre of Moscow has killed at least three people and injured 21 others. It happened at around 8pm local time, when a homemade explosive device detonated as a woman tried to enter a restaurant and was stopped by a security guard, according to Russia’s National Anti-Terrorist Committee. Both the woman a…",
-      "url": "https://www.france24.com/en/three-people-killed-in-moscow-bombing",
-      "source": "France24",
-      "publishedAt": "2026-08-02T08:41:16Z",
-      "image": "https://s.france24.com/media/display/444e34d6-8e4a-11f1-acbd-005056a97e36/w:1024/p:16x9/EN-20260802-090150-090249-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-8670a35886eb",
       "title": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
       "description": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
@@ -136,21 +151,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-aece072eccd7",
-      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
-      "description": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
-      "source": "NPR World",
-      "publishedAt": "2026-08-01T10:00:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F76%2F019a03fb4d6798d392d5616a960e%2Fnpr-lbn-diegoibarrrasanchez-001.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

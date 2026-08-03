@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-03T11:25:28Z",
+  "updated": "2026-08-03T14:42:34Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-security-chief-says-china-s-hybrid-warfare-tests-whole-region",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-03T11:25:23Z",
+      "publishedAt": "2026-08-03T14:42:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F7%2F5%2F8%2F12928573-3-eng-GB%2Ff1ba712f41c3-CE531A8F-0F86-4117-9ACF-CAEAC4BA3611.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -952243692dba",
+      "title": "Why genocide keeps repeating in Sudan",
+      "description": "The lack of international action after the atrocities in el-Geneina and el-Fasher has doomed el-Obeid.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/3/why-genocide-keeps-repeating-in-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-03T13:00:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-01-21T064116Z_1693370684_RC2NZIA8219R_RTRMADP_3_SUDAN-POLITICS-OBEID-ATTACKS-1785761834.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-c90c0b6b843f",
+      "title": "Iran in talks with Oman over shipping but US negotiations on hold, says Tehran",
+      "description": "Iran discussing creation of temporary route through strait of Hormuz with its neighbour, says spokespersonMiddle East crisis live – latest updatesIran has been in discussion with Oman about the creation of a new temporary route through the strait of Hormuz that would allow commercial shipping to resume, but is not yet …",
+      "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-03T11:52:56Z",
+      "image": "https://i.guim.co.uk/img/media/80d64c7cd54b8c961b081fc5533e48b9135c77e5/129_0_1320_1056/master/1320.jpg?width=140&quality=85&auto=format&fit=max&s=f7808e3cc1cdd9c1fa39136d1a747dba",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,21 +67,6 @@
       "tags": []
     },
     {
-      "id": "the-7f658436997a",
-      "title": "Russia blames Ukraine for deadly restaurant bombing in Moscow",
-      "description": "Foreign ministry accuses Kyiv of carrying out attack reports say may have been aimed at air force chiefEurope live – latest updatesRussia has blamed Ukraine for a bombing at a restaurant in central Moscow that killed five people, amid growing speculation that a senior Russian military commander was the intended target.…",
-      "url": "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-03T10:27:16Z",
-      "image": "https://i.guim.co.uk/img/media/6fa612725d1ece463b1bf373f8853dc985f51c3a/591_0_4268_3415/master/4268.jpg?width=140&quality=85&auto=format&fit=max&s=263416845adbd38e8095f5433aae1dc3",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-178372d88481",
       "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
       "description": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him \"a reason to hope\" for the first time since the military coup that ousted her in 2021.",
@@ -65,10 +82,10 @@
       "tags": []
     },
     {
-      "id": "the-98e910f4e6a3",
-      "title": "At Least 8 Killed in Overnight Ukrainian Attacks Across Russia and Crimea",
+      "id": "the-4f7c1357a4c6",
+      "title": "At Least 11 Killed in Ukrainian Attacks in Southern Russia and Annexed Crimea",
       "description": "In the central Vladimir region, drone strikes set a Wildberries warehouse ablaze, the latest attack in Ukraine’s campaign against the company.",
-      "url": "https://www.themoscowtimes.com/2026/08/03/at-least-8-killed-in-overnight-ukrainian-attacks-across-russia-and-crimea-a93397",
+      "url": "https://www.themoscowtimes.com/2026/08/03/at-least-11-killed-in-ukrainian-attacks-in-southern-russia-and-annexed-crimea-a93397",
       "source": "The Moscow Times",
       "publishedAt": "2026-08-03T07:44:00Z",
       "image": "https://static.themoscowtimes.com/image/og/88/93397__88d8730623c151b23fe6db66617469f1.jpg",
@@ -80,19 +97,18 @@
       "tags": []
     },
     {
-      "id": "al -276303d453b8",
-      "title": "The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?",
-      "description": "Court cases over new lodges have raised questions about protecting one of Africa’s greatest wildlife spectacles.",
-      "url": "https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-03T01:57:58Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2020/08/d10a027a11224610b8cd1fa9bf6f64bd_6.jpeg?resize=1200%2C630",
+      "id": "fra-66d16867bffa",
+      "title": "Sudan army drone strike kills 35 at Darfur court, rights group says",
+      "description": "The Sudanese army struck a traditional court in a Rapid Support Forces-held village in North Darfur with drones on Sunday, killing 35 people, a rights group said. Emergency Lawyers said the attack hit Garra al Zawaya as civilians gathered for local court hearings, wounding several others during the afternoon strike.",
+      "url": "https://www.france24.com/en/africa/20260803-sudan-darfur-drone-army-kill",
+      "source": "France24",
+      "publishedAt": "2026-08-03T01:30:16Z",
+      "image": "https://s.france24.com/media/display/8fc4ffbc-8edb-11f1-8f3b-005056bf30b7/w:1024/p:16x9/000-B8TT6ZQ.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -116,7 +132,7 @@
       "description": "For the past year, traditional steam baths from Eastern Europe and Russia have been springing up across the Catalan capital. Popular with both Russians and Ukrainians – who arrived by the thousands on the Costa Brava at the start of the war in 2022 – the establishments have become an unexpected place for the two commun…",
       "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/02/in-barcelona-russian-and-ukrainian-exiles-cross-paths-at-the-baths-we-don-t-talk-about-the-war-not-even-at-the-banya_6756093_117.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-02T18:30:04Z",
+      "publishedAt": "2026-08-02T18:30:01Z",
       "image": "https://img.lemde.fr/2026/07/22/227/0/1125/562/644/322/60/0/7854c91_ftp-1-wekzjqobknow-436622-3488301.jpg",
       "categories": [
         "conflict"
@@ -156,6 +172,21 @@
       "tags": []
     },
     {
+      "id": "un -2e9456401188",
+      "title": "Recovery in Ukraine, one life at a time",
+      "description": "In classrooms, maternity wards, hospital corridors and local communities across Ukraine, people are rebuilding their lives despite the ongoing war.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168053",
+      "source": "UN News",
+      "publishedAt": "2026-08-01T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/21-07-2026-UNICEF-Ukraine-01.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-539072c3fcc6",
       "title": "General Staff of AFU Reports 207 Combat Clashes in 24 Hours",
       "description": "The General Staff of the Armed Forces of Ukraine (AFU) reported 207 combat clashes over a 24-hour period on Friday, July 31, reporting heaviest fighting near Pokrovsk, where the AFU repelled 28 enemy attacks. Russian forces carried out 55 airstrikes and nearly 2,000 shellings nationwide.",
@@ -184,21 +215,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -d7fd78a2b4bc",
-      "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-      "description": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168062",
-      "source": "UN News",
-      "publishedAt": "2026-07-31T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/23-07-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     }
   ]

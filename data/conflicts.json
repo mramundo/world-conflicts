@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T07:29:17Z",
+  "updated": "2026-08-03T11:25:37Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-08-02T21:48:20Z",
   "items": [
@@ -45,9 +45,9 @@
         "Asymmetric"
       ],
       "wikipediaPage": "Gaza_war",
-      "lastUpdate": "2026-08-02",
-      "wikipediaRevision": "2026-08-02T11:55:46Z",
-      "recentNewsCount": 4
+      "lastUpdate": "2026-08-03",
+      "wikipediaRevision": "2026-08-03T10:45:44Z",
+      "recentNewsCount": 0
     },
     {
       "id": "sd-war",
@@ -89,7 +89,7 @@
       ],
       "wikipediaPage": "Myanmar_civil_war_(2021%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "ye-war",
@@ -131,9 +131,9 @@
         "Post-transition"
       ],
       "wikipediaPage": "Syrian_civil_war",
-      "lastUpdate": "2026-07-20",
+      "lastUpdate": "2026-08-03",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-07-20T21:40:24Z",
+      "wikipediaRevision": "2026-08-03T10:25:14Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 6
+      "recentNewsCount": 2
     },
     {
       "id": "et-am",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 5
+      "recentNewsCount": 1
     }
   ]
 }

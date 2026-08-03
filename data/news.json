@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-03T07:29:07Z",
+  "updated": "2026-08-03T11:25:28Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-security-chief-says-china-s-hybrid-warfare-tests-whole-region",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-03T07:29:03Z",
+      "publishedAt": "2026-08-03T11:25:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F7%2F5%2F8%2F12928573-3-eng-GB%2Ff1ba712f41c3-CE531A8F-0F86-4117-9ACF-CAEAC4BA3611.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,33 +20,79 @@
       "tags": []
     },
     {
-      "id": "npr-fbf11ac2f816",
-      "title": "Israel says it has serious concerns with Hamas disarmament deal",
-      "description": "President Trump announced proposed disarmament deal with Hamas last week. Israeli strikes overnight and into Sunday evening killed at least 17 people, including children, in Gaza.",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
-      "source": "NPR World",
-      "publishedAt": "2026-08-03T07:03:52Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F64%2F624ea45e4e7991aae5f5f203d17e%2Fap26214581608527.jpg",
+      "id": "bbc-15342dce030d",
+      "title": "Sudan army drone strike on court session kills 35, rights group says",
+      "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-03T10:29:24Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdf/live/fd37a7f0-8f1e-11f1-9a6b-afa7ab10ffdf.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -9d274177ea17",
-      "title": "Sudan army drone attack on Darfur kills 35, rights group says",
-      "description": "Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.",
-      "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-02T22:51:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-14T152421Z_809494607_RC2VWFA9SRKY_RTRMADP_3_SUDAN-CRISIS-UN-1785708763.jpg?resize=1920%2C1440",
+      "id": "the-7f658436997a",
+      "title": "Russia blames Ukraine for deadly restaurant bombing in Moscow",
+      "description": "Foreign ministry accuses Kyiv of carrying out attack reports say may have been aimed at air force chiefEurope live – latest updatesRussia has blamed Ukraine for a bombing at a restaurant in central Moscow that killed five people, amid growing speculation that a senior Russian military commander was the intended target.…",
+      "url": "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-03T10:27:16Z",
+      "image": "https://i.guim.co.uk/img/media/6fa612725d1ece463b1bf373f8853dc985f51c3a/591_0_4268_3415/master/4268.jpg?width=140&quality=85&auto=format&fit=max&s=263416845adbd38e8095f5433aae1dc3",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-178372d88481",
+      "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+      "description": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him \"a reason to hope\" for the first time since the military coup that ousted her in 2021.",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
+      "source": "NPR World",
+      "publishedAt": "2026-08-03T09:42:04Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/926x618+0+0/resize/926x618!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2F34%2F632edcdd4e97b949c0a2bee9aedd%2Fap26215176638512.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-98e910f4e6a3",
+      "title": "At Least 8 Killed in Overnight Ukrainian Attacks Across Russia and Crimea",
+      "description": "In the central Vladimir region, drone strikes set a Wildberries warehouse ablaze, the latest attack in Ukraine’s campaign against the company.",
+      "url": "https://www.themoscowtimes.com/2026/08/03/at-least-8-killed-in-overnight-ukrainian-attacks-across-russia-and-crimea-a93397",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-03T07:44:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/88/93397__88d8730623c151b23fe6db66617469f1.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -276303d453b8",
+      "title": "The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?",
+      "description": "Court cases over new lodges have raised questions about protecting one of Africa’s greatest wildlife spectacles.",
+      "url": "https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-03T01:57:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2020/08/d10a027a11224610b8cd1fa9bf6f64bd_6.jpeg?resize=1200%2C630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -95,36 +141,6 @@
       "tags": []
     },
     {
-      "id": "fra-ff77eaf48839",
-      "title": "At least 14 dead as Ukraine and Russia exchange strikes",
-      "description": "At least nine people were killed in Russia and five in Ukraine on Sunday as Kyiv and Moscow intensified long-range attacks on each other. US-led talks on ending the war in Ukraine have been effectively frozen since February, when the United States and Israel launched joint strikes on Iran.",
-      "url": "https://www.france24.com/en/europe/20260802-ukrainian-drone-strikes-kill-at-least-five-russia-set-another-wildberries-warehouse-ablaze",
-      "source": "France24",
-      "publishedAt": "2026-08-02T16:06:04Z",
-      "image": "https://s.france24.com/media/display/92b25eb8-8ea4-11f1-aebc-005056bf30b7/w:1024/p:16x9/2026-08-02T172717Z-905839662-RC2GQMA86Y5M-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-8cc100f996af",
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-02T15:50:59Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-61aa9e1adc68",
       "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
       "description": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the danger from Russia.",
@@ -136,36 +152,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-8670a35886eb",
-      "title": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
-      "description": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
-      "url": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-10-a93392",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-01T12:52:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/68/93392__68c2129e00970a8d1fdbf9d8f06abd13.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-860c295fd16d",
-      "title": "Middle East crisis: Trump says ‘Israel is very happy’ with Gaza peace plan but doesn’t say if withdrawal or Hamas disarmament comes first – as it happened",
-      "description": "The agreement is a ‘great breakthrough’, the president says in response to media questionsTrump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertainSaudi Arabia prepares sea and possible land offensive against HouthisAl Jazeera reporter Hani Mahmoud has reported the mood in Gaza this morni…",
-      "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-31T20:57:36Z",
-      "image": "https://i.guim.co.uk/img/media/4d6ae08cd990b7b3648e594492ee1bfaad798ac0/0_337_4163_3330/master/4163.jpg?width=140&quality=85&auto=format&fit=max&s=ef13e8e1520204ce59eef2a93f7e3d22",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

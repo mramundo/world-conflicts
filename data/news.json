@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-04T11:24:44Z",
+  "updated": "2026-08-04T14:19:21Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-04T11:24:40Z",
+      "publishedAt": "2026-08-04T14:19:17Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F9%2F7%2F12647943-1-eng-GB%2F4dc0d7c5b230-photo_SXM2026062300016062.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,33 +20,35 @@
       "tags": []
     },
     {
-      "id": "bbc-2b57d9598ea9",
-      "title": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
-      "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "id": "bbc-cd168e25b35d",
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-08-04T11:19:01Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad4f/live/138d6250-8fed-11f1-a10e-47119dd4425c.jpg",
+      "publishedAt": "2026-08-04T13:59:24Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f64/live/3c5e9520-8fff-11f1-9dfb-fd4408d16f2f.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-b901b8f40d32",
-      "title": "Ukraine strikes inside Russia as Moscow accused of increasingly brutal attacks",
-      "description": "Denmark's ambassador to the United Nations has said that Russian strikes have become more brutal. On August 4, the funeral of several Ukrainians killed in a Russian ballistic missile attack a week earlier, including three children, took place. On the other side of the border, what appeared to be a drone hit a busy beac…",
-      "url": "https://www.france24.com/en/ukraine-strikes-inside-russia-as-moscow-accused-of-increasingly-brutal-attacks",
-      "source": "France24",
-      "publishedAt": "2026-08-04T09:07:42Z",
-      "image": "https://s.france24.com/media/display/c899608e-8dba-11f1-b721-005056a97e36/w:1024/p:16x9/2026-08-01T110254Z-2117940969-RC2NPMARHQDS-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ODESA.jpg",
+      "id": "al -b3074e746ba9",
+      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
+      "description": "New diplomatic push undertaken as repeated ceasefire failures expose limits of mediation.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-04T12:21:41Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a71c2f000-1785840368.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian",
+        "analysis"
       ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
+      "relevanceScore": 8,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -76,22 +78,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -33697d428fc0",
-      "title": "Iran war live: Qatar says diplomatic efforts ongoing, vessel hit in Hormuz",
-      "description": "US president says talks with Iran are under way, warning the negotiations are Tehran&#039;s &#039;last chance&#039; to secure a deal.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-04T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T113328Z_550808116_RC26YLAA7FI9_RTRMADP_3_IRAN-CRISIS-GULF-CHINA-1785830231.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

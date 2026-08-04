@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-04T16:52:14Z",
+  "updated": "2026-08-04T18:38:56Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-04T16:52:10Z",
+      "publishedAt": "2026-08-04T18:38:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F9%2F7%2F12647943-1-eng-GB%2F4dc0d7c5b230-photo_SXM2026062300016062.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,32 @@
       "tags": []
     },
     {
-      "id": "the-bc3318069861",
-      "title": "US and Qatar report progress on Iran ceasefire and reopening Hormuz strait",
-      "description": "Optimism echoes Trump’s claims on Monday that deal is close as mediators say they are exchanging proposals Middle East crisis live – latest updatesUS and Qatari officials have said progress is being made in restoring a ceasefire in the US-Iran war and reopening the strait of Hormuz.The optimistic speculation on Tuesday…",
-      "url": "https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait",
+      "id": "the-e38362ed3d5c",
+      "title": "Mass funeral held in Gaza for victims of 2023 Israeli strike",
+      "description": "Remains of 112 victims, including 40 children, recovered from rubble more than two years after residential block was destroyedMourners gathered in central Gaza on Tuesday for a mass funeral for 112 people, including 40 children, who were killed in 2023 in one of the deadliest Israeli strikes of the Gaza war.Their bodie…",
+      "url": "https://www.theguardian.com/world/2026/aug/04/mass-funeral-gaza-victims-2023-israeli-strike",
       "source": "The Guardian",
-      "publishedAt": "2026-08-04T16:23:08Z",
-      "image": "https://i.guim.co.uk/img/media/528f3beb95d24d1edc6ab1b7ec3d003e3ae68f6a/857_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=cec4b8d1b020be544e1afb8d51511fe5",
+      "publishedAt": "2026-08-04T17:24:41Z",
+      "image": "https://i.guim.co.uk/img/media/e07c5354e30fd892612a788a85ca606a298f2e60/406_0_3913_3131/master/3913.jpg?width=140&quality=85&auto=format&fit=max&s=241b4dcba228cfb849293746086a6739",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -2588a318f5a8",
+      "title": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
+      "description": "Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-04T17:03:24Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-04T111736Z_293602034_RC2LRMATK4ZO_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-FUNERAL-1785845482.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,20 +65,18 @@
       "tags": []
     },
     {
-      "id": "al -b3074e746ba9",
-      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
-      "description": "New diplomatic push undertaken as repeated ceasefire failures expose limits of mediation.",
-      "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-04T12:21:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a71c2f000-1785840368.jpg?resize=1920%2C1440",
+      "id": "fra-4c86af499848",
+      "title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
+      "description": "Lebanon and Israel are holding a fresh round of direct talks in Rome under US sponsorship. It is the seventh such meeting since Hezbollah drew Lebanon into the Middle East war in March with rocket fire at Israel, which responded with heavy airstrikes and a ground invasion. The talks were criticised by the leader of Hez…",
+      "url": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
+      "source": "France24",
+      "publishedAt": "2026-08-04T14:33:50Z",
+      "image": "https://s.france24.com/media/display/33ca89d4-9011-11f1-bbd5-005056bfb2b6/w:1024/p:16x9/AP26216348535497.jpg",
       "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {

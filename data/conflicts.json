@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-03T23:02:43Z",
+  "updated": "2026-08-04T02:42:40Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-08-02T21:48:20Z",
+  "wikipediaListRevision": "2026-08-04T00:49:38Z",
   "items": [
     {
       "id": "ru-ua",
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-08-03",
       "wikipediaRevision": "2026-08-03T17:03:05Z",
-      "recentNewsCount": 5
+      "recentNewsCount": 4
     },
     {
       "id": "il-ps",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     }
   ]
 }

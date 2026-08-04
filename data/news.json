@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-04T20:26:12Z",
+  "updated": "2026-08-04T22:13:55Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-04T20:26:08Z",
+      "publishedAt": "2026-08-04T22:13:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F9%2F7%2F12647943-1-eng-GB%2F4dc0d7c5b230-photo_SXM2026062300016062.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4c8fa0ddbb67",
+      "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+      "description": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-04T21:11:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785877901.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-e98887e94f2d",
+      "title": "Ukraine Repels Russian Assaults Across 12 Frontline Axes on Tuesday",
+      "description": "The Armed Forces of Ukraine (AFU) repelled Russian assaults across multiple axes on Tuesday, Aug. 4, with the Pokrovsk axis seeing 23 attacks. Russian forces carried out 216 combat clashes, fired 6,428 kamikaze drones, and dropped 213 guided bombs (KABs), according to Ukraine's General Staff.",
+      "url": "https://www.kyivpost.com/post/81721",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-08-04T20:36:53Z",
+      "image": "https://static.kyivpost.com/storage/2026/06/03/d041d16a226a6183575de3af54c7ce7f.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,21 +80,6 @@
       "tags": []
     },
     {
-      "id": "al -2588a318f5a8",
-      "title": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
-      "description": "Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.",
-      "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-04T17:03:24Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-04T111736Z_293602034_RC2LRMATK4ZO_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-FUNERAL-1785845482.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-cd168e25b35d",
       "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
       "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
@@ -80,17 +95,18 @@
       "tags": []
     },
     {
-      "id": "fra-4c86af499848",
-      "title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
-      "description": "Lebanon and Israel are holding a fresh round of direct talks in Rome under US sponsorship. It is the seventh such meeting since Hezbollah drew Lebanon into the Middle East war in March with rocket fire at Israel, which responded with heavy airstrikes and a ground invasion. The talks were criticised by the leader of Hez…",
-      "url": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
-      "source": "France24",
-      "publishedAt": "2026-08-04T14:33:50Z",
-      "image": "https://s.france24.com/media/display/33ca89d4-9011-11f1-bbd5-005056bfb2b6/w:1024/p:16x9/AP26216348535497.jpg",
+      "id": "un -0e80783e5b7e",
+      "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
+      "description": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168077",
+      "source": "UN News",
+      "publishedAt": "2026-08-04T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-02-2024-UNRWA-Gaza-06.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -136,37 +152,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-5dff6bfe920f",
-      "title": "Zelensky Says Ukraine Will Push to End Russia’s War Before Winter",
-      "description": "Zelensky said Ukraine will work to create enough pressure to force Russia toward peace before winter, combining diplomacy, sanctions and medium- and long-range strikes. He cautioned that the timing cannot be guaranteed and accused Putin of preparing to prolong the war.",
-      "url": "https://www.kyivpost.com/post/81643",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-03T14:31:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/29/e049bfea820fa4518582c80032165aa8.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -3452358077c2",
-      "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
-      "description": "Israeli forces reportedly killed more than two dozen Palestinians in Gaza and violated Lebanese airspace more than 100 times over the weekend despite ongoing ceasefire agreements, UN agencies and peacekeepers said on Monday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168067",
-      "source": "UN News",
-      "publishedAt": "2026-08-03T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-01-2025-WHO-Gaza-02.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

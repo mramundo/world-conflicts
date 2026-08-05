@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-05T00:04:56Z",
+  "updated": "2026-08-05T04:11:04Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-05T00:04:52Z",
+      "publishedAt": "2026-08-05T04:11:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F9%2F7%2F12647943-1-eng-GB%2F4dc0d7c5b230-photo_SXM2026062300016062.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -36,6 +36,21 @@
       "tags": []
     },
     {
+      "id": "al -68f8d59fcb3f",
+      "title": "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
+      "description": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-04T23:24:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2288293310-1785890794.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "ans-dcb2c76eb851",
       "title": "Ecuador, nuove accuse sull'omicidio del candidato presidenziale Villavicencio",
       "description": "Ex ministro dell'Interno di Correa Serrano avrebbe fornito informazioni per attentato",
@@ -47,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -4c8fa0ddbb67",
-      "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
-      "description": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-04T21:11:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785877901.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -137,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-4c86af499848",
-      "title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
-      "description": "Lebanon and Israel are holding a fresh round of direct talks in Rome under US sponsorship. It is the seventh such meeting since Hezbollah drew Lebanon into the Middle East war in March with rocket fire at Israel, which responded with heavy airstrikes and a ground invasion. The talks were criticised by the leader of Hez…",
-      "url": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
-      "source": "France24",
-      "publishedAt": "2026-08-04T14:33:50Z",
-      "image": "https://s.france24.com/media/display/33ca89d4-9011-11f1-bbd5-005056bfb2b6/w:1024/p:16x9/AP26216348535497.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

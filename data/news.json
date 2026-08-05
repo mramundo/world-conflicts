@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T12:54:03Z",
+  "updated": "2026-08-05T15:14:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-hits-back-at-us-fcc-bans-with-sanctions-and-drone-curbs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-05T12:53:58Z",
+      "publishedAt": "2026-08-05T15:14:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F7%2F7%2F3%2F12943772-1-eng-GB%2F7ce61cb4c4a4-2026-05-14T013427Z_912292586_RC2P8LADKTO2_RTRMADP_3_CHINA-USA-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,34 @@
       "tags": []
     },
     {
-      "id": "al -2c86f4cb088f",
-      "title": "In Bandar Abbas, the ceasefire never came",
-      "description": "A single mother from Bandar Abbas reflects on the fear and resilience of living through repeated attacks.",
-      "url": "https://www.aljazeera.com/features/2026/8/5/in-bandar-abbas-the-ceasefire-never-came?traffic_source=rss",
+      "id": "al -c1ca5b9924ea",
+      "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
+      "description": "The reasons for dissent are not unanimous, ranging from the war in Iran to an overhaul of military leadership.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/why-are-us-republicans-losing-faith-in-war-secretary-pete-hegseth?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-05T12:14:16Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7318af-1785927855.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-05T13:48:22Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a732ace75dc-1785932494_6acf4e-1785933942.jpg?resize=1200%2C630&amp;quality=80",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-1d5a030736c8",
+      "title": "Nigeria's president orders a 80% salary increase for junior soldiers",
+      "description": "The announcement comes as Nigeria's security forces struggle to contain multiple threats.",
+      "url": "https://www.bbc.co.uk/news/articles/cj031jp3g6jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-05T12:52:19Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33e7/live/5c6833a0-90b1-11f1-b35a-3be58eca94a8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -123,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-bbcb0836a134",
-      "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
-      "description": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
-      "url": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-04T19:07:19Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bb4/live/1636a630-9036-11f1-b2ab-0dd01740f9f6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

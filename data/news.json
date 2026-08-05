@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-04T22:13:55Z",
+  "updated": "2026-08-05T00:04:56Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,8 +10,39 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-04T22:13:52Z",
+      "publishedAt": "2026-08-05T00:04:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F9%2F7%2F12647943-1-eng-GB%2F4dc0d7c5b230-photo_SXM2026062300016062.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-9d912ae00f63",
+      "title": "US Senator Rick Scott: Putin 'Underestimated Trump's Commitment To Freedom'",
+      "description": "In an interview with RFE/RL, Republican Senator Rick Scott said Russian President Vladimir Putin did not anticipate the strength of US support for Ukraine's war effort, adding that a new sanctions bill is meant to hold Russia accountable.",
+      "url": "https://www.rferl.org/a/united-states-senator-rick-scott-russia-putin/33821933.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-04T23:37:01Z",
+      "image": "https://gdb.rferl.org/46a4b20d-48ae-456d-45bd-08decacf94d0_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-dcb2c76eb851",
+      "title": "Ecuador, nuove accuse sull'omicidio del candidato presidenziale Villavicencio",
+      "description": "Ex ministro dell'Interno di Correa Serrano avrebbe fornito informazioni per attentato",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/ecuador-nuove-accuse-sullomicidio-del-candidato-presidenziale-villavicencio_3ea1c8cf-34b1-4d08-8afe-2275cfa7eb82.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-04T22:41:34Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/5/de6d6c7dfbc95904c8f0473ff164e949.jpg",
       "categories": [
         "conflict"
       ],
@@ -65,6 +96,21 @@
       "tags": []
     },
     {
+      "id": "le -24b12d891bd2",
+      "title": "A mirror of political violence: How a far-right activist was killed in Lyon",
+      "description": "Police questioned both left- and right-wing radical activists to retrace what happened the day Quentin Deranque, 23, was killed. Mimetic violence sprang from adrenaline and uncontrolled actions, devastating young people's lives.",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/04/a-mirror-of-political-violence-how-a-far-right-activist-was-killed-in-lyon_6756160_7.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-04T18:00:04Z",
+      "image": "https://img.lemde.fr/2026/07/31/423/0/3543/1771/644/322/60/0/25dfb80_upload-1-yolwem2lc23a-se-verin-deranque.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-e38362ed3d5c",
       "title": "Mass funeral held in Gaza for victims of 2023 Israeli strike",
       "description": "Remains of 112 victims, including 40 children, recovered from rubble more than two years after residential block was destroyedMourners gathered in central Gaza on Tuesday for a mass funeral for 112 people, including 40 children, who were killed in 2023 in one of the deadliest Israeli strikes of the Gaza war.Their bodie…",
@@ -95,6 +141,21 @@
       "tags": []
     },
     {
+      "id": "fra-4c86af499848",
+      "title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
+      "description": "Lebanon and Israel are holding a fresh round of direct talks in Rome under US sponsorship. It is the seventh such meeting since Hezbollah drew Lebanon into the Middle East war in March with rocket fire at Israel, which responded with heavy airstrikes and a ground invasion. The talks were criticised by the leader of Hez…",
+      "url": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
+      "source": "France24",
+      "publishedAt": "2026-08-04T14:33:50Z",
+      "image": "https://s.france24.com/media/display/33ca89d4-9011-11f1-bbd5-005056bfb2b6/w:1024/p:16x9/AP26216348535497.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "un -0e80783e5b7e",
       "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
       "description": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
@@ -111,21 +172,6 @@
       "tags": []
     },
     {
-      "id": "le -35ec79186995",
-      "title": "Israel intensifies Gaza strikes and reaffirms it will not withdraw before full Hamas disarmament",
-      "description": "After Donald Trump announced a plan on July 30 calling for the withdrawal of Israeli troops from the Palestinian enclave alongside Hamas's arsenal, Gaza experienced one of its deadliest days in recent weeks on August 2.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/04/israel-intensifies-gaza-strikes-and-reaffirms-it-will-not-withdraw-before-full-hamas-disarmament_6756139_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-04T08:38:42Z",
-      "image": "https://img.lemde.fr/2026/08/03/321/0/3857/1928/644/322/60/0/33749f4_ftp-1-333uvid84x0k-01d36d0797064ab2b1d0d61b4308a426-1-5fc9f293bb8e459381dee7961b4b428a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-4df9513292f9",
       "title": "At Least 5 Killed in Ukraine’s Latest Drone Attacks Against Wildberries",
       "description": "Moscow region authorities said another 10 people were injured in an overnight strike on a warehouse in the city of Chekov.",
@@ -137,21 +183,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-3b516ebcb6f2",
-      "title": "Zelensky, 'sanzioni contro le imprese dell'industria della difesa russa'",
-      "description": "Nell'elenco figura anche un'azienda ucraina",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/04/zelensky-sanzioni-contro-le-imprese-dellindustria-della-difesa-russa_1396869c-5ea9-4dde-bf22-19894ada493a.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-03T22:27:14Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/15/d018c4793e3157d588f3d7e96f7c2dfb.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -183,22 +214,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-2b823096989d",
-      "title": "At Least 3 Killed, 21 Wounded In Moscow Restaurant Bombing, Russian Authorities Say",
-      "description": "Russian authorities said on August 2 that an improvised explosive device was detonated at a restaurant in central Moscow, killing three people and wounding 21 others, as investigators worked to determine who was behind the bombing.",
-      "url": "https://www.rferl.org/a/moscow-russia-restaurant-bombing--kudrinkskaya-square/33820153.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-02T08:47:27Z",
-      "image": "https://gdb.rferl.org/e7c851b0-cd04-4bc7-85e6-e7fd5fd28f9f_cx0_cy2_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-05T19:37:16Z",
+  "updated": "2026-08-05T21:11:39Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-hits-back-at-us-fcc-bans-with-sanctions-and-drone-curbs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-05T19:37:11Z",
+      "publishedAt": "2026-08-05T21:11:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F7%2F7%2F3%2F12943772-1-eng-GB%2F7ce61cb4c4a4-2026-05-14T013427Z_912292586_RC2P8LADKTO2_RTRMADP_3_CHINA-USA-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-e9480d0556fb",
+      "title": "Israel is facing a shortage of army reservists",
+      "description": "Israel is facing a substantial shortage in troop numbers as reservists, exhausted from war, are failing to turn up for duty. Experts say Israel's multiple war fronts are putting a huge mental, political, and financial strain on reservists.",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5902952/israel-is-facing-a-shortage-of-army-reservists",
+      "source": "NPR World",
+      "publishedAt": "2026-08-05T20:22:49Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5902952",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-c837ad8e9a6c",
+      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-05T20:03:36Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3da5/live/f0bb6c60-90f8-11f1-b2ab-0dd01740f9f6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -110,21 +141,6 @@
         "humanitarian"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-1d5a030736c8",
-      "title": "Nigeria's president orders 80% salary increase for junior soldiers",
-      "description": "The announcement comes as Nigeria's security forces struggle to contain multiple threats.",
-      "url": "https://www.bbc.co.uk/news/articles/cj031jp3g6jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-05T12:52:19Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33e7/live/5c6833a0-90b1-11f1-b35a-3be58eca94a8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

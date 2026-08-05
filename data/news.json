@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T07:40:45Z",
+  "updated": "2026-08-05T10:37:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/transportation/cathay-books-best-1st-half-profit-since-2010-as-demand-cushions-war-impact",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-05T07:40:40Z",
+      "publishedAt": "2026-08-05T10:37:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F2%2F8%2F1%2F12941826-1-eng-GB%2F141e0ea683db-4Y0A793120250627-Hong-Kong_.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,74 @@
       "tags": []
     },
     {
-      "id": "le -4e9f919c68df",
-      "title": "More than 800,000 displaced Lebanese returning home after war, says UN",
-      "description": "The announcement on Tuesday came as Lebanon and Israel began a new round of US-sponsored talks in Rome aimed at ending the fighting, which are scheduled to run until Thursday.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/05/more-than-800-000-displaced-lebanese-returning-home-after-war-says-un_6756173_4.html",
+      "id": "fra-6452a9b8cc47",
+      "title": "Ukrainian capital lit up by massive overnight Russian strikes, killing 17",
+      "description": "At least two people were killed and a dozen more wounded in a Russian strike on Kyiv overnight. For several weeks, the Ukrainian capital has been the target of Russian missile and drone attacks that its air defences have struggled to repel. Ukraine has also increased its long-range attacks on Russia, with a growing num…",
+      "url": "https://www.france24.com/en/ukrainian-capital-lit-up-by-massive-overnight-russian-strikes-killing-17",
+      "source": "France24",
+      "publishedAt": "2026-08-05T09:51:46Z",
+      "image": "https://s.france24.com/media/display/a5fb5dae-90b0-11f1-b004-005056a90284/w:1024/p:16x9/AP26217188223210.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -e9a554ab7b4f",
+      "title": "Russian barrage on Kyiv kills 17 as Ukraine fails to down missiles",
+      "description": "'Ballistic interceptors are what could have saved the lives of those killed today,' Ukrainian President Volodymyr Zelensky said, as Kyiv seeks more US-made Patriot interceptors.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/05/russian-barrage-on-kyiv-kills-17-as-ukraine-fails-to-down-missiles_6756178_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-05T07:07:36Z",
-      "image": "https://img.lemde.fr/2026/07/29/448/0/5392/2696/644/322/60/0/0a7e7a0_ftp-1-kk3go2zbhizr-5728951-01-06.jpg",
+      "publishedAt": "2026-08-05T09:43:36Z",
+      "image": "https://img.lemde.fr/2026/08/05/227/0/4659/2329/644/322/60/0/00a5853_ftp-1-z08ia6sqvvdo-2026-08-05t083249z-105571333-rc28smaw2xv0-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-6aa8ec724fd2",
+      "title": "What Zelensky’s 40-Day Oil Campaign Achieved – and What It Didn’t",
+      "description": "Even though Russia has not been brought anywhere near to a ceasefire, Ukraine’s 40-day campaign has achieved one major goal. Russia’s strategic depth – the assumption that its refineries, its budget, and its own annexed peninsula sat safely behind the front line – no longer holds.",
+      "url": "https://www.kyivpost.com/analysis/81748",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-08-05T09:36:56Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/22/39af342b94d10297ef671bc08e12884f.png?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -83e128092c5f",
+      "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+      "description": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-05T09:16:39Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a72ed4cd89a-1785916748.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-cf0965341209",
+      "title": "La Cina annuncia contromisure contro le sanzioni Usa",
+      "description": "Pechino, 'più controlli sull'export di droni e di tecnologie chiave in America'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/05/la-cina-annuncia-contromisure-contro-le-sanzioni-usa_14371a2b-99f9-4788-9eac-1d033023e351.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-05T09:00:26Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/22/2fe0a209c1ef0918f1f0ad160d7391f8.jpg",
       "categories": [
         "conflict"
       ],
@@ -51,55 +112,10 @@
       "tags": []
     },
     {
-      "id": "al -68f8d59fcb3f",
-      "title": "Russian missile attack kills 14, injures 27 in Ukraine’s Kyiv region",
-      "description": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
-      "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-04T23:24:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2288293310-1785890794.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-dcb2c76eb851",
-      "title": "Ecuador, nuove accuse sull'omicidio del candidato presidenziale Villavicencio",
-      "description": "Ex ministro dell'Interno di Correa Serrano avrebbe fornito informazioni per attentato",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/05/ecuador-nuove-accuse-sullomicidio-del-candidato-presidenziale-villavicencio_3ea1c8cf-34b1-4d08-8afe-2275cfa7eb82.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-04T22:41:34Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/5/de6d6c7dfbc95904c8f0473ff164e949.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-e98887e94f2d",
-      "title": "Ukraine Repels Russian Assaults Across 12 Frontline Axes on Tuesday",
-      "description": "The Armed Forces of Ukraine (AFU) repelled Russian assaults across multiple axes on Tuesday, Aug. 4, with the Pokrovsk axis seeing 23 attacks. Russian forces carried out 216 combat clashes, fired 6,428 kamikaze drones, and dropped 213 guided bombs (KABs), according to Ukraine's General Staff.",
-      "url": "https://www.kyivpost.com/post/81721",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-04T20:36:53Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/03/d041d16a226a6183575de3af54c7ce7f.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-1cd484008e32",
-      "title": "New Gaza peace plan: Will US pressure Israel to accede?",
+      "id": "deu-fca93481ffdc",
+      "title": "Gaza peace plan: Will US pressure Israel to accept it?",
       "description": "Reports suggest US President Donald Trump would be \"very disappointed\" if Israel doesn't agree to a new peace plan for Gaza, announced last week. But how far would the US go to make that happen?",
-      "url": "https://www.dw.com/en/new-gaza-peace-plan-will-us-pressure-israel-to-accede/a-78237611?maca=en-rss-en-world-4025-rdf",
+      "url": "https://www.dw.com/en/gaza-peace-plan-will-us-pressure-israel-to-accept-it/a-78237611?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-08-04T19:48:00Z",
       "image": "https://static.dw.com/image/78229515_6.jpg",
@@ -137,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-4c86af499848",
-      "title": "Hezbollah rejects fresh round of talks between Lebanon and Israel",
-      "description": "Lebanon and Israel are holding a fresh round of direct talks in Rome under US sponsorship. It is the seventh such meeting since Hezbollah drew Lebanon into the Middle East war in March with rocket fire at Israel, which responded with heavy airstrikes and a ground invasion. The talks were criticised by the leader of Hez…",
-      "url": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
-      "source": "France24",
-      "publishedAt": "2026-08-04T14:33:50Z",
-      "image": "https://s.france24.com/media/display/33ca89d4-9011-11f1-bbd5-005056bfb2b6/w:1024/p:16x9/AP26216348535497.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

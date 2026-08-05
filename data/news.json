@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-05T17:40:05Z",
+  "updated": "2026-08-05T19:37:16Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-hits-back-at-us-fcc-bans-with-sanctions-and-drone-curbs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-05T17:40:00Z",
+      "publishedAt": "2026-08-05T19:37:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F7%2F7%2F3%2F12943772-1-eng-GB%2F7ce61cb4c4a4-2026-05-14T013427Z_912292586_RC2P8LADKTO2_RTRMADP_3_CHINA-USA-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,64 @@
       "tags": []
     },
     {
-      "id": "al -18f1ce55e04c",
-      "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
-      "description": "The violence comes amid talks between Lebanon and Israel as Beirut pushes for a phased Israeli troop withdrawal.",
-      "url": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-05T17:12:34Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7355b11ebf7-1785943473.jpg?resize=1920%2C1440",
+      "id": "ans-7e2331e395ab",
+      "title": "Accordo tra Iran e Oman sulle nuove rotte di Hormuz, l'ipotesi di una tregua",
+      "description": "Teheran: 'Gli Usa non ostacolino il processo'. Trump: 'Riaprite o reazione durissima'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/accordo-tra-iran-e-oman-sulle-nuove-rotte-di-hormuz-lipotesi-di-una_594e2920-4cc5-42ab-bff8-24241c6b3b0d.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-05T19:15:29Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/4/fce4437451dbafc16d2ebfb4522919be.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -b7b1c6a35912",
+      "title": "‘There were many of them, and the grass was tall’ – 505 nights under Russian fire",
+      "description": "Many soldiers in Ukraine are spending long periods on the front lines, as Ukraine struggles against Russia’s numerical advantage. One infantryman, in the trenches for nearly a year and a half straight, tells us his story.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0805/ukraine-russia-war-front-drone-dangers-fatigue?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-08-05T18:40:11Z",
+      "image": "https://images.csmonitor.com/csm/2026/08/1216984_4_0805%20OINFANTRYMAN%20soldiers.jpg_standard.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -78fe8367f51b",
+      "title": "Is the conflict between Russia and Ukraine deepening?",
+      "description": "The war sees a surge in attacks by both sides with little diplomatic movement.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-05T18:16:03Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785952818.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-85dd0c8daffa",
+      "title": "Israel strikes southern Lebanon killing one and injuring 11",
+      "description": "Hits on two towns among deadliest bombings since start of June ceasefire An Israeli airstrike in south Lebanon killed one person and injured 11, the Lebanese ministry of health said, in one of Israel’s deadliest bombings since the start of the June ceasefire.Israel carried out an airstrike in the town of Tebnine, south…",
+      "url": "https://www.theguardian.com/world/2026/aug/05/israel-strikes-southern-lebanon-deadliest-ceasefire",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-05T16:34:58Z",
+      "image": "https://i.guim.co.uk/img/media/64d8991f49e1d23d8c6b1a18d0295b0069f950d8/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5e14f5eeda5cb348ecef9e96eb2ce105",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -68,27 +115,12 @@
     },
     {
       "id": "bbc-1d5a030736c8",
-      "title": "Nigeria's president orders a 80% salary increase for junior soldiers",
+      "title": "Nigeria's president orders 80% salary increase for junior soldiers",
       "description": "The announcement comes as Nigeria's security forces struggle to contain multiple threats.",
       "url": "https://www.bbc.co.uk/news/articles/cj031jp3g6jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-08-05T12:52:19Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33e7/live/5c6833a0-90b1-11f1-b35a-3be58eca94a8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-54bf5915b87a",
-      "title": "Media, ferito in attentato l'ad di un'azienda russa che produce droni",
-      "description": "Vladimir Tkachuk, di Uraldronzavod, è in gravissime condizioni",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/05/media-ferito-in-attentato-lad-di-unazienda-russa-che-produce-droni_782a78cd-63bd-4887-ba80-eceee7432763.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-05T11:40:24Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/3/6ee852c9c0572283c52dc101bb1f5c79.jpg",
       "categories": [
         "conflict"
       ],
@@ -108,21 +140,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-88d00fdf0f96",
-      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
-      "description": "Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said.",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
-      "source": "NPR World",
-      "publishedAt": "2026-08-05T10:15:44Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8144x5424+0+0/resize/8144x5424!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F29%2F121117c84af4848c60ca37b68d81%2Fap26217188223210.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -173,21 +190,6 @@
       "tags": []
     },
     {
-      "id": "the-e38362ed3d5c",
-      "title": "Mass funeral held in Gaza for victims of 2023 Israeli strike",
-      "description": "Remains of 112 victims, including 40 children, recovered from rubble more than two years after residential block was destroyedMourners gathered in central Gaza on Tuesday for a mass funeral for 112 people, including 40 children, who were killed in 2023 in one of the deadliest Israeli strikes of the Gaza war.Their bodie…",
-      "url": "https://www.theguardian.com/world/2026/aug/04/mass-funeral-gaza-victims-2023-israeli-strike",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-04T17:24:41Z",
-      "image": "https://i.guim.co.uk/img/media/e07c5354e30fd892612a788a85ca606a298f2e60/406_0_3913_3131/master/3913.jpg?width=140&quality=85&auto=format&fit=max&s=241b4dcba228cfb849293746086a6739",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -0e80783e5b7e",
       "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
       "description": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
@@ -200,21 +202,6 @@
         "humanitarian"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -616978035db5",
-      "title": "Trump now says he will halt Iran strikes, having reached outline to end war",
-      "description": "President Donald Trump says he'll hold off on strikes he had threatened on against Iran, claiming allies reached the outline of a deal to end the war.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0802/iran-war-trump-strait-hormuz-saudi?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-08-02T22:36:55Z",
-      "image": "https://images.csmonitor.com/csm/2026/08/1216832_1_Trump_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     }

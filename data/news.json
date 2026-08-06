@@ -1,52 +1,67 @@
 {
-  "updated": "2026-08-06T05:50:37Z",
+  "updated": "2026-08-06T08:38:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-9dc0ae43724e",
-      "title": "China hits back at US FCC bans with sanctions and drone curbs",
+      "id": "nik-b1c3504842d5",
+      "title": "How the US-Iran war has redrawn Asia's energy map",
       "description": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-hits-back-at-us-fcc-bans-with-sanctions-and-drone-curbs",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/how-the-us-iran-war-has-redrawn-asia-s-energy-map",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-06T05:50:33Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F7%2F7%2F3%2F12943772-1-eng-GB%2F7ce61cb4c4a4-2026-05-14T013427Z_912292586_RC2P8LADKTO2_RTRMADP_3_CHINA-USA-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-08-06T08:38:48Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F0%2F7%2F12947063-1-eng-GB%2F1c5929fd32f1-2026-07-08T110350Z_828356349_RC2TVKAXZAWN_RTRMADP_3_OIL-RESEARCH-HSBC.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-25ea43ab2fe1",
+      "title": "Ukraine strikes Russian oil refineries as Moscow continues attacks on Ukrainian cities – Europe live",
+      "description": "Zelenskyy says military managed to hit two refineries in targeted attacks The head of a leading Russian drone manufacturer has been critically injured in a car bomb near Ekaterinburg, in what appears to be the latest in a series of assassination attempts targeting figures linked to the country’s war in Ukraine.Vladimir…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-06T08:15:42Z",
+      "image": "https://i.guim.co.uk/img/media/e6d719a577b1e315744273891f246e7a268d6e88/12_0_1709_1367/master/1709.jpg?width=140&quality=85&auto=format&fit=max&s=d1dc117e3fccf649dbf1bd43e2cde0a0",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -513555404979",
-      "title": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
-      "description": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+      "id": "al -65f012ce1a66",
+      "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
+      "description": "Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.",
+      "url": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-06T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2283372845-1-1785957176.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-06T07:36:56Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-06T064048Z_353293481_RC2USMAONN81_RTRMADP_3_UKRAINE-CRISIS-ATTACK-BALAKLIIA-1785999913.jpg?resize=1920%2C1367",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "bbc-c837ad8e9a6c",
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "description": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
       "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-08-05T20:03:36Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3da5/live/f0bb6c60-90f8-11f1-b2ab-0dd01740f9f6.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8d/live/b79b66f0-9167-11f1-8d49-afb9c19de776.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,21 +96,6 @@
       "tags": []
     },
     {
-      "id": "the-85dd0c8daffa",
-      "title": "Israel strikes southern Lebanon killing one and injuring 11",
-      "description": "Hits on two towns among deadliest bombings since start of June ceasefire An Israeli airstrike in south Lebanon killed one person and injured 11, the Lebanese ministry of health said, in one of Israel’s deadliest bombings since the start of the June ceasefire.Israel carried out an airstrike in the town of Tebnine, south…",
-      "url": "https://www.theguardian.com/world/2026/aug/05/israel-strikes-southern-lebanon-deadliest-ceasefire",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-05T16:34:58Z",
-      "image": "https://i.guim.co.uk/img/media/64d8991f49e1d23d8c6b1a18d0295b0069f950d8/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5e14f5eeda5cb348ecef9e96eb2ce105",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-3a1d5227a7fe",
       "title": "Can ‘Russia’s Amazon’ Survive Ukraine’s Drone Campaign?",
       "description": "Russia’s online retail sector has thrived since the invasion of Ukraine. The attacks on Wildberries now threaten to disrupt that growth.",
@@ -109,6 +109,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-64fdf86bf1b5",
+      "title": "Fears of renewed conflict in Ethiopia",
+      "description": "Military activity in and around the disputed city of Alamata has sparked concerns that the fragile peace that followed the 2020–2022 Tigray War could unravel.",
+      "url": "https://www.dw.com/en/fears-of-renewed-conflict-in-ethiopia/a-78242293?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-05T15:22:00Z",
+      "image": "https://static.dw.com/image/68940356_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -156,21 +171,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-fca93481ffdc",
-      "title": "Gaza peace plan: Will US pressure Israel to accept it?",
-      "description": "Reports suggest US President Donald Trump would be \"very disappointed\" if Israel doesn't agree to a new peace plan for Gaza, announced last week. But how far would the US go to make that happen?",
-      "url": "https://www.dw.com/en/gaza-peace-plan-will-us-pressure-israel-to-accept-it/a-78237611?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-04T19:48:00Z",
-      "image": "https://static.dw.com/image/78229515_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

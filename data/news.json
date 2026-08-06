@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T08:38:53Z",
+  "updated": "2026-08-06T11:24:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/how-the-us-iran-war-has-redrawn-asia-s-energy-map",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-06T08:38:48Z",
+      "publishedAt": "2026-08-06T11:24:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F0%2F7%2F12947063-1-eng-GB%2F1c5929fd32f1-2026-07-08T110350Z_828356349_RC2TVKAXZAWN_RTRMADP_3_OIL-RESEARCH-HSBC.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,32 @@
       "tags": []
     },
     {
-      "id": "the-25ea43ab2fe1",
-      "title": "Ukraine strikes Russian oil refineries as Moscow continues attacks on Ukrainian cities – Europe live",
-      "description": "Zelenskyy says military managed to hit two refineries in targeted attacks The head of a leading Russian drone manufacturer has been critically injured in a car bomb near Ekaterinburg, in what appears to be the latest in a series of assassination attempts targeting figures linked to the country’s war in Ukraine.Vladimir…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-06T08:15:42Z",
-      "image": "https://i.guim.co.uk/img/media/e6d719a577b1e315744273891f246e7a268d6e88/12_0_1709_1367/master/1709.jpg?width=140&quality=85&auto=format&fit=max&s=d1dc117e3fccf649dbf1bd43e2cde0a0",
+      "id": "ans-eb698dfb4d04",
+      "title": "Londra annuncia nuove sanzioni anti Mosca contro banche, navi e aziende",
+      "description": "Miliband, 'continua la pressione su Russia fino a pace giusta e duratura'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/londra-annuncia-nuove-sanzioni-anti-mosca-contro-banche-navi-e-aziende_86d318ca-82df-4faa-baa7-e3d0e406235d.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-06T10:18:33Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/4/bdb77d4096861f48673bf27494c0c69f.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -a6c5738c42a1",
+      "title": "Human rights organizations call for war crime probe into Israel's killing of Lebanese journalist",
+      "description": "According to Amnesty International and Human Rights Watch, the Israeli army had several indicators to identify Amal Khalil, a journalist for 'Al-Akhbar,' a left-wing daily close to Hezbollah, who was killed on April 22.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/06/human-rights-organizations-call-for-war-crime-probe-into-israel-s-killing-of-lebanese-journalist_6756211_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-06T09:41:30Z",
+      "image": "https://img.lemde.fr/2026/04/24/392/0/6000/3000/644/322/60/0/614e874_ftp-1-v6vz8ichyeju-8ae71fed82ff4195abfd78fa43e2998d-0-66e9270f9e164a6ba0522e73f232e065.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,6 +66,21 @@
       "tags": []
     },
     {
+      "id": "the-61f2f0b9504a",
+      "title": "Israeli strike that killed journalist in Lebanon was war crime, say rights groups",
+      "description": "Investigation by Human Rights Watch, Amnesty and Legal Agenda shows Israel deliberately attacked Amal Khalil and colleague Zeinab Faraj knowing they were civiliansAn Israeli strike that killed Lebanese journalist Amal Khalil and injured her colleague Zeinab Faraj in April was a war crime, three rights organisations sai…",
+      "url": "https://www.theguardian.com/world/2026/aug/06/israeli-strike-that-killed-journalist-in-lebanon-was-war-say-rights-groups",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-06T06:00:34Z",
+      "image": "https://i.guim.co.uk/img/media/c0f59b5d40857f2e6f30b24e7143b7982b40376a/0_750_3903_3122/master/3903.jpg?width=140&quality=85&auto=format&fit=max&s=729736b3dddb293f1737dbb84219f8b7",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-c837ad8e9a6c",
       "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
       "description": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
@@ -62,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-7e2331e395ab",
-      "title": "Accordo tra Iran e Oman sulle nuove rotte di Hormuz, l'ipotesi di una tregua",
-      "description": "Teheran: 'Gli Usa non ostacolino il processo'. Trump: 'Riaprite o reazione durissima'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/accordo-tra-iran-e-oman-sulle-nuove-rotte-di-hormuz-lipotesi-di-una_594e2920-4cc5-42ab-bff8-24241c6b3b0d.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-05T19:15:29Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/4/fce4437451dbafc16d2ebfb4522919be.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -123,22 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-fbc20322eca9",
-      "title": "Israel resumes military strikes on southern Lebanon as Rome hosts peace talks",
-      "description": "Israel again fired on southern Lebanon on Wednesday, blaming Hezbollah for violating a ceasefire, as US-backed negotiations in Rome sought to end months of cross-border hostilities. Lebanon said at least one person was killed in the attacks, while Israel issued its first evacuation alert in weeks for a southern town, u…",
-      "url": "https://www.france24.com/en/middle-east/20260805-israel-resumes-military-strikes-on-southern-lebanon-as-rome-hosts-peace-talks",
-      "source": "France24",
-      "publishedAt": "2026-08-05T15:20:14Z",
-      "image": "https://s.france24.com/media/display/04418a86-90df-11f1-a749-005056bfb2b6/w:1024/p:16x9/AP26217465863363.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

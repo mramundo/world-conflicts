@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T14:14:12Z",
+  "updated": "2026-08-07T00:40:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/how-the-us-iran-war-has-redrawn-asia-s-energy-map",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-06T14:14:09Z",
+      "publishedAt": "2026-08-07T00:40:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F0%2F7%2F12947063-1-eng-GB%2F1c5929fd32f1-2026-07-08T110350Z_828356349_RC2TVKAXZAWN_RTRMADP_3_OIL-RESEARCH-HSBC.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,19 +21,80 @@
       "tags": []
     },
     {
-      "id": "al -85893165d62f",
-      "title": "Will the US-Iran war and Hormuz deadlock last for months?",
-      "description": "Will the war on Iran and Hormuz deadlock last for months? Experts analyse the obstacles blocking a lasting deal.",
-      "url": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months?traffic_source=rss",
+      "id": "ans-379c1ac521c6",
+      "title": "Trump, 'Zelensky chiede i Patriot? Servono missili anche a noi'",
+      "description": "Il tycoon è però preoccupato per il crescente costo umano della guerra",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/trump-zelensky-chiede-i-patriot-servono-missili-anche-a-noi_53e443c5-3109-418a-8c78-24dd7ba9edaa.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-06T21:21:46Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/6/f6fac713fc271ec8c6e4ebaf6ff3b410.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -0fb4f590b27d",
+      "title": "How fragile is Lebanon’s uneasy peace?",
+      "description": "Israel goes on the attack after the first soldiers are killed since ceasefire began two months ago.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/6/how-fragile-is-lebanons-uneasy?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-06T13:13:25Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260727__C39X7AF__v1__HighRes__IranUsIsraelWar-1785375678.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-06T20:38:29Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260729__C3H23NZ__v2__HighRes__LebanonIsraelIranUsWar-1785391077.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 9,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-52b7270a043f",
+      "title": "How Ukraine is taking the war 'deeper' into Russia",
+      "description": "Ukrainian strikes have targeted key economic and military supply chains in recent weeks.",
+      "url": "https://www.bbc.co.uk/news/videos/ce8l6x3r9gjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-06T17:51:11Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c50/live/50689bd0-91bf-11f1-a7ab-8b30adf0800a.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -94c69c029158",
+      "title": "Houthi attack on Yemeni government troops reportedly kills at least 38",
+      "description": "Yemeni medical sources said it marks the the deadliest violence in years between the two sides as the conflict becomes the latest front in the US-Iran war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/06/houthi-attack-on-yemeni-government-troops-reportedly-kills-at-least-38_6756229_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-06T16:50:54Z",
+      "image": "https://img.lemde.fr/2026/07/31/363/0/5422/2711/644/322/60/0/a72293e_ftp-1-hpm2zztwqemj-2026-07-31t165529z-556853476-rc20pma1onp2-rtrmadp-3-iran-crisis-yemen-saudi.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-beb606022d16",
+      "title": "Lebanese journalist deliberately targeted by Israeli attack, probe reveals",
+      "description": "Three rights groups have released findings of a probe into the Israeli attack which killed Lebanese journalist Amal Khalil in April. The investigation by Human Rights Watch, Amnesty International and The Legal Agenda shows Israel deliberately targeted the 42-year-old and her camerawoman, who was wounded in the attack. …",
+      "url": "https://www.france24.com/en/lebanese-journalist-deliberately-targeted-by-israeli-attack-probe-reveals",
+      "source": "France24",
+      "publishedAt": "2026-08-06T12:35:15Z",
+      "image": "https://s.france24.com/media/display/1465422c-9193-11f1-aeeb-005056a90284/w:1024/p:16x9/AP26112774621554.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -53,51 +114,6 @@
       "tags": []
     },
     {
-      "id": "ans-eb698dfb4d04",
-      "title": "Londra annuncia nuove sanzioni anti Mosca contro banche, navi e aziende",
-      "description": "Miliband, 'continua la pressione su Russia fino a pace giusta e duratura'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/06/londra-annuncia-nuove-sanzioni-anti-mosca-contro-banche-navi-e-aziende_86d318ca-82df-4faa-baa7-e3d0e406235d.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-06T10:18:33Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/4/bdb77d4096861f48673bf27494c0c69f.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -a6c5738c42a1",
-      "title": "Human rights organizations call for war crime probe into Israel's killing of Lebanese journalist",
-      "description": "According to Amnesty International and Human Rights Watch, the Israeli army had several indicators to identify Amal Khalil, a journalist for 'Al-Akhbar,' a left-wing daily close to Hezbollah, who was killed on April 22.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/06/human-rights-organizations-call-for-war-crime-probe-into-israel-s-killing-of-lebanese-journalist_6756211_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-06T09:41:30Z",
-      "image": "https://img.lemde.fr/2026/04/24/392/0/6000/3000/644/322/60/0/614e874_ftp-1-v6vz8ichyeju-8ae71fed82ff4195abfd78fa43e2998d-0-66e9270f9e164a6ba0522e73f232e065.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-d2328547b9a8",
-      "title": "UN warns drone attacks have become leading cause of civilian death in Sudan",
-      "description": "The UN says drone attacks have become the leading cause of death in Sudan, accounting for 80% of civilian casualties during the first four months of 2026. Sudan plunged into all-out war in April 2023, between the paramilitary Rapid Support Forces (RSF) and the Sudanese military, leaving at least 59,000 people killed, a…",
-      "url": "https://www.france24.com/en/video/20260806-un-warns-drone-attacks-have-become-leading-cause-of-civilian-death-in-sudan",
-      "source": "France24",
-      "publishedAt": "2026-08-06T09:10:30Z",
-      "image": "https://s.france24.com/media/display/f7430e9e-9170-11f1-ae5d-005056a90284/w:1024/p:16x9/AP26105668493216.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-61f2f0b9504a",
       "title": "Israeli strike that killed journalist in Lebanon was war crime, say rights groups",
       "description": "Investigation by Human Rights Watch, Amnesty and Legal Agenda shows Israel deliberately attacked Amal Khalil and colleague Zeinab Faraj knowing they were civiliansAn Israeli strike that killed Lebanese journalist Amal Khalil and injured her colleague Zeinab Faraj in April was a war crime, three rights organisations sai…",
@@ -109,21 +125,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-c837ad8e9a6c",
-      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-      "description": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-05T20:03:36Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8d/live/b79b66f0-9167-11f1-8d49-afb9c19de776.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

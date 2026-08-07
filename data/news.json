@@ -1,23 +1,22 @@
 {
-  "updated": "2026-08-07T20:42:26Z",
+  "updated": "2026-08-07T21:40:30Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-b1c3504842d5",
-      "title": "How the US-Iran war has redrawn Asia's energy map",
-      "description": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/how-the-us-iran-war-has-redrawn-asia-s-energy-map",
-      "source": "Nikkei Asia",
-      "publishedAt": "2026-08-07T20:42:23Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F0%2F7%2F12947063-1-eng-GB%2F1c5929fd32f1-2026-07-08T110350Z_828356349_RC2TVKAXZAWN_RTRMADP_3_OIL-RESEARCH-HSBC.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "id": "kyi-9827a48f98a6",
+      "title": "Ukraine's General Staff Reports 192 Clashes on Friday",
+      "description": "The General Staff of the Armed Forces of Ukraine (AFU) reported 192 combat engagements as of 10 p.m. on Friday, Aug. 7, with Russian forces launching missile strikes, guided aerial bombs (KABs) and thousands of drone attacks. The Pokrovsk direction saw the most intense fighting, with 25 assaults recorded.",
+      "url": "https://www.kyivpost.com/post/81933",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-08-07T21:24:07Z",
+      "image": "https://static.kyivpost.com/storage/2026/02/20/0e7bd9d2a98ac3f325f1df89be2eda50.jpg?w=640&q=90&f=jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 11,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -108,21 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-25042c9e2069",
-      "title": "Military Shake-Up Poses Little Threat to Ukraine’s Drone Revolution",
-      "description": "From AI-powered combat robots to self-charging “mechanical birds,” Ukrainian engineers are rapidly reshaping the future of warfare. Despite political upheaval in Kyiv, drone developers and frontline troops say Ukraine’s defense-tech revolution has gained too much momentum to be reversed.",
-      "url": "https://www.kyivpost.com/post/81915",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-07T12:29:36Z",
-      "image": "https://static.kyivpost.com/storage/2026/08/07/d9360b1e48f0de841a919d5a48d8be36.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

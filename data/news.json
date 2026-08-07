@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T11:47:08Z",
+  "updated": "2026-08-07T13:07:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/how-the-us-iran-war-has-redrawn-asia-s-energy-map",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-07T11:47:02Z",
+      "publishedAt": "2026-08-07T13:07:28Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F0%2F7%2F12947063-1-eng-GB%2F1c5929fd32f1-2026-07-08T110350Z_828356349_RC2TVKAXZAWN_RTRMADP_3_OIL-RESEARCH-HSBC.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,9 +21,24 @@
       "tags": []
     },
     {
+      "id": "kyi-25042c9e2069",
+      "title": "Military Shake-Up Poses Little Threat to Ukraine’s Drone Revolution",
+      "description": "From AI-powered combat robots to self-charging “mechanical birds,” Ukrainian engineers are rapidly reshaping the future of warfare. Despite political upheaval in Kyiv, drone developers and frontline troops say Ukraine’s defense-tech revolution has gained too much momentum to be reversed.",
+      "url": "https://www.kyivpost.com/post/81915",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-08-07T12:29:36Z",
+      "image": "https://static.kyivpost.com/storage/2026/08/07/d9360b1e48f0de841a919d5a48d8be36.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -961e5f1ac885",
       "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-      "description": "Houthis&#039; expansion of cross-border attacks means an even bloodier war may be imminent, analysts say",
+      "description": "Houthis&#039; expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.",
       "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-07T11:11:10Z",
@@ -81,6 +96,21 @@
       "tags": []
     },
     {
+      "id": "the-0374a7333ec4",
+      "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+      "description": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight backAs the boat approached the riverbank, camouflaged figures watched from the tree line.Behind them, in the dim understory of the jungle, a commander of the National Libe…",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-07T07:00:11Z",
+      "image": "https://i.guim.co.uk/img/media/17daec3a063bfb18f9e3f7b656db205ba96b1529/679_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=2d83867820ee5e47a7222955650f829f",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-10b0c52b4c65",
       "title": "Why was Taiwan’s president evacuated in the middle of the night?",
       "description": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
@@ -129,17 +159,18 @@
       "tags": []
     },
     {
-      "id": "the-61f2f0b9504a",
-      "title": "Israeli strike that killed journalist in Lebanon was war crime, say rights groups",
-      "description": "Investigation by Human Rights Watch, Amnesty and Legal Agenda shows Israel deliberately attacked Amal Khalil and colleague Zeinab Faraj knowing they were civiliansAn Israeli strike that killed Lebanese journalist Amal Khalil and injured her colleague Zeinab Faraj in April was a war crime, three rights organisations sai…",
-      "url": "https://www.theguardian.com/world/2026/aug/06/israeli-strike-that-killed-journalist-in-lebanon-was-war-say-rights-groups",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-06T06:00:34Z",
-      "image": "https://i.guim.co.uk/img/media/c0f59b5d40857f2e6f30b24e7143b7982b40376a/0_750_3903_3122/master/3903.jpg?width=140&quality=85&auto=format&fit=max&s=729736b3dddb293f1737dbb84219f8b7",
+      "id": "un -a4b4df6eccc2",
+      "title": "Security Council LIVE: Warnings of famine and collapse as South Sudan's peace deal frays",
+      "description": "Nearly eight million people in South Sudan – more than half the population – face crisis-level hunger, with famine risk now flagged in four counties, as the Security Council met this morning in New York. A cholera outbreak has killed more than 1,700 people, and some aid workers are being killed and abducted even as the…",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168089",
+      "source": "UN News",
+      "publishedAt": "2026-08-06T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-UNOCHA-South-Sudan-01.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -175,21 +206,6 @@
       "tags": []
     },
     {
-      "id": "kyi-1b7512e956f4",
-      "title": "EU Chief Slams Russian ‘Atrocities’ After Kyiv Attack",
-      "description": "EU chief Ursula von der Leyen condemned Russia’s latest deadly attack on Kyiv and said Ukraine will receive another €1.4 billion in profits generated from frozen Russian assets. The funds are part of a broader EU effort to make Moscow pay for its war and support Ukraine’s defense.",
-      "url": "https://www.kyivpost.com/post/81756",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-05T10:21:51Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/15/6a90ae6a7bbc8ecf6748d3ca7a9077d9.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-9d912ae00f63",
       "title": "US Senator Rick Scott: Putin 'Underestimated Trump's Commitment To Freedom'",
       "description": "In an interview with RFE/RL, Republican Senator Rick Scott said Russian President Vladimir Putin did not anticipate the strength of US support for Ukraine's war effort, adding that a new sanctions bill is meant to hold Russia accountable.",
@@ -203,22 +219,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -0e80783e5b7e",
-      "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
-      "description": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168077",
-      "source": "UN News",
-      "publishedAt": "2026-08-04T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-02-2024-UNRWA-Gaza-06.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     }
   ]

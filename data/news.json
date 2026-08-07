@@ -1,9 +1,24 @@
 {
-  "updated": "2026-08-07T21:40:30Z",
+  "updated": "2026-08-07T22:37:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "le -7225bb99fa1f",
+      "title": "Zelensky makes landmark visit to Russia ally Serbia",
+      "description": "Ukrainian President Volodymyr Zelensky has toured much of the world since Russia's 2022 invasion seeking support, but has not visited Serbia since he became president in 2019.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/07/zelensky-makes-landmark-visit-to-russia-ally-serbia_6756275_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-07T21:58:14Z",
+      "image": "https://img.lemde.fr/2026/08/07/32/0/3000/1500/644/322/60/0/6336adf_ftp-1-abrso2c0re1k-2026-08-07t173332z-1633065686-rc2ttmam8k25-rtrmadp-3-ukraine-crisis-zelenskiy-serbia.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "kyi-9827a48f98a6",
       "title": "Ukraine's General Staff Reports 192 Clashes on Friday",
@@ -16,6 +31,21 @@
         "conflict"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-fbade28d6edd",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-07T20:40:56Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/0772b130-9297-11f1-b14c-9f5a94481d56.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "le -913283b273b3",
-      "title": "Saudi Arabia, Turkey and Pakistan sign joint defense pact",
-      "description": "Amid a regional war between the US and Iran and Houthi attacks from Yemen, Saudi Arabia, Turkey and Pakistan signed a joint defense accord, which claims to promote 'collective security' and 'peace, security and stability in the region.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/07/saudi-arabia-turkey-and-pakistan-sign-joint-defense-pact_6756265_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-07T14:30:57Z",
-      "image": "https://img.lemde.fr/2026/08/07/400/0/3844/1922/644/322/60/0/02ffe12_ftp-1-oaqtynt2shk4-9173614134e546c1a00af3cefccc344a-0-b4e07704e9cf435cbdfdfac29eea7f31.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-0374a7333ec4",
       "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
       "description": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight backAs the boat approached the riverbank, camouflaged figures watched from the tree line.Behind them, in the dim understory of the jungle, a commander of the National Libe…",
@@ -123,23 +138,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-10b0c52b4c65",
-      "title": "Why was Taiwan’s president evacuated in the middle of the night?",
-      "description": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
-      "url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-07T04:52:19Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/790d/live/48a9d250-921a-11f1-af4d-5164294a85c7.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     },
     {

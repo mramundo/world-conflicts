@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T03:50:12Z",
+  "updated": "2026-08-07T05:41:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/how-the-us-iran-war-has-redrawn-asia-s-energy-map",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-07T03:50:07Z",
+      "publishedAt": "2026-08-07T05:41:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F6%2F0%2F7%2F12947063-1-eng-GB%2F1c5929fd32f1-2026-07-08T110350Z_828356349_RC2TVKAXZAWN_RTRMADP_3_OIL-RESEARCH-HSBC.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,39 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-10b0c52b4c65",
+      "title": "Why was Taiwan’s president evacuated in the middle of the night?",
+      "description": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
+      "url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-07T04:52:19Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/790d/live/48a9d250-921a-11f1-af4d-5164294a85c7.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -6d3b8d7729e8",
+      "title": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
+      "description": "US president says he is involved in talks and war will end &#039;pretty soon&#039;, claiming that Iran cannot &#039;go much longer&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-06T23:34:47Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-21T100721Z_7779319_RC2WXLAGFUXI_RTRMADP_3_IRAN-CRISIS-1786059206.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -33,38 +66,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -0fb4f590b27d",
-      "title": "How fragile is Lebanon’s uneasy peace?",
-      "description": "Israel goes on the attack after the first soldiers are killed since ceasefire began two months ago.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/6/how-fragile-is-lebanons-uneasy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-06T20:38:29Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260729__C3H23NZ__v2__HighRes__LebanonIsraelIranUsWar-1785391077.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-52b7270a043f",
-      "title": "How Ukraine is taking the war 'deeper' into Russia",
-      "description": "Ukrainian strikes have targeted key economic and military supply chains in recent weeks.",
-      "url": "https://www.bbc.co.uk/news/videos/ce8l6x3r9gjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-06T17:51:11Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c50/live/50689bd0-91bf-11f1-a7ab-8b30adf0800a.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

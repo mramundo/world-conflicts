@@ -1,9 +1,54 @@
 {
-  "updated": "2026-08-08T12:51:45Z",
+  "updated": "2026-08-08T13:47:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "bbc-d56edb344975",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-08T13:29:38Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-767140ee5eb8",
+      "title": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease",
+      "description": "Four-year-old Taras, who now resides at a Minnesota sanctuary, was diagnosed with an often fatal infectionA lion that escaped the war in Ukraine after being found as a four-month-old cub inside a duffel bag at Odesa railway station is facing an even greater battle for survival in his new home in Minnesota from a rare a…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/ukrainian-lion-fights-fungal-disease",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-08T13:00:46Z",
+      "image": "https://i.guim.co.uk/img/media/cf66c14695c54ab16692a04eee41f66b379b3e14/0_0_7506_6009/master/7506.jpg?width=140&quality=85&auto=format&fit=max&s=c740d906d0c2c66584a959c765b3f0b2",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-7fb783f37731",
+      "title": "Saudi, Turkey, Pakistan pact comes amid US-Iran war fallout",
+      "description": "Saudi Arabia, Pakistan and Turkey signed a mutual defence pact on Friday that would treat any act of aggression on one of the three nations as an attack on all of them, the allies said in a joint statement. However, it did not specify if the agreement would bind them to any particular military action in each other's de…",
+      "url": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
+      "source": "France24",
+      "publishedAt": "2026-08-08T12:52:36Z",
+      "image": "https://s.france24.com/media/display/c0688b0c-9327-11f1-9210-005056bf30b7/w:1024/p:16x9/EN-20260808-131059-132149-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "al -4961d884c506",
       "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
@@ -25,28 +70,12 @@
       "description": "Bulgarian Prime Minister Rumen Radev said a drone carrying a 'significant' amount of explosives exploded near the Romanian border, causing no casualties.",
       "url": "https://www.lemonde.fr/en/international/article/2026/08/08/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border_6756290_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-08T12:25:51Z",
+      "publishedAt": "2026-08-08T12:25:49Z",
       "image": "https://img.lemde.fr/2026/08/08/452/0/5424/2712/644/322/60/0/9b89b53_ftp-1-we7xdruoxrup-2026-08-08t115356z-1282797557-rc2i9maw3h8j-rtrmadp-3-bulgaria-drone-explosion.JPG",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-08cda4b5676e",
-      "title": "Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky’s visit",
-      "description": "Ukraine’s President Volodymyr Zelensky is making his first official visit to Serbia, in a notable move given Belgrade’s close ties with Moscow and its refusal to impose sanctions on Russia. Zelensky is seeking to shore up international support as Russian strikes on Ukraine intensify. He met Serbian President Aleksandar…",
-      "url": "https://www.france24.com/en/video/20260808-serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit",
-      "source": "France24",
-      "publishedAt": "2026-08-08T10:34:40Z",
-      "image": "https://s.france24.com/media/display/fd7e667c-9306-11f1-b9da-005056bf30b7/w:1024/p:16x9/EN-20260808-090345-091156-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -64,21 +93,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-d56edb344975",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-08T06:12:56Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -112,33 +126,17 @@
       "tags": []
     },
     {
-      "id": "deu-530243cc9057",
-      "title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
+      "id": "deu-debb47dcfaf4",
+      "title": "Iran says a shipping accord with Oman is in its final stages, but analysts warn sanctions and conflicting US and Iranian goals could limit its impact.",
       "description": "Iran says a shipping accord with Oman is in its final stages, but analysts warn sanctions, security concerns and rival US-Iran goals could limit its impact.",
-      "url": "https://www.dw.com/en/how-viable-is-the-potential-iran-oman-hormuz-shipping-deal/a-78283434?maca=en-rss-en-world-4025-rdf",
+      "url": "https://www.dw.com/en/iran-says-a-shipping-accord-with-oman-is-in-its-final-stages-but-analysts-warn-sanctions-and-conflicting-us-and-iranian-goals-could-limit-its-impact/a-78283434?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-08-07T15:02:00Z",
       "image": "https://static.dw.com/image/78262407_6.jpg",
       "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-0374a7333ec4",
-      "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
-      "description": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight backAs the boat approached the riverbank, camouflaged figures watched from the tree line.Behind them, in the dim understory of the jungle, a commander of the National Libe…",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-07T14:00:32Z",
-      "image": "https://i.guim.co.uk/img/media/17daec3a063bfb18f9e3f7b656db205ba96b1529/679_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=2d83867820ee5e47a7222955650f829f",
-      "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

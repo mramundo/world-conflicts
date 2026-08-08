@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T23:35:13Z",
+  "updated": "2026-08-08T01:45:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -32,6 +32,22 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-362dbffc4a2f",
+      "title": "US Senate Passes Russia Sanctions Bill Targeting Moscow's Energy Revenues",
+      "description": "The US Senate on August 7 overwhelmingly approved legislation aimed at tightening economic pressure on Russia over its full-scale invasion of Ukraine.",
+      "url": "https://www.rferl.org/a/russia-ukraine-senate-trump-graham-sanctions/33824412.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-07T20:53:16Z",
+      "image": "https://gdb.rferl.org/c1f0226b-00cc-4bce-af8c-793c9c15ae5d_cx0_cy5_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -184,22 +200,6 @@
         "analysis"
       ],
       "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "rfe-9d912ae00f63",
-      "title": "US Senator Rick Scott: Putin 'Underestimated Trump's Commitment To Freedom'",
-      "description": "In an interview with RFE/RL, Republican Senator Rick Scott said Russian President Vladimir Putin did not anticipate the strength of US support for Ukraine's war effort, adding that a new sanctions bill is meant to hold Russia accountable.",
-      "url": "https://www.rferl.org/a/united-states-senator-rick-scott-russia-putin/33821933.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-04T23:37:01Z",
-      "image": "https://gdb.rferl.org/46a4b20d-48ae-456d-45bd-08decacf94d0_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": true,
       "tags": []
     }

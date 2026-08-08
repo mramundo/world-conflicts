@@ -1,9 +1,24 @@
 {
-  "updated": "2026-08-08T09:39:29Z",
+  "updated": "2026-08-08T10:35:06Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "fra-0c6439e7bdb2",
+      "title": "Saudi, Turkey, Pakistan: Deal for joint support amid regional war",
+      "description": "Saudi Arabia, Pakistan and Turkey signed a joint defence agreement in Mecca on Friday, aimed at strengthening collective deterrence. Under the pact, an armed attack on any one of the three countries would be considered an attack on all. Simon Moritz tells us more about what’s in the agreement.",
+      "url": "https://www.france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war",
+      "source": "France24",
+      "publishedAt": "2026-08-08T08:26:53Z",
+      "image": "https://s.france24.com/media/display/63dc6672-9301-11f1-8fc7-005056bfb2b6/w:1024/p:16x9/EN-20260808-091259-091446-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "rfe-0df5e3754194",
       "title": "Deserted Or Dead? Russian Military Saves Money By Declaring Missing Soldiers AWOL",
@@ -36,32 +51,32 @@
       "tags": []
     },
     {
-      "id": "al -c26c3defb731",
-      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-      "description": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
-      "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+      "id": "al -7b53249f1f12",
+      "title": "Russian strikes near Ukrainian capital kill three, including child",
+      "description": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-08T00:06:22Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26218679962056-1786142915.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -7225bb99fa1f",
-      "title": "Zelensky visits Serbia, ally of Russia",
-      "description": "Ukrainian President Volodymyr Zelensky has toured much of the world since Russia's 2022 invasion seeking support, but has not visited Serbia since he became president in 2019.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/07/zelensky-makes-landmark-visit-to-russia-ally-serbia_6756275_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-07T21:58:10Z",
-      "image": "https://img.lemde.fr/2026/08/07/32/0/3000/1500/644/322/60/0/6336adf_ftp-1-abrso2c0re1k-2026-08-07t173332z-1633065686-rc2ttmam8k25-rtrmadp-3-ukraine-crisis-zelenskiy-serbia.JPG",
+      "publishedAt": "2026-08-08T04:18:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-06T064048Z_353293481_RC2USMAONN81_RTRMADP_3_UKRAINE-CRISIS-ATTACK-BALAKLIIA-1785999913.jpg?resize=1920%2C1367",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -200cf78554ca",
+      "title": "Africa on the front line of Trump's toughened US migration policy",
+      "description": "By increasing, on August 3, the required bond amount for visa applicants from 50 countries – including 30 in Africa – the US is continuing to tighten its migration policy toward the continent.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/08/africa-on-the-front-line-of-trump-s-toughened-us-migration-policy_6756278_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-08T00:03:08Z",
+      "image": "https://img.lemde.fr/2026/08/07/71/0/6000/3000/644/322/60/0/c9121c1_upload-1-17tcmaguycbf-063-2268615203.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

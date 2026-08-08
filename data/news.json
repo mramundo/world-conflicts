@@ -1,9 +1,24 @@
 {
-  "updated": "2026-08-08T20:31:47Z",
+  "updated": "2026-08-08T21:32:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "ans-4606bc098d55",
+      "title": "Zelensky, 'la Corea del Nord invierà fino a 50.000 soldati in Russia'",
+      "description": "'Pyongyang acquisirà esperienza nella guerra moderna sotto la guida di Mosca'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/zelensky-la-corea-del-nord-inviera-fino-a-50.000-soldati-in-russia_84c8b8a8-83b5-41e4-91ea-fb52f662ab7b.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-08T21:23:24Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/8/ee971128e4d926abf18f059573a55bdf.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "fra-bb51ba3b9a58",
       "title": "Ukraine braces for winter power crisis after Russian strikes, Zelensky says",
@@ -63,21 +78,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-40e15242d533",
-      "title": "Ucrania: El león rescatado de la guerra en Ucrania y llevado a EEUU está enfermo",
-      "description": "Taras fue rescatada por un veterinario estadounidense en 2022 en Odesa.",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/ucrania-el-leon-rescatado-de-la-guerra-en-ucrania-y-llevado-a-eeuu-esta-enfermo_d8cdd62a-b087-4a24-84d4-759fcc45df5e.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-08T14:55:37Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/8/56ae25c2a5bb698d42f1096157a96a9e.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

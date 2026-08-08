@@ -1,9 +1,24 @@
 {
-  "updated": "2026-08-08T13:47:10Z",
+  "updated": "2026-08-08T14:32:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "ans-87ea16c606b5",
+      "title": "Il leone salvato dalla guerra in Ucraina e portato negli Usa è malato",
+      "description": "Taras fu salvato da un veterinario americano nel 2022 a Odessa",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/08/il-leone-salvato-dalla-guerra-in-ucraina-e-portato-negli-usa-e-malato_39be0ddc-479d-4d88-b036-20e2469ffc15.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-08T14:20:13Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/8/56ae25c2a5bb698d42f1096157a96a9e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "bbc-d56edb344975",
       "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -111,33 +126,19 @@
       "tags": []
     },
     {
-      "id": "ans-8b394e101f24",
-      "title": "Zelensky plaude alle nuove sanzioni Usa, 'così si aumenta la pressione su Mosca'",
-      "description": "'Apprezziamo il sostegno degli Stati Uniti, di entrambi i partiti e degli americani'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/07/zelensky-plaude-alle-nuove-sanzioni-usa-cosi-si-aumenta-la-pressione-su-mosca_b92715b0-711e-4426-9762-e3f8828afa3b.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-07T20:35:32Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/27/6ed68902abd9de552a81df509a87438e.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-debb47dcfaf4",
-      "title": "Iran says a shipping accord with Oman is in its final stages, but analysts warn sanctions and conflicting US and Iranian goals could limit its impact.",
+      "id": "deu-530243cc9057",
+      "title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
       "description": "Iran says a shipping accord with Oman is in its final stages, but analysts warn sanctions, security concerns and rival US-Iran goals could limit its impact.",
-      "url": "https://www.dw.com/en/iran-says-a-shipping-accord-with-oman-is-in-its-final-stages-but-analysts-warn-sanctions-and-conflicting-us-and-iranian-goals-could-limit-its-impact/a-78283434?maca=en-rss-en-world-4025-rdf",
+      "url": "https://www.dw.com/en/how-viable-is-the-potential-iran-oman-hormuz-shipping-deal/a-78283434?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-08-07T15:02:00Z",
       "image": "https://static.dw.com/image/78262407_6.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {

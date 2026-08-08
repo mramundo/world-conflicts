@@ -1,9 +1,25 @@
 {
-  "updated": "2026-08-08T06:56:20Z",
+  "updated": "2026-08-08T07:52:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "rfe-0df5e3754194",
+      "title": "Deserted Or Dead? Russian Military Saves Money By Declaring Missing Soldiers AWOL",
+      "description": "The Russian state entices men to fight in the war on Ukraine by offering high wages and relatively generous benefits. But relatives and activists say the military often avoids paying what it owes by declaring soldiers AWOL despite the likelihood that they have been killed, captured, or gone missing.",
+      "url": "https://www.rferl.org/a/russia-awol-fake-military-deception-missing/33823408.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-08T07:44:34Z",
+      "image": "https://gdb.rferl.org/09870000-0aff-0242-2cca-08da954b1c30_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "bbc-d56edb344975",
       "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -62,22 +78,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-362dbffc4a2f",
-      "title": "US Senate Passes Russia Sanctions Bill Targeting Moscow's Energy Revenues",
-      "description": "The US Senate on August 7 overwhelmingly approved legislation aimed at tightening economic pressure on Russia over its full-scale invasion of Ukraine.",
-      "url": "https://www.rferl.org/a/russia-ukraine-senate-trump-graham-sanctions/33824412.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-07T20:53:16Z",
-      "image": "https://gdb.rferl.org/c1f0226b-00cc-4bce-af8c-793c9c15ae5d_cx0_cy5_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

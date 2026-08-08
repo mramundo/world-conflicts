@@ -1,17 +1,32 @@
 {
-  "updated": "2026-08-08T11:30:06Z",
+  "updated": "2026-08-08T12:51:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "le -149845c3d51c",
-      "title": "Ukraine's Zelensky visits Russian ally Serbia as Moscow pounds Kyiv",
-      "description": "Serbia is historically close to Russia and has refused to sanction Moscow.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/08/ukraine-s-zelensky-visits-russian-ally-serbia-as-moscow-pounds-kyiv_6756275_5.html",
+      "id": "al -4961d884c506",
+      "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+      "description": "The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv is now entangling NATO nations.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-08T12:30:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a73478b20c8-1785939851.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -349f1bfdbc32",
+      "title": "Drone enters Bulgaria, explodes near pipeline at Romanian border",
+      "description": "Bulgarian Prime Minister Rumen Radev said a drone carrying a 'significant' amount of explosives exploded near the Romanian border, causing no casualties.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/08/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border_6756290_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-08T10:41:05Z",
-      "image": "https://img.lemde.fr/2026/08/08/504/0/6056/3028/644/322/60/0/a66d352_ftp-1-cl2q2rbk1jke-0619851f55214eb2a912992d971bcd41-0-970b366921014c52a523c7a5288eef35.jpg",
+      "publishedAt": "2026-08-08T12:25:51Z",
+      "image": "https://img.lemde.fr/2026/08/08/452/0/5424/2712/644/322/60/0/9b89b53_ftp-1-we7xdruoxrup-2026-08-08t115356z-1282797557-rc2i9maw3h8j-rtrmadp-3-bulgaria-drone-explosion.JPG",
       "categories": [
         "conflict"
       ],
@@ -63,21 +78,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7b53249f1f12",
-      "title": "Russian strikes near Ukrainian capital kill three, including child",
-      "description": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
-      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-08T04:18:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-06T064048Z_353293481_RC2USMAONN81_RTRMADP_3_UKRAINE-CRISIS-ATTACK-BALAKLIIA-1785999913.jpg?resize=1920%2C1367",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

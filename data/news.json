@@ -1,16 +1,32 @@
 {
-  "updated": "2026-08-09T18:42:48Z",
+  "updated": "2026-08-09T19:34:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -3c670cf72bb0",
+      "title": "Can the Doha Framework end the conflict in eastern DRC?",
+      "description": "Kinshasa hands over 15 prisoners to powerful rebel alliance.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-09T19:07:35Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786299364.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "the-85d9fc253534",
       "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
       "description": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. The Israeli military “will not carry out any withdrawal until H…",
       "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-08-09T18:12:27Z",
+      "publishedAt": "2026-08-09T18:55:42Z",
       "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
       "categories": [
         "conflict"
@@ -50,19 +66,18 @@
       "tags": []
     },
     {
-      "id": "al -61f2c077a740",
-      "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
-      "description": "As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-09T14:26:30Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/getty_694ecb8d1e-1766771597.jpg?resize=1920%2C1440",
+      "id": "the-0a394bc04ff7",
+      "title": "5 Killed in Ukrainian Drone Attack on Belgorod, Russia Says",
+      "description": "Russia's Defense Ministry said it had destroyed more than 150 Ukrainian drones over the European part of the country.",
+      "url": "https://www.themoscowtimes.com/2026/08/09/3-killed-in-ukrainian-drone-attack-on-belgorodrussia-says-a93443",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-09T13:50:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/04/93443__042299d9de4dae3b82073c165a1041e7.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": true,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -92,21 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-0a394bc04ff7",
-      "title": "3 Killed in Ukrainian Drone Attack on Belgorod, Russia Says",
-      "description": "Russia's Defense Ministry said it had destroyed more than 150 Ukrainian drones over the European part of the country.",
-      "url": "https://www.themoscowtimes.com/2026/08/09/3-killed-in-ukrainian-drone-attack-on-belgorodrussia-says-a93443",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-09T09:43:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/04/93443__042299d9de4dae3b82073c165a1041e7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

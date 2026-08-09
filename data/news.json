@@ -1,9 +1,39 @@
 {
-  "updated": "2026-08-09T14:36:03Z",
+  "updated": "2026-08-09T15:32:54Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "the-85d9fc253534",
+      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+      "description": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. The Israeli military “will not carry out any withdrawal until H…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-09T15:21:18Z",
+      "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-ec320b99012a",
+      "title": "North Korea may deploy up to 50,000 troops to Russia, Zelensky claims",
+      "description": "Ukrainian President Volodymyr Zelensky said Saturday that as many as 50,000 North Korean soldiers could be deployed to Russia, reflecting growing military cooperation between the two countries. He did not elaborate on his sources for this information, but warned that Pyongyang could gain valuable battlefield experience…",
+      "url": "https://www.france24.com/en/europe/20260809-zelensky-claims-north-korea-may-deploy-50-000-troops-russia",
+      "source": "France24",
+      "publishedAt": "2026-08-09T14:58:11Z",
+      "image": "https://s.france24.com/media/display/33771678-93fe-11f1-8eb9-005056a90284/w:1024/p:16x9/000-98YT8CQ.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "al -61f2c077a740",
       "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
@@ -32,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-6c61fead8ba7",
-      "title": "Yemen’s Houthis claim responsibility for attack on Saudi oil refinery",
-      "description": "Drone strike comes after Riyadh signs defence pact and Iran issues tough demands to reopen strait of HormuzMiddle East crisis live – latest updatesYemen’s Tehran-aligned Houthis have claimed responsibility for an attack on a refinery in Saudi Arabia, two days after the kingdom signed ⁠a defence pact with Turkey ⁠and Pa…",
-      "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-09T12:29:39Z",
-      "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

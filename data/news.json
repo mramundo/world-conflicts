@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-09T17:32:46Z",
+  "updated": "2026-08-09T18:42:48Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. The Israeli military “will not carry out any withdrawal until H…",
       "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-08-09T17:17:39Z",
+      "publishedAt": "2026-08-09T18:12:27Z",
       "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -6527ccec0daf",
+      "title": "Cyprus natural gas will help supply Europe by first half of 2028, official says",
+      "description": "The East Mediterranean is becoming an alternative energy source for Europe as Russia’s war in Ukraine and Middle East upheaval push Europe to find new sources.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0809/cyprus-natural-gas-europe?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-08-09T18:01:55Z",
+      "image": "https://images.csmonitor.com/csm/2026/08/1217242_1_Cyprus.jpg_standard.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "ans-8d4b083c2748",
-      "title": "Ucraina, colpite nella notte Odessa e Kharkiv.&nbsp; Il Papa: 'Basta violenze, spazio alla diplomazia'",
-      "description": "Leone XIV all'Angelus: \"Ancora vittime civili, si rispetti il diritto umanitario\". A Belgorod il raid dei droni ucraini, 13 feriti tra cui 2 bambini. Bild: la Germania ha espulso 400 russi dall'inizio della guerra",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/09/ucraina-colpite-nella-notte-odessa-e-kharkiv.nbsp-il-papa-basta-violenze-spazio_7438b242-98a9-4bf4-87f6-9f68cf124c64.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-09T11:19:20Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/9/40b879143686a576a215ce80e5472197.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-c08489ab6bbb",
       "title": "Russian Strike on Zhytomyr Injures 3 Civilians",
       "description": "A Russian attack on the Zhytomyr region on Aug. 9 injured three civilians and caused fires at civilian infrastructure and private property. This latest strike comes amid a week-long Russian bombardment. President Volodymyr Zelensky reported that over the past week, Russia deployed 61 missiles, more than 1,560 attack dr…",
@@ -107,6 +107,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-4606bc098d55",
+      "title": "Zelensky, 'la Corea del Nord invierà fino a 50.000 soldati in Russia'",
+      "description": "'Pyongyang acquisirà esperienza nella guerra moderna sotto la guida di Mosca'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/08/zelensky-la-corea-del-nord-inviera-fino-a-50.000-soldati-in-russia_84c8b8a8-83b5-41e4-91ea-fb52f662ab7b.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-08T21:23:24Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/8/ee971128e4d926abf18f059573a55bdf.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

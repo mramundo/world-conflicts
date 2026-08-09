@@ -1,9 +1,24 @@
 {
-  "updated": "2026-08-09T11:30:41Z",
+  "updated": "2026-08-09T12:54:23Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "the-85d9fc253534",
+      "title": "Middle East crisis live: Netanyahu rejects US’s Gaza plan and vows no withdrawal until Hamas disarms",
+      "description": "Israel prime minister says he will not support 15-point plan hailed by Donald TrumpAttacks by Iran-backed Houthi rebels in Yemen killed at least four troops from the internationally-recognised government forces and injured 20 more personnel, two military sources told AFP.The initial toll came from strikes on the Yemeni…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-09T12:28:17Z",
+      "image": "https://i.guim.co.uk/img/media/c83b4d0b48941cb84bb6e5152cbb19e557aca147/591_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=245d14a8ebb88a7db295dcc65e3d9b16",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "ans-8d4b083c2748",
       "title": "Ucraina, colpite nella notte Odessa e Kharkiv.&nbsp; Il Papa: 'Basta violenze, spazio alla diplomazia'",
@@ -81,6 +96,21 @@
       "tags": []
     },
     {
+      "id": "fra-bb51ba3b9a58",
+      "title": "Ukraine braces for winter power crisis after Russian strikes, Zelensky says",
+      "description": "Ukrainian President Volodymyr Zelensky warned Saturday that Ukraine faces a winter with virtually no working thermal power plants after overnight Russian strikes killed four people, including a three-year-old child. Speaking in Belgrade, he said the latest attacks and shelling of frontline communities had killed 13 peo…",
+      "url": "https://www.france24.com/en/europe/20260808-ukraine-braces-for-winter-power-crisis-after-russian-strikes-zelensky-says",
+      "source": "France24",
+      "publishedAt": "2026-08-08T19:48:21Z",
+      "image": "https://s.france24.com/media/display/bc77dfa2-9345-11f1-9350-005056bfb2b6/w:1024/p:16x9/24b7f8acc7fd12ece7e4cec9c2cef31eaa8407c4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-d56edb344975",
       "title": "Child among three killed in Russian missile attacks near Kyiv",
       "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
@@ -143,33 +173,17 @@
       "tags": []
     },
     {
-      "id": "the-0374a7333ec4",
-      "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
-      "description": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight backAs the boat approached the riverbank, camouflaged figures watched from the tree line.Behind them, in the dim understory of the jungle, a commander of the National Libe…",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-07T14:00:32Z",
-      "image": "https://i.guim.co.uk/img/media/17daec3a063bfb18f9e3f7b656db205ba96b1529/679_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=2d83867820ee5e47a7222955650f829f",
+      "id": "un -b32df064668d",
+      "title": "‘Sudan is losing another generation’ to war, Mohammed warns",
+      "description": "More than 1,000 days of war in Sudan have left millions of children out of school, displaced or exposed to grave violations, the UN Deputy Secretary-General said on Friday, calling for renewed action to end the conflict.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168101",
+      "source": "UN News",
+      "publishedAt": "2026-08-07T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/12-11-2025-UNICEF-Sudan-02.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -a4b4df6eccc2",
-      "title": "Security Council LIVE: Warnings of famine and collapse as South Sudan's peace deal frays",
-      "description": "Nearly eight million people in South Sudan – more than half the population – face crisis-level hunger, with famine risk now flagged in four counties, as the Security Council met this morning in New York. A cholera outbreak has killed more than 1,700 people, and some aid workers are being killed and abducted even as the…",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168089",
-      "source": "UN News",
-      "publishedAt": "2026-08-06T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-UNOCHA-South-Sudan-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     }

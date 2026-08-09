@@ -1,21 +1,52 @@
 {
-  "updated": "2026-08-09T12:54:23Z",
+  "updated": "2026-08-09T13:50:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "the-85d9fc253534",
-      "title": "Middle East crisis live: Netanyahu rejects US’s Gaza plan and vows no withdrawal until Hamas disarms",
-      "description": "Israel prime minister says he will not support 15-point plan hailed by Donald TrumpAttacks by Iran-backed Houthi rebels in Yemen killed at least four troops from the internationally-recognised government forces and injured 20 more personnel, two military sources told AFP.The initial toll came from strikes on the Yemeni…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-09T12:28:17Z",
-      "image": "https://i.guim.co.uk/img/media/c83b4d0b48941cb84bb6e5152cbb19e557aca147/591_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=245d14a8ebb88a7db295dcc65e3d9b16",
+      "id": "al -dba440f81d97",
+      "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
+      "description": "Iranians from all walks of life struggle under the weight of rising inflation and war pressure.",
+      "url": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-09T13:23:05Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/s1234-1786266426.jpg?resize=1920%2C1281&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -0ec7ec2e2938",
+      "title": "Gaza mourns during 'largest collective funeral in Palestinian history'",
+      "description": "The remains of 112 people belonging to the same family, killed by an Israeli strike on a residential building in the Palestinian enclave, were buried on August 4, two and a half years after their deaths. Palestinians lack the resources to search for and recover the thousands of bodies still trapped beneath the rubble.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/09/gaza-mourns-during-largest-collective-funeral-in-palestinian-history_6756315_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-09T13:00:05Z",
+      "image": "https://img.lemde.fr/2026/08/04/456/0/5472/2736/644/322/60/0/731325a_ftp-1-h9tekk2pnay0-5771273-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-6c61fead8ba7",
+      "title": "Yemen’s Houthis claim responsibility for attack on Saudi oil refinery",
+      "description": "Drone strike comes after Riyadh signs defence pact and Iran issues tough demands to reopen strait of HormuzMiddle East crisis live – latest updatesYemen’s Tehran-aligned Houthis have claimed responsibility for an attack on a refinery in Saudi Arabia, two days after the kingdom signed ⁠a defence pact with Turkey ⁠and Pa…",
+      "url": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-09T12:29:39Z",
+      "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,22 +81,6 @@
       "tags": []
     },
     {
-      "id": "al -be29f0e4d4e5",
-      "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-      "description": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
-      "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-09T10:02:59Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a783b0da257-1786264333.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "the-0a394bc04ff7",
       "title": "3 Killed in Ukrainian Drone Attack on Belgorod, Russia Says",
       "description": "Russia's Defense Ministry said it had destroyed more than 150 Ukrainian drones over the European part of the country.",
@@ -73,21 +88,6 @@
       "source": "The Moscow Times",
       "publishedAt": "2026-08-09T09:43:00Z",
       "image": "https://static.themoscowtimes.com/image/og/04/93443__042299d9de4dae3b82073c165a1041e7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -bac0ab118690",
-      "title": "The French far-right fighters of the Lebanese Civil War",
-      "description": "Despite their lack of military experience, in 1976, several young French far-right militants, eager for adventure, took up arms in Lebanon alongside Christian Phalangists during the civil war. The story has become a legend in their political camp.",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/09/the-french-far-right-fighters-of-the-lebanese-civil-war_6756306_117.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-09T03:00:10Z",
-      "image": "https://img.lemde.fr/2026/07/07/189/0/1500/750/644/322/60/0/b132c8d_ftp-1-ua1xqvygmcvj-434956-3488531.jpg",
       "categories": [
         "conflict"
       ],

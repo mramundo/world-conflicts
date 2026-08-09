@@ -1,9 +1,39 @@
 {
-  "updated": "2026-08-09T19:34:19Z",
+  "updated": "2026-08-09T20:34:26Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "bbc-a2055b0b979b",
+      "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+      "description": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-09T19:57:28Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-85d9fc253534",
+      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+      "description": "Israeli prime minister says he will not support 15-point plan hailed by Donald TrumpIsrael rejects US-led 15-point Gaza peace plan, says NetanyahuIsraeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. Th…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-09T19:54:53Z",
+      "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "al -3c670cf72bb0",
       "title": "Can the Doha Framework end the conflict in eastern DRC?",
@@ -18,21 +48,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-85d9fc253534",
-      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-      "description": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. The Israeli military “will not carry out any withdrawal until H…",
-      "url": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-09T18:55:42Z",
-      "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -122,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-d56edb344975",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-08T18:06:25Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

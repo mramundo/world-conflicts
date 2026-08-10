@@ -1,9 +1,39 @@
 {
-  "updated": "2026-08-10T11:47:51Z",
+  "updated": "2026-08-10T13:12:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "bbc-91024385e6ab",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "description": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-10T12:54:13Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -45e1068531f4",
+      "title": "Ukraine drone strike on Russian oil-refining city kills 13",
+      "description": "The attack targeted Russia's Tatarstan region, which is rich in energy resources and hosts many major oil refineries that Kyiv has targeted in retaliatory strikes. It marks one of the deadliest attacks carried out by Kyiv since the start of the war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/10/ukraine-drone-strike-on-russian-oil-refining-city-kills-13_6756338_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-10T11:50:40Z",
+      "image": "https://img.lemde.fr/2026/08/10/719/0/8144/4072/644/322/60/0/3a448ce_ftp-1-r1ywm7gq0w4p-15142ab4ef7d42a5932ae50530325e22-3-59b753911223404bae7466408242091e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "al -1bc44a22a26d",
       "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
@@ -35,34 +65,34 @@
       "tags": []
     },
     {
-      "id": "bbc-91024385e6ab",
-      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-      "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-10T10:03:58Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-e7b9a68c8521",
       "title": "Russia Reports 13 Dead After Ukrainian Drones Strike In Tatarstan",
       "description": "Russia said at least 13 people, including a child, were killed in Ukrainian attacks on targets in the central region of Tatarstan, one of Kyiv's deadliest single attacks since the Kremlin launched its full-scale invasion of Ukraine more than four years ago.",
       "url": "https://www.rferl.org/a/russia-ukraine-drone-attack-tatarstan/33825739.html",
       "source": "RFE/RL",
       "publishedAt": "2026-08-10T09:50:50Z",
-      "image": "https://gdb.rferl.org/32aa2c2b-138c-4a10-e636-08def2afcad7_tv_w800_h450.jpg",
+      "image": "https://gdb.rferl.org/6890a02a-a4f2-4678-4689-08decacf94d0_cx0_cy7_cw0_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-24691cb57f35",
+      "title": "Yemeni military says Houthi attack on Mocha kills 7, wounds 30",
+      "description": "The Yemeni military said seven people including military personnel and civilians were killed ​and ‌30 others wounded in ⁠a Houthi attack on the Red Sea ‌port city of Mocha, civilian infrastructure and ⁠armed forces.",
+      "url": "https://www.france24.com/en/video/20260810-yemeni-military-says-houthi-attack-on-mocha-kills-7-wounds-30",
+      "source": "France24",
+      "publishedAt": "2026-08-10T09:34:07Z",
+      "image": "https://s.france24.com/media/display/bc65c2f0-9498-11f1-9744-005056a90284/w:1024/p:16x9/EN-20260810-100345-100530-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -142,21 +172,6 @@
       "tags": []
     },
     {
-      "id": "le -0ec7ec2e2938",
-      "title": "Gaza mourns during 'largest collective funeral in Palestinian history'",
-      "description": "The remains of 112 people belonging to the same family, killed by an Israeli strike on a residential building in the Palestinian enclave, were buried on August 4, two and a half years after their deaths. Palestinians lack the resources to search for and recover the thousands of bodies still trapped beneath the rubble.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/09/gaza-mourns-during-largest-collective-funeral-in-palestinian-history_6756315_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-09T13:00:05Z",
-      "image": "https://img.lemde.fr/2026/08/04/456/0/5472/2736/644/322/60/0/731325a_ftp-1-h9tekk2pnay0-5771273-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-c08489ab6bbb",
       "title": "Russian Strike on Zhytomyr Injures 3 Civilians",
       "description": "A Russian attack on the Zhytomyr region on Aug. 9 injured three civilians and caused fires at civilian infrastructure and private property. This latest strike comes amid a week-long Russian bombardment. President Volodymyr Zelensky reported that over the past week, Russia deployed 61 missiles, more than 1,560 attack dr…",
@@ -168,21 +183,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -b32df064668d",
-      "title": "‘Sudan is losing another generation’ to war, Mohammed warns",
-      "description": "More than 1,000 days of war in Sudan have left millions of children out of school, displaced or exposed to grave violations, the UN Deputy Secretary-General said on Friday, calling for renewed action to end the conflict.&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168101",
-      "source": "UN News",
-      "publishedAt": "2026-08-07T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/12-11-2025-UNICEF-Sudan-02.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     }

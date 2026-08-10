@@ -1,9 +1,54 @@
 {
-  "updated": "2026-08-09T23:32:53Z",
+  "updated": "2026-08-10T01:56:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "ans-2d202fbd0729",
+      "title": "Media, 'Netanyahu dà una chance a piano Gaza, Idf si sta ritirando'",
+      "description": "Il premier israeliano lo avrebbe detto a Kushner la scorsa settimana",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/10/media-netanyahu-da-una-chance-a-piano-gaza-idf-si-sta-ritirando_15d26f9f-e5af-432d-b33c-27d184f2e625.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-10T00:40:03Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/c751b4e9c886bfe7333cfb796205e1be.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -22d274e00c18",
+      "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
+      "description": "Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-10T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26220552236900-1786319193.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-9e1a00c879ed",
+      "title": "Netanyahu rejects Trump-backed Gaza peace plan",
+      "description": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, putting him at odds with a US-backed roadmap endorsed by the group.",
+      "url": "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-09T23:11:00Z",
+      "image": "https://static.dw.com/image/77568978_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "bbc-a2055b0b979b",
       "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
@@ -32,37 +77,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-255e6a1105d8",
-      "title": "Mladenov, 'piano per Gaza respinto da Netanyahu è l'unica via da seguire'",
-      "description": "L'inviato del Board: 'In modo da evitare che si ripeta l'attacco di Hamas del 7 ottobre'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/09/mladenov-piano-per-gaza-respinto-da-netanyahu-e-lunica-via-da-seguire_42dcb39c-dd10-4a1d-81e7-1b63637ba9e6.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-09T19:48:24Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/5/13/aab7218a65b97750d67d57a8b12d6ec1.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -3c670cf72bb0",
-      "title": "Can the Doha Framework end the conflict in eastern DRC?",
-      "description": "Kinshasa hands over 15 prisoners to powerful rebel alliance.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-09T19:07:35Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786299364.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -168,22 +182,6 @@
         "analysis"
       ],
       "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-530243cc9057",
-      "title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
-      "description": "Iran says a shipping accord with Oman is in its final stages, but analysts warn sanctions, security concerns and rival US-Iran goals could limit its impact.",
-      "url": "https://www.dw.com/en/how-viable-is-the-potential-iran-oman-hormuz-shipping-deal/a-78283434?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-07T15:02:00Z",
-      "image": "https://static.dw.com/image/78262407_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },

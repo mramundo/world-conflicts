@@ -1,9 +1,39 @@
 {
-  "updated": "2026-08-10T10:17:28Z",
+  "updated": "2026-08-10T11:47:51Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -1bc44a22a26d",
+      "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
+      "description": "Months into the war, Trump is returning to squeezing Iran&#039;s economy rather than military offensive for now.",
+      "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-10T11:11:33Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260808__C48X6WC__v1__HighRes__IranUsIsraelWar-1786299449_f954f1-1786359851.jpg?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-4f17f3f2d335",
+      "title": "Netanyahu rejects US-backed 15-point Gaza peace plan | First Thing",
+      "description": "Israeli PM is insisting on a full Hamas disarmament before the deal can be implemented. Plus, what it feels like to get locked into an opera performance that lasts nearly 24 hoursDon’t already get First Thing in your inbox? Sign up hereGood morning.Benjamin Netanyahu has rejected a US-backed 15-point peace plan for Gaz…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/first-thing-netanyahu-rejects-us-backed-gaza-peace-plan",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-10T10:19:26Z",
+      "image": "https://i.guim.co.uk/img/media/773cd12d1e659bc1e8f0d49e88a2f9f007bdcfbc/0_0_2886_2309/master/2886.jpg?width=140&quality=85&auto=format&fit=max&s=ea9dfba1f8194571be35e61b7319a1d6",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "bbc-91024385e6ab",
       "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
@@ -22,32 +52,17 @@
     {
       "id": "rfe-e7b9a68c8521",
       "title": "Russia Reports 13 Dead After Ukrainian Drones Strike In Tatarstan",
-      "description": "Russian authorities said a Ukrainian drone strike killed at least 13 people in the central Russian region of Tatarstan, one of Kyiv's deadliest single attacks since Russia's full-scale invasion of Ukraine began more than four years ago.",
+      "description": "Russia said at least 13 people, including a child, were killed in Ukrainian attacks on targets in the central region of Tatarstan, one of Kyiv's deadliest single attacks since the Kremlin launched its full-scale invasion of Ukraine more than four years ago.",
       "url": "https://www.rferl.org/a/russia-ukraine-drone-attack-tatarstan/33825739.html",
       "source": "RFE/RL",
       "publishedAt": "2026-08-10T09:50:50Z",
-      "image": "https://gdb.rferl.org/6890a02a-a4f2-4678-4689-08decacf94d0_cx0_cy5_cw0_w800_h450.jpg",
+      "image": "https://gdb.rferl.org/32aa2c2b-138c-4a10-e636-08def2afcad7_tv_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-24691cb57f35",
-      "title": "Yemeni military says Houthi attack on Mocha kills 7, wounds 30",
-      "description": "The Yemeni military said seven people including military personnel and civilians were killed ​and ‌30 others wounded in ⁠a Houthi attack on the Red Sea ‌port city of Mocha, civilian infrastructure and ⁠armed forces.",
-      "url": "https://www.france24.com/en/video/20260810-yemeni-military-says-houthi-attack-on-mocha-kills-7-wounds-30",
-      "source": "France24",
-      "publishedAt": "2026-08-10T09:34:07Z",
-      "image": "https://s.france24.com/media/display/bc65c2f0-9498-11f1-9744-005056a90284/w:1024/p:16x9/EN-20260810-100345-100530-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -62,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-d754b55eb3e4",
-      "title": "Monday briefing: How the new phase of confrontation at al-Aqsa signals a challenge to the status quo",
-      "description": "In today’s newsletter: ​Jerusalem’s most volatile site has again become a flashpoint, with Arab states and former Israeli officials sounding the alarm over Benjamin Netanyahu’s complicityGood morning. In late July, Itamar Ben-Gvir, West Bank settler and far-right extremist minister of security in Benjamin Netanyahu’s g…",
-      "url": "https://www.theguardian.com/world/2026/aug/10/monday-briefing-how-the-new-phase-of-confrontation-at-al-aqsa-signals-a-challenge-to-the-status-quo",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-10T05:45:18Z",
-      "image": "https://i.guim.co.uk/img/media/a6d444e9564511fa1a879b531aaff4271caaea93/326_0_6361_5088/master/6361.jpg?width=140&quality=85&auto=format&fit=max&s=ed15345ee4d40cc4b7922e7168566df3",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,24 +96,9 @@
       "tags": []
     },
     {
-      "id": "al -22d274e00c18",
-      "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
-      "description": "Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-10T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260725__C37F7YQ__v1__HighRes__OmanIranUsIsraelWarMarineShipping-1785046836.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-6958ce4f1cf3",
       "title": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-      "description": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, putting him at odds with a US-backed roadmap endorsed by the group.",
+      "description": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, setting himself against a US-backed roadmap endorsed by the group.",
       "url": "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-08-09T23:11:00Z",
@@ -148,7 +133,7 @@
       "url": "https://www.csmonitor.com/World/Europe/2026/0809/cyprus-natural-gas-europe?icid=rss",
       "source": "CS Monitor",
       "publishedAt": "2026-08-09T18:01:55Z",
-      "image": null,
+      "image": "https://images.csmonitor.com/csm/2026/08/1217242_1_Cyprus.jpg_standard.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],

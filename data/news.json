@@ -1,9 +1,39 @@
 {
-  "updated": "2026-08-10T19:57:23Z",
+  "updated": "2026-08-10T21:42:42Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -940901a7eda4",
+      "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
+      "description": "President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-10T20:55:21Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786395261.jpg?resize=1619%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-8e577053f39f",
+      "title": "Iran-backed Houthis strike Red Sea port of Mocha, threatening shipping routes",
+      "description": "Yemen’s Iranian-backed Houthi rebels struck a government-held port on the country’s Red Sea coast late Sunday, escalating fears over threats to strategic shipping routes and a potential return to civil war.",
+      "url": "https://www.france24.com/en/middle-east/20260810-iran-backed-houthis-strike-red-sea-port-of-mocha-threatening-shipping-routes",
+      "source": "France24",
+      "publishedAt": "2026-08-10T20:26:19Z",
+      "image": "https://s.france24.com/media/display/47bd4c46-9468-11f1-b4bd-005056a97e36/w:1024/p:16x9/2026-08-09T152332Z-69083853-RC2ZUMA5Q3OB-RTRMADP-3-YEMEN-SECURITY.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "cs -3a5fc896b2d2",
       "title": "In Pakistan, internal unrest reveals limits of military power",
@@ -20,22 +50,6 @@
       "tags": []
     },
     {
-      "id": "al -d46a22db7599",
-      "title": "Netanyahu’s veto and the limits of American power",
-      "description": "Trump has the leverage to enforce his Gaza plan. Netanyahu is betting that he lacks the political will to use it.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-10T18:35:31Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7a19d6dad9-1786386902.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "bbc-91024385e6ab",
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
@@ -47,21 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-4c1764b189df",
-      "title": "Ukraine drone strike on Russian oil-refining city kills 12 people",
-      "description": "A Ukrainian drone strike on the central Russian region of Tatarstan killed at least 12 people in one of the deadliest attacks carried out by Kyiv since the war began more than four years ago. The strikes are also directly impacting Russian's economy. Our correspondent Emmanuelle Chaze tells us more.",
-      "url": "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people",
-      "source": "France24",
-      "publishedAt": "2026-08-10T13:09:16Z",
-      "image": "https://s.france24.com/media/display/5e6dae20-94ba-11f1-91eb-005056bf30b7/w:1024/p:16x9/capture-20328942416a79c99706f398-83181920.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

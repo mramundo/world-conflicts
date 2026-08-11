@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T01:52:16Z",
+  "updated": "2026-08-11T03:46:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -35,6 +35,21 @@
       ],
       "relevanceScore": 17,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-8e577053f39f",
+      "title": "Iran-backed Houthis strike Red Sea port of Mocha, threatening shipping routes",
+      "description": "Yemen’s Iranian-backed Houthi rebels struck a government-held port on the country’s Red Sea coast late Sunday, escalating fears over threats to strategic shipping routes and a potential return to civil war.",
+      "url": "https://www.france24.com/en/middle-east/20260810-iran-backed-houthis-strike-red-sea-port-of-mocha-threatening-shipping-routes",
+      "source": "France24",
+      "publishedAt": "2026-08-10T20:26:19Z",
+      "image": "https://s.france24.com/media/display/47bd4c46-9468-11f1-b4bd-005056a97e36/w:1024/p:16x9/2026-08-09T152332Z-69083853-RC2ZUMA5Q3OB-RTRMADP-3-YEMEN-SECURITY.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -126,21 +141,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-2d202fbd0729",
-      "title": "Media, 'Netanyahu dà una chance a piano Gaza, Idf si sta ritirando'",
-      "description": "Il premier israeliano lo avrebbe detto a Kushner la scorsa settimana",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/10/media-netanyahu-da-una-chance-a-piano-gaza-idf-si-sta-ritirando_15d26f9f-e5af-432d-b33c-27d184f2e625.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-10T00:40:03Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/c751b4e9c886bfe7333cfb796205e1be.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

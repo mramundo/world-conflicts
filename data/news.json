@@ -1,9 +1,40 @@
 {
-  "updated": "2026-08-11T08:58:53Z",
+  "updated": "2026-08-11T10:06:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "bbc-427cd01bc9b5",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-11T09:42:48Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16ee/live/c9a1fa20-9564-11f1-bfc0-f9e1bae5b9d9.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -f845010e1ea6",
+      "title": "With Middle East still at war, three regional powers ink a new alliance",
+      "description": "The Saudi-Turkish-Pakistani compact is a response to the prolonged Iran war, an Israel perceived as seeking hegemony, and the failure of other diplomatic initiatives. It also anticipates a reduced U.S. regional posture. Does that help the United States?",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0811/turkey-pakistan-saudi-alliance-iran-israel?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-08-11T09:00:11Z",
+      "image": "https://images.csmonitor.com/csm/2026/08/0810_ONEWPACTS_SIGNING.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "al -534e1084d121",
       "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
@@ -63,36 +94,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -3a5fc896b2d2",
-      "title": "In Pakistan, internal unrest reveals limits of military power",
-      "description": "Recent violence in various corners of Pakistan – from a Swat Valley suicide bomb attack to unrest in Kashmir – can be traced back to weak civilian governance.",
-      "url": "https://www.csmonitor.com/World/Asia-South-Central/2026/0810/pakistan-unrest-military-power?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-08-10T18:39:32Z",
-      "image": "https://images.csmonitor.com/csm/2026/08/0810_OMILITARYPOWER_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-91024385e6ab",
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-10T14:34:25Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

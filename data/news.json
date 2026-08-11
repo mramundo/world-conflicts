@@ -1,17 +1,32 @@
 {
-  "updated": "2026-08-11T10:06:19Z",
+  "updated": "2026-08-11T11:44:05Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "le -fb5a750551a4",
+      "title": "Syria sentences Bashar al-Assad to death in absentia over atrocities",
+      "description": "Bashar al-Assad was sentenced to death after a trial in absentia, convicting him of atrocities committed during Syria's nearly 14-year civil war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/11/syria-sentences-bashar-al-assad-to-death-in-absentia-over-atrocities_6756370_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-11T10:44:22Z",
+      "image": "https://img.lemde.fr/2026/08/11/684/0/8192/4096/644/322/60/0/40c22ca_ftp-1-o0evfcu35cx0-5813929-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "bbc-427cd01bc9b5",
       "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
       "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
       "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-08-11T09:42:48Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16ee/live/c9a1fa20-9564-11f1-bfc0-f9e1bae5b9d9.jpg",
+      "publishedAt": "2026-08-11T10:43:07Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd9/live/d8ac8750-956f-11f1-98c3-1da4f20b80e4.jpg",
       "categories": [
         "conflict"
       ],
@@ -30,6 +45,21 @@
       "categories": [
         "conflict",
         "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-e3389115419e",
+      "title": "Syria court sentences Bashar al-Assad to death for crimes against humanity in absentia",
+      "description": "A Syrian court sentenced ousted Syrian President Bashar al-Assad to death in absentia on Tuesday, along with his younger brother, for crimes against humanity and war crimes during Syria’s 14-year conflict that left about half a million people dead.",
+      "url": "https://www.france24.com/en/middle-east/20260811-syria-court-sentences-bashar-al-assad-to-death-for-crimes-against-humanity-in-absentia",
+      "source": "France24",
+      "publishedAt": "2026-08-11T08:50:29Z",
+      "image": "https://s.france24.com/media/display/466ea7e6-9561-11f1-ba15-005056a97e36/w:1024/p:16x9/000-16K15P.jpg",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
@@ -83,32 +113,17 @@
       "tags": []
     },
     {
-      "id": "fra-8e577053f39f",
-      "title": "Iran-backed Houthis strike Red Sea port of Mocha, threatening shipping routes",
-      "description": "Yemen’s Iranian-backed Houthi rebels struck a government-held port on the country’s Red Sea coast late Sunday, escalating fears over threats to strategic shipping routes and a potential return to civil war.",
-      "url": "https://www.france24.com/en/middle-east/20260810-iran-backed-houthis-strike-red-sea-port-of-mocha-threatening-shipping-routes",
-      "source": "France24",
-      "publishedAt": "2026-08-10T20:26:19Z",
-      "image": "https://s.france24.com/media/display/47bd4c46-9468-11f1-b4bd-005056a97e36/w:1024/p:16x9/2026-08-09T152332Z-69083853-RC2ZUMA5Q3OB-RTRMADP-3-YEMEN-SECURITY.jpg",
+      "id": "the-3fc6b4461f50",
+      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+      "description": "Attack hundreds of miles from border would be among deadliest of war as Kyiv aims to strangle Russian economyA Ukrainian drone strike on an industrial city deep inside Russia has killed at least 13 people, according to the local mayor, as Kyiv steps up its campaign of long-range strikes on targets far from the frontlin…",
+      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-10T16:25:30Z",
+      "image": "https://i.guim.co.uk/img/media/c3ddc8f9aef2cdda8bb7bbbca0d04cc087cae526/0_600_1214_971/master/1214.jpg?width=140&quality=85&auto=format&fit=max&s=b08feff7dd241b02615f4eec4df805eb",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -bd9c904062cc",
-      "title": "Afghan refugee in southern France charged with terrorism after clandestine stay with Taliban",
-      "description": "A 28-year-old man holding refugee status in France is suspected of traveling to Afghanistan for military training and returning with jihadist intentions. Arrested in Lourdes, he was placed in pretrial detention on July 3.",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/10/afghan-refugee-in-southern-france-charged-with-terrorism-after-clandestine-stay-with-taliban_6756340_7.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-10T12:23:01Z",
-      "image": "https://img.lemde.fr/2026/08/09/367/0/5446/2723/644/322/60/0/eae0aff_upload-1-daq2h6oh4fur-000-1wv9ft.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -126,21 +141,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-d754b55eb3e4",
-      "title": "Monday briefing: How the new phase of confrontation at al-Aqsa signals a challenge to the status quo",
-      "description": "In today’s newsletter: ​Jerusalem’s most volatile site has again become a flashpoint, with Arab states and former Israeli officials sounding the alarm over Benjamin Netanyahu’s complicityGood morning. In late July, Itamar Ben-Gvir, West Bank settler and far-right extremist minister of security in Benjamin Netanyahu’s g…",
-      "url": "https://www.theguardian.com/world/2026/aug/10/monday-briefing-how-the-new-phase-of-confrontation-at-al-aqsa-signals-a-challenge-to-the-status-quo",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-10T05:45:18Z",
-      "image": "https://i.guim.co.uk/img/media/a6d444e9564511fa1a879b531aaff4271caaea93/326_0_6361_5088/master/6361.jpg?width=140&quality=85&auto=format&fit=max&s=ed15345ee4d40cc4b7922e7168566df3",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
       "tags": []
     },
     {

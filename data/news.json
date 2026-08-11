@@ -1,9 +1,24 @@
 {
-  "updated": "2026-08-11T11:44:05Z",
+  "updated": "2026-08-11T13:09:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "fra-16e9f071dbbf",
+      "title": "Civilian casualties climb as Russia and Ukraine exchange fresh strikes",
+      "description": "Russia and Ukraine traded fresh strikes overnight, with Moscow targeting Kyiv, Zaporizhzhia and Dnipropetrovsk. Ukraine retaliated with a drone attack on Russia’s Voronezh region. Falling debris set fire to a Wildberries warehouse. Ukraine’s military said it also struck a Russian oil refinery in Orsk. The exchange of s…",
+      "url": "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
+      "source": "France24",
+      "publishedAt": "2026-08-11T13:03:09Z",
+      "image": "https://s.france24.com/media/display/fb8e3632-957f-11f1-84f9-005056bf30b7/w:1024/p:16x9/Sequence-12-00-00-05-03-Still001.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "le -fb5a750551a4",
       "title": "Syria sentences Bashar al-Assad to death in absentia over atrocities",
@@ -35,6 +50,21 @@
       "tags": []
     },
     {
+      "id": "al -46c3a3356a7b",
+      "title": "East Libya military intelligence chief killed in car bomb blast",
+      "description": "Prime minister of the eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-11T10:25:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260517__B3394ZR__v3__HighRes__LibyaMilitaryExcercise-1786432599.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -f845010e1ea6",
       "title": "With Middle East still at war, three regional powers ink a new alliance",
       "description": "The Saudi-Turkish-Pakistani compact is a response to the prolonged Iran war, an Israel perceived as seeking hegemony, and the failure of other diplomatic initiatives. It also anticipates a reduced U.S. regional posture. Does that help the United States?",
@@ -48,37 +78,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-e3389115419e",
-      "title": "Syria court sentences Bashar al-Assad to death for crimes against humanity in absentia",
-      "description": "A Syrian court sentenced ousted Syrian President Bashar al-Assad to death in absentia on Tuesday, along with his younger brother, for crimes against humanity and war crimes during Syria’s 14-year conflict that left about half a million people dead.",
-      "url": "https://www.france24.com/en/middle-east/20260811-syria-court-sentences-bashar-al-assad-to-death-for-crimes-against-humanity-in-absentia",
-      "source": "France24",
-      "publishedAt": "2026-08-11T08:50:29Z",
-      "image": "https://s.france24.com/media/display/466ea7e6-9561-11f1-ba15-005056a97e36/w:1024/p:16x9/000-16K15P.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -534e1084d121",
-      "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
-      "description": "Kyiv is facing a brutal Russian response as its air defence missile stocks dwindle.",
-      "url": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-11T08:13:31Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-18T100031Z_1196535788_RC26WLAENOCS_RTRMADP_3_UKRAINE-CRISIS-ATTACK-MOSCOW-1786433709.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     },
     {

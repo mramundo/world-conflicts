@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T19:12:55Z",
+  "updated": "2026-08-12T20:47:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-to-support-infrastructure-recovery-in-gulf-nations-hit-by-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-12T19:12:52Z",
+      "publishedAt": "2026-08-12T20:47:55Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F5%2F9%2F12969539-2-eng-GB%2F784da0e3c23a-photo_SXM2026081200010899.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-d0ea8f79141a",
+      "title": "Russia: Why is the Yabloko party barred from the elections?",
+      "description": "Russia's supreme court has banned the anti-war opposition party Yabloko from September's parliamentary elections. What does this mean for the election campaign, opponents of the war and for the political mood in Russia?",
+      "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-12T18:37:00Z",
+      "image": "https://static.dw.com/image/78312667_6.jpg",
       "categories": [
         "conflict"
       ],
@@ -58,21 +73,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-08-12T17:26:56Z",
       "image": "https://img.lemde.fr/2026/08/12/642/0/7705/3852/644/322/60/0/41628c2_ftp-1-rdrktcz0wmgk-5822648-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-2b947a5e5f50",
-      "title": "Due to the Iran war, Iraq is running out of money",
-      "description": "Because of the blockage of the Strait of Hormuz, Iraq cannot export enough oil to fund the country's huge public sector. Protests have already started. Will the Iran war destabilize Iraq again?",
-      "url": "https://www.dw.com/en/due-to-the-iran-war-iraq-is-running-out-of-money/a-78341409?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-12T17:00:00Z",
-      "image": "https://static.dw.com/image/78341741_6.jpg",
       "categories": [
         "conflict"
       ],

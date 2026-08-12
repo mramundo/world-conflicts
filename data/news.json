@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T13:12:57Z",
+  "updated": "2026-08-12T14:59:00Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
       "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-08-12T12:16:22Z",
+      "publishedAt": "2026-08-12T14:03:48Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ed1d3ed20494",
+      "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
+      "description": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-12T13:10:14Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7c5f49-1786535753_4b149a-1786537474.jpg?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -35,6 +51,21 @@
       "tags": []
     },
     {
+      "id": "un -b13c8f9e732f",
+      "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
+      "description": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
+      "source": "UN News",
+      "publishedAt": "2026-08-12T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-07-2023_UNDP_FSO-Safer-02.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "fra-103991a8077e",
       "title": "Ukraine seeks closer cooperation with South Korea",
       "description": "Earlier this week, Zelenskyy accused North Korea of stepping up its support for Russia, with ballistic missiles from Pyongyang reportedly used in another deadly attack on Zaporizhzhia. Let’s get more on this from France 24’s correspondent in South Korea, Chloe Borgnon.",
@@ -47,22 +78,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -60962abdd727",
-      "title": "Autism and war: Gaza families grapple with destruction and loss",
-      "description": "Continuous bombing disrupts routines, causing sensory shocks and behavioural relapses in Gaza&#039;s autistic children.",
-      "url": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-12T07:27:42Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image002-1786479836.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -154,22 +169,6 @@
         "humanitarian"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -285944dbcbc5",
-      "title": "Humanitarian aid warehouses come under attack in Ukraine",
-      "description": "Russia’s ongoing full-scale invasion of Ukraine has left civilians vulnerable to repeated deadly attacks and humanitarian workers and key facilities being targeted and destroyed.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168102",
-      "source": "UN News",
-      "publishedAt": "2026-08-10T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/10-08-2026-WHO-Ukraine-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

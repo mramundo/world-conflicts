@@ -1,9 +1,40 @@
 {
-  "updated": "2026-08-12T14:59:00Z",
+  "updated": "2026-08-12T16:04:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "nik-4ef3f17e07fc",
+      "title": "Japan to support infrastructure recovery in Gulf nations hit by Iran war",
+      "description": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-to-support-infrastructure-recovery-in-gulf-nations-hit-by-iran-war",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-08-12T16:04:42Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F5%2F9%2F12969539-2-eng-GB%2F784da0e3c23a-photo_SXM2026081200010899.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b35cbb065493",
+      "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+      "description": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-12T15:36:33Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/web-1786548955.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "bbc-b86fbc4ab58f",
       "title": "Israeli settlers besieging Palestinian families in West Bank village",
@@ -17,22 +48,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -ed1d3ed20494",
-      "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
-      "description": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-12T13:10:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7c5f49-1786535753_4b149a-1786537474.jpg?resize=1200%2C630&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -123,21 +138,6 @@
         "humanitarian"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-19dccf218d26",
-      "title": "Bulgaria drone crash a wake-up call for country's defenses",
-      "description": "The explosion of a Ukrainian decoy drone in Bulgaria near the Romanian border reveals gaps in Bulgaria's defenses, raises questions and shines a light on the country's policy shift on the war in Ukraine.",
-      "url": "https://www.dw.com/en/bulgaria-drone-crash-a-wake-up-call-for-country-s-defenses/a-78320070?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-11T11:46:00Z",
-      "image": "https://static.dw.com/image/78296087_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

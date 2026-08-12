@@ -1,22 +1,23 @@
 {
-  "updated": "2026-08-12T10:07:43Z",
+  "updated": "2026-08-12T11:46:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -02a850c8b4a5",
-      "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-      "description": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.",
-      "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
+      "id": "al -60962abdd727",
+      "title": "Autism and war: Gaza families grapple with destruction and loss",
+      "description": "Continuous bombing disrupts routines, causing sensory shocks and behavioural relapses in Gaza&#039;s autistic children.",
+      "url": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-12T03:09:06Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-11T194853Z_246622791_RC2HWMA6GKY6_RTRMADP_3_IRAN-CRISIS-SHIPPING-1786497071.jpg?resize=1200%2C675",
+      "publishedAt": "2026-08-12T07:27:42Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image002-1786479836.jpg?resize=1200%2C675",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -46,6 +47,21 @@
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-67509a17105e",
+      "title": "Ukraine Repels 185 Combat Clashes on Tuesday",
+      "description": "The General Staff of the Armed Forces of Ukraine (AFU) reported 185 combat clashes over the past 24 hours, as Russian forces launched nearly 6,770 drones and 208 guided aerial bombs (KABs) nationwide.",
+      "url": "https://www.kyivpost.com/post/82162",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-08-11T19:57:18Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/09/cc16ef8f4a7921903e2f8d9feac73716.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,6 +112,21 @@
       "tags": []
     },
     {
+      "id": "npr-31772302e9bb",
+      "title": "Former Syrian President Assad sentenced to death in absentia",
+      "description": "A Syrian court sentenced Assad along with his brother to death in absentia for crimes against humanity and war crimes during Syria's 14-year conflict that left about half a million people dead.",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
+      "source": "NPR World",
+      "publishedAt": "2026-08-11T10:07:14Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2037+0+0/resize/3000x2037!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F15%2Fe2a034034f6d9a840cb086c3b695%2Fap26223320881697.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-8d7a9fae631b",
       "title": "One Killed in Ukrainian Attack on Wildberries Logistics Center in Voronezh",
       "description": "The online retailer said it evacuated employees from the facility after a fire broke out during the overnight drone strikes.",
@@ -108,21 +139,6 @@
         "humanitarian"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-f0099e190d82",
-      "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-      "description": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-      "source": "NPR World",
-      "publishedAt": "2026-08-11T05:48:27Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2975x1983+0+0/resize/2975x1983!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F46%2Fb0%2F665362f4485f955873488ac91728%2Fap26221761800502.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -154,21 +170,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-c08489ab6bbb",
-      "title": "Russian Strike on Zhytomyr Injures 3 Civilians",
-      "description": "A Russian attack on the Zhytomyr region on Aug. 9 injured three civilians and caused fires at civilian infrastructure and private property. This latest strike comes amid a week-long Russian bombardment. President Volodymyr Zelensky reported that over the past week, Russia deployed 61 missiles, more than 1,560 attack dr…",
-      "url": "https://www.kyivpost.com/post/82011",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-09T10:56:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/08/09/8545b7b52ee45ce301f438737ab84a15.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     }

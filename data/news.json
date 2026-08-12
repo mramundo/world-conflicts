@@ -1,9 +1,54 @@
 {
-  "updated": "2026-08-12T11:46:54Z",
+  "updated": "2026-08-12T13:12:57Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "bbc-b86fbc4ab58f",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-12T12:16:22Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -e8c8684c0154",
+      "title": "Carlo Masala, security expert: 'Germany is targeted because it is the main pillar of European support to Ukraine'",
+      "description": "The German military analyst says the failed explosive drone attack targeting Leipzig-Halle Airport on the night of August 4 marks a turning point in Russia's hybrid war against Europe.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/12/carlo-masala-security-expert-germany-is-targeted-because-it-is-the-main-pillar-of-european-support-to-ukraine_6756419_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-12T12:00:06Z",
+      "image": "https://img.lemde.fr/2026/08/11/834/922/5164/2582/644/322/60/0/c68c6e3_upload-1-pk7cloah5zvy-sipa-sipausa30545146-000012.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-103991a8077e",
+      "title": "Ukraine seeks closer cooperation with South Korea",
+      "description": "Earlier this week, Zelenskyy accused North Korea of stepping up its support for Russia, with ballistic missiles from Pyongyang reportedly used in another deadly attack on Zaporizhzhia. Let’s get more on this from France 24’s correspondent in South Korea, Chloe Borgnon.",
+      "url": "https://www.france24.com/en/ukraine-seeks-closer-cooperation-with-south-korea",
+      "source": "France24",
+      "publishedAt": "2026-08-12T10:57:11Z",
+      "image": "https://s.france24.com/media/display/62486120-963b-11f1-b7d4-005056a90284/w:1024/p:16x9/EN-20260812-120807-121123-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "al -60962abdd727",
       "title": "Autism and war: Gaza families grapple with destruction and loss",
@@ -18,36 +63,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-1b0628c47360",
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "description": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-12T00:14:42Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca5a/live/b1c8cd30-95cc-11f1-a7ab-8b30adf0800a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-13d35178c774",
-      "title": "Libyan National Army intel chief assassinated in Benghazi car bombing",
-      "description": "The Libyan National Army, which controls the east and parts of southern Libya, said Tuesday that a car bomb killed its military intelligence chief Fawzi al-Mansouri in Benghazi. The assassination raises fresh questions over security in the stronghold of military commander Khalifa Haftar as efforts continue to reunify t…",
-      "url": "https://www.france24.com/en/africa/20260811-libyan-military-intelligence-chief-assassinated-in-car-bombing",
-      "source": "France24",
-      "publishedAt": "2026-08-11T23:33:37Z",
-      "image": "https://s.france24.com/media/display/37eaa960-0fcb-11ed-9230-005056bf30b7/w:1024/p:16x9/000_9RR4EU%20%281%29.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -143,6 +158,22 @@
       "tags": []
     },
     {
+      "id": "un -285944dbcbc5",
+      "title": "Humanitarian aid warehouses come under attack in Ukraine",
+      "description": "Russia’s ongoing full-scale invasion of Ukraine has left civilians vulnerable to repeated deadly attacks and humanitarian workers and key facilities being targeted and destroyed.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168102",
+      "source": "UN News",
+      "publishedAt": "2026-08-10T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/10-08-2026-WHO-Ukraine-01.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-e7b9a68c8521",
       "title": "Russia Reports 13 Dead After Ukrainian Drones Strike In Tatarstan",
       "description": "Russia said at least 13 people, including a child, were killed in Ukrainian attacks on targets in the central region of Tatarstan, one of Kyiv's deadliest single attacks since the Kremlin launched its full-scale invasion of Ukraine more than four years ago.",
@@ -156,21 +187,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -8f22f6e5388f",
-      "title": "Sudan: ‘It made me dream again’: The students refusing to let war stop their education",
-      "description": "Sarah Tekhlu was ready to give up on university. An Eritrean refugee, she had already been displaced once from Khartoum to Madani, then again to Port Sudan, as war tore through the country around her. Higher education, she had decided, was a luxury she could no longer afford to want.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168093",
-      "source": "UN News",
-      "publishedAt": "2026-08-09T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-UNDP-Sudan-03.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-12T16:04:45Z",
+  "updated": "2026-08-12T17:57:46Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-to-support-infrastructure-recovery-in-gulf-nations-hit-by-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-12T16:04:42Z",
+      "publishedAt": "2026-08-12T17:57:43Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F5%2F9%2F12969539-2-eng-GB%2F784da0e3c23a-photo_SXM2026081200010899.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-877588b3f470",
+      "title": "Netanyahu gave a ‘victory to Hamas’ by rejecting US-backed Gaza peace plan",
+      "description": "Israeli Prime Minister Benjamin Netanyahu’s rejection of a US-backed peace plan for Gaza last week offered a diplomatic victory to Hamas, according to some analysts. The Palestinian Islamist movement had agreed to gradually give up weapons in exchange for an Israeli withdrawal from Gaza, but agreeing on the definition …",
+      "url": "https://www.france24.com/en/middle-east/20260812-netanyahu-gave-a-victory-to-hamas-by-rejecting-us-backed-gaza-peace-plan",
+      "source": "France24",
+      "publishedAt": "2026-08-12T17:48:46Z",
+      "image": "https://s.france24.com/media/display/0349848a-958a-11f1-836c-005056bf30b7/w:1024/p:16x9/000-C4AZ6KE.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-2b947a5e5f50",
+      "title": "Due to the Iran war, Iraq is running out of money",
+      "description": "Because of the blockage of the Strait of Hormuz, Iraq cannot export enough oil to fund the country's huge public sector. Protests have already started. Will the Iran war destabilize Iraq again?",
+      "url": "https://www.dw.com/en/due-to-the-iran-war-iraq-is-running-out-of-money/a-78341409?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-12T17:00:00Z",
+      "image": "https://static.dw.com/image/78341741_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-b86fbc4ab58f",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-12T16:14:08Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,21 +79,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-b86fbc4ab58f",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-12T14:03:48Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -77,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-103991a8077e",
-      "title": "Ukraine seeks closer cooperation with South Korea",
-      "description": "Earlier this week, Zelenskyy accused North Korea of stepping up its support for Russia, with ballistic missiles from Pyongyang reportedly used in another deadly attack on Zaporizhzhia. Let’s get more on this from France 24’s correspondent in South Korea, Chloe Borgnon.",
-      "url": "https://www.france24.com/en/ukraine-seeks-closer-cooperation-with-south-korea",
-      "source": "France24",
-      "publishedAt": "2026-08-12T10:57:11Z",
-      "image": "https://s.france24.com/media/display/62486120-963b-11f1-b7d4-005056a90284/w:1024/p:16x9/EN-20260812-120807-121123-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

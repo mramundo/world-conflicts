@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-13T06:17:45Z",
+  "updated": "2026-08-13T08:21:59Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-to-support-infrastructure-recovery-in-gulf-nations-hit-by-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-13T06:17:41Z",
+      "publishedAt": "2026-08-13T08:21:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F5%2F9%2F12969539-2-eng-GB%2F784da0e3c23a-photo_SXM2026081200010899.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-09443cca3ddd",
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-13T08:12:53Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8d275d08fc2d",
+      "title": "Will the Houthis shut down Saudi Arabian shipping?",
+      "description": "The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia",
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-13T06:21:24Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Project-Force-Wide-1786602017.png?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -36,47 +67,17 @@
       "tags": []
     },
     {
-      "id": "bbc-3742c192c5e3",
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-13T04:55:58Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -07f444ad799e",
-      "title": "'It was either exile or prison': An interview with Boris Nadezhdin, Kremlin opponent prosecuted in Moscow and now in Paris",
+      "title": "'It was either exile or prison': An interview with Boris Nadezhdin, Kremlin opponent who fled to Paris",
       "description": "The veteran Russian politician, 63, tried to challenge Vladimir Putin's regime and its war in Ukraine through legal and electoral means. He failed. Facing the threat of arrest, he decided to leave Russia. His interview with Le Monde is his first since arriving in France.",
       "url": "https://www.lemonde.fr/en/international/article/2026/08/13/it-was-either-exile-or-prison-an-interview-with-boris-nadezhdin-kremlin-opponent-prosecuted-in-moscow-and-now-in-paris_6756449_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-13T03:31:03Z",
+      "publishedAt": "2026-08-13T03:31:00Z",
       "image": "https://img.lemde.fr/2026/08/12/744/0/5664/2832/644/322/60/0/9d020a4_upload-1-dtevebg34ny6-000-c2ba6t3.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -ef9cb9f1871a",
-      "title": "Israeli air strike kills one in northern Gaza",
-      "description": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
-      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-12T20:58:42Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7caf3be6d3d-1786556219.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -92,6 +93,22 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-877588b3f470",
+      "title": "Netanyahu gave a ‘victory to Hamas’ by rejecting US-backed Gaza peace plan",
+      "description": "Israeli Prime Minister Benjamin Netanyahu’s rejection of a US-backed peace plan for Gaza last week offered a diplomatic victory to Hamas, according to some analysts. The Palestinian Islamist movement had agreed to gradually give up weapons in exchange for an Israeli withdrawal from Gaza, but agreeing on the definition …",
+      "url": "https://www.france24.com/en/middle-east/20260812-netanyahu-gave-a-victory-to-hamas-by-rejecting-us-backed-gaza-peace-plan",
+      "source": "France24",
+      "publishedAt": "2026-08-12T17:48:46Z",
+      "image": "https://s.france24.com/media/display/0349848a-958a-11f1-836c-005056bf30b7/w:1024/p:16x9/000-C4AZ6KE.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

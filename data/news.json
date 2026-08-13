@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-13T04:51:44Z",
+  "updated": "2026-08-13T06:17:45Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-to-support-infrastructure-recovery-in-gulf-nations-hit-by-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-13T04:51:40Z",
+      "publishedAt": "2026-08-13T06:17:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F5%2F9%2F12969539-2-eng-GB%2F784da0e3c23a-photo_SXM2026081200010899.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-0932c6f64a3d",
+      "title": "How North Korea has profited from its support for Russia",
+      "description": "Exceptionally high revenues, particularly from war aid for Russia, are consolidating the power of North Korea's autocratic leader. A small number of people in the country are benefiting from an economic boom.",
+      "url": "https://www.dw.com/en/how-north-korea-has-profited-from-its-support-for-russia/a-78345289?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-13T05:38:00Z",
+      "image": "https://static.dw.com/image/77461872_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-3742c192c5e3",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-13T04:55:58Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "deu-d0ea8f79141a",
-      "title": "Russia: Why is the Yabloko party barred from the elections?",
-      "description": "Russia's supreme court has banned the anti-war opposition party Yabloko from September's parliamentary elections. What does this mean for the election campaign, opponents of the war and for the political mood in Russia?",
-      "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-12T18:37:00Z",
-      "image": "https://static.dw.com/image/78312667_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-b82e372714ae",
       "title": "Has the U.S. lost its dominance to China?",
       "description": "Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. The New Yorker's Evan Osnos discusses his story \"The Future, Made in China.\"",
@@ -76,37 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-877588b3f470",
-      "title": "Netanyahu gave a ‘victory to Hamas’ by rejecting US-backed Gaza peace plan",
-      "description": "Israeli Prime Minister Benjamin Netanyahu’s rejection of a US-backed peace plan for Gaza last week offered a diplomatic victory to Hamas, according to some analysts. The Palestinian Islamist movement had agreed to gradually give up weapons in exchange for an Israeli withdrawal from Gaza, but agreeing on the definition …",
-      "url": "https://www.france24.com/en/middle-east/20260812-netanyahu-gave-a-victory-to-hamas-by-rejecting-us-backed-gaza-peace-plan",
-      "source": "France24",
-      "publishedAt": "2026-08-12T17:48:46Z",
-      "image": "https://s.france24.com/media/display/0349848a-958a-11f1-836c-005056bf30b7/w:1024/p:16x9/000-C4AZ6KE.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-b86fbc4ab58f",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-12T16:14:08Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

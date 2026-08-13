@@ -1,21 +1,36 @@
 {
-  "updated": "2026-08-13T13:15:14Z",
+  "updated": "2026-08-13T14:59:00Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-4ef3f17e07fc",
-      "title": "Japan to support infrastructure recovery in Gulf nations hit by Iran war",
+      "id": "nik-3815f64df1b1",
+      "title": "JD.com's revenue dips, facing headwinds even as delivery price war eases",
       "description": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/japan-to-support-infrastructure-recovery-in-gulf-nations-hit-by-iran-war",
+      "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-13T13:15:12Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F5%2F9%2F12969539-2-eng-GB%2F784da0e3c23a-photo_SXM2026081200010899.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-08-13T14:58:56Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-09443cca3ddd",
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-13T14:58:09Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf2/live/70677240-970e-11f1-870d-5d08c49babb2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,10 +82,10 @@
       "tags": []
     },
     {
-      "id": "deu-9450808cabfb",
-      "title": "What would a North Korean surge mean for Ukraine war?",
-      "description": "Ukraine is claiming that North Korea is preparing to send tens of thousands more troops to Russia, where they'll gain valuable battlefield experience. President Zelenskyy has urged South Korea to work closer with Kyiv.",
-      "url": "https://www.dw.com/en/what-would-a-north-korean-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-world-4025-rdf",
+      "id": "deu-8593da4a00c8",
+      "title": "What would a North Korean troop surge mean for Ukraine war?",
+      "description": "Ukraine is claiming that North Korea is preparing to send tens of thousands more troops to Russia, where they'll gain valuable battlefield experience.",
+      "url": "https://www.dw.com/en/what-would-a-north-korean-troop-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-08-13T10:54:00Z",
       "image": "https://static.dw.com/image/76947268_6.jpg",
@@ -78,7 +93,7 @@
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 15,
+      "relevanceScore": 13,
       "isAnalysis": true,
       "tags": []
     },
@@ -126,21 +141,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-09443cca3ddd",
-      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-      "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-13T08:12:53Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

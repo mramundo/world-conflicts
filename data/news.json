@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T14:59:00Z",
+  "updated": "2026-08-13T16:04:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-13T14:58:56Z",
+      "publishedAt": "2026-08-13T16:04:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -25,8 +25,8 @@
       "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
       "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-08-13T14:58:09Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf2/live/70677240-970e-11f1-870d-5d08c49babb2.jpg",
+      "publishedAt": "2026-08-13T15:40:31Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4e/live/7b1f7060-9728-11f1-808c-532494fd22c7.jpg",
       "categories": [
         "conflict"
       ],
@@ -47,6 +47,22 @@
         "humanitarian"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -670e025c5871",
+      "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
+      "description": "As tensions triggered by the US-Iran war continue to ripple across the Middle East, the Security Council holds an open debate Thursday on Yemen, where escalating deadly military clashes are worsening an already fragile humanitarian situation amid fears that recent Houthi missile strikes on Saudi Arabia and commercial v…",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168131",
+      "source": "UN News",
+      "publishedAt": "2026-08-13T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/06-04-2023_WFP_Yemen-02.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -141,21 +157,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -b13c8f9e732f",
-      "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
-      "description": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
-      "source": "UN News",
-      "publishedAt": "2026-08-12T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-07-2023_UNDP_FSO-Safer-02.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

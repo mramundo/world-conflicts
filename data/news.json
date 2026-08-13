@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-13T10:08:55Z",
+  "updated": "2026-08-13T11:49:13Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,60 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-to-support-infrastructure-recovery-in-gulf-nations-hit-by-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-13T10:08:52Z",
+      "publishedAt": "2026-08-13T11:49:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F5%2F9%2F12969539-2-eng-GB%2F784da0e3c23a-photo_SXM2026081200010899.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -2b87ef7f9363",
+      "title": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+      "description": "Israel carts away Gaza&#039;s rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.",
+      "url": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-13T11:29:32Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-05T164104Z_1523196104_RC2ESMA97ODQ_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1785997751.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-773573f37ce7",
+      "title": "Mosca, militare russo ucciso in un attentato in Crimea",
+      "description": "Fermata una donna sospettata di avere agito su incarico dei servizi ucraini",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/mosca-militare-russo-ucciso-in-un-attentato-in-crimea_2101c819-c333-45bf-afdb-1131df7a1ec7.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-13T10:56:48Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/13/6655832439c2ee6cbe1ba26ba2c1b796.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-9450808cabfb",
+      "title": "What would a North Korean surge mean for Ukraine war?",
+      "description": "Ukraine is claiming that North Korea is preparing to send tens of thousands more troops to Russia, where they'll gain valuable battlefield experience. President Zelenskyy has urged South Korea to work closer with Kyiv.",
+      "url": "https://www.dw.com/en/what-would-a-north-korean-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-13T10:54:00Z",
+      "image": "https://static.dw.com/image/76947268_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 15,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -93,38 +140,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -8d275d08fc2d",
-      "title": "Will the Houthis shut down Saudi Arabian shipping?",
-      "description": "The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia",
-      "url": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-13T06:21:24Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Project-Force-Wide-1786602017.png?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-0932c6f64a3d",
-      "title": "How North Korea has profited from its support for Russia",
-      "description": "Exceptionally high revenues, particularly from war aid for Russia, are consolidating the power of North Korea's autocratic leader. A small number of people in the country are benefiting from an economic boom.",
-      "url": "https://www.dw.com/en/how-north-korea-has-profited-from-its-support-for-russia/a-78345289?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-13T05:38:00Z",
-      "image": "https://static.dw.com/image/77461872_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T23:42:18Z",
+  "updated": "2026-08-14T02:05:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-13T23:42:13Z",
+      "publishedAt": "2026-08-14T02:05:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -5991551679c7",
+      "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+      "description": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
+      "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-14T00:02:22Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-01-07T094617Z_210955806_RC2KZAAH0EJZ_RTRMADP_3_YEMEN-SECURITY-1786212975.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,34 +65,33 @@
       "tags": []
     },
     {
-      "id": "al -8e081e77d829",
-      "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-      "description": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-13T16:40:42Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786639203.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-72145710bc5e",
-      "title": "Rebuilding Aleppo: Syria's war-torn economic capital enjoys gradual rebirth",
-      "description": "Syria's economic capital Aleppo was left largely in ruins by the fighting that raged there between regime and rebel forces from 2012 to 2016. A 2023 earthquake also caused severe damage to the old city. But reconstruction is now well underway, in particular of Aleppo's treasured historic monuments.",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260813-rebuilding-aleppo-syria-s-war-torn-economic-capital-enjoys-gradual-rebirth",
-      "source": "France24",
-      "publishedAt": "2026-08-13T13:02:33Z",
-      "image": "https://s.france24.com/media/display/2a29c426-8dd7-11f1-82f0-005056a97e36/w:1024/p:16x9/FOCUS-VI-SYRIE-ALEP-RECONSTRUCTION.jpg",
+      "id": "le -1e249dd2a766",
+      "title": "Mali's junta pardons French intelligence officer detained for a year",
+      "description": "The release of Yann Vezilier, who had been officially accredited by the Malian authorities as an officer of France's foreign intelligence agency, follows several months of diplomatic negotiations.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/13/mali-s-junta-pardons-french-intelligence-officer-detained-for-a-year_6756477_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-13T16:10:33Z",
+      "image": "https://img.lemde.fr/2026/07/31/580/0/6960/3480/644/322/60/0/3a24ae4_ftp-1-4vk9fgximosj-ccbfacc2f9a94c36b39a8bc418a11df6-1-73c343ea48fe4e54946b55000d05fede.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-439b5760fb5f",
+      "title": "Gaza's beekeepers are rebuilding their livelihoods amid the ruins of war",
+      "description": "Amid the rubble and debris of Gaza's bombed-out landscape, beekeepers are rebuilding their livelihoods, handling swarms and collecting what little honey they can from the colonies that survived the war. Ibrahim al-Dabbeh, head of the Cooperative Association of Beekeepers in the Gaza Strip says \"the war destroyed more t…",
+      "url": "https://www.france24.com/en/video/20260813-gaza-s-beekeepers-are-rebuilding-their-livelihoods-amid-the-ruins-of-war",
+      "source": "France24",
+      "publishedAt": "2026-08-13T15:18:02Z",
+      "image": "https://s.france24.com/media/display/58f6e89e-9708-11f1-b310-005056bf30b7/w:1024/p:16x9/AP26220325628514.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -125,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -ee39b1c62c6a",
-      "title": "With Russia's strikes in Ukraine and hybrid war in Europe, Kyiv's allies face heightened uncertainty",
-      "description": "Russia has stepped up deep strikes in Ukraine and continued its hybrid warfare against Europe, just as US support is faltering. Washington is warning of a possible Russian attack to test Western defenses.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/13/with-russia-s-strikes-in-ukraine-and-hybrid-war-in-europe-kyiv-s-allies-face-heightened-uncertainty_6756460_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-13T09:30:06Z",
-      "image": "https://img.lemde.fr/2026/08/06/263/0/3606/1803/644/322/60/0/0e773dc_ftp-1-3r4rb8j9vmlc-916fef3dcc314fb2ab5762574abd1828-0-f29b181d664049dc96b7d9b9df26dfa4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

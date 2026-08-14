@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:49:47Z",
+  "updated": "2026-08-14T20:32:38Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-14T19:49:43Z",
+      "publishedAt": "2026-08-14T20:32:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -191,18 +191,19 @@
       "tags": []
     },
     {
-      "id": "kyi-67509a17105e",
-      "title": "Ukraine Repels 185 Combat Clashes on Tuesday",
-      "description": "The General Staff of the Armed Forces of Ukraine (AFU) reported 185 combat clashes over the past 24 hours, as Russian forces launched nearly 6,770 drones and 208 guided aerial bombs (KABs) nationwide.",
-      "url": "https://www.kyivpost.com/post/82162",
+      "id": "kyi-2c7f052fbbc9",
+      "title": "Kremlin Removes Even Weak Opposition as Ukraine War Takes Toll",
+      "description": "Yabloko’s removal from Russia’s parliamentary ballot comes as even state-linked pollsters record falling support for Vladimir Putin and the war in Ukraine. Yet the party’s history, internal divisions and some of its leaders’ statements about Ukraine illustrate why opposing Putin does not automatically make someone a re…",
+      "url": "https://www.kyivpost.com/analysis/82212",
       "source": "Kyiv Post",
-      "publishedAt": "2026-08-11T19:57:18Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/09/cc16ef8f4a7921903e2f8d9feac73716.jpeg?w=640&q=90&f=jpg",
+      "publishedAt": "2026-08-12T12:03:25Z",
+      "image": "https://static.kyivpost.com/storage/2026/08/12/737682280e76a530c09eb221a17f4fe6.jpg?w=640&q=90&f=jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     }
   ]

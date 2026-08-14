@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T15:53:26Z",
+  "updated": "2026-08-14T16:55:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-14T15:53:22Z",
+      "publishedAt": "2026-08-14T16:55:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b147e54d935c",
+      "title": "Philippines drug war victims seek justice through truth commission",
+      "description": "Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.",
+      "url": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-14T16:08:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a7f2d4d385c-1786719565.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -35,23 +51,8 @@
       "tags": []
     },
     {
-      "id": "al -fb7b9b61fc27",
-      "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
-      "description": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-14T14:48:54Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f24d5bcd9-1786717397.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-3af72bcf9a61",
-      "title": "The Day Kabul Fell: 5 Years After The Taliban Takeover In Afghanistan",
+      "title": "The Day Kabul Fell: Five Years After The Taliban Takeover In Afghanistan",
       "description": "On August 15, 2021, as US troops were nearing the end of their military withdrawal from Afghanistan, Taliban militants took over the presidential palace in Kabul and reestablished control over the country. In interviews with RFE/RL, Afghan and US officials described the unexpected speed of the government's collapse and…",
       "url": "https://www.rferl.org/a/the-day-kabul-fell-5-years-after-the-taliban-takeover-in-afghanistan/33828419.html",
       "source": "RFE/RL",
@@ -77,21 +78,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-14bcadbfa6f5",
-      "title": "Putin’s recruiters scramble to avoid second mass mobilisation as Ukraine losses mount",
-      "description": "Russia is losing 30,000 casualties a month, and the country’s regions are under pressure to feed the ‘meat-grinder’. Experts say it may not be enoughIn kitchens and Telegram chats across Russia, the same question is being asked with growing frequency: will Vladimir Putin order another mobilisation?Nearly five years int…",
-      "url": "https://www.theguardian.com/world/2026/aug/14/russia-ukraine-putin-recruiters-mobilisation",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-14T13:00:27Z",
-      "image": "https://i.guim.co.uk/img/media/60688a54bbd26e1a312dbf4312b3d3b0403d3283/612_7_5684_4547/master/5684.jpg?width=140&quality=85&auto=format&fit=max&s=db81ea056eb491083273341a74bd5b4c",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -122,6 +108,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-8246a8c5bdc2",
+      "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+      "description": "Former PM of Israel calls events ‘concerted and meticulous attempt at ethnic cleansing’ against PalestiniansIsraeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out.Isr…",
+      "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-13T18:54:09Z",
+      "image": "https://i.guim.co.uk/img/media/984b705b2dc75d9b66b3afd2357474640da9ad05/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=238ad9784a0802236713569ef5f3b94a",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

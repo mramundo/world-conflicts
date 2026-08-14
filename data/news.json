@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T16:55:20Z",
+  "updated": "2026-08-14T17:54:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-14T16:55:15Z",
+      "publishedAt": "2026-08-14T17:54:03Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-cdb5e60cca7d",
+      "title": "Why is Selena Gomez being sued?",
+      "description": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
+      "url": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-14T16:59:53Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e075/live/9e8057c0-97fc-11f1-9577-b1309b6ea3af.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -97,21 +113,6 @@
       "tags": []
     },
     {
-      "id": "bbc-09443cca3ddd",
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-13T20:12:17Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4905/live/113cee30-9736-11f1-870d-5d08c49babb2.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-8246a8c5bdc2",
       "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
       "description": "Former PM of Israel calls events ‘concerted and meticulous attempt at ethnic cleansing’ against PalestiniansIsraeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out.Isr…",
@@ -127,17 +128,17 @@
       "tags": []
     },
     {
-      "id": "ans-8aa0710e11bd",
-      "title": "Media, Kiev ha proposto a Mosca una tregua su obiettivi civili nel Mar Nero",
-      "description": "I raid reciproci contro le spedizioni di grano rischiano impatto sui prezzi mondiali",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/media-kiev-ha-proposto-a-mosca-una-tregua-su-obiettivi-civili-nel-mar_bc083752-3da0-42b9-9b78-82e170b0fcfa.html",
+      "id": "ans-84e56afcef3c",
+      "title": "Mosca, 'infondate le critiche sulle isole Curili, da Tokyo revisionismo'",
+      "description": "Zakharova: 'Politicamente irrilevanti, offensive'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/13/mosca-infondate-le-critiche-sulle-isole-curili-da-tokyo-revisionismo_5e40b38a-7d05-4a22-94ec-493688e9eee0.html",
       "source": "ANSA",
-      "publishedAt": "2026-08-13T17:25:08Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/13/e7c0d03fa7d00b7302b26617d225a2d1.jpg",
+      "publishedAt": "2026-08-13T18:44:18Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/13/02f730c5786b2d2fdaa950cc9fd0bd40.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

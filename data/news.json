@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-14T13:09:27Z",
+  "updated": "2026-08-14T14:53:09Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-14T13:09:24Z",
+      "publishedAt": "2026-08-14T14:53:05Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-3af72bcf9a61",
+      "title": "The Day Kabul Fell: 5 Years After The Taliban Takeover In Afghanistan",
+      "description": "On August 15, 2021, as US troops were nearing the end of their military withdrawal from Afghanistan, Taliban militants took over the presidential palace in Kabul and reestablished control over the country. In interviews with RFE/RL, Afghan and US officials described the unexpected speed of the government's collapse and…",
+      "url": "https://www.rferl.org/a/the-day-kabul-fell-5-years-after-the-taliban-takeover-in-afghanistan/33828419.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-14T14:43:02Z",
+      "image": "https://gdb.rferl.org/e5ee0721-ab9f-4afd-7f9c-08def2afcceb_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-14bcadbfa6f5",
+      "title": "Putin’s recruiters scramble to avoid second mass mobilisation as Ukraine losses mount",
+      "description": "Russia is losing 30,000 casualties a month, and the country’s regions are under pressure to feed the ‘meat-grinder’. Experts say it may not be enoughIn kitchens and Telegram chats across Russia, the same question is being asked with growing frequency: will Vladimir Putin order another mobilisation?Nearly five years int…",
+      "url": "https://www.theguardian.com/world/2026/aug/14/russia-ukraine-putin-recruiters-mobilisation",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-14T13:00:27Z",
+      "image": "https://i.guim.co.uk/img/media/60688a54bbd26e1a312dbf4312b3d3b0403d3283/612_7_5684_4547/master/5684.jpg?width=140&quality=85&auto=format&fit=max&s=db81ea056eb491083273341a74bd5b4c",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-5addbe6e1656",
-      "title": "Ukraine: Civilian casualties hit highest level since May 2022",
-      "description": "Russian strikes have killed at least one person and wounded 15 in Kramatorsk, eastern Ukraine, according to regional authorities, while a separate attack on Zaporizhzhia in the southeast injured two. The latest strikes come as Moscow steps up its long-range attacks, with the United Nations reporting that civilian death…",
-      "url": "https://www.france24.com/en/ukraine-civilian-casualties-hit-highest-level-since-may-2022",
-      "source": "France24",
-      "publishedAt": "2026-08-14T09:08:02Z",
-      "image": "https://s.france24.com/media/display/1b91ba1c-97ba-11f1-88be-005056a97e36/w:1024/p:16x9/EN-20260814-090722-090901-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -168,38 +184,6 @@
       "image": "https://static.kyivpost.com/storage/2026/07/09/cc16ef8f4a7921903e2f8d9feac73716.jpeg?w=640&q=90&f=jpg",
       "categories": [
         "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-77d5e366a46d",
-      "title": "Ukrainian Ground Drones Run Supplies, Evacuate Wounded Under Russian Fire",
-      "description": "RFE/RL followed soldiers from Ukraine’s 117th Mechanized Brigade as they deployed ground drones to frontline positions in the Donetsk region. The unmanned vehicles carry ammunition and supplies across roads exposed to Russian drones.",
-      "url": "https://www.rferl.org/a/ukrainian-ground-drones-run-supplies-evacuate-wounded-under-russian-fire/33826778.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-11T16:24:09Z",
-      "image": "https://gdb.rferl.org/bce52f57-9d45-4a36-83b8-08decad17715_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-78b87888e2c8",
-      "title": "Human rights groups sue Trump administration over ‘crippling’ ICC sanctions",
-      "description": "Lawsuit challenges executive order targeting international criminal court for investigating Israeli crimes in PalestineFour prominent US human rights organizations have accused the Trump administration of using its “crippling” sanctions regime against the international criminal court (ICC) to undermine global efforts t…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-11T15:10:16Z",
-      "image": "https://i.guim.co.uk/img/media/5c551917c35bcb59f884aa24a70b9287bb68abe0/43_0_3252_2602/master/3252.jpg?width=140&quality=85&auto=format&fit=max&s=520bef75288fea8915461a475cff25df",
-      "categories": [
-        "conflict",
-        "humanitarian"
       ],
       "relevanceScore": 11,
       "isAnalysis": false,

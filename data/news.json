@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T06:15:13Z",
+  "updated": "2026-08-14T08:16:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-14T06:15:08Z",
+      "publishedAt": "2026-08-14T08:16:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,17 @@
       "tags": []
     },
     {
-      "id": "al -5991551679c7",
-      "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-      "description": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+      "id": "al -8cbf7c311d71",
+      "title": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
+      "description": "UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-14T00:02:22Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-01-07T094617Z_210955806_RC2KZAAH0EJZ_RTRMADP_3_YEMEN-SECURITY-1786212975.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-14T02:21:29Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7e64a87910-1786668200.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -92,6 +92,21 @@
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-cda6aff11e15",
+      "title": "Russian Military Officer Killed in Annexed Crimea Bomb Explosion",
+      "description": "Telegram channels identified the victim as Captain First Rank Robert Shageyev, who defected to Russia during the 2014 annexation of Crimea.",
+      "url": "https://www.themoscowtimes.com/2026/08/13/russian-military-officer-killed-in-annexed-crimea-bomb-explosion-a93488",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-13T12:12:14Z",
+      "image": "https://static.themoscowtimes.com/image/og/39/93488__3945043897c35f7fdbad24964b99d73a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -202,22 +217,6 @@
         "humanitarian"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-8d7a9fae631b",
-      "title": "One Killed in Ukrainian Attack on Wildberries Logistics Center in Voronezh",
-      "description": "The online retailer said it evacuated employees from the facility after a fire broke out during the overnight drone strikes.",
-      "url": "https://www.themoscowtimes.com/2026/08/11/one-killed-in-ukrainian-strike-on-wildberries-logistics-center-in-voronezh-a93454",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-11T07:39:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/e5/93454__e51db7cec738be88ce0a9127c677089a.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

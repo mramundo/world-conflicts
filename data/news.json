@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-14T21:26:27Z",
+  "updated": "2026-08-14T22:24:23Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-14T21:26:24Z",
+      "publishedAt": "2026-08-14T22:24:21Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-da747840e036",
+      "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
+      "description": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
+      "source": "NPR World",
+      "publishedAt": "2026-08-14T22:03:08Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5931244",
       "categories": [
         "conflict"
       ],
@@ -98,21 +113,6 @@
       "tags": []
     },
     {
-      "id": "npr-7de0bbecb16f",
-      "title": "U.S. missionary who was kidnapped in Niger is released",
-      "description": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-      "source": "NPR World",
-      "publishedAt": "2026-08-14T12:11:50Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2140x1427+0+0/resize/2140x1427!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2F7d%2F19a4382b4c6ea2a03acb2a7d4427%2Fap26226304580288.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-8246a8c5bdc2",
       "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
       "description": "Former PM of Israel calls events ‘concerted and meticulous attempt at ethnic cleansing’ against PalestiniansIsraeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out.Isr…",
@@ -156,22 +156,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-8593da4a00c8",
-      "title": "What would a North Korean troop surge mean for Ukraine war?",
-      "description": "Ukraine is claiming that North Korea is preparing to send tens of thousands more troops to Russia, where they'll gain valuable battlefield experience.",
-      "url": "https://www.dw.com/en/what-would-a-north-korean-troop-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-13T10:54:00Z",
-      "image": "https://static.dw.com/image/76947268_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T09:27:03Z",
+  "updated": "2026-08-15T10:24:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -10,12 +10,57 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-15T09:27:01Z",
+      "publishedAt": "2026-08-15T10:24:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-538dca157ec8",
+      "title": "Summer Campaign Led to Capture of 19 Settlements in Southeast Ukraine – Defense Ministry",
+      "description": "Russian advances on the frontline have slowed this year even as Moscow has intensified its ballistic strikes on Kyiv and other Ukrainian cities.",
+      "url": "https://www.themoscowtimes.com/2026/08/15/summer-campaign-led-to-capture-of-19-settlements-in-southeast-ukraine-defense-ministry-a93504",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-15T10:14:01Z",
+      "image": "https://static.themoscowtimes.com/image/og/69/93504__69a733c61d551457493452cfb7dc9bf4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -bb4d0dd32d7d",
+      "title": "Trump's silent Iran war: Withheld information, shifting objectives and skilled deception",
+      "description": "US media have reported on deteriorating living conditions for sailors aboard the USS Abraham Lincoln aircraft carrier, deployed for over eight months. Yet the White House has shown little willingness to provide information on the conflict.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/15/trump-s-silent-iran-war-withheld-information-shifting-objectives-and-skilled-deception_6756537_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-15T10:02:35Z",
+      "image": "https://img.lemde.fr/2026/03/30/436/0/5238/2619/644/322/60/0/43b152b_ftp-1-uccojsi4t2cr-2026-03-30t170720z-1106578551-rc2pwja8z6ap-rtrmadp-3-iran-crisis-usa-military.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-20472af8545b",
+      "title": "South Korea proposes talks to officially end war with North",
+      "description": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-15T09:35:23Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,38 +111,6 @@
       "tags": []
     },
     {
-      "id": "le -07e45d46f4bd",
-      "title": "Afghanistan's Taliban break out of international isolation five years after returning to power",
-      "description": "Neighboring capitals now engage with Kabul over regional trade routes, while American and European officials are negotiating with the regime in the name of counterterrorism and the return of failed asylum seekers to Afghanistan.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/15/afghanistan-s-taliban-break-out-of-international-isolation-five-years-after-returning-to-power_6756531_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-15T03:01:02Z",
-      "image": "https://img.lemde.fr/2026/08/12/0/0/5519/2759/644/322/60/0/e8d04af_ftp-1-0kzohgakisqf-5821739-01-06.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-cdb5e60cca7d",
-      "title": "Why is Selena Gomez being sued?",
-      "description": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
-      "url": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-14T16:59:53Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e075/live/9e8057c0-97fc-11f1-9577-b1309b6ea3af.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "fra-c6c2f756bb03",
       "title": "‘We never leave’: Palestinians besieged in West Bank fear Israeli settlers will seize their homes",
       "description": "For nearly a week, Israeli settlers have been surrounding homes in the West bank village of Qusra in a coordinated offensive to force Palestinian residents from their homes in order to seize new land.",
@@ -140,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-cda6aff11e15",
-      "title": "Russian Military Officer Killed in Annexed Crimea Bomb Explosion",
-      "description": "Telegram channels identified the victim as Captain First Rank Robert Shageyev, who defected to Russia during the 2014 annexation of Crimea.",
-      "url": "https://www.themoscowtimes.com/2026/08/13/russian-military-officer-killed-in-annexed-crimea-bomb-explosion-a93488",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-13T12:12:14Z",
-      "image": "https://static.themoscowtimes.com/image/og/39/93488__3945043897c35f7fdbad24964b99d73a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

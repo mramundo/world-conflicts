@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-15T11:21:23Z",
+  "updated": "2026-08-15T12:39:55Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/natural-disasters/at-least-38-dead-in-eastern-indonesia-earthquake-of-magnitude-7.7",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-15T11:21:21Z",
+      "publishedAt": "2026-08-15T12:39:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F9%2F12979661-1-eng-GB%2F926340bc34f2-2026-08-15T014921Z_1153023905_RC2PYMARVDRS_RTRMADP_3_INDONESIA-QUAKE.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-8890d3817dfd",
+      "title": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-15T12:25:11Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -fa9f6ff3ee65",
+      "title": "Lebanon: Nine killed by Israeli airstrikes in south of country",
+      "description": "Israel said it carried out retaliatory strikes against the Iran-backed militant group, but Lebanon's prime minister said seven people killed in one of the strikes were not 'military targets' and urged Israel to halt an 'extremely dangerous' escalation.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/15/lebanon-nine-killed-by-israeli-airstrikes-in-south-of-country_6756538_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-15T11:32:21Z",
+      "image": "https://img.lemde.fr/2026/08/15/42/0/5000/2500/644/322/60/0/aa008e8_ftp-1-y3kc79tx4gqc-b1b34b59cbe540e4b0d7026ac86f135b-0-08d60f275cae4a0cbd205f0e6eb7efaf.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,36 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -bb4d0dd32d7d",
-      "title": "Trump's silent Iran war: Withheld information, shifting objectives and skilled deception",
-      "description": "US media have reported on deteriorating living conditions for sailors aboard the USS Abraham Lincoln aircraft carrier, deployed for over eight months. Yet the White House has shown little willingness to provide information on the conflict.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/15/trump-s-silent-iran-war-withheld-information-shifting-objectives-and-skilled-deception_6756537_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-15T10:02:35Z",
-      "image": "https://img.lemde.fr/2026/03/30/436/0/5238/2619/644/322/60/0/43b152b_ftp-1-uccojsi4t2cr-2026-03-30t170720z-1106578551-rc2pwja8z6ap-rtrmadp-3-iran-crisis-usa-military.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-20472af8545b",
-      "title": "South Korea proposes talks to officially end war with North",
-      "description": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-15T09:35:23Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -108,21 +108,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-c6c2f756bb03",
-      "title": "‘We never leave’: Palestinians besieged in West Bank fear Israeli settlers will seize their homes",
-      "description": "For nearly a week, Israeli settlers have been surrounding homes in the West bank village of Qusra in a coordinated offensive to force Palestinian residents from their homes in order to seize new land.",
-      "url": "https://www.france24.com/en/middle-east/20260814-israel-s-new-west-bank-settlements-bring-chaos-to-palestinians",
-      "source": "France24",
-      "publishedAt": "2026-08-14T16:15:18Z",
-      "image": "https://s.france24.com/media/display/b7439d4a-97d3-11f1-a56a-005056a90284/w:1024/p:16x9/000-C4N84NT.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

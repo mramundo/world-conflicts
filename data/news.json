@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T05:26:24Z",
+  "updated": "2026-08-15T06:40:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -10,13 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/retail/jd.com-s-revenue-dips-facing-headwinds-even-as-delivery-price-war-eases",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-15T05:26:22Z",
+      "publishedAt": "2026-08-15T06:40:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F1%2F6%2F4%2F12974610-1-eng-GB%2F82dee2b8bd1a-20260813N-JD.com-food-delivery.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-ab484fbefd9f",
+      "title": "Germany Urges Citizens to Avoid Ukraine Rail Travel Ahead of Aug. 24",
+      "description": "The German Embassy in Kyiv has issued a security advisory for its citizens to avoid rail travel in Ukraine ahead of the Aug. 24 Independence Day, citing the risk of Russian strikes on transport and energy infrastructure. The Ukrainian Center for Strategic Communications, referencing US intelligence, reported potential …",
+      "url": "https://www.kyivpost.com/post/82391",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-08-15T06:25:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/08/15/ef3b3b1ad0e04ac755d1f595ce044f9e.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -01b43ea2ed17",
+      "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+      "description": "Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-15T05:14:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Sudanese-and-Chadian-children-learning-together-in-the-school-Courtesy-of-Plan-International-1786718561.jpg?resize=1920%2C1334",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -32,21 +63,6 @@
         "humanitarian"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f48d2ac25c14",
-      "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-      "description": "Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-14T22:58:58Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-14-at-23.55.01-1786748191.png?resize=1200%2C630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -171,22 +187,6 @@
         "analysis"
       ],
       "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-2c7f052fbbc9",
-      "title": "Kremlin Removes Even Weak Opposition as Ukraine War Takes Toll",
-      "description": "Yabloko’s removal from Russia’s parliamentary ballot comes as even state-linked pollsters record falling support for Vladimir Putin and the war in Ukraine. Yet the party’s history, internal divisions and some of its leaders’ statements about Ukraine illustrate why opposing Putin does not automatically make someone a re…",
-      "url": "https://www.kyivpost.com/analysis/82212",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-12T12:03:25Z",
-      "image": "https://static.kyivpost.com/storage/2026/08/12/737682280e76a530c09eb221a17f4fe6.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     }

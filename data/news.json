@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-16T16:26:50Z",
+  "updated": "2026-08-16T17:20:30Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/natural-disasters/at-least-47-dead-in-eastern-indonesia-earthquake-of-magnitude-7.7",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-16T16:26:46Z",
+      "publishedAt": "2026-08-16T17:20:28Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F9%2F12979661-1-eng-GB%2F926340bc34f2-2026-08-15T014921Z_1153023905_RC2PYMARVDRS_RTRMADP_3_INDONESIA-QUAKE.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-5467f9af8d64",
+      "title": "Ukrainian drone attack on Russia kills at least six, says Moscow",
+      "description": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capitalUkraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian autho…",
+      "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-16T16:10:19Z",
+      "image": "https://i.guim.co.uk/img/media/32117ccbd21fa32d8a2eba949e84cad036fc92aa/253_0_2820_2255/master/2820.jpg?width=140&quality=85&auto=format&fit=max&s=bcab99a0787c585fc4e360f38b6d2e7f",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -113,7 +128,7 @@
     {
       "id": "deu-9db7e701d678",
       "title": "Troops from North Korea to boost Russia's Ukraine forces",
-      "description": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt that this will make a fundamental difference in the course of Russia's war with Ukraine.",
+      "description": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt this will make a fundamental difference in the course of Russia's war with Ukraine.",
       "url": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-08-16T06:49:00Z",
@@ -168,36 +183,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-8246a8c5bdc2",
-      "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
-      "description": "Former PM of Israel calls events ‘concerted and meticulous attempt at ethnic cleansing’ against PalestiniansIsraeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out.Isr…",
-      "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-13T18:54:09Z",
-      "image": "https://i.guim.co.uk/img/media/984b705b2dc75d9b66b3afd2357474640da9ad05/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=238ad9784a0802236713569ef5f3b94a",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -d40c3b3a74e4",
-      "title": "A climbing gym in Damascus allows Syrians to scale new heights after a long war",
-      "description": "Siblings Moaz, Yasseen, and Zahira Tasabehji founded a climbing gym known as Jabalna (Arabic for “our mountain”).",
-      "url": "https://www.csmonitor.com/World/2026/0813/syria-war-rock-climbing?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-08-13T16:42:25Z",
-      "image": "https://images.csmonitor.com/csm/2026/08/0817_SyriaClimbing_HANGING_LEDE.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     }

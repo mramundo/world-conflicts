@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T08:31:28Z",
+  "updated": "2026-08-16T09:28:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/natural-disasters/at-least-47-dead-in-eastern-indonesia-earthquake-of-magnitude-7.7",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-16T08:31:24Z",
+      "publishedAt": "2026-08-16T09:28:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F9%2F12979661-1-eng-GB%2F926340bc34f2-2026-08-15T014921Z_1153023905_RC2PYMARVDRS_RTRMADP_3_INDONESIA-QUAKE.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-5ed2ff548826",
+      "title": "West Bank: Palestinian families besieged for a week as settler violence continues",
+      "description": "Several Palestinian homes in the West Bank village of Qusra have been under siege for a week, with families trapped inside as supplies dwindle and water and electricity are cut off. Settlers have continued their attacks openly, despite the presence of Israeli soldiers and growing international pressure on Israel.",
+      "url": "https://www.france24.com/en/west-bank-palestinian-families-besieged-for-a-week-as-settler-violence-continues",
+      "source": "France24",
+      "publishedAt": "2026-08-16T08:50:57Z",
+      "image": "https://s.france24.com/media/display/f1e33b16-994c-11f1-bedf-005056a90284/w:1024/p:16x9/EN-20260816-100340-100538-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -56,26 +71,11 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-16T00:00:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26227373051696-1786858053.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a802c143351-1786784788.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-5dfa3ac33e51",
-      "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
-      "description": "Israeli airstrikes on southern Lebanon killed at least 11 people Saturday, some of the deadliest since deals in June eased hostilities between Israel and Hezbollah. Israel's military said the strikes were in retaliation for an attack by Hezbollah on its troops in the country's south and the Iran-backed militant group s…",
-      "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
-      "source": "France24",
-      "publishedAt": "2026-08-15T20:37:34Z",
-      "image": "https://s.france24.com/media/display/9bc873a4-98c5-11f1-8108-005056a90284/w:1024/p:16x9/8d2575533c572c55c8b941d6ec31b065014ce460.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -171,6 +171,21 @@
       "tags": []
     },
     {
+      "id": "cs -d40c3b3a74e4",
+      "title": "A climbing gym in Damascus allows Syrians to scale new heights after a long war",
+      "description": "Siblings Moaz, Yasseen, and Zahira Tasabehji founded a climbing gym known as Jabalna (Arabic for “our mountain”).",
+      "url": "https://www.csmonitor.com/World/2026/0813/syria-war-rock-climbing?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-08-13T16:42:25Z",
+      "image": "https://images.csmonitor.com/csm/2026/08/0817_SyriaClimbing_HANGING_LEDE.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "un -670e025c5871",
       "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
       "description": "As tensions triggered by the US-Iran war continue to ripple across the Middle East, the Security Council held an open debate Thursday on Yemen, where escalating deadly military clashes are worsening an already fragile humanitarian situation amid fears that recent Houthi missile strikes on Saudi Arabia and commercial ve…",
@@ -184,22 +199,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -f82eb5001641",
-      "title": "Why former Soviet states now challenge Russia over Ukraine war",
-      "description": "Former Soviet states in Central Asia are questioning Russia’s war with Ukraine",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0813/Kazakhstan-Asia-Soviet-Russia-Ukraine?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-08-13T09:00:10Z",
-      "image": "https://images.csmonitor.com/csm/2026/08/0807_OKAZAKHSTAN_putin_and_kaz_pres.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     }
   ]

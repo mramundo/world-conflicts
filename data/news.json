@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T12:41:22Z",
+  "updated": "2026-08-16T13:32:21Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/natural-disasters/at-least-47-dead-in-eastern-indonesia-earthquake-of-magnitude-7.7",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-16T12:41:19Z",
+      "publishedAt": "2026-08-16T13:32:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F9%2F12979661-1-eng-GB%2F926340bc34f2-2026-08-15T014921Z_1153023905_RC2PYMARVDRS_RTRMADP_3_INDONESIA-QUAKE.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-1a04b612e51c",
+      "title": "Drone Strike Hits Nova Poshta Depot Near Odesa, Injuring 4",
+      "description": "Russian forces struck a Nova Poshta logistics facility located inside an Epicentr shopping center on the outskirts of Odesa on Aug. 16. Odesa Regional Military Administration Head Oleh Kiper reported that a 42-year-old woman and a 32-year-old man were hospitalized with shrapnel wounds following the attack by a “jet-pow…",
+      "url": "https://www.kyivpost.com/post/82460",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-08-16T13:16:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/08/16/fdeddc86212c90e2e5b4989975aa02ee.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -122,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-ab484fbefd9f",
-      "title": "Germany Urges Citizens to Avoid Ukraine Rail Travel Ahead of Aug. 24",
-      "description": "The German Embassy in Kyiv has issued a security advisory for its citizens to avoid rail travel in Ukraine ahead of the Aug. 24 Independence Day, citing the risk of Russian strikes on transport and energy infrastructure. The Ukrainian Center for Strategic Communications, referencing US intelligence, reported potential …",
-      "url": "https://www.kyivpost.com/post/82391",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-15T06:25:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/08/15/ef3b3b1ad0e04ac755d1f595ce044f9e.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

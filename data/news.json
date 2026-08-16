@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T23:21:35Z",
+  "updated": "2026-08-16T01:24:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/natural-disasters/at-least-47-dead-in-eastern-indonesia-earthquake-of-magnitude-7.7",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-15T23:21:31Z",
+      "publishedAt": "2026-08-16T01:24:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F9%2F12979661-1-eng-GB%2F926340bc34f2-2026-08-15T014921Z_1153023905_RC2PYMARVDRS_RTRMADP_3_INDONESIA-QUAKE.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a8c92461db55",
+      "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+      "description": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-16T00:00:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260815__C4QE99U__v1__HighRes__LebanonIsraelIranUsWar-1786837793.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,22 +77,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -8f72bedfbc7d",
-      "title": "The next Yemen war might be different",
-      "description": "Drones are no longer the advantage for only one side.",
-      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-15T14:32:07Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-11T014155Z_920576559_RC2JVMALG6M4_RTRMADP_3_IRAN-CRISIS-YEMEN-MOCHA-1786800659.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

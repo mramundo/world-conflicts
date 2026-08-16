@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T10:24:46Z",
+  "updated": "2026-08-16T11:21:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/natural-disasters/at-least-47-dead-in-eastern-indonesia-earthquake-of-magnitude-7.7",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-16T10:24:41Z",
+      "publishedAt": "2026-08-16T11:21:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F9%2F12979661-1-eng-GB%2F926340bc34f2-2026-08-15T014921Z_1153023905_RC2PYMARVDRS_RTRMADP_3_INDONESIA-QUAKE.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b1a922c6dce5",
+      "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+      "description": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.",
+      "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-16T10:59:10Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26227373051696-1786858053.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -91,21 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -abfb728b448e",
-      "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-      "description": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-16T04:54:33Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-16T035916Z_815236084_RC2EZMAIIWQO_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1786860930.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

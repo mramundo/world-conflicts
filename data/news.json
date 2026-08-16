@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-16T19:21:55Z",
+  "updated": "2026-08-16T20:24:10Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/natural-disasters/at-least-47-dead-in-eastern-indonesia-earthquake-of-magnitude-7.7",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-16T19:21:52Z",
+      "publishedAt": "2026-08-16T20:24:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F6%2F6%2F9%2F12979661-1-eng-GB%2F926340bc34f2-2026-08-15T014921Z_1153023905_RC2PYMARVDRS_RTRMADP_3_INDONESIA-QUAKE.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-aae2f5cc0ce3",
+      "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+      "description": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire.",
+      "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "source": "NPR World",
+      "publishedAt": "2026-08-16T20:20:22Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7295x4863+0+0/resize/7295x4863!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2Fe7%2Fa09053624bd6bf05bc01b10f7fad%2Fap26226028475268.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -4079790a415b",
+      "title": "Top military commander visits long-deployed aircraft carrier",
+      "description": "U.S. troops have been deployed on the USS Abraham Lincoln for a record 240 days. Adm. Brad Cooper visited the sailors amid reports of deteriorating mental health.",
+      "url": "https://www.csmonitor.com/World/2026/0816/brad-cooper-uss-lincoln-mental-health?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-08-16T19:48:52Z",
+      "image": "https://images.csmonitor.com/csm/2026/08/1217612_1_0816-USS-Abraham-Lincoln_standard.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-3b807b0be3f8",
+      "title": "Drone and missile strikes kill 19 in Russia and Ukraine",
+      "description": "At least 19 people were killed Sunday in drone and missile strikes in Russia and Ukraine which destroyed a book market in Kyiv while Moscow faced one of the most massive attacks since the start of the war. Ukraine and Russia have been escalating their long-range strikes for months, resulting in a growing number of civi…",
+      "url": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-08-16T19:12:31Z",
+      "image": "https://s.france24.com/media/display/89ece206-995a-11f1-9e76-005056a90284/w:1024/p:16x9/46db3463b3cb9c79760936ea765719426849a89c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,18 +81,19 @@
       "tags": []
     },
     {
-      "id": "fra-53a72380085d",
-      "title": "Iran offers $30,000 bounty for killing or capturing US soldiers",
-      "description": "The Iranian military announced on Sunday it would be offering a $30,000 reward for killing or capturing US soldiers, with the bounty doubled if conducted by a woman. There have been no known deployments of US ground troops in Iran during the war except for a rescue mission carried out in April.",
-      "url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
-      "source": "France24",
-      "publishedAt": "2026-08-16T15:40:26Z",
-      "image": "https://s.france24.com/media/display/2a9f5802-8ecd-11f1-8fd4-005056bf30b7/w:1024/p:16x9/AP26208419033757.jpg",
+      "id": "al -828aa21a5219",
+      "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+      "description": "About 2.5 million people, including Japanese war criminals who fought for the country, are enshrined at Yasukuni.",
+      "url": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-16T14:29:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/09/AP24230354554435-1727334024.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -61,37 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -b1a922c6dce5",
-      "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-      "description": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-16T10:59:10Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26227373051696-1786858053.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-85acd6d5e907",
-      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-      "description": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-      "source": "NPR World",
-      "publishedAt": "2026-08-16T10:12:09Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8200x5467+0+0/resize/8200x5467!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2Fa6%2Ff799f4124a77b99e65e2a6809088%2Fap26228200338886.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

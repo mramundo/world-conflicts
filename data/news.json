@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T17:27:20Z",
+  "updated": "2026-08-17T18:40:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-17T17:27:15Z",
+      "publishedAt": "2026-08-17T18:40:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c28d65c76c7a",
+      "title": "Somali army clashes with rebel forces for control of key city Baidoa",
+      "description": "Somali forces repel rebel fighters in Baidoa after intense fighting involving explosives and dozens of casualties.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-17T16:24:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a82ffc8-1786970056.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -98,19 +113,18 @@
       "tags": []
     },
     {
-      "id": "al -11f144277e2c",
-      "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
-      "description": "Jared Kushner to meet Netanyahu next, after Israel rejected Trump&#039;s 15-point Gaza roadmap.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-17T13:07:19Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20250208__36XE783__v1__HighRes__IranPalestinianIsraelConflictDiplomacy-1-2-1786973739.jpg?resize=1200%2C630",
+      "id": "un -4fb62f237610",
+      "title": "Yemen: Türk alarmed by rising civilian toll, urges restraint",
+      "description": "Escalating conflict in Yemen is killing and injuring a growing number of civilians, the UN human rights chief warned on Monday, as Houthi rebels also strike Saudi Arabia and Red Sea shipping linked to the wider Iran–US confrontation.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168151",
+      "source": "UN News",
+      "publishedAt": "2026-08-17T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-UNHCR-Yemen.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -203,21 +217,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -8a017754e712",
-      "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
-      "description": "Demobilised former combatants are actively joining the fight against Ebola by participating in public information campaigns in the east of the Democratic Republic of the Congo (DRC).&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168146",
-      "source": "UN News",
-      "publishedAt": "2026-08-15T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/14-08-2026-MONUSCO-DR-Congo-ebola-02.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     }
   ]

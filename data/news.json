@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T05:36:10Z",
+  "updated": "2026-08-17T06:58:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-17T05:36:06Z",
+      "publishedAt": "2026-08-17T06:58:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-e3d7c0ac2a93",
+      "title": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
+      "description": "Jared Kushner set to meet Netanyahu following talks with HamasJared Kushner meets with Hamas ahead of talks with Netanyahu on GazaWelcome to our live coverage of the latest in the continuing conflicts in the Middle East.Donald Trump’s envoys met with Egyptian, Qatari and Turkish mediators in Cairo on Sunday, a diplomat…",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-17T06:32:03Z",
+      "image": "https://i.guim.co.uk/img/media/130351c0b118bb75e17e9ed4b3a296be5375ede0/125_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=23111105116469e72c1a1da0a4ae01bc",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 13,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,22 +78,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-25ce347a430e",
-      "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-      "description": "Trump’s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefireDonald Trump’s son-in-law and envoy, Jared Kushner, held a rare meeting with Hamas’s political chief on Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet …",
-      "url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-16T22:07:32Z",
-      "image": "https://i.guim.co.uk/img/media/2ab9f13746943762391cd240ceb44d7b9716ead1/0_59_4490_3593/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=0e7308b5019b256dbcee8695b1396197",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

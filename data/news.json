@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T08:50:47Z",
+  "updated": "2026-08-17T09:42:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-17T08:50:42Z",
+      "publishedAt": "2026-08-17T09:42:40Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-9d7b3f0a1c61",
+      "title": "At least 6 dead after Ukraine launches aerial attack on Russia",
+      "description": "Ukraine launched one of its largest aerial attacks of the war on Russia, killing at least six people. How are Russians feeling as the war grinds on?",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5933059/at-least-6-dead-after-ukraine-launches-aerial-attack-on-russia",
+      "source": "NPR World",
+      "publishedAt": "2026-08-17T08:50:38Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5933059",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,22 +108,6 @@
         "humanitarian"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-aae2f5cc0ce3",
-      "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-      "description": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire.",
-      "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-      "source": "NPR World",
-      "publishedAt": "2026-08-16T20:20:22Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7295x4863+0+0/resize/7295x4863!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2Fe7%2Fa09053624bd6bf05bc01b10f7fad%2Fap26226028475268.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

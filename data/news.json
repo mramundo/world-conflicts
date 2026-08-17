@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T13:39:57Z",
+  "updated": "2026-08-17T14:29:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-17T13:39:54Z",
+      "publishedAt": "2026-08-17T14:29:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -25,12 +25,28 @@
       "description": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace planJared Kushner meets with Hamas ahead of talks with Netanyahu on GazaThe UN rights chief voiced alarm Monday at the rising civilian toll of escalating hostilities in Yemen, urging r…",
       "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-08-17T13:11:39Z",
+      "publishedAt": "2026-08-17T14:03:13Z",
       "image": "https://i.guim.co.uk/img/media/130351c0b118bb75e17e9ed4b3a296be5375ede0/125_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=23111105116469e72c1a1da0a4ae01bc",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-2d4b21839f92",
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-17T13:58:38Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/b59ea940-9a3e-11f1-a291-b542ee92de7c.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -41,29 +57,13 @@
       "url": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-17T13:07:19Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2018/07/d445ddf683af40e59eeccdfc98acf387_18.jpeg?resize=1200%2C675",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20250208__36XE783__v1__HighRes__IranPalestinianIsraelConflictDiplomacy-1-2-1786973739.jpg?resize=1200%2C630",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-2d4b21839f92",
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-17T12:27:11Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/056878c0-9a2b-11f1-b650-3b3c4c4b08b3.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

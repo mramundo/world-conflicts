@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T09:42:44Z",
+  "updated": "2026-08-17T10:33:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-17T09:42:40Z",
+      "publishedAt": "2026-08-17T10:33:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-d9285fdc6587",
+      "title": "Wsj, l'Iran ha usato i due mesi di tregua per preparare guerra più ampia",
+      "description": "Aumentata produzione di missili e droni, Teheran non crede nella diplomazia Usa",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/17/wsj-liran-ha-usato-i-due-mesi-di-tregua-per-preparare-guerra-piu_a17e320e-8824-443a-b476-96995e89a687.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-17T10:07:09Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/17/9a4a499d480e915b31e0d1dfac538dc8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,21 +66,6 @@
       "tags": []
     },
     {
-      "id": "ans-d9285fdc6587",
-      "title": "Wsj, l'Iran ha usato i due mesi di tregua per preparare guerra più ampia",
-      "description": "Aumentata produzione di missili e droni, Teheran non crede nella diplomazia Usa",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/17/wsj-liran-ha-usato-i-due-mesi-di-tregua-per-preparare-guerra-piu_a17e320e-8824-443a-b476-96995e89a687.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-17T08:21:35Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/17/9a4a499d480e915b31e0d1dfac538dc8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -7315646b3780",
       "title": "COP17 to Combat Desertification: Geographer Jean-Daniel Cesaro on why pastoralism matters",
       "description": "The UN conference on desertification opens on Monday, August 17, in Mongolia, as 40% of the world's land surface, including a quarter of arable land, is now degraded. In an interview with Le Monde, the researcher argues that France should expand its international exchanges to deepen its expertise.",
@@ -87,7 +87,7 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-17T00:00:35Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260810__C4CF9KE__v1__HighRes__IranUsIsraelWar-1786437861.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2289908029-1786445488-1-1786458686.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],

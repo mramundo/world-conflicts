@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-17T04:42:47Z",
+  "updated": "2026-08-17T05:36:10Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-17T04:42:44Z",
+      "publishedAt": "2026-08-17T05:36:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,33 @@
       "tags": []
     },
     {
-      "id": "le -0daf8620820f",
-      "title": "Portuguese man-o'-war, a highly venomous marine organism, returns to beaches in southwestern France",
-      "description": "Since July, mass strandings of these organisms have been increasing along the Aquitaine coastline. The frequency and scale of the phenomenon have prompted scientists to investigate, particularly to determine the role of climate change.",
-      "url": "https://www.lemonde.fr/en/environment/article/2026/08/17/portuguese-man-o-war-a-highly-venomous-marine-organism-returns-to-beaches-in-southwestern-france_6756571_114.html",
+      "id": "le -7315646b3780",
+      "title": "COP17 to Combat Desertification: Geographer Jean-Daniel Cesaro explains importance of focusing on pastoralism",
+      "description": "With 40% of the world's land surface, including a quarter of arable land, now degraded, the COP17 to Combat Desertification opens on Monday, August 17, in Mongolia. In an interview with Le Monde, the researcher argues that France should expand its international exchanges to deepen its expertise.",
+      "url": "https://www.lemonde.fr/en/environment/article/2026/08/17/cop17-to-combat-desertification-geographer-jean-daniel-cesaro-explains-importance-of-focusing-on-pastoralism_6756576_114.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-17T00:36:45Z",
-      "image": "https://img.lemde.fr/2026/08/13/1931/0/4284/2142/644/322/60/0/6b5dc30_upload-1-pvofs39f01dl-2026-07-31-perreire-physalie-zoste-re.JPG",
+      "publishedAt": "2026-08-17T05:01:04Z",
+      "image": "https://img.lemde.fr/2026/08/14/1333/0/2667/1333/644/322/60/0/d9a5011_upload-1-uhwa4bofe43f-img-1627.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-2d4b21839f92",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-17T04:50:56Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c31f/live/48688550-99f6-11f1-b2ab-0dd01740f9f6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -41,7 +57,7 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-17T00:00:35Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a825656138c-1786926678.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260810__C4CF9KE__v1__HighRes__IranUsIsraelWar-1786437861.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -97,22 +113,6 @@
       "tags": []
     },
     {
-      "id": "bbc-2d4b21839f92",
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-16T19:58:14Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -4079790a415b",
       "title": "Top military commander visits long-deployed aircraft carrier",
       "description": "U.S. troops have been deployed on the USS Abraham Lincoln for a record 240 days. Adm. Brad Cooper visited the sailors amid reports of deteriorating mental health.",
@@ -124,6 +124,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-3b807b0be3f8",
+      "title": "Drone and missile strikes kill 19 in Russia and Ukraine",
+      "description": "At least 19 people were killed Sunday in drone and missile strikes in Russia and Ukraine which destroyed a book market in Kyiv while Moscow faced one of the most massive attacks since the start of the war. Ukraine and Russia have been escalating their long-range strikes for months, resulting in a growing number of civi…",
+      "url": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-08-16T19:12:31Z",
+      "image": "https://s.france24.com/media/display/89ece206-995a-11f1-9e76-005056a90284/w:1024/p:16x9/46db3463b3cb9c79760936ea765719426849a89c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

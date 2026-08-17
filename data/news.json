@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T12:46:54Z",
+  "updated": "2026-08-17T13:39:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-17T12:46:51Z",
+      "publishedAt": "2026-08-17T13:39:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -25,13 +25,29 @@
       "description": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace planJared Kushner meets with Hamas ahead of talks with Netanyahu on GazaThe UN rights chief voiced alarm Monday at the rising civilian toll of escalating hostilities in Yemen, urging r…",
       "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-08-17T12:37:36Z",
+      "publishedAt": "2026-08-17T13:11:39Z",
       "image": "https://i.guim.co.uk/img/media/130351c0b118bb75e17e9ed4b3a296be5375ede0/125_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=23111105116469e72c1a1da0a4ae01bc",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -11f144277e2c",
+      "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
+      "description": "Jared Kushner to meet Netanyahu next, after Israel rejected Trump&#039;s 15-point Gaza roadmap.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-17T13:07:19Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2018/07/d445ddf683af40e59eeccdfc98acf387_18.jpeg?resize=1200%2C675",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -47,21 +63,6 @@
         "humanitarian"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -b0a4bd6d570f",
-      "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
-      "description": "Explosive drones target Iraqi Kurdish PM&#039;s office and security chief&#039;s residence; no casualties reported.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-17T10:54:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20250625__63QC4XF__v1__HighRes__IraqKurdsPolitics-1786957925.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

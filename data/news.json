@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T23:21:10Z",
+  "updated": "2026-08-17T01:21:18Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-16T23:21:05Z",
+      "publishedAt": "2026-08-17T01:21:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -41ad035fedbc",
+      "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+      "description": "Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-17T00:00:35Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a825656138c-1786926678.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -a0df9d2968df",
-      "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
-      "description": "Israeli settlers and soldiers besiege Qusra families for eight days, blocking water and aid.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-16T17:18:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-13T132035Z_1662892962_RC2PXMATDTPN_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-QUSRA-1786870617.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

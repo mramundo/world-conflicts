@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-17T20:28:19Z",
+  "updated": "2026-08-17T21:27:11Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-17T20:28:16Z",
+      "publishedAt": "2026-08-17T21:27:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -fbff583cfbb0",
+      "title": "With war slowing Saudi food imports, hydroponics provide a homegrown solution",
+      "description": "Hydroponic farms in import-reliant Saudi Arabia are good for business – and for national security as well. With the arid kingdom facing blockades and disruptions on both its coasts, growing food in water, surprisingly, is providing a green line of defense.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0817/saudi-arabia-hydroponic-farms-food-security?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-08-17T19:44:25Z",
+      "image": "https://images.csmonitor.com/csm/2026/08/0817_OSAUDIHYDRO_lede.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
@@ -36,8 +51,8 @@
     },
     {
       "id": "bbc-2d4b21839f92",
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
+      "description": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
       "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-08-17T16:02:58Z",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T20:25:51Z",
+  "updated": "2026-08-18T21:26:08Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-18T20:25:48Z",
+      "publishedAt": "2026-08-18T21:26:04Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -df1ec323be80",
+      "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+      "description": "Concern over the security of Europe&#039;s largest nuclear plant has been rife since Russia launched its full-scale war.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-18T20:45:42Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP23186416669551-1787086401.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-97f9cba6d5da",
+      "title": "ICC says US sanctions on top court members 'undermine rule of law'",
+      "description": "The US on Tuesday imposed sanctions against two top members of the International Criminal Court (ICC) which the court said \"undermine the rule of law\". The move represents the Trump administration's latest salvo against the court based in The Hague, which was set up in 2002 by the international community to prosecute w…",
+      "url": "https://www.france24.com/en/americas/20260818-icc-says-us-sanctions-on-top-court-members-undermine-rule-of-law",
+      "source": "France24",
+      "publishedAt": "2026-08-18T20:31:24Z",
+      "image": "https://s.france24.com/media/display/6a367f22-9b3e-11f1-99ff-005056a97e36/w:1024/p:16x9/000-C4XZ6CV.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,22 +82,6 @@
       "tags": []
     },
     {
-      "id": "al -91753c0bd74f",
-      "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
-      "description": "Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to not rebuild Syria&#039;s air force.",
-      "url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T17:51:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a84555fde-1787057503.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "rfe-32d4a8401639",
       "title": "Dismissed Ex-Defense Minister Says Ukraine Faces Crisis Of Governance, Elections Should Be Held Despite War",
       "description": "A popular former Ukrainian defense minister whose dismissal last month sparked protests has assailed wartime corruption, warned of a crisis of governance in Ukraine, and said the country must find a way to hold elections despite Russia's continuing invasion.",
@@ -80,21 +95,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-fa036eeca48e",
-      "title": "Palestinian American challenges Israeli army outside his home in the West Bank",
-      "description": "For more than a week, militant ​Israeli settlers have encircled Palestinian homes in the West Bank village of Qusra, despite the deployment of the Israeli military. The ongoing siege has prompted Palestinian-American Loui Ridi to come back to his hometown, out of fear that he could lose his property there. On Tuesday h…",
-      "url": "https://www.france24.com/en/palestinian-american-challenges-israeli-army-outside-his-home-in-the-west-bank",
-      "source": "France24",
-      "publishedAt": "2026-08-18T15:43:42Z",
-      "image": "https://s.france24.com/media/display/5e94709a-9b19-11f1-a715-005056a90284/w:1024/p:16x9/EN-20260818-170518-170712-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

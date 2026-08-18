@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-18T05:31:00Z",
+  "updated": "2026-08-18T06:45:47Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-18T05:30:56Z",
+      "publishedAt": "2026-08-18T06:45:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-dd3e8e775a11",
+      "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+      "description": "The Palestinian American whose home in the occupied West Bank has been besieged by Israeli settlers traveled to his property on Monday to join other family members who have been defending it.",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "source": "NPR World",
+      "publishedAt": "2026-08-18T05:51:50Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5103x3402+0+0/resize/5103x3402!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F79%2Fb43421cc43fd92e9f9981e27a206%2Fap26229653630022.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -14b154947b9f",
+      "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
+      "description": "Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-18T05:23:54Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787030547.jpg?resize=1620%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -33,21 +64,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -4b4e018f8457",
-      "title": "Two students killed in Philippines school shooting",
-      "description": "Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T02:51:22Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26230083015701-1787022604.jpg?resize=1920%2C1318",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -99,21 +115,6 @@
       "tags": []
     },
     {
-      "id": "fra-6919d38986fd",
-      "title": "Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'",
-      "description": "A central book market in Kyiv was hit by a Russian strike on Sunday. FRANCE 24’s correspondent in Ukraine, Emmanuelle Chaze, describes the strikes as an attack on \"Ukrainian culture, the Ukrainian language and Ukrainian identity”. She says that “since the beginning of the summer, Russia has already destroyed millions o…",
-      "url": "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity",
-      "source": "France24",
-      "publishedAt": "2026-08-17T15:06:00Z",
-      "image": "https://s.france24.com/media/display/55b2490a-992c-11f1-a8c9-005056a90284/w:1024/p:16x9/2026-08-16T035906Z-1578190600-RC2EZMAYHDRM-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-bb4389e807c5",
       "title": "Russia to Free Up Manpower by Replacing Border Troops With North Korean Soldiers, Ukraine Says",
       "description": "A spokesman for the Ukrainian Volunteer Army said on Monday that Russia might replace up to 20,000 border troops with North Korean soldiers to reinforce the active sectors on the front line. The statement came after Zelensky warned that North Korea might send up to 50,000 soldiers to Russia, while Western intelligence …",
@@ -156,21 +157,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-9d7b3f0a1c61",
-      "title": "At least 6 dead after Ukraine launches aerial attack on Russia",
-      "description": "Ukraine launched one of its largest aerial attacks of the war on Russia, killing at least six people. How are Russians feeling as the war grinds on?",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5933059/at-least-6-dead-after-ukraine-launches-aerial-attack-on-russia",
-      "source": "NPR World",
-      "publishedAt": "2026-08-17T08:50:38Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5933059",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

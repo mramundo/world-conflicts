@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:33:08Z",
+  "updated": "2026-08-18T16:33:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-18T15:33:04Z",
+      "publishedAt": "2026-08-18T16:33:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-fa036eeca48e",
+      "title": "Palestinian American challenges Israeli army outside his home in the West Bank",
+      "description": "For more than a week, militant ​Israeli settlers have encircled Palestinian homes in the West Bank village of Qusra, despite the deployment of the Israeli military. The ongoing siege has prompted Palestinian-American Loui Ridi to come back to his hometown, out of fear that he could lose his property there. On Tuesday h…",
+      "url": "https://www.france24.com/en/palestinian-american-challenges-israeli-army-outside-his-home-in-the-west-bank",
+      "source": "France24",
+      "publishedAt": "2026-08-18T15:43:42Z",
+      "image": "https://s.france24.com/media/display/5e94709a-9b19-11f1-a715-005056a90284/w:1024/p:16x9/EN-20260818-170518-170712-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,17 +81,17 @@
       "tags": []
     },
     {
-      "id": "fra-c1bc53f9d18c",
-      "title": "Ukraine launches over 600 drones at Moscow region",
-      "description": "We start the programme with the latest in the Russia-Ukraine war. Early this morning, Ukraine launched over 600 drones at the Moscow region, in one of its biggest air assaults on the Russian capital. At least three ​people, including a 10-year-old girl, were injured in the region. Meanwhile, a Russian attack on the Kha…",
-      "url": "https://www.france24.com/en/ukraine-launches-over-600-drones-at-moscow-region",
-      "source": "France24",
-      "publishedAt": "2026-08-18T09:57:00Z",
-      "image": "https://s.france24.com/media/display/53506f00-9ae6-11f1-97cb-005056bf30b7/w:1024/p:16x9/EN-20260818-110115-110602-CS.jpg",
+      "id": "le -ad2c4c870888",
+      "title": "Belgian firefighters push to 'encircle' fire in nature reserve",
+      "description": "Hundreds of firefighters, backed by water-bombing aircraft from several countries, have been deployed to try to contain and douse a historic forest fire that struck the High Fens nature reserve, located near the German border.",
+      "url": "https://www.lemonde.fr/en/environment/article/2026/08/18/belgian-firefighters-push-to-encircle-fire-in-nature-reserve_6756622_114.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-18T10:08:41Z",
+      "image": "https://img.lemde.fr/2026/08/18/302/0/5152/2576/644/322/60/0/562b6b0_ftp-1-j0ixbvei4d45-2026-08-18t082328z-608177660-rc2w0nacndk0-rtrmadp-3-europe-weather-belgium-wildfire.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,22 +126,6 @@
       "tags": []
     },
     {
-      "id": "le -d7d4c16ec9cf",
-      "title": "Historian Vincent Lemire: 'In the West Bank, the inaction of Western governments allows violence to be unleashed'",
-      "description": "In the occupied territories, scenes of looting and murder have multiplied over the past two months. As elections in Israel and Palestine approach, the historian calls for France to impose sanctions.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/08/18/historian-vincent-lemire-in-the-west-bank-the-inaction-of-western-governments-allows-violence-to-be-unleashed_6756612_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-18T03:30:07Z",
-      "image": "https://img.lemde.fr/2026/08/14/451/0/5500/2750/644/322/60/0/3fbf9e1_upload-1-5qaptrdl1rd6-wolfk-100826-071.JPG",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "cs -fbff583cfbb0",
       "title": "With war slowing Saudi food imports, hydroponics provide a homegrown solution",
       "description": "Hydroponic farms in import-reliant Saudi Arabia are good for business – and for national security as well. With the arid kingdom facing blockades and disruptions on both its coasts, growing food in water, surprisingly, is providing a green line of defense.",
@@ -157,20 +156,18 @@
       "tags": []
     },
     {
-      "id": "the-96ba44425024",
-      "title": "Can Trump’s peace plan for Gaza be saved? – The Latest",
-      "description": "Donald Trump’s son-in-law Jared Kushner is on a diplomatic mission in the Middle East to meet Hamas officials and the Israeli prime minister, Benjamin Netanyahu, in an attempt to salvage a ceasefire in Gaza.The talks come after Netanyahu rejected the US-backed 15-point peace plan for the territory in a rare public brea…",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/17/can-trumps-peace-plan-for-gaza-be-saved-the-latest",
+      "id": "the-e3d7c0ac2a93",
+      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – as it happened",
+      "description": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace planTrump threatens to bomb Oman if it ‘gets in the way’ of ending Iran warNetanyahu and Kushner talks make no breakthrough on stalled Gaza dealThe UN rights chief voiced alarm Monday …",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-08-17T15:56:48Z",
-      "image": "https://i.guim.co.uk/img/media/8c3dc801bae95d53d4487d1870e2b5c2d8494926/202_0_2222_1777/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=dace3b9b2b1c07c9e8ce899e66f12c78",
+      "publishedAt": "2026-08-17T16:48:26Z",
+      "image": "https://i.guim.co.uk/img/media/130351c0b118bb75e17e9ed4b3a296be5375ede0/125_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=23111105116469e72c1a1da0a4ae01bc",
       "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
+      "relevanceScore": 12,
+      "isAnalysis": false,
       "tags": []
     },
     {

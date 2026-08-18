@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:28:30Z",
+  "updated": "2026-08-18T20:25:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-18T19:28:26Z",
+      "publishedAt": "2026-08-18T20:25:48Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -35,22 +35,6 @@
       "tags": []
     },
     {
-      "id": "rfe-f8374954d396",
-      "title": "As Ukrainian Strikes Hit Hard, Moscow Seeks Deeper Defense Ties With Central Asia",
-      "description": "As the war in Ukraine drags on, the Kremlin is looking beyond its borders for help sustaining its military machine. Russian President Vladimir Putin has recently ordered negotiations to revise military cooperation agreements with Kazakhstan and Uzbekistan.",
-      "url": "https://www.rferl.org/a/russia-kazakhstan-uzbekistan-military-defense-cooperation/33832996.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-18T18:57:00Z",
-      "image": "https://gdb.rferl.org/8f13f1fc-f48e-48d5-9b5d-913c519fcebb_cx2_cy6_cw90_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "le -067875b0ebce",
       "title": "US imposes sanctions on ICC president",
       "description": "The sanctioning of International Criminal Court President Tomoko Akane of Japan is the United States' latest salvo against the Hague-based court. Washington also slapped sanctions on ICC Senior Trial Lawyer Abdoulaye Seye of Senegal.",
@@ -67,22 +51,6 @@
       "tags": []
     },
     {
-      "id": "the-92a2220e259f",
-      "title": "US sanctions international criminal court president and prosecutor",
-      "description": "Marco Rubio targets ICC’s Tomoko Akane and Abdoulaye Seye, who was investigating Israeli war crimes in GazaThe US has sanctioned the president of the international criminal court (ICC) and a prosecutor tasked with investigating crimes committed by Israel during its war on Gaza.The new sanctions designations were unveil…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/us-icc-sanctions",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-18T18:37:59Z",
-      "image": "https://i.guim.co.uk/img/media/0cbe1ff08a51d4068e0c1b84611c3057a08cc497/730_0_3880_3106/master/3880.jpg?width=140&quality=85&auto=format&fit=max&s=af13bf3a1fd541188abc6d80d2777c03",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -91753c0bd74f",
       "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
       "description": "Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to not rebuild Syria&#039;s air force.",
@@ -95,6 +63,22 @@
         "analysis"
       ],
       "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "rfe-32d4a8401639",
+      "title": "Dismissed Ex-Defense Minister Says Ukraine Faces Crisis Of Governance, Elections Should Be Held Despite War",
+      "description": "A popular former Ukrainian defense minister whose dismissal last month sparked protests has assailed wartime corruption, warned of a crisis of governance in Ukraine, and said the country must find a way to hold elections despite Russia's continuing invasion.",
+      "url": "https://www.rferl.org/a/ukraine-defense-chief-nuclear-plant-missiles/33832964.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-18T15:54:25Z",
+      "image": "https://gdb.rferl.org/61b20a3e-5fc0-49b6-1ced-08decad58b60_cx0_cy2_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": true,
       "tags": []
     },
@@ -186,6 +170,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-e3d7c0ac2a93",
+      "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – as it happened",
+      "description": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace planTrump threatens to bomb Oman if it ‘gets in the way’ of ending Iran warNetanyahu and Kushner talks make no breakthrough on stalled Gaza dealThe UN rights chief voiced alarm Monday …",
+      "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-17T16:48:26Z",
+      "image": "https://i.guim.co.uk/img/media/130351c0b118bb75e17e9ed4b3a296be5375ede0/125_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=23111105116469e72c1a1da0a4ae01bc",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

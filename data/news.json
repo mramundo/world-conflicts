@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T13:43:16Z",
+  "updated": "2026-08-18T14:34:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-18T13:43:13Z",
+      "publishedAt": "2026-08-18T14:34:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-fcea3985a982",
+      "title": "Big Ukraine Terrain Gains, Novorossiysk Smacked hard, NATO Ups the Appeasement",
+      "description": "Ukraine formally confirmed a three-month southern offensive that's retaken 350+ sq km near Hulyaipole, while Russia pounded Kyiv and Odesa with missiles and drones. The war's biggest naval strike hit Novorossiysk, damaging four warships and shutting down all three grain terminals, prompting Ukraine to offer Russia a Bl…",
+      "url": "https://www.kyivpost.com/opinion/82599",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-08-18T13:51:52Z",
+      "image": "https://static.kyivpost.com/storage/2026/08/18/4e1f6477b24dbc75dd1a53741d08c306.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 15,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -126,6 +142,21 @@
       "tags": []
     },
     {
+      "id": "ans-850583ff243f",
+      "title": "Trump minaccia di bombardare l'Oman, 'non si metta in mezzo su Hormuz'",
+      "description": "Tregua con l'Iran scaduta, ma il tycoon conferma colloqui coi pasdaran",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/17/trump-minaccia-di-bombardare-loman-non-si-metta-in-mezzo-su-hormuz_d676cade-ae69-4b4d-8884-8806722f1f9e.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-17T17:56:51Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/9/a5aaba3ab5fb8bc2098786abed5d185c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-96ba44425024",
       "title": "Can Trump’s peace plan for Gaza be saved? – The Latest",
       "description": "Donald Trump’s son-in-law Jared Kushner is on a diplomatic mission in the Middle East to meet Hamas officials and the Israeli prime minister, Benjamin Netanyahu, in an attempt to salvage a ceasefire in Gaza.The talks come after Netanyahu rejected the US-backed 15-point peace plan for the territory in a rare public brea…",
@@ -140,36 +171,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-bb4389e807c5",
-      "title": "Russia to Free Up Manpower by Replacing Border Troops With North Korean Soldiers, Ukraine Says",
-      "description": "A spokesman for the Ukrainian Volunteer Army said on Monday that Russia might replace up to 20,000 border troops with North Korean soldiers to reinforce the active sectors on the front line. The statement came after Zelensky warned that North Korea might send up to 50,000 soldiers to Russia, while Western intelligence …",
-      "url": "https://www.kyivpost.com/post/82525",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-17T14:51:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/06/23/1efb3f70b36ea78da511884dfd7026e5.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-e444b8e7d1a5",
-      "title": "Tribunale russo condanna a 11 anni vicepresidente del partito di opposizione",
-      "description": "Ha criticato la guerra in Ucraina. Il 10 agosto divieto di elezioni per Yabloko",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/tribunale-russo-condanna-a-11-anni-vicepresidente-del-partito-di-opposizione_488eda8c-a080-4f8d-85eb-e7fbe0f5c2b5.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-17T13:55:55Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2023/12/9/64789e168445171d4b2db5eed641f77a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

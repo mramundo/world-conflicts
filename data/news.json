@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T08:38:52Z",
+  "updated": "2026-08-18T09:35:02Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-18T08:38:48Z",
+      "publishedAt": "2026-08-18T09:34:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -160,6 +160,22 @@
       "tags": []
     },
     {
+      "id": "deu-4a509a7f2dcf",
+      "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+      "description": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
+      "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-16T17:31:00Z",
+      "image": "https://static.dw.com/image/78389436_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-966b5f565a26",
       "title": "BBC visits smouldering Kyiv market after Russian strikes",
       "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
@@ -202,22 +218,6 @@
         "analysis"
       ],
       "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-0763cd71c740",
-      "title": "Will North Korean forces bolster Russia's Ukraine war?",
-      "description": "Intelligence agencies report that North Korea could send up to 50,000 troops to support Russia in its war on Ukraine, though experts doubt this will fundamentally shift the military balance in Moscow’s favor.",
-      "url": "https://www.dw.com/en/will-north-korean-forces-bolster-russia-s-ukraine-war/a-78385524?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-16T06:49:00Z",
-      "image": "https://static.dw.com/image/76947268_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": true,
       "tags": []
     }

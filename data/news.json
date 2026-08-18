@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-18T18:40:08Z",
+  "updated": "2026-08-18T19:28:30Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,75 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-18T18:40:05Z",
+      "publishedAt": "2026-08-18T19:28:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-7526af765edf",
+      "title": "Cpi, 'le sanzioni statunitensi minano lo stato di diritto'",
+      "description": "'L'ordine giuridico internazionale è messo a rischio'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/18/cpi-le-sanzioni-statunitensi-minano-lo-stato-di-diritto_bff65fd1-0a04-4918-a459-79e8fd2e0f85.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-18T19:09:19Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2025/11/28/e7a75eb3eca28720af58655c5a2cf74b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-f8374954d396",
+      "title": "As Ukrainian Strikes Hit Hard, Moscow Seeks Deeper Defense Ties With Central Asia",
+      "description": "As the war in Ukraine drags on, the Kremlin is looking beyond its borders for help sustaining its military machine. Russian President Vladimir Putin has recently ordered negotiations to revise military cooperation agreements with Kazakhstan and Uzbekistan.",
+      "url": "https://www.rferl.org/a/russia-kazakhstan-uzbekistan-military-defense-cooperation/33832996.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-18T18:57:00Z",
+      "image": "https://gdb.rferl.org/8f13f1fc-f48e-48d5-9b5d-913c519fcebb_cx2_cy6_cw90_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -067875b0ebce",
+      "title": "US imposes sanctions on ICC president",
+      "description": "The sanctioning of International Criminal Court President Tomoko Akane of Japan is the United States' latest salvo against the Hague-based court. Washington also slapped sanctions on ICC Senior Trial Lawyer Abdoulaye Seye of Senegal.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/18/us-imposes-sanctions-on-icc-president_6756646_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-18T18:44:42Z",
+      "image": "https://img.lemde.fr/2026/08/18/244/0/4254/2127/644/322/60/0/5ceb84d_ftp-1-df2z5xcko0dw-5868444-01-06.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-92a2220e259f",
+      "title": "US sanctions international criminal court president and prosecutor",
+      "description": "Marco Rubio targets ICC’s Tomoko Akane and Abdoulaye Seye, who was investigating Israeli war crimes in GazaThe US has sanctioned the president of the international criminal court (ICC) and a prosecutor tasked with investigating crimes committed by Israel during its war on Gaza.The new sanctions designations were unveil…",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/us-icc-sanctions",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-18T18:37:59Z",
+      "image": "https://i.guim.co.uk/img/media/0cbe1ff08a51d4068e0c1b84611c3057a08cc497/730_0_3880_3106/master/3880.jpg?width=140&quality=85&auto=format&fit=max&s=af13bf3a1fd541188abc6d80d2777c03",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,33 +99,17 @@
       "tags": []
     },
     {
-      "id": "the-92a2220e259f",
-      "title": "US to levy sanctions against the president and a prosecutor of international criminal court",
-      "description": "Marco Rubio announced measures against Tomoko Akane and Abdoulaye Seye, who was investigating Israel’s war crimes in GazaThe US will sanction the president of the international criminal court (ICC) and a prosecutor tasked with investigating crimes committed by Israel during its war on Gaza.The new sanctions designation…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/us-icc-sanctions",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-18T17:50:28Z",
-      "image": "https://i.guim.co.uk/img/media/0cbe1ff08a51d4068e0c1b84611c3057a08cc497/730_0_3880_3106/master/3880.jpg?width=140&quality=85&auto=format&fit=max&s=af13bf3a1fd541188abc6d80d2777c03",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-831f88e143db",
-      "title": "Gli Usa impongono sanzioni contro la presidente della Cpi",
-      "description": "La giapponese Tomoko Akane",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/18/gli-usa-impongono-sanzioni-contro-la-presidente-della-cpi_c433a9af-8efa-4544-bd86-e1c3d5d5b853.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-18T17:46:39Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2024/11/20/621fcfc2b60f1ba4334bf687dca93342.jpg",
+      "id": "fra-fa036eeca48e",
+      "title": "Palestinian American challenges Israeli army outside his home in the West Bank",
+      "description": "For more than a week, militant ​Israeli settlers have encircled Palestinian homes in the West Bank village of Qusra, despite the deployment of the Israeli military. The ongoing siege has prompted Palestinian-American Loui Ridi to come back to his hometown, out of fear that he could lose his property there. On Tuesday h…",
+      "url": "https://www.france24.com/en/palestinian-american-challenges-israeli-army-outside-his-home-in-the-west-bank",
+      "source": "France24",
+      "publishedAt": "2026-08-18T15:43:42Z",
+      "image": "https://s.france24.com/media/display/5e94709a-9b19-11f1-a715-005056a90284/w:1024/p:16x9/EN-20260818-170518-170712-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -89,26 +136,11 @@
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-08-18T12:36:11Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e2c/live/689027f0-9afc-11f1-a27d-25dca26018ed.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a151/live/5dc767b0-9b34-11f1-aed2-8d6da8d75094.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -ad2c4c870888",
-      "title": "Belgian firefighters push to 'encircle' fire in nature reserve",
-      "description": "Hundreds of firefighters, backed by water-bombing aircraft from several countries, have been deployed to try to contain and douse a historic forest fire that struck the High Fens nature reserve, located near the German border.",
-      "url": "https://www.lemonde.fr/en/environment/article/2026/08/18/belgian-firefighters-push-to-encircle-fire-in-nature-reserve_6756622_114.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-18T10:08:41Z",
-      "image": "https://img.lemde.fr/2026/08/18/302/0/5152/2576/644/322/60/0/562b6b0_ftp-1-j0ixbvei4d45-2026-08-18t082328z-608177660-rc2w0nacndk0-rtrmadp-3-europe-weather-belgium-wildfire.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -186,22 +218,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-2e3860ae6b7f",
-      "title": "Ukraine Exposed Weakness In Russia's War Machine. Can Moscow Still Claim Military Superpower Status?",
-      "description": "Ukraine has shattered assumptions about Russian military might, exposing severe weaknesses and forcing Moscow to adapt. After more than four years of full-scale war, can a battered but still dangerous Russia claim superpower status?",
-      "url": "https://www.rferl.org/a/war-russia-ukraine-degraded-superpower-struggles/33829865.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-16T07:14:13Z",
-      "image": "https://gdb.rferl.org/028f0000-0aff-0242-d782-08da108fd6f2_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-18T12:50:00Z",
+  "updated": "2026-08-18T13:43:16Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-18T12:49:36Z",
+      "publishedAt": "2026-08-18T13:43:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e7624b01b453",
+      "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
+      "description": "The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death",
+      "url": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-18T13:06:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a84454a1230-1787053386.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,6 +50,21 @@
       "tags": []
     },
     {
+      "id": "fra-c1bc53f9d18c",
+      "title": "Ukraine launches over 600 drones at Moscow region",
+      "description": "We start the programme with the latest in the Russia-Ukraine war. Early this morning, Ukraine launched over 600 drones at the Moscow region, in one of its biggest air assaults on the Russian capital. At least three ​people, including a 10-year-old girl, were injured in the region. Meanwhile, a Russian attack on the Kha…",
+      "url": "https://www.france24.com/en/ukraine-launches-over-600-drones-at-moscow-region",
+      "source": "France24",
+      "publishedAt": "2026-08-18T09:57:00Z",
+      "image": "https://s.france24.com/media/display/53506f00-9ae6-11f1-97cb-005056bf30b7/w:1024/p:16x9/EN-20260818-110115-110602-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-66f773312198",
       "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
       "description": "Ukriane reported 10 dead in a missile strike in the northeastern Kharkiv oblast near the border. Russia, meanwhile, reported more than 600 drones approaching the Moscow area and warned the UK on suppyling drones to Kyiv.",
@@ -46,37 +76,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -28068fc05607",
-      "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-      "description": "Al Jazeera looks at the devastating impact that Israel&#039;s war and siege on Gaza are having on women with breast cancer.",
-      "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T07:43:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/IMG_7878-1786990446.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-c37f879d1cc7",
-      "title": "War in Ukraine: At least 10 killed in Kharkiv, several wounded in Moscow drone attack",
-      "description": "At least 10 people were killed and eight wounded in a strike on Pechenigy, in Ukraine's Kharkiv region, the local governor said Tuesday, as 620 drones targeted the Moscow region overnight, Russian officials said, with several people wounded and buildings struck.",
-      "url": "https://www.france24.com/en/europe/20260818-war-in-ukraine-several-people-wounded-in-drone-attack-on-moscow-region",
-      "source": "France24",
-      "publishedAt": "2026-08-18T06:32:32Z",
-      "image": "https://s.france24.com/media/display/f1199f8a-9ac9-11f1-a53e-005056bfb2b6/w:1024/p:16x9/2026-08-16T090757Z-971134754-RC2KZMA4ADZ2-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-WILDBERRIES-MOSCOW.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -202,6 +201,22 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-2e3860ae6b7f",
+      "title": "Ukraine Exposed Weakness In Russia's War Machine. Can Moscow Still Claim Military Superpower Status?",
+      "description": "Ukraine has shattered assumptions about Russian military might, exposing severe weaknesses and forcing Moscow to adapt. After more than four years of full-scale war, can a battered but still dangerous Russia claim superpower status?",
+      "url": "https://www.rferl.org/a/war-russia-ukraine-degraded-superpower-struggles/33829865.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-16T07:14:13Z",
+      "image": "https://gdb.rferl.org/028f0000-0aff-0242-d782-08da108fd6f2_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
       "tags": []
     }
   ]

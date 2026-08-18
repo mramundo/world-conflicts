@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T09:35:02Z",
+  "updated": "2026-08-18T10:29:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-18T09:34:58Z",
+      "publishedAt": "2026-08-18T10:29:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-73549710cf66",
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "description": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-18T09:55:00Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-66f773312198",
+      "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
+      "description": "Ukriane reported 10 dead in a missile strike in the northeastern Kharkiv oblast near the border. Russia, meanwhile, reported more than 600 drones approaching the Moscow area and warned the UK on suppyling drones to Kyiv.",
+      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-18T09:29:00Z",
+      "image": "https://static.dw.com/image/78410660_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -129,6 +159,21 @@
       "tags": []
     },
     {
+      "id": "ans-e444b8e7d1a5",
+      "title": "Tribunale russo condanna a 11 anni vicepresidente del partito di opposizione",
+      "description": "Ha criticato la guerra in Ucraina. Il 10 agosto divieto di elezioni per Yabloko",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/17/tribunale-russo-condanna-a-11-anni-vicepresidente-del-partito-di-opposizione_488eda8c-a080-4f8d-85eb-e7fbe0f5c2b5.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-17T13:55:55Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2023/12/9/64789e168445171d4b2db5eed641f77a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "un -20c417b7f441",
       "title": "Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza",
       "description": "Humanitarian workers have reached Palestinian families who had been trapped for days by Israeli settlers in Qusra village in the northern West Bank, the UN said on Monday, as officials warned that the standoff must not become \"the new normal.\"",
@@ -141,52 +186,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-d9285fdc6587",
-      "title": "Wsj, l'Iran ha usato i due mesi di tregua per preparare guerra più ampia",
-      "description": "Aumentata produzione di missili e droni, Teheran non crede nella diplomazia Usa",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/17/wsj-liran-ha-usato-i-due-mesi-di-tregua-per-preparare-guerra-piu_a17e320e-8824-443a-b476-96995e89a687.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-17T10:07:09Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/17/9a4a499d480e915b31e0d1dfac538dc8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-4a509a7f2dcf",
-      "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-      "description": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
-      "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-16T17:31:00Z",
-      "image": "https://static.dw.com/image/78389436_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-966b5f565a26",
-      "title": "BBC visits smouldering Kyiv market after Russian strikes",
-      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-16T12:18:09Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

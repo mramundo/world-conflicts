@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-18T11:26:58Z",
+  "updated": "2026-08-18T12:50:00Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-18T11:26:54Z",
+      "publishedAt": "2026-08-18T12:49:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F1%2F2%2F12972152-1-eng-GB%2F758e48be8758-Traiding-asia.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -21,16 +21,16 @@
     },
     {
       "id": "bbc-73549710cf66",
-      "title": "Russia warns UK will pay for supplying drones to Ukraine",
-      "description": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-08-18T09:55:00Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
+      "publishedAt": "2026-08-18T12:36:11Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e2c/live/689027f0-9afc-11f1-a27d-25dca26018ed.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,18 +96,18 @@
       "tags": []
     },
     {
-      "id": "le -490a57d86e5c",
-      "title": "Why Le Pen's plan for a constitutional referendum would be 'a coup d'état in form and content'",
-      "description": "If she were to win, far-right presidential candidate Marine Le Pen has pledged to call a referendum to revise the Constitution and enshrine the far right's core principles in it. According to a member of the highest administrative court, this would be 'a double coup d'état, both in form and content.'",
-      "url": "https://www.lemonde.fr/en/politics/article/2026/08/18/why-le-pen-s-plan-for-a-constitutional-referendum-would-be-a-coup-d-etat-in-form-and-content_6756611_5.html",
+      "id": "le -d7d4c16ec9cf",
+      "title": "Historian Vincent Lemire: 'In the West Bank, the inaction of Western governments allows violence to be unleashed'",
+      "description": "In the occupied territories, scenes of looting and murder have multiplied over the past two months. As elections in Israel and Palestine approach, the historian calls for France to impose sanctions.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/08/18/historian-vincent-lemire-in-the-west-bank-the-inaction-of-western-governments-allows-violence-to-be-unleashed_6756612_23.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-18T03:00:08Z",
-      "image": "https://img.lemde.fr/2026/07/08/393/0/4724/2362/644/322/60/0/ec8bbf8_upload-1-vvilyzv02uyb-mmagnin-le-pen-bardella-a-la-fleche-56.jpg",
+      "publishedAt": "2026-08-18T03:30:07Z",
+      "image": "https://img.lemde.fr/2026/08/14/451/0/5500/2750/644/322/60/0/3fbf9e1_upload-1-5qaptrdl1rd6-wolfk-100826-071.JPG",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "isAnalysis": true,
       "tags": []
     },
@@ -202,22 +202,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-2e3860ae6b7f",
-      "title": "Ukraine Exposed Weakness In Russia's War Machine. Can Moscow Still Claim Military Superpower Status?",
-      "description": "Ukraine has shattered assumptions about Russian military might, exposing severe weaknesses and forcing Moscow to adapt. After more than four years of full-scale war, can a battered but still dangerous Russia claim superpower status?",
-      "url": "https://www.rferl.org/a/war-russia-ukraine-degraded-superpower-struggles/33829865.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-16T07:14:13Z",
-      "image": "https://gdb.rferl.org/028f0000-0aff-0242-d782-08da108fd6f2_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     }
   ]

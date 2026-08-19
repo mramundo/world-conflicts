@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T14:35:03Z",
+  "updated": "2026-08-19T15:32:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/companies/indian-firms-profit-growth-hits-3-year-high-despite-war-shock",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-19T14:34:59Z",
+      "publishedAt": "2026-08-19T15:32:39Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F6%2F0%2F12990647-1-eng-GB%2F10801298033c-GettyImages-2236392215c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-de992e83f8d1",
+      "title": "Zelensky's office probed for corruption as fired defence minister demands elections",
+      "description": "Ukrainian anti-corruption agencies announced Wednesday that they are investigating senior officials in President Volodymyr Zelenskyy's office, a day after the country’s recently fired defence minister called for national elections despite the ongoing fight against Russia’s invasion. The political drama was an unwelcome…",
+      "url": "https://www.france24.com/en/video/20260819-zelensky-s-office-probed-for-corruption-as-fired-defence-minister-demands-elections",
+      "source": "France24",
+      "publishedAt": "2026-08-19T14:37:26Z",
+      "image": "https://s.france24.com/media/display/72b58378-9bd4-11f1-8a8b-005056bf30b7/w:1024/p:16x9/EN-20260819-150109-150508-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,21 +65,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-6f2875500ad5",
-      "title": "Ousted Ukraine defence minister challenges Zelensky's leadership",
-      "description": "Ukraine’s ousted Defence Minister Mykhailo Fedorov called Tuesday for elections to be held even as the war against Russia continues, saying the country was gripped by a crisis of governance. The move by one of President Volodymyr Zelensky's most loyal and longstanding team members until recently could become the most s…",
-      "url": "https://www.france24.com/en/video/20260819-ousted-ukraine-defence-minister-challenges-zelensky-s-leadership",
-      "source": "France24",
-      "publishedAt": "2026-08-19T09:23:28Z",
-      "image": "https://s.france24.com/media/display/63d5f668-9bab-11f1-9e6f-005056a97e36/w:1024/p:16x9/EN-20260819-090158-090515-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

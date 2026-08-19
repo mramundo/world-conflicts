@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T07:39:14Z",
+  "updated": "2026-08-19T08:38:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/companies/indian-firms-profit-growth-hits-3-year-high-despite-war-shock",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-19T07:39:11Z",
+      "publishedAt": "2026-08-19T08:38:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F6%2F0%2F12990647-1-eng-GB%2F10801298033c-GettyImages-2236392215c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -9e9a2b6a350c",
+      "title": "Ukraine's former defense minister calls for elections and denounces corruption, defying Zelensky",
+      "description": "Mykhailo Fedorov, whose dismissal triggered a political crisis in Ukraine, called for presidential elections to be held despite the ongoing war, breaking a taboo since the start of Russia's invasion.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/19/ukraine-s-former-defense-minister-calls-for-elections-and-denounces-corruption-defying-zelensky_6756661_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-19T08:26:06Z",
+      "image": "https://img.lemde.fr/2026/08/19/60/0/960/480/644/322/60/0/f026ca8_upload-1-rxgzxgmyqmf7-federov.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,21 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -bea106ea0f55",
-      "title": "Ukraine's ousted defense minister urges path to elections",
-      "description": "Ex-minister Mykhailo Fedorov said Kyiv must find a 'legal, safe and realistic' way to restore democratic processes even amid the war. Ukraine imposed martial law, which bans elections, when Russian forces invaded in February 2022.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/18/ukraine-s-ousted-defense-minister-mykhailo-fedorov-urges-path-to-elections_6756648_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-18T21:43:27Z",
-      "image": "https://img.lemde.fr/2026/07/15/0/0/4383/2191/644/322/60/0/a2e6428_ftp-1-mzty4b38jnj9-2026-07-15t192242z-774889553-rc2w4marbeuj-rtrmadp-3-ukraine-crisis-government-fedorov.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

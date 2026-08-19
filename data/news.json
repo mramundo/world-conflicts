@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T13:45:24Z",
+  "updated": "2026-08-19T14:35:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,30 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/companies/indian-firms-profit-growth-hits-3-year-high-despite-war-shock",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-19T13:45:21Z",
+      "publishedAt": "2026-08-19T14:34:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F6%2F0%2F12990647-1-eng-GB%2F10801298033c-GettyImages-2236392215c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-7e57d3e8fd94",
+      "title": "Why the US is going after the International Criminal Court",
+      "description": "Marco Rubio, Donald Trump's secretary of state, has announced sanctions against two members of the International Criminal Court, including its president. Rubio's pressure on the court has far-reaching consequences.",
+      "url": "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-19T13:19:00Z",
+      "image": "https://static.dw.com/image/77977847_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -155,21 +172,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-66f773312198",
-      "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
-      "description": "Ukriane reported 10 dead in a missile strike in the northeastern Kharkiv oblast near the border. Russia, meanwhile, reported more than 600 drones approaching the Moscow area and warned the UK on suppyling drones to Kyiv.",
-      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-18T09:29:00Z",
-      "image": "https://static.dw.com/image/78410660_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

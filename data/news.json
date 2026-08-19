@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T20:29:36Z",
+  "updated": "2026-08-19T21:26:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,45 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/companies/indian-firms-profit-growth-hits-3-year-high-despite-war-shock",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-19T20:29:32Z",
+      "publishedAt": "2026-08-19T21:26:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F6%2F0%2F12990647-1-eng-GB%2F10801298033c-GettyImages-2236392215c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-b3140428bddd",
+      "title": "More than 1,000 Afghan refugees have been stuck at a camp in Qatar since 2021",
+      "description": "More than 1,000 Afghan refugees who fled their homes in 2021 have been stuck in Camp As-Sayliyah, Qatar. They're isolated and unable to leave, despite many having aided U.S. forces during the war.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5936482/more-than-1-000-afghan-refugees-have-been-stuck-at-a-camp-in-qatar-since-2021",
+      "source": "NPR World",
+      "publishedAt": "2026-08-19T21:15:06Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5936482",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -ea2175e76836",
+      "title": "Why promised US breakthroughs in the Middle East failed to materialize",
+      "description": "American diplomatic efforts to create “historic” breakthroughs in Iran and Gaza appear to have stalled.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0819/iran-gaza-trump-middle-east?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-08-19T21:06:59Z",
+      "image": "https://images.csmonitor.com/csm/2026/08/0819_OPATTERNS_funeral.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -62,22 +94,6 @@
         "analysis"
       ],
       "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-b8bc921bcfe7",
-      "title": "Why does the U.S. military seem stymied in the war with Iran?",
-      "description": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-      "source": "NPR World",
-      "publishedAt": "2026-08-19T16:18:35Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5937516",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },
@@ -189,21 +205,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -fbff583cfbb0",
-      "title": "With war slowing Saudi food imports, hydroponics provide a homegrown solution",
-      "description": "Hydroponic farms in import-reliant Saudi Arabia are good for business – and for national security as well. With the arid kingdom facing blockades and disruptions on both its coasts, growing food in water, surprisingly, is providing a green line of defense.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0817/saudi-arabia-hydroponic-farms-food-security?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-08-17T19:44:25Z",
-      "image": "https://images.csmonitor.com/csm/2026/08/0817_OSAUDIHYDRO_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

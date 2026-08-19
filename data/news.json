@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T05:32:00Z",
+  "updated": "2026-08-19T06:46:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/iran-war-energy-crisis-sparks-philippine-solar-boom",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-19T05:31:57Z",
+      "publishedAt": "2026-08-19T06:46:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F1%2F4%2F7%2F12987417-1-eng-GB%2F4e16bd079bfb-GettyImages-2284882889a.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -2adb843f0f0e",
+      "title": "Ukraine’s ousted defence minister calls for elections during war",
+      "description": "Mykhailo Fedorov&#039;s call is first such demand by a major Ukrainian political figure since Russia&#039;s full-scale invasion.",
+      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-19T05:59:44Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26197370623875-1784279166.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -df1ec323be80",
-      "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-      "description": "Concern over the security of Europe&#039;s largest nuclear plant has been rife since Russia launched its full-scale war.",
-      "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-18T20:45:42Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP23186416669551-1787086401.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,18 +97,18 @@
       "tags": []
     },
     {
-      "id": "rfe-32d4a8401639",
-      "title": "Dismissed Ex-Defense Minister Says Ukraine Faces Crisis Of Governance, Elections Should Be Held Despite War",
-      "description": "A popular former Ukrainian defense minister whose dismissal last month sparked protests has assailed wartime corruption, warned of a crisis of governance in Ukraine, and said the country must find a way to hold elections despite Russia's continuing invasion.",
-      "url": "https://www.rferl.org/a/ukraine-defense-chief-nuclear-plant-missiles/33832964.html",
+      "id": "rfe-f8374954d396",
+      "title": "As Ukrainian Strikes Hit Hard, Moscow Seeks Deeper Defense Ties With Central Asia",
+      "description": "As the war in Ukraine drags on, the Kremlin is looking beyond its borders for help sustaining its military machine. Russian President Vladimir Putin has recently ordered negotiations to revise military cooperation agreements with Kazakhstan and Uzbekistan.",
+      "url": "https://www.rferl.org/a/russia-kazakhstan-uzbekistan-military-defense-cooperation/33832996.html",
       "source": "RFE/RL",
-      "publishedAt": "2026-08-18T15:54:25Z",
-      "image": "https://gdb.rferl.org/61b20a3e-5fc0-49b6-1ced-08decad58b60_cx0_cy2_cw0_w800_h450.jpg",
+      "publishedAt": "2026-08-18T18:57:00Z",
+      "image": "https://gdb.rferl.org/8f13f1fc-f48e-48d5-9b5d-913c519fcebb_cx2_cy6_cw90_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     },

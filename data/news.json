@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T01:20:01Z",
+  "updated": "2026-08-19T02:58:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -51,6 +51,22 @@
       "tags": []
     },
     {
+      "id": "bbc-f5a79ac33366",
+      "title": "US announces new sanctions on top ICC figures",
+      "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-18T20:21:49Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "ans-7526af765edf",
       "title": "Cpi, 'le sanzioni statunitensi minano lo stato di diritto'",
       "description": "'L'ordine giuridico internazionale è messo a rischio'",
@@ -95,21 +111,6 @@
       ],
       "relevanceScore": 15,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-73549710cf66",
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-18T12:36:11Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a151/live/5dc767b0-9b34-11f1-aed2-8d6da8d75094.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {

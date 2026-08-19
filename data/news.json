@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T22:26:12Z",
+  "updated": "2026-08-19T23:24:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/companies/indian-firms-profit-growth-hits-3-year-high-despite-war-shock",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-19T22:26:09Z",
+      "publishedAt": "2026-08-19T23:24:04Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F6%2F0%2F12990647-1-eng-GB%2F10801298033c-GettyImages-2236392215c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-c260587035d7",
+      "title": "Trump annuncia, 'da oggi guerra economica contro l'Iran'",
+      "description": "'Qualsiasi Paesi lo aiuti subirà conseguenze economiche tremende'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-annuncia-da-oggi-guerra-economica-contro-liran_829f3bf0-c5dd-4309-9373-f1e75a70517f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-19T23:16:05Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/19/837d02f16a7f869e8d05485c300b5f8f.jpg",
       "categories": [
         "conflict"
       ],
@@ -49,21 +64,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-55e9ada483f4",
-      "title": "Trump, 'abbiamo sanzioni draconiane che possiamo imporre all'Iran'",
-      "description": "'Nel frattempo Hormuz è aperto'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/19/trump-abbiamo-sanzioni-draconiane-che-possiamo-imporre-alliran_a0620de8-6802-40b7-b4a7-de44bcac63f3.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-19T19:43:19Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/19/3fc600a0cff0b3620991b1d32721dd1b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

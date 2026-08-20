@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-20T17:30:14Z",
+  "updated": "2026-08-20T18:41:18Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-20T17:30:11Z",
+      "publishedAt": "2026-08-20T18:41:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,33 +20,64 @@
       "tags": []
     },
     {
-      "id": "al -ce994db74701",
-      "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
-      "description": "After five years of isolation, Myanmar&#039;s post-coup leadership is trying to boost its legitmacy.",
-      "url": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T13:10:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a86e67b014b-1787225723.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-f4ec5ed183e1",
-      "title": "Ucraina: salgono a 16 i morti nei raid aerei russi, Zelensky denuncia l'escalation",
-      "description": "L'attacco a Kiev e alla regione circostante è durato quasi nove ore",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/ucraina-salgono-a-16-i-morti-nei-raid-aerei-russi-zelensky-denuncia-lescalation_687531fd-cf89-4799-81ca-a97f956679a5.html",
+      "id": "ans-7925b82dcb47",
+      "title": "Trump dichiara la guerra economica all'Iran, 'sarà un D-Day'",
+      "description": "Il tycoon punta a un embargo stile Nordcorea e minaccia chi aiuta Teheran. Gelo di Pechino",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-dichiara-la-guerra-economica-alliran-sara-un-d-day_b326cf4f-c42a-4e3a-82e9-962954422924.html",
       "source": "ANSA",
-      "publishedAt": "2026-08-20T12:57:16Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/20/ae03af9ad84ff5782c59cc61d45dbef8.jpg",
+      "publishedAt": "2026-08-20T18:26:06Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/19/1490ebd127d767a1e2c061b5f8629c66.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8481da07cbe6",
+      "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
+      "description": "Human Rights Watch alleges that the killings by Africa Corps troops took place in the presence of Malian soldiers.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-20T18:13:49Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2023/06/WagnerLiby-1688147807.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-fbd9c8f81ca2",
+      "title": "Why is Israel's military presence growing in Syria?",
+      "description": "The recent Israeli attack on a Syrian airbase is just one of many Israeli incursions into Syria. In southern Syria, locals say Israeli troops have detained them, destroyed infrastructure and set up military bases.",
+      "url": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-20T17:33:00Z",
+      "image": "https://static.dw.com/image/78436538_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-326dbcf46a2d",
+      "title": "Australia 'outraged' over Israel decision to close probe into aid worker killings",
+      "description": "Australia's top diplomat Penny Wong on Thursday said relations with Israel were \"difficult\" after it dropped a probe into the killing of aid worker Lalzawmi \"Zomi\" Frankcom and her colleagues in Gaza. Australian national Frankcom was among a group of seven World Central Kitchen staff killed in April 2024 when their aid…",
+      "url": "https://www.france24.com/en/video/20260820-australia-outraged-over-israel-decision-to-close-probe-into-aid-worker-killings",
+      "source": "France24",
+      "publishedAt": "2026-08-20T09:19:30Z",
+      "image": "https://s.france24.com/media/display/90cf9be8-9c77-11f1-bdf5-005056a97e36/w:1024/p:16x9/EN-20260820-110342-110523-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -125,23 +156,6 @@
         "analysis"
       ],
       "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-7e57d3e8fd94",
-      "title": "Why the US is going after the International Criminal Court",
-      "description": "Marco Rubio, Donald Trump's secretary of state, has announced sanctions against two members of the International Criminal Court, including its president. Rubio's pressure on the court has far-reaching consequences.",
-      "url": "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-19T13:19:00Z",
-      "image": "https://static.dw.com/image/77977847_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": true,
       "tags": []
     },

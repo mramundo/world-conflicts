@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T11:27:50Z",
+  "updated": "2026-08-20T12:52:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-20T11:27:44Z",
+      "publishedAt": "2026-08-20T12:52:43Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-962d494c0243",
+      "title": "Ucraina, raid russo notturno su Kiev, Zelensky: 'Tredici morti e 40 feriti'",
+      "description": "Allerta anche in Polonia e Romania Attivate le difese aeree, in volo anche due caccia Nato spagnoli. Un drone precipita a Tulcea",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-20T11:58:01Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/20/ae03af9ad84ff5782c59cc61d45dbef8.jpg",
       "categories": [
         "conflict"
       ],
@@ -33,21 +48,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-962d494c0243",
-      "title": "Ucraina, raid russo notturno su Kiev, Zelensky: 'Tredici morti e 40 feriti'",
-      "description": "Allerta anche in Polonia e Romania Attivate le difese aeree, in volo anche due caccia Nato spagnoli. Un drone precipita a Tulcea",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-20T10:38:21Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/20/ae03af9ad84ff5782c59cc61d45dbef8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -162,6 +162,22 @@
       "tags": []
     },
     {
+      "id": "un -49862948e2a2",
+      "title": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
+      "description": "The International Criminal Court (ICC) on Wednesday responded to a new round of US sanctions targeting its president and a senior prosecutor, calling them “a flagrant attack” against the court.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168168",
+      "source": "UN News",
+      "publishedAt": "2026-08-19T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/11-11-2025-UN-Photo-Tomoko-Akane.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-f8374954d396",
       "title": "As Ukrainian Strikes Hit Hard, Moscow Seeks Deeper Defense Ties With Central Asia",
       "description": "As the war in Ukraine drags on, the Kremlin is looking beyond its borders for help sustaining its military machine. Russian President Vladimir Putin has recently ordered negotiations to revise military cooperation agreements with Kazakhstan and Uzbekistan.",
@@ -201,22 +217,6 @@
       "source": "The Moscow Times",
       "publishedAt": "2026-08-18T12:26:00Z",
       "image": "https://static.themoscowtimes.com/image/og/52/93521__52b7de55d18966be8690fecdf9617ec7.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -20c417b7f441",
-      "title": "Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza",
-      "description": "Humanitarian workers have reached Palestinian families who had been trapped for days by Israeli settlers in Qusra village in the northern West Bank, the UN said on Monday, as officials warned that the standoff must not become \"the new normal.\"",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168155",
-      "source": "UN News",
-      "publishedAt": "2026-08-17T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/11-04-2024-UNOCHA-Gaza-03.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict",
         "humanitarian"

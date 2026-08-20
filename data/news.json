@@ -1,21 +1,37 @@
 {
-  "updated": "2026-08-20T08:39:49Z",
+  "updated": "2026-08-20T09:36:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-7967d55c01ab",
-      "title": "Indian firms' profit growth hits 3-year high despite war shock",
+      "id": "nik-613e876d9823",
+      "title": "Google's China shift and the battle over AI models",
       "description": "",
-      "url": "https://asia.nikkei.com/business/companies/indian-firms-profit-growth-hits-3-year-high-despite-war-shock",
+      "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-20T08:39:44Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F6%2F0%2F12990647-1-eng-GB%2F10801298033c-GettyImages-2236392215c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-08-20T09:36:03Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-326dbcf46a2d",
+      "title": "Australia 'outraged' over Israel decision to close probe into aid worker killings",
+      "description": "Australia's top diplomat Penny Wong on Thursday said relations with Israel were \"difficult\" after it dropped a probe into the killing of aid worker Lalzawmi \"Zomi\" Frankcom and her colleagues in Gaza. Australian national Frankcom was among a group of seven World Central Kitchen staff killed in April 2024 when their aid…",
+      "url": "https://www.france24.com/en/video/20260820-australia-outraged-over-israel-decision-to-close-probe-into-aid-worker-killings",
+      "source": "France24",
+      "publishedAt": "2026-08-20T09:19:30Z",
+      "image": "https://s.france24.com/media/display/90cf9be8-9c77-11f1-bdf5-005056a97e36/w:1024/p:16x9/EN-20260820-110342-110523-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -25,7 +41,7 @@
       "description": "Allerta anche in Polonia e Romania Attivate le difese aeree, in volo anche due caccia Nato spagnoli. Un drone precipita a Tulcea",
       "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
       "source": "ANSA",
-      "publishedAt": "2026-08-20T08:11:38Z",
+      "publishedAt": "2026-08-20T09:01:33Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/20/0127b51727e96404d66815c4cac63567.jpg",
       "categories": [
         "conflict"
@@ -50,6 +66,21 @@
       "tags": []
     },
     {
+      "id": "al -fa6eb65d0799",
+      "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
+      "description": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-20T04:59:22Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787201921.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -ef98d9840ad8",
       "title": "Kremlin cracks down on all anti-war voices ahead of Russia's elections",
       "description": "Lev Shlosberg, one of the few Russian opposition figures to publicly denounce the offensive in Ukraine while remaining in Russia, has been sentenced to more than 11 years in prison. His party, the only anti-war political group, has been barred from the September 20 election.",
@@ -61,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e68fe4f445db",
-      "title": "Iran war live: Tehran says Trump’s ‘economic warfare’ will fail",
-      "description": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-17T150047Z_286974500_RC2B0NANM521_RTRMADP_3_IRAN-CRISIS-ECONOMY-1787204637.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -125,21 +141,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-de992e83f8d1",
-      "title": "Zelensky's office probed for corruption as fired defence minister demands elections",
-      "description": "Ukrainian anti-corruption agencies announced Wednesday that they are investigating senior officials in President Volodymyr Zelenskyy's office, a day after the country’s recently fired defence minister called for national elections despite the ongoing fight against Russia’s invasion. The political drama was an unwelcome…",
-      "url": "https://www.france24.com/en/video/20260819-zelensky-s-office-probed-for-corruption-as-fired-defence-minister-demands-elections",
-      "source": "France24",
-      "publishedAt": "2026-08-19T14:37:26Z",
-      "image": "https://s.france24.com/media/display/72b58378-9bd4-11f1-8a8b-005056bf30b7/w:1024/p:16x9/EN-20260819-150109-150508-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T23:24:07Z",
+  "updated": "2026-08-20T01:19:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/companies/indian-firms-profit-growth-hits-3-year-high-despite-war-shock",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-19T23:24:04Z",
+      "publishedAt": "2026-08-20T01:19:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F6%2F0%2F12990647-1-eng-GB%2F10801298033c-GettyImages-2236392215c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,28 @@
       "tags": []
     },
     {
-      "id": "ans-c260587035d7",
-      "title": "Trump annuncia, 'da oggi guerra economica contro l'Iran'",
-      "description": "'Qualsiasi Paesi lo aiuti subirà conseguenze economiche tremende'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-annuncia-da-oggi-guerra-economica-contro-liran_829f3bf0-c5dd-4309-9373-f1e75a70517f.html",
+      "id": "al -e68fe4f445db",
+      "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+      "description": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-20T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26218279447356-1787178721.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-413a618b302b",
+      "title": "Trump, 'guerra economica contro l'Iran'. E minaccia chi aiuta Teheran",
+      "description": "'E' un nuovo D-Day, il mondo si unisca agli Stati Uniti contro i pasdaran'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-guerra-economica-contro-liran.-e-minaccia-chi-aiuta-teheran_284a3955-551f-4d86-ad24-cc95595b0482.html",
       "source": "ANSA",
-      "publishedAt": "2026-08-19T23:16:05Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/19/837d02f16a7f869e8d05485c300b5f8f.jpg",
+      "publishedAt": "2026-08-19T23:48:48Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/19/1490ebd127d767a1e2c061b5f8629c66.jpg",
       "categories": [
         "conflict"
       ],
@@ -64,21 +79,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -a98edf7a229d",
-      "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
-      "description": "Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.",
-      "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-19T17:14:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a85b5b3baea-1787147699.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T02:58:08Z",
+  "updated": "2026-08-20T03:52:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/companies/indian-firms-profit-growth-hits-3-year-high-despite-war-shock",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-20T02:58:04Z",
+      "publishedAt": "2026-08-20T03:52:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F6%2F0%2F12990647-1-eng-GB%2F10801298033c-GettyImages-2236392215c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -cbd00cf51c42",
+      "title": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+      "description": "At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-20T02:50:17Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a864ff53b0a-1787187189.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e68fe4f445db",
-      "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-      "description": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26218279447356-1787178721.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T15:34:50Z",
+  "updated": "2026-08-20T16:36:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-20T15:34:47Z",
+      "publishedAt": "2026-08-20T16:36:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ce994db74701",
+      "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
+      "description": "After five years of isolation, Myanmar&#039;s post-coup leadership is trying to boost its legitmacy.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-20T13:10:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a86e67b014b-1787225723.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -32,22 +48,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -925f4a96dc04",
-      "title": "How Myanmar’s war drives the Rohingya crisis",
-      "description": "Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.",
-      "url": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-20T11:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787223138.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

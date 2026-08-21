@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:04:31Z",
+  "updated": "2026-08-21T04:39:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-21T03:04:26Z",
+      "publishedAt": "2026-08-21T04:39:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -46,6 +46,22 @@
         "conflict"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -249871f97b28",
+      "title": "In Israel, Kushner tries to break deadlock over Trump's Gaza plan, but secures no guarantees",
+      "description": "Meeting with Hamas and Israeli Prime Minister Benjamin Netanyahu, US envoy Jared Kushner failed to resolve the main sticking point: the conditions for an Israeli withdrawal from the Palestinian enclave.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/20/in-israel-kushner-tries-to-break-deadlock-over-trump-s-gaza-plan-but-secures-no-guarantees_6756713_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-20T18:30:10Z",
+      "image": "https://img.lemde.fr/2026/08/16/42/0/1170/585/644/322/60/0/2c08e44_ftp-1-51fla0u1smfn-2026-08-16t230048z-1232470912-rc2yzmaku6ot-rtrmadp-3-israel-palestinians-egypt-kushner.JPG",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -108,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -7dfb5164500f",
-      "title": "Russian strikes kill at least nine in Kyiv and surrounding region",
-      "description": "Kyiv Mayor Vitali Klitschko said eight people were killed and 33 wounded in the overnight attack, while an attack in the surrounding region killed one man and wounded another, according to the Kyiv regional governor.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/20/russian-strikes-kill-at-least-six-in-kyiv-and-surrounding-region_6756696_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-20T03:02:01Z",
-      "image": "https://img.lemde.fr/2026/08/20/427/0/4000/2000/644/322/60/0/cc20553_upload-1-l452jjlzujhu-bombardement-kiev-20aou-t-9.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T11:27:34Z",
+  "updated": "2026-08-21T12:51:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-21T11:27:30Z",
+      "publishedAt": "2026-08-21T12:50:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,48 @@
       "tags": []
     },
     {
-      "id": "al -776ba3607c7f",
-      "title": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
-      "description": "Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
+      "id": "al -85a088a0e049",
+      "title": "How a Swedish Palestinian minister raised controversy with Star of David",
+      "description": "Incidents of anti-Semitism have been on the rise in Europe since Israel&#039;s genocidal war on Gaza began.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/how-a-swedish-palestinian-minister-raised-controversy-with-star-of-david?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T10:59:37Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-20T192428Z_1733195460_RC2H2NAUP0C1_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1787299121.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-21T12:01:36Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20090827__DV570489__v2__HighRes__MideastIsraelSwedenDiplomacyBoycott-1749634821.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
-        "humanitarian"
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-91d60e0f45a7",
+      "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
+      "description": "The Iranian regime has dismissed President Trump's threats to crush the country economically, saying that years of U.S. sanctions have failed.",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+      "source": "NPR World",
+      "publishedAt": "2026-08-21T11:42:10Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1d%2Fd4b7c00c49eb8088a4e7decd6ac0%2Fap26232551199754.jpg",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-78c2e67847f8",
+      "title": "Iran: 'Meglio porre fine alla guerra oggi da una posizione di forza'",
+      "description": "Lo ha dichiarato il presidente iraniano Masoud Pezeshkian",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/21/iran-meglio-porre-fine-alla-guerra-oggi-da-una-posizione-di-forza_dc35a831-797e-4355-acf1-936fed077fe9.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-21T11:34:23Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/8/97f2af37bd4f264a461449fdee0e3069.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,21 +97,6 @@
       "tags": []
     },
     {
-      "id": "fra-52426d74f417",
-      "title": "France, Germany, UK and Italy condemn Israel's 'E1' West Bank plan",
-      "description": "France, Germany, ​Britain and Italy condemned on ​Thursday plans by Israel to open up construction tenders for a ​residential ‌property project ⁠called 'E1' in the occupied West Bank. Hundreds of ​thousands of Israelis have settled among millions of Palestinians in land ​captured by Israel in ​a 1967 war. Nearly ​all c…",
-      "url": "https://www.france24.com/en/video/20260821-france-germany-uk-and-italy-condemn-israel-s-e1-west-bank-plan",
-      "source": "France24",
-      "publishedAt": "2026-08-21T09:48:52Z",
-      "image": "https://s.france24.com/media/display/de9b3898-9d3d-11f1-b4d4-005056bfb2b6/w:1024/p:16x9/EN-20260821-100122-100627-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-fbd9c8f81ca2",
       "title": "Why is Israel's military presence growing in Syria?",
       "description": "The recent Israeli attack on a Syrian airbase is just one of many Israeli incursions into Syria. In southern Syria, locals say Israeli troops have detained them, destroyed infrastructure and set up military bases.",
@@ -113,6 +128,21 @@
       "tags": []
     },
     {
+      "id": "fra-9e614750a860",
+      "title": "Middle East live: Turkey issues arrest warrant for Israel’s Netanyahu over Gaza flotilla detentions",
+      "description": "Turkey issued an international arrest warrant for Israel's Prime Minister Benjamin Netanyahu as part of an investigation into Israel's interception of an aid flotilla for Gaza in May and its detention of hundreds of activists on board, Justice Minister Akin Gurlek announced Friday. Turkey has already issued warrants ag…",
+      "url": "https://www.france24.com/en/middle-east/20260821-middle-east-live-hormuz-shipping-traffic-falls-as-iran-us-talks-stall",
+      "source": "France24",
+      "publishedAt": "2026-08-21T02:50:45Z",
+      "image": "https://s.france24.com/media/display/43583302-8764-11f1-abc0-005056bf30b7/w:1024/p:16x9/AP26166661119447.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-50063425df92",
       "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
       "description": "Military orders criminal investigation into deaths of five-year-old and six family members in Gaza in 2024The Israeli military admitted on Wednesday its troops had opened fire on a car carrying five-year-old Hind Rajab and six family members in Gaza in 2024, saying it had ordered a criminal investigation into the killi…",
@@ -124,36 +154,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-7925b82dcb47",
-      "title": "Trump dichiara la guerra economica all'Iran, 'sarà un D-Day'",
-      "description": "Il tycoon punta a un embargo stile Nordcorea e minaccia chi aiuta Teheran. Gelo di Pechino",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-dichiara-la-guerra-economica-alliran-sara-un-d-day_b326cf4f-c42a-4e3a-82e9-962954422924.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-20T18:26:06Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/19/1490ebd127d767a1e2c061b5f8629c66.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-b3140428bddd",
-      "title": "More than 1,000 Afghan refugees have been stuck at a camp in Qatar since 2021",
-      "description": "More than 1,000 Afghan refugees who fled their homes in 2021 have been stuck in Camp As-Sayliyah, Qatar. They're isolated and unable to leave, despite many having aided U.S. forces during the war.",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5936482/more-than-1-000-afghan-refugees-have-been-stuck-at-a-camp-in-qatar-since-2021",
-      "source": "NPR World",
-      "publishedAt": "2026-08-19T21:15:06Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5936482",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

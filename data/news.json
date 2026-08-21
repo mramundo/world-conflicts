@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:36:03Z",
+  "updated": "2026-08-21T17:30:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-21T16:35:59Z",
+      "publishedAt": "2026-08-21T17:30:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-52e71dd5edfa",
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-21T15:58:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -186,22 +201,6 @@
         "analysis"
       ],
       "relevanceScore": 5,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-e4ea8d1c5ac4",
-      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-      "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-      "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-19T15:38:38Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cab/live/644e3cd0-9bde-11f1-a291-b542ee92de7c.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": true,
       "tags": []
     },

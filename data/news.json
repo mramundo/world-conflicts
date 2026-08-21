@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T09:37:53Z",
+  "updated": "2026-08-21T10:32:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-21T09:37:49Z",
+      "publishedAt": "2026-08-21T10:32:03Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-dd5d137de371",
+      "title": "Ukraine Sanctions ‘Masha and the Bear’ Creators Over Alleged Kremlin Propaganda",
+      "description": "Kyiv accused “Masha and the Bear” of spreading “pro-Russia narratives” and posing a threat to Ukrainian national security.",
+      "url": "https://www.themoscowtimes.com/2026/08/21/ukraine-sanctions-masha-and-the-bear-creators-over-alleged-kremlin-propaganda-a93550",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-21T10:22:37Z",
+      "image": "https://static.themoscowtimes.com/image/og/ef/93550__ef86eee69aa975e908d870e82f9b920c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-bacec7457756",
+      "title": "Ousted Defense Minister Calls For Elections, But Can Ukraine Hold Them During the War?",
+      "description": "A former defense minister whose dismissal last month sparked protests has delivered a videotaped address to Ukrainians in which he assailed wartime corruption, warned of a systemic crisis of governance, and said the country must find a way to hold elections despite the continuing Russian invasion.",
+      "url": "https://www.rferl.org/a/ousted-defense-minister-calls-for-elections-in-ukraine/33835545.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-21T09:54:32Z",
+      "image": "https://gdb.rferl.org/79192a96-081a-4e66-85cb-08decad17715_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-52426d74f417",
+      "title": "France, Germany, UK and Italy condemn Israel's 'E1' West Bank plan",
+      "description": "France, Germany, ​Britain and Italy condemned on ​Thursday plans by Israel to open up construction tenders for a ​residential ‌property project ⁠called 'E1' in the occupied West Bank. Hundreds of ​thousands of Israelis have settled among millions of Palestinians in land ​captured by Israel in ​a 1967 war. Nearly ​all c…",
+      "url": "https://www.france24.com/en/video/20260821-france-germany-uk-and-italy-condemn-israel-s-e1-west-bank-plan",
+      "source": "France24",
+      "publishedAt": "2026-08-21T09:48:52Z",
+      "image": "https://s.france24.com/media/display/de9b3898-9d3d-11f1-b4d4-005056bfb2b6/w:1024/p:16x9/EN-20260821-100122-100627-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,8 +98,8 @@
     },
     {
       "id": "al -960ec12b8e52",
-      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
-      "description": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+      "title": "Iran war live: Tehran says planned US sanctions threaten global economy",
+      "description": "Iran says Washington&#039;s warning of an &#039;economic D-Day&#039; threatens the entire global economy.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-21T00:00:00Z",
@@ -92,22 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-8996dce856f9",
-      "title": "ICC slams US decision to sanction the court's president and a senior prosecution lawyer",
-      "description": "The International Criminal Court on Wednesday slammed the latest US sanctions targeting senior ICC staff, including its president, as a “flagrant attack” on the global tribunal's independence and vowed to continue seeking justice for atrocities around the world. The State Department announced Tuesday that it had hit IC…",
-      "url": "https://www.france24.com/en/video/20260820-icc-slams-us-decision-to-sanction-the-court-s-president-and-a-senior-prosecution-lawyer",
-      "source": "France24",
-      "publishedAt": "2026-08-20T13:30:15Z",
-      "image": "https://s.france24.com/media/display/379c8298-9c95-11f1-b4a7-005056a97e36/w:1024/p:16x9/EN-20260820-140853-141033-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -176,22 +206,6 @@
       "tags": []
     },
     {
-      "id": "rfe-f8374954d396",
-      "title": "As Ukrainian Strikes Hit Hard, Moscow Seeks Deeper Defense Ties With Central Asia",
-      "description": "As the war in Ukraine drags on, the Kremlin is looking beyond its borders for help sustaining its military machine. Russian President Vladimir Putin has recently ordered negotiations to revise military cooperation agreements with Kazakhstan and Uzbekistan.",
-      "url": "https://www.rferl.org/a/russia-kazakhstan-uzbekistan-military-defense-cooperation/33832996.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-18T18:57:00Z",
-      "image": "https://gdb.rferl.org/8f13f1fc-f48e-48d5-9b5d-913c519fcebb_cx2_cy6_cw90_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "kyi-fcea3985a982",
       "title": "Big Ukraine Terrain Gains, Novorossiysk Smacked Hard, NATO Ups the Appeasement",
       "description": "Ukraine formally confirmed a three-month southern offensive that's retaken 350+ sq km near Hulyaipole, while Russia pounded Kyiv and Odesa with missiles and drones. The war's biggest naval strike hit Novorossiysk, damaging four warships and shutting down all three grain terminals, prompting Ukraine to offer Russia a Bl…",
@@ -205,22 +219,6 @@
       ],
       "relevanceScore": 15,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-ce98e73a6544",
-      "title": "Trump Ballroom Commissioner Held Diplomatic Talks With Kremlin Officials – FT",
-      "description": "White House officials reportedly “hoped unlikely envoys” such as Rodney Mims Cook Jr. could “help break the diplomatic deadlock” in Ukraine peace talks.",
-      "url": "https://www.themoscowtimes.com/2026/08/18/trump-ballroom-commissioner-held-diplomatic-talks-with-kremlin-officials-ft-a93521",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-18T12:26:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/52/93521__52b7de55d18966be8690fecdf9617ec7.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     }
   ]

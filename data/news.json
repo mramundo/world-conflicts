@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-21T18:38:11Z",
+  "updated": "2026-08-21T19:26:49Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-21T18:38:06Z",
+      "publishedAt": "2026-08-21T19:26:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c316f8ca9a97",
+      "title": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
+      "description": "Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 120.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-21T18:17:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8895ae-1787336110.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-13fc5b7f5e06",
+      "title": "Turkey seeks international arrest warrant against Israel's Netanyahu over Gaza flotilla detention",
+      "description": "Turkey is seeking an Interpol international arrest notice for Israeli Prime Minister Benjamin Netanyahu as part of a domestic criminal case over Israel's interception and detention of dozens of activists trying to deliver humanitarian aid to the besieged Gaza Strip.",
+      "url": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention",
+      "source": "France24",
+      "publishedAt": "2026-08-21T18:04:40Z",
+      "image": "https://s.france24.com/media/display/2afc8f5a-9d86-11f1-9994-005056a90284/w:1024/p:16x9/AP26141592813959.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -61,21 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -84cc1afd9c02",
-      "title": "Weddings in Gaza offer rare moments of joy amid genocide",
-      "description": "In Gaza, weddings offer Palestinian families a brief escape from Israel’s genocidal war.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T13:29:19Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787318756.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

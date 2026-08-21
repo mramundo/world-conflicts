@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T10:32:07Z",
+  "updated": "2026-08-21T11:27:34Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-21T10:32:03Z",
+      "publishedAt": "2026-08-21T11:27:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -776ba3607c7f",
+      "title": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+      "description": "Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-21T10:59:37Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-20T192428Z_1733195460_RC2H2NAUP0C1_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1787299121.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,21 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -960ec12b8e52",
-      "title": "Iran war live: Tehran says planned US sanctions threaten global economy",
-      "description": "Iran says Washington&#039;s warning of an &#039;economic D-Day&#039; threatens the entire global economy.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a881439-1787302969.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

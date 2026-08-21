@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-21T17:30:16Z",
+  "updated": "2026-08-21T18:38:11Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-21T17:30:09Z",
+      "publishedAt": "2026-08-21T18:38:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-3b84a6e906ee",
+      "title": "Russian 'Double-Tap' Strike on Shopping Mall in Ukraine Kills 14",
+      "description": "A shopping mall was struck in the daytime attack on President Volodymyr Zelensky's hometown.",
+      "url": "https://www.themoscowtimes.com/2026/08/21/russian-double-tap-strike-on-shopping-mall-in-ukraine-kills-14-a93557",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-21T16:16:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/21/93557__2124f8a5c5097f5fe827f321d2661b6b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-47b1ecca3838",
-      "title": "6 Killed, Around 90 Wounded in Russian Strike on Shopping Mall in Ukraine",
-      "description": "A shopping mall was struck in the daytime attack on President Volodymyr Zelensky's hometown.",
-      "url": "https://www.themoscowtimes.com/2026/08/21/6-killed-around-90-wounded-in-russian-strike-on-shopping-mall-in-ukraine-a93557",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-21T15:38:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/21/93557__2124f8a5c5097f5fe827f321d2661b6b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,22 +76,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-33baec67cd72",
-      "title": "Netanyahu focused on reelection as Israeli govt grows 'less concerned' about international isolation",
-      "description": "Annette Young is pleased to welcome Dr. Aaron Y. Zelin, Senior Fellow at the Washington Institute for Near East Policy. He sees Israel’s recent actions in the West Bank and Syria as part of a broader shift in its strategic posture. Since October 7, the Israeli government has become markedly less concerned with internat…",
-      "url": "https://www.france24.com/en/netanyahu-focused-on-reelection-as-israeli-govt-grows-less-concerned-about-international-isolation",
-      "source": "France24",
-      "publishedAt": "2026-08-21T12:57:22Z",
-      "image": "https://s.france24.com/media/display/59063f2c-9d5e-11f1-8526-005056bf30b7/w:1024/p:16x9/EN-20260821-130503-131154-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

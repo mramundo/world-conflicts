@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T08:41:51Z",
+  "updated": "2026-08-21T09:37:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-21T08:41:47Z",
+      "publishedAt": "2026-08-21T09:37:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -36,13 +36,28 @@
       "tags": []
     },
     {
+      "id": "le -18d542fa2c65",
+      "title": "Kyiv's brief glimmers of joy amidst war: 'Never in my life have I seen so many beautiful people in one place'",
+      "description": "For the second year in a row, the Vyriy music and visual arts festival brought together several thousand people in Kyiv on August 8 and 9, despite relentless Russian drone attacks. Soldiers on leave and families joined partygoers to dance and celebrate Ukrainian folklore inside this rare bubble of peace.",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/21/in-kyiv-fleeting-moments-of-celebration-stolen-from-the-war-never-in-my-life-have-i-seen-so-many-beautiful-people-in-one-place_6756723_117.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-21T03:30:00Z",
+      "image": "https://img.lemde.fr/2026/08/14/2307/0/11084/5542/644/322/60/0/505e644_upload-1-iasxwpgu4t4l-vyrriyfest-018.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -960ec12b8e52",
       "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
       "description": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-21T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26232596787869-1787291192.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a881439-1787302969.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -62,22 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -249871f97b28",
-      "title": "In Israel, Kushner tries to break deadlock over Trump's Gaza plan, but secures no guarantees",
-      "description": "Meeting with Hamas and Israeli Prime Minister Benjamin Netanyahu, US envoy Jared Kushner failed to resolve the main sticking point: the conditions for an Israeli withdrawal from the Palestinian enclave.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/20/in-israel-kushner-tries-to-break-deadlock-over-trump-s-gaza-plan-but-secures-no-guarantees_6756713_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-20T18:30:10Z",
-      "image": "https://img.lemde.fr/2026/08/16/42/0/1170/585/644/322/60/0/2c08e44_ftp-1-51fla0u1smfn-2026-08-16t230048z-1232470912-rc2yzmaku6ot-rtrmadp-3-israel-palestinians-egypt-kushner.JPG",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -113,21 +112,6 @@
       "tags": []
     },
     {
-      "id": "bbc-9c263f36442b",
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "description": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-20T05:01:24Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d2/live/96d62b30-9bda-11f1-bb4d-1147ef2e78e5.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-b3140428bddd",
       "title": "More than 1,000 Afghan refugees have been stuck at a camp in Qatar since 2021",
       "description": "More than 1,000 Afghan refugees who fled their homes in 2021 have been stuck in Camp As-Sayliyah, Qatar. They're isolated and unable to leave, despite many having aided U.S. forces during the war.",
@@ -156,6 +140,22 @@
         "analysis"
       ],
       "relevanceScore": 5,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-e4ea8d1c5ac4",
+      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+      "description": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
+      "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-19T15:38:38Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cab/live/644e3cd0-9bde-11f1-a291-b542ee92de7c.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": true,
       "tags": []
     },

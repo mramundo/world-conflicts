@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T13:46:44Z",
+  "updated": "2026-08-21T14:36:39Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-21T13:46:38Z",
+      "publishedAt": "2026-08-21T14:36:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F6%2F1%2F39691657-1-eng-GB%2FLi.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,34 @@
       "tags": []
     },
     {
-      "id": "al -85a088a0e049",
-      "title": "How a Swedish Palestinian minister raised controversy with Star of David",
-      "description": "Incidents of anti-Semitism have been on the rise in Europe since Israel&#039;s genocidal war on Gaza began.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/how-a-swedish-palestinian-minister-raised-controversy-with-star-of-david?traffic_source=rss",
+      "id": "al -84cc1afd9c02",
+      "title": "Weddings in Gaza offer rare moments of joy amid genocide",
+      "description": "In Gaza, weddings offer Palestinian families a brief escape from Israel’s genocidal war.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T12:01:36Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20090827__DV570489__v2__HighRes__MideastIsraelSwedenDiplomacyBoycott-1749634821.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-21T13:29:19Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787318756.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": true,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-33baec67cd72",
+      "title": "Netanyahu focused on reelection as Israeli govt grows 'less concerned' about international isolation",
+      "description": "Annette Young is pleased to welcome Dr. Aaron Y. Zelin, Senior Fellow at the Washington Institute for Near East Policy. He sees Israel’s recent actions in the West Bank and Syria as part of a broader shift in its strategic posture. Since October 7, the Israeli government has become markedly less concerned with internat…",
+      "url": "https://www.france24.com/en/netanyahu-focused-on-reelection-as-israeli-govt-grows-less-concerned-about-international-isolation",
+      "source": "France24",
+      "publishedAt": "2026-08-21T12:57:22Z",
+      "image": "https://s.france24.com/media/display/59063f2c-9d5e-11f1-8526-005056bf30b7/w:1024/p:16x9/EN-20260821-130503-131154-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -128,21 +143,6 @@
       "tags": []
     },
     {
-      "id": "fra-9e614750a860",
-      "title": "Middle East live: Turkey issues arrest warrant for Israel’s Netanyahu over Gaza flotilla detentions",
-      "description": "Turkey issued an international arrest warrant for Israel's Prime Minister Benjamin Netanyahu as part of an investigation into Israel's interception of an aid flotilla for Gaza in May and its detention of hundreds of activists on board, Justice Minister Akin Gurlek announced Friday. Turkey has already issued warrants ag…",
-      "url": "https://www.france24.com/en/middle-east/20260821-middle-east-live-hormuz-shipping-traffic-falls-as-iran-us-talks-stall",
-      "source": "France24",
-      "publishedAt": "2026-08-21T02:50:45Z",
-      "image": "https://s.france24.com/media/display/43583302-8764-11f1-abc0-005056bf30b7/w:1024/p:16x9/AP26166661119447.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-50063425df92",
       "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
       "description": "Military orders criminal investigation into deaths of five-year-old and six family members in Gaza in 2024The Israeli military admitted on Wednesday its troops had opened fire on a car carrying five-year-old Hind Rajab and six family members in Gaza in 2024, saying it had ordered a criminal investigation into the killi…",
@@ -154,6 +154,21 @@
         "conflict"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -b4c4952a6d91",
+      "title": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
+      "description": "Russian ballistic missile strikes killed 17 people and injured more than 40 in and around the Ukrainian capital Kyiv on Thursday, local authorities reported.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168181",
+      "source": "UN News",
+      "publishedAt": "2026-08-20T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/20-08-2026-UNOCHA-Ukraine.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -188,22 +203,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -49862948e2a2",
-      "title": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
-      "description": "The International Criminal Court (ICC) on Wednesday responded to a new round of US sanctions targeting its president and a senior prosecutor, calling them “a flagrant attack” against the court.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168168",
-      "source": "UN News",
-      "publishedAt": "2026-08-19T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/11-11-2025-UN-Photo-Tomoko-Akane.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {

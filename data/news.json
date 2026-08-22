@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T23:25:10Z",
+  "updated": "2026-08-22T01:18:39Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/big-in-asia/singapore-breeds-mosquito-studs-by-the-millions-for-war-on-dengue",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-21T23:25:06Z",
+      "publishedAt": "2026-08-22T01:18:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F9%2F0%2F12990919-1-eng-GB%2Fb843d5b139b7-OH_Wolbachia-6.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,47 @@
       "tags": []
     },
     {
-      "id": "al -c316f8ca9a97",
-      "title": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
-      "description": "Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 130.",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-21T18:17:40Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8895ae-1787336110.jpg?resize=1200%2C675",
+      "id": "the-0daf13301211",
+      "title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
+      "description": "Kaja Kallas, the EU’s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as “cynical and despicable”.The EU…",
+      "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-22T01:12:32Z",
+      "image": "https://i.guim.co.uk/img/media/2cc528426ef20eae7438615f8906db2f009b85dc/37_0_970_776/master/970.jpg?width=140&quality=85&auto=format&fit=max&s=d399c2e90ef7aecdfd56b841aea05d55",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -417e3548e68b",
+      "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+      "description": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-22T00:06:48Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-21T175039Z_1285857737_RC253NAXD1XN_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KRYVYI-RIH-1787357165.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -119aea75acd6",
+      "title": "Iranian President Masoud Pezeshkian says time to end war while in position of strength",
+      "description": "'It is better that we bring the war to an end now as we are in a position of power and dignity,' Pezeshkian said on Friday, in a meeting with doctors. His comments came after Washington announced that it would ramp up sanctions to heap pressure on the Islamic Republic.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/21/iranian-president-masoud-pezeshkian-says-time-to-end-war-while-in-position-of-strength_6756741_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-21T19:38:14Z",
+      "image": "https://img.lemde.fr/2026/08/08/212/0/2550/1275/644/322/60/0/a172786_ftp-1-rb9dxy3xso1l-2026-08-08t190306z-41190565-rc2iumayim5t-rtrmadp-3-iran-crisis.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -140,36 +170,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -18d542fa2c65",
-      "title": "Kyiv's brief glimmers of joy amidst war: 'Never in my life have I seen so many beautiful people in one place'",
-      "description": "For the second year in a row, the Vyriy music and visual arts festival brought together several thousand people in Kyiv on August 8 and 9, despite relentless Russian drone attacks. Soldiers on leave and families joined partygoers to dance and celebrate Ukrainian folklore inside this rare bubble of peace.",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/21/in-kyiv-fleeting-moments-of-celebration-stolen-from-the-war-never-in-my-life-have-i-seen-so-many-beautiful-people-in-one-place_6756723_117.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-21T03:30:00Z",
-      "image": "https://img.lemde.fr/2026/08/14/2307/0/11084/5542/644/322/60/0/505e644_upload-1-iasxwpgu4t4l-vyrriyfest-018.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-50063425df92",
-      "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-      "description": "Military orders criminal investigation into deaths of five-year-old and six family members in Gaza in 2024The Israeli military admitted on Wednesday its troops had opened fire on a car carrying five-year-old Hind Rajab and six family members in Gaza in 2024, saying it had ordered a criminal investigation into the killi…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-20T19:15:09Z",
-      "image": "https://i.guim.co.uk/img/media/f8230805cca357ae6ff4dce57acf9547484cc359/52_27_1153_922/master/1153.jpg?width=140&quality=85&auto=format&fit=max&s=77bb10ea209f5bca327bd536e3f79d13",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {

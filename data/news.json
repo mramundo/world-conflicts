@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-23T11:21:41Z",
+  "updated": "2026-08-23T12:42:26Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-23T11:21:37Z",
+      "publishedAt": "2026-08-23T12:42:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,33 @@
       "tags": []
     },
     {
-      "id": "al -2055ae4cc1ae",
-      "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-      "description": "The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.",
-      "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
+      "id": "fra-d690a675d64f",
+      "title": "DR Congo, AFC/M23 group agree on roadmap for peace negotiations after Swiss talks",
+      "description": "Mediators representing the Rwanda-backed AFC/M23 armed group and the Democratic Republic of Congo in a joint statement published Sunday said they have agreed on a roadmap for peace talks. The two sides said they had \"agreed on the importance of a standardised method for reporting allegations of ceasefire violations\".",
+      "url": "https://www.france24.com/en/africa/20260823-dr-congo-afc-m23-group-agree-on-roadmap-for-peace-negotiations-after-swiss-talks",
+      "source": "France24",
+      "publishedAt": "2026-08-23T12:15:29Z",
+      "image": "https://s.france24.com/media/display/2759aca4-9ee7-11f1-bd8f-005056a90284/w:1024/p:16x9/AP25185523605369.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -bae08ed7c158",
+      "title": "Can Iran retaliate against countries that join US ‘economic war’?",
+      "description": "Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.",
+      "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T11:00:18Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/05b483f5-7f1c-4c6a-bf92-469538c33fb6-1787469834.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-23T11:50:22Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-10T081340Z_106953894_RC2A6MA6WJP3_RTRMADP_3_IRAN-CRISIS-REZAEI-1787353198.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     },
@@ -43,21 +58,6 @@
       "source": "Deutsche Welle",
       "publishedAt": "2026-08-23T10:23:00Z",
       "image": "https://static.dw.com/image/78472521_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-85089f762073",
-      "title": "Hundreds of Gaza children join a mass swimming lesson to cope with trauma",
-      "description": "In Gaza, the war has upended the lives of an entire generation of children. In an effort to help them cope with the trauma of the conflict, an NGO has launched a project in Khan Younis: a huge swimming lesson that could even set a world record. Hundreds of children have gathered on the beach to learn how to swim. Story…",
-      "url": "https://www.france24.com/en/hundreds-of-gaza-children-join-a-mass-swimming-lesson-to-cope-with-trauma",
-      "source": "France24",
-      "publishedAt": "2026-08-23T09:46:24Z",
-      "image": "https://s.france24.com/media/display/c27d3938-9ed5-11f1-a296-005056a90284/w:1024/p:16x9/EN-20260823-110845-111008-CS.jpg",
       "categories": [
         "conflict"
       ],
@@ -184,21 +184,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -b4c4952a6d91",
-      "title": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
-      "description": "Russian ballistic missile strikes killed 17 people and injured more than 40 in and around the Ukrainian capital Kyiv on Thursday, local authorities reported.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168181",
-      "source": "UN News",
-      "publishedAt": "2026-08-20T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/20-08-2026-UNOCHA-Ukraine.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

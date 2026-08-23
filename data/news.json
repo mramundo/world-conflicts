@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T10:25:19Z",
+  "updated": "2026-08-23T11:21:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-23T10:25:16Z",
+      "publishedAt": "2026-08-23T11:21:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,48 @@
       "tags": []
     },
     {
-      "id": "al -5215cd029089",
-      "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
-      "description": "Israeli air attack near Gaza&#039;s Maghazi camp kills one person and injures two others.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
+      "id": "al -2055ae4cc1ae",
+      "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
+      "description": "The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.",
+      "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-23T09:43:47Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8ab3a702f69-1787474855.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-23T11:00:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/05b483f5-7f1c-4c6a-bf92-469538c33fb6-1787469834.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-25286a9ff11f",
+      "title": "Ukraine: Zelenskyy rejects wartime elections",
+      "description": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to mobilize hundreds of thousands of troops after September polls there.",
+      "url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-23T10:23:00Z",
+      "image": "https://static.dw.com/image/78472521_6.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-85089f762073",
+      "title": "Hundreds of Gaza children join a mass swimming lesson to cope with trauma",
+      "description": "In Gaza, the war has upended the lives of an entire generation of children. In an effort to help them cope with the trauma of the conflict, an NGO has launched a project in Khan Younis: a huge swimming lesson that could even set a world record. Hundreds of children have gathered on the beach to learn how to swim. Story…",
+      "url": "https://www.france24.com/en/hundreds-of-gaza-children-join-a-mass-swimming-lesson-to-cope-with-trauma",
+      "source": "France24",
+      "publishedAt": "2026-08-23T09:46:24Z",
+      "image": "https://s.france24.com/media/display/c27d3938-9ed5-11f1-a296-005056a90284/w:1024/p:16x9/EN-20260823-110845-111008-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,51 +128,6 @@
       "tags": []
     },
     {
-      "id": "fra-e7f03ecc37c2",
-      "title": "Turkey accuses Netanyahu of 'genocide', Israeli PM calls Erdogan 'antisemitic dictator'",
-      "description": "Turkey and Israel traded barbs on Friday after Ankara announced it had sought an international arrest warrant for Prime Minister Benjamin Netanyahu, accusing him of \"genocide\" linked to the interception of a Gaza-bound aid flotilla. Turkey is one of Israel's fiercest critics over its war in Gaza, sparked by the Hamas-l…",
-      "url": "https://www.france24.com/en/video/20260822-turkey-accuses-netanyahu-of-genocide-israeli-pm-calls-erdogan-antisemitic-dictator-1",
-      "source": "France24",
-      "publishedAt": "2026-08-22T10:38:30Z",
-      "image": "https://s.france24.com/media/display/38e7f9a0-9e13-11f1-90c5-005056a90284/w:1024/p:16x9/EN-20260822-120355-120535-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-0daf13301211",
-      "title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
-      "description": "Kaja Kallas, the EU’s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as “cynical and despicable”.The EU…",
-      "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-22T01:12:32Z",
-      "image": "https://i.guim.co.uk/img/media/2cc528426ef20eae7438615f8906db2f009b85dc/37_0_970_776/master/970.jpg?width=140&quality=85&auto=format&fit=max&s=d399c2e90ef7aecdfd56b841aea05d55",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-79aecc923ce6",
-      "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-      "description": "Ukraine has imposed sanctions on the hit Russian children's cartoon \"Masha and the Bear,\" a step towards banning it. The culture minister called the show propaganda. Russia said the move showed Kyiv's \"ugly nature.\"",
-      "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-21T18:59:00Z",
-      "image": "https://static.dw.com/image/78465252_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-ff03a3387408",
       "title": "Russian 'Double-Tap' Strike on Shopping Mall in Ukraine Kills 15 and Wounds 130",
       "description": "A shopping mall was struck in the daytime attack on President Volodymyr Zelensky's hometown.",
@@ -183,6 +169,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-50063425df92",
+      "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
+      "description": "Military orders criminal investigation into deaths of five-year-old and six family members in Gaza in 2024The Israeli military admitted on Wednesday its troops had opened fire on a car carrying five-year-old Hind Rajab and six family members in Gaza in 2024, saying it had ordered a criminal investigation into the killi…",
+      "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-20T19:15:09Z",
+      "image": "https://i.guim.co.uk/img/media/f8230805cca357ae6ff4dce57acf9547484cc359/52_27_1153_922/master/1153.jpg?width=140&quality=85&auto=format&fit=max&s=77bb10ea209f5bca327bd536e3f79d13",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

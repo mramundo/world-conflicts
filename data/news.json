@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-23T13:32:56Z",
+  "updated": "2026-08-23T14:24:28Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,57 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-23T13:32:54Z",
+      "publishedAt": "2026-08-23T14:24:25Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-c25593dfa0d0",
+      "title": "Iran, 'i Paesi che aderiscano alle sanzioni Usa saranno ritenuti nemici'",
+      "description": "Rezaei, 'non unitevi alla guerra economica condotta dagli Stati Uniti'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/22/iran-i-paesi-che-aderiscano-alle-sanzioni-usa-saranno-ritenuti-nemici_758d918e-cec3-44ea-8489-6c3b011b1359.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-23T13:40:45Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2017/2/3/d850fa09a646d9c350b36c213603c381.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-02fe1f5a459e",
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "description": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-23T12:52:08Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82b/live/77503d50-9ee6-11f1-9797-eb684645fdf7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-d690a675d64f",
+      "title": "DR Congo, AFC/M23 group agree on roadmap for peace negotiations after Swiss talks",
+      "description": "Mediators representing the Rwanda-backed AFC/M23 armed group and the Democratic Republic of Congo in a joint statement published Sunday said they have agreed on a roadmap for peace talks. The two sides said they had \"agreed on the importance of a standardised method for reporting allegations of ceasefire violations\".",
+      "url": "https://www.france24.com/en/africa/20260823-dr-congo-afc-m23-group-agree-on-roadmap-for-peace-negotiations-after-swiss-talks",
+      "source": "France24",
+      "publishedAt": "2026-08-23T12:15:29Z",
+      "image": "https://s.france24.com/media/display/2759aca4-9ee7-11f1-bd8f-005056a90284/w:1024/p:16x9/AP25185523605369.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -82,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "ans-c25593dfa0d0",
-      "title": "Iran, 'i Paesi che aderiscano alle sanzioni Usa saranno ritenuti nemici'",
-      "description": "Rezaei, 'non unitevi alla guerra economica condotta dagli Stati Uniti'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/22/iran-i-paesi-che-aderiscano-alle-sanzioni-usa-saranno-ritenuti-nemici_758d918e-cec3-44ea-8489-6c3b011b1359.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-22T20:14:19Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2017/2/3/d850fa09a646d9c350b36c213603c381.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -eb348c6bc13b",
       "title": "The slow reconciliation of Polish and Ukrainian memories over World War II mass graves",
       "description": "In the former villages of Wola Ostrowiecka and Ostrowki in western Ukraine, archaeologists and historians have been exhuming the bodies of Polish civilians massacred by Ukrainian nationalists in 1943. More than 80 years later, this painful past still weighs on diplomatic relations between Kyiv and Warsaw.",
@@ -113,6 +143,21 @@
       "tags": []
     },
     {
+      "id": "un -b5acf07a49f5",
+      "title": "Breaking the silence over sexual violence against men and boys in war",
+      "description": "Conflicts can expose civilians and detainees to grave abuses; the challenge is not only to document these crimes, but also to ensure all survivors are recognised, protected and able to access justice and care.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168150",
+      "source": "UN News",
+      "publishedAt": "2026-08-22T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-02-2025-DR-Congo-02.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-ff03a3387408",
       "title": "Russian 'Double-Tap' Strike on Shopping Mall in Ukraine Kills 15 and Wounds 130",
       "description": "A shopping mall was struck in the daytime attack on President Volodymyr Zelensky's hometown.",
@@ -120,21 +165,6 @@
       "source": "The Moscow Times",
       "publishedAt": "2026-08-21T16:16:00Z",
       "image": "https://static.themoscowtimes.com/image/og/21/93557__2124f8a5c5097f5fe827f321d2661b6b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-52e71dd5edfa",
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-21T15:58:57Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
       "categories": [
         "conflict"
       ],

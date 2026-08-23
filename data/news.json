@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T07:34:27Z",
+  "updated": "2026-08-23T08:31:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-23T07:34:23Z",
+      "publishedAt": "2026-08-23T08:31:50Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -dfea9da41324",
+      "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
+      "description": "Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.",
+      "url": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-23T08:03:41Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-05-13T143803Z_1807338249_RC2O7LA8KFVJ_RTRMADP_3_CONGO-SECURITY-1787462671.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-51939ceafecf",
+      "title": "Putin Claims Strikes Have “Positive” Impact After Deadly Mall Attack",
+      "description": "Russian President Vladimir Putin made cynical statements justifying strikes on Ukraine during an interview with state media propagandist Pavel Zarubin on Aug. 22, after a Russian attack on a Kryvyi Rih shopping center killed 16 people and injured 140. Putin claimed Russian strikes impact combat operations in a “positiv…",
+      "url": "https://www.kyivpost.com/post/82924",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-08-23T07:48:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/08/23/e3e66520af59541669da78d517786554.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,21 +63,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -3b09486e35c7",
-      "title": "Iran warns of retaliation against countries joining US ‘economic war’",
-      "description": "Warning comes after Trump said he will impose &#039;most crushing&#039; sanctions to isolate Iran and weaken its government.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-22T23:26:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a8a21de2ba4-1787437534.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -93,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-3e2cd46b79f5",
-      "title": "Who Is Lev Shlosberg, the Russian Politician Jailed for Opposing Russia’s War?",
-      "description": "Russian opposition politician Lev Shlosberg has been sentenced to 11 years and one month in a penal colony over anti-war statements and a social-media repost. His record stretches from exposing the covert deployment of Russian paratroopers to Ukraine in 2014 to demanding an immediate ceasefire after the full-scale inva…",
-      "url": "https://www.kyivpost.com/post/82849",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-22T08:43:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/08/21/6b19cc5dd05f83710e0125c13a974ba6.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:24:28Z",
+  "updated": "2026-08-23T15:23:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-23T14:24:25Z",
+      "publishedAt": "2026-08-23T15:23:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -78,6 +78,21 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-39ea562d9b81",
+      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
+      "description": "President sharply criticises proposal, saying ‘elections right now are a tsunami for the state that will split Ukraine’Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an ext…",
+      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-23T11:50:12Z",
+      "image": "https://i.guim.co.uk/img/media/125d91e786f9cb71270d91c213096e4a92d6289b/638_0_3065_2451/master/3065.jpg?width=140&quality=85&auto=format&fit=max&s=35c300c1bd3c78cd1fcf6d5bc7760f0d",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -184,21 +199,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-50063425df92",
-      "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-      "description": "Military orders criminal investigation into deaths of five-year-old and six family members in Gaza in 2024The Israeli military admitted on Wednesday its troops had opened fire on a car carrying five-year-old Hind Rajab and six family members in Gaza in 2024, saying it had ordered a criminal investigation into the killi…",
-      "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-20T19:15:09Z",
-      "image": "https://i.guim.co.uk/img/media/f8230805cca357ae6ff4dce57acf9547484cc359/52_27_1153_922/master/1153.jpg?width=140&quality=85&auto=format&fit=max&s=77bb10ea209f5bca327bd536e3f79d13",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     }

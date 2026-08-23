@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T06:42:49Z",
+  "updated": "2026-08-23T07:34:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-23T06:42:45Z",
+      "publishedAt": "2026-08-23T07:34:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-44cc4fe0c718",
+      "title": "Ukraine's Drone War Exposes An Uncomfortable Reliance On China",
+      "description": "Ukraine's drone industry has boomed since Russia's invasion, but it still relies on critical Chinese components. A waiver of EU procurement rules underscores Kyiv's uncomfortable wartime dependence on Beijing.",
+      "url": "https://www.rferl.org/a/ukraine-drones-china-chinese-components/33835808.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-23T07:28:49Z",
+      "image": "https://gdb.rferl.org/c1412571-61f3-4bd8-8082-08decad17715_cx0_cy7_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -78,22 +94,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-db08f5bf60f7",
-      "title": "Rescue Operations Under Way After Russian Deadly Strike On Ukrainian Shopping Mall",
-      "description": "Search-and-rescue operations continue at the site of a devastating Russian drone attack on a shopping mall in the Ukrainian city of Kryvyi Rih, as Russia continues to strike across Ukraine.",
-      "url": "https://www.rferl.org/a/russia-attack-kryviy-rih-ukraine-zelenskyy/33836124.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-22T10:37:30Z",
-      "image": "https://gdb.rferl.org/e95da569-c715-48f3-8941-66e2bb728208_cx0_cy2_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

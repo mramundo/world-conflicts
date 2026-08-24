@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:30:10Z",
+  "updated": "2026-08-24T12:53:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-24T11:30:06Z",
+      "publishedAt": "2026-08-24T12:53:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-63baf1a79760",
+      "title": "10 Ukrainian Soldiers, Once Listed as Missing, Return Home via Belarus",
+      "description": "Ten Ukrainian service members who had been listed as missing in action returned home via Belarus on Aug. 24 as part of a new prisoner exchange, President Volodymyr Zelensky announced on Telegram. The soldiers, from the Armed Forces and National Guard, had defended Ukraine's Donetsk sector, with two missing since 2024 a…",
+      "url": "https://www.kyivpost.com/post/83002",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-08-24T12:22:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/08/24/e291076f67a9ccf9f0d55bbad6958425.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -110,21 +125,6 @@
       "tags": []
     },
     {
-      "id": "kyi-51939ceafecf",
-      "title": "Putin Claims Strikes Have “Positive” Impact After Deadly Mall Attack",
-      "description": "Russian President Vladimir Putin made cynical statements justifying strikes on Ukraine during an interview with state media propagandist Pavel Zarubin on Aug. 22, after a Russian attack on a Kryvyi Rih shopping center killed 16 people and injured 140. Putin claimed Russian strikes impact combat operations in a “positiv…",
-      "url": "https://www.kyivpost.com/post/82924",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-23T07:48:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/08/23/e3e66520af59541669da78d517786554.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-44cc4fe0c718",
       "title": "Ukraine's Drone War Exposes An Uncomfortable Reliance On China",
       "description": "Ukraine's drone industry has boomed since Russia's invasion, but it still relies on critical Chinese components. A waiver of EU procurement rules underscores Kyiv's uncomfortable wartime dependence on Beijing.",
@@ -148,6 +148,21 @@
       "source": "UN News",
       "publishedAt": "2026-08-22T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-02-2025-DR-Congo-02.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-4b33ff576081",
+      "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
+      "description": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" starting Sept. 8.",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "source": "NPR World",
+      "publishedAt": "2026-08-22T04:36:27Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x746+0+0/resize/1024x746!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F76%2Fce6c9c994f5eab171f25f577f3bb%2Fgetty-uscanadatariffs.jpg",
       "categories": [
         "conflict"
       ],
@@ -183,21 +198,6 @@
         "humanitarian"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-91d60e0f45a7",
-      "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-      "description": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed.",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-      "source": "NPR World",
-      "publishedAt": "2026-08-21T11:42:10Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1d%2Fd4b7c00c49eb8088a4e7decd6ac0%2Fap26232551199754.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

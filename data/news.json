@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T17:31:51Z",
+  "updated": "2026-08-24T18:41:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-24T17:31:47Z",
+      "publishedAt": "2026-08-24T18:41:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-6eb7f91cf2a8",
+      "title": "Nuove sanzioni Usa all'Iran su oro, tech, aviazione e trasporto marittimo",
+      "description": "Bessent: 'chi facilita transazioni con l'Iran, sarà preso di mira'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/24/nuove-sanzioni-usa-alliran-su-oro-tech-aviazione-e-trasporto-marittimo_b0d3434e-f46b-407b-834d-d97b655970d7.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-24T17:52:22Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/20/79dc09fced794579118ee70c721878ef.jpg",
       "categories": [
         "conflict"
       ],
@@ -51,6 +66,21 @@
       "tags": []
     },
     {
+      "id": "fra-383ea16fdf7f",
+      "title": "Ceasefire verification mission deploys to eastern DR Congo",
+      "description": "A ceasefire verification mission comprised of representatives from DR Congo's government, the Rwanda-backed AFC/M23 rebel group, and observers from the International Conference on the Great Lakes Region (ICGLR) member nations arrived in South Kivu on Monday. The deployment came a day after the DRC and AFC/M23 agreed on…",
+      "url": "https://www.france24.com/en/africa/20260824-ceasefire-verification-mission-deploys-eastern-dr-congo",
+      "source": "France24",
+      "publishedAt": "2026-08-24T16:04:37Z",
+      "image": "https://s.france24.com/media/display/2aae6484-d53f-11f0-832f-005056a90284/w:1024/p:16x9/AP25338597407134.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-2b2eabcd9602",
       "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
       "description": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
@@ -64,21 +94,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-e17270193a73",
-      "title": "Onu, due caschi blu uccisi in un'imboscata nel Sud Sudan",
-      "description": "E 7 feriti nello Stato di Jonglei. Per l'Unmiss è un crimine di guerra",
-      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/24/onu-due-caschi-blu-uccisi-in-unimboscata-nel-sud-sudan_3de4b99a-38ca-46dc-bfb9-f1f560b11f27.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-24T14:10:17Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/24/6f9a1679c227d5ea51d96029fa7806de.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -144,7 +159,7 @@
     {
       "id": "un -d372fba00c64",
       "title": "Security Council LIVE: War, hunger, flooding escalates in Sudan",
-      "description": "The Security Council is currently hearing top UN officials brief on the latest updates about war-torn Sudan as escalating conflict, drone strikes against civilians, displacement, hunger and flooding affects millions and UN agencies strive to deliver lifesaving aid. UN News app users can follow our live coverage here.",
+      "description": "Suffering in Sudan continues to grow in the world’s worst humanitarian crisis amid brutal mass killings, abductions and rape, top UN officials warned the Security Council on Monday, calling for action to end the four-year-long war. UN News app users can follow our coverage here.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168188",
       "source": "UN News",
       "publishedAt": "2026-08-24T12:00:00Z",
@@ -154,21 +169,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-e524e14681e1",
-      "title": "Despite ceasefire, Israeli strikes still kill in Gaza and the West Bank",
-      "description": "Despite a ceasefire that has been in place since October 2025, violence continues in Gaza. On August 23, Israeli strikes left several people dead in the enclave, and a young boy was killed by the Israeli military in the West Bank, according to local authorities. Since the announcement of the truce, more than 1,280 Pale…",
-      "url": "https://www.france24.com/en/despite-ceasefire-israeli-strikes-still-kill-in-gaza-and-the-west-bank",
-      "source": "France24",
-      "publishedAt": "2026-08-24T09:17:26Z",
-      "image": "https://s.france24.com/media/display/30c52f5a-9f07-11f1-80c9-005056a90284/w:1024/p:16x9/2026-08-23T135202Z-893576406-RC2A4NA85GFG-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

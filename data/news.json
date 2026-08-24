@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T15:39:56Z",
+  "updated": "2026-08-24T16:39:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-24T15:39:52Z",
+      "publishedAt": "2026-08-24T16:39:38Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -97,7 +97,7 @@
     },
     {
       "id": "npr-82ec1ffae029",
-      "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+      "title": "Treasury Secretary Scott Bessent is set to unveil new economic sanctions on Iran",
       "description": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
       "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
       "source": "NPR World",
@@ -172,6 +172,21 @@
       "tags": []
     },
     {
+      "id": "the-149eb8ea3e19",
+      "title": "Putin Wants to Draft 300K New Troops, Zelensky Says",
+      "description": "Zelensky said Russia could draft more troops in 2027 to reach an overall goal of 500,000.",
+      "url": "https://www.themoscowtimes.com/2026/08/23/putin-wants-to-draft-300k-new-troops-zelensky-says-a93562",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-23T13:37:14Z",
+      "image": "https://static.themoscowtimes.com/image/og/bc/93562__bce5104991c5cdcf387bafb9f0b4f0ac.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-44cc4fe0c718",
       "title": "Ukraine's Drone War Exposes An Uncomfortable Reliance On China",
       "description": "Ukraine's drone industry has boomed since Russia's invasion, but it still relies on critical Chinese components. A waiver of EU procurement rules underscores Kyiv's uncomfortable wartime dependence on Beijing.",
@@ -185,21 +200,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-ff03a3387408",
-      "title": "Russian 'Double-Tap' Strike on Shopping Mall in Ukraine Kills 15 and Wounds 130",
-      "description": "A shopping mall was struck in the daytime attack on President Volodymyr Zelensky's hometown.",
-      "url": "https://www.themoscowtimes.com/2026/08/21/russian-double-tap-strike-on-shopping-mall-in-ukraine-kills-15-and-wounds-130-a93557",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-21T16:16:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/21/93557__2124f8a5c5097f5fe827f321d2661b6b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     }
   ]

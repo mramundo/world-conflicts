@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T16:38:48Z",
+  "updated": "2026-08-25T17:32:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,8 +10,38 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-25T16:38:44Z",
+      "publishedAt": "2026-08-25T17:32:55Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-993d38963cc4",
+      "title": "Nigeria’s president orders rescue operation after mass kidnapping at mosque",
+      "description": "Nigerian President Bola Tinubu on Tuesday ordered security agencies to conduct a rescue operation after the mass kidnapping of worshippers during an attack on a mosque in the north-central Niger State last week. Local authorities were still trying to verify the number of missing people, but local residents said roughly…",
+      "url": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack",
+      "source": "France24",
+      "publishedAt": "2026-08-25T17:10:23Z",
+      "image": "https://s.france24.com/media/display/2e632c3c-52ac-11f1-86c8-005056bfb2b6/w:1024/p:16x9/AP26136284691916.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -b4caa8e48fb4",
+      "title": "Canada unveils counter-tariffs of 15% to 50% on US goods as trade war intensifies",
+      "description": "Under Canada's planned response, US steel and aluminum products previously subject to a 25% duty will soon face 50% tariffs. Goods facing 25% tariffs will include appliances, dairy products and certain steel and aluminum derivative products.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/25/canada-unveils-counter-tariffs-of-15-to-50-on-us-goods-as-trade-war-intensifies_6756837_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-25T15:36:06Z",
+      "image": "https://img.lemde.fr/2026/08/24/684/0/8192/4096/644/322/60/0/400275c_ftp-1-xijh5vujkid3-5913575-01-06.jpg",
       "categories": [
         "conflict"
       ],
@@ -50,21 +80,6 @@
       "tags": []
     },
     {
-      "id": "fra-96d27f146b55",
-      "title": "US economic D-Day sanctions: 'Repeated bombing attacks across Iran failed to change the calculus'",
-      "description": "Genie Godula is pleased to welcome Imran Bayoumi, Deputy Director & Resident Fellow at the Atlantic Council. He sees the Trump administration’s new sanctions strategy toward Iran as an attempt to seek economic leverage where military force has so far failed to produce any results. But its effectiveness rests on several…",
-      "url": "https://www.france24.com/en/video/20260825-us-economic-d-day-sanctions-repeated-bombing-attacks-across-iran-failed-to-change-the-calculus",
-      "source": "France24",
-      "publishedAt": "2026-08-25T13:44:24Z",
-      "image": "https://s.france24.com/media/display/88b421d0-a088-11f1-980e-005056bf30b7/w:1024/p:16x9/EN-20260825-130316-130856-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -90959d02dd24",
       "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
       "description": "Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.",
@@ -78,21 +93,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -fafdb8b5d2d2",
-      "title": "Soldier testimony sheds light on how Israel wages information war",
-      "description": "One year after the bombing that killed 22 people, including five journalists, at Nasser Hospital in the south of the Gaza Strip, an Israeli soldier has told several media outlets, including Le Monde, how the Israeli army pulls out all stops to link bombing victims to Hamas.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/25/soldier-testimony-sheds-light-on-how-israel-wages-information-war_6756830_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-25T13:16:23Z",
-      "image": "https://img.lemde.fr/2026/08/24/73/0/2308/1154/644/322/60/0/7dc1bd6_upload-1-ei8q1ccyg9vx-2025-09-11t200356z-1462139737-rc2aega7lav3-rtrmadp-3-israel-palestinians-gaza-journalists.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {

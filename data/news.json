@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T04:40:05Z",
+  "updated": "2026-08-25T05:32:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-25T04:40:01Z",
+      "publishedAt": "2026-08-25T05:32:39Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -21,16 +21,16 @@
     },
     {
       "id": "le -4685022476ab",
-      "title": "Around 40 dead in gang attack near Haiti's capital",
-      "description": "Gang members attacked displaced people huddling inside a church in Kenscoff on Sunday, August 23, killing some of them execution-style.",
+      "title": "Gang attack near Haiti capital leaves around 40 dead",
+      "description": "Assailants attacked displaced people huddling inside a church in the Kenscoff neighborhood of Port-au-Prince on Sunday, killing some of them execution-style.",
       "url": "https://www.lemonde.fr/en/international/article/2026/08/25/around-40-dead-in-gang-attack-near-haiti-s-capital_6756821_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-25T03:40:20Z",
+      "publishedAt": "2026-08-25T03:40:15Z",
       "image": "https://img.lemde.fr/2026/08/24/304/0/5567/2783/644/322/60/0/7279ed2_ftp-1-soo3me3mgduz-2026-08-24t205005z-2015529858-rc215naju38w-rtrmadp-3-haiti-violence.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -41,7 +41,7 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-08-25T01:46:26Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787622205.jpg?resize=1613%2C1080&amp;quality=80",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787634068.jpg?resize=1613%2C1080&amp;quality=80",
       "categories": [
         "conflict"
       ],
@@ -63,23 +63,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-cda2035860ce",
-      "title": "What If China Doesn't Play Ball? US Sanctions Campaign Faces Its Biggest Test",
-      "description": "WASHINGTON -- US sanctions experts say the Trump administration's new campaign to economically isolate Iran could be an effective escalation -- but only if Washington backs its threats with action. US Treasury Secretary Scott Bessent unveiled what he called “Operation Economic Outcast” on August 24, describing it as an…",
-      "url": "https://www.rferl.org/a/33837376.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-24T21:30:13Z",
-      "image": "https://gdb.rferl.org/01309888-d69d-4935-85f6-f4cc8156f525_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 15,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -202,6 +185,22 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-44cc4fe0c718",
+      "title": "Ukraine's Drone War Exposes An Uncomfortable Reliance On China",
+      "description": "Ukraine's drone industry has boomed since Russia's invasion, but it still relies on critical Chinese components. A waiver of EU procurement rules underscores Kyiv's uncomfortable wartime dependence on Beijing.",
+      "url": "https://www.rferl.org/a/ukraine-drones-china-chinese-components/33835808.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-23T07:28:49Z",
+      "image": "https://gdb.rferl.org/c1412571-61f3-4bd8-8082-08decad17715_cx0_cy7_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     }
   ]

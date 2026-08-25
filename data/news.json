@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T10:34:21Z",
+  "updated": "2026-08-25T11:29:01Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-25T10:34:17Z",
+      "publishedAt": "2026-08-25T11:28:58Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -48,6 +48,21 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-daf0a17387f2",
+      "title": "DR Congo sees breakthrough as officials and rebels agree to peace talk roadmap",
+      "description": "In eastern Democratic Republic of Congo, Rwanda-backed M23 rebels are still in control of swathes of territory. After months of stalled peace talks, both sides have agreed to get the ball rolling again. FRANCE 24's Emmet Livingstone, in Kinshasa, has more.",
+      "url": "https://www.france24.com/en/dr-congo-sees-breakthrough-as-officials-and-rebels-agree-to-peace-talk-roadmap",
+      "source": "France24",
+      "publishedAt": "2026-08-25T09:24:14Z",
+      "image": "https://s.france24.com/media/display/2aae6484-d53f-11f0-832f-005056a90284/w:1024/p:16x9/AP25338597407134.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -93,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-383ea16fdf7f",
-      "title": "Ceasefire verification mission deploys to eastern DR Congo",
-      "description": "A ceasefire verification mission comprised of representatives from DR Congo's government, the Rwanda-backed AFC/M23 rebel group, and observers from the International Conference on the Great Lakes Region (ICGLR) member nations arrived in South Kivu on Monday. The deployment came a day after the DRC and AFC/M23 agreed on…",
-      "url": "https://www.france24.com/en/africa/20260824-ceasefire-verification-mission-deploys-eastern-dr-congo",
-      "source": "France24",
-      "publishedAt": "2026-08-24T16:04:37Z",
-      "image": "https://s.france24.com/media/display/2aae6484-d53f-11f0-832f-005056a90284/w:1024/p:16x9/AP25338597407134.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T23:23:49Z",
+  "updated": "2026-08-25T01:20:33Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-24T23:23:45Z",
+      "publishedAt": "2026-08-25T01:20:31Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -163,15 +163,16 @@
     {
       "id": "un -b05931539afb",
       "title": "Security Council LIVE: Civilian suffering grows in Russia-Ukraine war",
-      "description": "Spiralling drone and missile attacks on civilians in the ongoing Russia-Ukraine war were in the spotlight on Monday as the Security Council hears the latest reports from UN officials about the situation on the ground.&nbsp;UN News app users can follow our live coverage here.",
+      "description": "As spiralling drone and missile attacks on civilians in the ongoing Russia-Ukraine war continue, top UN officials told the Security Council on Monday that every diplomatic effort must work towards a full, immediate and unconditional ceasefire.&nbsp;UN News app users can follow our live coverage here.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168191",
       "source": "UN News",
       "publishedAt": "2026-08-24T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/21-07-2026-UNICEF-Ukraine-04.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T07:44:56Z",
+  "updated": "2026-08-25T08:43:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,8 +10,23 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-25T07:44:52Z",
+      "publishedAt": "2026-08-25T08:43:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-f3f3d05c719e",
+      "title": "Pechino, 'sanzioni Usa a Iran sono illegali, tuteleremo i nostri interessi'",
+      "description": "Portavoce Esteri: 'Adotteremo tutte le misure necessarie'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/25/pechino-sanzioni-usa-a-iran-sono-illegali-tuteleremo-i-nostri-interessi_7da5134f-d6c1-4fc1-ac4b-36faec60f064.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-25T07:53:50Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/1/acbbdac2189e3c4245b9f188ac5ae7e4.jpg",
       "categories": [
         "conflict"
       ],
@@ -78,21 +93,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-6eb7f91cf2a8",
-      "title": "Nuove sanzioni Usa all'Iran su oro, tech, aviazione e trasporto marittimo",
-      "description": "Bessent: 'chi facilita transazioni con l'Iran, sarà preso di mira'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/24/nuove-sanzioni-usa-alliran-su-oro-tech-aviazione-e-trasporto-marittimo_b0d3434e-f46b-407b-834d-d97b655970d7.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-24T17:52:22Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/20/79dc09fced794579118ee70c721878ef.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

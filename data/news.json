@@ -1,21 +1,36 @@
 {
-  "updated": "2026-08-25T17:32:59Z",
+  "updated": "2026-08-25T18:40:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-68999c068ac4",
-      "title": "Preservation of Japan's A-bombed buildings faces cost challenge",
-      "description": "",
-      "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
-      "source": "Nikkei Asia",
-      "publishedAt": "2026-08-25T17:32:55Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "id": "cs -02c1e16ca72b",
+      "title": "For Ukraine’s Greek peoples, the war threatens a language and a way of life",
+      "description": "Russia’s full-scale invasion of Ukraine has displaced North Azovian Greek community, a minority-language people now trying to save their cultural identity.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0825/ukraine-roumean-north-azovian-greek-urum-mariupol-war?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-08-25T18:34:42Z",
+      "image": "https://images.csmonitor.com/csm/2026/08/OGREEKUKRAINE_Akhbash.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -0b2de9b610ba",
+      "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+      "description": "Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-25T18:13:37Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/Screenshot-2026-07-26-at-1.48.05-PM-1-1-1785063086.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -77,22 +92,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -90959d02dd24",
-      "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
-      "description": "Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-25T13:26:22Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4d3484b1dd-1783444612.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T03:54:47Z",
+  "updated": "2026-08-25T04:40:05Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-25T03:54:44Z",
+      "publishedAt": "2026-08-25T04:40:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F6%2F3%2F12983637-1-eng-GB%2F379a60409447-photo_SXM2026072400007793.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -98,22 +98,6 @@
       "tags": []
     },
     {
-      "id": "the-eae5ac2e5ace",
-      "title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
-      "description": "As well as pledging military help and diplomatic backing, the prime minister could be useful in dealing with the USSince moving into Downing Street in July, Andy Burnham – a foreign policy neophyte – has expressed strong support for Ukraine. But on Monday he saw the bitter human cost of the war up close for the first t…",
-      "url": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-24T16:33:22Z",
-      "image": "https://i.guim.co.uk/img/media/dd6da4bdd6d8ce379491c9a32f8885465ce8c851/355_47_4270_3418/master/4270.jpg?width=140&quality=85&auto=format&fit=max&s=14e1c2b657b77249618176fe7e4cb716",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-383ea16fdf7f",
       "title": "Ceasefire verification mission deploys to eastern DR Congo",
       "description": "A ceasefire verification mission comprised of representatives from DR Congo's government, the Rwanda-backed AFC/M23 rebel group, and observers from the International Conference on the Great Lakes Region (ICGLR) member nations arrived in South Kivu on Monday. The deployment came a day after the DRC and AFC/M23 agreed on…",
@@ -142,6 +126,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-2f3e082a5d9e",
+      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+      "description": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older peopleAn armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last week.The video, posted on Faceboo…",
+      "url": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-24T14:19:14Z",
+      "image": "https://i.guim.co.uk/img/media/6fceb10673f4af6f590045148db3218713256243/1116_171_4621_3697/master/4621.jpg?width=140&quality=85&auto=format&fit=max&s=2a21297e74271a7b4614825c88bba983",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {

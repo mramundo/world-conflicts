@@ -1,21 +1,51 @@
 {
-  "updated": "2026-08-26T14:47:26Z",
+  "updated": "2026-08-26T16:18:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "the-145014b325b0",
-      "title": "Trump Confirms CIA Director’s Moscow Trip, Calling It ‘Semi-Routine’",
-      "description": "The U.S. president expressed hope that the spy chief’s unannounced visit to Russia could help end the war in Ukraine.",
-      "url": "https://www.themoscowtimes.com/2026/08/26/trump-confirms-cia-directors-moscow-trip-calling-it-semi-routine-a93582",
+      "id": "the-324bb4f9c19c",
+      "title": "Russians Are Rushing for Cash. Should the Kremlin Be Worried?",
+      "description": "Households and businesses have added $25.3 billion to their cash holdings so far this year, marking the largest increase since the start of the war.",
+      "url": "https://www.themoscowtimes.com/2026/08/26/russians-are-rushing-for-cash-should-the-kremlin-be-worried-a93555",
       "source": "The Moscow Times",
-      "publishedAt": "2026-08-26T14:16:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/12/93582__1230d39e21a2296c34833ce4062b3764.jpg",
+      "publishedAt": "2026-08-26T15:26:35Z",
+      "image": "https://static.themoscowtimes.com/image/og/92/93555__922bf372baea877169976e95e622bff8.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-86247409c280",
+      "title": "Gang attack in Haiti: Anger mounts over police failures",
+      "description": "At least 47 people were killed and more than 50 others kidnapped after armed men attacked a once-peaceful community near Haiti’s capital earlier this week, the United Nations said Tuesday. It is believed to be one of the largest mass kidnappings in Haiti in recent years, and one gang leader is threatening to kill the h…",
+      "url": "https://www.france24.com/en/video/20260826-gang-attack-in-haiti-anger-mounts-over-police-failures",
+      "source": "France24",
+      "publishedAt": "2026-08-26T14:55:31Z",
+      "image": "https://s.france24.com/media/display/a0ee632a-a15d-11f1-bbd5-005056bf30b7/w:1024/p:16x9/EN-20260826-131037-131546-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -5ff425f53818",
+      "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
+      "description": "Raid on UNRWA centre exposes Israel&#039;s strategic push to erase refugee rights, seal West Bank annexation, analysts say.",
+      "url": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-26T14:42:36Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AA-20260825-42303270-42303265-ISRAELI_FORCES_RAID_UNRWAS_KALENDIYA_EDUCATION_CENTER_IN_EAST_JERUSALEM-1787665783.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,48 +65,17 @@
       "tags": []
     },
     {
-      "id": "fra-34f9336f8af7",
-      "title": "One million Afghan children suffer 'life-threatening' malnutrition",
-      "description": "One million children in Afghanistan are suffering from life-threatening malnutrition in a worsening crisis sweeping the country, the United Nations warned Tuesday. Across Afghanistan, 3.7 million children suffer from wasting, meaning they are acutely malnourished, the UN children's agency UNICEF said. Afghanistan has e…",
-      "url": "https://www.france24.com/en/video/20260826-one-million-afghan-children-suffer-life-threatening-malnutrition",
-      "source": "France24",
-      "publishedAt": "2026-08-26T10:27:34Z",
-      "image": "https://s.france24.com/media/display/e7f48f98-a12a-11f1-bc5b-005056a90284/w:1024/p:16x9/EN-20260826-100640-100812-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -16bf48757f36",
-      "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
-      "description": "Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.",
-      "url": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T10:00:05Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Interactive_Iran_cost_of_living_Aug25_2026-03-1787732049.jpg?resize=1200%2C630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -81ed5e65cadf",
-      "title": "Syria's powerful Kurdish forces chief announces their dissolution",
-      "description": "The Kurdish-led Syrian Democratic Forces, a group backed by Washington that was at the forefront of the battle against IS, announced their dissolution. Their forces have been integrated into the Syrian army.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/26/syria-s-powerful-kurdish-forces-chief-announces-their-dissolution_6756850_4.html",
+      "id": "le -898332c9cff1",
+      "title": "Kremlin says CIA Director held talks with Russian intelligence services in Moscow",
+      "description": "US President Donald Trump, in an interview, called John Ratcliffe's visit 'semi-routine,' while implying that the intelligence chief was in the Russian capital to discuss the Ukraine war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/26/kremlin-says-cia-director-held-talks-with-russian-intelligence-services-in-moscow_6756874_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-25T23:51:57Z",
-      "image": "https://img.lemde.fr/2026/08/25/29/0/3048/1524/644/322/60/0/b6eb909_ftp-1-3ksesyrj2oeu-16595ce8e4fe4c1ea52386ef880c05f2-0-977dfbf81bb34c5cad0d5dfee4695f08.jpg",
+      "publishedAt": "2026-08-26T13:23:02Z",
+      "image": "https://img.lemde.fr/2026/08/26/97/0/3840/1920/644/322/60/0/31426ac_ftp-1-geczf4kr2qmh-2026-08-26t062622z-2036709937-rc2r5na8meqf-rtrmadp-3-usa-russia-cia.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,9 +1,24 @@
 {
-  "updated": "2026-08-26T13:55:45Z",
+  "updated": "2026-08-26T14:47:26Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "the-145014b325b0",
+      "title": "Trump Confirms CIA Director’s Moscow Trip, Calling It ‘Semi-Routine’",
+      "description": "The U.S. president expressed hope that the spy chief’s unannounced visit to Russia could help end the war in Ukraine.",
+      "url": "https://www.themoscowtimes.com/2026/08/26/trump-confirms-cia-directors-moscow-trip-calling-it-semi-routine-a93582",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-26T14:16:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/12/93582__1230d39e21a2296c34833ce4062b3764.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "ans-e66cc5fd0775",
       "title": "Trump, 'il capo della Cia in Russia? visita di semi-routine'",
@@ -14,6 +29,22 @@
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/26/a87202a025e516ab5e69827228bb460b.jpg",
       "categories": [
         "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-34f9336f8af7",
+      "title": "One million Afghan children suffer 'life-threatening' malnutrition",
+      "description": "One million children in Afghanistan are suffering from life-threatening malnutrition in a worsening crisis sweeping the country, the United Nations warned Tuesday. Across Afghanistan, 3.7 million children suffer from wasting, meaning they are acutely malnourished, the UN children's agency UNICEF said. Afghanistan has e…",
+      "url": "https://www.france24.com/en/video/20260826-one-million-afghan-children-suffer-life-threatening-malnutrition",
+      "source": "France24",
+      "publishedAt": "2026-08-26T10:27:34Z",
+      "image": "https://s.france24.com/media/display/e7f48f98-a12a-11f1-bc5b-005056a90284/w:1024/p:16x9/EN-20260826-100640-100812-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
@@ -31,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-e86a02709731",
-      "title": "3 Killed in Russia as Ukraine Sets Wildberries Warehouse and Oil Refinery Ablaze",
-      "description": "Officials in the city of Kotovsk asked residents to avoid going outside over the next two days due to the risk of carbon monoxide poisoning.",
-      "url": "https://www.themoscowtimes.com/2026/08/26/3-killed-in-russia-as-ukraine-sets-wildberries-warehouse-and-oil-refinery-ablaze-a93577",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-26T07:50:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/ff/93577__fff7743c244b1d975b2ec6fbebb3b040.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

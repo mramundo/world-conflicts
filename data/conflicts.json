@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T07:48:21Z",
+  "updated": "2026-08-26T08:45:43Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-08-24T21:46:12Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-08-25",
       "wikipediaRevision": "2026-08-25T05:20:32Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "sd-war",
@@ -134,7 +134,7 @@
       "lastUpdate": "2026-08-24",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-08-24T09:42:46Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "cd-east",
@@ -155,9 +155,9 @@
         "Armed groups"
       ],
       "wikipediaPage": "Kivu_conflict",
-      "lastUpdate": "2026-08-22",
+      "lastUpdate": "2026-08-26",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-08-22T15:30:26Z",
+      "wikipediaRevision": "2026-08-26T08:28:07Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 5
+      "recentNewsCount": 4
     },
     {
       "id": "et-am",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     }
   ]
 }

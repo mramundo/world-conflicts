@@ -1,20 +1,19 @@
 {
-  "updated": "2026-08-26T12:54:48Z",
+  "updated": "2026-08-26T13:55:45Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "fra-34f9336f8af7",
-      "title": "One million Afghan children suffer 'life-threatening' malnutrition",
-      "description": "One million children in Afghanistan are suffering from life-threatening malnutrition in a worsening crisis sweeping the country, the United Nations warned Tuesday. Across Afghanistan, 3.7 million children suffer from wasting, meaning they are acutely malnourished, the UN children's agency UNICEF said. Afghanistan has e…",
-      "url": "https://www.france24.com/en/video/20260826-one-million-afghan-children-suffer-life-threatening-malnutrition",
-      "source": "France24",
-      "publishedAt": "2026-08-26T10:27:34Z",
-      "image": "https://s.france24.com/media/display/e7f48f98-a12a-11f1-bc5b-005056a90284/w:1024/p:16x9/EN-20260826-100640-100812-CS.jpg",
+      "id": "ans-e66cc5fd0775",
+      "title": "Trump, 'il capo della Cia in Russia? visita di semi-routine'",
+      "description": "'Vorrei che la guerra contro l'Ucraina finisca'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/26/trump-il-capo-della-cia-in-russia-visita-di-semi-routine_811dc919-a6e2-453b-99bf-201cf9dcab30.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-26T13:39:35Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/26/a87202a025e516ab5e69827228bb460b.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
@@ -32,6 +31,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-e86a02709731",
+      "title": "3 Killed in Russia as Ukraine Sets Wildberries Warehouse and Oil Refinery Ablaze",
+      "description": "Officials in the city of Kotovsk asked residents to avoid going outside over the next two days due to the risk of carbon monoxide poisoning.",
+      "url": "https://www.themoscowtimes.com/2026/08/26/3-killed-in-russia-as-ukraine-sets-wildberries-warehouse-and-oil-refinery-ablaze-a93577",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-26T07:50:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/ff/93577__fff7743c244b1d975b2ec6fbebb3b040.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -112,21 +126,6 @@
       "tags": []
     },
     {
-      "id": "ans-1be05265623e",
-      "title": "La produzione di petrolio in Venezuela raggiunge 1,2 milioni di barili",
-      "description": "E' il livello più alto dal 2019, anno delle prime sanzioni imposte da Donald Trump",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/la-produzione-di-petrolio-in-venezuela-raggiunge-12-milioni-di-barili_e0ea5661-a5d5-444d-b105-178643ba6ca6.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-25T14:53:18Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/2/3/632fe6d5494ef42003df503e4f41ce3d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-5c6750c9834d",
       "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
       "description": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country.",
@@ -186,21 +185,6 @@
         "humanitarian"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-149eb8ea3e19",
-      "title": "Putin Wants to Draft 300K New Troops, Zelensky Says",
-      "description": "Zelensky said Russia could draft more troops in 2027 to reach an overall goal of 500,000.",
-      "url": "https://www.themoscowtimes.com/2026/08/23/putin-wants-to-draft-300k-new-troops-zelensky-says-a93562",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-23T13:37:14Z",
-      "image": "https://static.themoscowtimes.com/image/og/bc/93562__bce5104991c5cdcf387bafb9f0b4f0ac.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

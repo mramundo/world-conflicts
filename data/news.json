@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-26T06:52:16Z",
+  "updated": "2026-08-26T07:48:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -c60a5ec3c90b",
-      "title": "Is Sudan’s battlefield shaping the terms of its next political phase?",
-      "description": "Army gains, RSF defections and al-Burhan’s political push point to a possible shift in Sudan’s war.",
-      "url": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
+      "id": "al -13d7cb81cb8c",
+      "title": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
+      "description": "Sudanese army&#039;s battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T01:00:17Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260819__C4ZL2G4__v3__HighRes__TopshotSudanConflictRsf-1787215024.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-26T07:26:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8e94f0461f-1787729136.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 11,
       "isAnalysis": true,
       "tags": []
     },
@@ -63,6 +63,22 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-94de5966061f",
+      "title": "Aggressive Recruiters Are Rounding Up Russians To Fight In Ukraine. In One Town, They're Pushing Back",
+      "description": "Volunteers in the Penza region town of Bashmakovo have formed patrols to prevent military recruiters from taking local men to fight in Ukraine, an unusual grassroots response to the Russian state’s increasingly aggressive efforts to find troops for the war",
+      "url": "https://www.rferl.org/a/russia-penza-bashmakovo-patrol-military-recruitment/33839254.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-25T16:52:36Z",
+      "image": "https://gdb.rferl.org/0f0f885b-5de1-47eb-859f-08decad17715_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -186,22 +202,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-44cc4fe0c718",
-      "title": "Ukraine's Drone War Exposes An Uncomfortable Reliance On China",
-      "description": "Ukraine's drone industry has boomed since Russia's invasion, but it still relies on critical Chinese components. A waiver of EU procurement rules underscores Kyiv's uncomfortable wartime dependence on Beijing.",
-      "url": "https://www.rferl.org/a/ukraine-drones-china-chinese-components/33835808.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-23T07:28:49Z",
-      "image": "https://gdb.rferl.org/c1412571-61f3-4bd8-8082-08decad17715_cx0_cy7_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     }
   ]

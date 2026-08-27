@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-27T04:22:16Z",
+  "updated": "2026-08-27T16:11:39Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-08-24T21:46:12Z",
+  "wikipediaListRevision": "2026-08-27T13:29:48Z",
   "items": [
     {
       "id": "ru-ua",
@@ -23,8 +23,8 @@
       ],
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-08-27",
-      "wikipediaRevision": "2026-08-27T04:13:42Z",
-      "recentNewsCount": 6
+      "wikipediaRevision": "2026-08-27T04:26:01Z",
+      "recentNewsCount": 4
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-08-25",
       "wikipediaRevision": "2026-08-25T05:20:32Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sd-war",
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sy-war",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-08-26",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-08-26T08:28:07Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "sahel",
@@ -225,8 +225,8 @@
         "Jihadism"
       ],
       "wikipediaPage": "Boko_Haram_insurgency",
-      "lastUpdate": "2026-08-26",
-      "wikipediaRevision": "2026-08-26T17:20:04Z",
+      "lastUpdate": "2026-08-27",
+      "wikipediaRevision": "2026-08-27T12:26:58Z",
       "recentNewsCount": 0
     },
     {
@@ -270,7 +270,7 @@
       ],
       "wikipediaPage": "Haitian_crisis_(2018%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "af-tb",
@@ -290,9 +290,9 @@
         "Terrorism"
       ],
       "wikipediaPage": "Republican_insurgency_in_Afghanistan",
-      "lastUpdate": "2026-08-25",
+      "lastUpdate": "2026-08-27",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-08-25T09:29:11Z",
+      "wikipediaRevision": "2026-08-27T09:42:34Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 1
     },
     {
       "id": "et-am",
@@ -406,7 +406,7 @@
       "lastUpdate": "2026-08-22",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-08-22T03:51:00Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "red-sea",
@@ -427,9 +427,9 @@
         "Global economy"
       ],
       "wikipediaPage": "Red_Sea_crisis",
-      "lastUpdate": "2026-08-22",
-      "wikipediaRevision": "2026-08-22T16:54:51Z",
-      "recentNewsCount": 1
+      "lastUpdate": "2026-08-27",
+      "wikipediaRevision": "2026-08-27T11:12:58Z",
+      "recentNewsCount": 0
     },
     {
       "id": "wb-isr",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     }
   ]
 }

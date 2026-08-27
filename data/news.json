@@ -1,21 +1,37 @@
 {
-  "updated": "2026-08-26T22:50:54Z",
+  "updated": "2026-08-27T04:22:07Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -ac116aa5b71e",
-      "title": "Iran emphasises self-sufficiency in battle against US economic war",
-      "description": "Iranian authorities believe they can withstand US sanctions, but warn of a tough year ahead.",
-      "url": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss",
+      "id": "al -dcc4bac85f59",
+      "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+      "description": "Sheikh Mohammed&#039;s visit comes as US-Israel war on Iran nears its sixth month with no diplomatic breakthrough in sight.",
+      "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-26T16:53:20Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8f0b3831d79-1787759416.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-27T02:54:04Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-21T150152Z_455887200_RC2EYLA0D2PL_RTRMADP_3_IRAN-CRISIS-SWISS-MEETING-1787796288.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -020adbe13ed6",
+      "title": "Evyatar David, former hostage in Gaza: 'I wake up at night with nightmares, and it haunts me all day long'",
+      "description": "Freed in October 2025 after 738 days in captivity, Evyatar David had been filmed by Hamas digging his own grave. On Wednesday, August 26, in an interview with CNN, he discussed the psychological scars left by his ordeal.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/27/evyatar-david-former-hostage-in-gaza-i-wake-up-at-night-with-nightmares-and-it-haunts-me-all-day-long_6756887_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-26T23:29:02Z",
+      "image": "https://img.lemde.fr/2026/08/26/597/0/8640/4320/644/322/60/0/f5d8175_upload-1-glfssv5l52md-ap25299513779812.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -61,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -898332c9cff1",
-      "title": "Kremlin says CIA Director held talks with Russian intelligence services in Moscow",
-      "description": "US President Donald Trump, in an interview, called John Ratcliffe's visit 'semi-routine,' while implying that the intelligence chief was in the Russian capital to discuss the Ukraine war.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/26/kremlin-says-cia-director-held-talks-with-russian-intelligence-services-in-moscow_6756874_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-26T13:23:02Z",
-      "image": "https://img.lemde.fr/2026/08/26/97/0/3840/1920/644/322/60/0/31426ac_ftp-1-geczf4kr2qmh-2026-08-26t062622z-2036709937-rc2r5na8meqf-rtrmadp-3-usa-russia-cia.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -184,6 +185,22 @@
         "conflict"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -b05931539afb",
+      "title": "Security Council LIVE: Civilian suffering grows in Russia-Ukraine war",
+      "description": "As spiralling drone and missile attacks on civilians in the ongoing Russia-Ukraine war continue, top UN officials told the Security Council on Monday that every diplomatic effort must work towards a full, immediate and unconditional ceasefire.&nbsp;UN News app users can follow our live coverage here.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168191",
+      "source": "UN News",
+      "publishedAt": "2026-08-24T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/21-07-2026-UNICEF-Ukraine-04.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

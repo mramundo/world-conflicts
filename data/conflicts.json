@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T22:51:03Z",
+  "updated": "2026-08-27T04:22:16Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-08-24T21:46:12Z",
   "items": [
@@ -22,8 +22,8 @@
         "Interstate conflict"
       ],
       "wikipediaPage": "Russo-Ukrainian_War",
-      "lastUpdate": "2026-08-26",
-      "wikipediaRevision": "2026-08-26T15:59:20Z",
+      "lastUpdate": "2026-08-27",
+      "wikipediaRevision": "2026-08-27T04:13:42Z",
       "recentNewsCount": 6
     },
     {
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-08-25",
       "wikipediaRevision": "2026-08-25T05:20:32Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "sd-war",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     }
   ]
 }

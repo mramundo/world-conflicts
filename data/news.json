@@ -1,17 +1,77 @@
 {
-  "updated": "2026-08-28T13:56:42Z",
+  "updated": "2026-08-28T23:29:40Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -45aed0fa8435",
-      "title": "Dutch court hands life sentence to Rwandan man for genocide role",
-      "description": "Eugene N. was convicted for his part in a massacre at a stadium in which 3,000 Tutsis were slaughtered.",
-      "url": "https://www.aljazeera.com/news/2026/8/28/dutch-court-hands-life-sentence-to-rwandan-man-for-genocide-role?traffic_source=rss",
+      "id": "al -753d931a3913",
+      "title": "Israeli strike kills three Palestinians in Jenin",
+      "description": "An Israeli drone strike killed three Palestinians in Jenin, the first such attack in the West Bank since February 2025.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-08-28T13:17:34Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a917d33a129b-1787919667.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-28T22:11:36Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-28T143909Z_705473507_RC2Q7NASE404_RTRMADP_3_ISRAEL-PALESTINIANS-JENIN-AIRSTRIKE-1787955033.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-4c6253cfaa5c",
+      "title": "After 6 months of war, Iran's battered regime remains entrenched",
+      "description": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line.",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
+      "source": "NPR World",
+      "publishedAt": "2026-08-28T19:35:24Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F2e%2F6d69d181449e80011d1535daeed7%2Fgettyimages-2288787522.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-69ad75470922",
+      "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
+      "description": "Moscow recruits an estimated 1,000 people a day but western officials say it cannot keep up with casualty levelRussia is losing about 6,000 more troops in Ukraine each month than it can recruit, western officials have said.While Russia is still acquiring new battlefield recruits at speed, with an estimated rate of 1,00…",
+      "url": "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-28T17:05:02Z",
+      "image": "https://i.guim.co.uk/img/media/52fa0198715e1df5b2ae80a8610f907294d1ccc8/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=5c438e3cd21166a27ac94c5258697a1d",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-63231a848b1a",
+      "title": "Ue, 'Mladić? Nessuno spazio per glorificare i criminali di guerra nei Paesi candidati'",
+      "description": "Portavoce Commissione: \"Spetta a Belgrado chiarire il proprio ruolo ai suoi funerali\"",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/28/ue-mladic-nessuno-spazio-per-glorificare-i-criminali-di-guerra-nei-paesi-candidati_22b838b7-ed4b-4604-90e9-16e703804daa.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-28T15:04:31Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/27/766eca9a843c53e02ba9dd4615014163.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-02f486cbd16e",
+      "title": "Dutch court sentences man to life over Rwanda genocide",
+      "description": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-28T12:15:46Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8e/live/a9bd6280-a2d9-11f1-941c-8741c1a72471.jpg",
       "categories": [
         "conflict"
       ],
@@ -80,21 +140,6 @@
       "tags": []
     },
     {
-      "id": "ans-fd622ae174c2",
-      "title": "Ucraina, Mosca minaccia Londra per le armi a Kiev: 'Potremmo colpire le vostre basi'",
-      "description": "Trump: 'Ho parlato con Putin, non attaccherà la Nato'. L'Ue: 'nessun rischio immediato'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/27/ucraina-mosca-minaccia-londra-per-le-armi-a-kiev-potremmo-colpire-le-vostre_60562633-4984-4077-903b-5034d1017e4d.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-27T19:24:23Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/27/30b6b2ed36512921ecf19fa6c5d7f05d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -9e5fd1513858",
       "title": "In Sudan’s civil war, both sides target journalists",
       "description": "Local journalists reporting on Sudan’s civil war and humanitarian crisis there are facing a campaign of intimidation by rival military forces.",
@@ -124,52 +169,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-5f4dc8a70f4b",
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, dies in The Hague",
-      "description": "Bosnian Serb commander responsible for Srebrenica massacre dies in prison while serving life sentence for genocideFrom the archive: Fourteen years a fugitive: the hunt for the Butcher of Bosnia Ratko Mladić will die in jail. But go to Bosnia: you’ll see that he wonRatko Mladić, the infamous Serbian general who was serv…",
-      "url": "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-27T16:12:15Z",
-      "image": "https://i.guim.co.uk/img/media/d5b2037d15a996ed693ae88b661678e01434e0c2/140_0_1860_1488/master/1860.jpg?width=140&quality=85&auto=format&fit=max&s=90a55fd0ec23d3fe6155797cf3c56d11",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-17195c271837",
-      "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-      "description": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
-      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-27T14:17:24Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557f/live/7e6462b0-a21f-11f1-a291-b542ee92de7c.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-fffd64900cd1",
-      "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84",
-      "description": "Ratko Mladic was one of the most notorious figures of a war that killed over 100,000 people in the 1990s. He commanded his troops to \"scorch the brains\" of the Bosnian Muslims and boasted of being a \"Serbian God.\"",
-      "url": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead",
-      "source": "NPR World",
-      "publishedAt": "2026-08-27T13:32:43Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2Fcc%2F712dbd124a699394016be048ab4a%2Fap25155570690606.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

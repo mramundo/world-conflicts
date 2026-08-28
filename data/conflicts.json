@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-28T13:56:55Z",
+  "updated": "2026-08-28T23:29:52Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-08-27T13:29:48Z",
+  "wikipediaListRevision": "2026-08-28T21:26:19Z",
   "items": [
     {
       "id": "ru-ua",
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-08-27",
       "wikipediaRevision": "2026-08-27T04:26:01Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 4
     },
     {
       "id": "il-ps",
@@ -131,9 +131,9 @@
         "Post-transition"
       ],
       "wikipediaPage": "Syrian_civil_war",
-      "lastUpdate": "2026-08-24",
+      "lastUpdate": "2026-08-28",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-08-24T09:42:46Z",
+      "wikipediaRevision": "2026-08-28T14:45:26Z",
       "recentNewsCount": 0
     },
     {
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-08-26",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-08-26T08:28:07Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "sahel",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "et-am",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     }
   ]
 }

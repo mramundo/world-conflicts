@@ -1,21 +1,82 @@
 {
-  "updated": "2026-08-28T23:29:40Z",
+  "updated": "2026-08-29T06:09:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -753d931a3913",
-      "title": "Israeli strike kills three Palestinians in Jenin",
-      "description": "An Israeli drone strike killed three Palestinians in Jenin, the first such attack in the West Bank since February 2025.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-28T22:11:36Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-28T143909Z_705473507_RC2Q7NASE404_RTRMADP_3_ISRAEL-PALESTINIANS-JENIN-AIRSTRIKE-1787955033.jpg?resize=1920%2C1440",
+      "id": "the-6bef075ffb71",
+      "title": "‘The butcher may be gone, but to many he is a hero’: victims condemn glorification of Mladić",
+      "description": "Architect of Srebrenica genocide is dead but those scarred by his atrocities say his ideology is still shockingly pervasiveTo most of the world, he was and will always be the “Butcher of Bosnia”, a grim epithet but one that still fails to fully convey the evil and horror inflicted on its people by Gen Ratko Mladić, who…",
+      "url": "https://www.theguardian.com/world/2026/aug/29/bosnia-reaction-death-ratko-mladic",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-29T04:00:17Z",
+      "image": "https://i.guim.co.uk/img/media/d35d308be0780ab17212c05ad9aa000b20395dbb/82_0_1758_1406/master/1758.jpg?width=140&quality=85&auto=format&fit=max&s=0bcba1569f09a62f6c951bde22e6f545",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -acb520b7dba2",
+      "title": "In Turkey, public funeral ceremonies honor fallen PKK fighters",
+      "description": "Since August 21, the Kurdistan Workers' Party (PKK) – currently engaged in negotiations with the Turkish state – has published a list of around 100 fighters killed in recent years. Public funeral ceremonies have been held throughout major cities, especially in the southeast.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/29/in-turkey-public-funeral-ceremonies-honor-fallen-pkk-fighters_6756956_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-29T02:30:16Z",
+      "image": "https://img.lemde.fr/2026/08/27/500/0/6000/3000/644/322/60/0/9b06c2e_upload-1-6uuuwerudzzl-0o5a0894.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -63aa7a8ff740",
+      "title": "Tuareg rebels free more Malian soldiers in prisoner swap, sources say",
+      "description": "Tuareg rebels have freed about 60 Malian soldiers in exchange for one of their own leaders, security sources said.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-29T01:50:03Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-04-27T121509Z_1695817415_RC2MXKAWT8W6_RTRMADP_3_MALI-SECURITY-1787963389.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-ac57fa72d762",
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "description": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-08-29T01:14:13Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0877/live/0f940730-a20d-11f1-9090-b51af3a01fc2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-4db1d85fbc27",
+      "title": "DRC President Tshisekedi calls for national dialogue excluding M23 rebels",
+      "description": "In the Democratic Republic of Congo, President Félix Tshisekedi calls for a national dialogue to ease tensions, while excluding M23 rebels from taking part, as the government plans to suspend 11 public universities in rebel-controlled areas. Meanwhile, in Ghana, 23 people, including 11 children, have died after falling…",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260828-drc-president-tshisekedi-calls-for-national-dialogue-excluding-m23-rebels",
+      "source": "France24",
+      "publishedAt": "2026-08-28T20:36:41Z",
+      "image": "https://s.france24.com/media/display/57c93cba-a31f-11f1-88eb-005056a90284/w:1024/p:16x9/capture-16681304016a91eff34f8497-63123742.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,21 +96,6 @@
       "tags": []
     },
     {
-      "id": "the-69ad75470922",
-      "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
-      "description": "Moscow recruits an estimated 1,000 people a day but western officials say it cannot keep up with casualty levelRussia is losing about 6,000 more troops in Ukraine each month than it can recruit, western officials have said.While Russia is still acquiring new battlefield recruits at speed, with an estimated rate of 1,00…",
-      "url": "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-28T17:05:02Z",
-      "image": "https://i.guim.co.uk/img/media/52fa0198715e1df5b2ae80a8610f907294d1ccc8/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=5c438e3cd21166a27ac94c5258697a1d",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-63231a848b1a",
       "title": "Ue, 'Mladić? Nessuno spazio per glorificare i criminali di guerra nei Paesi candidati'",
       "description": "Portavoce Commissione: \"Spetta a Belgrado chiarire il proprio ruolo ai suoi funerali\"",
@@ -65,36 +111,6 @@
       "tags": []
     },
     {
-      "id": "bbc-02f486cbd16e",
-      "title": "Dutch court sentences man to life over Rwanda genocide",
-      "description": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-08-28T12:15:46Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8e/live/a9bd6280-a2d9-11f1-941c-8741c1a72471.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-bad8e5cefb1a",
-      "title": "Serbian war criminal Mladic to be buried with 'state honours'",
-      "description": "Convicted genocidaire Ratko Mladić has died at the age of 84 in a UN prison in The Hague, where he was serving a life sentence. He was found guilty of leading the siege of Sarajevo and orchestrating the 1995 Srebrenica massacre, in which more than 8,000 Bosniak men and boys were murdered. His planned burial with nation…",
-      "url": "https://www.france24.com/en/serbian-war-criminal-mladic-to-be-buried-with-state-honours",
-      "source": "France24",
-      "publishedAt": "2026-08-28T11:40:26Z",
-      "image": "https://s.france24.com/media/display/0f3cb8f8-a2cc-11f1-b591-005056bf30b7/w:1024/p:16x9/EN-20260828-121120-121329-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-0f334625e3f8",
       "title": "Kremlin Says Ukraine Peace Talks on ‘Deep Pause’",
       "description": "The New York Times reported that CIA Director John Ratcliffe visited Moscow this week to push the Kremlin towards a peace deal.",
@@ -106,21 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -11d4a9990d6b",
-      "title": "Former war commander Ratko Mladic to receive full state honors in Serbia",
-      "description": "The former military leader, colloquially known as the 'Butcher of Bosnia', died Thursday in The Hague, where he was serving a life sentence for genocide, war crimes and crimes against humanity.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/28/former-war-commander-ratko-mladic-to-receive-full-state-honors-in-serbia_6756934_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-28T10:09:09Z",
-      "image": "https://img.lemde.fr/2026/08/27/500/0/6000/3000/644/322/60/0/b916f73_ftp-1-p06eja74rxeu-2026-08-27t200042z-385273531-rc277naj18x8-rtrmadp-3-people-ratko-mladic.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,9 +1,24 @@
 {
-  "updated": "2026-08-29T20:35:18Z",
+  "updated": "2026-08-29T23:02:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "le -42c5ea1ddf51",
+      "title": "Netanyahu condemns settler attack in flashpoint West Bank village",
+      "description": "The Israeli military said soldiers and border police were dispatched 'following reports that Israeli rioters had arrived in the area and that violent clashes had occurred, including stone-hurling toward Palestinians and additional civilians.' President Isaac Herzog also condemned the attack, while Israel's foreign mini…",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/29/netanyahu-condemns-settler-attack-in-flashpoint-west-bank-village_6756974_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-29T20:53:15Z",
+      "image": "https://img.lemde.fr/2026/08/29/188/0/6760/3380/644/322/60/0/6304854_ftp-1-rf5ktnik6q5d-5946871-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "ans-7ed1bac3b8fc",
       "title": "Niger, il regime riconquista base militare dai ribelli con l'aiuto della Russia",
@@ -51,21 +66,6 @@
       "tags": []
     },
     {
-      "id": "le -dbc2a7317799",
-      "title": "Niger junta led by General Tiani faces attempted coup",
-      "description": "Gunfire has been heard since last night around the presidential palace in Niamey and an air base located within the grounds of the capital's airport.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/08/29/niger-junta-led-by-general-tiani-faces-attempted-coup_6756970_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-29T17:06:08Z",
-      "image": "https://img.lemde.fr/2026/08/29/193/0/5568/2784/644/322/60/0/07d4419_upload-1-9p4uui5ru1su-000-36669nt.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-f603a65c52a6",
       "title": "Michigan Senate candidate Mike Rogers says he saw Bin Laden’s body with his ‘own eyes’. He did not",
       "description": "Ex-House intel committee chair, now running against Abdul El-Sayed, instead saw photo of Osama bin Laden’s bodyIn a recent fundraising email, the Republican candidate for Michigan’s open US Senate seat, former congressman Mike Rogers, appeared to mislead supporters about his past by suggesting that he had played an act…",
@@ -77,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-abd82d3874fa",
-      "title": "Niger's junta says 'regaining control' after clashes in capital",
-      "description": "Niger's ​defense ​ministry said the armed forces were ​progressively ‌retaking ⁠control ‌of sites targeted in ⁠an overnight attack on ​the ‌capital Niamey, according to a ‌statement read ​on state television, which resumed broadcasting ​on ​Saturday after ​temporarily going ​offline.",
-      "url": "https://www.france24.com/en/niger-s-junta-says-regaining-control-after-clashes-in-capital",
-      "source": "France24",
-      "publishedAt": "2026-08-29T12:33:03Z",
-      "image": "https://s.france24.com/media/display/f4cff7f8-a3a4-11f1-a6e7-005056bfb2b6/w:1024/p:16x9/EN-20260829-140055-140232-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -123,6 +108,22 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-21035ec01f7e",
+      "title": "Niger junta says it is back in control after soldiers' mutiny rocks capital",
+      "description": "Niger's junta said Saturday it was back in control after mutineers held soldiers hostage at a military base next to the capital's airport. Russian forces reportedly helped members of Niger's presidential guard recapture the air base, killing some of the mutineers, according to diplomatic and security sources.",
+      "url": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
+      "source": "France24",
+      "publishedAt": "2026-08-29T06:33:07Z",
+      "image": "https://s.france24.com/media/display/51c3eb72-6ae8-11f1-ac04-005056a97e36/w:1024/p:16x9/000-94JQ3CU.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

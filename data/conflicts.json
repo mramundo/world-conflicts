@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-29T13:00:50Z",
+  "updated": "2026-08-29T17:32:48Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-08-28T21:26:19Z",
+  "wikipediaListRevision": "2026-08-29T15:52:01Z",
   "items": [
     {
       "id": "ru-ua",
@@ -181,7 +181,7 @@
       ],
       "wikipediaPage": "Jihadist_insurgency_in_the_Sahel",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "so-als",
@@ -227,7 +227,7 @@
       "wikipediaPage": "Boko_Haram_insurgency",
       "lastUpdate": "2026-08-27",
       "wikipediaRevision": "2026-08-27T12:26:58Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "mx-cartels",
@@ -290,9 +290,9 @@
         "Terrorism"
       ],
       "wikipediaPage": "Republican_insurgency_in_Afghanistan",
-      "lastUpdate": "2026-08-27",
+      "lastUpdate": "2026-08-29",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-08-27T09:42:34Z",
+      "wikipediaRevision": "2026-08-29T16:25:50Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "et-am",

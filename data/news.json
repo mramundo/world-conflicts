@@ -1,9 +1,24 @@
 {
-  "updated": "2026-08-29T23:02:56Z",
+  "updated": "2026-08-30T04:17:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -c6ed760fd94d",
+      "title": "Ukrainian nuclear power plant without external power for over a week",
+      "description": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-29T23:25:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a935868db-1788041320.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "le -42c5ea1ddf51",
       "title": "Netanyahu condemns settler attack in flashpoint West Bank village",
@@ -47,21 +62,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -09d64fe9a43e",
-      "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
-      "description": "Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-29T17:41:57Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-27T095622Z_1318981240_RC2X6NANNQAY_RTRMADP_3_BULGARIA-NATO-BLACK-SEA-1788024186_5d0d27-1788024278.jpg?resize=1200%2C630&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

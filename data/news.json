@@ -1,36 +1,98 @@
 {
-  "updated": "2026-08-30T04:17:29Z",
+  "updated": "2026-08-30T10:19:28Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -c6ed760fd94d",
-      "title": "Ukrainian nuclear power plant without external power for over a week",
-      "description": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
-      "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-29T23:25:07Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a935868db-1788041320.jpg?resize=1920%2C1440",
+      "id": "nik-08b2065f7a4a",
+      "title": "Learning about war via Minecraft: Bringing the Great Tokyo Air Raid to life",
+      "description": "",
+      "url": "https://asia.nikkei.com/spotlight/society/learning-about-war-via-minecraft-bringing-the-great-tokyo-air-raid-to-life",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-08-30T10:19:25Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F6%2F9%2F13009656-1-eng-GB%2Fdcb5f791d462-photo_SXM2026080400005627.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "le -42c5ea1ddf51",
-      "title": "Netanyahu condemns settler attack in flashpoint West Bank village",
-      "description": "The Israeli military said soldiers and border police were dispatched 'following reports that Israeli rioters had arrived in the area and that violent clashes had occurred, including stone-hurling toward Palestinians and additional civilians.' President Isaac Herzog also condemned the attack, while Israel's foreign mini…",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/29/netanyahu-condemns-settler-attack-in-flashpoint-west-bank-village_6756974_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-29T20:53:15Z",
-      "image": "https://img.lemde.fr/2026/08/29/188/0/6760/3380/644/322/60/0/6304854_ftp-1-rf5ktnik6q5d-5946871-01-06.jpg",
+      "id": "deu-9d7898d19233",
+      "title": "Greece, Turkey clash over protected Aegean marine areas",
+      "description": "Turkey has announced the creation of two protected zones in a disputed area of the Aegean Sea, sparking an angry reaction from Greece. Does this mark a new chapter in a long-running dispute between the two countries?",
+      "url": "https://www.dw.com/en/greece-turkey-clash-over-protected-aegean-marine-areas/a-78550021?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-30T09:07:00Z",
+      "image": "https://static.dw.com/image/77207622_6.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-cfeda6bfccc1",
+      "title": "Niger: Junta says back in control after mutiny",
+      "description": "Gunfire and explosions have been reported in Niger, as mutinying soldiers attempted to storm the presidential palace in the capital, Niamey, in a challenge to the ruling junta. The government said it had regained control after hours of fighting on Saturday. Léo Paichard and Nick Rushworth report.",
+      "url": "https://www.france24.com/en/niger-junta-says-back-in-control-after-mutiny",
+      "source": "France24",
+      "publishedAt": "2026-08-30T08:41:57Z",
+      "image": "https://s.france24.com/media/display/6de5a756-a44e-11f1-bda9-005056a97e36/w:1024/p:16x9/Niger-Junta.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -6f9ca7e306b4",
+      "title": "The toxic waste of the Gaza war has reached Israel",
+      "description": "The Israeli government cannot insulate its citizens from the impact of the ecocide it wrought on the strip.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/30/the-toxic-waste-of-the-gaza-war-has-reached-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-30T07:41:08Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP24187535294313-1788073524.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -e0a636b5cbae",
+      "title": "Niger junta says it is back in control after attempted coup",
+      "description": "Niamey airport and the presidential palace were targeted on Saturday, as well as the national television station, which went off the air for just over an hour.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/30/niger-junta-says-it-is-back-in-control-after-attempted-coup_6756980_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-30T07:35:53Z",
+      "image": "https://img.lemde.fr/2026/08/29/491/0/5887/2943/644/322/60/0/c731fbf_ftp-1-a2xxvtqzj0ft-2026-08-29t195721z-1747522112-rc2i8nazurnp-rtrmadp-3-niger-security.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-3ac63c4298f1",
+      "title": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
+      "description": "Conditions are deteriorating in city of El Obeid and camps on its outskirts, with more people arriving every dayHumanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese A…",
+      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-30T06:00:48Z",
+      "image": "https://i.guim.co.uk/img/media/d8bca429d9ad2a591d7f9ac06371092198b118b5/635_0_3165_2533/master/3165.jpg?width=140&quality=85&auto=format&fit=max&s=58f9f0d7208bbda79fbdbacd5af00b50",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -60,21 +122,6 @@
       "categories": [
         "conflict",
         "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-f603a65c52a6",
-      "title": "Michigan Senate candidate Mike Rogers says he saw Bin Laden’s body with his ‘own eyes’. He did not",
-      "description": "Ex-House intel committee chair, now running against Abdul El-Sayed, instead saw photo of Osama bin Laden’s bodyIn a recent fundraising email, the Republican candidate for Michigan’s open US Senate seat, former congressman Mike Rogers, appeared to mislead supporters about his past by suggesting that he had played an act…",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-29T15:07:53Z",
-      "image": "https://i.guim.co.uk/img/media/820880042624f8349ea88d9cac61d09d5cca683b/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6ba4e0ea03ceb33245bf794b5dfcdb26",
-      "categories": [
-        "conflict"
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
@@ -112,22 +159,6 @@
       "tags": []
     },
     {
-      "id": "fra-21035ec01f7e",
-      "title": "Niger junta says it is back in control after soldiers' mutiny rocks capital",
-      "description": "Niger's junta said Saturday it was back in control after mutineers held soldiers hostage at a military base next to the capital's airport. Russian forces reportedly helped members of Niger's presidential guard recapture the air base, killing some of the mutineers, according to diplomatic and security sources.",
-      "url": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
-      "source": "France24",
-      "publishedAt": "2026-08-29T06:33:07Z",
-      "image": "https://s.france24.com/media/display/51c3eb72-6ae8-11f1-ac04-005056a97e36/w:1024/p:16x9/000-94JQ3CU.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -2f7d0edb5283",
       "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
       "description": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadly week in war-ravaged Gaza, the UN emergency relief agency, OCHA, said on Friday.",
@@ -155,21 +186,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-9824be7e5a9d",
-      "title": "Ratko Mladic, the man behind Srebrenica massacre, dies at 84",
-      "description": "For many, Ratko Mladic represented the horrors of the Bosnian war. He was convicted of genocide for the Srebrenica massacre and other war crimes. On Thursday, he died in detention at The Hague.",
-      "url": "https://www.dw.com/en/ratko-mladic-the-man-behind-srebrenica-massacre-dies-at-84/a-78536491?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-27T19:28:00Z",
-      "image": "https://static.dw.com/image/78543935_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

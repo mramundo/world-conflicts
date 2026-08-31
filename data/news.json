@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-31T08:16:02Z",
+  "updated": "2026-08-31T16:48:57Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/learning-about-war-via-minecraft-bringing-the-great-tokyo-air-raid-to-life",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-31T08:15:59Z",
+      "publishedAt": "2026-08-31T16:48:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F6%2F9%2F13009656-1-eng-GB%2Fdcb5f791d462-photo_SXM2026080400005627.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,77 +20,111 @@
       "tags": []
     },
     {
-      "id": "al -208b0bbdff59",
-      "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
-      "description": "CENTCOM says US forces bombed two IRGC rocket launchers on Larak Island which presented an &#039;imminent threat&#039;.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-31T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26210557431384-1788156224.jpg?resize=1920%2C1440",
+      "id": "fra-d9d043508f74",
+      "title": "Latest flare-up between US and Iran bring conflict's lull to an end",
+      "description": "Iran's foreign minister has accused Israel's Benjamin Netanyahu of tricking the United States into war with the Islamic Republic. Over six months into the conflict, there appears to be no end in sight. This after the US struck sites in Iran, prompting Tehran to respond. An April ceasefire brought an end to intense figh…",
+      "url": "https://www.france24.com/en/latest-flare-up-between-us-and-iran-bring-conflict-s-lull-to-an-end",
+      "source": "France24",
+      "publishedAt": "2026-08-31T15:33:57Z",
+      "image": "https://s.france24.com/media/display/af51be10-a542-11f1-b684-005056bfb2b6/w:1024/p:16x9/2026-08-31T081353Z-1164684493-RC2I9NA5KP2J-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
       "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -cfbafea69b85",
-      "title": "Far-right Israeli minister boasts of worse prison conditions",
-      "description": "Itamar Ben Gvir responds approvingly as he compares the treatment to that of hostages held for up to two years by Hamas and other militants in Gaza following the October 7, 2023, attacks.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/08/30/far-right-israeli-minister-boasts-of-worse-prison-conditions_6756994_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-30T20:18:11Z",
-      "image": "https://img.lemde.fr/2026/05/20/1032/0/7016/3508/644/322/60/0/885ad40_ftp-1-eftxe2uhef7l-05db8b5e362743289250492e76525353-0-6d4b396afce74935a7695dcf2f588d4a.jpg",
-      "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "bbc-922bf447ed03",
-      "title": "Russia says it helped to repel Niger attempted coup",
-      "description": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "id": "al -a91f51d40dea",
+      "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
+      "description": "Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye&#039;s growing capabilities.",
+      "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-31T14:57:56Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2024-09-25T041945Z_745137952_RC2G7AAYQZBF_RTRMADP_3_ISRAEL-PALESTINIANS-TEL-AVIV-1788181715.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -45a2b6d36eb4",
+      "title": "South Africa accuses Israel of failing to comply with ICJ orders in Gaza",
+      "description": "Two years after bringing its case to judges in The Hague under the Convention on the Prevention and Punishment of the Crime of Genocide, South Africa filed a new report on August 25.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/08/31/south-africa-accuses-israel-of-failing-to-comply-with-icj-orders-in-gaza_6757017_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-08-31T14:37:51Z",
+      "image": "https://img.lemde.fr/2026/08/29/821/0/8369/4184/644/322/60/0/dccfddb_ftp-1-nsbbsdhx680k-8d40b8301d2b44c5a9d3ca4b4c8d37d1-0-3468c7a75093415fbd09cb2d71ed9af2.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-58aba04e82bd",
+      "title": "Bessent, 'economia iraniana non deve collassare, deve solo rinsavire'",
+      "description": "'Grazie all'Europa per il forte sostegno alle sanzioni all'Iran'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/31/bessent-economia-iraniana-non-deve-collassare-deve-solo-rinsavire_08d6e02f-7076-4b69-8dc0-78afcdc9e464.html",
+      "source": "ANSA",
+      "publishedAt": "2026-08-31T14:21:07Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/31/d568af4c0a191be25a3dcd17ef8e8ebb.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-1f27c6a2b8cf",
+      "title": "Niger's failed coup exposes cracks in the military — and Russia's influence",
+      "description": "The failed coup in Niger has brought deep divisions within the military to light. As Russia's support highlights the junta's fading influence, soldiers continue to face jihadi attacks, poor equipment and little pay.",
+      "url": "https://www.dw.com/en/niger-s-failed-coup-exposes-cracks-in-the-military-and-russia-s-influence/a-78572278?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-08-31T11:32:00Z",
+      "image": "https://static.dw.com/image/78571767_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-556c91f34645",
+      "title": "How the US-Canada trade war is being felt on both sides of the border",
+      "description": "The US-Canada trade war is being felt on both sides of the border.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-08-30T16:33:17Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ace6/live/c0f2a130-a488-11f1-8395-fb1eae51ae18.jpg",
+      "publishedAt": "2026-08-31T00:05:22Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-21ef30585238",
+      "title": "2 Killed in Ukrainian Attack on Belgorod, Authorities Say",
+      "description": "The online retailer Ozon said one of its warehouses was struck and that some of its employees were injured.",
+      "url": "https://www.themoscowtimes.com/2026/08/30/2-killed-in-ukrainian-attack-on-belgorod-authorities-say-a93603",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-08-30T18:03:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/6a/93603__6a3dbf5b23c04ea98cb7cd747789684e.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-5cf853bd9d29",
-      "title": "Niger junta puts down mutiny with help from Russia's Africa Corps",
-      "description": "Life returned to normal in Niger's capital on Sunday, a day after mutineers stormed both the presidential palace and a military base at Niamey's main airport, resisting forces loyal to the ruling junta until Russia’s Africa Corps intervened. State TV reported that dozens of soldiers were killed or arrested, with some p…",
-      "url": "https://www.france24.com/en/africa/20260830-niger-junta-aided-by-russian-paramilitary-forces-regains-control-after-mutiny",
-      "source": "France24",
-      "publishedAt": "2026-08-30T15:20:01Z",
-      "image": "https://s.france24.com/media/display/907628b0-93b2-11f1-80c8-005056bf30b7/w:1024/p:16x9/AP26169614751820-1.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-2ad1b2eca962",
-      "title": "Mons. Gallagher, per risolvere guerra in Ucraina non isolare Mosca",
-      "description": "'Andando in Russia invitiamo a riflettere se strategie attuate finora portino risultati'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/30/mons.-gallagher-per-risolvere-guerra-in-ucraina-non-isolare-mosca_6e73db3f-fbb7-40f8-bb64-6921d162fdc4.html",
-      "source": "ANSA",
-      "publishedAt": "2026-08-30T13:11:00Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/5c2c510923ff94f67cd9de0686a69cf4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -110,18 +144,19 @@
       "tags": []
     },
     {
-      "id": "deu-b7f7a6da979c",
-      "title": "Israeli settlers attack Palestinian homes in West Bank",
-      "description": "Masked Israeli settlers launched their first major attack since initiating a siege in the village of Qusra earlier this month. Saturday's attacks were met with rare criticism from Prime Minister Benjamin Netanyahu.",
-      "url": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-29T19:56:00Z",
-      "image": "https://static.dw.com/image/78560079_6.jpg",
+      "id": "rfe-44cc4fe0c718",
+      "title": "Ukraine's Drone War Exposes An Uncomfortable Reliance On China",
+      "description": "Ukraine's drone industry has boomed since Russia's invasion, but it still relies on critical Chinese components. A waiver of EU procurement rules underscores Kyiv's uncomfortable wartime dependence on Beijing.",
+      "url": "https://www.rferl.org/a/ukraine-drones-china-chinese-components/33835808.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-30T04:28:49Z",
+      "image": "https://gdb.rferl.org/c1412571-61f3-4bd8-8082-08decad17715_cx0_cy7_cw0_w800_h450.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -137,53 +172,6 @@
         "humanitarian"
       ],
       "relevanceScore": 14,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-7b5672f6b88b",
-      "title": "'Only The Truth Matters': Families Of Srebrenica, Sarajevo Victims React To Mladic's Death",
-      "description": "Families who lost loved ones in the 1995 Srebrenica massacre and in the siege of Sarajevo say the death of former Bosnian Serb military commander Ratko Mladic on August 27 does little to ease decades of grief. But one man says what matters most is that Mladic was held accountable for his crimes, which included genocide…",
-      "url": "https://www.rferl.org/a/butcher-of-bosnia-ratko-mladic-death-reaction/33842528.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-28T12:56:20Z",
-      "image": "https://gdb.rferl.org/978031c3-766b-4b85-874d-08decad17715_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -2f7d0edb5283",
-      "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
-      "description": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadly week in war-ravaged Gaza, the UN emergency relief agency, OCHA, said on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168229",
-      "source": "UN News",
-      "publishedAt": "2026-08-28T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/13-07-2026_UNNews_Gaza_Daily_Life_05.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-0f334625e3f8",
-      "title": "Kremlin Says Ukraine Peace Talks on ‘Deep Pause’",
-      "description": "The New York Times reported that CIA Director John Ratcliffe visited Moscow this week to push the Kremlin towards a peace deal.",
-      "url": "https://www.themoscowtimes.com/2026/08/28/kremlin-says-ukraine-peace-talks-on-deep-pause-a93597",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-28T10:58:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/c9/93597__c9d0a33c4d29275740355c11311e789b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

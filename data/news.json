@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-31T16:48:57Z",
+  "updated": "2026-08-31T21:46:08Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/learning-about-war-via-minecraft-bringing-the-great-tokyo-air-raid-to-life",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-08-31T16:48:53Z",
+      "publishedAt": "2026-08-31T21:46:04Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F6%2F9%2F13009656-1-eng-GB%2Fdcb5f791d462-photo_SXM2026080400005627.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ef57f0f36ea7",
+      "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
+      "description": "Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-31T19:51:46Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-20.47.59-1788205835.png?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -61157035edc8",
+      "title": "In Russia-occupied Crimea, Ukrainian attacks land differently for divided residents",
+      "description": "Crimea has been targeted this summer by a Ukrainian drone and missile offensive meant to isolate the Russian-occupied peninsula. While all sides are feeling the economic impact and loss of tourism, some are heartened and others resentful.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0831/ukraine-crimea-russia-war-drone-offensive?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-08-31T18:59:00Z",
+      "image": "https://images.csmonitor.com/csm/2026/08/0831_OCRIMEA_lede_power_outage.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,22 +63,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -a91f51d40dea",
-      "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
-      "description": "Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye&#039;s growing capabilities.",
-      "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-08-31T14:57:56Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2024-09-25T041945Z_745137952_RC2G7AAYQZBF_RTRMADP_3_ISRAEL-PALESTINIANS-TEL-AVIV-1788181715.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

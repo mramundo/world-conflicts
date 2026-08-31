@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T16:49:05Z",
+  "updated": "2026-08-31T21:46:17Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-08-30T00:58:23Z",
   "items": [
@@ -22,9 +22,9 @@
         "Interstate conflict"
       ],
       "wikipediaPage": "Russo-Ukrainian_War",
-      "lastUpdate": "2026-08-27",
-      "wikipediaRevision": "2026-08-27T04:26:01Z",
-      "recentNewsCount": 3
+      "lastUpdate": "2026-08-31",
+      "wikipediaRevision": "2026-08-31T21:26:25Z",
+      "recentNewsCount": 4
     },
     {
       "id": "il-ps",
@@ -46,8 +46,8 @@
       ],
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-08-31",
-      "wikipediaRevision": "2026-08-31T14:05:02Z",
-      "recentNewsCount": 3
+      "wikipediaRevision": "2026-08-31T19:47:53Z",
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -131,9 +131,9 @@
         "Post-transition"
       ],
       "wikipediaPage": "Syrian_civil_war",
-      "lastUpdate": "2026-08-29",
+      "lastUpdate": "2026-08-31",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-08-29T22:51:19Z",
+      "wikipediaRevision": "2026-08-31T21:35:31Z",
       "recentNewsCount": 0
     },
     {
@@ -225,8 +225,8 @@
         "Jihadism"
       ],
       "wikipediaPage": "Boko_Haram_insurgency",
-      "lastUpdate": "2026-08-27",
-      "wikipediaRevision": "2026-08-27T12:26:58Z",
+      "lastUpdate": "2026-08-31",
+      "wikipediaRevision": "2026-08-31T17:19:31Z",
       "recentNewsCount": 1
     },
     {
@@ -247,8 +247,8 @@
         "Crime war"
       ],
       "wikipediaPage": "Mexican_drug_war",
-      "lastUpdate": "2026-08-24",
-      "wikipediaRevision": "2026-08-24T18:35:47Z",
+      "lastUpdate": "2026-08-31",
+      "wikipediaRevision": "2026-08-31T18:42:11Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 3
     },
     {
       "id": "et-am",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     }
   ]
 }

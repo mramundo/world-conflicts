@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T13:12:50Z",
+  "updated": "2026-09-01T17:40:38Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/india-s-gdp-records-surprise-growth-of-7.8-amid-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-01T13:12:46Z",
+      "publishedAt": "2026-09-01T17:40:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F3%2F4%2F13034383-2-eng-GB%2F5ad6c8773cb5-20251114-2S1A2595Photo-by-Ken-Kobayashi-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,93 @@
       "tags": []
     },
     {
-      "id": "ans-ca4f499e17b4",
-      "title": "Idf, 'colpiti diversi obiettivi a Gaza per eliminare minacce'",
-      "description": "Media locali, operazione di terra anche con milizie anti-Hamas, almeno un morto",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/01/idf-colpiti-diversi-obiettivi-a-gaza-per-eliminare-minacce_95938ea4-aa91-4b09-ae3b-79975d4061ee.html",
+      "id": "al -1b55b21fb080",
+      "title": "US launches new strikes against Iran as war escalates",
+      "description": "US says it is attacking IRGC targets following &#039;attempted attacks&#039; on ships in Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-01T16:45:56Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260808__C48X6WE__v1__HighRes__IranUsIsraelWar-1787251656.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-1075efbab649",
+      "title": "Kallas, 'ondata di attacchi cinetici dalla Russia, vuole spaventarci'",
+      "description": "'Ma continua il sostegno all'Ucraina, discutiamo il pacchetto più sostanzioso di sanzioni'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/01/kallas-ondata-di-attacchi-cinetici-dalla-russia-vuole-spaventarci_cd95906e-d1cb-4ae9-bd9c-15a5737943a5.html",
       "source": "ANSA",
-      "publishedAt": "2026-09-01T12:51:10Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2025/10/4/c7bc032f296e6d0d5eaa223440acc040.jpg",
+      "publishedAt": "2026-09-01T16:06:46Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/d8d7fb282f881aab2df55d8e4b74c2a0.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -41435c971293",
+      "title": "Explosion near a power plant in Germany: Attack on power grid under investigation",
+      "description": "The Berlin region faces a surge in attacks targeting its electrical infrastructure, amid ongoing political tensions and persistent threats.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/01/explosion-near-a-power-plant-in-germany-attack-on-power-grid-under-investigation_6757053_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-01T15:29:13Z",
+      "image": "https://img.lemde.fr/2026/09/01/732/0/5412/2706/644/322/60/0/cb4cc4d_ftp-1-gojr3nzi25rc-5969179-01-06.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-bf9ba35a6768",
+      "title": "War and sanctions deepen Iran's fuel crisis",
+      "description": "Long lines at fuel stations are spreading across Iran as war damage, import constraints and new US sanctions squeeze supplies.",
+      "url": "https://www.dw.com/en/war-and-sanctions-deepen-iran-s-fuel-crisis/a-78636429?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-01T14:29:00Z",
+      "image": "https://static.dw.com/image/78347832_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-14eeaa446842",
+      "title": "Why the Middle East Oil Shock Failed to Save Russia’s Budget",
+      "description": "Six months into the U.S.-Iran war, Russia’s oil windfall looks surprisingly meager despite initial predictions of a revenue boom.",
+      "url": "https://www.themoscowtimes.com/2026/09/01/why-the-middle-east-oil-shock-failed-to-save-russias-budget-a93552",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-01T14:03:08Z",
+      "image": "https://static.themoscowtimes.com/image/og/82/93552__82cf46948ca0f531a256e38473c9282f.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-1ac91ab5fdf0",
+      "title": "DR Congo's opposition rejects president's dialogue offer and calls for demonstration",
+      "description": "In DR Congo, managing the spread of Ebola is made all the more difficult as the country is juggling simultaneous security crises including untangling a peace deal with M23 rebels. President Felix Tshisekedi offered to convene a national dialogue which opposition parties call a smoke screen hiding an attempted power gra…",
+      "url": "https://www.france24.com/en/video/20260901-dr-congo-s-opposition-rejects-president-s-dialogue-offer-and-calls-for-demonstration",
+      "source": "France24",
+      "publishedAt": "2026-09-01T13:40:25Z",
+      "image": "https://s.france24.com/media/display/2f3eb084-a60a-11f1-87d6-005056a90284/w:1024/p:16x9/AP26163611421863.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,52 +123,6 @@
         "analysis"
       ],
       "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-3fb9a60490b6",
-      "title": "Russia fired over 2,800 drones at Ukraine in August amid war tactic change",
-      "description": "Over the course of the month of August, Russia launched more than 2,800 jet-propelled drones at Ukraine, a type of drone that is harder to shoot down. That has come with a massive uptick in the number of drones used, considerind those now found on the frontline are quite a new model: Ukrainian authorities say they are …",
-      "url": "https://www.france24.com/en/russia-fired-over-2-800-drones-at-ukraine-in-august-amid-war-tactic-change",
-      "source": "France24",
-      "publishedAt": "2026-09-01T09:49:22Z",
-      "image": "https://s.france24.com/media/display/66b0ba4c-a5e9-11f1-801f-005056a97e36/w:1024/p:16x9/2026-08-28T074311Z-523755993-RC2I7NA0XC1F-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -4711ebc22194",
-      "title": "Israeli attacks on Gaza kill at least four, including children",
-      "description": "At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T09:48:07Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-31T123126Z_30926163_RC2O9NAYONHQ_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1788252205.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -d156a91b7370",
-      "title": "'It is just as wrong to make social media the sole cause of adolescent distress as it is to deny its power to amplify it'",
-      "description": "Our responsibility as adults is neither to abandon teenagers in digital spaces nor to keep them away from them, as young people's mental health deserves better than a clash between technophiles and technophobes, writes child psychiatrist Pierre Fourneret in an op-ed for Le Monde.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/09/01/it-is-just-as-wrong-to-make-social-media-the-sole-cause-of-adolescent-distress-as-it-is-to-deny-its-power-to-amplify-it_6757030_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-08-31T23:36:42Z",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/9a0326b_upload-1-mq3ugbir2dqk-frame-1045.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },
@@ -128,33 +158,19 @@
       "tags": []
     },
     {
-      "id": "deu-1f27c6a2b8cf",
-      "title": "Niger's failed coup exposes cracks in the military — and Russia's influence",
-      "description": "The failed coup in Niger has brought deep divisions within the military to light. As Russia's support highlights the junta's fading influence, soldiers continue to face jihadi attacks, poor equipment and little pay.",
-      "url": "https://www.dw.com/en/niger-s-failed-coup-exposes-cracks-in-the-military-and-russia-s-influence/a-78572278?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-08-31T11:32:00Z",
-      "image": "https://static.dw.com/image/78571767_6.jpg",
+      "id": "rfe-86ed2a43b184",
+      "title": "Ukrainian Officials Blamed For 'Negligence' After Deadly Strikes",
+      "description": "With at least 38 people killed in Russian air attacks on the Kyiv region on August 28-29, Ukrainian President Volodymyr Zelenskyy said \"terrible negligence\" was a factor in the high death toll. Ukrainian authorities have pledged to investigate why a weapons storage depot was located close to a populated area. Secondary…",
+      "url": "https://www.rferl.org/a/ukraine-russia-kyiv-bucha-drone-strikes-negligence-zelenskyy-weapons/33843559.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-08-30T17:59:34Z",
+      "image": "https://gdb.rferl.org/81cf063e-54cd-46b5-8798-08decad17715_tv_w800_h450.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-21ef30585238",
-      "title": "2 Killed in Ukrainian Attack on Belgorod, Authorities Say",
-      "description": "The online retailer Ozon said one of its warehouses was struck and that some of its employees were injured.",
-      "url": "https://www.themoscowtimes.com/2026/08/30/2-killed-in-ukrainian-attack-on-belgorod-authorities-say-a93603",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-08-30T18:03:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/6a/93603__6a3dbf5b23c04ea98cb7cd747789684e.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
+      "relevanceScore": 8,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -186,22 +202,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-44cc4fe0c718",
-      "title": "Ukraine's Drone War Exposes An Uncomfortable Reliance On China",
-      "description": "Ukraine's drone industry has boomed since Russia's invasion, but it still relies on critical Chinese components. A waiver of EU procurement rules underscores Kyiv's uncomfortable wartime dependence on Beijing.",
-      "url": "https://www.rferl.org/a/ukraine-drones-china-chinese-components/33835808.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-30T04:28:49Z",
-      "image": "https://gdb.rferl.org/c1412571-61f3-4bd8-8082-08decad17715_cx0_cy7_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     }
   ]

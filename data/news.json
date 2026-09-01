@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T20:43:18Z",
+  "updated": "2026-09-01T23:06:18Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/india-s-gdp-records-surprise-growth-of-7.8-amid-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-01T20:43:14Z",
+      "publishedAt": "2026-09-01T23:06:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F3%2F4%2F13034383-2-eng-GB%2F5ad6c8773cb5-20251114-2S1A2595Photo-by-Ken-Kobayashi-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,13 @@
       "tags": []
     },
     {
-      "id": "al -e004025c87d5",
-      "title": "Israel’s multiple wars see finance, defence ministries clash over spending",
-      "description": "Spiraling costs of Israel&#039;s conflicts deepen rift between finance and defense ministries ahead of budget decisions.",
-      "url": "https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T19:33:22Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260829__C6TD3PA__v1__HighRes__PalestinianIsraelConflictWestBankSettlers-1788082737.jpg?resize=1920%2C1440",
+      "id": "le -ce051380d437",
+      "title": "US defends Trump's Venezuela oil deal",
+      "description": "Trump met oil executives at the White House on Tuesday as he tries to tame gas prices that are spiraling because of the Iran war, with his administration hoping the Venezuela deal could help. Cheaper oil is a priority for the Trump administration ahead of crucial US midterm elections in November.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/02/us-defends-trump-s-venezuela-oil-deal_6757063_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-01T22:13:20Z",
+      "image": "https://img.lemde.fr/2026/08/31/416/0/6500/3250/644/322/60/0/dff3bd0_ftp-1-tolrg06ln9pm-2026-08-31t100048z-1750635765-rc2m9na49l9h-rtrmadp-3-usa-venezuela-oil.JPG",
       "categories": [
         "conflict"
       ],
@@ -35,17 +35,32 @@
       "tags": []
     },
     {
-      "id": "le -b3620c8fc5be",
-      "title": "Germany blames Russia for airport drone incident, hits back with sanctions",
-      "description": "Germany's Interior Minister Alexander Dobrindt, after assessing the drone technology used and other intelligence, said that 'the government concludes that Russia is responsible for the hybrid attack in Leipzig on August 4.'",
-      "url": "https://www.lemonde.fr/en/germany/article/2026/09/01/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions_6757058_146.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-01T17:08:44Z",
-      "image": "https://img.lemde.fr/2026/09/01/610/0/7327/3663/644/322/60/0/2f41a00_ftp-1-ute6u6tmomg7-86bbd17dd028488a9d4cc42e1ad00635-0-6e370156c6f04cd8bfce86d8c4c804c1.jpg",
+      "id": "cs -08f039416e0b",
+      "title": "As US steps up pressure on Iran, ordinary people say they’re paying the price",
+      "description": "Iran’s economy was in ruins even before the war, and before U.S. President Donald Trump’s latest “D-Day” sanctions. So far, ordinary Iranians are bearing the brunt and feeling apathetic, meaning surviving leaders, for now, might face a lower risk of an uprising.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0901/iranian-people-trump-economic-sanctions?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-09-01T21:19:10Z",
+      "image": "https://images.csmonitor.com/csm/2026/09/0901_OIRAN_fish_mkt.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1bdc3174c8e8",
+      "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+      "description": "Three Palestinian children were among four people killed in Israeli strikes on Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-01T20:59:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788296366.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -77,6 +92,22 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-ef436862d0bd",
+      "title": "Putin, Pezeshkian Reaffirm Moscow-Tehran Alliance Amid US-Iran War",
+      "description": "Iranian President Masud Pezeshkian thanked Russian President Vladimir Putin for Moscow’s position on the war in the Middle East, in their first meeting since the conflict broke out in February.",
+      "url": "https://www.rferl.org/a/putin-pezeshkian-iran-russia-support-gulf-conflict-us/33844885.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-01T14:42:29Z",
+      "image": "https://gdb.rferl.org/884941fd-1404-49a1-9c91-e8e7c874b0b0_cx0_cy11_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -127,21 +158,6 @@
       "tags": []
     },
     {
-      "id": "cs -61157035edc8",
-      "title": "In Russia-occupied Crimea, Ukrainian attacks land differently for divided residents",
-      "description": "Crimea has been targeted this summer by a Ukrainian drone and missile offensive meant to isolate the Russian-occupied peninsula. While all sides are feeling the economic impact and loss of tourism, some are heartened and others resentful.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/0831/ukraine-crimea-russia-war-drone-offensive?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-08-31T18:59:00Z",
-      "image": "https://images.csmonitor.com/csm/2026/08/0831_OCRIMEA_lede_power_outage.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -b3d936b2dd0d",
       "title": "Nepal flooding deaths surpass 900 as needs climb",
       "description": "The confirmed death toll from Nepal’s catastrophic floods has surged to 903, with more than 4,200 still missing as rescue crews and humanitarian workers battle blocked highways to reach the hardest-hit areas, UN Spokesperson Stéphane Dujarric said on Monday.",
@@ -155,22 +171,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-86ed2a43b184",
-      "title": "Ukrainian Officials Blamed For 'Negligence' After Deadly Strikes",
-      "description": "With at least 38 people killed in Russian air attacks on the Kyiv region on August 28-29, Ukrainian President Volodymyr Zelenskyy said \"terrible negligence\" was a factor in the high death toll. Ukrainian authorities have pledged to investigate why a weapons storage depot was located close to a populated area. Secondary…",
-      "url": "https://www.rferl.org/a/ukraine-russia-kyiv-bucha-drone-strikes-negligence-zelenskyy-weapons/33843559.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-08-30T17:59:34Z",
-      "image": "https://gdb.rferl.org/81cf063e-54cd-46b5-8798-08decad17715_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     },
     {

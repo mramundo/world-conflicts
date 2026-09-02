@@ -1,36 +1,36 @@
 {
-  "updated": "2026-09-02T17:41:16Z",
+  "updated": "2026-09-02T20:41:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -1fdfdaee44c3",
-      "title": "WHO chief warns Ebola response must ramp up to stem DRC outbreak",
-      "description": "Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-02T16:18:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9838da-1788360922.jpg?resize=1920%2C1440",
+      "id": "fra-f0c12a45dc25",
+      "title": "Zelensky warns airlines Russian skies not safe due to Ukraine drones",
+      "description": "Ukrainian President Volodymyr Zelensky warned Tuesday that his country's drones would make Russia's airspace \"completely unsafe\" for the duration of the war, drawing accusations of \"state terrorism\" from Russian leader Vladimir Putin. Speaking with FRANCE 24's Mark Owen, Former British Military Intelligence Officer Phi…",
+      "url": "https://www.france24.com/en/zelensky-warns-airlines-russian-skies-not-safe-due-to-ukraine-drones",
+      "source": "France24",
+      "publishedAt": "2026-09-02T19:32:55Z",
+      "image": "https://s.france24.com/media/display/28e9c598-7e7d-11f1-9486-005056bf30b7/w:1024/p:16x9/2026-07-12T130639Z-1873803642-RC2LZLA3LE8L-RTRMADP-3-UKRAINE-CRISIS-DRONES-GERMANY.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-2c70ada10b98",
-      "title": "UNIFIL peacekeepers patrol south Lebanon, caught between Israel and Hezbollah",
-      "description": "Since this spring, about 6 percent of Lebanon has been occupied by the Israeli army. On the ground, around 600 French soldiers from the United Nations Interim Force in Lebanon (UNIFIL) continue to patrol the zone. The delicate peacekeeping mission documents violations of UN resolutions by both Israel and Hezbollah, wit…",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260902-unifil-peacekeepers-patrol-south-lebanon-caught-between-israel-and-hezbollah",
-      "source": "France24",
-      "publishedAt": "2026-09-02T12:41:09Z",
-      "image": "https://s.france24.com/media/display/bf6e21c2-a6c7-11f1-888f-005056a90284/w:1024/p:16x9/capture-8849656686a9812fa0edf02-89967507.jpg",
+      "id": "al -5f8a163b179a",
+      "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
+      "description": "EU ministers in Ireland have announced a mission to support Lebanon’s army but remain divided on sanctions on Israel.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T17:56:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788371668.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -125,6 +125,22 @@
       "tags": []
     },
     {
+      "id": "rfe-310e03a69dc9",
+      "title": "2 Filipino Sailors Killed In Attack On Saudi Oil Tanker In Strait Of Hormuz",
+      "description": "As the conflict in the Persian Gulf continues to impact and shape the region, journalists from RFE/RL's Central Newsroom and Iranian service, Radio Farda, deliver ongoing updates and analysis.",
+      "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-02T05:05:00Z",
+      "image": "https://gdb.rferl.org/b2ac8237-0420-4d88-9286-93f03c1f5e85_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "cs -08f039416e0b",
       "title": "As US steps up pressure on Iran, ordinary people say they’re paying the price",
       "description": "Iran’s economy was in ruins even before the war, and before U.S. President Donald Trump’s latest “D-Day” sanctions. So far, ordinary Iranians are bearing the brunt and feeling apathetic, meaning surviving leaders, for now, might face a lower risk of an uprising.",
@@ -167,22 +183,6 @@
         "analysis"
       ],
       "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "rfe-310e03a69dc9",
-      "title": "2 Filipino Sailors Killed In Attack On Saudi Oil Tanker In Strait Of Hormuz",
-      "description": "As the conflict in the Persian Gulf continues to impact and shape the region, journalists from RFE/RL's Central Newsroom and Iranian service, Radio Farda, deliver ongoing updates and analysis.",
-      "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-01T05:05:00Z",
-      "image": "https://gdb.rferl.org/b2ac8237-0420-4d88-9286-93f03c1f5e85_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     },

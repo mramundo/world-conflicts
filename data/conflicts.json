@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T13:21:45Z",
+  "updated": "2026-09-02T17:41:27Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-09-01T22:54:17Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-09-02",
       "wikipediaRevision": "2026-09-02T10:59:50Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -68,7 +68,7 @@
       ],
       "wikipediaPage": "Sudanese_civil_war_(2023%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "mm-civ",
@@ -225,8 +225,8 @@
         "Jihadism"
       ],
       "wikipediaPage": "Boko_Haram_insurgency",
-      "lastUpdate": "2026-08-31",
-      "wikipediaRevision": "2026-08-31T17:19:31Z",
+      "lastUpdate": "2026-09-02",
+      "wikipediaRevision": "2026-09-02T13:36:18Z",
       "recentNewsCount": 0
     },
     {
@@ -248,7 +248,7 @@
       ],
       "wikipediaPage": "Mexican_drug_war",
       "lastUpdate": "2026-09-02",
-      "wikipediaRevision": "2026-09-02T08:39:26Z",
+      "wikipediaRevision": "2026-09-02T14:26:52Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 7
+      "recentNewsCount": 6
     },
     {
       "id": "et-am",
@@ -339,7 +339,7 @@
       "lastUpdate": "2026-08-30",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-08-30T01:32:58Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "co-fgc",
@@ -406,7 +406,7 @@
       "lastUpdate": "2026-08-22",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-08-22T03:51:00Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "red-sea",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     }
   ]
 }

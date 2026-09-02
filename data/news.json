@@ -1,21 +1,36 @@
 {
-  "updated": "2026-09-02T13:21:36Z",
+  "updated": "2026-09-02T17:41:16Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-680b7e63107d",
-      "title": "India's GDP records surprise growth of 7.8% amid Iran war",
-      "description": "",
-      "url": "https://asia.nikkei.com/economy/india-s-gdp-records-surprise-growth-of-7.8-amid-iran-war",
-      "source": "Nikkei Asia",
-      "publishedAt": "2026-09-02T13:21:32Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F3%2F4%2F13034383-2-eng-GB%2F5ad6c8773cb5-20251114-2S1A2595Photo-by-Ken-Kobayashi-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "id": "al -1fdfdaee44c3",
+      "title": "WHO chief warns Ebola response must ramp up to stem DRC outbreak",
+      "description": "Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T16:18:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9838da-1788360922.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-2c70ada10b98",
+      "title": "UNIFIL peacekeepers patrol south Lebanon, caught between Israel and Hezbollah",
+      "description": "Since this spring, about 6 percent of Lebanon has been occupied by the Israeli army. On the ground, around 600 French soldiers from the United Nations Interim Force in Lebanon (UNIFIL) continue to patrol the zone. The delicate peacekeeping mission documents violations of UN resolutions by both Israel and Hezbollah, wit…",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260902-unifil-peacekeepers-patrol-south-lebanon-caught-between-israel-and-hezbollah",
+      "source": "France24",
+      "publishedAt": "2026-09-02T12:41:09Z",
+      "image": "https://s.france24.com/media/display/bf6e21c2-a6c7-11f1-888f-005056a90284/w:1024/p:16x9/capture-8849656686a9812fa0edf02-89967507.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -32,37 +47,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-92b7496e3c35",
-      "title": "Military buildup seen in Ethiopia near Sudanese border",
-      "description": "A major military buildup has been observed on the Ethiopian side of the Sudanese border. It comes amid intensified fighting between the Sudanese armed forces and the Rapid Support Forces (RSF). Sudan and Ethiopia have both accused each other of supporting rebels within their borders.",
-      "url": "https://www.france24.com/en/video/20260902-military-buildup-seen-in-ethiopia-near-sudanese-border",
-      "source": "France24",
-      "publishedAt": "2026-09-02T10:57:17Z",
-      "image": "https://s.france24.com/media/display/f7430e9e-9170-11f1-ae5d-005056a90284/w:1024/p:16x9/AP26105668493216.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -0afbf2e8e8c8",
-      "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
-      "description": "A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-02T10:57:16Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260902__C73X3F8__v3__HighRes__IranUsIsraelWar-1788337341.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

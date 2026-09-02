@@ -1,9 +1,24 @@
 {
-  "updated": "2026-09-02T20:41:22Z",
+  "updated": "2026-09-02T23:04:01Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -57dc19507c2d",
+      "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
+      "description": "Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T20:59:46Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260802__C3T8883__v3__HighRes__TopshotPalestinianIsraelConflictWestBank-1788381866.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "fra-f0c12a45dc25",
       "title": "Zelensky warns airlines Russian skies not safe due to Ukraine drones",
@@ -16,21 +31,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -5f8a163b179a",
-      "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
-      "description": "EU ministers in Ireland have announced a mission to support Lebanon’s army but remain divided on sanctions on Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-02T17:56:18Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788371668.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -110,6 +110,22 @@
       "tags": []
     },
     {
+      "id": "rfe-52c1fe13f027",
+      "title": "Aviation Tactics Recalling 'World War I' Help Ukraine Bring Down Russian Drones",
+      "description": "Armed only with an assault rifle in an open cockpit, a Ukrainian gunner is part of an aerial unit that is shooting down Russian drones from Soviet-era Yak-52 propeller planes. Three low-cost planes donated by a Dutch NGO are patrolling the Odesa region, downing multiple Iranian-designed Shahed drones in a single flight…",
+      "url": "https://www.rferl.org/a/ukraine-military-soviet-aircraft-aerial-drones/33845026.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-02T06:32:17Z",
+      "image": "https://gdb.rferl.org/7ca66512-0ec2-43ba-1fd5-08decad58b60_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "the-750589f89281",
       "title": "UK must end all trade with Israel, says co-founder of BDS movement",
       "description": "Exclusive: sanctions against ministers and settler groups are ‘smoke and mirrors cop-out’ says Omar BarghoutiBritain’s legal and ethical obligation to stop a genocide in Gaza requires it to take bigger steps than halting trade with illegal Israeli settlements or imposing further sanctions, Omar Barghouti, the co-founde…",
@@ -122,22 +138,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-310e03a69dc9",
-      "title": "2 Filipino Sailors Killed In Attack On Saudi Oil Tanker In Strait Of Hormuz",
-      "description": "As the conflict in the Persian Gulf continues to impact and shape the region, journalists from RFE/RL's Central Newsroom and Iranian service, Radio Farda, deliver ongoing updates and analysis.",
-      "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-02T05:05:00Z",
-      "image": "https://gdb.rferl.org/b2ac8237-0420-4d88-9286-93f03c1f5e85_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {

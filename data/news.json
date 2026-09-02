@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T08:31:43Z",
+  "updated": "2026-09-02T13:21:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/india-s-gdp-records-surprise-growth-of-7.8-amid-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-02T08:31:39Z",
+      "publishedAt": "2026-09-02T13:21:32Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F3%2F4%2F13034383-2-eng-GB%2F5ad6c8773cb5-20251114-2S1A2595Photo-by-Ken-Kobayashi-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,94 @@
       "tags": []
     },
     {
-      "id": "bbc-0032f0a516f0",
-      "title": "Why do US troops have history with this Thai city?",
-      "description": "The BBC's Jonathan Head reports from Pattaya, a beach resort home to neon-lit nightlife and racy bars.",
-      "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
+      "id": "bbc-dd31cd784444",
+      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+      "description": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
+      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-09-02T07:18:39Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95b2/live/cdf05af0-a6a2-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-02T11:51:46Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae6/live/70e46460-a6ba-11f1-b109-879e35c24276.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-92b7496e3c35",
+      "title": "Military buildup seen in Ethiopia near Sudanese border",
+      "description": "A major military buildup has been observed on the Ethiopian side of the Sudanese border. It comes amid intensified fighting between the Sudanese armed forces and the Rapid Support Forces (RSF). Sudan and Ethiopia have both accused each other of supporting rebels within their borders.",
+      "url": "https://www.france24.com/en/video/20260902-military-buildup-seen-in-ethiopia-near-sudanese-border",
+      "source": "France24",
+      "publishedAt": "2026-09-02T10:57:17Z",
+      "image": "https://s.france24.com/media/display/f7430e9e-9170-11f1-ae5d-005056a90284/w:1024/p:16x9/AP26105668493216.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -0afbf2e8e8c8",
+      "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
+      "description": "A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T10:57:16Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260902__C73X3F8__v3__HighRes__IranUsIsraelWar-1788337341.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -f61cce9e5bfd",
+      "title": "Ukraine and Russia's asymmetric war of attrition",
+      "description": "Kyiv and Moscow have stepped up attacks on each other's infrastructure in recent weeks, aiming to weaken the opposing economy and undermine morale. Ukraine has paid a heavier price because it does not possess ballistic missiles and finds it increasingly difficult to intercept those targeting its territory.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/02/ukraine-and-russia-s-asymmetric-war-of-attrition_6757076_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-02T09:57:19Z",
+      "image": "https://img.lemde.fr/2026/09/01/592/0/4000/2000/644/322/60/0/1cf277c_upload-1-lfsbzv2auux1-sujet-guerre-economique-30.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-2f70dcb3e5f7",
+      "title": "Ukrainian War Documentary ‘Brace For Oblivion’ Wins in Ireland, Comes to Kyiv",
+      "description": "Filmed over nearly four years on Ukraine’s front lines, Xackery Irving’s documentary “Brace For Oblivion” follows seven civilians who became soldiers after Russia’s full-scale invasion. After winning an international award in Galway, the film returns to Ukraine for a special screening in Kyiv.",
+      "url": "https://www.kyivpost.com/post/83560",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-02T09:30:43Z",
+      "image": "https://static.kyivpost.com/storage/2026/09/02/73f0dfaee58f8e00fbf06e3bf7d9f979.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-63f225d2432e",
+      "title": "Putin signals support for Iran in ongoing war with the U.S.",
+      "description": "Russia's Vladimir Putin is signaling unwavering support for Iran, as Tehran thanks Moscow for backing amid the escalating Middle East war.",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s",
+      "source": "NPR World",
+      "publishedAt": "2026-09-02T08:41:42Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5953036",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -47,37 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-52c1fe13f027",
-      "title": "Aviation Tactics Recalling 'World War I' Help Ukraine Bring Down Russian Drones",
-      "description": "Armed only with an assault rifle in an open cockpit, a Ukrainian gunner is part of an aerial unit that is shooting down Russian drones from Soviet-era Yak-52 propeller planes. Three low-cost planes donated by a Dutch NGO are patrolling the Odesa region, downing multiple Iranian-designed Shahed drones in a single flight…",
-      "url": "https://www.rferl.org/a/ukraine-military-soviet-aircraft-aerial-drones/33845026.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-02T06:32:17Z",
-      "image": "https://gdb.rferl.org/7ca66512-0ec2-43ba-1fd5-08decad58b60_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-fad4d9dc0bbb",
-      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
-      "description": "The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war.",
-      "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
-      "source": "NPR World",
-      "publishedAt": "2026-09-02T06:15:11Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F60%2F2d5a0d4f4f18a8aaeae286dffd65%2Fap26243261413105.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,36 +141,6 @@
       "tags": []
     },
     {
-      "id": "al -1023a3987e72",
-      "title": "Iran says US bombed a wedding party in Sirik, killing five people",
-      "description": "Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-02T01:34:55Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a976d1b-1788308763.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -ce051380d437",
-      "title": "US defends Trump's Venezuela oil deal",
-      "description": "United States President Donald Trump met oil executives at the White House on Tuesday as he tries to tame gas prices spiraling due to the Iran war, with his administration hoping the Venezuela deal could help. Cheaper oil is a priority for the Trump administration ahead of crucial US midterm elections in November.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/02/us-defends-trump-s-venezuela-oil-deal_6757063_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-01T22:13:17Z",
-      "image": "https://img.lemde.fr/2026/08/31/416/0/6500/3250/644/322/60/0/dff3bd0_ftp-1-tolrg06ln9pm-2026-08-31t100048z-1750635765-rc2m9na49l9h-rtrmadp-3-usa-venezuela-oil.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -08f039416e0b",
       "title": "As US steps up pressure on Iran, ordinary people say they’re paying the price",
       "description": "Iran’s economy was in ruins even before the war, and before U.S. President Donald Trump’s latest “D-Day” sanctions. So far, ordinary Iranians are bearing the brunt and feeling apathetic, meaning surviving leaders, for now, might face a lower risk of an uprising.",
@@ -142,25 +156,10 @@
       "tags": []
     },
     {
-      "id": "fra-bb77b5bf1701",
-      "title": "Germany blames Russia for Leipzig airport drone attack, orders Russian consulate closed",
-      "description": "Germany's government on Tuesday blamed Russia for an attempted attack at Leipzig/Halle Airport on 4 August using an explosive-laden drone, and announced that it would shut down a Russian consulate among other measures against Moscow. French ​President Emmanuel Macron ​said he supported the ​adoption ‌of ⁠new European s…",
-      "url": "https://www.france24.com/en/europe/20260901-germany-blames-russia-for-leipzig-airport-drone-attack-orders-russian-consulate-closed",
-      "source": "France24",
-      "publishedAt": "2026-09-01T17:00:58Z",
-      "image": "https://s.france24.com/media/display/79b2ea30-a61a-11f1-b028-005056a90284/w:1024/p:16x9/2026-08-08T101129Z-1947811119-RC2CSMA5SMYP-RTRMADP-3-GERMANY-SECURITY-DRONES.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-bf9ba35a6768",
-      "title": "War and sanctions deepen Iran's fuel crisis",
+      "id": "deu-b4db7b0d34f9",
+      "title": "Iran fuel crisis deepens amid war and sanctions",
       "description": "Long lines at fuel stations are spreading across Iran as war damage, import constraints and new US sanctions squeeze supplies.",
-      "url": "https://www.dw.com/en/war-and-sanctions-deepen-iran-s-fuel-crisis/a-78636429?maca=en-rss-en-world-4025-rdf",
+      "url": "https://www.dw.com/en/iran-fuel-crisis-deepens-amid-war-and-sanctions/a-78636429?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-09-01T14:29:00Z",
       "image": "https://static.dw.com/image/78347832_6.jpg",
@@ -188,6 +187,22 @@
       "tags": []
     },
     {
+      "id": "rfe-310e03a69dc9",
+      "title": "2 Filipino Sailors Killed In Attack On Saudi Oil Tanker In Strait Of Hormuz",
+      "description": "As the conflict in the Persian Gulf continues to impact and shape the region, journalists from RFE/RL's Central Newsroom and Iranian service, Radio Farda, deliver ongoing updates and analysis.",
+      "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-01T05:05:00Z",
+      "image": "https://gdb.rferl.org/b2ac8237-0420-4d88-9286-93f03c1f5e85_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "un -b3d936b2dd0d",
       "title": "Nepal flooding deaths surpass 900 as needs climb",
       "description": "The confirmed death toll from Nepal’s catastrophic floods has surged to 903, with more than 4,200 still missing as rescue crews and humanitarian workers battle blocked highways to reach the hardest-hit areas, UN Spokesperson Stéphane Dujarric said on Monday.",
@@ -201,22 +216,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-bb7815f21069",
-      "title": "How Russia’s Cultural Projects Conceal Their Human Atrocities",
-      "description": "Russia continues to use culture and internationally recognized artists to advance its influence abroad and promote the normalization of relations with Moscow despite the ongoing war. Russian violinists Vadim Repin and Mikhail Simonyan are examples of Kremlin-linked cultural engagement that, ultimately, cannot be separa…",
-      "url": "https://www.kyivpost.com/post/83259",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-08-30T13:24:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/08/28/cb7518f8f868159e4dfcf0faefc325f4.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     }
   ]

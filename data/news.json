@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T23:06:18Z",
+  "updated": "2026-09-02T03:28:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/india-s-gdp-records-surprise-growth-of-7.8-amid-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-01T23:06:13Z",
+      "publishedAt": "2026-09-02T03:28:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F3%2F4%2F13034383-2-eng-GB%2F5ad6c8773cb5-20251114-2S1A2595Photo-by-Ken-Kobayashi-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1023a3987e72",
+      "title": "Iran says US bombed a wedding party in Sirik, killing five",
+      "description": "Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-02T01:34:55Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a976d1b-1788308763.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,21 +61,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -1bdc3174c8e8",
-      "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-      "description": "Three Palestinian children were among four people killed in Israeli strikes on Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-01T20:59:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788296366.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

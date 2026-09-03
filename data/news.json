@@ -1,23 +1,70 @@
 {
-  "updated": "2026-09-03T17:36:32Z",
+  "updated": "2026-09-03T20:40:02Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -f7325d2b4a6f",
-      "title": "Israel’s siege on Gaza is forcing dentists to operate in the streets",
-      "description": "Scarce resources and office space mean that dental work is a luxury for most people in Gaza.",
-      "url": "https://www.aljazeera.com/features/2026/9/3/gaza-housing-dentists?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T16:45:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_6666-1788447943.jpeg?resize=1920%2C1440",
+      "id": "nik-3ae1ff62717e",
+      "title": "What will war look like after peace?",
+      "description": "",
+      "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-09-03T20:39:58Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "analysis"
       ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -aa673d39c205",
+      "title": "Is Nepal leading the battle for climate justice?",
+      "description": "Foreign minister demands top three polluting nations compensate Nepal for recent disaster.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T18:58:05Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788458103.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "cs -fff3543a45ff",
+      "title": "This week, Germany stopped putting up with Russia’s hybrid war",
+      "description": "Germany has been wary of calling out Russian hybrid warfare, but the discovery of two drones in Leipzig last month proved the last straw for Berlin.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/0903/germany-russia-attacks-hybrid-warfare-drones-ukraine-war?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-09-03T18:08:22Z",
+      "image": "https://images.csmonitor.com/csm/2026/09/0903_OHYBRID_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-a725ee5305ab",
+      "title": "Trump's Iran strategy: Could this become a forever war?",
+      "description": "The US has launched fresh attacks on military targets in Iran. It wants to prevent Tehran rebuilding its destroyed capabilities, but risks triggering a sustained downward spiral of reconstruction followed by new attacks.",
+      "url": "https://www.dw.com/en/trump-s-iran-strategy-could-this-become-a-forever-war/a-78875030?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-03T17:46:00Z",
+      "image": "https://static.dw.com/image/78567044_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -63,21 +110,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-aa26639b5cd2",
-      "title": "US sanctions halt TOEFL and GRE tests in Iran, disrupting study plans",
-      "description": "Students in Iran can no longer take English-language proficiency exams after the suspension of a US sanctions exemption. Applicants say the move threatens university deadlines and adds costly travel obligations.",
-      "url": "https://www.dw.com/en/us-sanctions-halt-toefl-and-gre-tests-in-iran-disrupting-study-plans/a-78764639?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-03T14:24:00Z",
-      "image": "https://static.dw.com/image/66668680_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -129,6 +161,21 @@
       "tags": []
     },
     {
+      "id": "le -291d5602a538",
+      "title": "War in Ukraine: Constant air raid alerts unsettle daily life in Kyiv",
+      "description": "Since late August, sirens have sounded in the Ukrainian capital at an unprecedented rate not seen since the beginning of Russia's full-scale invasion in February 2022. This new reality has upended routines the city's 3.7 million residents.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/03/war-in-ukraine-constant-air-raid-alerts-unsettle-daily-life-in-kyiv_6757117_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-03T10:09:25Z",
+      "image": "https://img.lemde.fr/2026/09/01/334/0/4000/2000/644/322/60/0/5eed4ed_upload-1-hhzcrz9cj4pm-reportage-kiev-12.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "npr-f533d4f9f0b6",
       "title": "U.S.-Israel relations are on the rocks ahead of elections",
       "description": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.",
@@ -155,36 +202,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -f61cce9e5bfd",
-      "title": "Ukraine and Russia's asymmetric war of attrition",
-      "description": "Kyiv and Moscow have stepped up attacks on each other's infrastructure in recent weeks, aiming to weaken the opposing economy and undermine morale. Ukraine has paid a heavier price because it does not possess ballistic missiles and finds it increasingly difficult to intercept those targeting its territory.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/02/ukraine-and-russia-s-asymmetric-war-of-attrition_6757076_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-02T09:57:19Z",
-      "image": "https://img.lemde.fr/2026/09/01/592/0/4000/2000/644/322/60/0/1cf277c_upload-1-lfsbzv2auux1-sujet-guerre-economique-30.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -08f039416e0b",
-      "title": "As US steps up pressure on Iran, ordinary people say they’re paying the price",
-      "description": "Iran’s economy was in ruins even before the war, and before U.S. President Donald Trump’s latest “D-Day” sanctions. So far, ordinary Iranians are bearing the brunt and feeling apathetic, meaning surviving leaders, for now, might face a lower risk of an uprising.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0901/iranian-people-trump-economic-sanctions?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-09-01T21:19:10Z",
-      "image": "https://images.csmonitor.com/csm/2026/09/0901_OIRAN_fish_mkt.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

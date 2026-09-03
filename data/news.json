@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T23:04:01Z",
+  "updated": "2026-09-03T03:31:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -31,6 +31,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -e0723bc3709d",
+      "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
+      "description": "Fighting between the United States and Iran has sharply escalated after a month-long lull, with the two sides exchanging strikes as fears grow over further civilian casualties.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168268",
+      "source": "UN News",
+      "publishedAt": "2026-09-02T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/13-07-2026_AdobeStock_Oman-01.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -184,22 +199,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -b3d936b2dd0d",
-      "title": "Nepal flooding deaths surpass 900 as needs climb",
-      "description": "The confirmed death toll from Nepal’s catastrophic floods has surged to 903, with more than 4,200 still missing as rescue crews and humanitarian workers battle blocked highways to reach the hardest-hit areas, UN Spokesperson Stéphane Dujarric said on Monday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168233",
-      "source": "UN News",
-      "publishedAt": "2026-08-31T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/28-08-2026-UNICEF-Nepal-floods-02.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     }
   ]

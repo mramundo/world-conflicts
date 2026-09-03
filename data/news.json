@@ -1,21 +1,98 @@
 {
-  "updated": "2026-09-03T13:20:15Z",
+  "updated": "2026-09-03T17:36:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "deu-58d392135580",
-      "title": "Iran bets on shadow networks to evade US sanctions",
-      "description": "To circumvent US sanctions, Iran has spent decades building a complex network of businesspeople and companies. A billionaire once sentenced to death is now back at its center.",
-      "url": "https://www.dw.com/en/iran-bets-on-shadow-networks-to-evade-us-sanctions/a-78863283?maca=en-rss-en-world-4025-rdf",
+      "id": "al -f7325d2b4a6f",
+      "title": "Israel’s siege on Gaza is forcing dentists to operate in the streets",
+      "description": "Scarce resources and office space mean that dental work is a luxury for most people in Gaza.",
+      "url": "https://www.aljazeera.com/features/2026/9/3/gaza-housing-dentists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T16:45:21Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_6666-1788447943.jpeg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-3c4f92910242",
+      "title": "Why Ukraine’s drained Kakhovka Dam is strategic for Russia",
+      "description": "Small groups of Russian soldiers have been inching forward through the vast, drained Kakhovka reservoir since they blew up the dam in June 2023. Russian forces are infiltrating this “no man’s land” for reconnaissance purposes rather than for a future military offensive, said a military expert.",
+      "url": "https://www.france24.com/en/europe/20260903-why-ukraine-drained-kakhovka-dam-strategic-russia",
+      "source": "France24",
+      "publishedAt": "2026-09-03T15:34:03Z",
+      "image": "https://s.france24.com/media/display/7b33f7b0-a6f0-11f1-bf9f-005056a90284/w:1024/p:16x9/AP23190746580401.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-4e4cfa70881f",
+      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
+      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-03T15:05:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-4261658719f9",
+      "title": "US commerce secretary erroneously said no Americans have died in Iran war, Trump claims",
+      "description": "President said Howard Lutnick had Venezuela operation on his mind when he was discussing Iran war on CNBCDonald Trump has claimed his commerce secretary, Howard Lutnick, erroneously stated that no Americans had been killed in the war with Iran because he was thinking about a previous US operation, in Venezuela.The clai…",
+      "url": "https://www.theguardian.com/world/2026/sep/03/howard-lutnick-iran-war-deaths-trump",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-03T14:38:40Z",
+      "image": "https://i.guim.co.uk/img/media/9c43c78fbc26177a92707812129b4fa22d9fbb88/577_0_5767_4616/master/5767.jpg?width=140&quality=85&auto=format&fit=max&s=4b52732c2a57bf232af391cc015bfad2",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-aa26639b5cd2",
+      "title": "US sanctions halt TOEFL and GRE tests in Iran, disrupting study plans",
+      "description": "Students in Iran can no longer take English-language proficiency exams after the suspension of a US sanctions exemption. Applicants say the move threatens university deadlines and adds costly travel obligations.",
+      "url": "https://www.dw.com/en/us-sanctions-halt-toefl-and-gre-tests-in-iran-disrupting-study-plans/a-78764639?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
-      "publishedAt": "2026-09-03T11:59:00Z",
-      "image": "https://static.dw.com/image/76358040_6.jpg",
+      "publishedAt": "2026-09-03T14:24:00Z",
+      "image": "https://static.dw.com/image/66668680_6.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -d40222cea3cf",
+      "title": "Outside forces fuel Sudan war, new report finds",
+      "description": "Foreign recruitment and external support networks are fuelling the brutal conflict in Sudan, independent UN human rights investigators said on Thursday in a new report, calling for accountability as fighting continues between the Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF).",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168270",
+      "source": "UN News",
+      "publishedAt": "2026-09-03T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/24-06-2026-UNDP-Sudan.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,21 +113,6 @@
       "tags": []
     },
     {
-      "id": "bbc-8b8f15a5d138",
-      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
-      "description": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
-      "url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-03T11:49:50Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c9c/live/a9194eb0-a618-11f1-a291-b542ee92de7c.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-89f6cf0c8440",
       "title": "Drone Wall Rises: Ukraine Bets on Its Best Corps",
       "description": "A two-week roundup of the Russia-Ukraine war: Ukraine's 1st and 3rd Corps take command of the Sloviansk-Kramatorsk defense, Russia launches a major ballistic missile strike on Kyiv, and Ukrainian forces hit a record 21 Russian oil refineries in August. Plus new weapons debuts, a Banderol missile strike on Pechenihy, an…",
@@ -63,37 +125,6 @@
         "analysis"
       ],
       "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-28d4d89456ff",
-      "title": "Putin's 'global battle' against US, NATO: Russia 'testing' NATO since 2022 Ukraine invasion began",
-      "description": "François Picard is pleased to welcome Anna Borshchevskaya, Senior Fellow at The Washington Institute. She interprets Russia’s reported missile support for Iran not as an isolated arms transaction, but as part of a broader geopolitical strategy in which Moscow treats Ukraine, Iran, NATO, and the United States as interco…",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260903-putin-s-global-battle-against-us-nato-russia-testing-nato-since-2022-ukraine-invasion-began",
-      "source": "France24",
-      "publishedAt": "2026-09-03T10:26:42Z",
-      "image": "https://s.france24.com/media/display/c224c548-a71b-11f1-bc68-005056bf30b7/w:1024/p:16x9/EN-20260902-180342-181121-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -ca598f051fb7",
-      "title": "Gulf insecurity fuels US energy dominance",
-      "description": "The no-war, no-peace status quo with Iran increasingly benefits the US, its energy sector and its ally Israel.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T09:16:20Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9924719be91-1788421233.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },
@@ -128,21 +159,6 @@
       "tags": []
     },
     {
-      "id": "un -e0723bc3709d",
-      "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
-      "description": "Fighting between the United States and Iran has sharply escalated after a month-long lull, with the two sides exchanging strikes as fears grow over further civilian casualties.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168268",
-      "source": "UN News",
-      "publishedAt": "2026-09-02T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/13-07-2026_AdobeStock_Oman-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -f61cce9e5bfd",
       "title": "Ukraine and Russia's asymmetric war of attrition",
       "description": "Kyiv and Moscow have stepped up attacks on each other's infrastructure in recent weeks, aiming to weaken the opposing economy and undermine morale. Ukraine has paid a heavier price because it does not possess ballistic missiles and finds it increasingly difficult to intercept those targeting its territory.",
@@ -154,21 +170,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-750589f89281",
-      "title": "UK must end all trade with Israel, says co-founder of BDS movement",
-      "description": "Exclusive: sanctions against ministers and settler groups are ‘smoke and mirrors cop-out’ says Omar BarghoutiBritain’s legal and ethical obligation to stop a genocide in Gaza requires it to take bigger steps than halting trade with illegal Israeli settlements or imposing further sanctions, Omar Barghouti, the co-founde…",
-      "url": "https://www.theguardian.com/world/2026/sep/02/uk-must-end-all-trade-with-israel-says-co-founder-of-bds-movement",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-02T06:00:24Z",
-      "image": "https://i.guim.co.uk/img/media/0f1949c6d59f53071a1d4389128f79c6e7bef9fe/114_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=3f14c630887165b02d6c74838afba97d",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

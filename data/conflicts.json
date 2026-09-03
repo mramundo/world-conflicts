@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T03:31:26Z",
+  "updated": "2026-09-03T08:40:16Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-09-02T18:57:47Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-09-02",
       "wikipediaRevision": "2026-09-02T21:20:34Z",
-      "recentNewsCount": 7
+      "recentNewsCount": 6
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-09-02",
       "wikipediaRevision": "2026-09-02T10:59:50Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -290,9 +290,9 @@
         "Terrorism"
       ],
       "wikipediaPage": "Republican_insurgency_in_Afghanistan",
-      "lastUpdate": "2026-09-01",
+      "lastUpdate": "2026-09-03",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-09-01T13:15:26Z",
+      "wikipediaRevision": "2026-09-03T08:25:25Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 6
+      "recentNewsCount": 8
     },
     {
       "id": "et-am",

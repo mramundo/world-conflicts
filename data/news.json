@@ -1,21 +1,67 @@
 {
-  "updated": "2026-09-03T03:31:17Z",
+  "updated": "2026-09-03T08:40:03Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -57dc19507c2d",
-      "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-      "description": "Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-02T20:59:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260802__C3T8883__v3__HighRes__TopshotPalestinianIsraelConflictWestBank-1788381866.jpg?resize=1920%2C1440",
+      "id": "npr-f533d4f9f0b6",
+      "title": "U.S.-Israel relations are on the rocks ahead of elections",
+      "description": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
+      "source": "NPR World",
+      "publishedAt": "2026-09-03T08:06:18Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5950045",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e6c43e2836c7",
+      "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
+      "description": "Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.",
+      "url": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T07:41:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-02T184430Z_116037912_RC23BNASDV7N_RTRMADP_3_IRAN-CRISIS-USA-STRIKES-SIRIK-1788419182.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-15e759dd7556",
+      "title": "In Cina emissioni di CO2 in calo dell'1% durante la guerra in Iran",
+      "description": "Crollano i consumi di petrolio mentre aumentano i veicoli elettrici",
+      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/03/in-cina-emissioni-di-co2-in-calo-dell1-durante-la-guerra-in-iran_d77c0709-8d7a-43d0-85ae-78fda23ad5fc.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-03T06:29:02Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/19/208aaedfb8d125beb2afacf086cafaa6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-8b8f15a5d138",
+      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
+      "description": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-03T00:14:20Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c9c/live/a9194eb0-a618-11f1-a291-b542ee92de7c.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,21 +96,6 @@
       "tags": []
     },
     {
-      "id": "bbc-dd31cd784444",
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "description": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
-      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-02T11:51:46Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae6/live/70e46460-a6ba-11f1-b109-879e35c24276.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -f61cce9e5bfd",
       "title": "Ukraine and Russia's asymmetric war of attrition",
       "description": "Kyiv and Moscow have stepped up attacks on each other's infrastructure in recent weeks, aiming to weaken the opposing economy and undermine morale. Ukraine has paid a heavier price because it does not possess ballistic missiles and finds it increasingly difficult to intercept those targeting its territory.",
@@ -91,36 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-63f225d2432e",
-      "title": "Putin signals support for Iran in ongoing war with the U.S.",
-      "description": "Russia's Vladimir Putin is signaling unwavering support for Iran, as Tehran thanks Moscow for backing amid the escalating Middle East war.",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s",
-      "source": "NPR World",
-      "publishedAt": "2026-09-02T08:41:42Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5953036",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-dafcd701c214",
-      "title": "Kallas, 'attacchi ibridi una svegliata per Paesi più tiepidi sulle sanzioni'",
-      "description": "'Se vogliamo porre fine alla guerra, dobbiamo concentrare i nostri sforzi'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/02/kallas-attacchi-ibridi-una-svegliata-per-paesi-piu-tiepidi-sulle_854b8045-9cf8-45aa-818a-ab48b194bf10.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-02T06:48:08Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/3996b5f6453f984572e619466f096a80.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

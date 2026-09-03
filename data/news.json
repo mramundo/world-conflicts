@@ -1,9 +1,102 @@
 {
-  "updated": "2026-09-03T08:40:03Z",
+  "updated": "2026-09-03T13:20:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "deu-58d392135580",
+      "title": "Iran bets on shadow networks to evade US sanctions",
+      "description": "To circumvent US sanctions, Iran has spent decades building a complex network of businesspeople and companies. A billionaire once sentenced to death is now back at its center.",
+      "url": "https://www.dw.com/en/iran-bets-on-shadow-networks-to-evade-us-sanctions/a-78863283?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-03T11:59:00Z",
+      "image": "https://static.dw.com/image/76358040_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-dd76b1b8ca6f",
+      "title": "Why Was There A Shoot-Out In Kyiv Between Security and Intelligence Agents?",
+      "description": "An armed clash between Ukraine’s military intelligence and security service left three officers wounded in Kyiv. Both sides gave conflicting accounts, while President Zelenskyy called the incident “absolutely disgraceful.”",
+      "url": "https://www.rferl.org/a/a-shoot-out-in-kyiv-between-ukraine-s-intelligence-agencies/33846268.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-03T11:54:07Z",
+      "image": "https://gdb.rferl.org/523d5276-a53e-4dde-2044-08decad58b60_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-8b8f15a5d138",
+      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
+      "description": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-03T11:49:50Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c9c/live/a9194eb0-a618-11f1-a291-b542ee92de7c.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-89f6cf0c8440",
+      "title": "Drone Wall Rises: Ukraine Bets on Its Best Corps",
+      "description": "A two-week roundup of the Russia-Ukraine war: Ukraine's 1st and 3rd Corps take command of the Sloviansk-Kramatorsk defense, Russia launches a major ballistic missile strike on Kyiv, and Ukrainian forces hit a record 21 Russian oil refineries in August. Plus new weapons debuts, a Banderol missile strike on Pechenihy, an…",
+      "url": "https://www.kyivpost.com/opinion/83659",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-03T11:21:18Z",
+      "image": "https://static.kyivpost.com/storage/2026/09/03/a8d0c4f8fb6b4adfcbcb3743230a6485.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-28d4d89456ff",
+      "title": "Putin's 'global battle' against US, NATO: Russia 'testing' NATO since 2022 Ukraine invasion began",
+      "description": "François Picard is pleased to welcome Anna Borshchevskaya, Senior Fellow at The Washington Institute. She interprets Russia’s reported missile support for Iran not as an isolated arms transaction, but as part of a broader geopolitical strategy in which Moscow treats Ukraine, Iran, NATO, and the United States as interco…",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260903-putin-s-global-battle-against-us-nato-russia-testing-nato-since-2022-ukraine-invasion-began",
+      "source": "France24",
+      "publishedAt": "2026-09-03T10:26:42Z",
+      "image": "https://s.france24.com/media/display/c224c548-a71b-11f1-bc68-005056bf30b7/w:1024/p:16x9/EN-20260902-180342-181121-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ca598f051fb7",
+      "title": "Gulf insecurity fuels US energy dominance",
+      "description": "The no-war, no-peace status quo with Iran increasingly benefits the US, its energy sector and its ally Israel.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T09:16:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9924719be91-1788421233.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "npr-f533d4f9f0b6",
       "title": "U.S.-Israel relations are on the rocks ahead of elections",
@@ -20,22 +113,6 @@
       "tags": []
     },
     {
-      "id": "al -e6c43e2836c7",
-      "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
-      "description": "Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.",
-      "url": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T07:41:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-02T184430Z_116037912_RC23BNASDV7N_RTRMADP_3_IRAN-CRISIS-USA-STRIKES-SIRIK-1788419182.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-15e759dd7556",
       "title": "In Cina emissioni di CO2 in calo dell'1% durante la guerra in Iran",
       "description": "Crollano i consumi di petrolio mentre aumentano i veicoli elettrici",
@@ -47,36 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-8b8f15a5d138",
-      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
-      "description": "At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.",
-      "url": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-03T00:14:20Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c9c/live/a9194eb0-a618-11f1-a291-b542ee92de7c.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-f0c12a45dc25",
-      "title": "Zelensky warns airlines Russian skies not safe due to Ukraine drones",
-      "description": "Ukrainian President Volodymyr Zelensky warned Tuesday that his country's drones would make Russia's airspace \"completely unsafe\" for the duration of the war, drawing accusations of \"state terrorism\" from Russian leader Vladimir Putin. Speaking with FRANCE 24's Mark Owen, Former British Military Intelligence Officer Phi…",
-      "url": "https://www.france24.com/en/zelensky-warns-airlines-russian-skies-not-safe-due-to-ukraine-drones",
-      "source": "France24",
-      "publishedAt": "2026-09-02T19:32:55Z",
-      "image": "https://s.france24.com/media/display/28e9c598-7e7d-11f1-9486-005056bf30b7/w:1024/p:16x9/2026-07-12T130639Z-1873803642-RC2LZLA3LE8L-RTRMADP-3-UKRAINE-CRISIS-DRONES-GERMANY.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,37 +158,6 @@
       "tags": []
     },
     {
-      "id": "kyi-2f70dcb3e5f7",
-      "title": "Ukrainian War Documentary ‘Brace For Oblivion’ Wins in Ireland, Comes to Kyiv",
-      "description": "Filmed over nearly four years on Ukraine’s front lines, Xackery Irving’s documentary “Brace For Oblivion” follows seven civilians who became soldiers after Russia’s full-scale invasion. After winning an international award in Galway, the film returns to Ukraine for a special screening in Kyiv.",
-      "url": "https://www.kyivpost.com/post/83560",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-02T09:30:43Z",
-      "image": "https://static.kyivpost.com/storage/2026/09/02/73f0dfaee58f8e00fbf06e3bf7d9f979.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-52c1fe13f027",
-      "title": "Aviation Tactics Recalling 'World War I' Help Ukraine Bring Down Russian Drones",
-      "description": "Armed only with an assault rifle in an open cockpit, a Ukrainian gunner is part of an aerial unit that is shooting down Russian drones from Soviet-era Yak-52 propeller planes. Three low-cost planes donated by a Dutch NGO are patrolling the Odesa region, downing multiple Iranian-designed Shahed drones in a single flight…",
-      "url": "https://www.rferl.org/a/ukraine-military-soviet-aircraft-aerial-drones/33845026.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-02T06:32:17Z",
-      "image": "https://gdb.rferl.org/7ca66512-0ec2-43ba-1fd5-08decad58b60_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "the-750589f89281",
       "title": "UK must end all trade with Israel, says co-founder of BDS movement",
       "description": "Exclusive: sanctions against ministers and settler groups are ‘smoke and mirrors cop-out’ says Omar BarghoutiBritain’s legal and ethical obligation to stop a genocide in Gaza requires it to take bigger steps than halting trade with illegal Israeli settlements or imposing further sanctions, Omar Barghouti, the co-founde…",
@@ -164,21 +180,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-09-01T21:19:10Z",
       "image": "https://images.csmonitor.com/csm/2026/09/0901_OIRAN_fish_mkt.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-b4db7b0d34f9",
-      "title": "Iran fuel crisis deepens amid war and sanctions",
-      "description": "Long lines at fuel stations are spreading across Iran as war damage, import constraints and new US sanctions squeeze supplies.",
-      "url": "https://www.dw.com/en/iran-fuel-crisis-deepens-amid-war-and-sanctions/a-78636429?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-01T14:29:00Z",
-      "image": "https://static.dw.com/image/78347832_6.jpg",
       "categories": [
         "conflict"
       ],

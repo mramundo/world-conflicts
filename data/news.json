@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T08:35:06Z",
+  "updated": "2026-09-04T13:14:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,69 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-04T08:35:00Z",
+      "publishedAt": "2026-09-04T13:14:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-cc192acca553",
+      "title": "Israeli minister unveils plan to remove Gaza's population over seven years",
+      "description": "Israel's far-right National Security Minister Itamar Ben Gvir set out a plan on Thursday to remove Palestinians from the Gaza Strip and send them abroad. Speaking in the run-up to close-fought Israeli elections, he said the plan aimed to see the departure of 250,000 Palestinians from Gaza in the first year, followed by…",
+      "url": "https://www.france24.com/en/video/20260904-israeli-minister-unveils-plan-to-remove-gaza-s-population-over-seven-years",
+      "source": "France24",
+      "publishedAt": "2026-09-04T12:43:50Z",
+      "image": "https://s.france24.com/media/display/a31d227e-a84e-11f1-ac72-005056a97e36/w:1024/p:16x9/EN-20260904-110650-110849-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-89282106da8b",
+      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "description": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
+      "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-04T12:39:05Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf50/live/afcc7190-a84f-11f1-a291-b542ee92de7c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-391b0edc67e2",
+      "title": "Germany's far-right AfD party is poised for power in a state election",
+      "description": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+      "source": "NPR World",
+      "publishedAt": "2026-09-04T10:00:00Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6836x4560+0+0/resize/6836x4560!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2F6e%2F17faf31e4c8fbf8be9941afc5607%2Fgettyimages-2292035279.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -6dd1196f1f74",
+      "title": "Israel takes its war on Palestine into the AI age",
+      "description": "The Hanover affair exposes a new front in Israel’s long-running effort to shape how Palestinians are understood.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-04T09:42:02Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9a925008e1-1788514896.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
@@ -51,22 +112,6 @@
       "tags": []
     },
     {
-      "id": "al -7ea223d66def",
-      "title": "Are Trump’s AI videos just memes or psychological warfare?",
-      "description": "Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T23:36:20Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788496480.png?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "cs -38ba43fdc657",
       "title": "How growing Israeli-Turkish tensions led to a strike on a Syrian air base",
       "description": "Could the growing regional rivalry between Turkey and Israel lead to a military clash? A recent Israeli strike on an air base in northern Syria illustrated the two countries’ conflicting strategic interests, but analysts say neither wants war.",
@@ -94,37 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-3c4f92910242",
-      "title": "Why Ukraine’s drained Kakhovka Dam is strategic for Russia",
-      "description": "Small groups of Russian soldiers have been inching forward through the vast, drained Kakhovka reservoir since they blew up the dam in June 2023. Russian forces are infiltrating this “no man’s land” for reconnaissance purposes rather than for a future military offensive, said a military expert.",
-      "url": "https://www.france24.com/en/europe/20260903-why-ukraine-drained-kakhovka-dam-strategic-russia",
-      "source": "France24",
-      "publishedAt": "2026-09-03T15:34:03Z",
-      "image": "https://s.france24.com/media/display/7b33f7b0-a6f0-11f1-bf9f-005056a90284/w:1024/p:16x9/AP23190746580401.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-4e4cfa70881f",
-      "title": "Palestinian teens killed during settler attack on West Bank village",
-      "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-03T15:05:57Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -188,21 +202,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-f533d4f9f0b6",
-      "title": "U.S.-Israel relations are on the rocks ahead of elections",
-      "description": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
-      "source": "NPR World",
-      "publishedAt": "2026-09-03T08:06:18Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5950045",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {

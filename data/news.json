@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T20:26:38Z",
+  "updated": "2026-09-04T22:50:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-04T20:26:33Z",
+      "publishedAt": "2026-09-04T22:50:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,37 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -5e394ae4835d",
+      "title": "Will Europe pay the US to provide military aid to Ukraine?",
+      "description": "US President Donald Trump laments past financial support for Ukraine&#039;s war effort and has vowed to claw the money back.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-04T20:52:55Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788551271.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -587423e48c80",
+      "title": "Trump says he is sending envoys to Moscow and Kyiv with 'a proposal to end the war'",
+      "description": "'Two great negotiators,' the US president told reporters when asked about Jared Kushner and Steve Witkoff's weekend trip. 'We have an idea for peace.' Volodymyr Zelensky meanwhile proposed a reciprocal ceasefire with Russia 'for the duration needed to conduct these talks,' the Ukrainian president said in his evening ad…",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/04/trump-sends-envoys-to-moscow-and-kyiv-with-a-proposal-to-end-the-war_6757178_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-04T20:26:23Z",
+      "image": "https://img.lemde.fr/2026/09/04/201/0/8256/4128/644/322/60/0/2f83ed1_ftp-1-ao5gl1lyusqw-5997449-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -67,21 +98,6 @@
       "tags": []
     },
     {
-      "id": "al -8e0d573cdace",
-      "title": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
-      "description": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
-      "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-04T15:31:54Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/02/AFP__20250223__36YG63E__v1__Preview__PalestinianIsraelConflict-1740406413.jpg?resize=1200%2C630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-0c715d087d8f",
       "title": "Justice Ministry Designates Novaya Gazeta as ‘Foreign Agent’",
       "description": "Authorities claimed Novaya Gazeta opposed the invasion of Ukraine and spread “false information” about elections.",
@@ -123,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -a44fce7ab80d",
-      "title": "Kyiv shootout between intelligence service members exposes rift within Ukraine's security apparatus",
-      "description": "An armed clash broke out between agents from Ukraine's Security Service and a special unit of military intelligence on Wednesday, September 2, in the heart of the capital. The incident forced President Volodymyr Zelensky to order an investigation.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/04/in-kyiv-a-shootout-between-intelligence-service-members-exposes-rifts-within-ukraine-s-security_6757148_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-04T05:00:08Z",
-      "image": "https://img.lemde.fr/2026/09/03/81/0/3810/1905/644/322/60/0/6922eeb_upload-1-lahwcdkrwwlk-gettyimages-2291839309.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

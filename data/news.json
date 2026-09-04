@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T03:28:15Z",
+  "updated": "2026-09-04T08:35:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-04T03:28:10Z",
+      "publishedAt": "2026-09-04T08:35:00Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -a44fce7ab80d",
+      "title": "Kyiv shootout between intelligence service members exposes rift within Ukraine's security apparatus",
+      "description": "An armed clash broke out between agents from Ukraine's Security Service and a special unit of military intelligence on Wednesday, September 2, in the heart of the capital. The incident forced President Volodymyr Zelensky to order an investigation.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/04/in-kyiv-a-shootout-between-intelligence-service-members-exposes-rifts-within-ukraine-s-security_6757148_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-04T05:00:08Z",
+      "image": "https://img.lemde.fr/2026/09/03/81/0/3810/1905/644/322/60/0/6922eeb_upload-1-lahwcdkrwwlk-gettyimages-2291839309.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -36,18 +51,19 @@
       "tags": []
     },
     {
-      "id": "le -bbeefde7af27",
-      "title": "Lebanon receives first detainee of five to be freed by Israel",
-      "description": "Lebanon said its army had so far received a man returned by the International Committee of the Red Cross (ICRC), the first since Beirut called in August talks for the release of an initial group seized since the start of a 2024 Israel-Hezbollah war.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/03/lebanon-receives-first-detainee-of-five-to-be-freed-by-israel_6757135_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-03T21:26:57Z",
-      "image": "https://img.lemde.fr/2026/09/03/124/0/5091/2545/644/322/60/0/2053f0c_ftp-1-b93jkfhqqosm-9f1f7beb6161469d8fbe0c1245727835-0-e68bb7c8fca14e809cb15ddca8b45ef8.jpg",
+      "id": "al -7ea223d66def",
+      "title": "Are Trump’s AI videos just memes or psychological warfare?",
+      "description": "Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-03T23:36:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788496480.png?resize=1920%2C1080&amp;quality=80",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -64,21 +80,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -6db36aeb2548",
-      "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
-      "description": "Israeli drone strike and gunfire kills and injures people across the Gaza Strip despite &#039;ceasefire&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-03T20:31:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2292752802-1788465848.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -114,7 +115,7 @@
     },
     {
       "id": "bbc-4e4cfa70881f",
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "title": "Palestinian teens killed during settler attack on West Bank village",
       "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
       "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",

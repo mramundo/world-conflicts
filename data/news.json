@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T17:25:27Z",
+  "updated": "2026-09-04T20:26:38Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-04T17:25:22Z",
+      "publishedAt": "2026-09-04T20:26:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,48 @@
       "tags": []
     },
     {
-      "id": "ans-00ef6198da0c",
-      "title": "Media, 'due morti in un attacco di droni israeliani nel sud del Libano'",
-      "description": "Il raid è avvenuto nonostante il cessate il fuoco fra i due Paesi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/04/media-due-morti-in-un-attacco-di-droni-israeliani-nel-sud-del-libano_85fdbe4c-de35-406d-89ee-f41efa7d2850.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-04T17:06:44Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/15/619acc53878f5ea0ac7b30648cd538fb.jpg",
+      "id": "deu-9667b6d450c1",
+      "title": "Yemen: Fighting intensifies amid Houthi push in the west",
+      "description": "Houthi forces are trying to secure high ground and solidify their control of the entry to the Red Sea in the southwest. The Iran-backed militia abandoned a shaky truce with the Saudi-backed government-in-exile in July.",
+      "url": "https://www.dw.com/en/yemen-fighting-intensifies-amid-houthi-push-in-the-west/a-79039588?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-04T19:15:00Z",
+      "image": "https://static.dw.com/image/79039619_6.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-cf747f3913de",
+      "title": "Trump, 'parlo con Putin, non intende attaccare i territori della Nato'",
+      "description": "'Witkoff e Kushner hanno proposta per la fine guerra'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/04/trump-parlo-con-putin-non-intende-attaccare-i-territori-della-nato_8b0fe439-307c-4c17-b3f7-1c8afa33a0ff.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-04T18:58:38Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/230b5cbbd2d80a1c7e0c648acff9c720.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-3a388e7fa1cb",
+      "title": "Germany’s ‘Most Dangerous Man’: PR gift for the AfD?",
+      "description": "The Ukrainian capital was hit by Russia’s most intense wave of air attacks on Kyiv, reportedly in four years, with Reuters describing air raid sirens, drones, cruise and ballistic missiles exhausting Ukraine’s defence system, with 12 people killed and the Ukrainian foreign minister making a direct appeal to Western all…",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260904-germany-s-most-dangerous-man-pr-gift-for-the-afd",
+      "source": "France24",
+      "publishedAt": "2026-09-04T18:31:15Z",
+      "image": "https://s.france24.com/media/display/33774712-a7c0-11f1-929c-005056bfb2b6/w:1024/p:16x9/2026-08-31T230341Z-762856586-RC2V9NAQ6F54-RTRMADP-3-GERMANY-ELECTION-SAXONY-ANHALT-AFD-CANDIDATE.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -63,22 +94,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-9d21760ef629",
-      "title": "What does acquittal in the Daphne Caruana Galizia case mean for journalists?",
-      "description": "This week, FRANCE 24's media show Scoop looks at the murder of anti-corruption journalist Daphne Caruana Galizia. Press freedom groups are furious after Maltese businessman Yorgen Fenech was acquitted of involvement. Caruana Galizia was an outspoken critic of the government and described as a \"one-woman WikiLeaks\". She…",
-      "url": "https://www.france24.com/en/tv-shows/scoop/20260904-what-does-acquittal-in-the-daphne-caruana-galizia-case-mean-for-journalists",
-      "source": "France24",
-      "publishedAt": "2026-09-04T13:07:32Z",
-      "image": "https://s.france24.com/media/display/949843aa-a85d-11f1-87e4-005056bfb2b6/w:1024/p:16x9/capture-10484124756a9abbd9d12597-89660999.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -140,21 +155,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-a725ee5305ab",
-      "title": "Trump's Iran strategy: Could this become a forever war?",
-      "description": "The US has launched fresh attacks on military targets in Iran. It wants to prevent Tehran rebuilding its destroyed capabilities, but risks triggering a sustained downward spiral of reconstruction followed by new attacks.",
-      "url": "https://www.dw.com/en/trump-s-iran-strategy-could-this-become-a-forever-war/a-78875030?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-03T17:46:00Z",
-      "image": "https://static.dw.com/image/78567044_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

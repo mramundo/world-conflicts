@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T13:14:19Z",
+  "updated": "2026-09-04T17:25:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-04T13:14:14Z",
+      "publishedAt": "2026-09-04T17:25:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,18 +21,64 @@
       "tags": []
     },
     {
-      "id": "fra-cc192acca553",
-      "title": "Israeli minister unveils plan to remove Gaza's population over seven years",
-      "description": "Israel's far-right National Security Minister Itamar Ben Gvir set out a plan on Thursday to remove Palestinians from the Gaza Strip and send them abroad. Speaking in the run-up to close-fought Israeli elections, he said the plan aimed to see the departure of 250,000 Palestinians from Gaza in the first year, followed by…",
-      "url": "https://www.france24.com/en/video/20260904-israeli-minister-unveils-plan-to-remove-gaza-s-population-over-seven-years",
-      "source": "France24",
-      "publishedAt": "2026-09-04T12:43:50Z",
-      "image": "https://s.france24.com/media/display/a31d227e-a84e-11f1-ac72-005056a97e36/w:1024/p:16x9/EN-20260904-110650-110849-CS.jpg",
+      "id": "ans-00ef6198da0c",
+      "title": "Media, 'due morti in un attacco di droni israeliani nel sud del Libano'",
+      "description": "Il raid è avvenuto nonostante il cessate il fuoco fra i due Paesi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/04/media-due-morti-in-un-attacco-di-droni-israeliani-nel-sud-del-libano_85fdbe4c-de35-406d-89ee-f41efa7d2850.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-04T17:06:44Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/15/619acc53878f5ea0ac7b30648cd538fb.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8e0d573cdace",
+      "title": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
+      "description": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
+      "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-04T15:31:54Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/02/AFP__20250223__36YG63E__v1__Preview__PalestinianIsraelConflict-1740406413.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-0c715d087d8f",
+      "title": "Justice Ministry Designates Novaya Gazeta as ‘Foreign Agent’",
+      "description": "Authorities claimed Novaya Gazeta opposed the invasion of Ukraine and spread “false information” about elections.",
+      "url": "https://www.themoscowtimes.com/2026/09/04/justice-ministry-designates-novaya-gazeta-as-foreign-agent-a93641",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-04T14:56:41Z",
+      "image": "https://static.themoscowtimes.com/image/og/70/93641__703c7901f2447d902eee0d8ef40d0087.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-9d21760ef629",
+      "title": "What does acquittal in the Daphne Caruana Galizia case mean for journalists?",
+      "description": "This week, FRANCE 24's media show Scoop looks at the murder of anti-corruption journalist Daphne Caruana Galizia. Press freedom groups are furious after Maltese businessman Yorgen Fenech was acquitted of involvement. Caruana Galizia was an outspoken critic of the government and described as a \"one-woman WikiLeaks\". She…",
+      "url": "https://www.france24.com/en/tv-shows/scoop/20260904-what-does-acquittal-in-the-daphne-caruana-galizia-case-mean-for-journalists",
+      "source": "France24",
+      "publishedAt": "2026-09-04T13:07:32Z",
+      "image": "https://s.france24.com/media/display/949843aa-a85d-11f1-87e4-005056bfb2b6/w:1024/p:16x9/capture-10484124756a9abbd9d12597-89660999.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -66,22 +112,6 @@
       "tags": []
     },
     {
-      "id": "al -6dd1196f1f74",
-      "title": "Israel takes its war on Palestine into the AI age",
-      "description": "The Hanover affair exposes a new front in Israel’s long-running effort to shape how Palestinians are understood.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-04T09:42:02Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9a925008e1-1788514896.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "le -a44fce7ab80d",
       "title": "Kyiv shootout between intelligence service members exposes rift within Ukraine's security apparatus",
       "description": "An armed clash broke out between agents from Ukraine's Security Service and a special unit of military intelligence on Wednesday, September 2, in the heart of the capital. The incident forced President Volodymyr Zelensky to order an investigation.",
@@ -93,21 +123,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-7f408f49d3ac",
-      "title": "Milei annuncia una base navale e sanzioni alle aziende petrolifere nelle Malvinas",
-      "description": "Il presidente: 'Sono argentine per storia e diritto, non c'è discussione'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/milei-annuncia-una-base-navale-e-sanzioni-alle-aziende-petrolifere-nelle_f62b2ed2-da3b-482b-8ffc-a9c010877e84.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-04T01:23:31Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/55a8d0a4d730fa40f65c4a214d8ad9a8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,22 +216,6 @@
         "analysis"
       ],
       "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-14eeaa446842",
-      "title": "Why the Middle East Oil Shock Failed to Save Russia’s Budget",
-      "description": "Six months into the U.S.-Iran war, Russia’s oil windfall looks surprisingly meager despite initial predictions of a revenue boom.",
-      "url": "https://www.themoscowtimes.com/2026/09/01/why-the-middle-east-oil-shock-failed-to-save-russias-budget-a93552",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-01T14:03:08Z",
-      "image": "https://static.themoscowtimes.com/image/og/82/93552__82cf46948ca0f531a256e38473c9282f.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     }

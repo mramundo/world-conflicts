@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T10:08:41Z",
+  "updated": "2026-09-05T13:43:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,74 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-05T10:08:37Z",
+      "publishedAt": "2026-09-05T13:43:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -fa0aeb30aa94",
+      "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
+      "description": "The attack on a crowded road comes amid fierce clashes across Taiz and Hodeidah and rapid civilian displacement.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-05T12:54:15Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260905__C7EW4UG__v1__HighRes__YemenIranUsIsraelWarHouthis-1788609687.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-bdb41c8dbbd3",
+      "title": "Putin ordina tregua su Kiev da mezzanotte per tre giorni",
+      "description": "Lo ha detto il suo portavoce Dmitry Peskov",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/putin-ordina-tregua-su-kiev-da-mezzanotte-per-tre-giorni_cfd64d13-bfb8-4b9e-be64-b06d5191f174.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-05T12:15:50Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/2e7fb9ff07e85e4af80b578fcc6f915b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-272230f5bafa",
+      "title": "U.S. Envoys Witkoff, Kushner Arrive in Moscow for Peace Talks",
+      "description": "U.S. President Donald Trump suggested on Friday that the U.S. had a fresh concrete proposal aimed at ending the war.",
+      "url": "https://www.themoscowtimes.com/2026/09/05/witkoff-kushner-arrive-in-moscow-sources-say-a93643",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-05T12:10:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/27/93643__276c4b6501a0c046c6d1c8a05ea0f355.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-40129f5e548c",
+      "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
+      "description": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
+      "source": "NPR World",
+      "publishedAt": "2026-09-05T11:43:20Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5955705",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     },
@@ -36,17 +97,17 @@
       "tags": []
     },
     {
-      "id": "al -56df58b61153",
-      "title": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
-      "description": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-05T03:05:28Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/ap_69955e3f98750-1771396671.jpg?resize=1920%2C1440",
+      "id": "fra-800fdf44556d",
+      "title": "Putin orders 72-hour halt in strikes on Kyiv as Trump envoys arrive in Moscow",
+      "description": "Russian President Vladimir Putin on Saturday ordered a 72-hour pause in strikes on Kyiv as US envoys Steve Witkoff and Jared Kushner arrived in Moscow. The visit is part of renewed efforts to end the war in Ukraine, and the two men are set to travel to Kyiv on Sunday.",
+      "url": "https://www.france24.com/en/europe/20260905-trump-sends-envoys-to-moscow-and-kyiv-with-new-plan-to-end-the-war",
+      "source": "France24",
+      "publishedAt": "2026-09-05T02:37:17Z",
+      "image": "https://s.france24.com/media/display/4797c440-a92a-11f1-ab84-005056a90284/w:1024/p:16x9/2026-09-05T105236Z-1980803206-RC2YCNAEDTUD-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-USA-1.png",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -68,16 +129,16 @@
     },
     {
       "id": "le -587423e48c80",
-      "title": "Trump sends envoys to Moscow and Kyiv with 'proposal to end the war'",
-      "description": "'Two great negotiators,' the US president told reporters when asked about Jared Kushner and Steve Witkoff's weekend trip. 'We have an idea for peace.' Volodymyr Zelensky meanwhile proposed a reciprocal ceasefire with Russia 'for the duration needed to conduct these talks.'",
+      "title": "US envoys Witkoff and Kushner arrive in Moscow for peace talks with 'proposal to end war' in Ukraine",
+      "description": "After talks in Moscow the pair, sent by US President Donald Trump, are expected to travel on to Kyiv. Russia's Vladimir Putin has ordered a 72-hour pause in strikes on Kyiv, Kremlin spokesperson Dmitry Peskov said on Saturday.",
       "url": "https://www.lemonde.fr/en/international/article/2026/09/04/trump-sends-envoys-to-moscow-and-kyiv-with-a-proposal-to-end-the-war_6757178_4.html",
       "source": "Le Monde (EN)",
       "publishedAt": "2026-09-04T20:26:23Z",
-      "image": "https://img.lemde.fr/2026/09/04/201/0/8256/4128/644/322/60/0/2f83ed1_ftp-1-ao5gl1lyusqw-5997449-01-06.jpg",
+      "image": "https://img.lemde.fr/2026/09/05/89/0/2832/1416/644/322/60/0/f03e456_ftp-1-bezmeys1la1e-2026-09-05t103053z-1614294668-rc2ycnac7a2d-rtrmadp-3-ukraine-crisis-russia-usa.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,52 +158,6 @@
       "tags": []
     },
     {
-      "id": "ans-cf747f3913de",
-      "title": "Trump, 'parlo con Putin, non intende attaccare i territori della Nato'",
-      "description": "'Witkoff e Kushner hanno proposta per la fine guerra'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/04/trump-parlo-con-putin-non-intende-attaccare-i-territori-della-nato_8b0fe439-307c-4c17-b3f7-1c8afa33a0ff.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-04T18:58:38Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/230b5cbbd2d80a1c7e0c648acff9c720.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-3a388e7fa1cb",
-      "title": "Germany’s ‘Most Dangerous Man’: PR gift for the AfD?",
-      "description": "The Ukrainian capital was hit by Russia’s most intense wave of air attacks on Kyiv, reportedly in four years, with Reuters describing air raid sirens, drones, cruise and ballistic missiles exhausting Ukraine’s defence system, with 12 people killed and the Ukrainian foreign minister making a direct appeal to Western all…",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260904-germany-s-most-dangerous-man-pr-gift-for-the-afd",
-      "source": "France24",
-      "publishedAt": "2026-09-04T18:31:15Z",
-      "image": "https://s.france24.com/media/display/33774712-a7c0-11f1-929c-005056bfb2b6/w:1024/p:16x9/2026-08-31T230341Z-762856586-RC2V9NAQ6F54-RTRMADP-3-GERMANY-ELECTION-SAXONY-ANHALT-AFD-CANDIDATE.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-0c715d087d8f",
-      "title": "Justice Ministry Designates Novaya Gazeta as ‘Foreign Agent’",
-      "description": "Authorities claimed Novaya Gazeta opposed the invasion of Ukraine and spread “false information” about elections.",
-      "url": "https://www.themoscowtimes.com/2026/09/04/justice-ministry-designates-novaya-gazeta-as-foreign-agent-a93641",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-04T14:56:41Z",
-      "image": "https://static.themoscowtimes.com/image/og/70/93641__703c7901f2447d902eee0d8ef40d0087.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-89282106da8b",
       "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
       "description": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
@@ -154,21 +169,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-391b0edc67e2",
-      "title": "Germany's far-right AfD party is poised for power in a state election",
-      "description": "Germany's AfD's TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II.",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-      "source": "NPR World",
-      "publishedAt": "2026-09-04T10:00:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6836x4560+0+0/resize/6836x4560!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2F6e%2F17faf31e4c8fbf8be9941afc5607%2Fgettyimages-2292035279.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

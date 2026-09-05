@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T05:21:01Z",
+  "updated": "2026-09-05T10:08:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-05T05:20:58Z",
+      "publishedAt": "2026-09-05T10:08:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-e7c59025624f",
+      "title": "Budanov Says Putin Ignored Ukraine’s Ceasefire Proposal",
+      "description": "Kyrylo Budanov, head of the Office of the President of Ukraine, stated that Russia failed to respond to a proposed ceasefire coinciding with the visit of US envoys Steve Witkoff and Jared Kushner. Budanov said the proposal for a temporary halt to airstrikes and frontline combat was communicated directly to Russian Pres…",
+      "url": "https://www.kyivpost.com/post/83837",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-05T09:58:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/01/17/f0559f4469c4c65b25526405fe139fb6.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -53,8 +68,8 @@
     },
     {
       "id": "le -587423e48c80",
-      "title": "Trump says he is sending envoys to Moscow and Kyiv with 'a proposal to end the war'",
-      "description": "'Two great negotiators,' the US president told reporters when asked about Jared Kushner and Steve Witkoff's weekend trip. 'We have an idea for peace.' Volodymyr Zelensky meanwhile proposed a reciprocal ceasefire with Russia 'for the duration needed to conduct these talks,' the Ukrainian president said in his evening ad…",
+      "title": "Trump sends envoys to Moscow and Kyiv with 'proposal to end the war'",
+      "description": "'Two great negotiators,' the US president told reporters when asked about Jared Kushner and Steve Witkoff's weekend trip. 'We have an idea for peace.' Volodymyr Zelensky meanwhile proposed a reciprocal ceasefire with Russia 'for the duration needed to conduct these talks.'",
       "url": "https://www.lemonde.fr/en/international/article/2026/09/04/trump-sends-envoys-to-moscow-and-kyiv-with-a-proposal-to-end-the-war_6757178_4.html",
       "source": "Le Monde (EN)",
       "publishedAt": "2026-09-04T20:26:23Z",
@@ -201,22 +216,6 @@
         "analysis"
       ],
       "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-89f6cf0c8440",
-      "title": "Drone Wall Rises: Ukraine Bets on Its Best Corps",
-      "description": "A two-week roundup of the Russia-Ukraine war: Ukraine's 1st and 3rd Corps take command of the Sloviansk-Kramatorsk defense, Russia launches a major ballistic missile strike on Kyiv, and Ukrainian forces hit a record 21 Russian oil refineries in August. Plus new weapons debuts, a Banderol missile strike on Pechenihy, an…",
-      "url": "https://www.kyivpost.com/opinion/83659",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-03T11:21:18Z",
-      "image": "https://static.kyivpost.com/storage/2026/09/03/a8d0c4f8fb6b4adfcbcb3743230a6485.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": true,
       "tags": []
     }

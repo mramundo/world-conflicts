@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T13:43:37Z",
+  "updated": "2026-09-05T16:36:34Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-05T13:43:34Z",
+      "publishedAt": "2026-09-05T16:36:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-93c7abccb1c7",
+      "title": "War in Ukraine: Putin, Zelensky order pause in strikes",
+      "description": "Russian President Vladimir Putin on Saturday ordered a 72-hour pause in strikes on Kyiv as US envoys Steve Witkoff and Jared Kushner arrived in Moscow.",
+      "url": "https://www.france24.com/en/video/20260905-war-in-ukraine-putin-zelensky-order-pause-in-strikes",
+      "source": "France24",
+      "publishedAt": "2026-09-05T16:15:40Z",
+      "image": "https://s.france24.com/media/display/5581239e-a943-11f1-a854-005056a97e36/w:1024/p:16x9/EN-20260905-170144-170331-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -76734d591c55",
+      "title": "Yemen's deadliest fighting in years raises fears of return to all-out war",
+      "description": "Nearly 180 fighters were killed in three days in the southwest of the country, where Houthi forces launched an offensive toward the strategic Bab al-Mandab Strait. Four years after the 2022 truce, this outbreak of violence revives the specter of the conflict that has ravaged Yemen since 2014.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/05/yemen-s-deadliest-fighting-in-years-raises-fears-of-return-to-all-out-war_6757196_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-05T14:27:52Z",
+      "image": "https://img.lemde.fr/2026/08/25/519/0/6235/3117/644/322/60/0/8c6c1b5_ftp-1-c6wwdxuro11v-5d5d09b0da7e4a6a84e73fbb36309d69-0-5bc5d4b3853b4d9c97ecdefbf2542170.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -97,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "fra-800fdf44556d",
-      "title": "Putin orders 72-hour halt in strikes on Kyiv as Trump envoys arrive in Moscow",
-      "description": "Russian President Vladimir Putin on Saturday ordered a 72-hour pause in strikes on Kyiv as US envoys Steve Witkoff and Jared Kushner arrived in Moscow. The visit is part of renewed efforts to end the war in Ukraine, and the two men are set to travel to Kyiv on Sunday.",
-      "url": "https://www.france24.com/en/europe/20260905-trump-sends-envoys-to-moscow-and-kyiv-with-new-plan-to-end-the-war",
-      "source": "France24",
-      "publishedAt": "2026-09-05T02:37:17Z",
-      "image": "https://s.france24.com/media/display/4797c440-a92a-11f1-ab84-005056a90284/w:1024/p:16x9/2026-09-05T105236Z-1980803206-RC2YCNAEDTUD-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-USA-1.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-da99e973aa2c",
       "title": "Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers",
       "description": "The Israeli army had helped plan the delivery of food aid on 1 April 2024, but things went wrong from the beginning and ended in seven deaths• Exclusive: why seven international aid workers were killed in Israeli airstrikeOn the evening of 1 April 2024, a team of aid workers from World Central Kitchen (WCK) stood on Ga…",
@@ -124,21 +139,6 @@
         "humanitarian"
       ],
       "relevanceScore": 15,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -587423e48c80",
-      "title": "US envoys Witkoff and Kushner arrive in Moscow for peace talks with 'proposal to end war' in Ukraine",
-      "description": "After talks in Moscow the pair, sent by US President Donald Trump, are expected to travel on to Kyiv. Russia's Vladimir Putin has ordered a 72-hour pause in strikes on Kyiv, Kremlin spokesperson Dmitry Peskov said on Saturday.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/04/trump-sends-envoys-to-moscow-and-kyiv-with-a-proposal-to-end-the-war_6757178_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-04T20:26:23Z",
-      "image": "https://img.lemde.fr/2026/09/05/89/0/2832/1416/644/322/60/0/f03e456_ftp-1-bezmeys1la1e-2026-09-05t103053z-1614294668-rc2ycnac7a2d-rtrmadp-3-ukraine-crisis-russia-usa.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

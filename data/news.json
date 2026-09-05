@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T18:51:12Z",
+  "updated": "2026-09-05T20:58:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-05T18:51:07Z",
+      "publishedAt": "2026-09-05T20:58:38Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,21 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -453189b55f33",
+      "title": "Colombian government reports three killed in rebel attack on military post",
+      "description": "Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-05T20:03:29Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9c632cd826-1788633900.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -43,21 +58,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-09-05T14:27:52Z",
       "image": "https://img.lemde.fr/2026/08/25/519/0/6235/3117/644/322/60/0/8c6c1b5_ftp-1-c6wwdxuro11v-5d5d09b0da7e4a6a84e73fbb36309d69-0-5bc5d4b3853b4d9c97ecdefbf2542170.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -fa0aeb30aa94",
-      "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
-      "description": "The attack on a crowded road comes amid fierce clashes across Taiz and Hodeidah and rapid civilian displacement.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-05T12:54:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260905__C7EW4UG__v1__HighRes__YemenIranUsIsraelWarHouthis-1788609687.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],

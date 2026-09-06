@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T16:54:51Z",
+  "updated": "2026-09-06T18:55:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-06T16:54:46Z",
+      "publishedAt": "2026-09-06T18:55:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,37 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -ab8bb4eb2a46",
+      "title": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
+      "description": "West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.",
+      "url": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-06T17:03:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-1.10.04-PM-1788689661.png?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -6ddb63fc21df",
+      "title": "Putin, war leader and election campaign chief, prepares Russia for military escalation",
+      "description": "For the first time since the invasion of Ukraine in February 2022, Russians will elect their MPs between September 18 and 20. Orchestrated by the Kremlin, this vote carries no real electoral stakes and serves above all as a tool to rally support for the war effort.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/06/putin-war-leader-and-election-campaign-chief-prepares-russia-for-military-escalation_6757224_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-06T17:00:07Z",
+      "image": "https://img.lemde.fr/2026/09/04/577/0/5528/2764/644/322/60/0/eb70a1d_ftp-1-9n3a42dlpldh-5997187-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,22 +63,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -09512844c890",
-      "title": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-      "description": "Steve Witkoff and Jared Kushner met Putin and headed to Kyiv as part of Trump&#039;s new efforts to broker agreement.",
-      "url": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-06T15:00:16Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-05T194829Z_2009750295_RC26DNA93FYO_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA-1788685089.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -142,21 +157,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -00e41f937f44",
-      "title": "Germany's Soviet past looms over high-stakes election in Saxony-Anhalt: 'I do not consider Russians to be enemies'",
-      "description": "Ahead of elections on Sunday, in which the far-right Alternative for Germany could win in this region of the former East Germany, the city of Stendal – where 10,000 Red Army soldiers were stationed during the Cold War – exemplifies the unique relationship between the former German Democratic Republic and Russia.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/05/in-germany-memories-of-the-soviet-legacy-are-at-the-heart-of-saxony-anhalt-s-state-election-i-do-not-consider-russians-to-be-enemies_6757193_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-05T10:59:06Z",
-      "image": "https://img.lemde.fr/2026/09/04/504/0/6016/3008/644/322/60/0/535f178_upload-1-bwhiaitiod40-gettyimages-1227031439.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {

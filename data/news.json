@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-06T21:08:16Z",
+  "updated": "2026-09-06T23:35:01Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "deu-4812261c11a7",
+      "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+      "description": "US envoys Steve Witkoff and Jared Kushner held talks with Ukrainian President Volodymyr Zelenskyy in Kyiv, seeking to revive efforts to end the war. But the latest diplomatic push seems to have produced no breakthrough.",
+      "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-06T22:22:00Z",
+      "image": "https://static.dw.com/image/79054934_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "bbc-4b22560d8220",
       "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
@@ -171,21 +187,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-9667b6d450c1",
-      "title": "Yemen: Fighting intensifies amid Houthi push in the west",
-      "description": "Houthi forces are trying to secure high ground and solidify their control of the entry to the Red Sea in the southwest. The Iran-backed militia abandoned a shaky truce with the Saudi-backed government-in-exile in July.",
-      "url": "https://www.dw.com/en/yemen-fighting-intensifies-amid-houthi-push-in-the-west/a-79039588?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-04T19:15:00Z",
-      "image": "https://static.dw.com/image/79039619_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

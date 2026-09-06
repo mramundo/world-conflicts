@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T05:37:34Z",
+  "updated": "2026-09-06T10:29:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-06T05:37:30Z",
+      "publishedAt": "2026-09-06T10:29:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,13 +21,44 @@
       "tags": []
     },
     {
+      "id": "al -e8065035dc74",
+      "title": "Israeli air attacks on Lebanon kill at least four",
+      "description": "Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.",
+      "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-06T09:15:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26249255679187-1788684489.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-1b073e3137f5",
+      "title": "US Sanctions Chief Joins Moscow Talks as Putin Cites War Goals",
+      "description": "A US delegation led by Steve Witkoff and Jared Kushner included Gene Lange, acting head of the US Treasury’s sanctions unit, signaling that sanctions policy was part of diplomatic talks in Moscow. While Lange met with Russian envoy Kirill Dmitriev rather than Vladimir Putin directly, a White House official confirmed NS…",
+      "url": "https://www.kyivpost.com/post/83862",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-06T07:00:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/09/06/63aafa68fca7978b2494fb5ec3bf4434.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "fra-99b2f3057056",
-      "title": "Live: Trump's envoys head to Ukraine after 'substantive' talks with Putin",
-      "description": "US President Donald Trump's business partner Steve Witkoff and son-in-law Jared Kushner discussed \"substantive plans\" for next steps to end the Ukraine war during their meeting with Russian President Vladimir Putin in Moscow, the White House said, before they headed to Kyiv on Sunday. Kremlin aide Yuri Ushakov said the…",
+      "title": "Live: Trump's envoys arrive in Kyiv after 'substantive' talks with Putin",
+      "description": "American envoys Steve Witkoff and Jared Kushner discussed \"substantive plans\" for next steps to end the war in Ukraine during their meeting with Russian President Vladimir Putin in Moscow, the White House said, before they headed to Kyiv on Sunday. Kremlin aide Yuri Ushakov said the three-hour talks had been \"highly us…",
       "url": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin",
       "source": "France24",
       "publishedAt": "2026-09-06T04:57:43Z",
-      "image": "https://s.france24.com/media/display/ad604e40-a9ad-11f1-9eeb-005056bfb2b6/w:1024/p:16x9/000-C7FN7NR.jpg",
+      "image": "https://s.france24.com/media/display/933fb51c-a9dc-11f1-b342-005056a90284/w:1024/p:16x9/2026-09-06T101623Z-1424650965-RC2MDNAISSXC-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS-ARRIVAL.jpg",
       "categories": [
         "conflict"
       ],
@@ -36,17 +67,18 @@
       "tags": []
     },
     {
-      "id": "al -453189b55f33",
-      "title": "Colombian government reports three killed in rebel attack on military post",
-      "description": "Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-05T20:03:29Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9c632cd826-1788633900.jpg?resize=1920%2C1440",
+      "id": "the-e471da62c27e",
+      "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
+      "description": "Serhii Beskrestnov says deadlock on frontline and increasing use of deep strikes is placing civilians and infrastructure at greater riskRussia and Ukraine are locked in an escalating war of long-range strikes with a growing risk to civilians in which neither side can entirely prevail, according to Volodymyr Zelenskyy’s…",
+      "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-06T04:00:55Z",
+      "image": "https://i.guim.co.uk/img/media/d84384d8f9344306300a8dc23b64230573d41a56/407_147_3356_2685/master/3356.jpg?width=140&quality=85&auto=format&fit=max&s=bd4699850a4480448b3713fcf07f0ccd",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 13,
       "isAnalysis": false,
       "tags": []
     },
@@ -56,13 +88,29 @@
       "description": "Nearly 180 fighters were killed in three days in the southwest of the country, where Houthi forces launched an offensive toward the strategic Bab al-Mandab Strait. Four years after the 2022 truce, this outbreak of violence revives the specter of the conflict that has ravaged Yemen since 2014.",
       "url": "https://www.lemonde.fr/en/international/article/2026/09/05/yemen-s-deadliest-fighting-in-years-raises-fears-of-return-to-all-out-war_6757196_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-05T14:27:52Z",
+      "publishedAt": "2026-09-05T14:27:48Z",
       "image": "https://img.lemde.fr/2026/08/25/519/0/6235/3117/644/322/60/0/8c6c1b5_ftp-1-c6wwdxuro11v-5d5d09b0da7e4a6a84e73fbb36309d69-0-5bc5d4b3853b4d9c97ecdefbf2542170.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-333592f41d30",
+      "title": "US Envoys Conclude Moscow Meeting With Putin As Kremlin Cites 'Difficult Situation'",
+      "description": "US special envoys Steve Witkoff and Jared Kushner have begun their meeting in Moscow with President Vladimir Putin as part of a renewed White House effort to end Russia's war against Ukraine, with the pair set to visit Kyiv afterward.",
+      "url": "https://www.rferl.org/a/witkoff-kushner-land-in-moscow-ukraine-peace-talks-kyiv-strikes/33847598.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-05T13:54:33Z",
+      "image": "https://gdb.rferl.org/81ee9eae-b3e6-4d2c-a2c4-bda7f805fc54_cx2_cy3_cw96_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -109,37 +157,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-e7c59025624f",
-      "title": "Budanov Says Putin Ignored Ukraine’s Ceasefire Proposal",
-      "description": "Kyrylo Budanov, head of the Office of the President of Ukraine, stated that Russia failed to respond to a proposed ceasefire coinciding with the visit of US envoys Steve Witkoff and Jared Kushner. Budanov said the proposal for a temporary halt to airstrikes and frontline combat was communicated directly to Russian Pres…",
-      "url": "https://www.kyivpost.com/post/83837",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-05T09:58:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/01/17/f0559f4469c4c65b25526405fe139fb6.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-da99e973aa2c",
-      "title": "Death on the road to Rafah: the night the IDF targeted World Central Kitchen aid workers",
-      "description": "The Israeli army had helped plan the delivery of food aid on 1 April 2024, but things went wrong from the beginning and ended in seven deaths• Exclusive: why seven international aid workers were killed in Israeli airstrikeOn the evening of 1 April 2024, a team of aid workers from World Central Kitchen (WCK) stood on Ga…",
-      "url": "https://www.theguardian.com/world/2026/sep/05/gaza-aid-workers-world-central-kitchen-idf-israel",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-05T00:00:21Z",
-      "image": "https://i.guim.co.uk/img/media/1a1e763a577b220d5526ca99a23cd8aaf1c1cda4/214_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=8a7a7948a25529bdcbceee5f4804ba5f",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 15,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -201,22 +218,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-dd76b1b8ca6f",
-      "title": "Why Was There A Shoot-Out In Kyiv Between Security and Intelligence Agents?",
-      "description": "An armed clash between Ukraine’s military intelligence and security service left three officers wounded in Kyiv. Both sides gave conflicting accounts, while President Zelenskyy called the incident “absolutely disgraceful.”",
-      "url": "https://www.rferl.org/a/a-shoot-out-in-kyiv-between-ukraine-s-intelligence-agencies/33846268.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-03T11:54:07Z",
-      "image": "https://gdb.rferl.org/523d5276-a53e-4dde-2044-08decad58b60_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     }
   ]

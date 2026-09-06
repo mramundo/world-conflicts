@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T10:29:44Z",
+  "updated": "2026-09-06T13:59:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-06T10:29:37Z",
+      "publishedAt": "2026-09-06T13:59:47Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-226bfda8af11",
+      "title": "Russia’s Lavrov Calls Accusations of Moscow’s Involvement in Leipzig Drone Incident ‘Start of Real War'",
+      "description": "The German government said last week that Russia was responsible for an attempted drone attack at Leipzig/Halle Airport.",
+      "url": "https://www.themoscowtimes.com/2026/09/06/russias-lavrov-calls-accusations-of-moscows-involvement-in-leipzig-drone-incident-start-of-real-war-a93646",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-06T11:31:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/18/93646__18c3e07351f6780e88d529ae967d0731.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -a21ca6ab9f1e",
+      "title": "Four killed by Israeli airstrikes in Lebanon, despite the ceasefire",
+      "description": "As negotiations between Lebanese and Israeli officials struggle to make progress, civilians in southern Lebanon are paying a heavy price for the ongoing clashes.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/06/four-killed-by-israeli-airstrikes-in-lebanon-despite-the-ceasefire_6757215_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-06T10:44:44Z",
+      "image": "https://img.lemde.fr/2026/09/06/604/0/7252/3626/644/322/60/0/bbdb14d_ftp-1-hj6oalqbdhde-5011218-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -58,7 +88,7 @@
       "url": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin",
       "source": "France24",
       "publishedAt": "2026-09-06T04:57:43Z",
-      "image": "https://s.france24.com/media/display/933fb51c-a9dc-11f1-b342-005056a90284/w:1024/p:16x9/2026-09-06T101623Z-1424650965-RC2MDNAISSXC-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS-ARRIVAL.jpg",
+      "image": "https://s.france24.com/media/display/64126d04-a9ee-11f1-8be6-005056a90284/w:1024/p:16x9/2026-09-06T113237Z-813050006-RC2MDNA0WDY8-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS.jpg",
       "categories": [
         "conflict"
       ],
@@ -67,33 +97,17 @@
       "tags": []
     },
     {
-      "id": "the-e471da62c27e",
-      "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
-      "description": "Serhii Beskrestnov says deadlock on frontline and increasing use of deep strikes is placing civilians and infrastructure at greater riskRussia and Ukraine are locked in an escalating war of long-range strikes with a growing risk to civilians in which neither side can entirely prevail, according to Volodymyr Zelenskyy’s…",
-      "url": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-06T04:00:55Z",
-      "image": "https://i.guim.co.uk/img/media/d84384d8f9344306300a8dc23b64230573d41a56/407_147_3356_2685/master/3356.jpg?width=140&quality=85&auto=format&fit=max&s=bd4699850a4480448b3713fcf07f0ccd",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -76734d591c55",
-      "title": "Yemen's deadliest fighting in years raises fears of return to all-out war",
-      "description": "Nearly 180 fighters were killed in three days in the southwest of the country, where Houthi forces launched an offensive toward the strategic Bab al-Mandab Strait. Four years after the 2022 truce, this outbreak of violence revives the specter of the conflict that has ravaged Yemen since 2014.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/05/yemen-s-deadliest-fighting-in-years-raises-fears-of-return-to-all-out-war_6757196_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-05T14:27:48Z",
-      "image": "https://img.lemde.fr/2026/08/25/519/0/6235/3117/644/322/60/0/8c6c1b5_ftp-1-c6wwdxuro11v-5d5d09b0da7e4a6a84e73fbb36309d69-0-5bc5d4b3853b4d9c97ecdefbf2542170.jpg",
+      "id": "ans-bfef831d626b",
+      "title": "Cremlino, 'i colloqui tra Putin e gli inviati Usa estremamente franchi'",
+      "description": "Ushakov: 'Witkoff e Kushner hanno illustrato diverse idee per porre fine alla guerra'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/cremlino-i-colloqui-tra-putin-e-gli-inviati-usa-estremamente-franchi_b96d0f59-cc7d-49ff-af95-9e6cce74d8cd.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-05T22:01:46Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/5/d00cac5c8b8bf897f2317b8a069bec77.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -114,32 +128,17 @@
       "tags": []
     },
     {
-      "id": "ans-bdb41c8dbbd3",
-      "title": "Putin ordina tregua su Kiev da mezzanotte per tre giorni",
-      "description": "Lo ha detto il suo portavoce Dmitry Peskov",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/05/putin-ordina-tregua-su-kiev-da-mezzanotte-per-tre-giorni_cfd64d13-bfb8-4b9e-be64-b06d5191f174.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-05T12:15:50Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/2e7fb9ff07e85e4af80b578fcc6f915b.jpg",
+      "id": "the-712bc8cbbdee",
+      "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
+      "description": "Houthi rebel offensive against government forces on west coast leads to some of deadliest clashes in yearsClashes between Yemen’s Saudi-backed government forces and the Iran-aligned Houthi rebel movement have killed more than 60 people, including civilians, as the Houthis pushed forward with a military offensive on Yem…",
+      "url": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-05T13:47:19Z",
+      "image": "https://i.guim.co.uk/img/media/7d6dcaee114add9c2041df69f3c3f1819d8d0fcd/245_229_3639_2911/master/3639.jpg?width=140&quality=85&auto=format&fit=max&s=cd8de059638da7a9588fbbf4289bcff1",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-272230f5bafa",
-      "title": "U.S. Envoys Witkoff, Kushner Arrive in Moscow for Peace Talks",
-      "description": "U.S. President Donald Trump suggested on Friday that the U.S. had a fresh concrete proposal aimed at ending the war.",
-      "url": "https://www.themoscowtimes.com/2026/09/05/witkoff-kushner-arrive-in-moscow-sources-say-a93643",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-05T12:10:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/27/93643__276c4b6501a0c046c6d1c8a05ea0f355.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -190,6 +189,22 @@
       "tags": []
     },
     {
+      "id": "un -a90c728e0033",
+      "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
+      "description": "A new airstrike overnight damaged one of the main warehouses used by the World Health Organization (WHO) in Ukraine to store humanitarian medical supplies in the Kyiv region, the UN agency said on Friday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168278",
+      "source": "UN News",
+      "publishedAt": "2026-09-04T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/10-08-2026-WHO-Ukraine-03.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -38ba43fdc657",
       "title": "How growing Israeli-Turkish tensions led to a strike on a Syrian air base",
       "description": "Could the growing regional rivalry between Turkey and Israel lead to a military clash? A recent Israeli strike on an air base in northern Syria illustrated the two countries’ conflicting strategic interests, but analysts say neither wants war.",
@@ -203,21 +218,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -d40222cea3cf",
-      "title": "Outside forces fuel Sudan war, new report finds",
-      "description": "Foreign recruitment and external support networks are fuelling the brutal conflict in Sudan, independent UN human rights investigators said on Thursday in a new report, calling for accountability as fighting continues between the Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF).",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168270",
-      "source": "UN News",
-      "publishedAt": "2026-09-03T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/24-06-2026-UNDP-Sudan.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
       "tags": []
     }
   ]

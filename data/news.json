@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T13:59:51Z",
+  "updated": "2026-09-06T16:54:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-06T13:59:47Z",
+      "publishedAt": "2026-09-06T16:54:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,13 +21,13 @@
       "tags": []
     },
     {
-      "id": "the-226bfda8af11",
-      "title": "Russia’s Lavrov Calls Accusations of Moscow’s Involvement in Leipzig Drone Incident ‘Start of Real War'",
-      "description": "The German government said last week that Russia was responsible for an attempted drone attack at Leipzig/Halle Airport.",
-      "url": "https://www.themoscowtimes.com/2026/09/06/russias-lavrov-calls-accusations-of-moscows-involvement-in-leipzig-drone-incident-start-of-real-war-a93646",
+      "id": "the-106056f1900f",
+      "title": "U.S. Envoys Make First Kyiv Visit Amid Ukraine War Peace Push",
+      "description": "Jared Kushner and Steve Witkoff travelled from Moscow, where they held three hours of talks with Russian President Vladimir Putin on Saturday.",
+      "url": "https://www.themoscowtimes.com/2026/09/06/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push-a93648",
       "source": "The Moscow Times",
-      "publishedAt": "2026-09-06T11:31:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/18/93646__18c3e07351f6780e88d529ae967d0731.jpg",
+      "publishedAt": "2026-09-06T15:37:33Z",
+      "image": "https://static.themoscowtimes.com/image/og/1b/93648__1b1e001aeff89d13fffafa39914b09fe.jpg",
       "categories": [
         "conflict"
       ],
@@ -36,32 +36,33 @@
       "tags": []
     },
     {
-      "id": "le -a21ca6ab9f1e",
-      "title": "Four killed by Israeli airstrikes in Lebanon, despite the ceasefire",
-      "description": "As negotiations between Lebanese and Israeli officials struggle to make progress, civilians in southern Lebanon are paying a heavy price for the ongoing clashes.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/06/four-killed-by-israeli-airstrikes-in-lebanon-despite-the-ceasefire_6757215_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-06T10:44:44Z",
-      "image": "https://img.lemde.fr/2026/09/06/604/0/7252/3626/644/322/60/0/bbdb14d_ftp-1-hj6oalqbdhde-5011218-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e8065035dc74",
-      "title": "Israeli air attacks on Lebanon kill at least four",
-      "description": "Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.",
-      "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
+      "id": "al -09512844c890",
+      "title": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
+      "description": "Steve Witkoff and Jared Kushner met Putin and headed to Kyiv as part of Trump&#039;s new efforts to broker agreement.",
+      "url": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-06T09:15:20Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26249255679187-1788684489.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-06T15:00:16Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-05T194829Z_2009750295_RC26DNA93FYO_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA-1788685089.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-4c52eaf3700d",
+      "title": "Ukraine-Russia talks: What are the US objectives?",
+      "description": "US envoys Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday in their first official visit to Ukraine as part of a renewed push for peace, more than 4½ years after Russia's full-scale invasion of Ukraine. We discuss this topic with our guest, John E. Herbst, director of the Eurasia Center at the Atlantic Council…",
+      "url": "https://www.france24.com/en/video/20260906-ukraine-russia-talks-what-are-the-us-objectives",
+      "source": "France24",
+      "publishedAt": "2026-09-06T14:03:26Z",
+      "image": "https://s.france24.com/media/display/ebfe2368-a9f6-11f1-a121-005056bfb2b6/w:1024/p:16x9/EN-20260906-140051-140759-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,21 +79,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-99b2f3057056",
-      "title": "Live: Trump's envoys arrive in Kyiv after 'substantive' talks with Putin",
-      "description": "American envoys Steve Witkoff and Jared Kushner discussed \"substantive plans\" for next steps to end the war in Ukraine during their meeting with Russian President Vladimir Putin in Moscow, the White House said, before they headed to Kyiv on Sunday. Kremlin aide Yuri Ushakov said the three-hour talks had been \"highly us…",
-      "url": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin",
-      "source": "France24",
-      "publishedAt": "2026-09-06T04:57:43Z",
-      "image": "https://s.france24.com/media/display/64126d04-a9ee-11f1-8be6-005056a90284/w:1024/p:16x9/2026-09-06T113237Z-813050006-RC2MDNA0WDY8-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -156,6 +142,21 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -00e41f937f44",
+      "title": "Germany's Soviet past looms over high-stakes election in Saxony-Anhalt: 'I do not consider Russians to be enemies'",
+      "description": "Ahead of elections on Sunday, in which the far-right Alternative for Germany could win in this region of the former East Germany, the city of Stendal – where 10,000 Red Army soldiers were stationed during the Cold War – exemplifies the unique relationship between the former German Democratic Republic and Russia.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/05/in-germany-memories-of-the-soviet-legacy-are-at-the-heart-of-saxony-anhalt-s-state-election-i-do-not-consider-russians-to-be-enemies_6757193_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-05T10:59:06Z",
+      "image": "https://img.lemde.fr/2026/09/04/504/0/6016/3008/644/322/60/0/535f178_upload-1-bwhiaitiod40-gettyimages-1227031439.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {

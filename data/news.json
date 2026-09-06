@@ -1,23 +1,22 @@
 {
-  "updated": "2026-09-06T18:55:35Z",
+  "updated": "2026-09-06T21:08:16Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-3ae1ff62717e",
-      "title": "What will war look like after peace?",
-      "description": "",
-      "url": "https://asia.nikkei.com/opinion/what-will-war-look-like-after-peace",
-      "source": "Nikkei Asia",
-      "publishedAt": "2026-09-06T18:55:30Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F2%2F13042248-1-eng-GB%2Fc45c989f5073-GettyImages-2292375106-1-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "id": "bbc-4b22560d8220",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-06T20:52:12Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/92218f50-aa29-11f1-a291-b542ee92de7c.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": true,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -94,6 +93,21 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -7d541080c730",
+      "title": "Putin meets with US envoys for renewed talks on ending the war in Ukraine",
+      "description": "Russian President Vladimir Putin met with U.S. envoys Steve Witkoff and Jared Kushner to try to revive a push to end the Russia-Ukraine war.",
+      "url": "https://www.csmonitor.com/World/2026/0905/putin-peace-talk-kushner-witkoff-envoys?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-09-05T22:48:51Z",
+      "image": "https://images.csmonitor.com/csm/2026/09/1218741_1_Putin_standard.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -175,21 +189,6 @@
       "tags": []
     },
     {
-      "id": "bbc-89282106da8b",
-      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-      "description": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
-      "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-04T12:39:05Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf50/live/afcc7190-a84f-11f1-a291-b542ee92de7c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -a90c728e0033",
       "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
       "description": "A new airstrike overnight damaged one of the main warehouses used by the World Health Organization (WHO) in Ukraine to store humanitarian medical supplies in the Kyiv region, the UN agency said on Friday.",
@@ -203,22 +202,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -38ba43fdc657",
-      "title": "How growing Israeli-Turkish tensions led to a strike on a Syrian air base",
-      "description": "Could the growing regional rivalry between Turkey and Israel lead to a military clash? A recent Israeli strike on an air base in northern Syria illustrated the two countries’ conflicting strategic interests, but analysts say neither wants war.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0903/israel-turkey-syria-netanyahu-erdogan-iran-gaza?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-09-03T20:45:46Z",
-      "image": "https://images.csmonitor.com/csm/2026/09/0903_OISRAELTURKEY_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 14,
-      "isAnalysis": true,
       "tags": []
     }
   ]

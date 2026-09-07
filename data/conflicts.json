@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T15:35:02Z",
+  "updated": "2026-09-07T19:40:28Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-09-02T18:57:47Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-09-02",
       "wikipediaRevision": "2026-09-02T21:20:34Z",
-      "recentNewsCount": 5
+      "recentNewsCount": 6
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-09-07",
       "wikipediaRevision": "2026-09-07T12:34:57Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "sd-war",
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sy-war",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-08-26",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-08-26T08:28:07Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "sahel",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 1
     },
     {
       "id": "et-am",
@@ -427,9 +427,9 @@
         "Global economy"
       ],
       "wikipediaPage": "Red_Sea_crisis",
-      "lastUpdate": "2026-08-31",
-      "wikipediaRevision": "2026-08-31T08:57:38Z",
-      "recentNewsCount": 1
+      "lastUpdate": "2026-09-07",
+      "wikipediaRevision": "2026-09-07T16:41:35Z",
+      "recentNewsCount": 0
     },
     {
       "id": "wb-isr",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 1
     }
   ]
 }

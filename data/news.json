@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T15:34:53Z",
+  "updated": "2026-09-07T19:40:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-s-huawei-heads-to-trial-in-us-over-sanctions-and-trade-secrets",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-07T15:34:51Z",
+      "publishedAt": "2026-09-07T19:40:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F4%2F8%2F0%2F13060846-1-eng-GB%2Fa71c3996cb4f-Huawei.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-e4a087a204a2",
+      "title": "'What we see right now is that Putin has zero interest in ending the war', Ukrainian MP Yasko says",
+      "description": "US envoy Steve Witkoff on Monday touted progress in weekend discussions with Ukraine and Russia, raising the prospect of reviving three-way peace talks to end Europe's deadliest conflict since World War II. Ukrainian MP Lisa Yasko says that \"we don't trust these talks\", describing the US envoys' flattery towards Russia…",
+      "url": "https://www.france24.com/en/what-we-see-right-now-is-that-putin-has-zero-interest-in-ending-the-war-ukrainian-mp-yasko-says",
+      "source": "France24",
+      "publishedAt": "2026-09-07T18:38:32Z",
+      "image": "https://s.france24.com/media/display/2931813c-aaea-11f1-a276-005056a90284/w:1024/p:16x9/EN-20260907-200740-201844-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,6 +52,21 @@
       "tags": []
     },
     {
+      "id": "bbc-58e356deedb5",
+      "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
+      "description": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-07T14:50:50Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbf/live/7beeaca0-aac3-11f1-9bcd-4de40c4158ea.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-123d260e25dd",
       "title": "Serbia Honors 'Butcher Of Bosnia' Ratko Mladic, Drawing Outrage Over Glorification",
       "description": "Thousands attended the Belgrade funeral for convicted war criminal Ratko Mladic, who died while serving a life sentence for genocide, war crimes, and crimes against humanity. The public honors surrounding the burial of the former Bosnian Serb commander have angered survivors and relatives of victims of the 1995 Srebren…",
@@ -49,21 +80,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-684ab047762f",
-      "title": "UN rapporteur says Israeli rubble-clearing in Gaza could erase 'atrocity crimes' evidence",
-      "description": "The United Nations special rapporteur on Palestinian territories Francesca Albanese warned Monday that large-scale rubble removal in parts of Gaza under Israeli control could risk erasing \"evidence relevant to the investigation of alleged international crimes\". Israel's bombardment and ground offensive on Gaza has kill…",
-      "url": "https://www.france24.com/en/middle-east/20260907-un-rapporteur-says-israeli-rubble-clearing-in-gaza-could-erase-atrocity-crimes-evidence",
-      "source": "France24",
-      "publishedAt": "2026-09-07T12:51:23Z",
-      "image": "https://s.france24.com/media/display/22ab0c38-aac3-11f1-8592-005056a97e36/w:1024/p:16x9/AP26236599212384.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -94,6 +110,22 @@
         "humanitarian"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-a56a1533696a",
+      "title": "Elon Musk thanked by German far-right leader after landmark election win praised by Russia | First Thing",
+      "description": "Populist, far-right, anti-immigration AfD wins vote in eastern state of Saxony-Anhalt. Plus, 50 years since The Muppet Show first hit our screensDon’t already get First Thing in your inbox? Sign up hereGood morning. A far-right leader who has won an important state election in Germany has thanked Elon Musk for his supp…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-07T11:20:53Z",
+      "image": "https://i.guim.co.uk/img/media/eeb61d84af276852fc173039141473e1450de42a/751_151_3572_2858/master/3572.jpg?width=140&quality=85&auto=format&fit=max&s=ad764efea2299fef4f70a2e6604ca2b5",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -144,21 +176,6 @@
       "tags": []
     },
     {
-      "id": "bbc-4b22560d8220",
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-06T20:52:12Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0857/live/5ac1ccf0-aa97-11f1-b109-879e35c24276.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-226bfda8af11",
       "title": "Russia’s Lavrov Calls Accusations of Moscow’s Involvement in Leipzig Drone Incident ‘Start of Real War'",
       "description": "The German government said last week that Russia was responsible for an attempted drone attack at Leipzig/Halle Airport.",
@@ -201,21 +218,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-712bc8cbbdee",
-      "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
-      "description": "Houthi rebel offensive against government forces on west coast leads to some of deadliest clashes in yearsClashes between Yemen’s Saudi-backed government forces and the Iran-aligned Houthi rebel movement have killed more than 60 people, including civilians, as the Houthis pushed forward with a military offensive on Yem…",
-      "url": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-05T13:47:19Z",
-      "image": "https://i.guim.co.uk/img/media/7d6dcaee114add9c2041df69f3c3f1819d8d0fcd/245_229_3639_2911/master/3639.jpg?width=140&quality=85&auto=format&fit=max&s=cd8de059638da7a9588fbbf4289bcff1",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     }

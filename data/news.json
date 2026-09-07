@@ -1,36 +1,114 @@
 {
-  "updated": "2026-09-07T09:03:42Z",
+  "updated": "2026-09-07T15:34:53Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "fra-f135d03169af",
-      "title": "Thousands of mourners gather in Belgrade for war criminal Mladic's funeral",
-      "description": "Thousands of mourners on Monday gathered at a church in Belgrade to view the body of Ratko Mladic, who died in The Hague, Netherlands, on August 27 while serving a life sentence for genocide, war crimes and crimes against humanity. The European Union has heavily criticised the event, and Marta Kos, the bloc's enlargeme…",
-      "url": "https://www.france24.com/en/europe/20260907-thousands-of-mourners-gather-in-belgrade-for-war-criminal-mladic-s-funeral",
-      "source": "France24",
-      "publishedAt": "2026-09-07T08:08:41Z",
-      "image": "https://s.france24.com/media/display/2bbba572-aa90-11f1-a958-005056bf30b7/w:1024/p:16x9/AP26250196078380.jpg",
+      "id": "nik-9eaa8396fbd4",
+      "title": "China's Huawei heads to trial in US over sanctions and trade secrets",
+      "description": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-s-huawei-heads-to-trial-in-us-over-sanctions-and-trade-secrets",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-09-07T15:34:51Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F4%2F8%2F0%2F13060846-1-eng-GB%2Fa71c3996cb4f-Huawei.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -b834a67a3995",
-      "title": "Israeli air attacks kill at least 11 people in southern Lebanon",
-      "description": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
-      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "id": "al -a5ac58363a09",
+      "title": "How the media manufactured consent for genocide",
+      "description": "A new book uncovers the role the media played in whitewashing Israel&#039;s genocidal war on Gaza.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/9/7/how-the-media-manufactured-consent-for-genocide?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-07T06:58:28Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9e6d18692e-1788767512.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-07T14:59:37Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788792386.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "rfe-123d260e25dd",
+      "title": "Serbia Honors 'Butcher Of Bosnia' Ratko Mladic, Drawing Outrage Over Glorification",
+      "description": "Thousands attended the Belgrade funeral for convicted war criminal Ratko Mladic, who died while serving a life sentence for genocide, war crimes, and crimes against humanity. The public honors surrounding the burial of the former Bosnian Serb commander have angered survivors and relatives of victims of the 1995 Srebren…",
+      "url": "https://www.rferl.org/a/ratko-mladic-genocide-funeral-belgrade/33849337.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-07T14:50:35Z",
+      "image": "https://gdb.rferl.org/1b71ae6e-19c9-4795-ec16-08def2afcad7_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-684ab047762f",
+      "title": "UN rapporteur says Israeli rubble-clearing in Gaza could erase 'atrocity crimes' evidence",
+      "description": "The United Nations special rapporteur on Palestinian territories Francesca Albanese warned Monday that large-scale rubble removal in parts of Gaza under Israeli control could risk erasing \"evidence relevant to the investigation of alleged international crimes\". Israel's bombardment and ground offensive on Gaza has kill…",
+      "url": "https://www.france24.com/en/middle-east/20260907-un-rapporteur-says-israeli-rubble-clearing-in-gaza-could-erase-atrocity-crimes-evidence",
+      "source": "France24",
+      "publishedAt": "2026-09-07T12:51:23Z",
+      "image": "https://s.france24.com/media/display/22ab0c38-aac3-11f1-8592-005056a97e36/w:1024/p:16x9/AP26236599212384.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -6f0d7a1da320",
+      "title": "Human rights chief Türk renews call for end to spiralling Sudan war",
+      "description": "The ongoing war in Sudan took centre stage at the UN Human Rights Council on Monday where&nbsp;the UN High Commissioner for Human Rights, Volker Türk, led calls for an end to attacks on civilians in “markets, hospitals&nbsp;[and]&nbsp;fuel stations”.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168287",
+      "source": "UN News",
+      "publishedAt": "2026-09-07T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Graphics%20Library/26-03-2026_Ala_Sudan.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -ceaf798807b7",
+      "title": "Long-awaited US visit to Kyiv brings no diplomatic breakthrough",
+      "description": "After more than three hours of talks with Russian President Vladimir Putin in Moscow, US envoys traveled to Kyiv on Sunday. While Ukrainian President Volodymyr Zelensky praised the talks as 'positive,' no details emerged about the US proposal intended to end the war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/07/long-awaited-us-visit-to-kyiv-brings-no-diplomatic-breakthrough_6757250_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-07T11:36:39Z",
+      "image": "https://img.lemde.fr/2026/09/06/0/0/3000/1500/644/322/60/0/ed78fc8_ftp-1-c4pvtlsth5au-2026-09-06t115856z-1071533598-rc2mdnaseodv-rtrmadp-3-ukraine-crisis-usa-envoys.JPG",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-f1cb1c368195",
+      "title": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia",
+      "description": "For the first time, Trump's top envoys take their peace push to Kyiv — after talks with Putin in Moscow.",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5959692/kushner-and-witkoff-visit-ukraine-with-hopes-of-restarting-peace-talks-with-russia",
+      "source": "NPR World",
+      "publishedAt": "2026-09-07T10:43:43Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5959692",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,21 +174,6 @@
       "tags": []
     },
     {
-      "id": "le -bb264474cadb",
-      "title": "The letters from two Ukrainian sisters: 'Stay in bed or take shelter elsewhere: a life-or-death decision'",
-      "description": "Sasha and Olga Kurovska are two Ukrainian sisters, one lives in Kyiv, the other in Paris. Faced with Russian strikes on civilian infrastructure, Sasha admires her fellow citizens' determination to never give up, while Olga, fresh from a month-long stay in Ukraine, better understands her sister's reactions to the consta…",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/09/06/the-letters-from-two-ukrainian-sisters-stay-in-bed-or-take-shelter-elsewhere-a-life-or-death-decision_6757214_117.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-06T10:30:47Z",
-      "image": "https://img.lemde.fr/2026/08/28/466/0/1135/567/644/322/60/0/74cf91a_ftp-1-z1nxo5f3mktj-440338-3494949.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-1b073e3137f5",
       "title": "US Sanctions Chief Joins Moscow Talks as Putin Cites War Goals",
       "description": "A US delegation led by Steve Witkoff and Jared Kushner included Gene Lange, acting head of the US Treasury’s sanctions unit, signaling that sanctions policy was part of diplomatic talks in Moscow. While Lange met with Russian envoy Kirill Dmitriev rather than Vladimir Putin directly, a White House official confirmed NS…",
@@ -142,22 +205,6 @@
       "tags": []
     },
     {
-      "id": "rfe-333592f41d30",
-      "title": "US Envoys Conclude Moscow Meeting With Putin As Kremlin Cites 'Difficult Situation'",
-      "description": "US special envoys Steve Witkoff and Jared Kushner have begun their meeting in Moscow with President Vladimir Putin as part of a renewed White House effort to end Russia's war against Ukraine, with the pair set to visit Kyiv afterward.",
-      "url": "https://www.rferl.org/a/witkoff-kushner-land-in-moscow-ukraine-peace-talks-kyiv-strikes/33847598.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-05T13:54:33Z",
-      "image": "https://gdb.rferl.org/81ee9eae-b3e6-4d2c-a2c4-bda7f805fc54_cx2_cy3_cw96_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "the-712bc8cbbdee",
       "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
       "description": "Houthi rebel offensive against government forces on west coast leads to some of deadliest clashes in yearsClashes between Yemen’s Saudi-backed government forces and the Iran-aligned Houthi rebel movement have killed more than 60 people, including civilians, as the Houthis pushed forward with a military offensive on Yem…",
@@ -169,38 +216,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-40129f5e548c",
-      "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
-      "description": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
-      "source": "NPR World",
-      "publishedAt": "2026-09-05T11:43:20Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5955705",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -a90c728e0033",
-      "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
-      "description": "A new airstrike overnight damaged one of the main warehouses used by the World Health Organization (WHO) in Ukraine to store humanitarian medical supplies in the Kyiv region, the UN agency said on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168278",
-      "source": "UN News",
-      "publishedAt": "2026-09-04T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/10-08-2026-WHO-Ukraine-03.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

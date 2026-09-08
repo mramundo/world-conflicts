@@ -1,36 +1,68 @@
 {
-  "updated": "2026-09-08T05:50:50Z",
+  "updated": "2026-09-08T10:49:25Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-9eaa8396fbd4",
-      "title": "China's Huawei heads to trial in US over sanctions and trade secrets",
+      "id": "nik-1b1d9fe218e2",
+      "title": "Apple's Android battle offers US AI companies a playbook for China",
       "description": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-s-huawei-heads-to-trial-in-us-over-sanctions-and-trade-secrets",
+      "url": "https://asia.nikkei.com/opinion/apple-s-android-battle-offers-us-ai-companies-a-playbook-for-china",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-08T05:50:47Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F4%2F8%2F0%2F13060846-1-eng-GB%2Fa71c3996cb4f-Huawei.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-09-08T10:49:21Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F9%2F0%2F13060992-1-eng-GB%2Fe58a886a150b-AP25094741702004.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-00b8e99f2951",
+      "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats- Europe live",
+      "description": "Moscow’s foreign minister issues warning to ‘Russophobic lobby in Budapest’ after diplomats expelled for ‘unacceptable’ activitiesBut the tone coming from Moscow is very different, as Kremlin spokesperson Dmitry Peskov told reporters that Russia was very confident that victory in its war against Ukraine is “very near.”…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-08T10:22:00Z",
+      "image": "https://i.guim.co.uk/img/media/6f36e32d5758b6b47f109008cd81fd98ba4ab0d9/890_0_5433_4347/master/5433.jpg?width=140&quality=85&auto=format&fit=max&s=1bfc8d9260a074bbea150d36864dde64",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "npr-f49fbcd08d1a",
-      "title": "Russia and North Korea open the first road across their shared border",
-      "description": "Relations between Russia and North Korea have been flourishing, with North Korea supplying ammunition and troops to support Russia's war against Ukraine in return for economic and military assistance.",
-      "url": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
-      "source": "NPR World",
-      "publishedAt": "2026-09-08T05:40:44Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5347x3564+0+0/resize/5347x3564!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F18%2Fa55b65a048b1850de92ebce0f719%2Fap26250480539555.jpg",
+      "id": "le -7e18e1be807f",
+      "title": "Thousands of 'Greater Serbia' supporters attend funeral of Ratko Mladic in Belgrade",
+      "description": "The former commander of the Serbian army in Bosnia and Herzegovina, who was convicted by an international court for genocide, war crimes and crimes against humanity during the conflicts in the former Yugoslavia in the 1990s and who died in prison in The Hague, was buried in the Serbian capital on Monday.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/08/thousands-of-greater-serbia-supporters-attend-funeral-of-ratko-mladic-in-belgrade_6757281_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-08T09:24:14Z",
+      "image": "https://img.lemde.fr/2026/09/07/333/0/4000/2000/644/322/60/0/bf6afcc_ftp-1-8ech3mm6rn8o-5020838-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-b203d9b44ace",
+      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+      "description": "The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country's civil war.",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "source": "NPR World",
+      "publishedAt": "2026-09-08T09:09:46Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x792+0+0/resize/1200x792!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fc0%2F2a7e5d7b4177ad5cb82db6cdc4e4%2Fap26070564810264.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -56,7 +88,7 @@
       "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
       "source": "France24",
       "publishedAt": "2026-09-08T02:00:01Z",
-      "image": "https://s.france24.com/media/display/555fbd70-ab24-11f1-8c72-005056a90284/w:1024/p:16x9/AP26249445127234.jpg",
+      "image": "https://s.france24.com/media/display/97dd41f2-ab44-11f1-9a1d-005056bfb2b6/w:1024/p:16x9/000-C7LV3T3.jpg",
       "categories": [
         "conflict"
       ],
@@ -76,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -8d9bb8473dff",
-      "title": "French Foreign Legion soldier escaped Colombian captors after four-day trek",
-      "description": "The Colombian soldier in the French Foreign Legion who was abducted by guerillas on August 6 has managed to escape, the French Armed Forces General Staff announced on Monday.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/08/french-foreign-legion-soldier-escaped-colombian-captors-after-four-day-trek_6757266_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-07T22:10:48Z",
-      "image": "https://img.lemde.fr/2026/09/07/309/0/4928/2464/644/322/60/0/71c8116_upload-1-2m5p2q67kcgj-71c8116-upload-1-dfd3ozurhf0b-000-36v87pj.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -133,21 +150,6 @@
       "source": "UN News",
       "publishedAt": "2026-09-07T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Graphics%20Library/26-03-2026_Ala_Sudan.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-54805e4aef83",
-      "title": "Russia and North Korea open first road bridge across their shared border",
-      "description": "Connection across Tumen River is further sign of closer ties between the two countries since start of war in UkraineRussia and North Korea have opened the first road bridge across their shared border, in the latest sign of the rapidly deepening ties between the two countries since the start of the war in Ukraine.The on…",
-      "url": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-07T09:53:53Z",
-      "image": "https://i.guim.co.uk/img/media/02ab90d34f797f0e25c81421ef84944b67018c7f/760_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=59d8a57744cc4913de65e6089c954604",
       "categories": [
         "conflict"
       ],

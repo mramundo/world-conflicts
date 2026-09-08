@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T22:36:14Z",
+  "updated": "2026-09-08T00:58:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-s-huawei-heads-to-trial-in-us-over-sanctions-and-trade-secrets",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-07T22:36:11Z",
+      "publishedAt": "2026-09-08T00:58:55Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F4%2F8%2F0%2F13060846-1-eng-GB%2Fa71c3996cb4f-Huawei.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -310112ef296d",
+      "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
+      "description": "Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-07T23:50:53Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6a9f3aed0c0f-1788820205.jpg?resize=1634%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-ba9c0b54d7b7",
+      "title": "La Russia riprende gli attacchi su Kiev dopo tre giorni di tregua",
+      "description": "Allarme aereo nella capitale ucraina, edifici colpiti alla periferia della città",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/08/la-russia-riprende-gli-attacchi-su-kiev-dopo-tre-giorni-di-tregua_d184bee5-b1c9-477c-8507-7913cde1dd6f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-07T23:43:00Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2025/6/17/776e5440935acf5cd5bdfa8076cc19e7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -32,22 +62,6 @@
         "humanitarian"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e40470a75987",
-      "title": "Gaza: Genocide in Real Time?",
-      "description": "Gaza examined through occupation, blockade, mass killing and the genocide case before the ICJ.",
-      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-07T17:23:01Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788801768.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -141,21 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-af1405be8c18",
-      "title": "Idf, esplode ordigno su Linea Gialla, Hamas viola cessate il fuoco",
-      "description": "'Colpite infrastrutture legate all'organizzazione terroristica nella Striscia'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/07/idf-esplode-ordigno-su-linea-gialla-hamas-viola-cessate-il-fuoco_991b4ff2-a9d4-4ee8-8821-ebeb96c7d8ed.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-07T04:53:35Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2025/12/13/ef32822c72d6b2195c60af41dfa76436.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

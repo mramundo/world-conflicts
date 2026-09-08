@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T00:58:58Z",
+  "updated": "2026-09-08T05:50:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-s-huawei-heads-to-trial-in-us-over-sanctions-and-trade-secrets",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-08T00:58:55Z",
+      "publishedAt": "2026-09-08T05:50:47Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F4%2F8%2F0%2F13060846-1-eng-GB%2Fa71c3996cb4f-Huawei.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,47 @@
       "tags": []
     },
     {
-      "id": "al -310112ef296d",
-      "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
-      "description": "Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.",
-      "url": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-07T23:50:53Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6a9f3aed0c0f-1788820205.jpg?resize=1634%2C1080&amp;quality=80",
+      "id": "npr-f49fbcd08d1a",
+      "title": "Russia and North Korea open the first road across their shared border",
+      "description": "Relations between Russia and North Korea have been flourishing, with North Korea supplying ammunition and troops to support Russia's war against Ukraine in return for economic and military assistance.",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
+      "source": "NPR World",
+      "publishedAt": "2026-09-08T05:40:44Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5347x3564+0+0/resize/5347x3564!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F18%2Fa55b65a048b1850de92ebce0f719%2Fap26250480539555.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -47db92194a76",
+      "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
+      "description": "Bid to take the capital comes as clashes between Yemeni forces and Houthis intensify in the provinces of al-Bayda and al-Jawf.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-08T03:01:38Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T011743Z_1255130506_RC2HENA50ED1_RTRMADP_3_IRAN-CRISIS-YEMEN-SAUDI-1-1788845304.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-5313dd6c833f",
+      "title": "Live: At least two killed in Kyiv as Russia renews strikes after three-day pause",
+      "description": "Russia resumed strikes on Kyiv late Monday after a three-day pause ordered by President Vladimir Putin expired, Ukraine’s emergency service said. Kyiv's city military administration said at least two people were killed and seven wounded. The halt coincided with visits to Moscow and Kyiv by US President Donald Trump’s e…",
+      "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
+      "source": "France24",
+      "publishedAt": "2026-09-08T02:00:01Z",
+      "image": "https://s.france24.com/media/display/555fbd70-ab24-11f1-8c72-005056a90284/w:1024/p:16x9/AP26249445127234.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,18 +80,17 @@
       "tags": []
     },
     {
-      "id": "fra-e4a087a204a2",
-      "title": "'What we see right now is that Putin has zero interest in ending the war', Ukrainian MP Yasko says",
-      "description": "US envoy Steve Witkoff on Monday touted progress in weekend discussions with Ukraine and Russia, raising the prospect of reviving three-way peace talks to end Europe's deadliest conflict since World War II. Ukrainian MP Lisa Yasko says that \"we don't trust these talks\", describing the US envoys' flattery towards Russia…",
-      "url": "https://www.france24.com/en/what-we-see-right-now-is-that-putin-has-zero-interest-in-ending-the-war-ukrainian-mp-yasko-says",
-      "source": "France24",
-      "publishedAt": "2026-09-07T18:38:32Z",
-      "image": "https://s.france24.com/media/display/2931813c-aaea-11f1-a276-005056a90284/w:1024/p:16x9/EN-20260907-200740-201844-CS.jpg",
+      "id": "le -8d9bb8473dff",
+      "title": "French Foreign Legion soldier escaped Colombian captors after four-day trek",
+      "description": "The Colombian soldier in the French Foreign Legion who was abducted by guerillas on August 6 has managed to escape, the French Armed Forces General Staff announced on Monday.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/08/french-foreign-legion-soldier-escaped-colombian-captors-after-four-day-trek_6757266_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-07T22:10:48Z",
+      "image": "https://img.lemde.fr/2026/09/07/309/0/4928/2464/644/322/60/0/71c8116_upload-1-2m5p2q67kcgj-71c8116-upload-1-dfd3ozurhf0b-000-36v87pj.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -112,49 +141,17 @@
       "tags": []
     },
     {
-      "id": "le -ceaf798807b7",
-      "title": "Long-awaited US visit to Kyiv brings no diplomatic breakthrough",
-      "description": "After more than three hours of talks with Russian President Vladimir Putin in Moscow, US envoys traveled to Kyiv on Sunday. While Ukrainian President Volodymyr Zelensky praised the talks as 'positive,' no details emerged about the US proposal intended to end the war.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/07/long-awaited-us-visit-to-kyiv-brings-no-diplomatic-breakthrough_6757250_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-07T11:36:39Z",
-      "image": "https://img.lemde.fr/2026/09/06/0/0/3000/1500/644/322/60/0/ed78fc8_ftp-1-c4pvtlsth5au-2026-09-06t115856z-1071533598-rc2mdnaseodv-rtrmadp-3-ukraine-crisis-usa-envoys.JPG",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-a56a1533696a",
-      "title": "Elon Musk thanked by German far-right leader after landmark election win praised by Russia | First Thing",
-      "description": "Populist, far-right, anti-immigration AfD wins vote in eastern state of Saxony-Anhalt. Plus, 50 years since The Muppet Show first hit our screensDon’t already get First Thing in your inbox? Sign up hereGood morning. A far-right leader who has won an important state election in Germany has thanked Elon Musk for his supp…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia",
+      "id": "the-54805e4aef83",
+      "title": "Russia and North Korea open first road bridge across their shared border",
+      "description": "Connection across Tumen River is further sign of closer ties between the two countries since start of war in UkraineRussia and North Korea have opened the first road bridge across their shared border, in the latest sign of the rapidly deepening ties between the two countries since the start of the war in Ukraine.The on…",
+      "url": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
       "source": "The Guardian",
-      "publishedAt": "2026-09-07T11:20:53Z",
-      "image": "https://i.guim.co.uk/img/media/eeb61d84af276852fc173039141473e1450de42a/751_151_3572_2858/master/3572.jpg?width=140&quality=85&auto=format&fit=max&s=ad764efea2299fef4f70a2e6604ca2b5",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-f1cb1c368195",
-      "title": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia",
-      "description": "For the first time, Trump's top envoys take their peace push to Kyiv — after talks with Putin in Moscow.",
-      "url": "https://www.npr.org/2026/09/07/nx-s1-5959692/kushner-and-witkoff-visit-ukraine-with-hopes-of-restarting-peace-talks-with-russia",
-      "source": "NPR World",
-      "publishedAt": "2026-09-07T10:43:43Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5959692",
+      "publishedAt": "2026-09-07T09:53:53Z",
+      "image": "https://i.guim.co.uk/img/media/02ab90d34f797f0e25c81421ef84944b67018c7f/760_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=59d8a57744cc4913de65e6089c954604",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

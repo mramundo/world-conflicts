@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T14:57:47Z",
+  "updated": "2026-09-08T18:29:38Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/apple-s-android-battle-offers-us-ai-companies-a-playbook-for-china",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-08T14:57:43Z",
+      "publishedAt": "2026-09-08T18:29:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F9%2F0%2F13060992-1-eng-GB%2Fe58a886a150b-AP25094741702004.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,35 +21,50 @@
       "tags": []
     },
     {
-      "id": "the-2847926ae810",
-      "title": "Israel to close UK consulate in East Jerusalem after sanctions against illegal settlements – UK politics live",
-      "description": "Foreign minister, Gideon Saar, claims UK ‘systemically working against the state of Israel’UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backingThe Liberal Democrats say they have been granted a Commons urgent question today about the latest Argentinian threats to the Falkland Islands…",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-08T14:39:27Z",
-      "image": "https://i.guim.co.uk/img/media/72511061c7679c0d11237294a7e3584153591763/386_0_4646_3716/master/4646.jpg?width=140&quality=85&auto=format&fit=max&s=ce88db6dbba6d0b8eb4d1aa6db15e3ce",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -a332f05731ca",
-      "title": "Manipur musician killed in Indian capital, reviving racism concerns",
-      "description": "The guitarist&#039;s killing leads to an outcry, exposing decades of racial discrimination faced by northeastern communities.",
-      "url": "https://www.aljazeera.com/features/2026/9/8/manipur-musician-killed-in-indian-capital-reviving-racism-concerns?traffic_source=rss",
+      "id": "al -c7256e547d9a",
+      "title": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
+      "description": "This phase of the war could be the start of another protracted conflict rather than a decisive campaign, say analysts.",
+      "url": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-08T13:16:59Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Vikram_Rehearsal_NIV_2018-1788873171.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-08T17:37:35Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa02b307c7f-1788881712.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 9,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-5913c4a32648",
+      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-08T17:10:54Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0e0/live/0e3c16f0-ab92-11f1-aa04-efbf6a882854.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-c1254dd22bde",
+      "title": "Israel to close British consulate in Jerusalem after sanctions announced",
+      "description": "Several MPs also banned from Israel after UK steps up condemnation of settlements and announces sweeping sanctionsUK politics live – latest updatesIsrael has ordered the closure of the British consulate in occupied East Jerusalem in response to sweeping UK sanctions on goods from illegal settlements.Reacting to Ed Mili…",
+      "url": "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-08T16:55:26Z",
+      "image": "https://i.guim.co.uk/img/media/78ec353b9ef83cae8bcea567c643971a96806ddf/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=594cd781d4db6401673f11e82d9b7133",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -95,21 +110,6 @@
         "humanitarian"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-5913c4a32648",
-      "title": "At least two people dead after Russian strikes on Kyiv",
-      "description": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-08T10:23:01Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472f/live/84ecd810-ab25-11f1-b7f9-4f7d6b8f3d19.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

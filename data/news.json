@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T21:39:09Z",
+  "updated": "2026-09-08T23:54:39Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/apple-s-android-battle-offers-us-ai-companies-a-playbook-for-china",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-08T21:39:04Z",
+      "publishedAt": "2026-09-08T23:54:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F9%2F0%2F13060992-1-eng-GB%2Fe58a886a150b-AP25094741702004.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,19 +21,49 @@
       "tags": []
     },
     {
-      "id": "al -c7256e547d9a",
-      "title": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
-      "description": "This phase of the war could be the start of another protracted conflict rather than a decisive campaign, say analysts.",
-      "url": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss",
+      "id": "ans-82430d2d4ec0",
+      "title": "Casa Bianca, 'stop a prodotti lattiero-caseari, alcolici e moto dal Canada'",
+      "description": "'Discriminati i nostri prodotti'. Impennata della guerra commerciale tra i due Paesi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/09/casa-bianca-stop-a-prodotti-lattiero-caseari-alcolici-e-moto-dal-canada_2e5d9b2c-5ecf-4762-bc87-6e954bbaebfc.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-08T23:29:40Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2014/8/7/d1e280c9f25ddceee60258a4a6855b41.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -dc757b9ab751",
+      "title": "Police bodycam captures Russian missile strike on Kyiv",
+      "description": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine’s capital Kiev",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-08T17:37:35Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa02b307c7f-1788881712.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-08T20:43:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788900223.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -5d420c9be92c",
+      "title": "As Israel’s ‘capital of the north’ seeks to recover from war, it’s too quiet",
+      "description": "Tens of thousands of Israelis were evacuated from their homes near the border with Lebanon. Many of them have still not returned.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0908/kiryat-shmona-israel-capital-north-rebuild?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-09-08T19:58:47Z",
+      "image": "https://images.csmonitor.com/csm/2026/09/0908_OKIRYATSHMONA_lede.jpg?alias=standard_900x600",
       "categories": [
         "conflict",
-        "analysis"
+        "humanitarian"
       ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -69,7 +99,7 @@
     },
     {
       "id": "fra-0bd9e3f3e630",
-      "title": "Middle East live: Israel to close British consulate in Jerusalem after sanctions on settlements",
+      "title": "Israel to close British consulate in Jerusalem after sanctions on settlements",
       "description": "British Foreign Secretary Ed Miliband accused the Israeli government on Tuesday of turning a \"blind eye\" to what he called \"ethnic cleansing\" by settlers in the West Bank as the UK joined France and ten other countries in banning imports from Israeli settlements in the occupied territory. The decision comes amid rising…",
       "url": "https://www.france24.com/en/middle-east/20260908-middle-east-live-israel-to-close-british-consulate-in-jerusalem-after-sanctions-on-settlements",
       "source": "France24",
@@ -79,6 +109,21 @@
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-881faf2fe3b3",
+      "title": "Russia Says It Expects Ukraine Peace Talks to Resume as Deadly Attack Hits Kyiv",
+      "description": "Russia says it expects trilateral talks with Ukraine and the US to resume, even as its forces launched a deadly attack on Kyiv. Peskov also welcomed US and Indian peace efforts and accused Kyiv of prolonging the war.",
+      "url": "https://www.kyivpost.com/post/84044",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-08T13:17:23Z",
+      "image": "https://static.kyivpost.com/storage/2026/03/19/8e925e19669741841f8831faee1551d7.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -129,21 +174,6 @@
       "tags": []
     },
     {
-      "id": "ans-ba9c0b54d7b7",
-      "title": "La Russia riprende gli attacchi su Kiev dopo tre giorni di tregua",
-      "description": "Allarme aereo nella capitale ucraina, edifici colpiti alla periferia della città",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/08/la-russia-riprende-gli-attacchi-su-kiev-dopo-tre-giorni-di-tregua_d184bee5-b1c9-477c-8507-7913cde1dd6f.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-07T23:43:00Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2025/6/17/776e5440935acf5cd5bdfa8076cc19e7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-123d260e25dd",
       "title": "Serbia Honors 'Butcher Of Bosnia' Ratko Mladic, Drawing Outrage Over Glorification",
       "description": "Thousands attended the Belgrade funeral for convicted war criminal Ratko Mladic, who died while serving a life sentence for genocide, war crimes, and crimes against humanity. The public honors surrounding the burial of the former Bosnian Serb commander have angered survivors and relatives of victims of the 1995 Srebren…",
@@ -187,37 +217,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-1b073e3137f5",
-      "title": "US Sanctions Chief Joins Moscow Talks as Putin Cites War Goals",
-      "description": "A US delegation led by Steve Witkoff and Jared Kushner included Gene Lange, acting head of the US Treasury’s sanctions unit, signaling that sanctions policy was part of diplomatic talks in Moscow. While Lange met with Russian envoy Kirill Dmitriev rather than Vladimir Putin directly, a White House official confirmed NS…",
-      "url": "https://www.kyivpost.com/post/83862",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-06T07:00:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/09/06/63aafa68fca7978b2494fb5ec3bf4434.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -7d541080c730",
-      "title": "Putin meets with US envoys for renewed talks on ending the war in Ukraine",
-      "description": "Russian President Vladimir Putin met with U.S. envoys Steve Witkoff and Jared Kushner to try to revive a push to end the Russia-Ukraine war.",
-      "url": "https://www.csmonitor.com/World/2026/0905/putin-peace-talk-kushner-witkoff-envoys?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-09-05T22:48:51Z",
-      "image": "https://images.csmonitor.com/csm/2026/09/1218741_1_Putin_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

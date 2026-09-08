@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T18:29:38Z",
+  "updated": "2026-09-08T21:39:09Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/apple-s-android-battle-offers-us-ai-companies-a-playbook-for-china",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-08T18:29:34Z",
+      "publishedAt": "2026-09-08T21:39:04Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F9%2F0%2F13060992-1-eng-GB%2Fe58a886a150b-AP25094741702004.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -54,7 +54,7 @@
     {
       "id": "the-c1254dd22bde",
       "title": "Israel to close British consulate in Jerusalem after sanctions announced",
-      "description": "Several MPs also banned from Israel after UK steps up condemnation of settlements and announces sweeping sanctionsUK politics live – latest updatesIsrael has ordered the closure of the British consulate in occupied East Jerusalem in response to sweeping UK sanctions on goods from illegal settlements.Reacting to Ed Mili…",
+      "description": "Several MPs also banned from Israel after UK steps up condemnation of settlements and announces sweeping sanctionsIsrael has ordered the closure of the British consulate in occupied East Jerusalem in response to sweeping UK sanctions on goods from illegal settlements.Reacting to Ed Miliband’s description of violent Jew…",
       "url": "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
       "source": "The Guardian",
       "publishedAt": "2026-09-08T16:55:26Z",
@@ -64,6 +64,21 @@
         "humanitarian"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-0bd9e3f3e630",
+      "title": "Middle East live: Israel to close British consulate in Jerusalem after sanctions on settlements",
+      "description": "British Foreign Secretary Ed Miliband accused the Israeli government on Tuesday of turning a \"blind eye\" to what he called \"ethnic cleansing\" by settlers in the West Bank as the UK joined France and ten other countries in banning imports from Israeli settlements in the occupied territory. The decision comes amid rising…",
+      "url": "https://www.france24.com/en/middle-east/20260908-middle-east-live-israel-to-close-british-consulate-in-jerusalem-after-sanctions-on-settlements",
+      "source": "France24",
+      "publishedAt": "2026-09-08T15:10:03Z",
+      "image": "https://s.france24.com/media/display/2d0aaf1c-ab95-11f1-bf19-005056a97e36/w:1024/p:16x9/000-C4N84NZ.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -79,21 +94,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-b49d09685bb8",
-      "title": "As Houthis attack Saudi Arabia, is Iran war escalating into regional conflict?",
-      "description": "Saudi Arabia on Tuesday threatened to hit back after a wave of missiles from Yemen's Houthis set oil facilities ablaze and wounded dozens, the Iran-backed rebels' heaviest attack in years. It comes after a four-year truce collapsed in July, months into the Middle East war between the United States and Iran. France 24's…",
-      "url": "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict",
-      "source": "France24",
-      "publishedAt": "2026-09-08T13:02:50Z",
-      "image": "https://s.france24.com/media/display/300a0890-ab7f-11f1-aa3f-005056a90284/w:1024/p:16x9/EN-20260908-130340-130754-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

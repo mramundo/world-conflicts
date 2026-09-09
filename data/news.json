@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T13:31:34Z",
+  "updated": "2026-09-09T17:39:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/apple-s-android-battle-offers-us-ai-companies-a-playbook-for-china",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-09T13:31:30Z",
+      "publishedAt": "2026-09-09T17:39:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F9%2F0%2F13060992-1-eng-GB%2Fe58a886a150b-AP25094741702004.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,34 +21,79 @@
       "tags": []
     },
     {
-      "id": "al -92dfa9056aa1",
-      "title": "How has Israel hit back against sanctions by the UK, others?",
-      "description": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
-      "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
+      "id": "ans-cc797384b64d",
+      "title": "Fonti Ue, la Slovacchia blocca l'estensione delle sanzioni a Mosca",
+      "description": "C'è tempo fino al 15 settembre per trovare l'intesa, il Coreper tornerà a riunirsi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/09/fonti-ue-la-slovacchia-blocca-lestensione-delle-sanzioni-a-mosca_bd016c2b-df9e-4d09-98ca-42a231b38bb0.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-09T14:36:45Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/9/221b547ebfbc309616413484a111b181.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-cedfc122b5b3",
+      "title": "Syria arms depot explosion kills at least 14",
+      "description": "The explosion struck near the Syrian city of Sarmada in Idlib province in the northwest. The Defense Ministry said the weapons and remnants from the war were being stored temporarily at the site before being relocated.",
+      "url": "https://www.dw.com/en/syria-arms-depot-explosion-kills-at-least-14/a-79203314?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-09T13:53:00Z",
+      "image": "https://static.dw.com/image/79203144_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -5c0250ec8620",
+      "title": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
+      "description": "The reported truce follows the release of 360 villagers abducted during a Boko Haram attack in northeastern Nigeria.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-09T12:17:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa134723de6-1788949618_882ed5-1788956246.jpg?resize=1200%2C630&amp;quality=80",
+      "publishedAt": "2026-09-09T13:35:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-21T093450Z_1737588547_RC2JRHALUKUP_RTRMADP_3_USA-NIGERIA-SECURITY-1776013115.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-4b9e58b413d5",
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-09T13:29:33Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-fbd29388b5a4",
+      "title": "Russian Strikes Hit Ukraine, Border Crossing Near Moldova",
+      "description": "A Russian drone attack targeted a border crossing between Ukraine and Moldova, killing two people and injuring three others, while another drone struck a residential building in Kyiv, as Moscow continues its campaign of near-continuous strikes across Ukraine.",
+      "url": "https://www.rferl.org/a/russia-attack-ukraine-moldova-checkpoint/33850936.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-09T12:06:19Z",
+      "image": "https://gdb.rferl.org/ddc71ae9-c974-485c-eadf-08df0d9fbd58_cx0_cy3_cw0_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-65b1127985c0",
-      "title": "Syria: How the 'house of sisters' threat split society",
-      "description": "Rumor has it that the 'house of sisters' is where kidnapped women from other Syrian sects are forced to convert to Islam. Nobody knows if it really exists, but it's being used to create communal tensions anyway.",
-      "url": "https://www.dw.com/en/syria-how-the-house-of-sisters-threat-split-society/a-79192163?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-09T11:27:00Z",
-      "image": "https://static.dw.com/image/79191485_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -68,31 +113,16 @@
     },
     {
       "id": "le -b56439a890f7",
-      "title": "UK rejects Israel's 'damaging' retaliation over West Bank settlement sanctions",
-      "description": "Britain's top diplomat said Wednesday he regretted Israel's decision to close the UK consulate in Jerusalem over London-led sanctions over settler violence in the occupied West Bank. Ed Miliband said the UK would continue intelligence cooperation with Israel and support the country against threats from Iran.",
+      "title": "British PM Burnham defends West Bank sanctions after Israel closes UK consulate",
+      "description": "British Prime Minister Andy Burnham said Wednesday his country would stand with those being forced from their homes in the occupied West Bank after Israel closed the UK consulate in Jerusalem over London-led sanctions targeting settler violence against Palestinians.",
       "url": "https://www.lemonde.fr/en/international/article/2026/09/09/uk-rejects-israel-s-damaging-retaliation-over-west-bank-settlement-sanctions_6757336_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-09T09:19:05Z",
-      "image": "https://img.lemde.fr/2026/09/08/446/0/8156/4078/644/322/60/0/237364b_ftp-1-xidoygcjh2em-2026-09-08t160627z-528130721-rc21fnas0ln3-rtrmadp-3-israel-palestinians-settlers-britain.JPG",
+      "publishedAt": "2026-09-09T09:19:02Z",
+      "image": "https://img.lemde.fr/2026/09/09/104/0/7741/3870/644/322/60/0/f0b0f44_ftp-1-i5fqligsf1yo-5036568-01-06.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-ca9cfd0e62c3",
-      "title": "Media, Trump non ha chiesto a Burnham di cambiare idea sulle sanzioni",
-      "description": "Axios e giornali israeliani,telefonata a inizio settimana, 'nessuna richiesta di rimandare",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/09/media-trump-non-ha-chiesto-a-burnham-di-cambiare-idea-sulle-sanzioni_3422f034-3a55-40bf-bdec-c5a9c981fb8e.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-09T08:14:15Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/c08c96c9d6e8427e92f2da11f2a4d7a3.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -108,6 +138,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-8f711338f49b",
+      "title": "Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements",
+      "description": "In today’s newsletter: Ed Miliband has announced the strongest statement on Israel’s actions ever issued by the the UK government, but will it make a meaningful difference to Palestinians?Good morning. For almost half a century, British governments have condemned illegal Israeli settlements, acknowledging they represen…",
+      "url": "https://www.theguardian.com/world/2026/sep/09/wednesday-briefing-inside-sweeping-uk-sanctions-on-trade-with-israeli-settlements",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-09T05:46:18Z",
+      "image": "https://i.guim.co.uk/img/media/d9734320b2021c7eab5aaf9cb7a52cdf6c75bd22/377_0_3077_2463/master/3077.jpg?width=140&quality=85&auto=format&fit=max&s=5812b1455853818e95e9d5c63c83f838",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -128,37 +173,6 @@
       "tags": []
     },
     {
-      "id": "bbc-5913c4a32648",
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-08T17:10:54Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0e0/live/0e3c16f0-ab92-11f1-aa04-efbf6a882854.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-c1254dd22bde",
-      "title": "Israel to close British consulate in Jerusalem after sanctions announced",
-      "description": "Several MPs also banned from Israel after UK steps up condemnation of settlements and announces sweeping sanctionsIsrael has ordered the closure of the British consulate in occupied East Jerusalem in response to sweeping UK sanctions on goods from illegal settlements.Reacting to Ed Miliband’s description of violent Jew…",
-      "url": "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-08T16:55:26Z",
-      "image": "https://i.guim.co.uk/img/media/78ec353b9ef83cae8bcea567c643971a96806ddf/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=594cd781d4db6401673f11e82d9b7133",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-881faf2fe3b3",
       "title": "Russia Says It Expects Ukraine Peace Talks to Resume as Deadly Attack Hits Kyiv",
       "description": "Russia says it expects trilateral talks with Ukraine and the US to resume, even as its forces launched a deadly attack on Kyiv. Peskov also welcomed US and Indian peace efforts and accused Kyiv of prolonging the war.",
@@ -170,6 +184,21 @@
         "conflict"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-abc98f80dcf8",
+      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
+      "description": "France, Canada and other countries joined the U.K. in banning goods from Israeli settlements in the occupied West Bank. Israel said it would close the British Consulate among other measures.",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
+      "source": "NPR World",
+      "publishedAt": "2026-09-08T13:05:20Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5796x3864+0+0/resize/5796x3864!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2F80%2F63c56f2e41bf841381454e618426%2Fgettyimages-2289923446.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -187,37 +216,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-b203d9b44ace",
-      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-      "description": "The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country's civil war.",
-      "url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "source": "NPR World",
-      "publishedAt": "2026-09-08T09:09:46Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x792+0+0/resize/1200x792!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fc0%2F2a7e5d7b4177ad5cb82db6cdc4e4%2Fap26070564810264.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-123d260e25dd",
-      "title": "Serbia Honors 'Butcher Of Bosnia' Ratko Mladic, Drawing Outrage Over Glorification",
-      "description": "Thousands attended the Belgrade funeral for convicted war criminal Ratko Mladic, who died while serving a life sentence for genocide, war crimes, and crimes against humanity. The public honors surrounding the burial of the former Bosnian Serb commander have angered survivors and relatives of victims of the 1995 Srebren…",
-      "url": "https://www.rferl.org/a/ratko-mladic-genocide-funeral-belgrade/33849337.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-07T14:50:35Z",
-      "image": "https://gdb.rferl.org/1b71ae6e-19c9-4795-ec16-08def2afcad7_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     }
   ]

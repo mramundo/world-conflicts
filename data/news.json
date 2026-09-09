@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-09T20:37:57Z",
+  "updated": "2026-09-09T23:01:09Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/apple-s-android-battle-offers-us-ai-companies-a-playbook-for-china",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-09T20:37:53Z",
+      "publishedAt": "2026-09-09T23:01:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F9%2F0%2F13060992-1-eng-GB%2Fe58a886a150b-AP25094741702004.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -68,7 +68,7 @@
     {
       "id": "the-3d59153b95ad",
       "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
-      "description": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi citiesBusiness live – latest updatesThe price of oil has risen above $100 a barrel for the first time since July as the escalating conflict in the Middle East threatens further disruption to global supplies.Brent cr…",
+      "description": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi citiesThe price of oil has risen above $100 a barrel for the first time since July as the escalating conflict in the Middle East threatens further disruption to global supplies.Brent crude, the international benchma…",
       "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
       "source": "The Guardian",
       "publishedAt": "2026-09-09T19:09:13Z",
@@ -81,18 +81,18 @@
       "tags": []
     },
     {
-      "id": "al -19517224dd41",
-      "title": "How significant are new European sanctions on illegal Israeli settlements?",
-      "description": "Israel is accused of the ethnic cleansing of Palestinians.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+      "id": "al -f89f2f43f14a",
+      "title": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
+      "description": "Only 12 of Gaza&#039;s 34 oxygen-generation stations remain operational, worsening the health crisis in the besieged enclave.",
+      "url": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-09T18:23:27Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa1a0f02ede-1788977392.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-09T18:40:38Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Untitled-document-4-1788975922.jpg?resize=1200%2C675",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 7,
       "isAnalysis": true,
       "tags": []
     },
@@ -185,6 +185,21 @@
         "conflict"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-abc98f80dcf8",
+      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
+      "description": "France, Canada and other countries joined the U.K. in banning goods from Israeli settlements in the occupied West Bank. Israel said it would close the British Consulate among other measures.",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
+      "source": "NPR World",
+      "publishedAt": "2026-09-08T13:05:20Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5796x3864+0+0/resize/5796x3864!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2F80%2F63c56f2e41bf841381454e618426%2Fgettyimages-2289923446.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

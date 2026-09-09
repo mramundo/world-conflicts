@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T23:54:39Z",
+  "updated": "2026-09-09T03:40:25Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/apple-s-android-battle-offers-us-ai-companies-a-playbook-for-china",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-08T23:54:34Z",
+      "publishedAt": "2026-09-09T03:40:21Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F9%2F0%2F13060992-1-eng-GB%2Fe58a886a150b-AP25094741702004.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -e8dcedcb98ce",
+      "title": "Eleven European countries and Canada impose sanctions on Israel over products from settlements in the West Bank",
+      "description": "Following the United Kingdom's lead, France, Denmark, Spain, Finland, Ireland, Iceland, Norway, Poland, Portugal, Sweden and Canada have chosen to impose sanctions on all settlements.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/09/eleven-european-countries-and-canada-impose-sanctions-on-israel-over-products-from-settlements-in-the-west-bank_6757323_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-09T02:29:13Z",
+      "image": "https://img.lemde.fr/2026/09/08/52/0/8256/4128/644/322/60/0/17a5ac1_ftp-1-pklyl4oefemr-2026-09-08t160645z-869989208-rc21fnabvr42-rtrmadp-3-israel-palestinians-settlers-britain.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -f71527179f68",
+      "title": "Yemen’s Saudi-backed forces strike Houthis on western coast",
+      "description": "Saudi-backed Yemeni government forces are intensifying their counteroffensive against the Houthis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-09T02:06:02Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788919487.jpg?resize=1920%2C1001&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -36,21 +66,6 @@
       "tags": []
     },
     {
-      "id": "al -dc757b9ab751",
-      "title": "Police bodycam captures Russian missile strike on Kyiv",
-      "description": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine’s capital Kiev",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-08T20:43:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788900223.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -5d420c9be92c",
       "title": "As Israel’s ‘capital of the north’ seeks to recover from war, it’s too quiet",
       "description": "Tens of thousands of Israelis were evacuated from their homes near the border with Lebanon. Many of them have still not returned.",
@@ -63,6 +78,21 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-1d20aa1d7fee",
+      "title": "Trump tells Putin he wants swift end to Ukraine war, Kremlin says",
+      "description": "US President Donald Trump told Russian President Vladimir Putin he wanted a swift end to the Ukraine war, the Kremlin said, arguing that peace could pave the way for a broad restoration of US-Russia ties. The hour-long call Tuesday followed weekend talks by US envoys Steve Witkoff and Jared Kushner in Moscow and Kyiv t…",
+      "url": "https://www.france24.com/en/europe/20260908-trump-tells-putin-he-wants-swift-end-to-ukraine-war-kremlin-says",
+      "source": "France24",
+      "publishedAt": "2026-09-08T19:07:58Z",
+      "image": "https://s.france24.com/media/display/ee5ea8d0-abb3-11f1-86a0-005056bfb2b6/w:1024/p:16x9/000-C4EQ663.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -98,21 +128,6 @@
       "tags": []
     },
     {
-      "id": "fra-0bd9e3f3e630",
-      "title": "Israel to close British consulate in Jerusalem after sanctions on settlements",
-      "description": "British Foreign Secretary Ed Miliband accused the Israeli government on Tuesday of turning a \"blind eye\" to what he called \"ethnic cleansing\" by settlers in the West Bank as the UK joined France and ten other countries in banning imports from Israeli settlements in the occupied territory. The decision comes amid rising…",
-      "url": "https://www.france24.com/en/middle-east/20260908-middle-east-live-israel-to-close-british-consulate-in-jerusalem-after-sanctions-on-settlements",
-      "source": "France24",
-      "publishedAt": "2026-09-08T15:10:03Z",
-      "image": "https://s.france24.com/media/display/2d0aaf1c-ab95-11f1-bf19-005056a97e36/w:1024/p:16x9/000-C4N84NZ.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-881faf2fe3b3",
       "title": "Russia Says It Expects Ukraine Peace Talks to Resume as Deadly Attack Hits Kyiv",
       "description": "Russia says it expects trilateral talks with Ukraine and the US to resume, even as its forces launched a deadly attack on Kyiv. Peskov also welcomed US and Indian peace efforts and accused Kyiv of prolonging the war.",
@@ -124,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -940215182b27",
-      "title": "12 countries including France, UK announce sanctions on Israeli settlements in West Bank",
-      "description": "During an address to the UK parliament, British Foreign Secretary Ed Miliband accused the Israeli government of turning a 'blind eye' to what he called 'ethnic cleansing' by the Israeli settlers.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/08/12-countries-including-france-uk-say-to-sanction-trade-from-israeli-settlements_6757291_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-08T13:05:12Z",
-      "image": "https://img.lemde.fr/2026/09/08/135/0/5991/2995/644/322/60/0/a86dbb3_ftp-1-ebeiiwp76xp4-2026-09-08t083505z-316074692-rc2dsja68gcr-rtrmadp-3-israel-palestinians-settlers-britain.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T03:40:25Z",
+  "updated": "2026-09-09T08:46:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/apple-s-android-battle-offers-us-ai-companies-a-playbook-for-china",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-09T03:40:21Z",
+      "publishedAt": "2026-09-09T08:46:23Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F9%2F0%2F13060992-1-eng-GB%2Fe58a886a150b-AP25094741702004.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,48 +21,64 @@
       "tags": []
     },
     {
-      "id": "le -e8dcedcb98ce",
-      "title": "Eleven European countries and Canada impose sanctions on Israel over products from settlements in the West Bank",
-      "description": "Following the United Kingdom's lead, France, Denmark, Spain, Finland, Ireland, Iceland, Norway, Poland, Portugal, Sweden and Canada have chosen to impose sanctions on all settlements.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/09/eleven-european-countries-and-canada-impose-sanctions-on-israel-over-products-from-settlements-in-the-west-bank_6757323_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-09T02:29:13Z",
-      "image": "https://img.lemde.fr/2026/09/08/52/0/8256/4128/644/322/60/0/17a5ac1_ftp-1-pklyl4oefemr-2026-09-08t160645z-869989208-rc21fnabvr42-rtrmadp-3-israel-palestinians-settlers-britain.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f71527179f68",
-      "title": "Yemen’s Saudi-backed forces strike Houthis on western coast",
-      "description": "Saudi-backed Yemeni government forces are intensifying their counteroffensive against the Houthis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-09T02:06:02Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788919487.jpg?resize=1920%2C1001&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-82430d2d4ec0",
-      "title": "Casa Bianca, 'stop a prodotti lattiero-caseari, alcolici e moto dal Canada'",
-      "description": "'Discriminati i nostri prodotti'. Impennata della guerra commerciale tra i due Paesi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/09/casa-bianca-stop-a-prodotti-lattiero-caseari-alcolici-e-moto-dal-canada_2e5d9b2c-5ecf-4762-bc87-6e954bbaebfc.html",
+      "id": "ans-ca9cfd0e62c3",
+      "title": "Media, Trump non ha chiesto a Burnham di cambiare idea sulle sanzioni",
+      "description": "Axios e giornali israeliani,telefonata a inizio settimana, 'nessuna richiesta di rimandare",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/09/media-trump-non-ha-chiesto-a-burnham-di-cambiare-idea-sulle-sanzioni_3422f034-3a55-40bf-bdec-c5a9c981fb8e.html",
       "source": "ANSA",
-      "publishedAt": "2026-09-08T23:29:40Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2014/8/7/d1e280c9f25ddceee60258a4a6855b41.jpg",
+      "publishedAt": "2026-09-09T08:14:15Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/c08c96c9d6e8427e92f2da11f2a4d7a3.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -328cc07d81c7",
+      "title": "Israel targets UK in retaliation for West Bank sanctions",
+      "description": "The Israeli government announced the closure of the British consulate in Jerusalem and the expulsion of diplomats stationed at the International Support Center for Gaza.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/09/israel-targets-uk-in-retaliation-for-west-bank-sanctions_6757333_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-09T07:59:13Z",
+      "image": "https://img.lemde.fr/2026/09/08/443/0/6000/3000/644/322/60/0/e2e8ab7_ftp-1-xpnsikllonci-2026-09-08t163738z-503755168-rc23fna7ums5-rtrmadp-3-israel-palestinians-settlers-britain-consulate.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-e34eb0db1352",
+      "title": "4 Killed in Ukrainian Attack on Novorossiysk",
+      "description": "Russian officials said more than two dozen people were wounded during the overnight attack on the port city.",
+      "url": "https://www.themoscowtimes.com/2026/09/09/4-killed-in-ukrainian-attack-on-novorossiysk-a93664",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-09T07:34:48Z",
+      "image": "https://static.themoscowtimes.com/image/og/b3/93664__b3308ea9aee1f0c4c347ca531713523a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -10cb4e2c42ff",
+      "title": "Why US-Iran war over Hormuz is threatening the Gulf’s waters",
+      "description": "US-Iran attacks on tankers around Hormuz are raising fears of devastating oil spills across the Gulf.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-09T05:47:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/KYLO-ATTACK-AFP-1788881417.gif?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -174,6 +190,21 @@
       "tags": []
     },
     {
+      "id": "deu-70261b63d135",
+      "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
+      "description": "Ratko Mladic, the former Bosnian Serb commander convicted of genocide in Srebrenica, has been buried in Belgrade. The funeral, broadcast live on TV, comes just days before President Vucic is expected to call an election.",
+      "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-07T15:03:00Z",
+      "image": "https://static.dw.com/image/79147764_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-123d260e25dd",
       "title": "Serbia Honors 'Butcher Of Bosnia' Ratko Mladic, Drawing Outrage Over Glorification",
       "description": "Thousands attended the Belgrade funeral for convicted war criminal Ratko Mladic, who died while serving a life sentence for genocide, war crimes, and crimes against humanity. The public honors surrounding the burial of the former Bosnian Serb commander have angered survivors and relatives of victims of the 1995 Srebren…",
@@ -187,37 +218,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-4812261c11a7",
-      "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
-      "description": "US envoys Steve Witkoff and Jared Kushner held talks with Ukrainian President Volodymyr Zelenskyy in Kyiv, seeking to revive efforts to end the war. But the latest diplomatic push seems to have produced no breakthrough.",
-      "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-06T22:22:00Z",
-      "image": "https://static.dw.com/image/79054934_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-226bfda8af11",
-      "title": "Russia’s Lavrov Calls Accusations of Moscow’s Involvement in Leipzig Drone Incident ‘Start of Real War'",
-      "description": "The German government said last week that Russia was responsible for an attempted drone attack at Leipzig/Halle Airport.",
-      "url": "https://www.themoscowtimes.com/2026/09/06/russias-lavrov-calls-accusations-of-moscows-involvement-in-leipzig-drone-incident-start-of-real-war-a93646",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-06T11:31:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/18/93646__18c3e07351f6780e88d529ae967d0731.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T17:39:45Z",
+  "updated": "2026-09-09T20:38:09Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-09-02T18:57:47Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-09-09",
       "wikipediaRevision": "2026-09-09T16:32:22Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -134,7 +134,7 @@
       "lastUpdate": "2026-09-01",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-09-01T15:57:34Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "cd-east",
@@ -227,7 +227,7 @@
       "wikipediaPage": "Boko_Haram_insurgency",
       "lastUpdate": "2026-09-07",
       "wikipediaRevision": "2026-09-07T20:07:45Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "mx-cartels",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 5
     },
     {
       "id": "et-am",
@@ -359,8 +359,8 @@
         "Armed groups"
       ],
       "wikipediaPage": "Colombian_conflict",
-      "lastUpdate": "2026-09-04",
-      "wikipediaRevision": "2026-09-04T08:43:30Z",
+      "lastUpdate": "2026-09-09",
+      "wikipediaRevision": "2026-09-09T19:42:48Z",
       "recentNewsCount": 0
     },
     {
@@ -429,7 +429,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-09-08",
       "wikipediaRevision": "2026-09-08T11:30:21Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "wb-isr",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 2
     }
   ]
 }

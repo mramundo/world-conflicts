@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-09T17:39:36Z",
+  "updated": "2026-09-09T20:37:57Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/apple-s-android-battle-offers-us-ai-companies-a-playbook-for-china",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-09T17:39:33Z",
+      "publishedAt": "2026-09-09T20:37:53Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F9%2F9%2F0%2F13060992-1-eng-GB%2Fe58a886a150b-AP25094741702004.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,18 +21,79 @@
       "tags": []
     },
     {
-      "id": "ans-cc797384b64d",
-      "title": "Fonti Ue, la Slovacchia blocca l'estensione delle sanzioni a Mosca",
-      "description": "C'è tempo fino al 15 settembre per trovare l'intesa, il Coreper tornerà a riunirsi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/09/fonti-ue-la-slovacchia-blocca-lestensione-delle-sanzioni-a-mosca_bd016c2b-df9e-4d09-98ca-42a231b38bb0.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-09T14:36:45Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/9/221b547ebfbc309616413484a111b181.jpg",
+      "id": "le -a6007698504a",
+      "title": "Syria condemns Netanyahu's 'illegal' entry into its territory",
+      "description": "The Israeli prime minister visited Israeli troops stationed in southern Syria on Wednesday. His trip across the border drew condemnation from Damascus, which slammed it as inflammatory and a violation of the country's sovereignty.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/09/syria-condemns-netanyahu-s-illegal-entry-into-its-territory_6757360_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-09T20:08:06Z",
+      "image": "https://img.lemde.fr/2026/08/20/375/0/4500/2250/644/322/60/0/4b6345f_ftp-1-cjoan14k844f-2026-08-20t145844z-607844057-rc2b2nakhjyc-rtrmadp-3-israel-syria.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 5,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-002ce9f3cab6",
+      "title": "Houthi offensive on Bab al-Mandeb may bring 'tremendous leverage', analyst explains",
+      "description": "The Saudi-led coalition in Yemen on Wednesday said the Iran-backed Houthis had launched fresh attacks on the kingdom's south, after the rebels launched an offensive seeking to control the Bab al-Mandab Strait. Speaking with FRANCE 24's Mark Owen, Adam Baron, Fellow at the New America Foundation, says that \"if you have …",
+      "url": "https://www.france24.com/en/houthi-offensive-on-bab-al-mandeb-may-bring-tremendous-leverage-analyst-explains",
+      "source": "France24",
+      "publishedAt": "2026-09-09T19:35:36Z",
+      "image": "https://s.france24.com/media/display/45797214-8074-11f1-ae80-005056a90284/w:1024/p:16x9/2026-07-15T145635Z-188060635-RC2EEMAOW6BY-RTRMADP-3-IRAN-CRISIS-YEMEN-RED-SEA-SATELLITE.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-2bbefaaac5eb",
+      "title": "Nuova escalation Iran-Usa, Teheran estende l'area sotto sanzioni a Hormuz",
+      "description": "Trump: 'La guerra finirà dopo le nostre elezioni'. Vola il greggio",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/09/iran-attaccate-2-navi-statunitensi-e-10-petroliere-nel-golfo_17dd8e7d-5836-4e9b-a20d-4f323a23a961.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-09T19:14:37Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/5/21/b7c0becc3c0acce51a48054562e886f8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-3d59153b95ad",
+      "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+      "description": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi citiesBusiness live – latest updatesThe price of oil has risen above $100 a barrel for the first time since July as the escalating conflict in the Middle East threatens further disruption to global supplies.Brent cr…",
+      "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-09T19:09:13Z",
+      "image": "https://i.guim.co.uk/img/media/1d187438efe895eb93e14842350bd18880f9373a/0_0_6341_5072/master/6341.jpg?width=140&quality=85&auto=format&fit=max&s=c2e6d7c79b8f8af0961142cfdc6b410c",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -19517224dd41",
+      "title": "How significant are new European sanctions on illegal Israeli settlements?",
+      "description": "Israel is accused of the ethnic cleansing of Palestinians.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-09T18:23:27Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa1a0f02ede-1788977392.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -47,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -5c0250ec8620",
-      "title": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
-      "description": "The reported truce follows the release of 360 villagers abducted during a Boko Haram attack in northeastern Nigeria.",
-      "url": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-09T13:35:34Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-21T093450Z_1737588547_RC2JRHALUKUP_RTRMADP_3_USA-NIGERIA-SECURITY-1776013115.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,36 +143,6 @@
       "tags": []
     },
     {
-      "id": "fra-a987e4b0e270",
-      "title": "Houthis report Saudi reprisals after oil sites set ablaze in wave of strikes",
-      "description": "The Houthis said Saudi Arabia retaliated with strikes on Tuesday after the group targeted oil facilities, wounding dozens, as deadly fighting reignited in Yemen after a Houthi offensive towards the Red Sea's Bab al-Mandab chokepoint. The rapid round of strikes and counter-strikes follows the unravelling of a four-year …",
-      "url": "https://www.france24.com/en/video/20260909-houthis-report-saudi-reprisals-after-oil-sites-set-ablaze-in-wave-of-strikes",
-      "source": "France24",
-      "publishedAt": "2026-09-09T10:14:29Z",
-      "image": "https://s.france24.com/media/display/875544f0-ac35-11f1-b65d-005056bfb2b6/w:1024/p:16x9/EN-20260909-103420-103619-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -b56439a890f7",
-      "title": "British PM Burnham defends West Bank sanctions after Israel closes UK consulate",
-      "description": "British Prime Minister Andy Burnham said Wednesday his country would stand with those being forced from their homes in the occupied West Bank after Israel closed the UK consulate in Jerusalem over London-led sanctions targeting settler violence against Palestinians.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/09/uk-rejects-israel-s-damaging-retaliation-over-west-bank-settlement-sanctions_6757336_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-09T09:19:02Z",
-      "image": "https://img.lemde.fr/2026/09/09/104/0/7741/3870/644/322/60/0/f0b0f44_ftp-1-i5fqligsf1yo-5036568-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-e34eb0db1352",
       "title": "4 Killed in Ukrainian Attack on Novorossiysk",
       "description": "Russian officials said more than two dozen people were wounded during the overnight attack on the port city.",
@@ -138,21 +154,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-8f711338f49b",
-      "title": "Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements",
-      "description": "In today’s newsletter: Ed Miliband has announced the strongest statement on Israel’s actions ever issued by the the UK government, but will it make a meaningful difference to Palestinians?Good morning. For almost half a century, British governments have condemned illegal Israeli settlements, acknowledging they represen…",
-      "url": "https://www.theguardian.com/world/2026/sep/09/wednesday-briefing-inside-sweeping-uk-sanctions-on-trade-with-israeli-settlements",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-09T05:46:18Z",
-      "image": "https://i.guim.co.uk/img/media/d9734320b2021c7eab5aaf9cb7a52cdf6c75bd22/377_0_3077_2463/master/3077.jpg?width=140&quality=85&auto=format&fit=max&s=5812b1455853818e95e9d5c63c83f838",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -184,21 +185,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-abc98f80dcf8",
-      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
-      "description": "France, Canada and other countries joined the U.K. in banning goods from Israeli settlements in the occupied West Bank. Israel said it would close the British Consulate among other measures.",
-      "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
-      "source": "NPR World",
-      "publishedAt": "2026-09-08T13:05:20Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5796x3864+0+0/resize/5796x3864!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2F80%2F63c56f2e41bf841381454e618426%2Fgettyimages-2289923446.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

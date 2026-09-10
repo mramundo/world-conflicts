@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T03:38:09Z",
+  "updated": "2026-09-10T08:44:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-10T03:38:04Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F4%2F4%2F13074456-1-eng-GB%2F37d498599964-2026-09-10-10.33.25.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-09-10T08:44:17Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-5553897481c1",
+      "title": "Media, gli Houthi hanno conquistato la città yemenita di Mocha sul Mar Rosso",
+      "description": "Reuters sul sito: 'Ribelli filo-iran si avvicinano al controllo di Bab el-Mandeb'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/10/media-gli-houthi-hanno-conquistato-la-citta-yemenita-di-mocha-sul-mar_8fec3631-c83e-464d-ab93-cd657b9b14a1.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-10T08:31:29Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/8/89f6cae488e37aecee270583b1219f75.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-4fc194966385",
+      "title": "Tens of millions of people fail to get humanitarian aid as global system crumbles",
+      "description": "Funding cuts in 2025 left women, children, older and displaced people hard hit, with 64m fewer people receiving aidThe humanitarian aid system is crumbling as funding shrinks, pressures increase and governments not only fail to protect civilians but are increasingly responsible for endangering them, a new report warned…",
+      "url": "https://www.theguardian.com/global-development/2026/sep/10/global-humanitarian-aid-crisis-64m-fewer-people-received-help-report",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-10T08:00:19Z",
+      "image": "https://i.guim.co.uk/img/media/e4b910342ba76f8b20dec9eadb10a03041a5c598/495_0_4946_3956/master/4946.jpg?width=140&quality=85&auto=format&fit=max&s=10112ac17d6c286341daa42eab421fe9",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,6 +67,37 @@
       "tags": []
     },
     {
+      "id": "fra-93882a9692dd",
+      "title": "Middle East live: Yemen’s Houthi rebels report roughly 40 Saudi air strikes",
+      "description": "Yemen’s Iran-aligned Houthi rebels said Thursday that Saudi forces launched a barrage of roughly 40 air strikes on four provinces in the war-torn country. The militant group has recently launched repeated strikes on Saudi oil facilities as renewed fighting intensifies between the Houthis and Saudi-backed forces. Follow…",
+      "url": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
+      "source": "France24",
+      "publishedAt": "2026-09-10T02:46:54Z",
+      "image": "https://s.france24.com/media/display/0b4ab62c-ace6-11f1-82e2-005056bf30b7/w:1024/p:16x9/2026-09-09T182414Z-1353663483-RC2UFNAGR8LS-RTRMADP-3-IRAN-CRISIS-YEMEN-SAUDI.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-54e80567fdca",
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-09T20:28:04Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -a6007698504a",
       "title": "Syria condemns Netanyahu's 'illegal' entry into its territory",
       "description": "The Israeli prime minister visited Israeli troops stationed in southern Syria on Wednesday. His trip across the border drew condemnation from Damascus, which slammed it as inflammatory and a violation of the country's sovereignty.",
@@ -47,51 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-002ce9f3cab6",
-      "title": "Houthi offensive on Bab al-Mandeb may bring 'tremendous leverage', analyst explains",
-      "description": "The Saudi-led coalition in Yemen on Wednesday said the Iran-backed Houthis had launched fresh attacks on the kingdom's south, after the rebels launched an offensive seeking to control the Bab al-Mandab Strait. Speaking with FRANCE 24's Mark Owen, Adam Baron, Fellow at the New America Foundation, says that \"if you have …",
-      "url": "https://www.france24.com/en/houthi-offensive-on-bab-al-mandeb-may-bring-tremendous-leverage-analyst-explains",
-      "source": "France24",
-      "publishedAt": "2026-09-09T19:35:36Z",
-      "image": "https://s.france24.com/media/display/45797214-8074-11f1-ae80-005056a90284/w:1024/p:16x9/2026-07-15T145635Z-188060635-RC2EEMAOW6BY-RTRMADP-3-IRAN-CRISIS-YEMEN-RED-SEA-SATELLITE.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-2bbefaaac5eb",
-      "title": "Nuova escalation Iran-Usa, Teheran estende l'area sotto sanzioni a Hormuz",
-      "description": "Trump: 'La guerra finirà dopo le nostre elezioni'. Vola il greggio",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/09/iran-attaccate-2-navi-statunitensi-e-10-petroliere-nel-golfo_17dd8e7d-5836-4e9b-a20d-4f323a23a961.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-09T19:14:37Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/5/21/b7c0becc3c0acce51a48054562e886f8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-6d6f3fbdbaa0",
-      "title": "‘It’s a good start’: prominent Israelis welcome UK sanctions on illegal settlements",
-      "description": "Ed Miliband’s intervention was ‘inevitable’ after Israeli government and security failures, say former ministers and diplomatsProminent Israelis have welcomed new UK sanctions as a necessary response to settlement expansion and spiralling violence in the occupied West Bank.The intervention was described – by the presid…",
-      "url": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-09T17:36:42Z",
-      "image": "https://i.guim.co.uk/img/media/b7b81eae06b9a4d1cc259ea081d36258f9007bc5/98_0_3288_2632/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=1cac9b9d0c2fcb161b9e331c246889cd",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,23 +128,8 @@
       "tags": []
     },
     {
-      "id": "bbc-4b9e58b413d5",
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-09T13:29:33Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-fbd29388b5a4",
-      "title": "Russian Strikes Hit Ukraine, Border Crossing Near Moldova",
+      "title": "Russian Drone Attack Kills 2 Near Moldova As Norway Says Zelenskyy's Plane Nearly Struck",
       "description": "A Russian drone attack targeted a border crossing between Ukraine and Moldova, killing two people and injuring three others, while another drone struck a residential building in Kyiv, as Moscow continues its campaign of near-continuous strikes across Ukraine.",
       "url": "https://www.rferl.org/a/russia-attack-ukraine-moldova-checkpoint/33850936.html",
       "source": "RFE/RL",
@@ -137,7 +139,7 @@
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     },

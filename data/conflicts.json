@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T03:38:19Z",
+  "updated": "2026-09-10T08:44:35Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-09-10T00:45:00Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-09-02",
       "wikipediaRevision": "2026-09-02T21:20:34Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     },
     {
       "id": "il-ps",
@@ -429,7 +429,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-09-08",
       "wikipediaRevision": "2026-09-08T11:30:21Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "wb-isr",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     }
   ]
 }

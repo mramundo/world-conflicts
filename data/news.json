@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T08:44:22Z",
+  "updated": "2026-09-10T13:22:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-10T08:44:17Z",
+      "publishedAt": "2026-09-10T13:22:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,91 @@
       "tags": []
     },
     {
+      "id": "deu-e6b1f9abe428",
+      "title": "Myanmar seeks closer foreign ties amid global isolation",
+      "description": "Myanmar coup leader Min Aung Hlaing has been on a diplomatic offensive since becoming president in April, but foreign friends may still be few and far between.",
+      "url": "https://www.dw.com/en/myanmar-seeks-closer-foreign-ties-amid-global-isolation/a-79212234?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-10T12:09:00Z",
+      "image": "https://static.dw.com/image/76651623_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-e44333098583",
+      "title": "Ethiopia's Tigray rebels accuse govt of new drone strike",
+      "description": "Rebel Tigrayan authorities accused Ethiopia of another drone strike in the country's northern region on Tuesday. The federal government has launched multiple drone strikes in Tigray in recent weeks and massed troops at the regional border, raising fears of a return to the civil war of 2020-2022 that killed some 600,000…",
+      "url": "https://www.france24.com/en/video/20260910-ethiopia-s-tigray-rebels-accuse-govt-of-new-drone-strike",
+      "source": "France24",
+      "publishedAt": "2026-09-10T11:23:38Z",
+      "image": "https://s.france24.com/media/display/aeefa1b8-ad07-11f1-ac5b-005056bf30b7/w:1024/p:16x9/EN-20260909-214816-214927-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -276bcce52576",
+      "title": "The Houthis are testing the limits of Saudi restraint",
+      "description": "Riyadh needs to restore deterrence without being pulled back into a prolonged Yemen war.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-10T11:17:23Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa18c010e16-1788972033.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "ans-5553897481c1",
-      "title": "Media, gli Houthi hanno conquistato la città yemenita di Mocha sul Mar Rosso",
+      "title": "Allarme sul Mar Rosso, gli Houthi conquistano la città yemenita di Mocha. Yemen: conquistato l'isola di Zuqar",
       "description": "Reuters sul sito: 'Ribelli filo-iran si avvicinano al controllo di Bab el-Mandeb'",
       "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/10/media-gli-houthi-hanno-conquistato-la-citta-yemenita-di-mocha-sul-mar_8fec3631-c83e-464d-ab93-cd657b9b14a1.html",
       "source": "ANSA",
-      "publishedAt": "2026-09-10T08:31:29Z",
+      "publishedAt": "2026-09-10T10:54:26Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/8/89f6cae488e37aecee270583b1219f75.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-21268c043944",
+      "title": "From Russia With Expertise: Iranian Students Return Home With Potentially Deadly Knowledge Of Drones, AI, And More",
+      "description": "Iranians studying in Russia often work on projects with military applications, an analysis by Systema shows -- and upon return, some join entities linked to Iran’s armed forces. These ties are growing: The number of Iranians studying at Russian universities has jumped during Moscow’s war on Ukraine.",
+      "url": "https://www.rferl.org/a/russia-iran-dual-use-military-students-research/33850183.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-10T10:30:56Z",
+      "image": "https://gdb.rferl.org/7ed6caa1-6e59-4211-17e7-08df0d9e653b_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-6daa1f7cb9c0",
+      "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
+      "description": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
+      "source": "NPR World",
+      "publishedAt": "2026-09-10T08:43:02Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5962860",
       "categories": [
         "conflict"
       ],
@@ -51,96 +129,33 @@
       "tags": []
     },
     {
-      "id": "al -64f6d7b40256",
-      "title": "Why is Iran bombing Jordan’s Al-Azraq base?",
-      "description": "Iran has increased its targeting of Jordan’s Muwaffaq Salti Air Base near Al-Azraq in recent weeks.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-10T03:02:18Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789009315.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-93882a9692dd",
-      "title": "Middle East live: Yemen’s Houthi rebels report roughly 40 Saudi air strikes",
-      "description": "Yemen’s Iran-aligned Houthi rebels said Thursday that Saudi forces launched a barrage of roughly 40 air strikes on four provinces in the war-torn country. The militant group has recently launched repeated strikes on Saudi oil facilities as renewed fighting intensifies between the Houthis and Saudi-backed forces. Follow…",
-      "url": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
-      "source": "France24",
-      "publishedAt": "2026-09-10T02:46:54Z",
-      "image": "https://s.france24.com/media/display/0b4ab62c-ace6-11f1-82e2-005056bf30b7/w:1024/p:16x9/2026-09-09T182414Z-1353663483-RC2UFNAGR8LS-RTRMADP-3-IRAN-CRISIS-YEMEN-SAUDI.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-54e80567fdca",
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-09T20:28:04Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -a6007698504a",
-      "title": "Syria condemns Netanyahu's 'illegal' entry into its territory",
-      "description": "The Israeli prime minister visited Israeli troops stationed in southern Syria on Wednesday. His trip across the border drew condemnation from Damascus, which slammed it as inflammatory and a violation of the country's sovereignty.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/09/syria-condemns-netanyahu-s-illegal-entry-into-its-territory_6757360_4.html",
+      "id": "le -1e33e4471be3",
+      "title": "Bayeux Tapestry exhibition at British Museum opens",
+      "description": "The British Museum has so far sold a record 100,000 tickets for the highly anticipated showing of the medieval artwork depicting the 1066 Battle of Hastings.",
+      "url": "https://www.lemonde.fr/en/culture/article/2026/09/10/bayeux-tapestry-enthusiasm-engulfs-the-uk-as-sold-out-exhibition-opens_6757371_30.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-09T20:08:06Z",
-      "image": "https://img.lemde.fr/2026/08/20/375/0/4500/2250/644/322/60/0/4b6345f_ftp-1-cjoan14k844f-2026-08-20t145844z-607844057-rc2b2nakhjyc-rtrmadp-3-israel-syria.JPG",
+      "publishedAt": "2026-09-10T07:23:35Z",
+      "image": "https://img.lemde.fr/2026/09/10/0/0/7056/3528/644/322/60/0/1e6d006_ftp-1-blseswehlfr2-5043077-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "deu-cedfc122b5b3",
-      "title": "Syria arms depot explosion kills at least 14",
-      "description": "The explosion struck near the Syrian city of Sarmada in Idlib province in the northwest. The Defense Ministry said the weapons and remnants from the war were being stored temporarily at the site before being relocated.",
-      "url": "https://www.dw.com/en/syria-arms-depot-explosion-kills-at-least-14/a-79203314?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-09T13:53:00Z",
-      "image": "https://static.dw.com/image/79203144_6.jpg",
+      "id": "bbc-1214412330e2",
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+      "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
+      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-09T21:21:13Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dfe/live/ef7217b0-ac7c-11f1-994b-c7df927931ed.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-fbd29388b5a4",
-      "title": "Russian Drone Attack Kills 2 Near Moldova As Norway Says Zelenskyy's Plane Nearly Struck",
-      "description": "A Russian drone attack targeted a border crossing between Ukraine and Moldova, killing two people and injuring three others, while another drone struck a residential building in Kyiv, as Moscow continues its campaign of near-continuous strikes across Ukraine.",
-      "url": "https://www.rferl.org/a/russia-attack-ukraine-moldova-checkpoint/33850936.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-09T12:06:19Z",
-      "image": "https://gdb.rferl.org/ddc71ae9-c974-485c-eadf-08df0d9fbd58_cx0_cy3_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -186,21 +201,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-abc98f80dcf8",
-      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
-      "description": "France, Canada and other countries joined the U.K. in banning goods from Israeli settlements in the occupied West Bank. Israel said it would close the British Consulate among other measures.",
-      "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
-      "source": "NPR World",
-      "publishedAt": "2026-09-08T13:05:20Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5796x3864+0+0/resize/5796x3864!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2F80%2F63c56f2e41bf841381454e618426%2Fgettyimages-2289923446.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T10:48:31Z",
+  "updated": "2026-09-11T14:52:39Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-11T10:48:26Z",
+      "publishedAt": "2026-09-11T14:52:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,80 @@
       "tags": []
     },
     {
-      "id": "al -9cc96f361a7c",
-      "title": "What did 25 years of the “war on terror” leave behind?",
-      "description": "US forces have bombed somewhere every year since 2001. AJLabs maps the so-called “war on terror”.",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
+      "id": "fra-d5aa8c86f123",
+      "title": "Hate speech against Rohingya refugees on the rise in Malaysia",
+      "description": "Hostile social media content, disinformation campaigns, and a petition calling for their expulsion: in Malaysia, a wave of hate speech has been targeting Rohingya refugees, a Muslim minority driven out of Myanmar. The rising hostility has already led to the eviction of more than 100 people from a village and forced the…",
+      "url": "https://www.france24.com/en/tv-shows/the-observers/20260911-hate-speech-rohingya-refugees-rise-malaysia",
+      "source": "France24",
+      "publishedAt": "2026-09-11T14:34:53Z",
+      "image": "https://s.france24.com/media/display/78029d66-adea-11f1-ab9f-005056bf30b7/w:1024/p:16x9/Unbenannt-2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -7f35b3b2e420",
+      "title": "Myanmar airport closed following reported drone attack",
+      "description": "Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T08:20:32Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/BTN_Thumbnail_Landscape_V07-1789114775.png?resize=1920%2C1008&amp;quality=80",
+      "publishedAt": "2026-09-11T12:22:12Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa3d2dc2049-1789121244.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-b3cc3f19c327",
+      "title": "How 9/11 Changed America and Tested NATO’s Article 5",
+      "description": "The Sept. 11 attacks killed 2,977 people, transformed American security, and began two decades of war. They also provided NATO’s only test of Article 5. Allies defended US airspace and later deployed tens of thousands of troops, but each government retained control over what it contributed. That distinction remains cri…",
+      "url": "https://www.kyivpost.com/analysis/84289",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-11T12:05:24Z",
+      "image": "https://static.kyivpost.com/storage/2026/09/11/604a8519760f40e17801ce3b86a15484.jpg?w=640&q=90&f=jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-359d673859c9",
+      "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
+      "description": "The Houthi takeovers of Mokha, Dhubab and Perim in the Bab el-Mandeb Strait threaten to push Yemen deeper into the Middle East war. The Iran-backed group has made advances against Yemen's government and Saudi Arabia.",
+      "url": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-11T11:52:00Z",
+      "image": "https://static.dw.com/image/79217238_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-e9c131aac152",
+      "title": "'Save Him!' RFE/RL Captures Chaos After Russian Strike On Ukrainian Shops",
+      "description": "Ukraine’s foreign minister is urging allies to provide more air defenses after a Russian drone strike on Pavlohrad killed at least five people and injured dozens. RFE/RL correspondent Roman Pahulych arrived as emergency crews treated the wounded and battled fires.",
+      "url": "https://www.rferl.org/a/rfe-rl-captures-chaos-after-russian-strike-on-ukrainian-shops-in-pavlohrad/33852377.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-11T11:21:57Z",
+      "image": "https://gdb.rferl.org/2289878f-0686-47f7-8390-08df0f43374f_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": true,
       "tags": []
     },
@@ -51,22 +113,6 @@
       "tags": []
     },
     {
-      "id": "rfe-099c19297cfc",
-      "title": "The Kremlin Tries A New Weapon For Its War: The Relics Of A 14th-Century Saint",
-      "description": "With the blessing of the Russian Orthodox Church, officials unearthed the remains of a warrior prince whose 14th-century battlefield victory is a seminal moment in Russian history. Fragments are now being sent to the front lines in Moscow’s war on Ukraine.",
-      "url": "https://www.rferl.org/a/russia-orthodox-putin-dmitry-donskoi-sacred-relics/33851764.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-11T05:33:02Z",
-      "image": "https://gdb.rferl.org/de0208a2-61d7-4614-8d24-f02927735f52_cx0_cy9_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "ans-fef64aa78d4f",
       "title": "Trump, 'non ho rimpianti sulla guerra all'Iran ma talvolta mi faccio domande'",
       "description": "Intervista alla Fox",
@@ -78,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-9f2c18b0d854",
-      "title": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
-      "description": "Yemen’s Houthis seized the strategic Red Sea port city of Mocha on Thursday as their offensive against Saudi-backed government forces intensified. Saudi Arabia launched dozens of airstrikes over the past 24 hours, the Houthis said, after the Iran-backed group carried out attacks on Saudi territory that wounded dozens o…",
-      "url": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
-      "source": "France24",
-      "publishedAt": "2026-09-10T22:55:18Z",
-      "image": "https://s.france24.com/media/display/6446b3f2-abb0-11f1-b7c5-005056bfb2b6/w:1024/p:16x9/c11f1b5f361174a659ad76cf10d47f1376a66e00.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -143,37 +174,6 @@
       "tags": []
     },
     {
-      "id": "the-743183352673",
-      "title": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
-      "description": "Part of Dmitry Donskoy’s right hand sent to ‘spiritually strengthen’ soldiersThe Russian Orthodox church has sent a fragment of a medieval warrior prince’s remains to troops fighting in Ukraine, saying the relic would “spiritually strengthen” soldiers and help them achieve victory.A reliquary containing part of the rig…",
-      "url": "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-10T15:12:08Z",
-      "image": "https://i.guim.co.uk/img/media/24294c6f7bb0e48ff169ce85b79590224dc991ca/270_0_2697_2157/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=0813a3c26dbed365064bc7e422f987d2",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-e6b1f9abe428",
-      "title": "Myanmar seeks closer foreign ties amid global isolation",
-      "description": "Myanmar coup leader Min Aung Hlaing has been on a diplomatic offensive since becoming president in April, but foreign friends may still be few and far between.",
-      "url": "https://www.dw.com/en/myanmar-seeks-closer-foreign-ties-amid-global-isolation/a-79212234?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-10T12:09:00Z",
-      "image": "https://static.dw.com/image/76651623_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -027771baa465",
       "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
       "description": "A drone strike on the protective structure at the Chornobyl Nuclear Power Plant could have endangered the safety of millions of people, UN Development Programme (UNDP) Administrator Alexander De Croo told reporters via video link from Kyiv on Thursday.",
@@ -189,17 +189,18 @@
       "tags": []
     },
     {
-      "id": "kyi-b75b77c12a1c",
-      "title": "Kim Jong Un Publicly Praises North Korean Troops Fighting for Russia",
-      "description": "Kim Jong Un praised troops serving in “overseas military operations” during North Korea’s founding anniversary, publicly normalizing a deployment that has sent an estimated 14,000 to 15,000 soldiers to support Russia’s war against Ukraine.",
-      "url": "https://www.kyivpost.com/post/84153",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-09T23:38:15Z",
-      "image": "https://static.kyivpost.com/storage/2026/09/10/7f16094a971b7fd45473a8f75d06df76.jpg?w=640&q=90&f=jpg",
+      "id": "the-4fc194966385",
+      "title": "Tens of millions of people fail to get humanitarian aid as global system crumbles",
+      "description": "Funding cuts in 2025 left women, children, older and displaced people hard hit, with 64m fewer people receiving aidThe humanitarian aid system is crumbling as funding shrinks, pressures increase and governments not only fail to protect civilians but are increasingly responsible for endangering them, a new report warned…",
+      "url": "https://www.theguardian.com/global-development/2026/sep/10/global-humanitarian-aid-crisis-64m-fewer-people-received-help-report",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-10T08:00:19Z",
+      "image": "https://i.guim.co.uk/img/media/e4b910342ba76f8b20dec9eadb10a03041a5c598/495_0_4946_3956/master/4946.jpg?width=140&quality=85&auto=format&fit=max&s=10112ac17d6c286341daa42eab421fe9",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-11T14:52:39Z",
+  "updated": "2026-09-11T18:13:37Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-11T14:52:34Z",
+      "publishedAt": "2026-09-11T18:13:35Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -35,18 +35,19 @@
       "tags": []
     },
     {
-      "id": "al -7f35b3b2e420",
-      "title": "Myanmar airport closed following reported drone attack",
-      "description": "Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.",
-      "url": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss",
+      "id": "al -1547718899ce",
+      "title": "The dystopian legal architecture of the ‘war on terror’ must be dismantled",
+      "description": "A quarter-century after 9/11, we are still living under the security order it unleashed.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/11/the-dystopian-legal-architecture-of-the-war-on-terror-must-be-dismantled?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T12:22:12Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa3d2dc2049-1789121244.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-11T13:24:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa3fefeed-1789132542.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -155,21 +156,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -23124aaaefb3",
-      "title": "French government threatens CNews with sanctions if Russian propagandist returns on air",
-      "description": "Interior Minister Laurent Nuñez said the channel owned by billionaire Vincent Bolloré was 'circumventing' the deportation order of Xenia Fedorova and 'facilitating' Russian interference.",
-      "url": "https://www.lemonde.fr/en/politics/article/2026/09/10/french-government-threatens-cnews-with-sanctions-if-russian-propagandist-returns-on-air_6757394_5.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-10T16:24:31Z",
-      "image": "https://img.lemde.fr/2026/09/10/304/0/3649/1824/644/322/60/0/2c33d2e_ftp-1-ody6gljuzssn-5047859-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

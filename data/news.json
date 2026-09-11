@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-11T21:34:10Z",
+  "updated": "2026-09-11T23:56:20Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-11T21:34:06Z",
+      "publishedAt": "2026-09-11T23:56:15Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -1755297841ca",
+      "title": "Putin says European troop deployment in Ukraine would be 'war against Russia'",
+      "description": "The Russian president said European leaders 'are frightening their populations with an imaginary threat coming from Russia,' adding that 'this threat does not exist and has never existed.'",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/11/putin-says-european-troop-deployment-in-ukraine-would-be-war-against-russia_6757434_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-11T21:49:58Z",
+      "image": "https://img.lemde.fr/2026/09/11/561/0/6192/3096/644/322/60/0/72416c4_ftp-1-ggvtjjofmn5v-2026-09-11t213304z-554859904-rc29hnamzcix-rtrmadp-3-germany-election-putin.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-decdf4776b82",
+      "title": "The other side of 9/11: Afghans reckon with America's long shadow",
+      "description": "It's been nearly 25 years since the start of the U.S- led invasion of Afghanistan. NPR returns to Kabul to see how Afghans, now back under Taliban rule, are coping with the legacy of that 20 year war.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5949270/the-other-side-of-9-11-afghans-reckon-with-americas-long-shadow",
+      "source": "NPR World",
+      "publishedAt": "2026-09-11T21:36:20Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5949270",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -126,21 +156,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-e34ce2d53e55",
-      "title": "Iran-backed Houthi rebels seize a strategic port and island, opening a new battlefront",
-      "description": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
-      "url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
-      "source": "NPR World",
-      "publishedAt": "2026-09-11T05:40:21Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6618x4412+0+0/resize/6618x4412!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2F26%2F70548b854bb7801d39d7d604b02f%2Fap26253317964125.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T18:13:37Z",
+  "updated": "2026-09-11T21:34:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-11T18:13:35Z",
+      "publishedAt": "2026-09-11T21:34:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,34 +20,64 @@
       "tags": []
     },
     {
-      "id": "fra-d5aa8c86f123",
-      "title": "Hate speech against Rohingya refugees on the rise in Malaysia",
-      "description": "Hostile social media content, disinformation campaigns, and a petition calling for their expulsion: in Malaysia, a wave of hate speech has been targeting Rohingya refugees, a Muslim minority driven out of Myanmar. The rising hostility has already led to the eviction of more than 100 people from a village and forced the…",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260911-hate-speech-rohingya-refugees-rise-malaysia",
-      "source": "France24",
-      "publishedAt": "2026-09-11T14:34:53Z",
-      "image": "https://s.france24.com/media/display/78029d66-adea-11f1-ab9f-005056bf30b7/w:1024/p:16x9/Unbenannt-2.jpg",
+      "id": "ans-6d05c4f769f9",
+      "title": "Putin: 'Mandare truppe europee in Ucraina sarebbe una guerra contro la Russia'",
+      "description": "Il leader del Cremlino: Mosca non minaccia il Vecchio continente",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/putin-mandare-truppe-europee-in-ucraina-sarebbe-una-guerra-contro-la-russia_f19b66c4-282a-460b-99ab-2823e99b47a9.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-11T21:05:37Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/410730936ff7d5176090f98155f06b3a.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -1547718899ce",
-      "title": "The dystopian legal architecture of the ‘war on terror’ must be dismantled",
-      "description": "A quarter-century after 9/11, we are still living under the security order it unleashed.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/11/the-dystopian-legal-architecture-of-the-war-on-terror-must-be-dismantled?traffic_source=rss",
+      "id": "bbc-5c9d4dd477da",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-11T19:44:58Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82b5/live/066e1ff0-ae16-11f1-aa28-67f8824e7b72.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c97d686823bc",
+      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
+      "description": "Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T13:24:58Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa3fefeed-1789132542.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-11T19:21:48Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa437952271-1789147029.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-e452b9780b29",
+      "title": "Zelensky urges Trump to impose new Russia sanctions 'now', after deadly Ukraine strikes",
+      "description": "Ukrainian President Volodymyr Zelensky on Friday urged US President Donald Trump to impose new sanctions on Russia over deadly strikes on Ukraine, as Kyiv and Moscow step up attacks and US-led efforts to end the war remain deadlocked.",
+      "url": "https://www.france24.com/en/europe/20260911-zelensky-urges-trump-to-impose-new-russia-sanctions-now-after-deadly-ukraine-strikes",
+      "source": "France24",
+      "publishedAt": "2026-09-11T19:13:14Z",
+      "image": "https://s.france24.com/media/display/8c23efbe-ae0f-11f1-929d-005056a90284/w:1024/p:16x9/2026-09-09T104246Z-849861914-RC2MFNAOGGWF-RTRMADP-3-NORWAY-ROYALS-KING-HARALD-FUNERAL.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -100,7 +130,7 @@
     },
     {
       "id": "npr-e34ce2d53e55",
-      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+      "title": "Iran-backed Houthi rebels seize a strategic port and island, opening a new battlefront",
       "description": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
       "url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
       "source": "NPR World",
@@ -110,21 +140,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-fef64aa78d4f",
-      "title": "Trump, 'non ho rimpianti sulla guerra all'Iran ma talvolta mi faccio domande'",
-      "description": "Intervista alla Fox",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/11/trump-non-ho-rimpianti-sulla-guerra-alliran-ma-talvolta-mi-faccio-domande_f17197bc-4118-4741-a806-c1f00d1f548b.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-11T00:28:11Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/10/20ef610ca6ca814f7fb296b34c70ec4d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -142,21 +157,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-0d5e1b404fd1",
-      "title": "More than 20 children killed in DR Congo school fire",
-      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-10T19:16:24Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e261/live/77db64c0-ad28-11f1-bc1f-3f186ca4140c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {

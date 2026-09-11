@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T22:58:27Z",
+  "updated": "2026-09-11T00:56:09Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-10T22:58:25Z",
+      "publishedAt": "2026-09-11T00:56:04Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-fef64aa78d4f",
+      "title": "Trump, 'non ho rimpianti sulla guerra all'Iran ma talvolta mi faccio domande'",
+      "description": "Intervista alla Fox",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/11/trump-non-ho-rimpianti-sulla-guerra-alliran-ma-talvolta-mi-faccio-domande_f17197bc-4118-4741-a806-c1f00d1f548b.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-11T00:28:11Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/10/20ef610ca6ca814f7fb296b34c70ec4d.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -7a94fa690f66",
+      "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+      "description": "Envoy for Yemen Hans Grundberg demands urgent steps to protect civilians and trade routes amid Houthi escalation.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-10T23:46:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa329399cb38-1789077817.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f475921ce666",
-      "title": "Family of four killed as they slept in Israeli strike on Gaza",
-      "description": "Four members of a Palestinian family, including girls aged 8 and 12, were killed in an Israeli air attack as they slept",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-10T17:32:28Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789061538.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -155,21 +171,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-ecfae6a4f6a3",
-      "title": "Flavio Bolsonaro torna sul luogo dove il padre fu pugnalato nel 2018",
-      "description": "Il candidato alla presidenza ripete la scena dell'attentato a Juiz de Fora",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/flavio-bolsonaro-torna-sul-luogo-dove-il-padre-fu-pugnalato-nel-2018_2af09e81-74a0-4d8b-be90-dedd8bd7bb85.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-10T08:57:20Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/7/d337b395e55a665f3726fd9c6ace82fd.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T05:43:02Z",
+  "updated": "2026-09-11T10:48:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,60 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-11T05:42:57Z",
+      "publishedAt": "2026-09-11T10:48:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -9cc96f361a7c",
+      "title": "What did 25 years of the “war on terror” leave behind?",
+      "description": "US forces have bombed somewhere every year since 2001. AJLabs maps the so-called “war on terror”.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-11T08:20:32Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/BTN_Thumbnail_Landscape_V07-1789114775.png?resize=1920%2C1008&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-e34ce2d53e55",
+      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+      "description": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
+      "url": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+      "source": "NPR World",
+      "publishedAt": "2026-09-11T05:40:21Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6618x4412+0+0/resize/6618x4412!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2F26%2F70548b854bb7801d39d7d604b02f%2Fap26253317964125.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-099c19297cfc",
+      "title": "The Kremlin Tries A New Weapon For Its War: The Relics Of A 14th-Century Saint",
+      "description": "With the blessing of the Russian Orthodox Church, officials unearthed the remains of a warrior prince whose 14th-century battlefield victory is a seminal moment in Russian history. Fragments are now being sent to the front lines in Moscow’s war on Ukraine.",
+      "url": "https://www.rferl.org/a/russia-orthodox-putin-dmitry-donskoi-sacred-relics/33851764.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-11T05:33:02Z",
+      "image": "https://gdb.rferl.org/de0208a2-61d7-4614-8d24-f02927735f52_cx0_cy9_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -31,22 +78,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7a94fa690f66",
-      "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
-      "description": "Envoy for Yemen Hans Grundberg demands urgent steps to protect civilians and trade routes amid Houthi escalation.",
-      "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-10T23:46:07Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa329399cb38-1789077817.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -158,33 +189,17 @@
       "tags": []
     },
     {
-      "id": "rfe-21268c043944",
-      "title": "From Russia With Expertise: Iranian Students Return Home With Potentially Deadly Knowledge Of Drones, AI, And More",
-      "description": "Iranians studying in Russia often work on projects with military applications, an analysis by Systema shows -- and upon return, some join entities linked to Iran’s armed forces. These ties are growing: The number of Iranians studying at Russian universities has jumped during Moscow’s war on Ukraine.",
-      "url": "https://www.rferl.org/a/russia-iran-dual-use-military-students-research/33850183.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-10T10:30:56Z",
-      "image": "https://gdb.rferl.org/7ed6caa1-6e59-4211-17e7-08df0d9e653b_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-6daa1f7cb9c0",
-      "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
-      "description": "NPR accompanies UN peacekeepers behind Israeli lines as Israel expands its occupation of South Lebanon following a U.S.-brokered ceasefire.",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5962860/un-peacekeepers-give-npr-a-rare-look-behind-israeli-lines",
-      "source": "NPR World",
-      "publishedAt": "2026-09-10T08:43:02Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5962860",
+      "id": "kyi-b75b77c12a1c",
+      "title": "Kim Jong Un Publicly Praises North Korean Troops Fighting for Russia",
+      "description": "Kim Jong Un praised troops serving in “overseas military operations” during North Korea’s founding anniversary, publicly normalizing a deployment that has sent an estimated 14,000 to 15,000 soldiers to support Russia’s war against Ukraine.",
+      "url": "https://www.kyivpost.com/post/84153",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-09T23:38:15Z",
+      "image": "https://static.kyivpost.com/storage/2026/09/10/7f16094a971b7fd45473a8f75d06df76.jpg?w=640&q=90&f=jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -200,21 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-881faf2fe3b3",
-      "title": "Russia Says It Expects Ukraine Peace Talks to Resume as Deadly Attack Hits Kyiv",
-      "description": "Russia says it expects trilateral talks with Ukraine and the US to resume, even as its forces launched a deadly attack on Kyiv. Peskov also welcomed US and Indian peace efforts and accused Kyiv of prolonging the war.",
-      "url": "https://www.kyivpost.com/post/84044",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-08T13:17:23Z",
-      "image": "https://static.kyivpost.com/storage/2026/03/19/8e925e19669741841f8831faee1551d7.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     }

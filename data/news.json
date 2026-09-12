@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T16:04:11Z",
+  "updated": "2026-09-12T19:00:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/brics-joint-declaration-calls-for-maximum-restraint-in-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-12T16:04:06Z",
+      "publishedAt": "2026-09-12T19:00:16Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F2%2F1%2F7%2F13087120-4-eng-GB%2Fd7797cb87ee1-2026-09-12T104942Z_2093930319_RC2MHNA9YNI9_RTRMADP_3_BRICS-SUMMIT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -40ed9229ce14",
+      "title": "Will the Houthi attacks activate the Mecca Pact?",
+      "description": "If there is a Saudi request, Pakistan and Turkiye will intervene, but direct involvement in the Yemen war is unlikely.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-12T16:06:48Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-31T102801Z_1444947647_RC2L9NAK0EI2_RTRMADP_3_TURKEY-SAUDI-PAKISTAN-MEETING-1789229095.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -67,19 +83,18 @@
       "tags": []
     },
     {
-      "id": "al -0f5c8b393e63",
-      "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
-      "description": "The &#039;War on Terror&#039; gave far-right Islamophobia legitimacy, reach and electoral force.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-12T08:49:01Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa511cf8e80-1789202895.jpg?resize=1920%2C1440",
+      "id": "le -20b31af838af",
+      "title": "Isolated by Iran and Yemeni Houthi rebels, Saudi Arabia seeks US backing",
+      "description": "With Tehran-allied rebels seizing control of the Bab al-Mandab Strait between the Red Sea and the Indian Ocean on Thursday, and Iran blocking the Strait of Hormuz, the kingdom is at risk of losing all maritime access for its oil tankers.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/12/isolated-by-iran-and-yemeni-houthi-rebels-saudi-arabia-seeks-us-backing_6757448_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-12T09:52:45Z",
+      "image": "https://img.lemde.fr/2026/09/11/68/0/3024/1512/644/322/60/0/874329c_ftp-1-sbbt0ndz14rr-2026-09-11t224227z-902981239-rc29hna4d9v5-rtrmadp-3-iran-crisis-saudi-yemen-camp.JPG",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -95,21 +110,6 @@
         "humanitarian"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -1755297841ca",
-      "title": "Putin says European troop deployment in Ukraine would be 'war against Russia'",
-      "description": "The Russian president said European leaders 'are frightening their populations with an imaginary threat coming from Russia,' adding that 'this threat does not exist and has never existed.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/11/putin-says-european-troop-deployment-in-ukraine-would-be-war-against-russia_6757434_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-11T21:49:58Z",
-      "image": "https://img.lemde.fr/2026/09/11/561/0/6192/3096/644/322/60/0/72416c4_ftp-1-ggvtjjofmn5v-2026-09-11t213304z-554859904-rc29hnamzcix-rtrmadp-3-germany-election-putin.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

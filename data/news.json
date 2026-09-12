@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T08:34:21Z",
+  "updated": "2026-09-12T12:42:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-12T08:34:18Z",
+      "publishedAt": "2026-09-12T12:42:32Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,29 @@
       "tags": []
     },
     {
-      "id": "ans-6d05c4f769f9",
-      "title": "Putin: 'Mandare truppe europee in Ucraina sarebbe una guerra contro la Russia'",
-      "description": "Il leader del Cremlino: Mosca non minaccia il Vecchio continente",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/putin-mandare-truppe-europee-in-ucraina-sarebbe-una-guerra-contro-la-russia_f19b66c4-282a-460b-99ab-2823e99b47a9.html",
+      "id": "kyi-0c5c8e11266c",
+      "title": "AFU Gains Ground, Kuban Gets Pounded, NATO Trains Hard and Gives Russian Drone Free Pass",
+      "description": "A roundup of the weeks biggest military and political events in Ukraine. The AFU finally announces the results of its somewhat secret Lyman counteroffensive. Ukraine is poised to defeat Russia’s Black Sea Fleet – again. The air battle continues with tit-for-tat barrages. And the Kushner-Witkoff vaudeville show bombs.",
+      "url": "https://www.kyivpost.com/opinion/84346",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-12T12:00:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/09/12/296a40b4778510d1d8b62168293bf978.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-b10e51129af5",
+      "title": "Navalnaya, 'dalla Crimea in poi Ue troppo debole sulle sanzioni contro Mosca'",
+      "description": "'Putin ha capito di poter fare tutto ciò che voleva, un errore gravissimo'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/12/navalnaya-dalla-crimea-in-poi-ue-troppo-debole-sulle-sanzioni-contro-mosca_8fbd1f6a-14cf-463c-a80c-25edd42e910e.html",
       "source": "ANSA",
-      "publishedAt": "2026-09-12T05:26:13Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/410730936ff7d5176090f98155f06b3a.jpg",
+      "publishedAt": "2026-09-12T10:38:04Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/29/68a02ef89f79c9568ff94bbf0f7726fe.jpg",
       "categories": [
         "conflict"
       ],
@@ -35,9 +51,25 @@
       "tags": []
     },
     {
+      "id": "al -0f5c8b393e63",
+      "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
+      "description": "The &#039;War on Terror&#039; gave far-right Islamophobia legitimacy, reach and electoral force.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-12T08:49:01Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa511cf8e80-1789202895.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "the-06266e1639a0",
       "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
-      "description": "Global struggle for control of Bab al-Mandab strait threatens to turn Yemen’s on-off conflict into a forever warViolence erupts in Yemen again: why it matters globally and how it is linked to the US-Iran warNearly 50,000 people have fled a sudden advance by Houthi forces in western Yemen, with entire villages emptied a…",
+      "description": "Global struggle for control of Bab al-Mandab strait threatens to turn Yemen’s on-off conflict into a forever warViolence erupts in Yemen again: why it matters globally and how it is linked to the US-Iran warSaudi Arabia shuts down oil pipeline, blaming drones from IraqNearly 50,000 people have fled a sudden advance by …",
       "url": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
       "source": "The Guardian",
       "publishedAt": "2026-09-12T04:00:24Z",
@@ -47,21 +79,6 @@
         "humanitarian"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -502432e027b4",
-      "title": "Iran war live: Yemen government counterattacks Houthis with air strikes",
-      "description": "Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-12T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T084749Z_2026613709_RC2ZFNAZ7IKI_RTRMADP_3_IRAN-CRISIS-PAKISTAN-HOUTHIS-1789199938.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -123,22 +140,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-b3cc3f19c327",
-      "title": "How 9/11 Changed America and Tested NATO’s Article 5",
-      "description": "The Sept. 11 attacks killed 2,977 people, transformed American security, and began two decades of war. They also provided NATO’s only test of Article 5. Allies defended US airspace and later deployed tens of thousands of troops, but each government retained control over what it contributed. That distinction remains cri…",
-      "url": "https://www.kyivpost.com/analysis/84289",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-11T12:05:24Z",
-      "image": "https://static.kyivpost.com/storage/2026/09/11/604a8519760f40e17801ce3b86a15484.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

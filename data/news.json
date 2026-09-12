@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T03:58:20Z",
+  "updated": "2026-09-12T08:34:21Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-12T03:58:17Z",
+      "publishedAt": "2026-09-12T08:34:18Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,44 @@
       "tags": []
     },
     {
+      "id": "ans-6d05c4f769f9",
+      "title": "Putin: 'Mandare truppe europee in Ucraina sarebbe una guerra contro la Russia'",
+      "description": "Il leader del Cremlino: Mosca non minaccia il Vecchio continente",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/putin-mandare-truppe-europee-in-ucraina-sarebbe-una-guerra-contro-la-russia_f19b66c4-282a-460b-99ab-2823e99b47a9.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-12T05:26:13Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/410730936ff7d5176090f98155f06b3a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-06266e1639a0",
+      "title": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
+      "description": "Global struggle for control of Bab al-Mandab strait threatens to turn Yemen’s on-off conflict into a forever warViolence erupts in Yemen again: why it matters globally and how it is linked to the US-Iran warNearly 50,000 people have fled a sudden advance by Houthi forces in western Yemen, with entire villages emptied a…",
+      "url": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-12T04:00:24Z",
+      "image": "https://i.guim.co.uk/img/media/d87abdac0b036f500e399324f955f7bf9c4a0a0d/472_0_2630_2104/master/2630.jpg?width=140&quality=85&auto=format&fit=max&s=88cbfe973d82d6d2e480804a02ed6bb3",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -502432e027b4",
-      "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+      "title": "Iran war live: Yemen government counterattacks Houthis with air strikes",
       "description": "Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
       "source": "Al Jazeera",
       "publishedAt": "2026-09-12T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T095921Z_322715747_RC2XGNA2B7KZ_RTRMADP_3_IRAN-CRISIS-SAUDI-PIPELINE-SATELLITE-1789164941.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T084749Z_2026613709_RC2ZFNAZ7IKI_RTRMADP_3_IRAN-CRISIS-PAKISTAN-HOUTHIS-1789199938.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -65,24 +96,9 @@
       "tags": []
     },
     {
-      "id": "ans-6d05c4f769f9",
-      "title": "Putin: 'Mandare truppe europee in Ucraina sarebbe una guerra contro la Russia'",
-      "description": "Il leader del Cremlino: Mosca non minaccia il Vecchio continente",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/putin-mandare-truppe-europee-in-ucraina-sarebbe-una-guerra-contro-la-russia_f19b66c4-282a-460b-99ab-2823e99b47a9.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-11T21:05:37Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/410730936ff7d5176090f98155f06b3a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-5c9d4dd477da",
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-09-11T19:44:58Z",
@@ -158,6 +174,21 @@
       "tags": []
     },
     {
+      "id": "the-97ea4b05680e",
+      "title": "Ukrainian Drone Barrage Sets Ozon Warehouse in Saratov Ablaze",
+      "description": "At least four people were killed in separate strikes across Russia as Ukraine launched hundreds of drones at the country overnight.",
+      "url": "https://www.themoscowtimes.com/2026/09/11/ukrainian-drone-barrage-sets-ozon-warehouse-in-saratov-ablaze-a93684",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-11T08:25:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/bd/93684__bdc19b660f3cb498b4725a9a68be3c60.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -1572b47b689c",
       "title": "Why Saudi Arabia and the Houthis in Yemen are heading toward war",
       "description": "The Iranian-backed Houthis in Yemen are stepping up attacks against their enemies at home and abroad.",
@@ -185,37 +216,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-4fc194966385",
-      "title": "Tens of millions of people fail to get humanitarian aid as global system crumbles",
-      "description": "Funding cuts in 2025 left women, children, older and displaced people hard hit, with 64m fewer people receiving aidThe humanitarian aid system is crumbling as funding shrinks, pressures increase and governments not only fail to protect civilians but are increasingly responsible for endangering them, a new report warned…",
-      "url": "https://www.theguardian.com/global-development/2026/sep/10/global-humanitarian-aid-crisis-64m-fewer-people-received-help-report",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-10T08:00:19Z",
-      "image": "https://i.guim.co.uk/img/media/e4b910342ba76f8b20dec9eadb10a03041a5c598/495_0_4946_3956/master/4946.jpg?width=140&quality=85&auto=format&fit=max&s=10112ac17d6c286341daa42eab421fe9",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-e34eb0db1352",
-      "title": "4 Killed in Ukrainian Attack on Novorossiysk",
-      "description": "Russian officials said more than two dozen people were wounded during the overnight attack on the port city.",
-      "url": "https://www.themoscowtimes.com/2026/09/09/4-killed-in-ukrainian-attack-on-novorossiysk-a93664",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-09T07:34:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/b3/93664__b3308ea9aee1f0c4c347ca531713523a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

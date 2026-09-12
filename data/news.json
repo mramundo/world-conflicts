@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-12T12:42:35Z",
+  "updated": "2026-09-12T16:04:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-c0caa473556a",
-      "title": "5 dead in Philippine ferry fire off Palawan with scores still missing",
+      "id": "nik-14cc8c5035e4",
+      "title": "BRICS joint declaration calls for 'maximum restraint' in Iran war",
       "description": "",
-      "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
+      "url": "https://asia.nikkei.com/politics/international-relations/brics-joint-declaration-calls-for-maximum-restraint-in-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-12T12:42:32Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-09-12T16:04:06Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F2%2F1%2F7%2F13087120-4-eng-GB%2Fd7797cb87ee1-2026-09-12T104942Z_2093930319_RC2MHNA9YNI9_RTRMADP_3_BRICS-SUMMIT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
@@ -20,18 +20,18 @@
       "tags": []
     },
     {
-      "id": "kyi-0c5c8e11266c",
-      "title": "AFU Gains Ground, Kuban Gets Pounded, NATO Trains Hard and Gives Russian Drone Free Pass",
-      "description": "A roundup of the weeks biggest military and political events in Ukraine. The AFU finally announces the results of its somewhat secret Lyman counteroffensive. Ukraine is poised to defeat Russia’s Black Sea Fleet – again. The air battle continues with tit-for-tat barrages. And the Kushner-Witkoff vaudeville show bombs.",
-      "url": "https://www.kyivpost.com/opinion/84346",
+      "id": "kyi-6f13bf131f01",
+      "title": "Russian Military Slang Reveals the Reality of Life on the Front Line",
+      "description": "A 250-page study of almost 7,000 communications between Russian military personnel and their relatives in 2025 illustrated the reality of life in the combat zone for those fed into the “meat grinder” that is Putin’s “special military operation.”",
+      "url": "https://www.kyivpost.com/opinion/84139",
       "source": "Kyiv Post",
-      "publishedAt": "2026-09-12T12:00:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/09/12/296a40b4778510d1d8b62168293bf978.jpg?w=640&q=90&f=jpg",
+      "publishedAt": "2026-09-12T13:13:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/09/09/8461776e9850dcb1b16156684d30bb18.png?w=640&q=90&f=jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 11,
       "isAnalysis": true,
       "tags": []
     },
@@ -47,6 +47,22 @@
         "conflict"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-4b54962b34eb",
+      "title": "Russia's Putin arrives in India as BRICS leaders begin talks",
+      "description": "President Putin arrived as talks among leaders of the BRICS diplomatic bloc began on Friday in India, amid global geopolitical turmoil, including the war in Ukraine and the conflict in the Middle East.",
+      "url": "https://www.france24.com/en/video/20260912-russia-s-putin-arrives-in-india-as-brics-leaders-begin-talks",
+      "source": "France24",
+      "publishedAt": "2026-09-12T10:16:54Z",
+      "image": "https://s.france24.com/media/display/f1310296-ae89-11f1-b930-005056a90284/w:1024/p:16x9/EN-20260912-100505-100701-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -124,21 +140,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-e452b9780b29",
-      "title": "Zelensky urges Trump to impose new Russia sanctions 'now', after deadly Ukraine strikes",
-      "description": "Ukrainian President Volodymyr Zelensky on Friday urged US President Donald Trump to impose new sanctions on Russia over deadly strikes on Ukraine, as Kyiv and Moscow step up attacks and US-led efforts to end the war remain deadlocked.",
-      "url": "https://www.france24.com/en/europe/20260911-zelensky-urges-trump-to-impose-new-russia-sanctions-now-after-deadly-ukraine-strikes",
-      "source": "France24",
-      "publishedAt": "2026-09-11T19:13:14Z",
-      "image": "https://s.france24.com/media/display/8c23efbe-ae0f-11f1-929d-005056a90284/w:1024/p:16x9/2026-09-09T104246Z-849861914-RC2MFNAOGGWF-RTRMADP-3-NORWAY-ROYALS-KING-HARALD-FUNERAL.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

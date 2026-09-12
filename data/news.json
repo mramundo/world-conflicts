@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T23:56:20Z",
+  "updated": "2026-09-12T03:58:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/fires/5-dead-in-philippine-ferry-fire-off-palawan-with-scores-still-missing",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-11T23:56:15Z",
+      "publishedAt": "2026-09-12T03:58:17Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F3%2F5%2F13075386-1-eng-GB%2Fa45a2f8f7c37-image-39-ff.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -502432e027b4",
+      "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+      "description": "Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-12T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T095921Z_322715747_RC2XGNA2B7KZ_RTRMADP_3_IRAN-CRISIS-SAUDI-PIPELINE-SATELLITE-1789164941.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -77,22 +92,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -c97d686823bc",
-      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
-      "description": "Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.",
-      "url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-11T19:21:48Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa437952271-1789147029.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

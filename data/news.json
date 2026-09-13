@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13T20:40:20Z",
+  "updated": "2026-09-13T22:58:05Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/brics-joint-declaration-calls-for-maximum-restraint-in-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-13T20:40:16Z",
+      "publishedAt": "2026-09-13T22:58:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F2%2F1%2F7%2F13087120-6-eng-GB%2Fb784bb17c649-2026-09-12T135042Z_1617752590_RC2PHNALKVCB_RTRMADP_3_BRICS-SUMMIT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4d2de3325537",
+      "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
+      "description": "Israeli forces kill a pregnant Palestinian woman in Gaza and settler pogroms intensify across the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-13T20:46:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789331353.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -27,21 +42,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-09-13T18:33:29Z",
       "image": "https://img.lemde.fr/2026/09/13/166/0/2000/1000/644/322/60/0/54e1f84_ftp-1-36wflke1j1xu-737b623b19f147bba48d599d4343a243-0-5101bd3de3764de189ccfbdef6a81625.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -8987d2eb3830",
-      "title": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
-      "description": "Houthi control of Bab al-Mandeb chokes Suez Canal revenues, triggers refugee flows, and exposes regional security gaps.",
-      "url": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-13T15:00:47Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa4b52c-1789179180.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -201,22 +201,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -1572b47b689c",
-      "title": "Why Saudi Arabia and the Houthis in Yemen are heading toward war",
-      "description": "The Iranian-backed Houthis in Yemen are stepping up attacks against their enemies at home and abroad.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0910/yemen-houthis-saudi-iran-shipping-red-sea?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-09-10T21:05:10Z",
-      "image": "https://images.csmonitor.com/csm/2026/09/0910_OKSAYEMEN_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T03:50:01Z",
+  "updated": "2026-09-13T09:15:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/brics-joint-declaration-calls-for-maximum-restraint-in-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-13T03:49:59Z",
+      "publishedAt": "2026-09-13T09:15:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F2%2F1%2F7%2F13087120-6-eng-GB%2Fb784bb17c649-2026-09-12T135042Z_1617752590_RC2PHNALKVCB_RTRMADP_3_BRICS-SUMMIT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,79 @@
       "tags": []
     },
     {
-      "id": "al -dd0929b84402",
-      "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-      "description": "The Iranian ally seizes Yemen&#039;s Red Sea coast, cementing their hold on the Bab al-Mandeb strait.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-12T19:17:37Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789230665.jpg?resize=1920%2C1080&amp;quality=80",
+      "id": "ans-8706c7e079e7",
+      "title": "Mosca, 'Modi e Xi hanno offerto di contribuire per porre fine a guerra in Ucraina'",
+      "description": "'Putin ha accolto con favore la loro disponibilità a collaborare'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/mosca-modi-e-xi-hanno-offerto-di-contribuire-per-porre-fine-a-guerra-in-ucraina_cc7d270d-31bf-48cb-b249-e2456cd0a65e.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-13T07:41:12Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/13/9806b51a00538be52600866b37806eb0.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-1bc9e3109c12",
+      "title": "Russian Nuclear Head Says Ukraine Attacked Fuel Trucks, Endangered Zaporizhzhia Plant",
+      "description": "The Zaporizhzhia plant, Europe's largest, was seized by Russian forces in the early weeks of the Ukraine war.",
+      "url": "https://www.themoscowtimes.com/2026/09/13/russian-nuclear-head-says-ukraine-attacked-fuel-trucks-endangered-zaporizhzhia-plant-a93695",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-13T07:17:03Z",
+      "image": "https://static.themoscowtimes.com/image/og/4b/93695__4b280c37f5d6adde95399691bcd03ccf.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-28f7a6981c2d",
+      "title": "Ukrainian Soldier Honored For Rescue In 'Kill Zone' (vertical)",
+      "description": "Two Ukrainian soldiers were wounded near the front lines in the Kharkiv region -- then were left stranded when another strike took out the ground drone sent to evacuate them. Their company commander, Vladyslav Polskiy, rushed to the site in a pickup truck without combat armor and brought the wounded men to safety. The …",
+      "url": "https://www.rferl.org/a/ukraine-front-lines-military-rescue/33851941.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-13T07:03:26Z",
+      "image": "https://gdb.rferl.org/9a8dc7a5-6f40-43b5-834d-08df0f43374f_tv_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 12,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-75698cbbb92a",
+      "title": "Middle East live: Houthis say hit Saudi base after renewed fighting with Yemeni forces",
+      "description": "Yemeni Houthi rebels claimed responsibility on Sunday for an attack on a military base in southern Saudi Arabia as renewed fighting with Yemen's government forces forced growing numbers of civilians to flee. Fighting in western Yemen over the past few weeks has left hundreds dead and displaced tens of thousands of peop…",
+      "url": "https://www.france24.com/en/middle-east/20260913-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+      "source": "France24",
+      "publishedAt": "2026-09-13T05:11:17Z",
+      "image": "https://s.france24.com/media/display/e97ed2ba-adc3-11f1-b34d-005056a97e36/w:1024/p:16x9/AP26253315512845.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -de4f38671ee6",
+      "title": "Iran war live: Commercial ship attacked in Hormuz, killing 1, wounding 4",
+      "description": "Latest strike on cargo vessel comes as Iran leaders plan to meet Gulf officials to discuss control over key waterway.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-13T00:00:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AA-20260909-42422213-42422189-IRANS_OIL_TANKERS_OFF_BANDAR_ABBAS_IN_STRAIT_OF_HORMUZ-1788956460.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -49,37 +109,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-b10e51129af5",
-      "title": "Navalnaya, 'dalla Crimea in poi Ue troppo debole sulle sanzioni contro Mosca'",
-      "description": "'Putin ha capito di poter fare tutto ciò che voleva, un errore gravissimo'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/12/navalnaya-dalla-crimea-in-poi-ue-troppo-debole-sulle-sanzioni-contro-mosca_8fbd1f6a-14cf-463c-a80c-25edd42e910e.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-12T10:38:04Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/29/68a02ef89f79c9568ff94bbf0f7726fe.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-4b54962b34eb",
-      "title": "Russia's Putin arrives in India as BRICS leaders begin talks",
-      "description": "President Putin arrived as talks among leaders of the BRICS diplomatic bloc began on Friday in India, amid global geopolitical turmoil, including the war in Ukraine and the conflict in the Middle East.",
-      "url": "https://www.france24.com/en/video/20260912-russia-s-putin-arrives-in-india-as-brics-leaders-begin-talks",
-      "source": "France24",
-      "publishedAt": "2026-09-12T10:16:54Z",
-      "image": "https://s.france24.com/media/display/f1310296-ae89-11f1-b930-005056a90284/w:1024/p:16x9/EN-20260912-100505-100701-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -151,38 +180,6 @@
       "source": "Deutsche Welle",
       "publishedAt": "2026-09-11T11:52:00Z",
       "image": "https://static.dw.com/image/79217238_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-e9c131aac152",
-      "title": "'Save Him!' RFE/RL Captures Chaos After Russian Strike On Ukrainian Shops",
-      "description": "Ukraine’s foreign minister is urging allies to provide more air defenses after a Russian drone strike on Pavlohrad killed at least five people and injured dozens. RFE/RL correspondent Roman Pahulych arrived as emergency crews treated the wounded and battled fires.",
-      "url": "https://www.rferl.org/a/rfe-rl-captures-chaos-after-russian-strike-on-ukrainian-shops-in-pavlohrad/33852377.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-11T11:21:57Z",
-      "image": "https://gdb.rferl.org/2289878f-0686-47f7-8390-08df0f43374f_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-97ea4b05680e",
-      "title": "Ukrainian Drone Barrage Sets Ozon Warehouse in Saratov Ablaze",
-      "description": "At least four people were killed in separate strikes across Russia as Ukraine launched hundreds of drones at the country overnight.",
-      "url": "https://www.themoscowtimes.com/2026/09/11/ukrainian-drone-barrage-sets-ozon-warehouse-in-saratov-ablaze-a93684",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-11T08:25:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/bd/93684__bdc19b660f3cb498b4725a9a68be3c60.jpg",
       "categories": [
         "conflict"
       ],

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T17:58:10Z",
+  "updated": "2026-09-13T20:40:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/brics-joint-declaration-calls-for-maximum-restraint-in-iran-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-13T17:58:04Z",
+      "publishedAt": "2026-09-13T20:40:16Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F2%2F1%2F7%2F13087120-6-eng-GB%2Fb784bb17c649-2026-09-12T135042Z_1617752590_RC2PHNALKVCB_RTRMADP_3_BRICS-SUMMIT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -7f0822425462",
+      "title": "Poland, Ukraine slam Russian strikes near border as 'escalation'",
+      "description": "Poland and Ukraine said a Kyiv-Warsaw passenger train was struck just 2 kilometers from the Polish border, but reported no casualties.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/13/poland-ukraine-slam-russian-strikes-near-border-as-escalation_6757480_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-13T18:33:29Z",
+      "image": "https://img.lemde.fr/2026/09/13/166/0/2000/1000/644/322/60/0/54e1f84_ftp-1-36wflke1j1xu-737b623b19f147bba48d599d4343a243-0-5101bd3de3764de189ccfbdef6a81625.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8987d2eb3830",
+      "title": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
+      "description": "Houthi control of Bab al-Mandeb chokes Suez Canal revenues, triggers refugee flows, and exposes regional security gaps.",
+      "url": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-13T15:00:47Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa4b52c-1789179180.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -210002d06781",
+      "title": "Guterres: Old global order must change as power shifts to emerging economies",
+      "description": "UN Secretary-General António Guterres told leaders of a bloc of major emerging economies in New Delhi on Sunday that a more balanced global order requires an overhaul of the institutions built after the Second World War, including the UN Security Council.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168323",
+      "source": "UN News",
+      "publishedAt": "2026-09-13T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/13-09-26_BRICS_SUMMIT_INDIA-1.jpeg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,13 +81,13 @@
       "tags": []
     },
     {
-      "id": "al -453e744fcec7",
-      "title": "Israeli attack on Gaza kills two Palestinians",
-      "description": "Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.",
-      "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-13T10:22:01Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AA-20260913-42456398-42456377-2_PALESTINIANS_KILLED_13_INJURED_IN_ISRAELI_DRONE_STRIKE_ON_VEHICLE_IN_GAZA-1789292609.jpg?resize=1920%2C1440",
+      "id": "fra-cb76b7a4c850",
+      "title": "The week in pictures: 9/11 anniversary, far-right win in Germany and Houthis' Yemen offensive",
+      "description": "A look back at some of the week's key news stories and the most striking images, from commemorations marking 25 years since the 9/11 attacks to the breakthrough win for Germany's far-right AfD party and the lightening offensive that has left Yemen's Iran-backed Houthi rebels in control of the country's Red Sea coast.",
+      "url": "https://www.france24.com/en/americas/20260913-the-week-in-pictures-9-11-anniversary-far-right-win-germany-houthis-yemen-offensive",
+      "source": "France24",
+      "publishedAt": "2026-09-13T10:48:49Z",
+      "image": "https://s.france24.com/media/display/9ae8a078-adc2-11f1-b7b9-005056a97e36/w:1024/p:16x9/000-C7YH9LY.jpg",
       "categories": [
         "conflict"
       ],
@@ -65,22 +111,6 @@
       "tags": []
     },
     {
-      "id": "fra-c6698859b8e7",
-      "title": "Yemen: Houthi offensive triggers new displacement crisis",
-      "description": "More than 70,000 people have fled their homes in Yemen after Iran-backed Houthi rebels launched an offensive to seize the Bab el-Mandeb Strait, with many escaping to Aden and around 1,400 crossing into neighbouring Djibouti. The UN and IOM warn the new displacement wave is worsening an already dire humanitarian crisis …",
-      "url": "https://www.france24.com/en/yemen-houthi-offensive-triggers-new-displacement-crisis",
-      "source": "France24",
-      "publishedAt": "2026-09-13T09:18:55Z",
-      "image": "https://s.france24.com/media/display/f4a391aa-af4c-11f1-89fe-005056a97e36/w:1024/p:16x9/EN-20260913-100133-100308-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-8706c7e079e7",
       "title": "Mosca, 'Modi e Xi hanno offerto di contribuire per porre fine a guerra in Ucraina'",
       "description": "'Putin ha accolto con favore la loro disponibilità a collaborare'",
@@ -97,7 +127,7 @@
     },
     {
       "id": "rfe-28f7a6981c2d",
-      "title": "Ukrainian Soldier Honored For Rescue In 'Kill Zone' (vertical)",
+      "title": "Ukrainian Soldier Honored For Rescue In 'Kill Zone'",
       "description": "Two Ukrainian soldiers were wounded near the front lines in the Kharkiv region -- then were left stranded when another strike took out the ground drone sent to evacuate them. Their company commander, Vladyslav Polskiy, rushed to the site in a pickup truck without combat armor and brought the wounded men to safety. The …",
       "url": "https://www.rferl.org/a/ukraine-front-lines-military-rescue/33851941.html",
       "source": "RFE/RL",
@@ -109,21 +139,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -27cf91ec111c",
-      "title": "'Ordinary citizens do not want to be sent to a war with no end in sight': Russian men consider exile",
-      "description": "Amid the threat of renewed conscription, some Russian men of fighting age have purchased plane tickets and are ready to leave if a general mobilization is declared after the elections scheduled for September 18 to 20. Georgia, Armenia and Serbia are the most popular destinations.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/13/ordinary-citizens-do-not-want-to-be-sent-to-a-war-with-no-end-in-sight-russian-men-consider-exile_6757464_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-13T03:00:07Z",
-      "image": "https://img.lemde.fr/2026/09/02/447/0/8072/4036/644/322/60/0/ab835bf_ftp-1-f7nuu24uhd3g-2026-09-02t165602z-1042512196-rc24bnadngiw-rtrmadp-3-russia-dailylife.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -171,21 +186,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -179798cd0130",
-      "title": "Surge in displacement following fighting in southwest Yemen",
-      "description": "At least 46,000 people have been displaced since renewed fighting last week between Houthi rebels and pro-government forces in southwestern Yemen, the International Organization for Migration (IOM) reported on Friday.&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168314",
-      "source": "UN News",
-      "publishedAt": "2026-09-11T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/08-09-2026_IOM_Yemen.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

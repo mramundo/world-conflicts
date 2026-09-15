@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T22:19:45Z",
+  "updated": "2026-09-15T01:15:08Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-09-14T00:36:00Z",
   "items": [
@@ -46,8 +46,8 @@
       ],
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-09-14",
-      "wikipediaRevision": "2026-09-14T19:59:26Z",
-      "recentNewsCount": 0
+      "wikipediaRevision": "2026-09-14T22:59:25Z",
+      "recentNewsCount": 1
     },
     {
       "id": "sd-war",
@@ -225,8 +225,8 @@
         "Jihadism"
       ],
       "wikipediaPage": "Boko_Haram_insurgency",
-      "lastUpdate": "2026-09-07",
-      "wikipediaRevision": "2026-09-07T20:07:45Z",
+      "lastUpdate": "2026-09-14",
+      "wikipediaRevision": "2026-09-14T23:32:05Z",
       "recentNewsCount": 0
     },
     {
@@ -290,9 +290,9 @@
         "Terrorism"
       ],
       "wikipediaPage": "Republican_insurgency_in_Afghanistan",
-      "lastUpdate": "2026-09-14",
+      "lastUpdate": "2026-09-15",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-09-14T06:21:06Z",
+      "wikipediaRevision": "2026-09-15T00:41:04Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 4
     },
     {
       "id": "et-am",
@@ -450,7 +450,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     }
   ]
 }

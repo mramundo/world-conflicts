@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-15T07:22:26Z",
+  "updated": "2026-09-15T13:15:04Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-14cc8c5035e4",
-      "title": "BRICS joint declaration calls for 'maximum restraint' in Iran war",
-      "description": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/brics-joint-declaration-calls-for-maximum-restraint-in-iran-war",
-      "source": "Nikkei Asia",
-      "publishedAt": "2026-09-15T07:22:24Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F2%2F1%2F7%2F13087120-6-eng-GB%2Fb784bb17c649-2026-09-12T135042Z_1617752590_RC2PHNALKVCB_RTRMADP_3_BRICS-SUMMIT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "id": "le -c5e14febf917",
+      "title": "Russian economy increasingly fragile as Ukraine targets infrastructure",
+      "description": "Kyiv's attacks on Russian refineries and commercial warehouses have brought the war into Russians' daily lives, just ahead of elections scheduled for September 18-20.",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/09/15/russian-economy-increasingly-fragile-after-ukraine-drone-attacks_6757546_19.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-15T08:31:31Z",
+      "image": "https://img.lemde.fr/2026/09/14/504/0/5631/2815/644/322/60/0/5588224_upload-1-yrf3xi5ihftv-000-c6bb967.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -32,6 +32,22 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -625b19b01068",
+      "title": "‘More dangerous than drugs’: BJP’s war on beef in India’s West Bengal",
+      "description": "Since Prime Minister Modi&#039;s BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.",
+      "url": "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-15T06:15:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_1242-1789376189.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -67,47 +83,17 @@
       "tags": []
     },
     {
-      "id": "fra-cd02fde02c26",
-      "title": "Middle East live: Pentagon watchdog says Iran war has led to munitions shortfall",
-      "description": "The US military is facing a shortfall in ammunition as a result of its war in Iran, which cost an estimated $33.4 billion in its first four months alone, according to a report by the Pentagon's inspector general. Saudi officials on Tuesday accused Yemen's Houthi rebels of using ballistic missiles and drones in attacks …",
-      "url": "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia",
+      "id": "fra-b3d1d544eee5",
+      "title": "Yemen: Fact-checking videos claiming to show Houthi rebel attacks",
+      "description": "A video claiming to show Houthi rebels ambushing Saudi-backed mercenaries has racked up major views on X. But the FRANCE 24 Observers found it is actually footage of 2024 Houthi military drills. The clip was edited with football commentary and blurred flags, which originally show Israel, the UK and US, not Saudi Arabia…",
+      "url": "http://www.france24.com/en/yemen-fact-checking-videos-claiming-to-show-houthi-rebel-attacks-1",
       "source": "France24",
-      "publishedAt": "2026-09-15T03:06:54Z",
-      "image": "https://s.france24.com/media/display/489a8b60-a9e0-11f0-8337-005056bf30b7/w:1024/p:16x9/2025-10-15T143904Z-1991395580-RC27VS9TRRZX-RTRMADP-3-USA-PENTAGON-PRESS.jpg",
+      "publishedAt": "2026-09-14T21:10:30Z",
+      "image": "https://www.france24.com/media/display/799a26da-b07e-11f1-9b60-005056bf30b7/w:1024/p:16x9/capture-6257860516aa85f0346da31-02858738.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e824228061ba",
-      "title": "Iran war live: 54 Saudi air strikes target Houthis as Yemen fighting rages",
-      "description": "Houthis say attacks by Saudi Arabia ongoing as Yemen PM accuses militia of killing and displacing civilians.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa8e7e6-1789454310.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -8e7d87f105a9",
-      "title": "Vladimir Putin, a president sealed off in a Russia under lockdown",
-      "description": "'The Putin System' (1/3). The many 'siloviki,' officers drawn from Russia's security services, have seized power and are now omnipresent among the country's elites. Within society, they have spread an atmosphere of fear and suspicion that prohibits any questioning of the Kremlin or its war in Ukraine.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/14/vladimir-putin-a-president-sealed-off-in-a-russia-under-lockdown_6757522_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-14T18:00:01Z",
-      "image": "https://img.lemde.fr/2026/09/14/4/0/2126/1063/644/322/60/0/cba6560_upload-1-ou23dxti4rrk-lemonde-serie-poutine-300dpi-1-b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -142,21 +128,6 @@
       "tags": []
     },
     {
-      "id": "bbc-dcfb43a800f4",
-      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-      "description": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
-      "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-14T01:12:20Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba3/live/5f17e7c0-b015-11f1-b1d1-571ed4d7ff2c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-5a05008e139c",
       "title": "Rosatom’s Likhachev Says Ukraine Attacked Fuel Trucks, Endangered Zaporizhzhia Plant",
       "description": "The Zaporizhzhia plant, Europe's largest, was seized by Russian forces in the early weeks of the Ukraine war.",
@@ -185,6 +156,21 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-7cd64c2ba3e2",
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-12T23:51:05Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/be384650-ae03-11f1-a8b6-3d61421c71fa.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     }
   ]

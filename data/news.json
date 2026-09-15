@@ -1,21 +1,116 @@
 {
-  "updated": "2026-09-15T13:15:04Z",
+  "updated": "2026-09-15T18:00:01Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "le -c5e14febf917",
-      "title": "Russian economy increasingly fragile as Ukraine targets infrastructure",
-      "description": "Kyiv's attacks on Russian refineries and commercial warehouses have brought the war into Russians' daily lives, just ahead of elections scheduled for September 18-20.",
-      "url": "https://www.lemonde.fr/en/economy/article/2026/09/15/russian-economy-increasingly-fragile-after-ukraine-drone-attacks_6757546_19.html",
+      "id": "bbc-0057ebf99cc0",
+      "title": "British woman abducted in Malawi, police say",
+      "description": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-15T17:44:45Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243c/live/d9585040-b111-11f1-bc1f-3f186ca4140c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-84d31eadb0fe",
+      "title": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
+      "description": "Estimated 100,000 Yemenis displaced amid renewed fighting as Qatar sounds alarm over Bab al-Mandab straitSaudi cities faced the threat of a second day of Houthi attacks as fighting across Yemen led the UN to warn of a humanitarian crisis with 100,000 Yemenis already displaced.As oil prices remained well over $100 (£74)…",
+      "url": "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-15T17:25:02Z",
+      "image": "https://i.guim.co.uk/img/media/3d46576558674f731a30ef983b43fa418b4297eb/883_38_4447_3557/master/4447.jpg?width=140&quality=85&auto=format&fit=max&s=8414e28df09b0c62c643241131557421",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -f900afb61fc5",
+      "title": "How the French presidential battle will play out in Parliament",
+      "description": "Eight months before the election, the final parliamentary session offers ambitious lawmakers a chance to assert their political identity. That could complicate the budget process.",
+      "url": "https://www.lemonde.fr/en/politics/article/2026/09/15/how-the-french-presidential-battle-will-play-out-in-parliament_6757561_5.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-15T08:31:31Z",
-      "image": "https://img.lemde.fr/2026/09/14/504/0/5631/2815/644/322/60/0/5588224_upload-1-yrf3xi5ihftv-000-c6bb967.jpg",
+      "publishedAt": "2026-09-15T17:00:11Z",
+      "image": "https://img.lemde.fr/2025/11/05/491/0/5900/2950/644/322/60/0/6d02718_upload-1-lto5exk2dr8e-jmug251104100.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-88ec94da73e4",
+      "title": "Trump's claim of energy truce in doubt as Russia hits Kyiv petrol station",
+      "description": "A drone hit a petrol station in Ukraine's capital of Kyiv early on Tuesday, Mayor Vitali Klitschko ‌said, just a day after US President Donald Trump said Ukraine ⁠and Russia had agreed not to target each other's energy assets. The attack “underlines the fact that it is not at all clearly defined what falls into the cat…",
+      "url": "http://www.france24.com/en/video/20260915-trump-s-claim-of-energy-truce-in-doubt-as-russia-hits-kyiv-petrol-station",
+      "source": "France24",
+      "publishedAt": "2026-09-15T16:36:09Z",
+      "image": "https://s.france24.com/media/display/841c4b00-b11f-11f1-867f-8166e20227cd/w:1024/p:16x9/EN-20260915-100125-100520-CS.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -9cd16c51d9ee",
+      "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
+      "description": "Israel has made clear it is unwilling to hold to account those responsible for the deaths of seven humanitarian workers.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-15T15:25:39Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/04/AFP__20240402__34N89C4__v4__HighRes__TopshotPalestinianIsraelConflictAid-1712324609.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-8bdf08bbe617",
+      "title": "MFA Repeats Warning for Foreign Embassies in Kyiv to Evacuate After Train Strike Near Poland",
+      "description": "The ministry accused Western politicians of “blatantly ignoring” the warnings of their own governments against visiting war-torn Ukraine.",
+      "url": "https://www.themoscowtimes.com/2026/09/15/mfa-repeats-warning-for-foreign-embassies-in-kyiv-to-evacuate-after-train-strike-near-poland-a93715",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-15T14:36:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/a6/93715__a6a9f3d060e77fcf20720126c666841d.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-fa986d7bfa0e",
+      "title": "'Woman, Life, Freedom' spirit lives on as Iran war drags on",
+      "description": "The 2022 death of Jina Mahsa Amini in police custody triggered a resistance movement in Iran. Four years later, the Iranian regime endures — but so does the legacy of the \"Woman, Life, Freedom\" protests.",
+      "url": "https://www.dw.com/en/woman-life-freedom-spirit-lives-on-as-iran-war-drags-on/a-79276123?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-15T12:27:00Z",
+      "image": "https://static.dw.com/image/78327945_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -32,22 +127,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -625b19b01068",
-      "title": "‘More dangerous than drugs’: BJP’s war on beef in India’s West Bengal",
-      "description": "Since Prime Minister Modi&#039;s BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.",
-      "url": "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T06:15:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_1242-1789376189.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -68,51 +147,6 @@
       "tags": []
     },
     {
-      "id": "the-255069b1f48c",
-      "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
-      "description": "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowingWhen Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South Africans who believed that they were victims of racism in their country thought tha…",
-      "url": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-15T04:00:27Z",
-      "image": "https://i.guim.co.uk/img/media/7ac2d8623df08d6ecd9811277b2f1248b8373b18/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5c18d499a2daacc55a9b47b2a46c4075",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-b3d1d544eee5",
-      "title": "Yemen: Fact-checking videos claiming to show Houthi rebel attacks",
-      "description": "A video claiming to show Houthi rebels ambushing Saudi-backed mercenaries has racked up major views on X. But the FRANCE 24 Observers found it is actually footage of 2024 Houthi military drills. The clip was edited with football commentary and blurred flags, which originally show Israel, the UK and US, not Saudi Arabia…",
-      "url": "http://www.france24.com/en/yemen-fact-checking-videos-claiming-to-show-houthi-rebel-attacks-1",
-      "source": "France24",
-      "publishedAt": "2026-09-14T21:10:30Z",
-      "image": "https://www.france24.com/media/display/799a26da-b07e-11f1-9b60-005056bf30b7/w:1024/p:16x9/capture-6257860516aa85f0346da31-02858738.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-a0562479fb96",
-      "title": "EU leaders urge unity after Russian strike on train",
-      "description": "Russia's drone attack on a train near the Ukraine-Poland border has triggered EU calls to up support for Kyiv. Allies of Ukraine should show they \"are not scared,\" said the bloc's top diplomat, Kaja Kallas.",
-      "url": "https://www.dw.com/en/eu-leaders-urge-unity-after-russian-strike-on-train/a-79259807?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-14T12:12:00Z",
-      "image": "https://static.dw.com/image/77799410_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -5e6acd2680d6",
       "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
       "description": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA.",
@@ -124,21 +158,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-5a05008e139c",
-      "title": "Rosatom’s Likhachev Says Ukraine Attacked Fuel Trucks, Endangered Zaporizhzhia Plant",
-      "description": "The Zaporizhzhia plant, Europe's largest, was seized by Russian forces in the early weeks of the Ukraine war.",
-      "url": "https://www.themoscowtimes.com/2026/09/13/rosatoms-likhachev-says-ukraine-attacked-fuel-trucks-endangered-zaporizhzhia-plant-a93695",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-13T10:17:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/4b/93695__4b280c37f5d6adde95399691bcd03ccf.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -156,21 +175,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-7cd64c2ba3e2",
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-12T23:51:05Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/be384650-ae03-11f1-a8b6-3d61421c71fa.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     }
   ]

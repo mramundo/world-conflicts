@@ -1,9 +1,24 @@
 {
-  "updated": "2026-09-15T18:00:01Z",
+  "updated": "2026-09-15T21:14:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "kyi-d0f8df14ca27",
+      "title": "Ukraine Reports 219 Frontline Clashes as Fighting Intensifies Near Pokrovsk",
+      "description": "The General Staff of the Armed Forces of Ukraine (AFU) reported 219 combat engagements by 10 p.m. local time on Tuesday, Sept. 15, with the heaviest fighting concentrated on the Pokrovsk axis. Russian forces reportedly launched 68 airstrikes, dropped 249 guided aerial bombs (KABs) and deployed 4,153 loitering munitions…",
+      "url": "https://www.kyivpost.com/post/84597",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-15T20:31:03Z",
+      "image": "https://static.kyivpost.com/storage/2026/05/11/92fc169494f17fb0ea4c937552b0119b.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "bbc-0057ebf99cc0",
       "title": "British woman abducted in Malawi, police say",
@@ -64,6 +79,22 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-25655f0372fa",
+      "title": "A Quiet Ukrainian Counteroffensive, A 'Rout' For Russian Forces",
+      "description": "By most accounts, the Ukrainian counteroffensive is shaping up to be one of the largest shifts on the battlefield in months, possibly in a year.",
+      "url": "https://www.rferl.org/a/ukraine-russia-counteroffensive-lyman/33856852.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-15T15:30:04Z",
+      "image": "https://gdb.rferl.org/c94de4a7-ba45-4009-e769-08def2afcad7_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -130,23 +161,6 @@
       "tags": []
     },
     {
-      "id": "kyi-151e5eced10b",
-      "title": "Battle for Belarus",
-      "description": "Belarus remains a strategic pressure point in Russia’s war on Ukraine, with Alexander Lukashenko balancing dependence on Moscow against domestic opposition to joining the conflict. Meanwhile, China’s economic and diplomatic support gives Belarus limited room to resist deeper Russian control, as Ukraine views a possible…",
-      "url": "https://www.kyivpost.com/opinion/84398",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-15T06:01:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/09/13/d992f549f2d05b83ee023314bbd8b6fa.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "un -5e6acd2680d6",
       "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
       "description": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA.",
@@ -159,22 +173,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-28f7a6981c2d",
-      "title": "Ukrainian Soldier Honored For Rescue In 'Kill Zone'",
-      "description": "Two Ukrainian soldiers were wounded near the front lines in the Kharkiv region -- then were left stranded when another strike took out the ground drone sent to evacuate them. Their company commander, Vladyslav Polskiy, rushed to the site in a pickup truck without combat armor and brought the wounded men to safety. The …",
-      "url": "https://www.rferl.org/a/ukraine-front-lines-military-rescue/33851941.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-13T07:03:26Z",
-      "image": "https://gdb.rferl.org/9a8dc7a5-6f40-43b5-834d-08df0f43374f_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     }
   ]

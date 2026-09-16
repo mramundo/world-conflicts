@@ -9,7 +9,7 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" />
 
   <link rel="stylesheet" href="styles/main.css" />
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
@@ -107,8 +107,8 @@
           The world's conflicts,<br/> in a single view.
         </h1>
         <p class="hero__lead">
-          Explore the interactive map of active armed conflicts and stay updated with the latest
-          news from international outlets, focused on economy, commodities and geopolitics.
+          Explore the interactive map of active armed conflicts and follow the latest reporting,
+          analysis and humanitarian updates from international outlets.
         </p>
         <p class="hero__monitoring">
           Currently tracking
@@ -127,13 +127,13 @@
         <div>
           <h2 id="globe-title" class="section__title">Conflict map</h2>
           <p class="section__subtitle">
-            Click a conflict on the globe or the list — the two views are synced.
+            Select a conflict on the globe or in the list to focus it in both.
           </p>
         </div>
         <div class="legend" aria-label="Intensity legend">
-          <span class="legend__item"><i class="dot dot--low"></i>Low</span>
-          <span class="legend__item"><i class="dot dot--medium"></i>Medium</span>
           <span class="legend__item"><i class="dot dot--high"></i>High</span>
+          <span class="legend__item"><i class="dot dot--medium"></i>Medium</span>
+          <span class="legend__item"><i class="dot dot--low"></i>Low</span>
         </div>
       </div>
 
@@ -172,7 +172,7 @@
             </div>
           </header>
           <ul class="conflicts-list__items" id="conflictsList" role="listbox" aria-label="Conflicts"></ul>
-          <p class="conflicts-list__empty" id="conflictsEmpty" hidden>No conflicts match your filters.</p>
+          <p class="conflicts-list__empty" id="conflictsEmpty" hidden>No conflicts match. Pick another intensity or clear the search.</p>
         </aside>
       </div>
 
@@ -203,7 +203,7 @@
 
       <div class="news-more">
         <button class="btn btn--ghost" id="loadMore" hidden>Load more</button>
-        <p class="news-empty" id="newsEmpty" hidden>No news found for these filters.</p>
+        <p class="news-empty" id="newsEmpty" hidden>No stories match. Pick another category or clear the search.</p>
       </div>
     </section>
   </main>
@@ -213,7 +213,7 @@
       <div class="footer__sources">
         <div class="footer__sources-col">
           <h3 class="footer__sources-label">Conflict sources</h3>
-          <p>UCDP (Uppsala Conflict Data Program), ACLED, and the public Wikipedia list of ongoing armed conflicts — refreshed hourly.</p>
+          <p>UCDP (Uppsala Conflict Data Program), ACLED, and the public Wikipedia list of ongoing armed conflicts, refreshed hourly.</p>
         </div>
         <div class="footer__sources-col">
           <h3 class="footer__sources-label">News sources</h3>
@@ -221,7 +221,7 @@
         </div>
       </div>
       <div class="footer__meta-row">
-        <p>© <span id="year"></span> World Conflicts — open-source project, data from public sources.</p>
+        <p>© <span id="year"></span> World Conflicts. Open-source project built on public data.</p>
         <p class="footer__meta">Last data update: <span id="footerUpdate">—</span></p>
       </div>
     </div>

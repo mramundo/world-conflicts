@@ -138,7 +138,7 @@ function buildRow(n, i) {
       <div class="news-row__meta">
         <span class="news-row__source">${escapeHtml(n.source ?? 'Source')}</span>
         <time class="news-row__date" datetime="${escapeAttr(n.publishedAt ?? '')}">${formatRelative(n.publishedAt)}</time>
-        <svg class="news-row__arrow" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+        <svg class="news-row__arrow" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg>
       </div>
     </a>
   `;

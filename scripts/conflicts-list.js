@@ -118,7 +118,7 @@ function buildRow(c, selected) {
   const label = INTENSITY_LABEL[c.intensity];
   const intensity = label ? c.intensity : 'medium';
   const countries = (c.countries ?? []).join(', ');
-  const year = c.startYear ? `· since ${c.startYear}` : '';
+  const year = c.startYear ? `, since ${c.startYear}` : '';
 
   const newsCount = Number(c.recentNewsCount ?? 0);
   const newsBadge = newsCount > 0
@@ -133,7 +133,7 @@ function buildRow(c, selected) {
         <span class="dot conflict-row__dot dot--${intensity}"></span>
         <span class="conflict-row__main">
           <span class="conflict-row__name">${escapeHtml(c.name ?? '—')}</span>
-          <span class="conflict-row__meta">${escapeHtml(countries)} ${year}</span>
+          <span class="conflict-row__meta">${escapeHtml(countries)}${year}</span>
         </span>
         ${newsBadge}
         <span class="conflict-row__intensity intensity--${intensity}">${escapeHtml(label ?? '—')}</span>

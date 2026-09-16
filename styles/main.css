@@ -29,8 +29,8 @@
   --radius-pill: 999px;
 
   /* Type scale for UI text (display sizes use clamp() in place). */
-  --fs-2xs: .7rem;   /* uppercase labels, tags */
-  --fs-xs: .76rem;   /* meta, counters, legend */
+  --fs-2xs: .7rem;   /* micro text: counters in badges, hints */
+  --fs-xs: .76rem;   /* meta, labels, counters, legend */
   --fs-sm: .85rem;   /* secondary text, chips, compact inputs */
   --fs-md: .92rem;   /* controls, row titles, subtitles */
 
@@ -329,8 +329,6 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
 .brand__dot {
   width: 10px; height: 10px; border-radius: 50%;
   background: var(--accent);
-  color: var(--accent);              /* drives currentColor in pulse ring */
-  animation: ping 1.1s var(--ease-out) infinite;
 }
 .brand__name strong { color: var(--accent); font-weight: 800; }
 
@@ -345,7 +343,6 @@ ol, ul { list-style: none; margin: 0; padding: 0; }
 .topbar__actions { margin-left: auto; display: flex; align-items: center; gap: 8px; }
 .last-update,
 .conflicts-list__count {
-  font-family: 'JetBrains Mono', monospace;
   font-size: var(--fs-xs); color: var(--text-dim);
   padding: 5px 10px; border-radius: var(--radius-pill);
   background: var(--surface); border: 1px solid var(--border);
@@ -543,7 +540,7 @@ main > * + * {
   max-width: 60ch;
 }
 .hero__monitoring strong {
-  color: var(--accent);
+  color: var(--text);
   font-weight: 700;
   font-variant-numeric: tabular-nums;
 }
@@ -709,6 +706,7 @@ main > * + * {
   transition: background .18s;
 }
 .conflict-row__btn:hover { background: var(--surface); }
+.conflict-row__btn:focus-visible { outline-offset: -2px; }
 
 .conflict-row__dot { width: 10px; height: 10px; flex-shrink: 0; }
 .conflict-row__main {
@@ -734,8 +732,7 @@ main > * + * {
 .globe-tooltip__tag {
   display: inline-flex; align-items: center;
   padding: 2px 7px;
-  font-size: var(--fs-2xs); font-weight: 600; line-height: 1.4;
-  text-transform: uppercase; letter-spacing: .04em;
+  font-size: var(--fs-xs); font-weight: 500; line-height: 1.35;
   border-radius: var(--radius-xs);
   color: var(--tone-ink, var(--tone, var(--text-dim)));
   background: color-mix(in srgb, var(--tone, var(--text-dim)) 12%, transparent);
@@ -859,6 +856,10 @@ main > * + * {
 }
 .news-row:last-child { border-bottom: 0; }
 .news-row:hover { background: var(--surface); }
+.news-row:has(a:focus-visible) {
+  background: var(--surface);
+  outline: 2px solid var(--accent); outline-offset: -2px;
+}
 
 .news-row__thumb {
   width: 120px; height: 72px; flex-shrink: 0;
@@ -884,7 +885,7 @@ main > * + * {
 }
 .news-row__body {
   display: flex; flex-direction: column; gap: 4px;
-  min-width: 0;
+  min-width: 0; max-width: 78ch;
 }
 .news-row__title {
   margin: 0; font-size: var(--fs-md); font-weight: 600;
@@ -917,9 +918,8 @@ main > * + * {
   min-width: 110px;
 }
 .news-row__source {
-  font-weight: 700; font-size: var(--fs-2xs);
+  font-weight: 600; font-size: var(--fs-xs);
   color: var(--accent);
-  text-transform: uppercase; letter-spacing: .04em;
 }
 .news-row__date { font-variant-numeric: tabular-nums; }
 .news-row__arrow {
@@ -932,9 +932,16 @@ main > * + * {
   color: var(--accent);
 }
 
+/* The link spans the row's columns via subgrid. `display: contents` would
+   keep the layout but makes the link unfocusable by keyboard. */
 .news-row a {
-  display: contents;
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: subgrid;
+  gap: inherit;
+  align-items: stretch;
 }
+.news-row a:focus-visible { outline: none; }
 
 /* Skeleton */
 .news-row--skeleton { pointer-events: none; }
@@ -984,18 +991,16 @@ main > * + * {
   .footer__sources { grid-template-columns: 1fr 1fr; }
 }
 .footer__sources-col p {
-  margin: 0;
+  margin: 0; max-width: 70ch;
   color: var(--text-muted);
   font-size: var(--fs-sm);
   line-height: 1.55;
 }
 .footer__sources-label {
-  margin: 0 0 6px;
-  font-size: var(--fs-2xs);
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: .08em;
-  color: var(--text-dim);
+  margin: 0 0 4px;
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  color: var(--text);
 }
 
 /* Bottom meta row — © + last-update */

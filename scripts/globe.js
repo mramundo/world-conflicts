@@ -86,7 +86,9 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
   ro.observe(el);
 
   // Initial view + auto-rotate
-  globe.controls().autoRotate = true;
+  // Continuous rotation is ambient motion: off when the user asks for less.
+  autoRotate = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  globe.controls().autoRotate = autoRotate;
   globe.controls().autoRotateSpeed = 0.35;
   globe.controls().enableDamping = true;
   globe.controls().dampingFactor = 0.08;
@@ -106,14 +108,19 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
   });
 
   const toggleBtn = $('#toggleRotate');
-  toggleBtn?.addEventListener('click', () => {
-    autoRotate = !autoRotate;
-    globe.controls().autoRotate = autoRotate;
+  const renderToggle = () => {
+    if (!toggleBtn) return;
     toggleBtn.innerHTML = autoRotate
       ? '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="6" y="5" width="4" height="14"/><rect x="14" y="5" width="4" height="14"/></svg>'
       : '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="6 4 20 12 6 20 6 4"/></svg>';
     toggleBtn.title = autoRotate ? 'Pause rotation' : 'Resume rotation';
     toggleBtn.setAttribute('aria-label', toggleBtn.title);
+  };
+  renderToggle();
+  toggleBtn?.addEventListener('click', () => {
+    autoRotate = !autoRotate;
+    globe.controls().autoRotate = autoRotate;
+    renderToggle();
   });
 
   // Pause rotation on user interaction
@@ -293,7 +300,7 @@ function polygonLabelHtml(d, conflictCountries) {
   const affected = conflictCountries.has(norm);
   const accent = affected ? INTENSITY_COLOR.high : '#6aaef0';
   const tagHtml = affected
-    ? `<div class="globe-tooltip__tags"><span class="globe-tooltip__tag">active conflict</span></div>`
+    ? `<div class="globe-tooltip__tags"><span class="globe-tooltip__tag">Active conflict</span></div>`
     : '';
   return `
     <div class="globe-tooltip" style="--tone:${accent}">

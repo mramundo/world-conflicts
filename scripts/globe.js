@@ -6,16 +6,20 @@
 
 const $ = (sel, root = document) => root.querySelector(sel);
 
-const INTENSITY_COLOR = {
-  low:    '#4ea8ff',   // blue
-  medium: '#ffb347',   // orange
-  high:   '#ff5a5f',   // red
-};
+// Intensity hues are overwritten in initGlobe from the --intensity-* tokens
+// in main.css so the globe, legend and list always agree. Hex = fallback.
+const INTENSITY_COLOR = { low: '#4ea8ff', medium: '#ffb347', high: '#ff5a5f' };
 const INTENSITY_LABEL = { low: 'Low', medium: 'Medium', high: 'High' };
 const INTENSITY_SIZE = { low: 0.35, medium: 0.6, high: 0.95 };
 
 // Violet — chosen to stand out against the three intensity hues
+// (matches the dark-mode --selected token; kept bright on both textures).
 const SELECTED_COLOR = '#a78bfa';
+
+const GLOBE_TEXTURE = {
+  dark:  'https://unpkg.com/three-globe@2.31.0/example/img/earth-night.jpg',
+  light: 'https://unpkg.com/three-globe@2.31.0/example/img/earth-blue-marble.jpg',
+};
 
 // World-atlas TopoJSON — 110m resolution, fast & light (~100KB).
 const COUNTRIES_URL = 'https://unpkg.com/world-atlas@2/countries-110m.json';
@@ -30,7 +34,10 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
     return;
   }
 
-  const themeDark = document.documentElement.dataset.theme !== 'light';
+  const tokens = getComputedStyle(document.documentElement);
+  for (const level of Object.keys(INTENSITY_COLOR)) {
+    INTENSITY_COLOR[level] = tokens.getPropertyValue(`--intensity-${level}`).trim() || INTENSITY_COLOR[level];
+  }
 
   // Which countries are currently affected by a conflict — used to highlight
   // their borders and emphasise the label on hover.
@@ -40,20 +47,13 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
 
   globe = Globe()(el)
     .backgroundColor('rgba(0,0,0,0)')
-    .globeImageUrl(themeDark
-      ? 'https://unpkg.com/three-globe@2.31.0/example/img/earth-night.jpg'
-      : 'https://unpkg.com/three-globe@2.31.0/example/img/earth-blue-marble.jpg'
-    )
     .bumpImageUrl('https://unpkg.com/three-globe@2.31.0/example/img/earth-topology.png')
-    .atmosphereColor(themeDark ? '#4ea8ff' : '#6aaef0')
     .atmosphereAltitude(0.22)
     .showGraticules(false)
     // Country polygons: subtle fill + stronger borders for conflict countries.
     // Labels show on hover via polygonLabel.
     .polygonsData([])   // filled async below once TopoJSON is fetched
-    .polygonCapColor(d => polygonCapColor(d, conflictCountries, themeDark))
     .polygonSideColor(() => 'rgba(0, 0, 0, 0)')
-    .polygonStrokeColor(d => polygonStrokeColor(d, conflictCountries, themeDark))
     .polygonAltitude(d => conflictCountries.has(d.properties.name.toLowerCase()) ? 0.008 : 0.004)
     .polygonLabel(d => polygonLabelHtml(d, conflictCountries))
     .pointsData(conflicts)
@@ -110,9 +110,10 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
     autoRotate = !autoRotate;
     globe.controls().autoRotate = autoRotate;
     toggleBtn.innerHTML = autoRotate
-      ? '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="5" width="4" height="14"/><rect x="14" y="5" width="4" height="14"/></svg>'
-      : '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 4 20 12 6 20 6 4"/></svg>';
+      ? '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="6" y="5" width="4" height="14"/><rect x="14" y="5" width="4" height="14"/></svg>'
+      : '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="6 4 20 12 6 20 6 4"/></svg>';
     toggleBtn.title = autoRotate ? 'Pause rotation' : 'Resume rotation';
+    toggleBtn.setAttribute('aria-label', toggleBtn.title);
   });
 
   // Pause rotation on user interaction
@@ -124,19 +125,23 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
   el.addEventListener('pointerdown', pauseOnInteract);
   el.addEventListener('wheel', pauseOnInteract, { passive: true });
 
-  // Theme reactivity
-  const mo = new MutationObserver(() => {
-    const isDark = document.documentElement.dataset.theme !== 'light';
+  // Theme: applied now and whenever data-mode actually flips. applyTheme in
+  // app.js rewrites data-mode on every palette change too, so skip no-ops
+  // instead of re-uploading the globe texture.
+  let appliedDark = null;
+  const applyGlobeTheme = () => {
+    const isDark = document.documentElement.dataset.mode !== 'light';
+    if (isDark === appliedDark) return;
+    appliedDark = isDark;
     globe
-      .globeImageUrl(isDark
-        ? 'https://unpkg.com/three-globe@2.31.0/example/img/earth-night.jpg'
-        : 'https://unpkg.com/three-globe@2.31.0/example/img/earth-blue-marble.jpg'
-      )
+      .globeImageUrl(isDark ? GLOBE_TEXTURE.dark : GLOBE_TEXTURE.light)
       .atmosphereColor(isDark ? '#4ea8ff' : '#6aaef0')
       .polygonCapColor(d => polygonCapColor(d, conflictCountries, isDark))
       .polygonStrokeColor(d => polygonStrokeColor(d, conflictCountries, isDark));
-  });
-  mo.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+  };
+  applyGlobeTheme();
+  new MutationObserver(applyGlobeTheme)
+    .observe(document.documentElement, { attributes: true, attributeFilter: ['data-mode'] });
 
   // Selection sync: listen to store → refresh visuals + focus globe
   store?.subscribe((key, val) => {
@@ -188,37 +193,37 @@ function updateRings(conflicts, store) {
   globe
     .ringsData(rings)
     .ringLat('lat').ringLng('lng')
-    .ringColor(d => t => d._kind === 'selected'
-      ? `rgba(167, 139, 250, ${1 - t})`      // violet
-      : `rgba(255, 90, 95, ${1 - t})`)        // red
+    .ringColor(d => t => withAlpha(d._kind === 'selected' ? SELECTED_COLOR : INTENSITY_COLOR.high, 1 - t))
     .ringMaxRadius(d => d._kind === 'selected' ? 6 : 4)
     .ringPropagationSpeed(d => d._kind === 'selected' ? 3 : 2)
     .ringRepeatPeriod(d => d._kind === 'selected' ? 1100 : 1600);
 }
 
+/* Tooltips are styled by .globe-tooltip* in main.css; --tone drives the
+   border and tag tint, same mechanism as the list labels. */
 function htmlTooltip(d) {
   const color = INTENSITY_COLOR[d.intensity] ?? INTENSITY_COLOR.medium;
   const label = INTENSITY_LABEL[d.intensity] ?? '—';
   const news = Number(d.recentNewsCount ?? 0);
-  const newsChip = news > 0
-    ? `<div style="margin-top:5px; margin-left:6px; display:inline-block; padding:2px 7px; border-radius:999px;
-                   background:rgba(255,255,255,.08); color:#fff; font-size:.68rem; font-weight:600;">
-         ${news} recent ${news === 1 ? 'headline' : 'headlines'}
-       </div>`
+  const newsTag = news > 0
+    ? `<span class="globe-tooltip__tag globe-tooltip__tag--muted">${news} recent ${news === 1 ? 'headline' : 'headlines'}</span>`
     : '';
   return `
-    <div style="font-family: Inter, sans-serif; padding: 9px 11px; border-radius: 10px;
-                background: rgba(15,20,35,.92); color: #fff; border: 1px solid ${color};
-                box-shadow: 0 10px 30px rgba(0,0,0,.4); max-width: 260px;">
-      <div style="font-weight:700; margin-bottom:3px; font-size: .88rem;">${escapeHtml(d.name)}</div>
-      <div style="font-size:.75rem; color:#9aa4b8;">${escapeHtml((d.countries ?? []).join(', '))}</div>
-      <div style="margin-top:5px; display:inline-block; padding:2px 7px; border-radius:999px;
-                  background:${color}22; color:${color}; font-size:.68rem; font-weight:600;">
-        ${label} intensity
+    <div class="globe-tooltip" style="--tone:${color}">
+      <div class="globe-tooltip__title">${escapeHtml(d.name)}</div>
+      <div class="globe-tooltip__meta">${escapeHtml((d.countries ?? []).join(', '))}</div>
+      <div class="globe-tooltip__tags">
+        <span class="globe-tooltip__tag">${label} intensity</span>
+        ${newsTag}
       </div>
-      ${newsChip}
     </div>
   `;
+}
+
+// '#rrggbb' + alpha → 'rgba(…)' (globe.gl colour accessors don't take color-mix).
+function withAlpha(hex, alpha) {
+  const n = parseInt(hex.slice(1), 16);
+  return `rgba(${n >> 16}, ${(n >> 8) & 255}, ${n & 255}, ${alpha})`;
 }
 
 function escapeHtml(s) {
@@ -261,11 +266,11 @@ function polygonCapColor(d, conflictCountries, isDark) {
   const affected = conflictCountries.has(name);
   if (isDark) {
     return affected
-      ? 'rgba(255, 90, 95, 0.18)'   // tint countries with conflicts
-      : 'rgba(78, 168, 255, 0.05)'; // near-transparent over the textured globe
+      ? withAlpha(INTENSITY_COLOR.high, 0.18) // tint countries with conflicts
+      : 'rgba(78, 168, 255, 0.05)';           // near-transparent over the textured globe
   }
   return affected
-    ? 'rgba(255, 90, 95, 0.14)'
+    ? withAlpha(INTENSITY_COLOR.high, 0.14)
     : 'rgba(15, 20, 35, 0.04)';
 }
 
@@ -286,18 +291,13 @@ function polygonLabelHtml(d, conflictCountries) {
   const rawName = d.properties?.name ?? '—';
   const norm = normaliseCountryName(rawName);
   const affected = conflictCountries.has(norm);
-  const accent = affected ? '#ff5a5f' : '#6aaef0';
+  const accent = affected ? INTENSITY_COLOR.high : '#6aaef0';
   const tagHtml = affected
-    ? `<div style="margin-top:5px; display:inline-block; padding:2px 7px; border-radius:999px;
-                    background:${accent}22; color:${accent}; font-size:.68rem; font-weight:600;">
-         active conflict
-       </div>`
+    ? `<div class="globe-tooltip__tags"><span class="globe-tooltip__tag">active conflict</span></div>`
     : '';
   return `
-    <div style="font-family: Inter, sans-serif; padding: 8px 10px; border-radius: 10px;
-                background: rgba(15,20,35,.92); color: #fff; border: 1px solid ${accent};
-                box-shadow: 0 8px 24px rgba(0,0,0,.4);">
-      <div style="font-weight:600; font-size: .82rem;">${escapeHtml(rawName)}</div>
+    <div class="globe-tooltip" style="--tone:${accent}">
+      <div class="globe-tooltip__title">${escapeHtml(rawName)}</div>
       ${tagHtml}
     </div>
   `;

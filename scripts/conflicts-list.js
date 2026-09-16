@@ -8,11 +8,6 @@ const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
 
 const LOCALE = 'en-US';
 
-const INTENSITY_COLOR = {
-  low: '#4ea8ff',
-  medium: '#ffb347',
-  high: '#ff5a5f',
-};
 const INTENSITY_LABEL = { low: 'Low', medium: 'Medium', high: 'High' };
 const INTENSITY_ORDER = { high: 0, medium: 1, low: 2 };
 
@@ -120,8 +115,8 @@ function render() {
 }
 
 function buildRow(c, selected) {
-  const color = INTENSITY_COLOR[c.intensity] ?? INTENSITY_COLOR.medium;
-  const label = INTENSITY_LABEL[c.intensity] ?? '—';
+  const label = INTENSITY_LABEL[c.intensity];
+  const intensity = label ? c.intensity : 'medium';
   const countries = (c.countries ?? []).join(', ');
   const year = c.startYear ? `· since ${c.startYear}` : '';
 
@@ -135,13 +130,13 @@ function buildRow(c, selected) {
   return `
     <li class="conflict-row" data-id="${escapeAttr(c.id)}" data-selected="${selected}" role="option" aria-selected="${selected}">
       <button type="button" class="conflict-row__btn" aria-expanded="${selected}">
-        <span class="conflict-row__dot" style="background:${color}; color:${color};"></span>
+        <span class="dot conflict-row__dot dot--${intensity}"></span>
         <span class="conflict-row__main">
           <span class="conflict-row__name">${escapeHtml(c.name ?? '—')}</span>
           <span class="conflict-row__meta">${escapeHtml(countries)} ${year}</span>
         </span>
         ${newsBadge}
-        <span class="conflict-row__intensity intensity--${escapeAttr(c.intensity ?? 'low')}">${escapeHtml(label)}</span>
+        <span class="conflict-row__intensity intensity--${intensity}">${escapeHtml(label ?? '—')}</span>
       </button>
       ${details}
     </li>

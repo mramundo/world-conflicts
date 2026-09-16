@@ -82,12 +82,12 @@
 
         <button class="icon-btn" id="themeToggle" aria-label="Toggle dark / light mode" title="Toggle dark / light mode">
           <!-- Sun: shown when dark mode is active (click to switch to light). -->
-          <svg class="theme-icon theme-icon--sun" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <svg class="theme-icon theme-icon--sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <circle cx="12" cy="12" r="4"/>
             <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
           </svg>
           <!-- Moon: shown when light mode is active (click to switch to dark). -->
-          <svg class="theme-icon theme-icon--moon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <svg class="theme-icon theme-icon--moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
           </svg>
         </button>
@@ -132,7 +132,7 @@
         </div>
         <div class="legend" aria-label="Intensity legend">
           <span class="legend__item"><i class="dot dot--low"></i>Low</span>
-          <span class="legend__item"><i class="dot dot--med"></i>Medium</span>
+          <span class="legend__item"><i class="dot dot--medium"></i>Medium</span>
           <span class="legend__item"><i class="dot dot--high"></i>High</span>
         </div>
       </div>
@@ -144,12 +144,12 @@
             <div class="spinner" aria-hidden="true"></div>
             <p>Loading map…</p>
           </div>
-          <div class="globe__controls" aria-hidden="true">
-            <button class="icon-btn" id="resetView" title="Reset view">
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>
+          <div class="globe__controls">
+            <button class="icon-btn" id="resetView" title="Reset view" aria-label="Reset view">
+              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>
             </button>
-            <button class="icon-btn" id="toggleRotate" title="Pause rotation">
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="5" width="4" height="14"/><rect x="14" y="5" width="4" height="14"/></svg>
+            <button class="icon-btn" id="toggleRotate" title="Pause rotation" aria-label="Pause rotation">
+              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="6" y="5" width="4" height="14"/><rect x="14" y="5" width="4" height="14"/></svg>
             </button>
           </div>
         </div>
@@ -167,7 +167,7 @@
             <div class="conflicts-list__filters" role="tablist" aria-label="Intensity filter">
               <button class="mini-chip mini-chip--active" data-intensity="all" role="tab" aria-selected="true">All</button>
               <button class="mini-chip" data-intensity="high" role="tab" aria-selected="false"><i class="dot dot--high"></i>High</button>
-              <button class="mini-chip" data-intensity="medium" role="tab" aria-selected="false"><i class="dot dot--med"></i>Medium</button>
+              <button class="mini-chip" data-intensity="medium" role="tab" aria-selected="false"><i class="dot dot--medium"></i>Medium</button>
               <button class="mini-chip" data-intensity="low" role="tab" aria-selected="false"><i class="dot dot--low"></i>Low</button>
             </div>
           </header>

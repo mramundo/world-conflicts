@@ -1,29 +1,73 @@
 {
-  "updated": "2026-09-16T05:42:50Z",
+  "updated": "2026-09-16T11:01:54Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "le -823b71599b47",
-      "title": "How Russia became the 'FSB state': 'They were given the country'",
-      "description": "'The Putin System' (2/3). Russia's next elections, from September 18 to 20, are set to have no real stakes in a country silenced by the Federal Security Service, whose powers have continued to grow unchecked since the invasion of Ukraine.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/16/how-russia-became-the-fsb-state-they-were-given-the-country_6757573_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-16T02:30:08Z",
-      "image": "https://img.lemde.fr/2026/09/15/31/0/2126/1063/644/322/60/0/026a762_upload-1-tgxna6wzr6gt-lemonde-serie-poutine-300dpi-2.jpg",
+      "id": "deu-bc46f5c7af5b",
+      "title": "Kosovo ex-president Thaci sentenced to 25 years for war crimes",
+      "description": "A Hague tribunal ruled that Hashim Thaci, a former leader of the Kosovo Liberation Army (KLA), is responsible for war crimes carried out during the war of independence with Serbia.",
+      "url": "https://www.dw.com/en/kosovo-ex-president-thaci-sentenced-to-25-years-for-war-crimes/a-79286344?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-16T09:58:00Z",
+      "image": "https://static.dw.com/image/55545907_6.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-760693fae8fa",
+      "title": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
+      "description": "A European Union-backed court convicted former Kosovo President Hashim Thaci of war crimes committed during his country's war for independence from Serbia and sentenced him to 25 years in prison.",
+      "url": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
+      "source": "NPR World",
+      "publishedAt": "2026-09-16T09:57:03Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3407+0+0/resize/5000x3407!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F1e%2Fa8a05440450690bdca01f44b5ddc%2Fap26258396368489.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-224443dda392",
+      "title": "Thaci condannato all'Aja a 25 anni per crimini di guerra in Kosovo",
+      "description": "'Era a conoscenza delle azioni commesse dai miliziani dell'Uck contro gli oppositori'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/thaci-condannato-allaja-a-25-anni-per-crimini-di-guerra-in-kosovo_3739d0d5-9610-40c3-90a0-f5b04d05df40.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-16T09:42:18Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/0a2dea8df4d68c8786fc2fec28c52388.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b08e470750a3",
+      "title": "At least five killed in Russian drone strike near Ukraine front line",
+      "description": "At least seven people also injured in attack near Nikopol in southeastern Ukraine, Dnipropetrovsk governor says.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T09:32:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26259234800808-1789544927.jpg?resize=1920%2C1334",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
       "id": "fra-ddf57b4b9424",
-      "title": "Middle East live: Saudi Arabia accuses Houthi rebels of launching a drone strike on Mecca",
-      "description": "Saudi Arabia's air defences claimed to have intercepted and destroyed a Houthi drone south of Mecca on Tuesday, which the Iran-aligned rebels denied. Meanwhile, several explosions were heard on the island of Qeshm, near the Strait of Hormuz. Follow our liveblog for the latest updates.",
+      "title": "Middle East live: Houthi rebels deny Saudi claim of drone attack on Mecca",
+      "description": "A Houthi official on Wednesday rejected the Saudi-led coalition's report that it had shot down a drone from the rebels heading towards Mecca, the holiest city in Islam. \"The claims about targeting Mecca are a worn-out lie that has been used before and no longer fools anyone,\" Hazem al-Assad from the Houthis' politburo …",
       "url": "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
       "source": "France24",
       "publishedAt": "2026-09-16T02:14:27Z",
@@ -31,7 +75,7 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,17 +95,17 @@
       "tags": []
     },
     {
-      "id": "al -a4a7f43b7679",
-      "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
-      "description": "M23 controls large parts of eastern DRC as Kinshasa and Kigali remain divided over security and sovereignty.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-16T01:42:37Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20250627__643Q944__v1__HighRes__UsDrcRwandaPoliticsDiplomacyConflictPeace-1751046001.jpg?resize=1920%2C1440",
+      "id": "le -97e10d604944",
+      "title": "France hosts Lebanon's president, a sign it still aims to play a role in Lebanese affairs",
+      "description": "Presidents Emmanuel Macron and Joseph Aoun are set to meet on Thursday, amid an international summit on support for the Lebanese Armed Forces. The initiative shows Paris's determination not to be sidelined, especially as the Israel-Lebanon ceasefire agreement reached under US auspices struggles to deliver results.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/15/france-receives-lebanon-s-president-aoun-in-paris-a-sign-it-still-aims-to-play-a-role-in-lebanese-affairs_6757565_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-15T21:17:15Z",
+      "image": "https://img.lemde.fr/2026/09/14/0/0/4738/2369/644/322/60/0/5f6b12c_upload-1-yfcl709edsgl-000-38a89hh.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -122,36 +166,6 @@
       "categories": [
         "conflict",
         "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-fa986d7bfa0e",
-      "title": "'Woman, Life, Freedom' spirit lives on as Iran war drags on",
-      "description": "The 2022 death of Jina Mahsa Amini in police custody triggered a resistance movement in Iran. Four years later, the Iranian regime endures — but so does the legacy of the \"Woman, Life, Freedom\" protests.",
-      "url": "https://www.dw.com/en/woman-life-freedom-spirit-lives-on-as-iran-war-drags-on/a-79276123?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-15T12:27:00Z",
-      "image": "https://static.dw.com/image/78327945_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-d5481d2e915c",
-      "title": "Trump annuncia la tregua energetica Mosca-Kiev ma Zelensky chiede garanzie",
-      "description": "Ft: 'Putin restio'. Il tycoon teme per midterm: 'Caro diesel legato a Ucraina, non a Iran'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/15/trump-annuncia-la-tregua-energetica-mosca-kiev-ma-zelensky-chiede-garanzie_81a3a2db-65e5-4216-bb1a-89c432d3eb63.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-15T06:41:16Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/13/35db450e71876605a3091dd5d4f0a064.jpg",
-      "categories": [
-        "conflict"
       ],
       "relevanceScore": 6,
       "isAnalysis": false,

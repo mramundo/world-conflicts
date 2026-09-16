@@ -1,9 +1,39 @@
 {
-  "updated": "2026-09-15T21:14:17Z",
+  "updated": "2026-09-16T00:01:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "fra-5c2d2d833788",
+      "title": "Russian war, African recruits",
+      "description": "In tonight's programme, thousands of Africans end up amidst the war in Ukraine fighting or working on behalf of the Kremlin. We speak to a journalist who just got back from Ukraine. Also, in the Democratic Republic of Congo, the C64 opposition coalition held a demonstration in the capital Kinshasa. And finally, Kenya's…",
+      "url": "http://www.france24.com/en/russian-war-african-recruits",
+      "source": "France24",
+      "publishedAt": "2026-09-15T22:13:20Z",
+      "image": "https://s.france24.com/media/display/5f5b5b64-b14f-11f1-bce0-53b7617a3a51/w:1024/p:16x9/capture-21125713136aa9bd7c3552a5-36969276.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -97e10d604944",
+      "title": "France receives Lebanon's President Aoun in Paris, a sign it still aims to play a role in Lebanese affairs",
+      "description": "Presidents Emmanuel Macron and Joseph Aoun are set to meet on Thursday, amid an international summit on support for the Lebanese Armed Forces. The initiative shows Paris's determination not to be sidelined, especially as the Israel-Lebanon ceasefire agreement reached under US auspices struggles to deliver results.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/15/france-receives-lebanon-s-president-aoun-in-paris-a-sign-it-still-aims-to-play-a-role-in-lebanese-affairs_6757565_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-15T21:17:16Z",
+      "image": "https://img.lemde.fr/2026/09/14/0/0/4738/2369/644/322/60/0/5f6b12c_upload-1-yfcl709edsgl-000-38a89hh.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "kyi-d0f8df14ca27",
       "title": "Ukraine Reports 219 Frontline Clashes as Fighting Intensifies Near Pokrovsk",
@@ -16,6 +46,21 @@
         "conflict"
       ],
       "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1f5e0e1b3a64",
+      "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+      "description": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-15T19:59:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2018-06-06T133139Z_447411981_RC15C9ECF920_RTRMADP_3_NATO-RUSSIA-EXERCISE-1789006576.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,37 +96,6 @@
       "tags": []
     },
     {
-      "id": "le -f900afb61fc5",
-      "title": "How the French presidential battle will play out in Parliament",
-      "description": "Eight months before the election, the final parliamentary session offers ambitious lawmakers a chance to assert their political identity. That could complicate the budget process.",
-      "url": "https://www.lemonde.fr/en/politics/article/2026/09/15/how-the-french-presidential-battle-will-play-out-in-parliament_6757561_5.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-15T17:00:11Z",
-      "image": "https://img.lemde.fr/2025/11/05/491/0/5900/2950/644/322/60/0/6d02718_upload-1-lto5exk2dr8e-jmug251104100.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-88ec94da73e4",
-      "title": "Trump's claim of energy truce in doubt as Russia hits Kyiv petrol station",
-      "description": "A drone hit a petrol station in Ukraine's capital of Kyiv early on Tuesday, Mayor Vitali Klitschko ‌said, just a day after US President Donald Trump said Ukraine ⁠and Russia had agreed not to target each other's energy assets. The attack “underlines the fact that it is not at all clearly defined what falls into the cat…",
-      "url": "http://www.france24.com/en/video/20260915-trump-s-claim-of-energy-truce-in-doubt-as-russia-hits-kyiv-petrol-station",
-      "source": "France24",
-      "publishedAt": "2026-09-15T16:36:09Z",
-      "image": "https://s.france24.com/media/display/841c4b00-b11f-11f1-867f-8166e20227cd/w:1024/p:16x9/EN-20260915-100125-100520-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-25655f0372fa",
       "title": "A Quiet Ukrainian Counteroffensive, A 'Rout' For Russian Forces",
       "description": "By most accounts, the Ukrainian counteroffensive is shaping up to be one of the largest shifts on the battlefield in months, possibly in a year.",
@@ -94,23 +108,6 @@
         "analysis"
       ],
       "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -9cd16c51d9ee",
-      "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
-      "description": "Israel has made clear it is unwilling to hold to account those responsible for the deaths of seven humanitarian workers.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-15T15:25:39Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2024/04/AFP__20240402__34N89C4__v4__HighRes__TopshotPalestinianIsraelConflictAid-1712324609.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": true,
       "tags": []
     },

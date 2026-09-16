@@ -1,37 +1,81 @@
 {
-  "updated": "2026-09-16T19:52:09Z",
+  "updated": "2026-09-16T22:42:21Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "fra-82d8ed43724c",
-      "title": "Russia-Africa ties: Moscow's growing influence in Africa",
-      "description": "The third Russia-Africa Summit is due to bring African leaders to Moscow at the end of October, as ties between Russia and the continent continue to grow. The Kremlin has sought to expand its influence in Africa amid its isolation from the US and Europe, while African governments have pursued closer economic, diplomati…",
-      "url": "http://www.france24.com/en/video/20260916-russia-africa-ties-moscow-s-growing-influence-in-africa",
-      "source": "France24",
-      "publishedAt": "2026-09-16T15:37:46Z",
-      "image": "https://s.france24.com/media/display/8a891d3c-b1de-11f1-aa4d-0dbbad64a63b/w:1024/p:16x9/EN-20260915-214547-215400-CS.jpg",
+      "id": "le -e9134c3315d0",
+      "title": "Former president of Kosovo Hashim Thaçi sentenced to 25 years in prison for war crimes",
+      "description": "The special court in The Hague found the former leader of the Kosovo Liberation Army guilty of arbitrary detentions, torture, and murders committed during the 1998-1999 war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/17/former-president-of-kosovo-hashim-thaci-sentenced-to-25-years-in-prison-for-war-crimes_6757610_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-16T22:35:35Z",
+      "image": "https://img.lemde.fr/2026/09/16/0/0/8256/4128/644/322/60/0/18bb2a6_ftp-1-vptkqalljlgg-5104367-01-06.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -57d90ee8fac8",
-      "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-      "description": "Two people were killed in the assault on Gaza City - a paramedic and a 15-year-old boy returning from school.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-16T15:00:20Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aaa8d0b-1789562123_af3933-1789566513.jpg?resize=1200%2C630&amp;quality=80",
+      "id": "ans-ab182b6f78ec",
+      "title": "Media, Eduardo Bolsonaro incontra governo Trump e chiede sanzioni per giudice Moraes",
+      "description": "Documento del tycoon al Congresso Usa, 'Brasilia ha fallito contro le gang'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/media-eduardo-bolsonaro-incontra-governo-trump-e-chiede-sanzioni-per-giudice_67e5a642-def1-4645-af67-7ba34642ebde.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-16T22:04:22Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/3/21/6ac1f7ccbaadf39dadea81c9a95faa8d.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -6b623ac22160",
+      "title": "For some Israelis, criticizing the military’s conduct in Gaza is beyond the pale",
+      "description": "A new Israeli documentary about the military’s conduct in the Gaza war has brought accusations of “treason” from some of Israel’s leaders.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0916/naza-gaza-israel-film-documentary-venice?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-09-16T20:27:56Z",
+      "image": "https://images.csmonitor.com/csm/2026/09/0916_ONAZA_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-125d54f62bcb",
+      "title": "Saudi Arabia accuses Houthis of targeting Mecca, calls it a 'red line'",
+      "description": "Saudi Arabia accused Yemen’s Houthis on Wednesday of launching an attack on the holy city of Mecca, which the Iran-backed rebels denied. Saudi Arabia, a US ally which has been the target of large-scale Houthi strikes since early September, declared Mecca a “red line” as it slid deeper into the new front of the Iran war…",
+      "url": "http://www.france24.com/en/middle-east/20260916-saudi-arabia-accuses-houthis-of-targeting-mecca-calling-it-a-red-line",
+      "source": "France24",
+      "publishedAt": "2026-09-16T20:08:24Z",
+      "image": "https://s.france24.com/media/display/824ac65c-b206-11f1-83d2-757719c1152f/w:1024/p:16x9/000-C8H2794.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -84b2b32d0a04",
+      "title": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
+      "description": "Trump pushes for a solution to end Moscow&#039;s war against Kyiv as civilian deaths in Ukraine rise.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T20:05:51Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaae588b1-1789584776.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -83,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "le -4a304696aa78",
-      "title": "Hashim Thaçi, former Kosovo president, sentenced to 25 years for war crimes",
-      "description": "Former Kosovo president Hashim Thaçi was found guilty of war crimes and jailed for 25 years by a court in The Hague.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/16/kosovo-former-president-thaci-given-25-year-sentence-for-war-crimes_6757586_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-16T10:49:29Z",
-      "image": "https://img.lemde.fr/2026/09/16/151/0/4390/2195/644/322/60/0/0d3d6ab_ftp-1-bqx6qj7dh5c3-5103110-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-760693fae8fa",
       "title": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
       "description": "A European Union-backed court convicted former Kosovo President Hashim Thaci of war crimes committed during his country's war for independence from Serbia and sentenced him to 25 years in prison.",
@@ -109,21 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-224443dda392",
-      "title": "Thaci condannato all'Aja a 25 anni per crimini di guerra in Kosovo",
-      "description": "'Era a conoscenza delle azioni commesse dai miliziani dell'Uck contro gli oppositori'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/thaci-condannato-allaja-a-25-anni-per-crimini-di-guerra-in-kosovo_3739d0d5-9610-40c3-90a0-f5b04d05df40.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-16T09:42:18Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/0a2dea8df4d68c8786fc2fec28c52388.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

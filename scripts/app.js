@@ -39,12 +39,12 @@ function createStore(initial = {}) {
 
 /* ---------- Theme (palette + mode) ----------
    Two orthogonal preferences:
-   - palette: visual identity (current | press-room | command-center | midnight-atlas | nordic-dusk)
+   - palette: visual identity (field-report | current | press-room | command-center | midnight-atlas | nordic-dusk)
    - mode:    dark / light
    Both are persisted independently in localStorage so the user's choices
    survive reloads. Legacy `wc-theme` is migrated into `wc-mode`.
 */
-const PALETTES = ['current', 'press-room', 'command-center', 'midnight-atlas', 'nordic-dusk'];
+const PALETTES = ['field-report', 'current', 'press-room', 'command-center', 'midnight-atlas', 'nordic-dusk'];
 const MODES    = ['dark', 'light'];
 
 function initTheme() {
@@ -52,7 +52,7 @@ function initTheme() {
 
   // --- Read stored prefs, falling back to sensible defaults. ---
   let storedPalette = localStorage.getItem('wc-palette');
-  if (!PALETTES.includes(storedPalette)) storedPalette = 'current';
+  if (!PALETTES.includes(storedPalette)) storedPalette = 'field-report';
 
   let storedMode = localStorage.getItem('wc-mode');
   if (!MODES.includes(storedMode)) {
@@ -129,8 +129,6 @@ function applyTheme(palette, mode) {
   const root = document.documentElement;
   root.dataset.palette = palette;
   root.dataset.mode = mode;
-  // Clean up legacy attribute if ever set by an older build.
-  if (root.hasAttribute('data-theme')) root.removeAttribute('data-theme');
 }
 
 /* ---------- Data loading ---------- */
@@ -167,34 +165,22 @@ const fmtDate = (iso) => {
   } catch { return '—'; }
 };
 
-/* ---------- Hero monitoring recap (inline numbers) ---------- */
+/* ---------- Atlas status line (inline numbers) ---------- */
 function renderHeroRecap({ conflicts }) {
   const countries = new Set(conflicts.items.flatMap(c => c.countries ?? []));
-  animateNumber($('#heroConflicts'), conflicts.items.length);
-  animateNumber($('#heroCountries'), countries.size);
+  $('#heroConflicts').textContent = conflicts.items.length.toLocaleString(LOCALE);
+  $('#heroCountries').textContent = countries.size.toLocaleString(LOCALE);
 }
 
-function animateNumber(el, target) {
-  if (!el || !Number.isFinite(target)) return;
-  const duration = 700;
-  const start = performance.now();
-  function step(now) {
-    const t = Math.min(1, (now - start) / duration);
-    const eased = 1 - Math.pow(1 - t, 3);
-    el.textContent = Math.round(target * eased).toLocaleString(LOCALE);
-    if (t < 1) requestAnimationFrame(step);
-  }
-  requestAnimationFrame(step);
-}
-
-/* ---------- Footer / header meta ---------- */
+/* ---------- Freshness (atlas status line + footer) ---------- */
 function setMeta({ conflicts, news }) {
   const latestUpdate = [conflicts.updated, news.updated]
     .filter(Boolean)
     .sort()
     .pop();
   const txt = latestUpdate ? fmtDate(latestUpdate) : '—';
-  $('#lastUpdate').textContent = `Updated ${txt}`;
+  $('#lastUpdate').textContent = txt;
+  if (latestUpdate) $('#lastUpdate').setAttribute('datetime', latestUpdate);
   $('#footerUpdate').textContent = txt;
   $('#year').textContent = new Date().getFullYear();
 }

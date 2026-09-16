@@ -48,7 +48,7 @@ export function initGlobe({ container, loadingEl, conflicts, store }) {
   globe = Globe()(el)
     .backgroundColor('rgba(0,0,0,0)')
     .bumpImageUrl('https://unpkg.com/three-globe@2.31.0/example/img/earth-topology.png')
-    .atmosphereAltitude(0.22)
+    .atmosphereAltitude(0.12)
     .showGraticules(false)
     // Country polygons: subtle fill + stronger borders for conflict countries.
     // Labels show on hover via polygonLabel.

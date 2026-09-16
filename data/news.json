@@ -1,22 +1,85 @@
 {
-  "updated": "2026-09-16T11:01:54Z",
+  "updated": "2026-09-16T16:21:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "deu-bc46f5c7af5b",
-      "title": "Kosovo ex-president Thaci sentenced to 25 years for war crimes",
-      "description": "A Hague tribunal ruled that Hashim Thaci, a former leader of the Kosovo Liberation Army (KLA), is responsible for war crimes carried out during the war of independence with Serbia.",
-      "url": "https://www.dw.com/en/kosovo-ex-president-thaci-sentenced-to-25-years-for-war-crimes/a-79286344?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-16T09:58:00Z",
-      "image": "https://static.dw.com/image/55545907_6.jpg",
+      "id": "fra-82d8ed43724c",
+      "title": "Russia-Africa ties: Moscow's growing influence in Africa",
+      "description": "The third Russia-Africa Summit is due to bring African leaders to Moscow at the end of October, as ties between Russia and the continent continue to grow. The Kremlin has sought to expand its influence in Africa amid its isolation from the US and Europe, while African governments have pursued closer economic, diplomati…",
+      "url": "http://www.france24.com/en/video/20260916-russia-africa-ties-moscow-s-growing-influence-in-africa",
+      "source": "France24",
+      "publishedAt": "2026-09-16T15:37:46Z",
+      "image": "https://s.france24.com/media/display/8a891d3c-b1de-11f1-aa4d-0dbbad64a63b/w:1024/p:16x9/EN-20260915-214547-215400-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -57d90ee8fac8",
+      "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
+      "description": "Two people were killed in the assault on Gaza City - a paramedic and a 15-year-old boy returning from school.",
+      "url": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-16T15:00:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aaa8d0b-1789562123_af3933-1789566513.jpg?resize=1200%2C630&amp;quality=80",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-180951c60255",
+      "title": "US opts not to back Saudi Arabia in Yemen after meeting Houthi leaders",
+      "description": "Iran-backed militants have offered Trump administration assurances over safety of Red Sea shippingOfficials from the US met Houthi leaders over the weekend at the country’s embassy in Muscat, Oman, it has been confirmed, leading to the US decision not to intervene to help Saudi Arabia drive back a Houthi advance inside…",
+      "url": "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-16T14:56:40Z",
+      "image": "https://i.guim.co.uk/img/media/e6fffccc4a635fe7146f5ff89a966ff13c7a59cc/50_0_1316_1053/master/1316.jpg?width=140&quality=85&auto=format&fit=max&s=25417af802dc05f02ed17de839c22b33",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-3e635e207617",
+      "title": "Russian Drones Hit Ukrainian Passenger Train And Bus, Killing 5",
+      "description": "Russian drones hit a passenger train in southern Ukraine on September 16, setting a train ablaze. No causalities were reported. Another Russian drone strike killed five people on a bus near the frontline city of Nikopol, according to officials. The strikes follow an uptick in attacks on civilian transport in recent day…",
+      "url": "https://www.rferl.org/a/russian-drones-hit-ukrainian-passenger-train-and-bus-killing-5/33857562.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-16T14:04:41Z",
+      "image": "https://gdb.rferl.org/de3aaf37-8e38-4927-e138-08df13a87301_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-d42fa0bf06c6",
+      "title": "How the Houthis are also putting Egypt under pressure",
+      "description": "The Houthis, a Yemeni rebel group, are expanding their control of maritime corridors in the Red Sea area. Their target is their avowed enemy Saudi Arabia. But the military moves also endanger Egypt.",
+      "url": "https://www.dw.com/en/how-the-houthis-are-also-putting-egypt-under-pressure/a-79291103?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-16T13:56:00Z",
+      "image": "https://static.dw.com/image/76547864_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -46,51 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -b08e470750a3",
-      "title": "At least five killed in Russian drone strike near Ukraine front line",
-      "description": "At least seven people also injured in attack near Nikopol in southeastern Ukraine, Dnipropetrovsk governor says.",
-      "url": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-16T09:32:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26259234800808-1789544927.jpg?resize=1920%2C1334",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-ddf57b4b9424",
-      "title": "Middle East live: Houthi rebels deny Saudi claim of drone attack on Mecca",
-      "description": "A Houthi official on Wednesday rejected the Saudi-led coalition's report that it had shot down a drone from the rebels heading towards Mecca, the holiest city in Islam. \"The claims about targeting Mecca are a worn-out lie that has been used before and no longer fools anyone,\" Hazem al-Assad from the Houthis' politburo …",
-      "url": "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-      "source": "France24",
-      "publishedAt": "2026-09-16T02:14:27Z",
-      "image": "https://s.france24.com/media/display/daeb6ab0-1492-11ee-bbdb-005056bfb2b6/w:1024/p:16x9/550df3824b1debd7d9044d15bf8809f535de6ffa.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-784ea3303509",
-      "title": "The Palestinian school under siege – podcast",
-      "description": "At least five pupils at a village school in the West Bank have been killed in the last year by settlers and soldiers. Emma Graham-Harrison reports on how the school found itself on the frontline, while a teacher explains what life is like for staff and students.Waheed Abu Naim is an English teacher at the Al Mughayyir …",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/16/palestinian-school-al-mughayyir-under-siege-podcast",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-16T02:00:06Z",
-      "image": "https://i.guim.co.uk/img/media/2ef2a14fa792e6d8cd6878de6ee6d251c9f64f2a/341_0_6495_5196/master/6495.jpg?width=140&quality=85&auto=format&fit=max&s=ee4fe39dafe83f35895a0bae5603d64d",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -125,37 +143,6 @@
       "tags": []
     },
     {
-      "id": "bbc-0057ebf99cc0",
-      "title": "British woman abducted in Malawi, police say",
-      "description": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.",
-      "url": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-15T17:44:45Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243c/live/d9585040-b111-11f1-bc1f-3f186ca4140c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-25655f0372fa",
-      "title": "A Quiet Ukrainian Counteroffensive, A 'Rout' For Russian Forces",
-      "description": "By most accounts, the Ukrainian counteroffensive is shaping up to be one of the largest shifts on the battlefield in months, possibly in a year.",
-      "url": "https://www.rferl.org/a/ukraine-russia-counteroffensive-lyman/33856852.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-15T15:30:04Z",
-      "image": "https://gdb.rferl.org/c94de4a7-ba45-4009-e769-08def2afcad7_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "the-8bdf08bbe617",
       "title": "MFA Repeats Warning for Foreign Embassies in Kyiv to Evacuate After Train Strike Near Poland",
       "description": "The ministry accused Western politicians of “blatantly ignoring” the warnings of their own governments against visiting war-torn Ukraine.",
@@ -169,6 +156,22 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-1e5e15ecd6e2",
+      "title": "What weapon could the US have put into space?",
+      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-15T14:23:14Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {

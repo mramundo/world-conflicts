@@ -1,9 +1,39 @@
 {
-  "updated": "2026-09-17T17:59:27Z",
+  "updated": "2026-09-17T21:15:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -f0a55229ae46",
+      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+      "description": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting.",
+      "url": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-17T20:47:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aac51a15f868-1789677985.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -563340095fd8",
+      "title": "War in Ukraine: Uncovering the lair of the 'Butcher of Bucha'",
+      "description": "Russian Colonel Azatbek Omurbekov's men carried out massacres of Ukrainians in the Kyiv region in March 2022. Le Monde traced his presence to a school in a Ukrainian village near the capital, Andriivka, from where he gave his orders.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/17/war-in-ukraine-uncovering-the-lair-of-the-butcher-of-bucha_6757640_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-17T18:30:06Z",
+      "image": "https://img.lemde.fr/2026/09/09/648/0/2953/1476/644/322/60/0/6d34c26_upload-1-42bhytlvhomg-2026-07-09-heg-ukraine-0659.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "deu-19c9bbfbdea8",
       "title": "A war-fatigued and anxious Russia picks a new parliament",
@@ -82,21 +112,6 @@
       "tags": []
     },
     {
-      "id": "al -005494cbf9da",
-      "title": "Gaza repairman helps journalists to keep documenting genocide",
-      "description": "As journalists in Gaza continue documenting the war, camera repairman Mohammed Radwan keeps damaged equipment in use.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-17T11:01:03Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-11.53.02-1789642526.png?resize=1200%2C630",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-f0c521843812",
       "title": "Fresh Russian Strikes Hit Ukraine As US House Passes Sanctions Bill Targeting Moscow",
       "description": "Russia resumed its missile and drone attacks on Ukrainian cities on September 17, hours after the US Congress passed a sanctions package that supporters say will increase pressure on Moscow and countries that help finance its war against Ukraine.",
@@ -139,21 +154,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -37791f33cfdb",
-      "title": "Russia's giant game of Monopoly to fund the war",
-      "description": "'The Putin System' (3/3). Ever since the full-scale invasion of Ukraine in 2022, sweeping property redistribution has been underway in Russia. Most often, the state has seized assets from entrepreneurs deemed disloyal and resold them to Vladimir Putin's loyalists.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/17/russia-s-giant-game-of-monopoly-to-fund-the-war_6757614_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-17T01:00:09Z",
-      "image": "https://img.lemde.fr/2026/09/16/177/0/2126/1063/644/322/60/0/047d7b1_upload-1-7k1svkbhh50a-lemonde-serie-poutine-300dpi-3.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-17T21:15:50Z",
+  "updated": "2026-09-17T23:58:07Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "rfe-64497f31cb18",
+      "title": "Russians Vote In First Parliamentary Election Since 2022 Ukraine Invasion",
+      "description": "Russians cast ballots to choose lawmakers for the State Duma, with the more-than-4 ½-year-old war on Ukraine and a slowing economy looming over the country’s first parliamentary elections since the 2022 invasion.",
+      "url": "https://www.rferl.org/a/russia-duma-election-vote-putin-ukraine-war/33858191.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-17T22:01:52Z",
+      "image": "https://gdb.rferl.org/2494d378-3f15-4e41-a7c4-5e9590e24ccf_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "al -f0a55229ae46",
       "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
@@ -109,22 +125,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-f0c521843812",
-      "title": "Fresh Russian Strikes Hit Ukraine As US House Passes Sanctions Bill Targeting Moscow",
-      "description": "Russia resumed its missile and drone attacks on Ukrainian cities on September 17, hours after the US Congress passed a sanctions package that supporters say will increase pressure on Moscow and countries that help finance its war against Ukraine.",
-      "url": "https://www.rferl.org/a/russia-attack-ukraine-graham-bill-sanctions/33858069.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-17T09:31:36Z",
-      "image": "https://gdb.rferl.org/596d562b-25fa-43f2-6fae-08df13a869ed_cx0_cy6_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

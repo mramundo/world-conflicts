@@ -1,22 +1,53 @@
 {
-  "updated": "2026-09-18T14:11:04Z",
+  "updated": "2026-09-18T18:07:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-54372a266b8a",
-      "title": "South Korea's Lee rules out any combat deployment to Middle East",
+      "id": "nik-4ef541b08222",
+      "title": "China shipbuilding orders nearly triple on Iran war windfall",
       "description": "",
-      "url": "https://asia.nikkei.com/politics/south-korea-s-lee-rules-out-any-combat-deployment-to-middle-east",
+      "url": "https://asia.nikkei.com/business/business-trends/china-shipbuilding-orders-nearly-triple-on-iran-war-windfall",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-18T14:11:00Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F0%2F2%2F13132056-1-eng-GB%2Ff66e6aa52a9b-e.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-09-18T18:07:25Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F0%2F8%2F3%2F13133801-2-eng-GB%2F283fa341a4b3-photo_SXM2026091000005979.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-4a7b35fbcf1b",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-18T17:31:30Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-c7f9c2082a93",
+      "title": "Yemen Conflict Intensifies, Reverberating Beyond the Region",
+      "description": "Fighting has escalated between the Iran-aligned Houthi rebels in Yemen and Saudi Arabia. The hostilities could have global implications, including for oil prices already high amid the Iran war.",
+      "url": "https://www.rferl.org/a/yemen-houthis-saudi-arabia-oil-iran/33858936.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-18T14:55:07Z",
+      "image": "https://gdb.rferl.org/df1ae8ab-8293-44b6-3f53-08df13a884cb_cx0_cy4_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -35,6 +66,22 @@
       "tags": []
     },
     {
+      "id": "al -7cf4b1cbfc8c",
+      "title": "Why does Canada want to join the Europe-led JEF military partnership?",
+      "description": "This is the latest step in Canada&#039;s bid to move closer to Europe amid bitter trade war with the US.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/why-does-canada-want-to-join-the-europe-led-jef-military-partnership?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-18T12:51:15Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260917__C8KT6U3__v1__HighRes__FranceEuCanadaParliament-1789645609_c377d5-1789726757.jpg?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "ans-4ef809258b8a",
       "title": "Media, 'Riad propone una tregua di due settimane, ma Houthi scettici'",
       "description": "Quotidiano libanese vicino a Hezbollah, 'I ribelli yemeniti auspicano soluzione completa'",
@@ -46,21 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -8fd59a103435",
-      "title": "Bomb attack at Pakistan mosque kills at least 16 people, injures 56",
-      "description": "Attack not immediately claimed, but ISIL and Pakistan Taliban (TTP) active in the region and regularly target troops.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-18T10:18:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/10/epa_68ed534d8480-1760383821.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,22 +125,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-64497f31cb18",
-      "title": "Russians Vote In First Parliamentary Election Since 2022 Ukraine Invasion",
-      "description": "Russians cast ballots to choose lawmakers for the State Duma, with the more-than-4 ½-year-old war on Ukraine and a slowing economy looming over the country’s first parliamentary elections since the 2022 invasion.",
-      "url": "https://www.rferl.org/a/russia-duma-election-vote-putin-ukraine-war/33858191.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-17T22:01:52Z",
-      "image": "https://gdb.rferl.org/2494d378-3f15-4e41-a7c4-5e9590e24ccf_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -173,6 +189,21 @@
       "tags": []
     },
     {
+      "id": "the-fdf0f3cad147",
+      "title": "Putin Casts Parliamentary Election as Barometer of Support for War, Urges Russians to Vote",
+      "description": "Russia is holding elections this weekend for the lower-house State Duma, which has a track record of faithfully approving the Kremlin's initiatives.",
+      "url": "https://www.themoscowtimes.com/2026/09/16/putin-casts-parliamentary-election-as-barometer-of-support-for-war-urges-russians-to-vote-a93729",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-16T15:28:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/23/93729__23bc366362bb1bf3e5e7c06b84e4f5b6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "un -51993dedc987",
       "title": "Gaza: At least 20 killed in deadly building collapse, search for survivors continues",
       "description": "Search and rescue operations continued in Gaza City on Wednesday following the collapse of a bombed-out building that killed at least 20 people, according to reports.",
@@ -185,38 +216,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-8bdf08bbe617",
-      "title": "MFA Repeats Warning for Foreign Embassies in Kyiv to Evacuate After Train Strike Near Poland",
-      "description": "The ministry accused Western politicians of “blatantly ignoring” the warnings of their own governments against visiting war-torn Ukraine.",
-      "url": "https://www.themoscowtimes.com/2026/09/15/mfa-repeats-warning-for-foreign-embassies-in-kyiv-to-evacuate-after-train-strike-near-poland-a93715",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-15T14:36:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/a6/93715__a6a9f3d060e77fcf20720126c666841d.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-1e5e15ecd6e2",
-      "title": "What weapon could the US have put into space?",
-      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-15T14:23:14Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     }
   ]

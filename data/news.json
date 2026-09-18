@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T18:07:29Z",
+  "updated": "2026-09-18T21:28:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/business-trends/china-shipbuilding-orders-nearly-triple-on-iran-war-windfall",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-18T18:07:25Z",
+      "publishedAt": "2026-09-18T21:28:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F0%2F8%2F3%2F13133801-2-eng-GB%2F283fa341a4b3-photo_SXM2026091000005979.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -25,7 +25,7 @@
       "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
       "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-09-18T17:31:30Z",
+      "publishedAt": "2026-09-18T20:17:50Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg",
       "categories": [
         "conflict"
@@ -35,8 +35,23 @@
       "tags": []
     },
     {
+      "id": "al -2e7c7e10e0c6",
+      "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+      "description": "Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-18T19:14:41Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aad798eb2d2-1789753742.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-c7f9c2082a93",
-      "title": "Yemen Conflict Intensifies, Reverberating Beyond the Region",
+      "title": "Yemen Conflict Intensifies, Reverberating Beyond The Region",
       "description": "Fighting has escalated between the Iran-aligned Houthi rebels in Yemen and Saudi Arabia. The hostilities could have global implications, including for oil prices already high amid the Iran war.",
       "url": "https://www.rferl.org/a/yemen-houthis-saudi-arabia-oil-iran/33858936.html",
       "source": "RFE/RL",
@@ -66,19 +81,18 @@
       "tags": []
     },
     {
-      "id": "al -7cf4b1cbfc8c",
-      "title": "Why does Canada want to join the Europe-led JEF military partnership?",
-      "description": "This is the latest step in Canada&#039;s bid to move closer to Europe amid bitter trade war with the US.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/why-does-canada-want-to-join-the-europe-led-jef-military-partnership?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-18T12:51:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260917__C8KT6U3__v1__HighRes__FranceEuCanadaParliament-1789645609_c377d5-1789726757.jpg?resize=1200%2C630&amp;quality=80",
+      "id": "un -749711860ea3",
+      "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
+      "description": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168374",
+      "source": "UN News",
+      "publishedAt": "2026-09-18T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/25-08-2026_Ukraine%20UNODC%202.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -200,21 +214,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -51993dedc987",
-      "title": "Gaza: At least 20 killed in deadly building collapse, search for survivors continues",
-      "description": "Search and rescue operations continued in Gaza City on Wednesday following the collapse of a bombed-out building that killed at least 20 people, according to reports.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168346",
-      "source": "UN News",
-      "publishedAt": "2026-09-16T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/16-09-2026-Gaza-UNRWA-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T09:27:01Z",
+  "updated": "2026-09-18T14:11:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/south-korea-s-lee-rules-out-any-combat-deployment-to-middle-east",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-18T09:26:58Z",
+      "publishedAt": "2026-09-18T14:11:00Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F0%2F2%2F13132056-1-eng-GB%2Ff66e6aa52a9b-e.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,48 @@
       "tags": []
     },
     {
-      "id": "al -fee91fb19ab6",
-      "title": "Israel would rather not watch NAZA",
-      "description": "The backlash against the Gaza documentary is part of a broader refusal to confront the reality of the genocide.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-18T08:49:16Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aacfaf7c508-1789721335.jpg?resize=1920%2C1440",
+      "id": "fra-6e4b46b5ebf6",
+      "title": "US approves sale of F-35 fighter jets to Saudi Arabia",
+      "description": "The United States has approved a $24.3 billion sale of 48 F-35 stealth warplanes to Saudi Arabia, the State Department said Thursday, the kingdom's latest major arms purchase since the start of the Iran war. Saudi Arabia has been repeatedly targeted with drone and missile strikes by Tehran's forces since the United Sta…",
+      "url": "https://www.france24.com/en/video/20260918-us-approves-sale-of-f-35-fighter-jets-to-saudi-arabia",
+      "source": "France24",
+      "publishedAt": "2026-09-18T13:29:52Z",
+      "image": "https://s.france24.com/media/display/49bb9402-b363-11f1-9ebf-43e12873d6ea/w:1024/p:16x9/EN-20260918-144551-144748-CS.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": true,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-4ef809258b8a",
+      "title": "Media, 'Riad propone una tregua di due settimane, ma Houthi scettici'",
+      "description": "Quotidiano libanese vicino a Hezbollah, 'I ribelli yemeniti auspicano soluzione completa'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/18/media-riad-propone-una-tregua-di-due-settimane-ma-houthi-scettici_47372400-530a-4ee8-a2df-b04b2b656c50.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-18T11:04:46Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/13/b4ee82e1096d58fca7e3f3bbc7e63b7a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8fd59a103435",
+      "title": "Bomb attack at Pakistan mosque kills at least 16 people, injures 56",
+      "description": "Attack not immediately claimed, but ISIL and Pakistan Taliban (TTP) active in the region and regularly target troops.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-18T10:18:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/10/epa_68ed534d8480-1760383821.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -52,43 +81,13 @@
       "tags": []
     },
     {
-      "id": "ans-982202067019",
-      "title": "Nyt, Trump valuta accordi commerciali con Putin prima della fine della guerra",
-      "description": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_3e9673b9-5c3f-46d0-b7d4-c661d2abdb97.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-18T05:39:43Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2025/12/16/196841cbb3585505b11663e0e28deaf8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-664c0aa8f161",
-      "title": "Russia votes in parliamentary election as war in Ukraine drags on",
-      "description": "Polls opened in Russia's Far East on Friday as the country began three days of voting for its parliamentary election, the first since Moscow launched its full-scale invasion of Ukraine. The Kremlin's main party, United Russia, is poised to keep its grip on power alongside other parties aligned with President Vladimir P…",
-      "url": "https://www.france24.com/en/europe/20260918-russia-votes-in-wartime-parliamentary-election-set-to-secure-the-kremlin-power",
-      "source": "France24",
-      "publishedAt": "2026-09-18T05:38:20Z",
-      "image": "https://s.france24.com/media/display/a45a676c-b331-11f1-adf4-5570cf9529c5/w:1024/p:16x9/AP26261239584740.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -b36ce588142a",
-      "title": "Clashes kill 26 people in disputed Sudan-South Sudan border",
-      "description": "Another 82 were wounded in the Abyei region, where violence is frequent as the region's status remains unresolved.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/09/18/clashes-kill-26-people-in-disputed-sudan-south-sudan-border_6757653_124.html",
+      "id": "le -e35341599c76",
+      "title": "In Russia, anti-war activists seek to resist Putin's electoral machine",
+      "description": "Orchestrated and tightly controlled by the Kremlin, the parliamentary elections scheduled for September 18 to 20 are expected to deliver another victory for United Russia, the party of President Vladimir Putin. Despite ongoing repression, some Russians intend to use the vote to express opposition to the regime and the …",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/18/in-russia-anti-war-activists-seek-to-resist-putin-s-electoral-machine_6757650_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-18T03:31:14Z",
-      "image": "https://img.lemde.fr/2026/09/18/761/0/5713/2856/644/322/60/0/a28feb6_upload-1-oxsxy3nfeuhd-a28feb6-upload-1-debqm4k4cfvu-000-j45s2.jpg",
+      "publishedAt": "2026-09-18T02:54:12Z",
+      "image": "https://img.lemde.fr/2026/09/03/207/0/5181/2590/644/322/60/0/7823c2a_ftp-1-79ab8xjfav6f-2026-09-03t181446z-859214593-rc2tbnar7w42-rtrmadp-3-russia-rights-war.JPG",
       "categories": [
         "conflict"
       ],
@@ -128,6 +127,22 @@
       "tags": []
     },
     {
+      "id": "the-430f7edbd3fd",
+      "title": "IS member sentenced to 20 years in prison for role in 2021 Kabul airport bombing",
+      "description": "Mohammad Sharifullah, 28, was convicted of aiding the terrorist group that took credit for the suicide bombing An Islamic State group member was sentenced on Wednesday to 20 years in prison for aiding the terrorist organization that took credit for a suicide bombing that killed 13 US service members and about 160 Afgha…",
+      "url": "https://www.theguardian.com/world/2026/sep/17/is-member-sentenced-kabul-airport-bombing",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-17T13:40:30Z",
+      "image": "https://i.guim.co.uk/img/media/613da6312b870e73d1665bc91cf6f3389e00e10d/180_0_5278_4224/master/5278.jpg?width=140&quality=85&auto=format&fit=max&s=d718fc94c8c0b8d28eaf02cbd6df3bf1",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "kyi-5ea69d386593",
       "title": "‘It Is a Pity’: China Could Stop the War but Leans Toward Russia, Zelensky Says",
       "description": "President Volodymyr Zelensky said China is politically closer to Russia than Ukraine and has failed to use its influence over Moscow to help end the war. In an NHK interview, he also proposed a Drone Deal with Japan and warned that 30,000–50,000 North Korean troops have gained real combat and drone-warfare experience i…",
@@ -135,21 +150,6 @@
       "source": "Kyiv Post",
       "publishedAt": "2026-09-17T11:26:00Z",
       "image": "https://static.kyivpost.com/storage/2026/09/03/2d0012e81209595c2d293d76f3d1c175.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-33345196f058",
-      "title": "Thursday briefing: Yemen’s war continues to threaten oil supplies– but what about its people?",
-      "description": "In today’s newsletter: The Houthi advance along the Red Sea coast raised fears for global trade and energy supplies, while more than 100,000 Yemenis have been displaced by the fightingGood morning. The lightning advance of Houthi militants along the west coast of Yemen over the past week has prompted fears of a spirall…",
-      "url": "https://www.theguardian.com/world/2026/sep/17/thursday-briefing-yemens-war-continues-to-threaten-oil-supplies-but-what-about-its-people",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-17T05:45:50Z",
-      "image": "https://i.guim.co.uk/img/media/b35015985c8d9594e95275f872b322ee2b4806fe/138_0_980_784/master/980.jpg?width=140&quality=85&auto=format&fit=max&s=0436121d4bcf24c796b654a22a4ffe62",
       "categories": [
         "conflict"
       ],

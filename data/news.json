@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-18T21:28:14Z",
+  "updated": "2026-09-18T23:56:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-4ef541b08222",
-      "title": "China shipbuilding orders nearly triple on Iran war windfall",
+      "id": "nik-fdf2244c5178",
+      "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
       "description": "",
-      "url": "https://asia.nikkei.com/business/business-trends/china-shipbuilding-orders-nearly-triple-on-iran-war-windfall",
+      "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-18T21:28:10Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F0%2F8%2F3%2F13133801-2-eng-GB%2F283fa341a4b3-photo_SXM2026091000005979.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-09-18T23:56:54Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
@@ -20,28 +20,43 @@
       "tags": []
     },
     {
-      "id": "bbc-4a7b35fbcf1b",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-18T20:17:50Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -2e7c7e10e0c6",
-      "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
-      "description": "Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
+      "id": "al -c6da811de8c9",
+      "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
+      "description": "The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-18T19:14:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aad798eb2d2-1789753742.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-18T23:14:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aadb5f662c7-1789769206.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-a02d3cf253d4",
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-18T23:07:16Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8460/live/fe6b4100-b330-11f1-bc1f-3f186ca4140c.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -4a0d61b9c3c5",
+      "title": "'The 'Z' bloggers have begun accusing not Putin, but everyone else around him: The military hierarchy, the government, and the media propagandists'",
+      "description": "Ivan Philippov, expert on the Z blogosphere – a term for pro-war Russian internet users who have relayed ultranationalist propaganda since the Ukraine war began – explains in an interview with Le Monde why these voices are increasingly expressing anger toward the Kremlin as Russia's parliamentary elections approach, Se…",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/18/the-z-bloggers-have-begun-accusing-not-putin-but-everyone-else-around-him-the-military-hierarchy-the-government-and-the-media-propagandists_6757689_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-18T21:32:59Z",
+      "image": "https://img.lemde.fr/2026/09/14/0/0/7421/3710/644/322/60/0/e87348c_ftp-1-ux7webcz8dst-5087666-01-06.jpg",
       "categories": [
         "conflict"
       ],
@@ -124,21 +139,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -e35341599c76",
-      "title": "In Russia, anti-war activists seek to resist Putin's electoral machine",
-      "description": "Orchestrated and tightly controlled by the Kremlin, the parliamentary elections scheduled for September 18 to 20 are expected to deliver another victory for United Russia, the party of President Vladimir Putin. Despite ongoing repression, some Russians intend to use the vote to express opposition to the regime and the …",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/18/in-russia-anti-war-activists-seek-to-resist-putin-s-electoral-machine_6757650_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-18T02:54:12Z",
-      "image": "https://img.lemde.fr/2026/09/03/207/0/5181/2590/644/322/60/0/7823c2a_ftp-1-79ab8xjfav6f-2026-09-03t181446z-859214593-rc2tbnar7w42-rtrmadp-3-russia-rights-war.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     },
     {

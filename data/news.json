@@ -1,9 +1,101 @@
 {
-  "updated": "2026-09-18T04:28:27Z",
+  "updated": "2026-09-18T09:27:01Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "nik-54372a266b8a",
+      "title": "South Korea's Lee rules out any combat deployment to Middle East",
+      "description": "",
+      "url": "https://asia.nikkei.com/politics/south-korea-s-lee-rules-out-any-combat-deployment-to-middle-east",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-09-18T09:26:58Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F0%2F2%2F13132056-1-eng-GB%2Ff66e6aa52a9b-e.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -fee91fb19ab6",
+      "title": "Israel would rather not watch NAZA",
+      "description": "The backlash against the Gaza documentary is part of a broader refusal to confront the reality of the genocide.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-18T08:49:16Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aacfaf7c508-1789721335.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-377d1966a417",
+      "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
+      "description": "The Houthis' biggest land grab in years reignited Yemen's 12-year civil war and pushed up global fuel prices, extending their reach to a key maritime chokepoint and threatening Saudi Arabia's oil exports.",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
+      "source": "NPR World",
+      "publishedAt": "2026-09-18T08:02:41Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2Fe7%2Ffb2f2f6e49988fac16b0a3ad738f%2Fap26260477296687.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-982202067019",
+      "title": "Nyt, Trump valuta accordi commerciali con Putin prima della fine della guerra",
+      "description": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_3e9673b9-5c3f-46d0-b7d4-c661d2abdb97.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-18T05:39:43Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2025/12/16/196841cbb3585505b11663e0e28deaf8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-664c0aa8f161",
+      "title": "Russia votes in parliamentary election as war in Ukraine drags on",
+      "description": "Polls opened in Russia's Far East on Friday as the country began three days of voting for its parliamentary election, the first since Moscow launched its full-scale invasion of Ukraine. The Kremlin's main party, United Russia, is poised to keep its grip on power alongside other parties aligned with President Vladimir P…",
+      "url": "https://www.france24.com/en/europe/20260918-russia-votes-in-wartime-parliamentary-election-set-to-secure-the-kremlin-power",
+      "source": "France24",
+      "publishedAt": "2026-09-18T05:38:20Z",
+      "image": "https://s.france24.com/media/display/a45a676c-b331-11f1-adf4-5570cf9529c5/w:1024/p:16x9/AP26261239584740.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -b36ce588142a",
+      "title": "Clashes kill 26 people in disputed Sudan-South Sudan border",
+      "description": "Another 82 were wounded in the Abyei region, where violence is frequent as the region's status remains unresolved.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/09/18/clashes-kill-26-people-in-disputed-sudan-south-sudan-border_6757653_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-18T03:31:14Z",
+      "image": "https://img.lemde.fr/2026/09/18/761/0/5713/2856/644/322/60/0/a28feb6_upload-1-oxsxy3nfeuhd-a28feb6-upload-1-debqm4k4cfvu-000-j45s2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "rfe-64497f31cb18",
       "title": "Russians Vote In First Parliamentary Election Since 2022 Ukraine Invasion",
@@ -21,21 +113,6 @@
       "tags": []
     },
     {
-      "id": "al -f0a55229ae46",
-      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
-      "description": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting.",
-      "url": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-17T20:47:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aac51a15f868-1789677985.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-19c9bbfbdea8",
       "title": "A war-fatigued and anxious Russia picks a new parliament",
       "description": "Fuel shortages, drone strikes and mobilization rumors are fueling anxiety and war fatigue in Russia. As support for peace talks grows among Russians, the Kremlin is watching closely ahead of parliamentary elections.",
@@ -47,53 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-1517e9fd256d",
-      "title": "'Sanctions won’t prevent us from doing our job' says ICC Prosecutor Mame Mandiaye Niang",
-      "description": "In this edition of Perspective, the acting Prosecutor of the International Criminal Court tells FRANCE 24 that the court is needed now more than ever to ensure there is no gap for impunity. Mame Mandiaye Niang says the court’s job is to step in if domestic justice systems fail. The Senegalese judge is at the centre of …",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260917-sanctions-won-t-prevent-us-from-doing-our-job-says-icc-prosecutor-mame-mandiaye-niang",
-      "source": "France24",
-      "publishedAt": "2026-09-17T16:02:51Z",
-      "image": "https://s.france24.com/media/display/332e1d38-b27b-11f1-8dd7-4daf57bffe27/w:1024/p:16x9/ANGL260917-0940-Live-CS0940.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-8a30bf6431fe",
-      "title": "Kiev, 'ci prepariamo a incontro Trump-Zelensky a margine dell'Onu'",
-      "description": "Sybiha, 'potrebbe portare a cessate il fuoco energetico e sul mar Nero'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/kiev-ci-prepariamo-a-incontro-trump-zelensky-a-margine-dellonu_f9ce145a-ad37-4c8e-8b61-6e4e5f341648.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-17T15:50:25Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/13/67b9190752bd67d8e8c3ec9d93926b4d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-414cf51e64d6",
-      "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-      "description": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab.",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
-      "source": "NPR World",
-      "publishedAt": "2026-09-17T12:33:36Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5975x3983+0+0/resize/5975x3983!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2Fe2%2F876784e54aeeaa0f01debab8cd6d%2Fap26258653383251.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -113,21 +143,6 @@
       "tags": []
     },
     {
-      "id": "bbc-42efb490e60e",
-      "title": "Abducted South African journalist found dead with gunshot wounds",
-      "description": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg.",
-      "url": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-17T06:46:31Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6141/live/21fff040-b25d-11f1-8894-1de5e01abbbb.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-33345196f058",
       "title": "Thursday briefing: Yemen’s war continues to threaten oil supplies– but what about its people?",
       "description": "In today’s newsletter: The Houthi advance along the Red Sea coast raised fears for global trade and energy supplies, while more than 100,000 Yemenis have been displaced by the fightingGood morning. The lightning advance of Houthi militants along the west coast of Yemen over the past week has prompted fears of a spirall…",
@@ -139,21 +154,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -37791f33cfdb",
-      "title": "Russia's giant game of Monopoly to fund the war",
-      "description": "'The Putin System' (3/3). Ever since the full-scale invasion of Ukraine in 2022, sweeping property redistribution has been underway in Russia. Most often, the state has seized assets from entrepreneurs deemed disloyal and resold them to Vladimir Putin's loyalists.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/17/russia-s-giant-game-of-monopoly-to-fund-the-war_6757614_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-17T01:00:09Z",
-      "image": "https://img.lemde.fr/2026/09/16/177/0/2126/1063/644/322/60/0/047d7b1_upload-1-7k1svkbhh50a-lemonde-serie-poutine-300dpi-3.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,6 +201,22 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-1e5e15ecd6e2",
+      "title": "What weapon could the US have put into space?",
+      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-15T14:23:14Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     }
   ]

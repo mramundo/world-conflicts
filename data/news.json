@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T20:12:34Z",
+  "updated": "2026-09-19T22:43:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-19T20:12:30Z",
+      "publishedAt": "2026-09-19T22:43:25Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,33 @@
       "tags": []
     },
     {
+      "id": "al -733305c01996",
+      "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+      "description": "Gaza&#039;s IT industry has been devastated from three-years of bombing and destruction.",
+      "url": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-19T20:30:01Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/4-1-1789814430.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "bbc-dbf103d247c1",
-      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-      "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-09-19T19:09:49Z",
+      "publishedAt": "2026-09-19T20:16:07Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -61,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -1f45055188d8",
-      "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
-      "description": "This is Russia&#039;s first election since it invaded Ukraine, and is expected to gauge public support for the ongoing war.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-19T15:18:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aae99834c86-1789827459.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

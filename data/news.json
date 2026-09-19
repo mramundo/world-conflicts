@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T13:44:16Z",
+  "updated": "2026-09-19T17:02:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-19T13:44:12Z",
+      "publishedAt": "2026-09-19T17:02:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-7b0b922575e3",
+      "title": "Yemen, in 24 ore 48 morti negli scontri tra Houthi e forze governative",
+      "description": "Fonti alla Afp: uccisi 17 soldati e 31 ribelli",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/yemen-in-24-ore-48-morti-negli-scontri-tra-houthi-e-forze-governative_c615921d-6d9e-4a20-9e91-fe92d830fd23.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-19T15:55:18Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/18/6910b0c4d3c3c572983b5169dade5608.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-10bf8434ba2c",
-      "title": "Houthi, 'non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
-      "description": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono-in-arabia_5dbbcc40-a593-44ac-9f14-eb43bbadd2a5.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-19T12:39:04Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/18/6d4bdfde6e27f49b221f4671a4b9e359.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -205,17 +205,17 @@
       "tags": []
     },
     {
-      "id": "the-fdf0f3cad147",
-      "title": "Putin Casts Parliamentary Election as Barometer of Support for War, Urges Russians to Vote",
-      "description": "Russia is holding elections this weekend for the lower-house State Duma, which has a track record of faithfully approving the Kremlin's initiatives.",
-      "url": "https://www.themoscowtimes.com/2026/09/16/putin-casts-parliamentary-election-as-barometer-of-support-for-war-urges-russians-to-vote-a93729",
+      "id": "the-1f5886a1e28f",
+      "title": "Russia and Ukraine Exchange Bodies of 275 Fallen Soldiers",
+      "description": "Russia handed over 252 bodies to Ukrainian authorities, while Ukraine returned 23 bodies.",
+      "url": "https://www.themoscowtimes.com/2026/09/17/russia-and-ukraine-exchange-bodies-of-275-fallen-soldiers-a93737",
       "source": "The Moscow Times",
-      "publishedAt": "2026-09-16T15:28:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/23/93729__23bc366362bb1bf3e5e7c06b84e4f5b6.jpg",
+      "publishedAt": "2026-09-17T11:17:01Z",
+      "image": "https://static.themoscowtimes.com/image/og/9e/93737__9e105fe09d588ef3bbb1dc14cb2a4f25.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     }

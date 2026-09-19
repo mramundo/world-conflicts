@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T09:14:01Z",
+  "updated": "2026-09-19T13:44:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,59 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-19T09:13:58Z",
+      "publishedAt": "2026-09-19T13:44:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-2548237c9680",
+      "title": "Putin says Europe is 'preparing for war'",
+      "description": "As the West continues to denounce Russian aggression in Ukraine and to support Kyiv with a host of economic and military measures, Russian President Vladimir Putin says that Nato is expanding its reach and influence with the intention of preparing for war with Russia. Analysis by Dr Alexander Titov, lecturer in Modern …",
+      "url": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war",
+      "source": "France24",
+      "publishedAt": "2026-09-19T13:04:36Z",
+      "image": "https://s.france24.com/media/display/38d1d742-b42a-11f1-aa92-9ff5c3f464d4/w:1024/p:16x9/EN-20260919-131011-131847-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-10bf8434ba2c",
+      "title": "Houthi, 'non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
+      "description": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono-in-arabia_5dbbcc40-a593-44ac-9f14-eb43bbadd2a5.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-19T12:39:04Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/18/6d4bdfde6e27f49b221f4671a4b9e359.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -be6c56eb410f",
+      "title": "In Gaza, actors perform a war they are still living",
+      "description": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
+      "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-19T12:18:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/playgazafinal-1789743494.jpg?resize=1620%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -72,28 +118,13 @@
       "url": "https://www.rferl.org/a/33859294.html",
       "source": "RFE/RL",
       "publishedAt": "2026-09-19T05:53:39Z",
-      "image": "https://gdb.rferl.org/6e9645bc-1764-49d9-62ad-08df13a87200_w800_h450.jpg",
+      "image": "https://gdb.rferl.org/13b5507e-ec94-422e-becf-f1f16aae8889_cx7_cy18_cw85_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-fe2c2f6763a4",
-      "title": "Live: Russian strike on apartment building in Ukraine's Sumy kills at least two",
-      "description": "At least two people were killed and seven were injured after a Russian aerial bomb struck an apartment building in the eastern Ukrainian city of Sumy late Friday, Ukrainian President Volodymyr Zelensky and other officials said. A frequent target of Russian attacks, Sumy is located in an area where Moscow says it wants …",
-      "url": "https://www.france24.com/en/europe/20260919-ukraine-live-russian-strike-on-apartment-building-in-ukraine-s-sumy-kills-at-least-two",
-      "source": "France24",
-      "publishedAt": "2026-09-19T05:24:28Z",
-      "image": "https://s.france24.com/media/display/663590c0-b3e9-11f1-b4b5-9ff5c3f464d4/w:1024/p:16x9/2026-09-19T050821Z-493016060-RC25MNAON5D8-RTRMADP-3-UKRAINE-CRISIS-ATTACK-SUMY.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -128,21 +159,6 @@
       "tags": []
     },
     {
-      "id": "al -c29b868b1b04",
-      "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-      "description": "Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-19T00:02:03Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aadbe453ef6-1789771333.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -749711860ea3",
       "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
       "description": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
@@ -154,21 +170,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-4ef809258b8a",
-      "title": "Media, 'Riad propone una tregua di due settimane, ma Houthi scettici'",
-      "description": "Quotidiano libanese vicino a Hezbollah, 'I ribelli yemeniti auspicano soluzione completa'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/18/media-riad-propone-una-tregua-di-due-settimane-ma-houthi-scettici_47372400-530a-4ee8-a2df-b04b2b656c50.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-18T11:04:46Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/13/b4ee82e1096d58fca7e3f3bbc7e63b7a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

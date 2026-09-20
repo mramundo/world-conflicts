@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T22:43:28Z",
+  "updated": "2026-09-20T00:46:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-19T22:43:25Z",
+      "publishedAt": "2026-09-20T00:46:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-dbf103d247c1",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-19T23:49:26Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,21 +48,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-dbf103d247c1",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-19T20:16:07Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -73,6 +73,21 @@
       "source": "ANSA",
       "publishedAt": "2026-09-19T15:55:18Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/18/6910b0c4d3c3c572983b5169dade5608.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -7ad084fd5bc2",
+      "title": "Fire erupts near Riyadh airport as Houthis claim strikes",
+      "description": "Yemen's Houthis announced they had carried out strikes on targets in the Saudi capital and coastal oil facilities. Saudi authorities, which had issued an overnight air raid alert, later confimed the dawn strike.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/19/black-smoke-flames-rising-near-riyadh-airport-after-saudi-authorities-issue-air-raid-alert_6757716_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-19T15:24:02Z",
+      "image": "https://img.lemde.fr/2026/09/19/108/0/3446/1723/644/322/60/0/7adf73c_ftp-1-mjpcp8a5qkvq-2026-09-19t111353z-362501476-rc28mnaol58f-rtrmadp-3-iran-crisis-saudi-yemen.JPG",
       "categories": [
         "conflict"
       ],
@@ -139,22 +154,6 @@
         "analysis"
       ],
       "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -413566ecc024",
-      "title": "Why Macron is warning against risk of Russian hybrid warfare in France",
-      "description": "The French leader brought together presidential candidates and party leaders at the Elysée Palace on Friday for a confidential briefing on the evolving threat, as suspicious attacks and incidents continue to multiply across Europe.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/19/why-macron-is-warning-against-risk-of-russian-hybrid-warfare-in-france_6757694_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-19T01:24:43Z",
-      "image": "https://img.lemde.fr/2026/09/18/867/0/8000/4000/644/322/60/0/79e1d74_upload-1-w3uzfght8aps-jmug260918092.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },

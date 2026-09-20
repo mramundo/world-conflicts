@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-20T14:34:50Z",
+  "updated": "2026-09-20T18:04:39Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-20T14:34:46Z",
+      "publishedAt": "2026-09-20T18:04:36Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -f6d0e51ca90c",
+      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
+      "description": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-20T15:57:48Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aaf9f2229988-1789894434.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -51,22 +67,6 @@
       "tags": []
     },
     {
-      "id": "al -5883597882ac",
-      "title": "What are Iran’s latest conditions to end its war with the US?",
-      "description": "Iran&#039;s latest stipulations come as growing regional escalation causes oil prices to cross $100 per barrel.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-20T11:21:06Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-at-12.04.05-PM-1-1789895182.jpg?resize=1200%2C630",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "bbc-69290ccbb191",
       "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
       "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
@@ -78,21 +78,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -a9ded8f9f1a0",
-      "title": "Germans vote in state elections threatening fresh blow to Merz",
-      "description": "In Mecklenburg-Western Pomerania, Friedrich Merz's center-right CDU party is an onlooker to the main battle between center-left SPD and far-right AfD. In Berlin, the chancellor's party is trailing the radical left in polls.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/20/germans-vote-in-state-elections-threatening-fresh-blow-to-merz_6757733_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-20T09:39:16Z",
-      "image": "https://img.lemde.fr/2026/09/20/500/0/6000/3000/644/322/60/0/445abf7_ftp-1-2ow4yfkarvnq-5134309-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:51:41Z",
+  "updated": "2026-09-20T14:34:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-20T10:51:37Z",
+      "publishedAt": "2026-09-20T14:34:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,9 +20,56 @@
       "tags": []
     },
     {
+      "id": "fra-7060b55e08f5",
+      "title": "Why doesn't the US intervene to defend Saudi Arabia against the Houthis?",
+      "description": "The US cautioned against a rapidly escalating situation in Yemen after Houthi rebels carried out a missile attack on the Saudi capital. In recent weeks, the Iran backed militants have also seized large portions of Yemeni territory following clashes with Saudi-backed government forces. The US is a very close ally to Sau…",
+      "url": "https://www.france24.com/en/why-doesn-t-the-us-intervene-to-defend-saudi-arabia-against-the-houthis",
+      "source": "France24",
+      "publishedAt": "2026-09-20T12:20:38Z",
+      "image": "https://s.france24.com/media/display/cce5cada-b4eb-11f1-98b6-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-130940-132125-CS.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-87f960f5af47",
+      "title": "Sybiha, da tanti colleghi stranieri complimenti per il 'burning day' di Mosca",
+      "description": "Ministro Esteri ucraino, 'scene che Putin non si aspettava quando ha iniziato la guerra'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/sybiha-da-tanti-colleghi-stranieri-complimenti-per-il-burning-day-di-mosca_1524d81e-f1b7-4023-bd37-b8264adc5d04.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-20T11:38:21Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/18/efea76fa17e0cecbcb96230b9fce21ee.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -5883597882ac",
+      "title": "What are Iran’s latest conditions to end its war with the US?",
+      "description": "Iran&#039;s latest stipulations come as growing regional escalation causes oil prices to cross $100 per barrel.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-20T11:21:06Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-at-12.04.05-PM-1-1789895182.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "bbc-69290ccbb191",
-      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
-      "description": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\".",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
       "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-09-20T10:45:39Z",
@@ -30,7 +77,22 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -a9ded8f9f1a0",
+      "title": "Germans vote in state elections threatening fresh blow to Merz",
+      "description": "In Mecklenburg-Western Pomerania, Friedrich Merz's center-right CDU party is an onlooker to the main battle between center-left SPD and far-right AfD. In Berlin, the chancellor's party is trailing the radical left in polls.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/20/germans-vote-in-state-elections-threatening-fresh-blow-to-merz_6757733_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-20T09:39:16Z",
+      "image": "https://img.lemde.fr/2026/09/20/500/0/6000/3000/644/322/60/0/445abf7_ftp-1-2ow4yfkarvnq-5134309-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,17 +112,17 @@
       "tags": []
     },
     {
-      "id": "al -5bc65cbf2deb",
-      "title": "Two killed in Ukrainian drone attack on Moscow, says Russia",
-      "description": "Moscow mayor says Russia has intercepted 1,600 drones since Saturday, including 450 directed at the capital.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-20T06:57:05Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-20T042905Z_1824787393_RC2QMNA5QBAK_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-1789884302.jpg?resize=1920%2C1440",
+      "id": "the-d0c9dac4e7a1",
+      "title": "Thick smoke seen near Riyadh airport as Houthis claim attack on Saudi capital",
+      "description": "Authorities issued warnings for city in first such alerts for Riyadh since fighting with Iran-backed Houthis escalated in JulyYemen’s Houthis said they attacked “sensitive” sites in the Saudi capital with missiles and drones, hours after flames and a large plume of black smoke were seen rising above Riyadh airport on S…",
+      "url": "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-20T00:21:04Z",
+      "image": "https://i.guim.co.uk/img/media/975477497a09e1bb916ac60ca3ee53fecda3bad3/733_0_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=566b3a8e87cc878475430d48f8faa46a",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -72,51 +134,6 @@
       "source": "NPR World",
       "publishedAt": "2026-09-19T19:00:24Z",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2Fea%2Fe687dbea4516b2a79105c90d0eb2%2Flbn-patrol-diegoibarrasanchez-003.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-7b0b922575e3",
-      "title": "Yemen, in 24 ore 48 morti negli scontri tra Houthi e forze governative",
-      "description": "Fonti alla Afp: uccisi 17 soldati e 31 ribelli",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/yemen-in-24-ore-48-morti-negli-scontri-tra-houthi-e-forze-governative_c615921d-6d9e-4a20-9e91-fe92d830fd23.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-19T15:55:18Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/18/6910b0c4d3c3c572983b5169dade5608.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -7ad084fd5bc2",
-      "title": "Fire erupts near Riyadh airport as Houthis claim strikes",
-      "description": "Yemen's Houthis announced they had carried out strikes on targets in the Saudi capital and coastal oil facilities. Saudi authorities, which had issued an overnight air raid alert, later confimed the dawn strike.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/19/black-smoke-flames-rising-near-riyadh-airport-after-saudi-authorities-issue-air-raid-alert_6757716_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-19T15:24:02Z",
-      "image": "https://img.lemde.fr/2026/09/19/108/0/3446/1723/644/322/60/0/7adf73c_ftp-1-mjpcp8a5qkvq-2026-09-19t111353z-362501476-rc28mnaol58f-rtrmadp-3-iran-crisis-saudi-yemen.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-f448897d672b",
-      "title": "Black smoke seen near Riyadh amid air raid alerts in Saudi Arabia",
-      "description": "⁠Flames and plumes of smoke ‌were ⁠seen ‌rising near ⁠Riyadh airport this afternoon with flights cancelled and delayed. This as fighting between Saudi-backed government forces and Iran-backed Houthi rebels has killed 48 people in recent hours. The rebels staged a lightning offensive this month, seizing swathes of terri…",
-      "url": "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia",
-      "source": "France24",
-      "publishedAt": "2026-09-19T15:16:03Z",
-      "image": "https://s.france24.com/media/display/6756645e-b43c-11f1-8e27-9ff5c3f464d4/w:1024/p:16x9/EN-20260919-160101-160431-CS.jpg",
       "categories": [
         "conflict"
       ],
@@ -199,22 +216,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-430f7edbd3fd",
-      "title": "IS member sentenced to 20 years in prison for role in 2021 Kabul airport bombing",
-      "description": "Mohammad Sharifullah, 28, was convicted of aiding the terrorist group that took credit for the suicide bombing An Islamic State group member was sentenced on Wednesday to 20 years in prison for aiding the terrorist organization that took credit for a suicide bombing that killed 13 US service members and about 160 Afgha…",
-      "url": "https://www.theguardian.com/world/2026/sep/17/is-member-sentenced-kabul-airport-bombing",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-17T13:40:30Z",
-      "image": "https://i.guim.co.uk/img/media/613da6312b870e73d1665bc91cf6f3389e00e10d/180_0_5278_4224/master/5278.jpg?width=140&quality=85&auto=format&fit=max&s=d718fc94c8c0b8d28eaf02cbd6df3bf1",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     }
   ]

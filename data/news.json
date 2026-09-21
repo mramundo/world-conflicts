@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-21T04:09:19Z",
+  "updated": "2026-09-21T10:27:10Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-21T04:09:13Z",
+      "publishedAt": "2026-09-21T10:27:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,64 @@
       "tags": []
     },
     {
-      "id": "al -398a5f52a14c",
-      "title": "Polls close in Russian wartime election with ruling party set to dominate",
-      "description": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-20T22:54:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-20T193043Z_1836893116_RC25NNAHWSTV_RTRMADP_3_RUSSIA-ELECTION-1789942742.jpg?resize=1920%2C1440",
+      "id": "fra-6b59868e16e6",
+      "title": "Putin party retains majority in first vote since 2022 invasion of Ukraine",
+      "description": "Russian President Vladimir Putin’s United Russia party won a large majority in parliamentary elections, according to preliminary results published by state media Monday, in a vote held amid Ukrainian drone strikes, cyberattacks and a crackdown on anti-war opposition. The election was the first since Russia’s full-scale…",
+      "url": "https://www.france24.com/en/putin-party-retains-majority-in-first-vote-since-2022-invasion-of-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-09-21T09:38:13Z",
+      "image": "https://s.france24.com/media/display/ce84094a-b59c-11f1-a94e-0730212ba17f/w:1024/p:16x9/EN-20260921-100514-101114-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-98694f4b8f05",
+      "title": "How Russia's parliamentary election might affect the war in Ukraine",
+      "description": "NPR's Steve Inskeep asks Russian foreign policy expert Hanna Notte about the results of Russia's parliamentary election and what it means for Moscow's war in Ukraine.",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine",
+      "source": "NPR World",
+      "publishedAt": "2026-09-21T08:39:56Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5975460",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -0c820fe1ce63",
+      "title": "Why can’t the UN stop wars?",
+      "description": "The UN was created to help save the world from war. More than 80 years later, conflicts and atrocities continue.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/who-actually-has-power-at-the-united-nations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-21T06:17:27Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789971439.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -b40d458baf1d",
+      "title": "Gaza's women are the only ones keeping their families alive: 'I had to keep going to find food for the children'",
+      "description": "The war waged by Israel has upended the structures of families in Gaza, where women now head nearly one in four households. Tens of thousands of Palestinian women have been left alone to feed their children and seek help and shelter in a dangerous environment.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/21/gaza-s-women-are-the-only-ones-keeping-their-families-alive-i-had-to-keep-going-to-find-food-for-the-children_6757753_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-21T03:30:08Z",
+      "image": "https://img.lemde.fr/2026/09/19/225/0/8192/4096/644/322/60/0/cff3920_upload-1-gf1neh2qnit1-af4a3625.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -48,22 +95,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-7060b55e08f5",
-      "title": "Why doesn't the US intervene to defend Saudi Arabia against the Houthis?",
-      "description": "The US cautioned against a rapidly escalating situation in Yemen after Houthi rebels carried out a missile attack on the Saudi capital. In recent weeks, the Iran backed militants have also seized large portions of Yemeni territory following clashes with Saudi-backed government forces. The US is a very close ally to Sau…",
-      "url": "https://www.france24.com/en/why-doesn-t-the-us-intervene-to-defend-saudi-arabia-against-the-houthis",
-      "source": "France24",
-      "publishedAt": "2026-09-20T12:20:38Z",
-      "image": "https://s.france24.com/media/display/cce5cada-b4eb-11f1-98b6-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-130940-132125-CS.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 14,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -108,21 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-4ca113d4c56b",
-      "title": "The new lines of southern Lebanon",
-      "description": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a second Israeli invasion.",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
-      "source": "NPR World",
-      "publishedAt": "2026-09-19T19:00:24Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2Fea%2Fe687dbea4516b2a79105c90d0eb2%2Flbn-patrol-diegoibarrasanchez-003.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

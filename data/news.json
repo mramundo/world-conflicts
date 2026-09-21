@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T20:50:56Z",
+  "updated": "2026-09-21T23:53:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-21T20:50:53Z",
+      "publishedAt": "2026-09-21T23:53:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -50,22 +50,6 @@
       "tags": []
     },
     {
-      "id": "the-b7b3b3dcaafb",
-      "title": "Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs",
-      "description": "Lawyer tells hearing that families wish to know whether weaponry involved in deaths was made in BritainIsraeli and UK military commanders could be requested to give evidence to an inquest concerning three British workers killed in Gaza when aid vehicles they were travelling in were hit by an airstrike.It is also possib…",
-      "url": "https://www.theguardian.com/world/2026/sep/21/inquest-british-aid-workers-killed-gaza-call-on-israeli-uk-military-chiefs",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-21T18:49:55Z",
-      "image": "https://i.guim.co.uk/img/media/b05f469d691ecbc4367b1d83536ebc90a2265481/0_0_5906_4724/master/5906.jpg?width=140&quality=85&auto=format&fit=max&s=956c81a2071eb58a3f860427e619dfa0",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "al -d5bca579597a",
       "title": "How is Europe dealing with ‘hybrid war’?",
       "description": "European leaders accuse Russia of hybrid warfare.",
@@ -79,6 +63,21 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-819aa91760b2",
+      "title": "‘National security threat’: Trump’s latest attack on US media",
+      "description": "US President Donald Trump on Monday accused mainstream media outlets of being a “cancer” and national security threat in his latest attack on members of the press. It comes after Trump barred journalists from CNN, MS NOW and Politico from the White House, with the three media outlets saying Monday they would sue the Tr…",
+      "url": "https://www.france24.com/en/video/20260921-national-security-threat-trump-s-latest-attack-on-us-media",
+      "source": "France24",
+      "publishedAt": "2026-09-21T16:35:08Z",
+      "image": "https://s.france24.com/media/display/7ba51998-b5d9-11f1-a60d-e554abee39f5/w:1024/p:16x9/Trump-media-attack-thumbnail.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -128,21 +127,6 @@
       "tags": []
     },
     {
-      "id": "fra-fbd115458566",
-      "title": "West Bank: Israeli settler, Palestinian killed in latest violence",
-      "description": "Violence flared in the Israeli-occupied West Bank on Sunday, as Israeli forces arrested a suspected Palestinian gunman accused of killing an Israeli man. In a separate incident, Israeli soldiers killed a Palestinian driver who the military said had attempted to run them over. Nicholas Rushworth reports.",
-      "url": "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
-      "source": "France24",
-      "publishedAt": "2026-09-21T12:58:07Z",
-      "image": "https://s.france24.com/media/display/eeec1ca4-b5ba-11f1-abac-ed3d9e22a40f/w:1024/p:16x9/EN-20260921-141854-142011-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -5105884b56de",
       "title": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
       "description": "UN Human Rights Council-appointed experts on Monday laid out a grim picture of the human cost of Russia’s invasion of Ukraine, with a spotlight on civilians facing a third wartime winter as well as the intimidation of Russians who have fled abroad.",
@@ -187,6 +171,21 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-d0c9dac4e7a1",
+      "title": "Thick smoke seen near Riyadh airport as Houthis claim attack on Saudi capital",
+      "description": "Authorities issued warnings for city in first such alerts for Riyadh since fighting with Iran-backed Houthis escalated in JulyYemen’s Houthis said they attacked “sensitive” sites in the Saudi capital with missiles and drones, hours after flames and a large plume of black smoke were seen rising above Riyadh airport on S…",
+      "url": "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-20T00:21:04Z",
+      "image": "https://i.guim.co.uk/img/media/975477497a09e1bb916ac60ca3ee53fecda3bad3/733_0_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=566b3a8e87cc878475430d48f8faa46a",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {

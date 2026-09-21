@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-21T16:50:04Z",
+  "updated": "2026-09-21T20:51:06Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-09-17T15:09:56Z",
+  "wikipediaListRevision": "2026-09-21T17:55:52Z",
   "items": [
     {
       "id": "ru-ua",
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-09-17",
       "wikipediaRevision": "2026-09-17T07:54:14Z",
-      "recentNewsCount": 6
+      "recentNewsCount": 7
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-09-19",
       "wikipediaRevision": "2026-09-19T17:52:47Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sd-war",
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "sy-war",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-09-18",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-09-18T21:14:17Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "sahel",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 1
     },
     {
       "id": "et-am",
@@ -359,8 +359,8 @@
         "Armed groups"
       ],
       "wikipediaPage": "Colombian_conflict",
-      "lastUpdate": "2026-09-20",
-      "wikipediaRevision": "2026-09-20T12:07:23Z",
+      "lastUpdate": "2026-09-21",
+      "wikipediaRevision": "2026-09-21T17:41:08Z",
       "recentNewsCount": 0
     },
     {
@@ -429,7 +429,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-09-18",
       "wikipediaRevision": "2026-09-18T13:59:27Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "wb-isr",

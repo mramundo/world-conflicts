@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T23:56:03Z",
+  "updated": "2026-09-21T04:09:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-20T23:55:58Z",
+      "publishedAt": "2026-09-21T04:09:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -398a5f52a14c",
+      "title": "Polls close in Russian wartime election with ruling party set to dominate",
+      "description": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-20T22:54:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-20T193043Z_1836893116_RC25NNAHWSTV_RTRMADP_3_RUSSIA-ELECTION-1789942742.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -33,22 +48,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f6d0e51ca90c",
-      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
-      "description": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-20T15:57:48Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aaf9f2229988-1789894434.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {

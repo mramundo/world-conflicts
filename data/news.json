@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T10:27:10Z",
+  "updated": "2026-09-21T16:49:55Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-21T10:27:06Z",
+      "publishedAt": "2026-09-21T16:49:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,89 @@
       "tags": []
     },
     {
-      "id": "fra-6b59868e16e6",
-      "title": "Putin party retains majority in first vote since 2022 invasion of Ukraine",
-      "description": "Russian President Vladimir Putin’s United Russia party won a large majority in parliamentary elections, according to preliminary results published by state media Monday, in a vote held amid Ukrainian drone strikes, cyberattacks and a crackdown on anti-war opposition. The election was the first since Russia’s full-scale…",
-      "url": "https://www.france24.com/en/putin-party-retains-majority-in-first-vote-since-2022-invasion-of-ukraine",
+      "id": "the-b7b3b3dcaafb",
+      "title": "Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs",
+      "description": "Lawyer tells hearing that families wish to know whether weaponry involved in deaths was made in BritainIsraeli and UK military commanders could be requested to give evidence to an inquest concerning three British workers killed in Gaza when aid vehicles they were travelling in were hit by an airstrike.It is also possib…",
+      "url": "https://www.theguardian.com/world/2026/sep/21/inquest-british-aid-workers-killed-gaza-call-on-israeli-uk-military-chiefs",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-21T15:02:43Z",
+      "image": "https://i.guim.co.uk/img/media/b05f469d691ecbc4367b1d83536ebc90a2265481/0_0_5906_4724/master/5906.jpg?width=140&quality=85&auto=format&fit=max&s=956c81a2071eb58a3f860427e619dfa0",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-24954571025c",
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-21T14:14:16Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd3/live/e6442550-b5c0-11f1-abb5-85e9be42cb76.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-67a84b42dff4",
+      "title": "New U.S. Sanctions Will Harm Ukraine Peace Talks and Bilateral Ties, Kremlin Says",
+      "description": "Without criticizing Donald Trump directly, Russian officials said the latest measures would only further strain relations.",
+      "url": "https://www.themoscowtimes.com/2026/09/21/new-us-sanctions-will-harm-ukraine-peace-talks-and-bilateral-ties-kremlin-says-a93760",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-21T13:03:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/53/93760__536f0d7b8749c24913c8fb41c8f5a7d1.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-0b160fc01c0e",
+      "title": "Trump, Mosca ha perso controllo della sua industria del gasolio, guerra deve finire",
+      "description": "'Molte raffinerie distrutte o fuori servizio'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/trump-mosca-ha-perso-controllo-della-sua-industria-del-gasolio-guerra_20e27b00-4fdc-447e-b5bc-2b88d531a8e7.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-21T12:36:21Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/13/eeaa357e9ce63a8c4ef0ac9a4ff5f6f0.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -51a25651a22b",
+      "title": "Child among four Palestinians killed in Israeli attacks on Gaza",
+      "description": "Israeli attacks on Palestinians continue in Gaza despite a &#039;ceasefire&#039; signed in October.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-21T12:32:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab1410a95a82-1790001418.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-d13fd63fafe9",
+      "title": "Moscow: Ukraine launches huge drone attack as election wraps up",
+      "description": "Ukraine launched more than 1,000 drones at Russia, including hundreds at the capital Moscow, in its largest attack of the war so far, officials said Sunday. The attack came as Russia wrapped up the final day of voting in tightly controlled parliamentary elections that President Vladimir Putin has cast as a test of supp…",
+      "url": "https://www.france24.com/en/video/20260921-moscow-ukraine-launches-huge-drone-attack-as-election-wraps-up",
       "source": "France24",
-      "publishedAt": "2026-09-21T09:38:13Z",
-      "image": "https://s.france24.com/media/display/ce84094a-b59c-11f1-a94e-0730212ba17f/w:1024/p:16x9/EN-20260921-100514-101114-CS.jpg",
+      "publishedAt": "2026-09-21T11:04:47Z",
+      "image": "https://s.france24.com/media/display/74b0eb54-b5ab-11f1-af58-0730212ba17f/w:1024/p:16x9/Ukraine-drone-strikes-thumbnail.jpg",
       "categories": [
         "conflict"
       ],
@@ -51,22 +127,6 @@
       "tags": []
     },
     {
-      "id": "al -0c820fe1ce63",
-      "title": "Why can’t the UN stop wars?",
-      "description": "The UN was created to help save the world from war. More than 80 years later, conflicts and atrocities continue.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/who-actually-has-power-at-the-united-nations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-21T06:17:27Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789971439.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "le -b40d458baf1d",
       "title": "Gaza's women are the only ones keeping their families alive: 'I had to keep going to find food for the children'",
       "description": "The war waged by Israel has upended the structures of families in Gaza, where women now head nearly one in four households. Tens of thousands of Palestinian women have been left alone to feed their children and seek help and shelter in a dangerous environment.",
@@ -82,64 +142,19 @@
       "tags": []
     },
     {
-      "id": "the-39b556af6994",
-      "title": "Andy Burnham faces a weakened Trump – but the president remains unpredictable",
-      "description": "PM hopes to be firmer with US leader than his predecessor without provoking diplomatic warfare, as the Iran war weighs on the UK economyNo international relationship has more power to determine the success of Andy Burnham’s premiership. So you might imagine the stakes for the prime minister’s first face-to-face meeting…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/20/andy-burnham-faces-a-weakened-trump-but-the-president-remains-unpredictable",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-20T18:45:23Z",
-      "image": "https://i.guim.co.uk/img/media/e0f396214eee36167d6dc43043c9013803feb65b/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=a9012fc2ccc9861cd5baf89f1a212d04",
+      "id": "un -437e8a4e100f",
+      "title": "Why the UN General Assembly still matters",
+      "description": "More than eight decades on from its founding, the UN General Assembly remains the place where the UN’s 193 Member States come together to debate the defining challenges of the day, from war and peace – to development, climate change and human rights.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168361",
+      "source": "UN News",
+      "publishedAt": "2026-09-19T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-04-2020-GA-Hall-Empty.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict",
-        "humanitarian"
+        "analysis"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-87f960f5af47",
-      "title": "Sybiha, da tanti colleghi stranieri complimenti per il 'burning day' di Mosca",
-      "description": "Ministro Esteri ucraino, 'scene che Putin non si aspettava quando ha iniziato la guerra'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/sybiha-da-tanti-colleghi-stranieri-complimenti-per-il-burning-day-di-mosca_1524d81e-f1b7-4023-bd37-b8264adc5d04.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-20T11:38:21Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/6/18/efea76fa17e0cecbcb96230b9fce21ee.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-69290ccbb191",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-20T10:45:39Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-3a27c2b1e0f8",
-      "title": "Russian Election, Cast as Test of Support for Ukraine War, Enters Final Day",
-      "description": "A parliamentary election that Putin has cast as a test of support for the war in Ukraine entered its third day, with the ruling United Russia party expected to retain its dominance.",
-      "url": "https://www.themoscowtimes.com/2026/09/20/russian-election-cast-as-test-of-support-for-ukraine-war-enters-final-day-a93752",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-20T07:10:45Z",
-      "image": "https://static.themoscowtimes.com/image/og/60/93752__60a95147556059ecd084e4806c8e3f12.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -201,21 +216,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -749711860ea3",
-      "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
-      "description": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168374",
-      "source": "UN News",
-      "publishedAt": "2026-09-18T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/25-08-2026_Ukraine%20UNODC%202.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

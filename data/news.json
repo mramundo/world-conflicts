@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T23:53:48Z",
+  "updated": "2026-09-22T03:52:18Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-21T23:53:44Z",
+      "publishedAt": "2026-09-22T03:52:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F5%2F8%2F3%2F13133852-1-eng-GB%2F0cb2112bf234-2026-09-17T021504Z_1288700920_RC24MHAOHEU8_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-c31ce748cf23",
+      "title": "Middle East live: Yemen fighting escalates as Trump heads to UN",
+      "description": "Saudi airstrikes on Yemen's Red Sea port of Mokha have killed at least six people as Iran-backed Houthis press their offensive. The escalation comes as the US and its allies face growing pressure to protect Saudi Arabia and regional energy infrastructure, while Donald Trump prepares to address the UN in New York. Follo…",
+      "url": "https://www.france24.com/en/middle-east/20260922-middle-east-live-yemen-fighting-escalates-as-trump-heads-to-un",
+      "source": "France24",
+      "publishedAt": "2026-09-22T03:41:38Z",
+      "image": "https://s.france24.com/media/display/e76953e8-b218-11f1-8a7d-0dbbad64a63b/w:1024/p:16x9/2026-09-16T134945Z-1339566980-RC2DKNANTNM5-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -0e3751511f95",
+      "title": "Trump returns to the UN, what will he say?",
+      "description": "Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-22T00:31:56Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/16_9-Thumbnail-1790037084.png?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -42,37 +72,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-09-21T19:30:32Z",
       "image": "https://img.lemde.fr/2023/03/27/684/0/8192/4096/644/322/60/0/0cd3e85_1679929791385-000-9at37d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -d5bca579597a",
-      "title": "How is Europe dealing with ‘hybrid war’?",
-      "description": "European leaders accuse Russia of hybrid warfare.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-21T17:12:32Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab1693ad5c9-1790011706_2e43b3-1790011776.jpg?resize=1200%2C630&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-819aa91760b2",
-      "title": "‘National security threat’: Trump’s latest attack on US media",
-      "description": "US President Donald Trump on Monday accused mainstream media outlets of being a “cancer” and national security threat in his latest attack on members of the press. It comes after Trump barred journalists from CNN, MS NOW and Politico from the White House, with the three media outlets saying Monday they would sue the Tr…",
-      "url": "https://www.france24.com/en/video/20260921-national-security-threat-trump-s-latest-attack-on-us-media",
-      "source": "France24",
-      "publishedAt": "2026-09-21T16:35:08Z",
-      "image": "https://s.france24.com/media/display/7ba51998-b5d9-11f1-a60d-e554abee39f5/w:1024/p:16x9/Trump-media-attack-thumbnail.jpg",
       "categories": [
         "conflict"
       ],

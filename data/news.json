@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-22T14:26:32Z",
+  "updated": "2026-09-22T18:34:44Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-22T14:26:27Z",
+      "publishedAt": "2026-09-22T18:34:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F2%2F6%2F13136245-1-eng-GB%2F7b72cce47e57-2026-05-14T052718Z_1331692065_RC2T8LAQJ7VD_RTRMADP_3_CHINA-USA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,8 +20,39 @@
       "tags": []
     },
     {
+      "id": "al -df7b2eec5888",
+      "title": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
+      "description": "The suicide bombings were the deadliest attacks in the country since the end of its civil war in 2009.",
+      "url": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-22T16:31:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26265212684916-1790090780.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -531d753df8af",
+      "title": "EU removes two oligarchs reputedly close to Putin from sanctions list",
+      "description": "At France and Luxembourg's request, the EU removed Alisher Usmanov and Mikhail Fridman from its list of sanctioned individuals, which was otherwise renewed for three years. Ukraine called the decision 'unacceptable.'",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/22/usmanov-and-fridman-two-oligarchs-close-to-putin-are-exempted-from-eu-sanctions_6757821_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-22T15:28:57Z",
+      "image": "https://img.lemde.fr/2026/09/16/662/0/7864/3932/644/322/60/0/8784040_ftp-1-j4q4tvxlisnt-5103936-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-3a47e8b82a1b",
-      "title": "Up to 169 killed in Yemen as Houthis battle for strategic Red Sea heights",
+      "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
       "description": "Thousands flee fighting as Iran-aligned group seeks to consolidate territorial gains against Saudi-backed government forcesMiddle East live – latest updatesAs many as 169 people have been reportedly killed in Yemen in the last three days as Iran-aligned Houthis battle Saudi-backed government forces for control of strat…",
       "url": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
       "source": "The Guardian",
@@ -50,18 +81,18 @@
       "tags": []
     },
     {
-      "id": "al -e6ee77083c5b",
-      "title": "Can the US ban Iranian airlines worldwide – and what would it mean?",
-      "description": "Analysts say new sweeping US sanctions stand to worsen lives of millions of Iranians struggling in battered economy.",
-      "url": "https://www.aljazeera.com/features/2026/9/22/can-the-us-ban-iranian-airlines-worldwide-and-what-would-it-mean?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-22T11:19:08Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-1258786179-1790075989.jpg?resize=1920%2C1440",
+      "id": "rfe-a5f940075b40",
+      "title": "Russian Strike Kills 4 In Dnipro As Zelenskyy Set To Meet Trump",
+      "description": "Ukrainian President Volodymyr Zelenskyy has arrived in New York to attend the United Nations General Assembly as Russia launched a missile and drone attack on Ukraine, killing at least four people in Dnipro.",
+      "url": "https://www.rferl.org/a/ukraine-zelenskyy-trump-meeting-new-york-unga/33860971.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-22T11:25:19Z",
+      "image": "https://gdb.rferl.org/d231eed8-87a3-475d-bcf5-eec93dff42ad_cx0_cy1_cw0_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "isAnalysis": true,
       "tags": []
     },
@@ -81,34 +112,17 @@
       "tags": []
     },
     {
-      "id": "rfe-27a3a3c1c8d1",
-      "title": "Wider Europe Briefing: EU To Sanction Russian Military With New Focus",
-      "description": "Welcome to Wider Europe, RFE/RL's newsletter focusing on the key issues concerning the European Union, NATO, and other institutions and their relationships with the Western Balkans and Europe's Eastern neighborhoods. I'm RFE/RL Europe Editor Rikard Jozwiak, and this week I am drilling down on two issues: sanctioning Ru…",
-      "url": "https://www.rferl.org/a/33860934.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-22T09:54:08Z",
-      "image": "https://gdb.rferl.org/e328a588-10a3-41f9-b0c3-7ad278ba7d13_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 16,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-24954571025c",
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-21T14:14:16Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd3/live/e6442550-b5c0-11f1-abb5-85e9be42cb76.jpg",
+      "id": "npr-74a223e4b06a",
+      "title": "War between U.S. and Iran becomes a test of who will blink first",
+      "description": "More than six months into the conflict between the U.S. and Iran, it's become a high-stakes game of endurance.",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5966364/war-between-u-s-and-iran-becomes-a-test-of-who-will-blink-first",
+      "source": "NPR World",
+      "publishedAt": "2026-09-22T08:47:37Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5966364",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -159,13 +173,13 @@
       "tags": []
     },
     {
-      "id": "npr-f2c282509b7f",
-      "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
-      "description": "This week, world leaders convene for the U.N. General Assembly as war continues in Ukraine and the Gulf. And, President Trump has proposed that his arch serve as a military complex.",
-      "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
-      "source": "NPR World",
-      "publishedAt": "2026-09-21T11:24:27Z",
-      "image": "undefined",
+      "id": "bbc-8b92e8f35945",
+      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+      "description": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
+      "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-21T10:00:31Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60f/live/da3d9d40-b59d-11f1-abe6-535e7b14de4c.jpg",
       "categories": [
         "conflict"
       ],

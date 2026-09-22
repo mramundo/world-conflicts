@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-22T18:34:44Z",
+  "updated": "2026-09-22T21:50:51Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-22T18:34:41Z",
+      "publishedAt": "2026-09-22T21:50:47Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F2%2F6%2F13136245-1-eng-GB%2F7b72cce47e57-2026-05-14T052718Z_1331692065_RC2T8LAQJ7VD_RTRMADP_3_CHINA-USA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,64 @@
       "tags": []
     },
     {
-      "id": "al -df7b2eec5888",
-      "title": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
-      "description": "The suicide bombings were the deadliest attacks in the country since the end of its civil war in 2009.",
-      "url": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
+      "id": "fra-a9d1613d3da4",
+      "title": "Zelensky says Ukraine is ready for an energy ceasefire with Russia",
+      "description": "On the sidelines of the UN General Assembly in New York on Tuesday, Ukraine's President Volodymyr Zelensky told journalists that Kyiv is ready to halt strikes on Russian energy infrastructure if Moscow does the same, with hopes to end the war before winter.",
+      "url": "https://www.france24.com/en/europe/20260922-zelensky-says-ukraine-is-ready-for-an-energy-ceasefire-with-russia",
+      "source": "France24",
+      "publishedAt": "2026-09-22T21:38:04Z",
+      "image": "https://s.france24.com/media/display/8fc1ad66-b6cd-11f1-9bea-557acd7c815c/w:1024/p:16x9/2026-09-22T185321Z-294428292-RC2IONAPQIAG-RTRMADP-3-UN-ASSEMBLY-ZELENSKIY-TRUMP.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -8908c52b76e9",
+      "title": "At UN, Trump again threatens Iran, but suggests end of war is near",
+      "description": "President Trump used his speech at the United Nations to say he believed the Iran war was coming to a resolution “one way or the other.”",
+      "url": "https://www.csmonitor.com/World/2026/0922/trump-unga-iran-war-oil-prices?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-09-22T19:57:31Z",
+      "image": "https://images.csmonitor.com/csm/2026/09/0922_OTRUMPUN_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -61f14a9bac1f",
+      "title": "What led to the 1994 Tutsi Genocide in Rwanda",
+      "description": "A British doctor accused of killing people during the 1994 genocide against the Tutsi in Rwanda has been charged.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/what-led-to-the-1994-tutsi-genocide-in-rwanda?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-22T16:31:58Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26265212684916-1790090780.jpg?resize=1200%2C630",
+      "publishedAt": "2026-09-22T19:17:44Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/3_2-clean-1790104624.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-50f60bf3e3c7",
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-22T19:06:06Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -66,33 +111,18 @@
       "tags": []
     },
     {
-      "id": "fra-84d7b006e2da",
-      "title": "Ethiopian armed groups announce anti-government alliance",
-      "description": "On the eve of International Peace Day, an Ethiopian rebel leader announced an alliance of seven armed groups with the stated objective of toppling Prime Minister Abiy Ahmed's ruling party and establishing a transitional government. The alliance consists of former enemies during the 2020 civil war that killed 600,000 pe…",
-      "url": "https://www.france24.com/en/video/20260922-ethiopian-armed-groups-announce-anti-government-alliance",
-      "source": "France24",
-      "publishedAt": "2026-09-22T13:29:52Z",
-      "image": "https://s.france24.com/media/display/372332f4-b67f-11f1-b59c-d382746d948a/w:1024/p:16x9/EN-20260921-224505-224704-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-a5f940075b40",
-      "title": "Russian Strike Kills 4 In Dnipro As Zelenskyy Set To Meet Trump",
+      "title": "Zelenskyy Pushes To End The War Before Winter; Trump Thinks Both Sides Are Ready",
       "description": "Ukrainian President Volodymyr Zelenskyy has arrived in New York to attend the United Nations General Assembly as Russia launched a missile and drone attack on Ukraine, killing at least four people in Dnipro.",
       "url": "https://www.rferl.org/a/ukraine-zelenskyy-trump-meeting-new-york-unga/33860971.html",
       "source": "RFE/RL",
       "publishedAt": "2026-09-22T11:25:19Z",
-      "image": "https://gdb.rferl.org/d231eed8-87a3-475d-bcf5-eec93dff42ad_cx0_cy1_cw0_w800_h450.jpg",
+      "image": "https://gdb.rferl.org/b8863ce0-a1ca-4646-b8cc-96eae5c7e68a_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 11,
       "isAnalysis": true,
       "tags": []
     },
@@ -169,21 +199,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-8b92e8f35945",
-      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-      "description": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
-      "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-21T10:00:31Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60f/live/da3d9d40-b59d-11f1-abe6-535e7b14de4c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

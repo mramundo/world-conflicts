@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T10:59:29Z",
+  "updated": "2026-09-23T15:24:53Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-23T10:59:27Z",
+      "publishedAt": "2026-09-23T15:24:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F2%2F6%2F13136245-1-eng-GB%2F7b72cce47e57-2026-05-14T052718Z_1331692065_RC2T8LAQJ7VD_RTRMADP_3_CHINA-USA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,80 @@
       "tags": []
     },
     {
-      "id": "fra-e4262d91ce73",
-      "title": "Trump and Zelensky discuss path to ending Ukraine war",
-      "description": "On Tuesday, September 22, Donald Trump and Ukrainian President Volodymyr Zelensky met in New York to discuss the war in Ukraine. Ahead of Zelensky’s address to the UN General Assembly today, he said he wants the war to end before winter, stressing that people across Ukraine are living in increasingly difficult conditio…",
-      "url": "https://www.france24.com/en/trump-and-zelensky-discuss-path-to-ending-ukraine-war",
+      "id": "fra-951df140be2f",
+      "title": "Zelenskyy set to address UN as Russia strikes Kyiv",
+      "description": "Russia hammered Ukraine’s capital, Kyiv, with drones in daylight attacks on Wednesday, killing two people and wounding 23, just hours before Ukrainian President Volodymyr Zelenskyy was due to address world leaders at the UN General Assembly. Zelenskyy met US President Donald Trump on Tuesday, as Trump has expressed fru…",
+      "url": "https://www.france24.com/en/zelenskyy-set-to-address-un-as-russia-strikes-kyiv",
       "source": "France24",
-      "publishedAt": "2026-09-23T09:30:31Z",
-      "image": "https://s.france24.com/media/display/87d89446-b72e-11f1-bee1-1d61c7110e09/w:1024/p:16x9/EN-20260923-100241-101403-CS.jpg",
+      "publishedAt": "2026-09-23T15:20:58Z",
+      "image": "https://s.france24.com/media/display/7cf27816-b761-11f1-8c4c-a5615d7a48ac/w:1024/p:16x9/EN-20260923-170452-170650-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-9ec34684ebd6",
+      "title": "Rubio, 'Russia e Ucraina vogliono tregua energetica e sul grano'",
+      "description": "Al termine dell'incontro con Lavrov",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/rubio-russia-e-ucraina-vogliono-tregua-energetica-e-sul-grano_6b411bf8-dbd5-4c01-b0eb-7abed85ade78.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-23T14:48:25Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/23/b3bebadf50f3539ec21e09fc21fb6876.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -5eb43bffe70e",
+      "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
+      "description": "UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen&#039;s Houthi group.",
+      "url": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-23T13:57:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260922__C8ZZ2NQ__v1__HighRes__SaudiDefenceNationalDay-1790160746.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -bafae8cb5204",
+      "title": "ICC convicts Central African Republic rebel leader on crimes against humanity charges",
+      "description": "The International Criminal Court found that, while he headed a special police unit, Mahamat Saïd Abdel Kani oversaw beatings and mistreatment as the country spiraled into civil war in 2013.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/09/23/icc-convicts-central-african-republic-rebel-leader-on-crimes-against-humanity-charges_6757862_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-23T13:47:11Z",
+      "image": "https://img.lemde.fr/2026/09/23/5/0/5250/2625/644/322/60/0/80a52b9_ftp-1-evvkygcr4ota-30da2d601f644da186ff9ee78eb4dd09-0-b37e9f6c7e1c4dae969b4a82fbb9e22f.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -0fed9a925540",
+      "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
+      "description": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace – though any resolution still runs up against the veto of Russia, one of its own permanent members, whose objections have repeatedly stalled any consensus. As world leaders take the floor, the gap between diplom…",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168410",
+      "source": "UN News",
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine-03.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,15 +113,16 @@
       "tags": []
     },
     {
-      "id": "al -daabfb605018",
-      "title": "US senator condemns Netanyahu as a ‘chronic liar’ ahead of UNGA visit",
-      "description": "US Democratic senator Chris Van Hollen has called Netanyahu a lying war criminal ahead of his visit to UNGA",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-senator-condemns-netanyahu-as-a-chronic-liar-ahead-of-unga-visit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-23T08:44:44Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790152950.jpg?resize=1614%2C1080&amp;quality=80",
+      "id": "deu-b43d3a0a5cf1",
+      "title": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
+      "description": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May. Efforts by Kyiv to negotiate the evacuation of civilians with Moscow have been largely unsuccessful.",
+      "url": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-23T08:23:00Z",
+      "image": "https://static.dw.com/image/64074836_6.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
@@ -96,21 +160,6 @@
       "tags": []
     },
     {
-      "id": "ans-cc5e9c2db258",
-      "title": "Intesa Ue sulle sanzioni ai russi, graziati due oligarchi. L'ira di Kiev",
-      "description": "Ok al fotofinish al rinnovo per 3 anni delle misure. Fuori Usmanov e Fridman",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/intesa-in-ue-sulle-sanzioni-alla-russia-rinnovo-per-3-anni-e-fuori-usmanov_24cdd38d-5453-46f0-9887-697a08c67f03.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-22T19:17:33Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/31/b521a065c53797b67fd62346bb097a20.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-50f60bf3e3c7",
       "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
       "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
@@ -122,21 +171,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -531d753df8af",
-      "title": "EU removes two oligarchs reputedly close to Putin from sanctions list",
-      "description": "At France and Luxembourg's request, the EU removed Alisher Usmanov and Mikhail Fridman from its list of sanctioned individuals, which was otherwise renewed for three years. Ukraine called the decision 'unacceptable.'",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/22/usmanov-and-fridman-two-oligarchs-close-to-putin-are-exempted-from-eu-sanctions_6757821_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-22T15:28:57Z",
-      "image": "https://img.lemde.fr/2026/09/16/662/0/7864/3932/644/322/60/0/8784040_ftp-1-j4q4tvxlisnt-5103936-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -156,21 +190,6 @@
       "tags": []
     },
     {
-      "id": "deu-bfe33c761c21",
-      "title": "G7 demands Houthis 'immediately' cease Saudi strikes",
-      "description": "The G7 nations have accused Yemen's Houthi rebels of targeting civilian shipping near Saudi Arabia. UK PM Andy Burnham said he will offer \"time-limited\" and \"defensive\" military support to repel the attacks.",
-      "url": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-22T04:58:00Z",
-      "image": "https://static.dw.com/image/79346632_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-67a84b42dff4",
       "title": "New U.S. Sanctions Will Harm Ukraine Peace Talks and Bilateral Ties, Kremlin Says",
       "description": "Without criticizing Donald Trump directly, Russian officials said the latest measures would only further strain relations.",
@@ -182,21 +201,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -5105884b56de",
-      "title": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
-      "description": "UN Human Rights Council-appointed experts on Monday laid out a grim picture of the human cost of Russia’s invasion of Ukraine, with a spotlight on civilians facing a third wartime winter as well as the intimidation of Russians who have fled abroad.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168386",
-      "source": "UN News",
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/08-09-2026_UNICEF_Ukraine.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T15:24:53Z",
+  "updated": "2026-09-23T19:32:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-23T15:24:51Z",
+      "publishedAt": "2026-09-23T19:32:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F2%2F6%2F13136245-1-eng-GB%2F7b72cce47e57-2026-05-14T052718Z_1331692065_RC2T8LAQJ7VD_RTRMADP_3_CHINA-USA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,28 @@
       "tags": []
     },
     {
-      "id": "fra-951df140be2f",
-      "title": "Zelenskyy set to address UN as Russia strikes Kyiv",
-      "description": "Russia hammered Ukraine’s capital, Kyiv, with drones in daylight attacks on Wednesday, killing two people and wounding 23, just hours before Ukrainian President Volodymyr Zelenskyy was due to address world leaders at the UN General Assembly. Zelenskyy met US President Donald Trump on Tuesday, as Trump has expressed fru…",
-      "url": "https://www.france24.com/en/zelenskyy-set-to-address-un-as-russia-strikes-kyiv",
-      "source": "France24",
-      "publishedAt": "2026-09-23T15:20:58Z",
-      "image": "https://s.france24.com/media/display/7cf27816-b761-11f1-8c4c-a5615d7a48ac/w:1024/p:16x9/EN-20260923-170452-170650-CS.jpg",
+      "id": "ans-49647022c361",
+      "title": "Zelensky, 'Putin deve essere fermato, le sanzioni ci rafforzano'",
+      "description": "L'appello del presidente ucraino all'Onu",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/zelensky-putin-deve-essere-fermato-le-sanzioni-ci-rafforzano_4e8ac890-69b3-47a2-9938-a3915ecf048e.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-23T18:09:57Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/23/260b27d7499c9ceaef2cd5ea7cc28e6e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4b2b4fd3b806",
+      "title": "Ethiopia faces renewed war as armed groups launch offensive",
+      "description": "There are fears of a renewed war in Ethiopia after seven armed groups formed an alliance to overthrow the government.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-26-ethiopia-armed-groups-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-23T17:10:33Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ETHIOPIA-THUMB-1790183312.png?resize=1200%2C675",
       "categories": [
         "conflict"
       ],
@@ -35,13 +50,13 @@
       "tags": []
     },
     {
-      "id": "ans-9ec34684ebd6",
-      "title": "Rubio, 'Russia e Ucraina vogliono tregua energetica e sul grano'",
-      "description": "Al termine dell'incontro con Lavrov",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/rubio-russia-e-ucraina-vogliono-tregua-energetica-e-sul-grano_6b411bf8-dbd5-4c01-b0eb-7abed85ade78.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-23T14:48:25Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/23/b3bebadf50f3539ec21e09fc21fb6876.jpg",
+      "id": "bbc-afdbac57395c",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-23T16:53:37Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
       "categories": [
         "conflict"
       ],
@@ -50,34 +65,49 @@
       "tags": []
     },
     {
-      "id": "al -5eb43bffe70e",
-      "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
-      "description": "UK to refuel Saudi fighter jets and France to secure energy infrastructure amid fighting with Yemen&#039;s Houthi group.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-23T13:57:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260922__C8ZZ2NQ__v1__HighRes__SaudiDefenceNationalDay-1790160746.jpg?resize=1920%2C1440",
+      "id": "le -9b4d4fd4a35b",
+      "title": "'After Trump's failure in Iran, the Houthi offensive is another blow to a fragile house of cards'",
+      "description": "The Yemeni rebels have managed to drive a wedge between the US and its main regional ally, Saudi Arabia, observes Le Monde columnist Gilles Paris.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/09/23/after-trump-s-failure-in-iran-the-houthi-offensive-is-another-blow-to-a-fragile-house-of-cards_6757867_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-23T16:00:13Z",
+      "image": "https://img.lemde.fr/2026/09/11/387/0/6000/3000/644/322/60/0/8b8f89d_ftp-1-lhr1o3j6dmyh-5a49f60843644813ae7ce4eb91582962-0-b6f8d7075f3c457697c4b02eae4f2c9d.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 10,
       "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "le -bafae8cb5204",
-      "title": "ICC convicts Central African Republic rebel leader on crimes against humanity charges",
-      "description": "The International Criminal Court found that, while he headed a special police unit, Mahamat Saïd Abdel Kani oversaw beatings and mistreatment as the country spiraled into civil war in 2013.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/09/23/icc-convicts-central-african-republic-rebel-leader-on-crimes-against-humanity-charges_6757862_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-23T13:47:11Z",
-      "image": "https://img.lemde.fr/2026/09/23/5/0/5250/2625/644/322/60/0/80a52b9_ftp-1-evvkygcr4ota-30da2d601f644da186ff9ee78eb4dd09-0-b37e9f6c7e1c4dae969b4a82fbb9e22f.jpg",
+      "id": "fra-06a0c18cd0a4",
+      "title": "US says wants Ukraine, Russia to end strikes on energy sites",
+      "description": "Ukrainian President Volodymyr Zelenskyy is due to address the UN General Assembly on Wednesday, as US President Donald Trump pushes for an end to Russia’s war and Kyiv seeks to shape renewed diplomatic efforts after more than four and a half years of conflict. France 24 International affairs commentator Douglas Herbert…",
+      "url": "https://www.france24.com/en/video/20260923-us-says-wants-ukraine-russia-to-end-strikes-on-energy-sites-1",
+      "source": "France24",
+      "publishedAt": "2026-09-23T15:25:52Z",
+      "image": "https://s.france24.com/media/display/887b5724-b762-11f1-83fa-55848da96185/w:1024/p:16x9/EN-20260923-170742-171323-CS.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-0b94383371f9",
+      "title": "Confirmed Russian War Dead Top a Quarter Million",
+      "description": "The BBC and Mediazona said 258,980 Russian soldiers have been identified by name as killed in Ukraine since 2022, with the actual toll likely doubling that figure. Ukraine estimates 1.52 million Russians killed and wounded, while London puts the number of dead at around 500,000 out of 1.5 million total casualties. Deat…",
+      "url": "https://www.kyivpost.com/post/85241",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-23T13:17:24Z",
+      "image": "https://static.kyivpost.com/storage/2026/07/27/86720cdfba9e9b965f97c5c6c359c454.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -160,32 +190,17 @@
       "tags": []
     },
     {
-      "id": "bbc-50f60bf3e3c7",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-22T19:06:06Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg",
+      "id": "the-cb9858852963",
+      "title": "Middle East crisis: Trump says Iran will make a deal after US midterms – as it happened",
+      "description": "This live blog is now closed.Tehran appears to have relaxed its preconditions for reopening the strait of Hormuz, saying it is prepared to do so within seven days so long as the US takes reciprocal steps to ease the pressure on Iran.Previously Iran had set seven onerous pre-conditions for lifting the blockade including…",
+      "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-22T19:09:42Z",
+      "image": "https://i.guim.co.uk/img/media/d86db91f83c79dc9d05cf6ef49d1cc5f71a34dd2/228_0_4043_3235/master/4043.jpg?width=140&quality=85&auto=format&fit=max&s=a00096a82049654f6df072a3325aed07",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-3a47e8b82a1b",
-      "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
-      "description": "Thousands flee fighting as Iran-aligned group seeks to consolidate territorial gains against Saudi-backed government forcesMiddle East live – latest updatesAs many as 169 people have been reportedly killed in Yemen in the last three days as Iran-aligned Houthis battle Saudi-backed government forces for control of strat…",
-      "url": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-22T13:57:36Z",
-      "image": "https://i.guim.co.uk/img/media/a425ae01cfe74edbbf024262fa832c0ae33de34e/617_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=9c16db67182bb917893c27565e766221",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -202,22 +217,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-596fb5242784",
-      "title": "Frontline Update, Lyman Details, AFU Reorganization",
-      "description": "The front line has moved in Ukraine’s favor in the northern Lyman sector, whereas the southern city of Orikhiv, in the Zaporizhzhia region, is bracing itself for an expected Russian push. Meanwhile the Dopropillya sector remains one of the hottest, with the 1st Corps honing its drone buzz saw under serious pressure.",
-      "url": "https://www.kyivpost.com/opinion/84989",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-21T08:44:01Z",
-      "image": "https://static.kyivpost.com/storage/2026/09/21/ff4c2c4773fc789ac71a04fb247ca50f.webp?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     }
   ]

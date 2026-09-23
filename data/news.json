@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T21:50:51Z",
+  "updated": "2026-09-23T00:06:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-22T21:50:47Z",
+      "publishedAt": "2026-09-23T00:06:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F2%2F6%2F13136245-1-eng-GB%2F7b72cce47e57-2026-05-14T052718Z_1331692065_RC2T8LAQJ7VD_RTRMADP_3_CHINA-USA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-080eda0528a9",
+      "title": "Trump, Zelenskyy Discuss Peace Negotiations, Potential Energy Cease-Fire",
+      "description": "US President Donald Trump met with Ukrainian President Volodymyr Zelenskyy on the sidelines of the UN General Assembly on September 22. Trump said he believes that both Ukraine and Russia \"want to see the war end,\" and raised the possibility of meeting with Russian President Vladimir Putin at the G20 summit in December…",
+      "url": "https://www.rferl.org/a/trump-zelenskyy-un-ukraine-russia-war-negotations/33861351.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-22T23:38:54Z",
+      "image": "https://gdb.rferl.org/4d89e160-399e-4712-4684-08df13aec0bb_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -108,22 +124,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-a5f940075b40",
-      "title": "Zelenskyy Pushes To End The War Before Winter; Trump Thinks Both Sides Are Ready",
-      "description": "Ukrainian President Volodymyr Zelenskyy has arrived in New York to attend the United Nations General Assembly as Russia launched a missile and drone attack on Ukraine, killing at least four people in Dnipro.",
-      "url": "https://www.rferl.org/a/ukraine-zelenskyy-trump-meeting-new-york-unga/33860971.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-22T11:25:19Z",
-      "image": "https://gdb.rferl.org/b8863ce0-a1ca-4646-b8cc-96eae5c7e68a_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     },
     {

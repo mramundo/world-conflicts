@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T05:36:49Z",
+  "updated": "2026-09-23T10:59:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-23T05:36:47Z",
+      "publishedAt": "2026-09-23T10:59:27Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F2%2F6%2F13136245-1-eng-GB%2F7b72cce47e57-2026-05-14T052718Z_1331692065_RC2T8LAQJ7VD_RTRMADP_3_CHINA-USA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,47 @@
       "tags": []
     },
     {
-      "id": "al -4a7c078f8e60",
-      "title": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
-      "description": "Ukraine leader says Kyiv is ready to stop strikes on Russian facilities if Moscow halts attacks on its energy system.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-23T01:20:39Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260922__C92T693__v1__HighRes__MeetingBetweenUkrainianPresidentVolodymyrZelens-1790114322.jpg?resize=1920%2C1440",
+      "id": "fra-e4262d91ce73",
+      "title": "Trump and Zelensky discuss path to ending Ukraine war",
+      "description": "On Tuesday, September 22, Donald Trump and Ukrainian President Volodymyr Zelensky met in New York to discuss the war in Ukraine. Ahead of Zelensky’s address to the UN General Assembly today, he said he wants the war to end before winter, stressing that people across Ukraine are living in increasingly difficult conditio…",
+      "url": "https://www.france24.com/en/trump-and-zelensky-discuss-path-to-ending-ukraine-war",
+      "source": "France24",
+      "publishedAt": "2026-09-23T09:30:31Z",
+      "image": "https://s.france24.com/media/display/87d89446-b72e-11f1-bee1-1d61c7110e09/w:1024/p:16x9/EN-20260923-100241-101403-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-9008e551cfbd",
+      "title": "Ukraine's Zelenskyy proposes energy truce with Russia during meeting with Trump",
+      "description": "Ukraine's President Volodymyr Zelenskyy met President Trump at the U.N. and proposed that Ukraine and Russia stop attacking each other's energy systems.",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978127/ukraines-zelenskyy-proposes-energy-truce-with-russia-during-meeting-with-trump",
+      "source": "NPR World",
+      "publishedAt": "2026-09-23T08:45:17Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5978127",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -daabfb605018",
+      "title": "US senator condemns Netanyahu as a ‘chronic liar’ ahead of UNGA visit",
+      "description": "US Democratic senator Chris Van Hollen has called Netanyahu a lying war criminal ahead of his visit to UNGA",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-senator-condemns-netanyahu-as-a-chronic-liar-ahead-of-unga-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-23T08:44:44Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790152950.jpg?resize=1614%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,37 +81,6 @@
       "tags": []
     },
     {
-      "id": "fra-a9d1613d3da4",
-      "title": "Zelensky says Ukraine is ready for an energy ceasefire with Russia",
-      "description": "On the sidelines of the UN General Assembly in New York on Tuesday, Ukraine's President Volodymyr Zelensky told journalists that Kyiv is ready to halt strikes on Russian energy infrastructure if Moscow does the same, with hopes to end the war before winter.",
-      "url": "https://www.france24.com/en/europe/20260922-zelensky-says-ukraine-is-ready-for-an-energy-ceasefire-with-russia",
-      "source": "France24",
-      "publishedAt": "2026-09-22T21:38:04Z",
-      "image": "https://s.france24.com/media/display/8fc1ad66-b6cd-11f1-9bea-557acd7c815c/w:1024/p:16x9/2026-09-22T185321Z-294428292-RC2IONAPQIAG-RTRMADP-3-UN-ASSEMBLY-ZELENSKIY-TRUMP.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -57d777cda60c",
-      "title": "Macron urges world to uphold international law over 'law of the jungle'",
-      "description": "Giving his last speech to the UN's signature annual diplomatic gathering as president, Macron also railed against the humanitarian situation in Gaza while calling for a moratorium on strikes against civilian and energy targets in the Ukraine-Russia war.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/22/macron-urges-world-to-uphold-international-law-over-law-of-the-jungle_6757830_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-22T20:01:28Z",
-      "image": "https://img.lemde.fr/2026/09/22/287/0/3441/1720/644/322/60/0/63febae_ftp-1-ppesgaayvn5f-5155559-01-06.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -8908c52b76e9",
       "title": "At UN, Trump again threatens Iran, but suggests end of war is near",
       "description": "President Trump used his speech at the United Nations to say he believed the Iran war was coming to a resolution “one way or the other.”",
@@ -93,6 +92,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-cc5e9c2db258",
+      "title": "Intesa Ue sulle sanzioni ai russi, graziati due oligarchi. L'ira di Kiev",
+      "description": "Ok al fotofinish al rinnovo per 3 anni delle misure. Fuori Usmanov e Fridman",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/intesa-in-ue-sulle-sanzioni-alla-russia-rinnovo-per-3-anni-e-fuori-usmanov_24cdd38d-5453-46f0-9887-697a08c67f03.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-22T19:17:33Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/31/b521a065c53797b67fd62346bb097a20.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -112,6 +126,21 @@
       "tags": []
     },
     {
+      "id": "le -531d753df8af",
+      "title": "EU removes two oligarchs reputedly close to Putin from sanctions list",
+      "description": "At France and Luxembourg's request, the EU removed Alisher Usmanov and Mikhail Fridman from its list of sanctioned individuals, which was otherwise renewed for three years. Ukraine called the decision 'unacceptable.'",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/22/usmanov-and-fridman-two-oligarchs-close-to-putin-are-exempted-from-eu-sanctions_6757821_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-22T15:28:57Z",
+      "image": "https://img.lemde.fr/2026/09/16/662/0/7864/3932/644/322/60/0/8784040_ftp-1-j4q4tvxlisnt-5103936-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "the-3a47e8b82a1b",
       "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
       "description": "Thousands flee fighting as Iran-aligned group seeks to consolidate territorial gains against Saudi-backed government forcesMiddle East live – latest updatesAs many as 169 people have been reportedly killed in Yemen in the last three days as Iran-aligned Houthis battle Saudi-backed government forces for control of strat…",
@@ -127,49 +156,18 @@
       "tags": []
     },
     {
-      "id": "ans-de5863903662",
-      "title": "Katz minaccia di 'evacuare' Gaza City se Hamas rapisce un israeliano",
-      "description": "Lo dice il ministro della Difesa a commemorazione della guerra arabo-israeliana del 1973",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/katz-minaccia-di-evacuare-gaza-city-se-hamas-rapisce-un-israeliano_5d5245e8-797b-4454-91f1-f1a182659efa.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-22T10:21:42Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/1/20/b1abe989215f62def7deb4aa28999449.jpg",
+      "id": "deu-bfe33c761c21",
+      "title": "G7 demands Houthis 'immediately' cease Saudi strikes",
+      "description": "The G7 nations have accused Yemen's Houthi rebels of targeting civilian shipping near Saudi Arabia. UK PM Andy Burnham said he will offer \"time-limited\" and \"defensive\" military support to repel the attacks.",
+      "url": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-22T04:58:00Z",
+      "image": "https://static.dw.com/image/79346632_6.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-74a223e4b06a",
-      "title": "War between U.S. and Iran becomes a test of who will blink first",
-      "description": "More than six months into the conflict between the U.S. and Iran, it's become a high-stakes game of endurance.",
-      "url": "https://www.npr.org/2026/09/22/nx-s1-5966364/war-between-u-s-and-iran-becomes-a-test-of-who-will-blink-first",
-      "source": "NPR World",
-      "publishedAt": "2026-09-22T08:47:37Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5966364",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-578d193d4ca5",
-      "title": "Why gender-based violence persists in Southern Africa",
-      "description": "A series of killings in South Africa has renewed scrutiny of efforts to combat violence against women. Activists say laws alone are not enough without effective implementation.",
-      "url": "https://www.dw.com/en/why-gender-based-violence-persists-in-southern-africa/a-79356560?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-21T13:42:00Z",
-      "image": "https://static.dw.com/image/79359741_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T13:21:10Z",
+  "updated": "2026-09-24T18:17:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-and-china-agree-to-extend-trade-truce-until-january-bessent",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-24T13:21:08Z",
+      "publishedAt": "2026-09-24T18:17:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F7%2F2%2F4%2F13144274-2-eng-GB%2Fb03b53e716c8-2026-09-23T164555Z_940496461_RC24PNADYA0L_RTRMADP_3_USA-CHINA-BESSENT-HE.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,95 @@
       "tags": []
     },
     {
-      "id": "the-13973acc0215",
-      "title": "First Thing: Trump welcomes Xi to Washington amid tensions over trade, AI and Taiwan",
-      "description": "State visit takes place at same time as UN general assembly, which Chinese leader has avoided. Plus, meet the people who are real-life Pokémon ‘professors’Good morning. Donald Trump has welcomed Xi Jinping to the US, greeting the Chinese leader on the asphalt at Joint Base Andrews at the start of his state visit. Xi’s …",
-      "url": "https://www.theguardian.com/us-news/2026/sep/24/first-thing-trump-xi-washington-tensions-trade-ai-taiwan",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-24T12:24:00Z",
-      "image": "https://i.guim.co.uk/img/media/7bf41ed8892e9a3c082b2e85898674cc3f5e84a8/846_0_6418_5137/master/6418.jpg?width=140&quality=85&auto=format&fit=max&s=25c01b5cb3d72f7dad5eb2ce69a2727d",
+      "id": "bbc-c7f63c921a71",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-24T15:37:45Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16fa/live/2ae842f0-b813-11f1-bc1f-3f186ca4140c.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-d8856d6d307b",
+      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+      "description": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed governmentThere are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing t…",
+      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-24T15:29:42Z",
+      "image": "https://i.guim.co.uk/img/media/02fbbbb2097252c71e2c812c2af983be2d3c8e5e/39_0_1695_1356/master/1695.jpg?width=140&quality=85&auto=format&fit=max&s=4a6e9458ca61d9b200e3e0a204d29b5f",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -c348e663a723",
+      "title": "'We must call a war a war, whether it is informational, cyber, hybrid or covert'",
+      "description": "After four and a half years of war, Vladimir Putin's failure to conquer Ukraine has prompted him to escalate his campaign, seeking to destroy Ukraine and destabilize Europe, writes columnist Sylvie Kauffmann.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/09/24/we-must-call-a-war-a-war-whether-it-is-informational-cyber-hybrid-or-covert_6757906_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-24T15:00:10Z",
+      "image": "https://img.lemde.fr/2025/05/10/443/0/6367/3183/644/322/60/0/2ec60d6_ftp-import-images-1-2prfig1lppwc-44bd5fad736749658e8cfb9f14ba7edf-0-c60468da49214049a94a62b82906b969.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -6cb86c626ab4",
+      "title": "Why are Ireland vs Israel football matches so controversial?",
+      "description": "Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.",
+      "url": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-24T14:36:02Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-02-21T152507Z_1447745083_RC2DQJA5SSQE_RTRMADP_3_ISRAEL-PALESTINIANS-IRELAND-PROTEST-1790230529.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-b05dd0d09cbf",
+      "title": "How renewed fighting in Tigray could spread across the Horn of Africa",
+      "description": "The fresh hostilities in Ethiopia's Tigray region come after months of growing animosity between rebel forces and the federal government. Horn of Africa expert Martin Plaut warns of possible regional spillover.",
+      "url": "https://www.dw.com/en/how-renewed-fighting-in-tigray-could-spread-across-the-horn-of-africa/a-79410333?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-24T13:59:00Z",
+      "image": "https://static.dw.com/image/79406956_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-5dcc212288f4",
+      "title": "Finance Ministry Unveils 2027 Budget Draft With Fresh Tax Hikes to Fund War Deficit",
+      "description": "The proposed tax hikes come just weeks after the Kremlin insisted that officials were not discussing any further increases.",
+      "url": "https://www.themoscowtimes.com/2026/09/24/finance-ministry-unveils-2027-budget-draft-with-fresh-tax-hikes-to-fund-war-deficit-a93788",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-24T13:56:37Z",
+      "image": "https://static.themoscowtimes.com/image/og/ab/93788__ab05c0c39b83be3c42373db54c0263ab.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,21 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f047d118022d",
-      "title": "Deadly attack on Indian cargo ship off coast of Oman",
-      "description": "A crew member was killed in an attack on an Indian cargo vessel off the coast of Oman.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-24T11:44:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790250134.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,21 +144,6 @@
       "tags": []
     },
     {
-      "id": "bbc-afdbac57395c",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-24T09:28:33Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-755cc1ccc6eb",
       "title": "Fears of return to war grow in Ethiopia's Tigray region",
       "description": "Fears are growing of a return to war in Ethiopia's Tigray region, just four years after a devastating conflict ended in a fragile peace deal.",
@@ -111,21 +159,6 @@
       "tags": []
     },
     {
-      "id": "le -250a7cc98d0e",
-      "title": "Macron sparks Israel's anger by wrongfully saying Hamas is not active in the West Bank",
-      "description": "During his speech at the United Nations on Tuesday, the French president claimed that Hamas had never operated in the West Bank. This factual error was immediately seized upon by Benjamin Netanyahu to deflect criticism of his settlement policy in the occupied territories.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/24/at-the-un-general-assembly-emmanuel-macron-s-error-on-hamas-sparks-israeli-anger_6757883_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-24T03:01:03Z",
-      "image": "https://img.lemde.fr/2026/09/22/155/150/2608/1304/644/322/60/0/a70780d_ftp-1-nohoj9oungtz-5156118-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-49647022c361",
       "title": "Zelensky, 'Putin deve essere fermato, le sanzioni ci rafforzano'",
       "description": "L'appello del presidente ucraino all'Onu",
@@ -137,21 +170,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-93ffa3a8b5d3",
-      "title": "New fighting in Ethiopia's Tigray region raises fears of a return to the country's civil war",
-      "description": "Fighting in and around Tigray is testing Ethiopia's fragile 2022 peace deal. With old enemies forming new alliances, experts warn that the conflict could enter a dangerous new phase.",
-      "url": "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-23T17:38:00Z",
-      "image": "https://static.dw.com/image/79388242_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -198,21 +216,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-acf644a98d01",
-      "title": "One Killed as Ukraine Strikes Refineries in Samara and Bashkortostan",
-      "description": "The Rosneft-operated Kuibyshev refinery in the southern Samara region has been repeatedly targeted throughout the war.",
-      "url": "https://www.themoscowtimes.com/2026/09/22/one-killed-as-ukraine-strikes-refineries-in-samara-and-bashkortostan-a93765",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-22T08:20:45Z",
-      "image": "https://static.themoscowtimes.com/image/og/44/93765__449bf4c130d698706fe4663482101475.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     }

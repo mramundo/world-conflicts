@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-24T01:12:13Z",
+  "updated": "2026-09-24T07:22:01Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-b8542e850582",
-      "title": "US and China agree to extend trade truce until January: Bessent",
+      "id": "nik-edc2c068d4c8",
+      "title": "Trump-Xi summit live: EU flags rare earth worries despite US-China truce extension",
       "description": "",
-      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-and-china-agree-to-extend-trade-truce-until-january-bessent",
+      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-eu-flags-rare-earth-worries-despite-us-china-truce-extension",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-24T01:12:07Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F7%2F2%2F4%2F13144274-2-eng-GB%2Fb03b53e716c8-2026-09-23T164555Z_940496461_RC24PNADYA0L_RTRMADP_3_USA-CHINA-BESSENT-HE.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-09-24T07:21:57Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F3%2F0%2F0%2F13150039-1-eng-GB%2F403def7733ba-2026-09-23T223818Z_2070472424_RC2APNA2E3NT_RTRMADP_3_USA-CHINA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
@@ -20,17 +20,79 @@
       "tags": []
     },
     {
-      "id": "al -3ef405893015",
-      "title": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
-      "description": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
+      "id": "kyi-e0fcd7f37fd3",
+      "title": "Russian Envoy Dmitriev Heads to US for Talks With Witkoff, Kushner",
+      "description": "Russian presidential envoy Kirill Dmitriev is heading to New York for talks with Trump administration officials as Ukraine pushes an unconditional ceasefire backed by 50 countries. Moscow has yet to respond, while US-Russia contacts continue over the war and potential peace talks",
+      "url": "https://www.kyivpost.com/post/85293",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-24T06:44:36Z",
+      "image": "https://static.kyivpost.com/storage/2025/11/21/57c148c974b5efa7a42200a197364933.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -3e6af5929090",
+      "title": "Why have some nations developed while others struggle?",
+      "description": "At UNGA, Iran, Syria and Kenya have highlighted how war and injustice have skewed global development.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/why-have-some-nations-developed-while-others-struggle?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-23T20:37:18Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790195739.jpg?resize=1920%2C1080&amp;quality=80",
+      "publishedAt": "2026-09-24T05:02:12Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790226115.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-afdbac57395c",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-24T04:37:47Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-755cc1ccc6eb",
+      "title": "Fears of return to war grow in Ethiopia's Tigray region",
+      "description": "Fears are growing of a return to war in Ethiopia's Tigray region, just four years after a devastating conflict ended in a fragile peace deal.",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
+      "source": "NPR World",
+      "publishedAt": "2026-09-24T04:23:38Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2034x1356+0+0/resize/2034x1356!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F15%2F4bf5110f47bf8d6cfe4b98934a85%2Fgettyimages-2296131269.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-2d8ab44929e7",
+      "title": "The long-range drone war: Ukraine and Russia scramble for supremacy in the skies",
+      "description": "A conflict that began with tanks and then artillery is now pivoting around a new generation of drones focused on military, industrial, economic and civilian targetsFinally, in the dead of night, the threat above has passed. The rain has eased and the Ukrainian drones are ready, prepared by a ground crew shrouded in har…",
+      "url": "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-24T04:00:08Z",
+      "image": "https://i.guim.co.uk/img/media/885f0eb0cc1fd2e3eebada30ce9cb48e0fac0129/330_0_5626_4500/master/5626.jpg?width=140&quality=85&auto=format&fit=max&s=5ea8cce7891431ba9fbef7bc2d6c279f",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -50,13 +112,13 @@
       "tags": []
     },
     {
-      "id": "the-a7edcc4f8ec0",
-      "title": "‘My friend’: Anthony Albanese announces $60m more for Ukraine at Zelenskyy meeting",
-      "description": "An emotional prime minister says that Kyiv’s cause is ‘an issue for the world’ as he also sets out the need for a new global orderAnthony Albanese has announced Australia will provide $60m more in support for Ukraine’s fight against Russia’s invasion during an emotional meeting with Volodymyr ⁠Zelenskyy on the sideline…",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-23T19:40:48Z",
-      "image": "https://i.guim.co.uk/img/media/45a98dfde08345e3fa6b7939dbf47171917321ce/543_0_5433_4346/master/5433.jpg?width=140&quality=85&auto=format&fit=max&s=9e27310f48ba8b1e36b0168dd9058a5f",
+      "id": "le -1045e1474b06",
+      "title": "Zelensky accuses Putin of using third-country fighters in Russia's war against Ukraine",
+      "description": "The longer the Russian president 'is able to wage war, the more evil he will leave behind in this world' said the Ukrainian president at the United Nations on Wednesday.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/23/zelensky-accuses-putin-of-using-third-country-fighters-in-russia-s-war-against-ukraine_6757875_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-23T19:29:01Z",
+      "image": "https://img.lemde.fr/2026/09/23/317/0/4300/2150/644/322/60/0/554e986_ftp-1-fyoefhluh5vn-5164725-01-06.jpg",
       "categories": [
         "conflict"
       ],
@@ -80,52 +142,6 @@
       "tags": []
     },
     {
-      "id": "bbc-afdbac57395c",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-23T16:53:37Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -9b4d4fd4a35b",
-      "title": "'After Trump's failure in Iran, the Houthi offensive is another blow to a fragile house of cards'",
-      "description": "The Yemeni rebels have managed to drive a wedge between the US and its main regional ally, Saudi Arabia, observes Le Monde columnist Gilles Paris.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/09/23/after-trump-s-failure-in-iran-the-houthi-offensive-is-another-blow-to-a-fragile-house-of-cards_6757867_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-23T16:00:13Z",
-      "image": "https://img.lemde.fr/2026/09/11/387/0/6000/3000/644/322/60/0/8b8f89d_ftp-1-lhr1o3j6dmyh-5a49f60843644813ae7ce4eb91582962-0-b6f8d7075f3c457697c4b02eae4f2c9d.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-0b94383371f9",
-      "title": "Confirmed Russian War Dead Top a Quarter Million",
-      "description": "The BBC and Mediazona said 258,980 Russian soldiers have been identified by name as killed in Ukraine since 2022, with the actual toll likely doubling that figure. Ukraine estimates 1.52 million Russians killed and wounded, while London puts the number of dead at around 500,000 out of 1.5 million total casualties. Deat…",
-      "url": "https://www.kyivpost.com/post/85241",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-23T13:17:24Z",
-      "image": "https://static.kyivpost.com/storage/2026/07/27/86720cdfba9e9b965f97c5c6c359c454.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -76373f66085d",
       "title": "Zelenskyy urges stronger pressure on Russia, warns war’s impact is spreading beyond Ukraine",
       "description": "Ukrainian President Volodymyr Zelenskyy on Wednesday called for intensified pressure on Russia to end its war against Ukraine, arguing that Moscow continues to incur massive losses while prolonging a conflict whose consequences are increasingly being felt far beyond the battlefield.",
@@ -137,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-9008e551cfbd",
-      "title": "Ukraine's Zelenskyy proposes energy truce with Russia during meeting with Trump",
-      "description": "Ukraine's President Volodymyr Zelenskyy met President Trump at the U.N. and proposed that Ukraine and Russia stop attacking each other's energy systems.",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5978127/ukraines-zelenskyy-proposes-energy-truce-with-russia-during-meeting-with-trump",
-      "source": "NPR World",
-      "publishedAt": "2026-09-23T08:45:17Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5978127",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

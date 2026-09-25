@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T07:16:34Z",
+  "updated": "2026-09-25T13:21:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,89 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/iran-war-takes-southeast-asia-s-renewable-plans-to-new-heights",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-25T07:16:31Z",
+      "publishedAt": "2026-09-25T13:21:13Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F1%2F6%2F13156143-1-eng-GB%2F7666a8e7f00f-2024-03-26T151708Z_1732825500_RC2LT6AIM2AA_RTRMADP_3_TOTW-SOLAR_i.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-9079c01ee8ae",
+      "title": "U.S. Proposed New Round of Ukraine Peace Talks in UAE, Zelensky Says",
+      "description": "Zelensky held talks with U.S. President Donald Trump on the sidelines of the UN General Assembly earlier in the week.",
+      "url": "https://www.themoscowtimes.com/2026/09/25/us-proposed-new-round-of-ukraine-peace-talks-in-uae-zelensky-says-a93795",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-25T12:48:55Z",
+      "image": "https://static.themoscowtimes.com/image/og/53/93795__53078424bffd4f61f37db5fc749e1afd.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b918a98cb0f6",
+      "title": "US seeking to revive Russia-Ukraine ceasefire talks",
+      "description": "Ukraine&#039;s president added that eight regions have come under attack by Russian forces since the start of the day.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-25T12:09:14Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2022/02/AP22059473563020.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-0ab732df9ed8",
+      "title": "Ethiopia: what's driving the renewed violence in Tigray?",
+      "description": "Tigray's rebel authorities say they are now in a \"full-blown war\" with the Ethiopian government, as fighting spreads into the neighbouring Amhara and Afar regions. Ethiopia's federal army says 272 rebels were killed and 260 wounded in the north, while FRANCE 24 spoke to Jervin Naidoo, Political Analyst at Oxford Econom…",
+      "url": "https://www.france24.com/en/ethiopia-what-s-driving-the-renewed-violence-in-tigray",
+      "source": "France24",
+      "publishedAt": "2026-09-25T11:15:52Z",
+      "image": "https://s.france24.com/media/display/571bf428-b8ce-11f1-b587-91cf9f3cd539/w:1024/p:16x9/EN-20260924-214628-215253-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -fc24ab439eab",
+      "title": "Kremlin slams EU sanctions on Russian TV commentator as 'persecution'",
+      "description": "The EU sanctioned Xenia Fedorova for 'dissemination of pro-Russian narratives in France and the Union in the context of Russia's war of aggression against Ukraine.'",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/25/kremlin-slams-eu-sanctions-on-russian-tv-commentator-as-persecution_6757943_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-25T10:35:37Z",
+      "image": "https://img.lemde.fr/2026/09/11/473/0/5759/2879/644/322/60/0/6328c74_ftp-1-axfbszo817sj-2026-09-11t213837z-1910713794-rc29hna57s2d-rtrmadp-3-germany-election-putin.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-88941e3b4a59",
+      "title": "Deadly New Strikes In Russia's War On Ukraine As Spillover Concerns Mount",
+      "description": "Russia kept up its pattern of relentless attacks on Kyiv, killing a 14-year-old boy and injuring seven other people in a drone strike on an apartment building in the capital on September 25, Ukrainian authorities said.",
+      "url": "https://www.rferl.org/a/ukraie-russia-attacks-civilians-killed-drone-threats/33864157.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-25T10:19:49Z",
+      "image": "https://gdb.rferl.org/a9f8bdd8-e400-4789-40b2-08df13a884cb_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -51,36 +127,6 @@
       "tags": []
     },
     {
-      "id": "al -8cccd7c98318",
-      "title": "Young men flee Tigray amid fears of forced recruitment",
-      "description": "Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-25T03:45:06Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_4867-1790175275.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-4a32c6ca71bf",
-      "title": "Tigray rebels in 'full-blown' war with government",
-      "description": "In tonight's edition, Tigrayans in northern Ethiopia start panic buying supplies in the rush to stock up amidst fears that months of tensions have finally tipped over into full-blown conflict. Also, power cuts return to Senegal. And Yemis Alade, the Nigerian superstar, is out with a new album and speaks to France 24.",
-      "url": "https://www.france24.com/en/tigray-rebels-in-full-blown-war-with-government",
-      "source": "France24",
-      "publishedAt": "2026-09-24T20:23:08Z",
-      "image": "https://s.france24.com/media/display/bce64688-b855-11f1-b7ff-91cf9f3cd539/w:1024/p:16x9/capture-6857433396ab586a440a986-82786000.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-c7f63c921a71",
       "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
@@ -111,33 +157,17 @@
       "tags": []
     },
     {
-      "id": "le -c348e663a723",
-      "title": "'We must call a war a war, whether it is informational, cyber, hybrid or covert'",
-      "description": "After four and a half years of war, Vladimir Putin's failure to conquer Ukraine has prompted him to escalate his campaign, seeking to destroy Ukraine and destabilize Europe, writes columnist Sylvie Kauffmann.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/09/24/we-must-call-a-war-a-war-whether-it-is-informational-cyber-hybrid-or-covert_6757906_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-24T15:00:10Z",
-      "image": "https://img.lemde.fr/2025/05/10/443/0/6367/3183/644/322/60/0/2ec60d6_ftp-import-images-1-2prfig1lppwc-44bd5fad736749658e8cfb9f14ba7edf-0-c60468da49214049a94a62b82906b969.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-5dcc212288f4",
-      "title": "Finance Ministry Unveils 2027 Budget Draft With Fresh Tax Hikes to Fund War Deficit",
-      "description": "The proposed tax hikes come just weeks after the Kremlin insisted that officials were not discussing any further increases.",
-      "url": "https://www.themoscowtimes.com/2026/09/24/finance-ministry-unveils-2027-budget-draft-with-fresh-tax-hikes-to-fund-war-deficit-a93788",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-24T13:56:37Z",
-      "image": "https://static.themoscowtimes.com/image/og/ab/93788__ab05c0c39b83be3c42373db54c0263ab.jpg",
+      "id": "npr-5101cf5ca8f3",
+      "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
+      "description": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
+      "source": "NPR World",
+      "publishedAt": "2026-09-24T12:43:15Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3979x2652+0+0/resize/3979x2652!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F8d%2Fab6d3845479b8ce69718381d1353%2Fgettyimages-2243556711.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -158,21 +188,6 @@
       "tags": []
     },
     {
-      "id": "npr-755cc1ccc6eb",
-      "title": "Fears of return to war grow in Ethiopia's Tigray region",
-      "description": "Fears are growing of a return to war in Ethiopia's Tigray region, just four years after a devastating conflict ended in a fragile peace deal.",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
-      "source": "NPR World",
-      "publishedAt": "2026-09-24T04:23:38Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2034x1356+0+0/resize/2034x1356!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F15%2F4bf5110f47bf8d6cfe4b98934a85%2Fgettyimages-2296131269.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -76373f66085d",
       "title": "Zelenskyy urges stronger pressure on Russia, warns war’s impact is spreading beyond Ukraine",
       "description": "Ukrainian President Volodymyr Zelenskyy on Wednesday called for intensified pressure on Russia to end its war against Ukraine, arguing that Moscow continues to incur massive losses while prolonging a conflict whose consequences are increasingly being felt far beyond the battlefield.",
@@ -185,22 +200,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-080eda0528a9",
-      "title": "Trump, Zelenskyy Discuss Peace Negotiations, Potential Energy Cease-Fire",
-      "description": "US President Donald Trump met with Ukrainian President Volodymyr Zelenskyy on the sidelines of the UN General Assembly on September 22. Trump said he believes that both Ukraine and Russia \"want to see the war end,\" and raised the possibility of meeting with Russian President Vladimir Putin at the G20 summit in December…",
-      "url": "https://www.rferl.org/a/trump-zelenskyy-un-ukraine-russia-war-negotations/33861351.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-22T23:38:54Z",
-      "image": "https://gdb.rferl.org/4d89e160-399e-4712-4684-08df13aec0bb_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     },
     {

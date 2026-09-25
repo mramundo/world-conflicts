@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-25T01:13:13Z",
+  "updated": "2026-09-25T07:16:43Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-09-24T11:14:12Z",
+  "wikipediaListRevision": "2026-09-25T04:23:59Z",
   "items": [
     {
       "id": "ru-ua",
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-09-17",
       "wikipediaRevision": "2026-09-17T07:54:14Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 4
     },
     {
       "id": "il-ps",
@@ -45,8 +45,8 @@
         "Asymmetric"
       ],
       "wikipediaPage": "Gaza_war",
-      "lastUpdate": "2026-09-24",
-      "wikipediaRevision": "2026-09-24T10:36:53Z",
+      "lastUpdate": "2026-09-25",
+      "wikipediaRevision": "2026-09-25T07:01:27Z",
       "recentNewsCount": 0
     },
     {
@@ -339,7 +339,7 @@
       "lastUpdate": "2026-09-23",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-09-23T20:02:11Z",
-      "recentNewsCount": 7
+      "recentNewsCount": 5
     },
     {
       "id": "co-fgc",

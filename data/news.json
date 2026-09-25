@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T18:17:56Z",
+  "updated": "2026-09-25T22:02:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/iran-war-takes-southeast-asia-s-renewable-plans-to-new-heights",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-25T18:17:53Z",
+      "publishedAt": "2026-09-25T22:02:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F1%2F6%2F13156143-1-eng-GB%2F7666a8e7f00f-2024-03-26T151708Z_1732825500_RC2LT6AIM2AA_RTRMADP_3_TOTW-SOLAR_i.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,32 +20,48 @@
       "tags": []
     },
     {
-      "id": "fra-d6240695e9a0",
-      "title": "EU releases €6.6 billion for members arming Ukraine as five killed in Kyiv",
-      "description": "European Union countries have agreed to release €6.6 billion from a fund meant to reimburse member states that have provided arms to Ukraine, EU foreign policy chief Kaja Kallas said on Friday. At least five people were killed in Russian strikes on Kyiv earlier in the day, according to local authorities.",
-      "url": "https://www.france24.com/en/europe/20260925-eu-releases-%E2%82%AC6-6-billion-for-members-arming-ukraine-as-five-killed-in-kyiv",
-      "source": "France24",
-      "publishedAt": "2026-09-25T17:09:55Z",
-      "image": "https://s.france24.com/media/display/fe988e5c-b8fe-11f1-afb5-8f3418d01115/w:1024/p:16x9/AP26250532034091.jpg",
+      "id": "al -a0ed6ca48384",
+      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
+      "description": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-25T20:59:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab6d2e0682b-1790366432.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -70476e3090cb",
-      "title": "Israeli shelling continues as Lebanon’s PM demands withdrawal in UN speech",
-      "description": "Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat.",
-      "url": "https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-25T16:57:39Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab683393dbf0-1790346041.jpg?resize=1920%2C1440",
+      "id": "cs -5f5ac758bf61",
+      "title": "Hoping to push the US away, Iran’s strategy is to go on the offensive",
+      "description": "Nearly seven months after being attacked, an emboldened Iran is seeking to end the war on its terms. That means forcing U.S. bases out, lifting sanctions, and ending a U.S. naval blockade.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/0925/iran-trump-war-hormuz-arsenal?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-09-25T19:50:04Z",
+      "image": "https://images.csmonitor.com/csm/2026/09/0925_OIRAN_LEDE.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-4b8c6fb6c8b1",
+      "title": "Pope in Paris, Xi in DC, AI at a Crossroads",
+      "description": "It’s been a week of walkouts, power plays and diplomatic theatre — from a battle over press freedom in Washington, to a United Nations General Assembly marked by protests and departures, as leaders clashed over Iran, Cuba and Venezuela. There was also a rare red-carpet meeting between Donald Trump and Xi Jinping, as th…",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads",
+      "source": "France24",
+      "publishedAt": "2026-09-25T18:52:55Z",
+      "image": "https://s.france24.com/media/display/93dacb3a-b911-11f1-9a83-555a0aff87a4/w:1024/p:16x9/Untitled-Sequence-02-1.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,10 +97,10 @@
       "tags": []
     },
     {
-      "id": "deu-f6007e092ea2",
-      "title": "Why Eritrea matters as fighting returns to Tigray",
+      "id": "deu-660ce4c20b2d",
+      "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
       "description": "The US has removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray region. Analysts say Eritrea's strategic value is growing.",
-      "url": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-tigray/a-79426582?maca=en-rss-en-world-4025-rdf",
+      "url": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-ethiopia-s-tigray/a-79426582?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-09-25T13:34:00Z",
       "image": "https://static.dw.com/image/64967848_6.jpg",
@@ -185,21 +201,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -8908c52b76e9",
-      "title": "At UN, Trump again threatens Iran, but suggests end of war is near",
-      "description": "President Trump used his speech at the United Nations to say he believed the Iran war was coming to a resolution “one way or the other.”",
-      "url": "https://www.csmonitor.com/World/2026/0922/trump-unga-iran-war-oil-prices?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-09-22T19:57:31Z",
-      "image": "https://images.csmonitor.com/csm/2026/09/0922_OTRUMPUN_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     }

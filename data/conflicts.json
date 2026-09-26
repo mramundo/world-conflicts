@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:45:01Z",
+  "updated": "2026-09-26T16:55:06Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-09-25T20:37:24Z",
   "items": [
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-09-25",
       "wikipediaRevision": "2026-09-25T13:42:47Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sd-war",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "et-am",
@@ -339,7 +339,7 @@
       "lastUpdate": "2026-09-23",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-09-23T20:02:11Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 3
     },
     {
       "id": "co-fgc",
@@ -429,7 +429,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-09-23",
       "wikipediaRevision": "2026-09-23T15:40:55Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "wb-isr",

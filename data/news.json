@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:44:52Z",
+  "updated": "2026-09-26T16:54:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/iran-war-takes-southeast-asia-s-renewable-plans-to-new-heights",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-26T12:44:48Z",
+      "publishedAt": "2026-09-26T16:54:49Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F1%2F6%2F13156143-1-eng-GB%2F7666a8e7f00f-2024-03-26T151708Z_1732825500_RC2LT6AIM2AA_RTRMADP_3_TOTW-SOLAR_i.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -25,7 +25,7 @@
       "description": "Tra le vittime otto uomini, due donne e un bambino",
       "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/26/attentato-contro-posto-di-polizia-in-pakistan-11-morti_3b883093-b2d0-44c4-b6ee-01789b1f6bfb.html",
       "source": "ANSA",
-      "publishedAt": "2026-09-26T12:07:44Z",
+      "publishedAt": "2026-09-26T13:41:20Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/c83451c41dd77db1bff9d2c78648a2e8.jpg",
       "categories": [
         "conflict"
@@ -35,17 +35,48 @@
       "tags": []
     },
     {
-      "id": "fra-be518adff894",
-      "title": "Heavy fighting on multiple fronts between Ethiopian forces and rebel groups",
-      "description": "Fighting appears to be worsening in Ethiopia after the TPLF said it was in a \"full blown\" blown war with federal forces this week, days after the Tigrayan rebels declared a coalition with six other armed groups across the country, all with the objective of overthrowing prime minister abiy ahmed's government. And as of …",
-      "url": "https://www.france24.com/en/heavy-fighting-on-multiple-fronts-between-ethiopian-forces-and-rebel-groups",
-      "source": "France24",
-      "publishedAt": "2026-09-26T09:26:41Z",
-      "image": "https://s.france24.com/media/display/e03b6e02-b980-11f1-9001-852b23529bb9/w:1024/p:16x9/EN-20260925-214322-214534-CS.jpg",
+      "id": "al -839e8c8fe8ee",
+      "title": "The intelligence war is turning against the Houthis",
+      "description": "Russian-Iranian intelligence helped the Houthis&#039; offensive on the Red Sea coast. Now that system is under attack.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-26T13:29:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-03-29T120556Z_1361058911_RC2CEKA8ITG9_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1784765004.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-bd43d0363287",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-26T12:47:25Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e5/live/83c97ed0-b9ac-11f1-8a1a-0176f978c211.png",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-1b9e9cac1e61",
+      "title": "Middle East: An art centre for children in occupied West Bank",
+      "description": "To help children process their experiences of war, an art center has been established in the West Bank.",
+      "url": "https://www.france24.com/en/middle-east-an-art-centre-for-children-in-occupied-west-bank",
+      "source": "France24",
+      "publishedAt": "2026-09-26T10:10:46Z",
+      "image": "https://s.france24.com/media/display/8f8ff5a2-b982-11f1-8a2e-11fa9f8a3b4f/w:1024/p:16x9/EN-20260926-080933-081128-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,22 +93,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -01c0fb0f2c5f",
-      "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
-      "description": "Three years of Israel&#039;s war has left families in Gaza living in damaged buildings, with few safe alternatives available.",
-      "url": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-26T05:25:23Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/873A5201-copy-1790279950.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -150,21 +165,6 @@
       "source": "UN News",
       "publishedAt": "2026-09-25T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/03-08-2026-UNHCR-Burundi-Buhumuza-02.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-19566c6a8a54",
-      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
-      "description": "Xi’s first visit to Washington in a decade was a display of pomp and pageantry, with Trump offering his guest a two-month truce on the brewing tariff war.",
-      "url": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-25T05:54:07Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2868/live/88381480-b8a4-11f1-a430-4d16ee157c41.jpg",
       "categories": [
         "conflict"
       ],

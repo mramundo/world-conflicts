@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T07:12:09Z",
+  "updated": "2026-09-26T12:44:52Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,57 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/iran-war-takes-southeast-asia-s-renewable-plans-to-new-heights",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-26T07:12:05Z",
+      "publishedAt": "2026-09-26T12:44:48Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F1%2F6%2F13156143-1-eng-GB%2F7666a8e7f00f-2024-03-26T151708Z_1732825500_RC2LT6AIM2AA_RTRMADP_3_TOTW-SOLAR_i.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-20adddcfe5da",
+      "title": "Attentato contro posto di polizia in Pakistan, 11 morti",
+      "description": "Tra le vittime otto uomini, due donne e un bambino",
+      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/26/attentato-contro-posto-di-polizia-in-pakistan-11-morti_3b883093-b2d0-44c4-b6ee-01789b1f6bfb.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-26T12:07:44Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/c83451c41dd77db1bff9d2c78648a2e8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-be518adff894",
+      "title": "Heavy fighting on multiple fronts between Ethiopian forces and rebel groups",
+      "description": "Fighting appears to be worsening in Ethiopia after the TPLF said it was in a \"full blown\" blown war with federal forces this week, days after the Tigrayan rebels declared a coalition with six other armed groups across the country, all with the objective of overthrowing prime minister abiy ahmed's government. And as of …",
+      "url": "https://www.france24.com/en/heavy-fighting-on-multiple-fronts-between-ethiopian-forces-and-rebel-groups",
+      "source": "France24",
+      "publishedAt": "2026-09-26T09:26:41Z",
+      "image": "https://s.france24.com/media/display/e03b6e02-b980-11f1-9001-852b23529bb9/w:1024/p:16x9/EN-20260925-214322-214534-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -c09315230389",
+      "title": "Ethiopia slides back into war. Who is involved and why?",
+      "description": "The fighting pits various rebel groups against the federal army. In this complex mosaic, shifting alliances are common.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/09/26/ethiopia-slides-back-into-war-who-is-involved-and-why_6757974_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-26T09:00:13Z",
+      "image": "https://img.lemde.fr/2026/09/23/291/0/3500/1750/644/322/60/0/a42e53e_ftp-1-3f5m0l8a6f51-5159537-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,22 +81,6 @@
       "tags": []
     },
     {
-      "id": "bbc-dccf9ba56dff",
-      "title": "Are Ethiopians marching back to war in Tigray?",
-      "description": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-25T23:42:39Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/a94bfae0-b905-11f1-b1d1-571ed4d7ff2c.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "cs -5f5ac758bf61",
       "title": "Hoping to push the US away, Iran’s strategy is to go on the offensive",
       "description": "Nearly seven months after being attacked, an emboldened Iran is seeking to end the war on its terms. That means forcing U.S. bases out, lifting sanctions, and ending a U.S. naval blockade.",
@@ -63,37 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-4b8c6fb6c8b1",
-      "title": "Pope in Paris, Xi in DC, AI at a Crossroads",
-      "description": "It’s been a week of walkouts, power plays and diplomatic theatre — from a battle over press freedom in Washington, to a United Nations General Assembly marked by protests and departures, as leaders clashed over Iran, Cuba and Venezuela. There was also a rare red-carpet meeting between Donald Trump and Xi Jinping, as th…",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads",
-      "source": "France24",
-      "publishedAt": "2026-09-25T18:52:55Z",
-      "image": "https://s.france24.com/media/display/93dacb3a-b911-11f1-9a83-555a0aff87a4/w:1024/p:16x9/Untitled-Sequence-02-1.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-cb8c1e823210",
-      "title": "Premier Libano, 'nostro futuro non sarà deciso da altri, Israele si ritiri'",
-      "description": "Nawaf Salam all'Assemblea dell'Onu, 'vogliamo cessate il fuoco consolidato'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/25/premier-libano-nostro-futuro-non-sara-deciso-da-altri-israele-si-ritiri_a322d408-a8f9-4922-a961-ceab47b370d5.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-25T14:53:15Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2024/9/26/09511196a2fe18dcd6f8e58dd0669191.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -145,16 +143,30 @@
       "tags": []
     },
     {
-      "id": "le -39c7fa9c3d74",
-      "title": "Netanyahu overflies French airspace again despite ICC arrest warrant",
-      "description": "While the International Criminal Court and its judges face repeated attacks and sanctions, France once again allowed Israeli Prime Minister Benjamin Netanyahu to fly over its territory on his way to the UN General Assembly in New York.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/25/netanyahu-overflies-french-airspace-again-despite-icc-arrest-warrant_6757942_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-25T10:35:35Z",
-      "image": "https://img.lemde.fr/2026/09/24/0/0/3653/1826/644/322/60/0/6480425_ftp-1-7poq8tlwihak-2026-09-24t185544z-1095402345-rc2upnai615y-rtrmadp-3-un-assembly.JPG",
+      "id": "un -688f5b484530",
+      "title": "Security Council LIVE: Rising tide of forced displacement",
+      "description": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees briefed the Security Council on Friday.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168438",
+      "source": "UN News",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/03-08-2026-UNHCR-Burundi-Buhumuza-02.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-19566c6a8a54",
+      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
+      "description": "Xi’s first visit to Washington in a decade was a display of pomp and pageantry, with Trump offering his guest a two-month truce on the brewing tariff war.",
+      "url": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-25T05:54:07Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2868/live/88381480-b8a4-11f1-a430-4d16ee157c41.jpg",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
@@ -189,21 +201,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -6c53ea9b0039",
-      "title": "Rohingya refugees deserve a future beyond survival, not endless displacement",
-      "description": "Nine years after the mass displacement of the Rohingya from Myanmar, their situation remains one of the world's most protracted and complex refugee crises, marked by years of persecution and uncertainty over the prospect of returning home.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168417",
-      "source": "UN News",
-      "publishedAt": "2026-09-23T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/09-06-2026-UNICEF-Rohingya.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     }
   ]

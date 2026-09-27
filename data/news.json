@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T13:37:03Z",
+  "updated": "2026-09-27T18:05:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,27 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/iran-war-takes-southeast-asia-s-renewable-plans-to-new-heights",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-27T13:36:59Z",
+      "publishedAt": "2026-09-27T18:05:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F1%2F6%2F13156143-1-eng-GB%2F7666a8e7f00f-2024-03-26T151708Z_1732825500_RC2LT6AIM2AA_RTRMADP_3_TOTW-SOLAR_i.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e1f89a935a57",
+      "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
+      "description": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-27T13:17:53Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab7d4f7ee67-1790432503.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -27,21 +42,6 @@
       "source": "France24",
       "publishedAt": "2026-09-27T08:36:49Z",
       "image": "https://s.france24.com/media/display/d9ff2430-ba4c-11f1-a586-555a0aff87a4/w:1024/p:16x9/EN-20260927-091003-091208-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -aa21bd23da2f",
-      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
-      "description": "Djibouti urges world to help as Yemen war drives refugee influx",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T08:35:25Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790498106.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict"
       ],
@@ -141,6 +141,21 @@
       "tags": []
     },
     {
+      "id": "the-aeb3b7ee287d",
+      "title": "Protests erupt as Netanyahu gives inflammatory UN speech - The Latest",
+      "description": "More than 100 people were arrested at large protests against the Israeli prime minister Benjamin Netanyahu’s address to the UN general assembly. Susan Sarandon, Chelsea Manning and Caleb Hearon were among the famous faces arrested. Inside the assembly hall, Netanyahu faced a mass walkout as he took to the stage. Then, …",
+      "url": "https://www.theguardian.com/news/audio/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-25T18:22:27Z",
+      "image": "https://i.guim.co.uk/img/media/5ef3fdd2c88cae476889c6b5216fc69ae425f999/1127_0_4942_3954/master/4942.jpg?width=140&quality=85&auto=format&fit=max&s=7fa847ab97bce6ab6e323d3e955fe7e4",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-bc96b4b96896",
       "title": "Ukrainian Soldiers Brave Russian Drones On Trek To Frontline Settlements",
       "description": "Ukrainian troops trek nearly 20 kilometers to reach Bilozerske in the embattled Donetsk region. In roughly one year, Russian drone and aerial attacks have laid waste to the city that used to house 15,000 inhabitants. Speaking with RFE/RL, one soldier said that \"everything is bad\" in the Dobropillia area.",
@@ -179,21 +194,6 @@
       "source": "Kyiv Post",
       "publishedAt": "2026-09-25T09:23:31Z",
       "image": "https://static.kyivpost.com/storage/2026/02/13/e5f493686d5ea250501a0f31b561e8a9.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-d8856d6d307b",
-      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-      "description": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed governmentThere are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing t…",
-      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-24T15:29:42Z",
-      "image": "https://i.guim.co.uk/img/media/02fbbbb2097252c71e2c812c2af983be2d3c8e5e/39_0_1695_1356/master/1695.jpg?width=140&quality=85&auto=format&fit=max&s=4a6e9458ca61d9b200e3e0a204d29b5f",
       "categories": [
         "conflict"
       ],

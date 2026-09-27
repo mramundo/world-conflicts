@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-27T13:37:13Z",
+  "updated": "2026-09-27T18:06:01Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-09-25T20:37:24Z",
+  "wikipediaListRevision": "2026-09-27T15:18:27Z",
   "items": [
     {
       "id": "ru-ua",
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sy-war",
@@ -247,8 +247,8 @@
         "Crime war"
       ],
       "wikipediaPage": "Mexican_drug_war",
-      "lastUpdate": "2026-09-21",
-      "wikipediaRevision": "2026-09-21T00:40:17Z",
+      "lastUpdate": "2026-09-27",
+      "wikipediaRevision": "2026-09-27T17:50:04Z",
       "recentNewsCount": 0
     },
     {
@@ -290,9 +290,9 @@
         "Terrorism"
       ],
       "wikipediaPage": "Republican_insurgency_in_Afghanistan",
-      "lastUpdate": "2026-09-21",
+      "lastUpdate": "2026-09-27",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-09-21T07:43:09Z",
+      "wikipediaRevision": "2026-09-27T14:07:11Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     },
     {
       "id": "et-am",
@@ -339,7 +339,7 @@
       "lastUpdate": "2026-09-23",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-09-23T20:02:11Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "co-fgc",
@@ -429,7 +429,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-09-23",
       "wikipediaRevision": "2026-09-23T15:40:55Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "wb-isr",

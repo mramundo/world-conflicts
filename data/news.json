@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-27T07:44:31Z",
+  "updated": "2026-09-27T13:37:03Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/iran-war-takes-southeast-asia-s-renewable-plans-to-new-heights",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-09-27T07:44:26Z",
+      "publishedAt": "2026-09-27T13:36:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F1%2F6%2F13156143-1-eng-GB%2F7666a8e7f00f-2024-03-26T151708Z_1732825500_RC2LT6AIM2AA_RTRMADP_3_TOTW-SOLAR_i.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,33 +20,32 @@
       "tags": []
     },
     {
-      "id": "al -67d0941872fd",
-      "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
-      "description": "The UN General Assembly wraps up with mixed diplomatic outcomes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T01:59:17Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790474320.jpg?resize=1920%2C1080&amp;quality=80",
+      "id": "fra-71e1d1fd64d4",
+      "title": "Switzerland votes on country's neutrality",
+      "description": "As other neutral countries such as Austria and Ireland increase defence spending and strengthen ties with NATO, Swiss voters are taking part in a referendum on whether to enshrine a stricter definition of the country’s centuries-old neutrality in the constitution. Switzerland has not fought a military conflict since ne…",
+      "url": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality",
+      "source": "France24",
+      "publishedAt": "2026-09-27T08:36:49Z",
+      "image": "https://s.france24.com/media/display/d9ff2430-ba4c-11f1-a586-555a0aff87a4/w:1024/p:16x9/EN-20260927-091003-091208-CS.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "le -dc9017dc53e6",
-      "title": "Hamas leader says Israel's election will bring no change for Palestinians",
-      "description": "Khalil al-Hayya dismissed the prospect of a change in Israel's upcoming election bringing an end to the war in Gaza, saying Saturday that Palestinians had suffered under successive Israeli governments.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/27/hamas-leader-says-israel-s-election-will-bring-no-change-for-palestinians_6757993_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-27T00:47:33Z",
-      "image": "https://img.lemde.fr/2025/09/09/506/0/6071/3035/644/322/60/0/3eaaf13_ftp-import-images-1-mb5ammgeflfh-2025-09-09t140309z-155653983-rc2u79aky09b-rtrmadp-3-qatar-security.JPG",
+      "id": "al -aa21bd23da2f",
+      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+      "description": "Djibouti urges world to help as Yemen war drives refugee influx",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-27T08:35:25Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790498106.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,6 +96,36 @@
       "tags": []
     },
     {
+      "id": "deu-27a1300e8fc8",
+      "title": "Russia expected to intensify hybrid war on Europe",
+      "description": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
+      "url": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-26T15:39:00Z",
+      "image": "https://static.dw.com/image/79196302_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -c09315230389",
+      "title": "Ethiopia slides back into war. Who is involved and why?",
+      "description": "The fighting pits various rebel groups against the federal army. In this complex mosaic, shifting alliances are common.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/09/26/ethiopia-slides-back-into-war-who-is-involved-and-why_6757974_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-26T09:00:13Z",
+      "image": "https://img.lemde.fr/2026/09/23/291/0/3500/1750/644/322/60/0/a42e53e_ftp-1-3f5m0l8a6f51-5159537-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -5f5ac758bf61",
       "title": "Hoping to push the US away, Iran’s strategy is to go on the offensive",
       "description": "Nearly seven months after being attacked, an emboldened Iran is seeking to end the war on its terms. That means forcing U.S. bases out, lifting sanctions, and ending a U.S. naval blockade.",
@@ -128,22 +157,6 @@
       "tags": []
     },
     {
-      "id": "deu-660ce4c20b2d",
-      "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
-      "description": "The US has removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray region. Analysts say Eritrea's strategic value is growing.",
-      "url": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-ethiopia-s-tigray/a-79426582?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-25T13:34:00Z",
-      "image": "https://static.dw.com/image/64967848_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "un -688f5b484530",
       "title": "Security Council LIVE: Rising tide of forced displacement",
       "description": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees briefed the Security Council on Friday.&nbsp;",
@@ -155,6 +168,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-5d648d585fb5",
+      "title": "Ukraine’s Troops Helped Push Putin’s ‘Anchorage’ Demands Off Peace Talks Agenda, Zelensky Says",
+      "description": "President Volodymyr Zelensky says negotiations have moved away from the so-called “Anchorage agreements,” crediting Ukraine’s armed forces and US negotiators. He warned that Putin’s ambitions extend beyond the Donbas.",
+      "url": "https://www.kyivpost.com/post/85395",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-25T09:23:31Z",
+      "image": "https://static.kyivpost.com/storage/2026/02/13/e5f493686d5ea250501a0f31b561e8a9.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -171,22 +199,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-9fe6e34dfc39",
-      "title": "Russia’s Global Recruitment Pipeline: How Russia Hunts the World’s Poor to Feed Its War in Ukraine – Part 2",
-      "description": "The second part of this investigation examines the global reach of Russia’s foreign recruitment campaign, focusing on South Asia, Latin America, Indonesia, and former Soviet states. Ukrainian officials and human rights organizations describe a recurring pattern: promises of civilian employment, fast-tracked citizenship…",
-      "url": "https://www.kyivpost.com/analysis/85141",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-24T11:09:00Z",
-      "image": "https://static.kyivpost.com/storage/2025/04/10/ee7a1d3a899e5b5349f93526f6fea0bc.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
       "tags": []
     }
   ]

@@ -1,34 +1,95 @@
 {
-  "updated": "2026-09-28T15:03:17Z",
+  "updated": "2026-09-28T21:38:51Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "rfe-b0c9f1f089ef",
-      "title": "Kallas Says Russia's Mockery Of UN Meeting Shows It's Not Interested In Ending Ukraine War",
-      "description": "European Union foreign policy chief Kaja Kallas said on September 28 that Russian Foreign Minister Sergei Lavrov's treatment of his German counterpart, Johann Wadephul, after their recent UN meeting demonstrates that Russia is not interested in peace in Ukraine.",
-      "url": "https://www.rferl.org/a/33865764.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-28T12:31:05Z",
-      "image": "https://gdb.rferl.org/28fb41ff-4ff5-44cc-a4d6-0d1600e55fdd_cx5_cy7_cw91_w800_h450.jpg",
+      "id": "al -d33e18969831",
+      "title": "Myanmar army air strike kills dozens in Rakhine state",
+      "description": "Nearly half a million people are displaced in Rakhine as a result of the conflict between the military and rebel groups.",
+      "url": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T19:31:27Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abaaadb255f-1790618331.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -22888f83b92c",
+      "title": "'We have nothing, no safe place, no food': Yemen's humanitarian crisis is worsening",
+      "description": "As fighting between Houthi forces and government troops continues across Yemen, NGOs are mobilizing to aid civilians, particularly the more than 130,000 displaced people.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/28/we-have-nothing-no-safe-place-no-food-yemen-s-humanitarian-crisis-is-worsening_6758047_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-28T18:45:03Z",
+      "image": "https://img.lemde.fr/2026/09/24/735/0/5429/2714/644/322/60/0/3665eb6_ftp-1-h0zqelyq2bc7-ea999d1ffd7040038cb67e8c092ad150-0-7a3d1e9ced81487b83c2390b00988e2c.jpg",
       "categories": [
         "conflict",
-        "humanitarian",
-        "analysis"
+        "humanitarian"
       ],
       "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -f9626dea488f",
+      "title": "Why island nations are the real winners as UN wraps up",
+      "description": "The U.N. hears that a billion people are on the front line as sea levels rise due to climate change.",
+      "url": "https://www.csmonitor.com/World/2026/0928/un-sea-level-rise-tuvalu-fiji-declaration?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-09-28T18:25:26Z",
+      "image": "https://images.csmonitor.com/csm/2026/09/0928_OUNWRAPUP_LEDE_fiji.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "ans-107848a9debc",
-      "title": "Sanzioni Ue ai 10 russi responsabili dell'esclusione di Yabloko dalle elezioni",
-      "description": "Tra i sanzionati giudici della Corte suprema e giudice che ha condannato Shlosberg",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/28/sanzioni-ue-ai-10-russi-responsabili-dellesclusione-di-yabloko-dalle-elezioni_3770e5bc-0ac6-484a-abd3-8fbabfb1ac15.html",
+      "id": "rfe-abdd49692713",
+      "title": "Deadly Russian Attacks On Ukraine Hit Medical Center, Science Academy",
+      "description": "A wave of Russian attacks hit civilian sites in several Ukrainian cities on September 28. In Kyiv, fire broke out after strikes on the National Academy of Sciences and a major medical clinic. An office building in Dnipro and an apartment block in Kharkiv also came under attack. Deaths and injuries were reported, includ…",
+      "url": "https://www.rferl.org/a/russian-attacks-kyiv-medical-center-kharkiv-dnipro/33865943.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-28T17:27:05Z",
+      "image": "https://gdb.rferl.org/00d9f15d-c8c6-406a-41c8-08df13a884cb_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-39528c3dbf8d",
+      "title": "Tigray TV station hit by drone as rebels advance in north Ethiopia",
+      "description": "Authorities in Ethiopia are accusing outside forces of backing armed groups fighting the country's troops in the north. Since last week, heavy clashes have been reported between government forces and the Tigray people's liberation front.It's raised fears of a wider regional conflict erupting. Delano D'Souza explains",
+      "url": "https://www.france24.com/en/video/20260928-tigray-tv-station-hit-by-drone-as-rebels-advance-in-north-ethiopia",
+      "source": "France24",
+      "publishedAt": "2026-09-28T16:51:23Z",
+      "image": "https://s.france24.com/media/display/704b7948-bb5b-11f1-9cef-555a0aff87a4/w:1024/p:16x9/EN-20260928-170303-170502-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-1972f391684c",
+      "title": "Cnn, Trump pronto ad allentare sanzioni all'Iran con progressi concreti sul nucleare",
+      "description": "E' quanto riferito all'emittente da un funzionario della Casa Bianca",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/28/cnn-trump-pronto-ad-allentare-sanzioni-alliran-con-progressi-concreti-sul_98b6e0a1-da94-44ad-8146-e8e4958db301.html",
       "source": "ANSA",
-      "publishedAt": "2026-09-28T11:41:49Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/17/289499857465d5368533062d9e1def7e.jpg",
+      "publishedAt": "2026-09-28T16:42:46Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/28/dac330bad09dfa0b65d12e9083c12ca7.jpg",
       "categories": [
         "conflict"
       ],
@@ -37,13 +98,13 @@
       "tags": []
     },
     {
-      "id": "al -acd0df0a21d8",
-      "title": "Ethiopia accuses Sudan, Egypt of backing Tigray rebels as fighting rages",
-      "description": "Sudan army denies backing Tigray fighters, says rival paramilitary RSF receiving support from within Ethiopia.",
-      "url": "https://www.aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tigray-rebels-as-fighting-rages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T11:00:23Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aba25c8accd-1790584264.jpg?resize=1920%2C1440",
+      "id": "the-58a5aa28036e",
+      "title": "Russian strike on Kyiv’s science academy kills at least one in latest daytime attack",
+      "description": "Three others wounded as jet-powered drones increasingly target Ukraine’s capital, with medical centre also hitEurope live – latest updatesA Russian drone hit the National Academy of Sciences in central Kyiv on Monday, killing at least one person, in the latest daytime attack on Ukraine’s capital.Flames tore through the…",
+      "url": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-28T15:16:50Z",
+      "image": "https://i.guim.co.uk/img/media/b0cd47552e025e85d938b5366ae7384d1948b628/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=985768fb65c4947d329c84904a705d18",
       "categories": [
         "conflict"
       ],
@@ -52,33 +113,17 @@
       "tags": []
     },
     {
-      "id": "fra-dfbef7aaf799",
-      "title": "Trump granting asylum to Afrikaners is 'race-based policy', South African FM claims",
-      "description": "In an interview with FRANCE 24 on the sidelines of the UN General Assembly in New York, South African Foreign Minister Ronald Lamola said Washington's plan to take in up to 17,500 more White South Africans was \"a race-based policy\", dismissing the \"so-called genocide\" of Afrikaners as \"fake news\".",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260928-trump-granting-asylum-to-afrikaners-is-race-based-policy-south-african-fm-claims",
-      "source": "France24",
-      "publishedAt": "2026-09-28T10:38:43Z",
-      "image": "https://s.france24.com/media/display/b633f49c-bb12-11f1-a258-555a0aff87a4/w:1024/p:16x9/Untitled-Sequence-02-2.png",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -c46d032d0bf1",
-      "title": "Israel says it killed in Gaza October 7 attacker who abducted hostage couple",
-      "description": "Abducted at the Nova Festival, near the border with the Palestinian enclave, during the Hamas attack, Noa Argamani and Avinatan Or were released more than a year apart, in June 2024 and October 2025, respectively.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/28/israel-says-it-killed-in-gaza-october-7-attacker-who-abducted-hostage-couple_6758023_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-28T06:33:38Z",
-      "image": "https://img.lemde.fr/2026/09/28/24/0/1278/639/644/322/60/0/db500ab_upload-1-g1j24n21oq37-capture-d-ecran-2026-09-28-081805.png",
+      "id": "un -b216c198b000",
+      "title": "World News in Brief: Refugee funding, US migration policy triggers ‘cascade’ of rights violations, world forests report, restorative justice in Colombia",
+      "description": "Support for water and sanitation at the biggest camp in the world for Syrian refugees is under threat from a lack of funding – combined with the impact of climate change – the UN Children’s Fund, UNICEF, said on Monday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168467",
+      "source": "UN News",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/28-09-2026_UNICEF_Jordan_Syrian-refugees.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -130,21 +175,6 @@
       "tags": []
     },
     {
-      "id": "the-f7656d113ba5",
-      "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
-      "description": "Waltz says Trump rejected Iran’s proposal to end war because they ‘were asking for everything up front’The Trump administration’s ambassador to the United Nations said the US rejected Iran’s proposal to end the ongoing war there because Iranian negotiators “were asking for everything up front”.Echoing comments by Donal…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-27T16:28:05Z",
-      "image": "https://i.guim.co.uk/img/media/0bed143a1c10b4bad660d01ef03e690f7be9e5fd/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6c36f2a771469a016009d0de88c1c3b5",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-ee10be8a71fe",
       "title": "Russian and German FMs Meet for First Time Since Ukraine Invasion",
       "description": "Russia’s Foreign Ministry said that the ministers discussed bilateral relations and the war in Ukraine.",
@@ -171,36 +201,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -292740c18804",
-      "title": "Countries far from conflict paying the price for wars not their own, India tells UN",
-      "description": "India’s External Affairs Minister Subrahmanyam Jaishankar warned on Saturday that violent conflicts continue to undermine international peace and security, while countries far removed from the battlefield are being forced to pay a heavy price.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168460",
-      "source": "UN News",
-      "publishedAt": "2026-09-26T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/26-09-2026-UN-Photo-UNGA81-India.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -5f5ac758bf61",
-      "title": "Hoping to push the US away, Iran’s strategy is to go on the offensive",
-      "description": "Nearly seven months after being attacked, an emboldened Iran is seeking to end the war on its terms. That means forcing U.S. bases out, lifting sanctions, and ending a U.S. naval blockade.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/0925/iran-trump-war-hormuz-arsenal?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-09-25T19:50:04Z",
-      "image": "https://images.csmonitor.com/csm/2026/09/0925_OIRAN_LEDE.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     }

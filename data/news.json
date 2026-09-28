@@ -1,9 +1,41 @@
 {
-  "updated": "2026-09-28T00:21:49Z",
+  "updated": "2026-09-28T06:24:43Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "kyi-25db75a51b0e",
+      "title": "What Matters More to Putin? Russian Refineries or Striking Ukraine?",
+      "description": "Kyiv Post Senior Defense Correspondent Stefan Korshak joins TVP World to discuss whether an energy ceasefire could pave the way for broader negotiations, how Ukrainian strikes are affecting Russia’s war economy, and why the Kremlin continues to favor military pressure over compromise.",
+      "url": "https://www.kyivpost.com/videos/85530",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-09-28T05:15:27Z",
+      "image": "https://static.kyivpost.com/storage/2026/09/28/8c81f5d5edcfe3a4e59f218015e4c25b.png?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -25c62a037e5a",
+      "title": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
+      "description": "Abbas Araghchi&#039;s warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-28T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T171103Z_777393107_RC2ORNADPDDR_RTRMADP_3_IRAN-CRISIS-1790552079.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "fra-2a978269e479",
       "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
@@ -52,22 +84,6 @@
       "tags": []
     },
     {
-      "id": "al -238654eea6aa",
-      "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
-      "description": "Cuba&#039;s deputy foreign minister slams US sanctions, labelling them &#039;equivalent to genocide&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-27T20:34:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab96fc3043e-1790537667.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-afc6910e5396",
       "title": "La Svizzera dice no al referendum sulla neutralità, salve le sanzioni Ue",
       "description": "La proposta, ben vista da Mosca, irrigidiva la posizione internazionale di Berna",
@@ -79,6 +95,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-f7656d113ba5",
+      "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
+      "description": "Waltz says Trump rejected Iran’s proposal to end war because they ‘were asking for everything up front’The Trump administration’s ambassador to the United Nations said the US rejected Iran’s proposal to end the ongoing war there because Iranian negotiators “were asking for everything up front”.Echoing comments by Donal…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-27T16:28:05Z",
+      "image": "https://i.guim.co.uk/img/media/0bed143a1c10b4bad660d01ef03e690f7be9e5fd/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6c36f2a771469a016009d0de88c1c3b5",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -113,21 +144,6 @@
       "tags": []
     },
     {
-      "id": "le -c09315230389",
-      "title": "Ethiopia slides back into war. Who is involved and why?",
-      "description": "The fighting pits various rebel groups against the federal army. In this complex mosaic, shifting alliances are common.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/09/26/ethiopia-slides-back-into-war-who-is-involved-and-why_6757974_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-26T09:00:13Z",
-      "image": "https://img.lemde.fr/2026/09/23/291/0/3500/1750/644/322/60/0/a42e53e_ftp-1-3f5m0l8a6f51-5159537-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -5f5ac758bf61",
       "title": "Hoping to push the US away, Iran’s strategy is to go on the offensive",
       "description": "Nearly seven months after being attacked, an emboldened Iran is seeking to end the war on its terms. That means forcing U.S. bases out, lifting sanctions, and ending a U.S. naval blockade.",
@@ -139,21 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-aeb3b7ee287d",
-      "title": "Protests erupt as Netanyahu gives inflammatory UN speech - The Latest",
-      "description": "More than 100 people were arrested at large protests against the Israeli prime minister Benjamin Netanyahu’s address to the UN general assembly. Susan Sarandon, Chelsea Manning and Caleb Hearon were among the famous faces arrested. Inside the assembly hall, Netanyahu faced a mass walkout as he took to the stage. Then, …",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-25T18:22:27Z",
-      "image": "https://i.guim.co.uk/img/media/5ef3fdd2c88cae476889c6b5216fc69ae425f999/1127_0_4942_3954/master/4942.jpg?width=140&quality=85&auto=format&fit=max&s=7fa847ab97bce6ab6e323d3e955fe7e4",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -185,21 +186,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-5d648d585fb5",
-      "title": "Ukraine’s Troops Helped Push Putin’s ‘Anchorage’ Demands Off Peace Talks Agenda, Zelensky Says",
-      "description": "President Volodymyr Zelensky says negotiations have moved away from the so-called “Anchorage agreements,” crediting Ukraine’s armed forces and US negotiators. He warned that Putin’s ambitions extend beyond the Donbas.",
-      "url": "https://www.kyivpost.com/post/85395",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-09-25T09:23:31Z",
-      "image": "https://static.kyivpost.com/storage/2026/02/13/e5f493686d5ea250501a0f31b561e8a9.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,9 +1,25 @@
 {
-  "updated": "2026-09-28T21:38:51Z",
+  "updated": "2026-09-29T01:33:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "rfe-0e417ec2a8ef",
+      "title": "Zelenskyy Warns of New Russian Mobilization and 10,000 North Korean Troop Deployment",
+      "description": "The death toll from Russia’s jet-powered drone attacks mounted in Ukraine while Ukrainian President Volodymyr Zelenskyy warned that the Kremlin is preparing for a new mobilization at home and a fresh deployment of 10,000 North Korean troops.",
+      "url": "https://www.rferl.org/a/zelenskyy-ukraine-drone-russian-mobilization-north-korea/33865993.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-09-28T22:41:40Z",
+      "image": "https://gdb.rferl.org/370cb853-08a6-4365-4b24-08de3c92853e_cx0_cy1_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "al -d33e18969831",
       "title": "Myanmar army air strike kills dozens in Rakhine state",
@@ -52,22 +68,6 @@
       "tags": []
     },
     {
-      "id": "rfe-abdd49692713",
-      "title": "Deadly Russian Attacks On Ukraine Hit Medical Center, Science Academy",
-      "description": "A wave of Russian attacks hit civilian sites in several Ukrainian cities on September 28. In Kyiv, fire broke out after strikes on the National Academy of Sciences and a major medical clinic. An office building in Dnipro and an apartment block in Kharkiv also came under attack. Deaths and injuries were reported, includ…",
-      "url": "https://www.rferl.org/a/russian-attacks-kyiv-medical-center-kharkiv-dnipro/33865943.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-28T17:27:05Z",
-      "image": "https://gdb.rferl.org/00d9f15d-c8c6-406a-41c8-08df13a884cb_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "fra-39528c3dbf8d",
       "title": "Tigray TV station hit by drone as rebels advance in north Ethiopia",
       "description": "Authorities in Ethiopia are accusing outside forces of backing armed groups fighting the country's troops in the north. Since last week, heavy clashes have been reported between government forces and the Tigray people's liberation front.It's raised fears of a wider regional conflict erupting. Delano D'Souza explains",
@@ -99,8 +99,8 @@
     },
     {
       "id": "the-58a5aa28036e",
-      "title": "Russian strike on Kyiv’s science academy kills at least one in latest daytime attack",
-      "description": "Three others wounded as jet-powered drones increasingly target Ukraine’s capital, with medical centre also hitEurope live – latest updatesA Russian drone hit the National Academy of Sciences in central Kyiv on Monday, killing at least one person, in the latest daytime attack on Ukraine’s capital.Flames tore through the…",
+      "title": "Daytime Russian strike on Kyiv’s science academy kills at least one",
+      "description": "Three others wounded as jet-powered drones increasingly target Ukraine’s capital, with medical centre also hitA Russian drone hit the National Academy of Sciences in central Kyiv on Monday, killing at least one person, in the latest daytime attack on Ukraine’s capital.Flames tore through the historic building as people…",
       "url": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
       "source": "The Guardian",
       "publishedAt": "2026-09-28T15:16:50Z",

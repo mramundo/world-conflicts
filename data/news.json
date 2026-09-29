@@ -1,38 +1,38 @@
 {
-  "updated": "2026-09-29T01:33:22Z",
+  "updated": "2026-09-29T08:01:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "rfe-0e417ec2a8ef",
-      "title": "Zelenskyy Warns of New Russian Mobilization and 10,000 North Korean Troop Deployment",
-      "description": "The death toll from Russia’s jet-powered drone attacks mounted in Ukraine while Ukrainian President Volodymyr Zelenskyy warned that the Kremlin is preparing for a new mobilization at home and a fresh deployment of 10,000 North Korean troops.",
-      "url": "https://www.rferl.org/a/zelenskyy-ukraine-drone-russian-mobilization-north-korea/33865993.html",
+      "id": "al -39af24e3005b",
+      "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
+      "description": "Head of Hamas&#039;s armed wing in northern Gaza killed in ⁠an Israeli strike on an apartment building in Gaza City.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-29T07:34:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260919__C8RP47Q__v1__HighRes__PalestinianGazaIsraelConflict-1790667157.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-66b7755b18b0",
+      "title": "As Russia Targets Civilians, Pressure Mounts On Trump To Use Sanctions Powers",
+      "description": "A new wave of deadly Russian attacks on Ukrainian cities is fueling bipartisan calls in Washington for US President Donald Trump to use sweeping new sanctions powers against Moscow, with lawmakers arguing that greater economic pressure could strengthen efforts to end the war.",
+      "url": "https://www.rferl.org/a/ukraine-graham-legislation-russia-sanctions-congress/33866211.html",
       "source": "RFE/RL",
-      "publishedAt": "2026-09-28T22:41:40Z",
-      "image": "https://gdb.rferl.org/370cb853-08a6-4365-4b24-08de3c92853e_cx0_cy1_cw0_w800_h450.jpg",
+      "publishedAt": "2026-09-29T06:41:41Z",
+      "image": "https://gdb.rferl.org/1c55be26-65a2-4271-adf6-e1947c2450e6_cx0_cy13_cw0_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -d33e18969831",
-      "title": "Myanmar army air strike kills dozens in Rakhine state",
-      "description": "Nearly half a million people are displaced in Rakhine as a result of the conflict between the military and rebel groups.",
-      "url": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-28T19:31:27Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abaaadb255f-1790618331.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -98,21 +98,6 @@
       "tags": []
     },
     {
-      "id": "the-58a5aa28036e",
-      "title": "Daytime Russian strike on Kyiv’s science academy kills at least one",
-      "description": "Three others wounded as jet-powered drones increasingly target Ukraine’s capital, with medical centre also hitA Russian drone hit the National Academy of Sciences in central Kyiv on Monday, killing at least one person, in the latest daytime attack on Ukraine’s capital.Flames tore through the historic building as people…",
-      "url": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-28T15:16:50Z",
-      "image": "https://i.guim.co.uk/img/media/b0cd47552e025e85d938b5366ae7384d1948b628/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=985768fb65c4947d329c84904a705d18",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -b216c198b000",
       "title": "World News in Brief: Refugee funding, US migration policy triggers ‘cascade’ of rights violations, world forests report, restorative justice in Colombia",
       "description": "Support for water and sanitation at the biggest camp in the world for Syrian refugees is under threat from a lack of funding – combined with the impact of climate change – the UN Children’s Fund, UNICEF, said on Monday.",
@@ -124,6 +109,21 @@
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-3bdbb46e0ef1",
+      "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
+      "description": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups.",
+      "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
+      "source": "NPR World",
+      "publishedAt": "2026-09-28T10:51:25Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7328x4885+0+0/resize/7328x4885!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb2%2F7b%2F553da6064f5d93e8d213fccad9c2%2Fap26271348244108.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -160,17 +160,17 @@
       "tags": []
     },
     {
-      "id": "npr-c4645f1b093c",
-      "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
-      "description": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch attacks on Iran.",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
-      "source": "NPR World",
-      "publishedAt": "2026-09-27T21:14:44Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5982718",
+      "id": "the-f7656d113ba5",
+      "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
+      "description": "Waltz says Trump rejected Iran’s proposal to end war because they ‘were asking for everything up front’The Trump administration’s ambassador to the United Nations said the US rejected Iran’s proposal to end the ongoing war there because Iranian negotiators “were asking for everything up front”.Echoing comments by Donal…",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-27T16:28:05Z",
+      "image": "https://i.guim.co.uk/img/media/0bed143a1c10b4bad660d01ef03e690f7be9e5fd/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6c36f2a771469a016009d0de88c1c3b5",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,9 +1,39 @@
 {
-  "updated": "2026-09-29T15:27:20Z",
+  "updated": "2026-09-29T20:29:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "le -cbe048afecc8",
+      "title": "'Factory of targets' and 'collateral damage': Israeli soldiers describe Gaza methods",
+      "description": "Israeli officers spoke to Le Monde, in collaboration with the NGO Breaking The Silence, about the military's rules of engagement in Gaza, the acknowledged number of civilian casualties caused by its operations, and the extensive use of artificial intelligence.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/29/factory-of-targets-and-collateral-damage-israeli-soldiers-describe-gaza-methods_6758083_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-29T17:06:24Z",
+      "image": "https://img.lemde.fr/2026/09/29/281/0/3378/1689/644/322/60/0/ca07a35_upload-1-kzesex0nnstr-2025-09-25t180542z-1160668106-rc2p34astnbw-rtrmadp-3-reuters-40anniversary.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-bb88b163bbb2",
+      "title": "Ethiopia: No regard for civilians as fighting in Ethiopia's Tigray region continues",
+      "description": "Fighting has returned to northern Ethiopia, shattering a fragile peace in the region. DW spoke to civilians caught in the crossfire amid communication blackouts, as rebel and federal forces keep battling for territory.",
+      "url": "https://www.dw.com/en/ethiopia-no-regard-for-civilians-as-fighting-in-ethiopia-s-tigray-region-continues/a-79464569?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-29T16:14:00Z",
+      "image": "https://static.dw.com/image/79424341_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "al -e4c01b2e20f5",
       "title": "Why has Putin added 15,000 new soldiers to Russia’s army?",
@@ -27,13 +57,45 @@
       "url": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
       "source": "The Guardian",
       "publishedAt": "2026-09-29T14:20:39Z",
-      "image": "https://i.guim.co.uk/img/media/5a010263b29032daec0fa967166cc0c5ecb5c0b9/1010_0_6190_4952/master/6190.jpg?width=140&quality=85&auto=format&fit=max&s=105851f2e295f524e91103b54eaeaaee",
+      "image": "https://i.guim.co.uk/img/media/5a010263b29032daec0fa967166cc0c5ecb5c0b9/1101_0_6190_4952/master/6190.jpg?width=140&quality=85&auto=format&fit=max&s=cd9050a65085844f88f1d7317d015ad6",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-483c71194e6a",
+      "title": "Putin Envoy, U.S. Officials Discussed Ukraine War and Energy Initiatives, U.S. Official Says",
+      "description": "Dmitriev had meetings with representatives of the U.S. Treasury and Energy departments during his visit to Washington, sources told Reuters.",
+      "url": "https://www.themoscowtimes.com/2026/09/29/putin-envoy-us-officials-discussed-ukraine-war-and-energy-initiatives-us-official-says-a93818",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-09-29T12:52:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/30/93818__30d633f44caa12247121ebcbaa63b6ee.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-b3431e39bd7f",
+      "title": "'Putin's goal is to prolong his power in Russia': Journalist Roman Badanin",
+      "description": "A journalist who has spent more than 20 years investigating Russian leader Vladimir Putin and who is recognised as perhaps Russia's finest investigative journalist has told FRANCE 24 that Putin's aim with the war in Ukraine is simply to prolong his power inside Russia. Roman Badanin has just published a book, \"Le Tsar …",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260929-putin-s-goal-is-to-prolong-his-power-in-russia-journalist-roman-badanin",
+      "source": "France24",
+      "publishedAt": "2026-09-29T12:46:30Z",
+      "image": "https://s.france24.com/media/display/722a12e0-bc02-11f1-833b-555a0aff87a4/w:1024/p:16x9/capture-3182824896abbb0e349c629-06537141.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -54,7 +116,7 @@
     {
       "id": "un -db04bfa7f637",
       "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
-      "description": "The Security Council is meeting in New York&nbsp;on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite a series of peace agreements. Ambassadors are likely to focus on ceasefire monitoring, rising tensions between the DRC and Rwanda, a…",
+      "description": "The Security Council met in New York&nbsp;on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite a series of peace agreements. Ambassadors are likely to focus on ceasefire monitoring, rising tensions between the DRC and Rwanda, and the …",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168482",
       "source": "UN News",
       "publishedAt": "2026-09-29T12:00:00Z",
@@ -63,36 +125,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-15eac590ed4c",
-      "title": "Ethiopian army clashes with rebel alliance across multiple fronts",
-      "description": "Ethiopia's military and allied militiamen captured a strategic town in the conflict-hit region of Tigray, a pro-government militia said on Monday, turning the tables after an opposition offensive launched from the region last week. The fighting in Tigray and the ‌neighbouring regions of Amhara and Afar marks the collap…",
-      "url": "https://www.france24.com/en/video/20260929-ethiopian-army-clashes-with-rebel-alliance-across-multiple-fronts",
-      "source": "France24",
-      "publishedAt": "2026-09-29T11:30:28Z",
-      "image": "https://s.france24.com/media/display/e50855ca-bbf7-11f1-875c-555a0aff87a4/w:1024/p:16x9/EN-20260928-183155-183324-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-3ed9a167414b",
-      "title": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years as Baghdad delays militia disarmament",
-      "description": "As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country's future security.",
-      "url": "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years-as-baghdad-delays-militia-disarmament/a-79462926?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-29T11:08:00Z",
-      "image": "https://static.dw.com/image/79463766_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -125,22 +157,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -22888f83b92c",
-      "title": "'We have nothing, no safe place, no food': Yemen's humanitarian crisis is worsening",
-      "description": "As fighting between Houthi forces and government troops continues across Yemen, NGOs are mobilizing to aid civilians, particularly the more than 130,000 displaced people.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/28/we-have-nothing-no-safe-place-no-food-yemen-s-humanitarian-crisis-is-worsening_6758047_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-28T18:45:03Z",
-      "image": "https://img.lemde.fr/2026/09/24/735/0/5429/2714/644/322/60/0/3665eb6_ftp-1-h0zqelyq2bc7-ea999d1ffd7040038cb67e8c092ad150-0-7a3d1e9ced81487b83c2390b00988e2c.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -188,21 +204,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-ee10be8a71fe",
-      "title": "Russian and German FMs Meet for First Time Since Ukraine Invasion",
-      "description": "Russia’s Foreign Ministry said that the ministers discussed bilateral relations and the war in Ukraine.",
-      "url": "https://www.themoscowtimes.com/2026/09/26/russian-and-german-fms-meet-for-first-time-since-ukraine-invasion-a93799",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-09-26T16:59:15Z",
-      "image": "https://static.themoscowtimes.com/image/og/81/93799__81478370014e6075aea19486b7a0f032.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     }
   ]

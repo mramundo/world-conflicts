@@ -1,21 +1,113 @@
 {
-  "updated": "2026-09-29T08:01:13Z",
+  "updated": "2026-09-29T15:27:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -39af24e3005b",
-      "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-      "description": "Head of Hamas&#039;s armed wing in northern Gaza killed in ⁠an Israeli strike on an apartment building in Gaza City.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
+      "id": "al -e4c01b2e20f5",
+      "title": "Why has Putin added 15,000 new soldiers to Russia’s army?",
+      "description": "The move marks the fourth military expansion this year as Russia&#039;s war in Ukraine seemingly stalls.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T07:34:50Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260919__C8RP47Q__v1__HighRes__PalestinianGazaIsraelConflict-1790667157.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-29T14:46:53Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26258655072293-1790684565.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-6f004bb8a0e5",
+      "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
+      "description": "European and Nato leaders express support for Estonia after August attack on manufacturer in TallinnEurope live – latest updatesEuropean and Nato leaders have expressed full support for Estonia and Ukraine after the Baltic state said an August arson attack on a drone manufacturer supplying Kyiv was an act of sabotage c…",
+      "url": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-29T14:20:39Z",
+      "image": "https://i.guim.co.uk/img/media/5a010263b29032daec0fa967166cc0c5ecb5c0b9/1010_0_6190_4952/master/6190.jpg?width=140&quality=85&auto=format&fit=max&s=105851f2e295f524e91103b54eaeaaee",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-e28d3195f420",
+      "title": "Lavrov, 'l'Europa conduce una guerra contro di noi, non c'è dubbio'",
+      "description": "",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/29/lavrov-leuropa-conduce-una-guerra-contro-di-noi-non-ce-dubbio_5c44e72a-cada-461c-bef9-fe4d713241ea.html",
+      "source": "ANSA",
+      "publishedAt": "2026-09-29T12:08:49Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/d2e0755c7551a585cc74bb6486120edf.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -db04bfa7f637",
+      "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
+      "description": "The Security Council is meeting in New York&nbsp;on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite a series of peace agreements. Ambassadors are likely to focus on ceasefire monitoring, rising tensions between the DRC and Rwanda, a…",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168482",
+      "source": "UN News",
+      "publishedAt": "2026-09-29T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/19-08-2026_yuan8.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-15eac590ed4c",
+      "title": "Ethiopian army clashes with rebel alliance across multiple fronts",
+      "description": "Ethiopia's military and allied militiamen captured a strategic town in the conflict-hit region of Tigray, a pro-government militia said on Monday, turning the tables after an opposition offensive launched from the region last week. The fighting in Tigray and the ‌neighbouring regions of Amhara and Afar marks the collap…",
+      "url": "https://www.france24.com/en/video/20260929-ethiopian-army-clashes-with-rebel-alliance-across-multiple-fronts",
+      "source": "France24",
+      "publishedAt": "2026-09-29T11:30:28Z",
+      "image": "https://s.france24.com/media/display/e50855ca-bbf7-11f1-875c-555a0aff87a4/w:1024/p:16x9/EN-20260928-183155-183324-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-3ed9a167414b",
+      "title": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years as Baghdad delays militia disarmament",
+      "description": "As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country's future security.",
+      "url": "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years-as-baghdad-delays-militia-disarmament/a-79462926?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-09-29T11:08:00Z",
+      "image": "https://static.dw.com/image/79463766_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-b5127fbac6c7",
+      "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
+      "description": "Turkey's bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran.",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
+      "source": "NPR World",
+      "publishedAt": "2026-09-29T09:00:00Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5634x3756+0+0/resize/5634x3756!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F70%2F23eeab59427cb164218e9b77c20b%2Fap26265582716871.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -68,62 +160,17 @@
       "tags": []
     },
     {
-      "id": "fra-39528c3dbf8d",
-      "title": "Tigray TV station hit by drone as rebels advance in north Ethiopia",
-      "description": "Authorities in Ethiopia are accusing outside forces of backing armed groups fighting the country's troops in the north. Since last week, heavy clashes have been reported between government forces and the Tigray people's liberation front.It's raised fears of a wider regional conflict erupting. Delano D'Souza explains",
-      "url": "https://www.france24.com/en/video/20260928-tigray-tv-station-hit-by-drone-as-rebels-advance-in-north-ethiopia",
-      "source": "France24",
-      "publishedAt": "2026-09-28T16:51:23Z",
-      "image": "https://s.france24.com/media/display/704b7948-bb5b-11f1-9cef-555a0aff87a4/w:1024/p:16x9/EN-20260928-170303-170502-CS.jpg",
+      "id": "bbc-19c83ca53546",
+      "title": "People escape historic Kyiv building hit by Russian drone",
+      "description": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
+      "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-28T17:04:14Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f9/live/6c252360-bb5a-11f1-b3b3-91d0b491a464.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-1972f391684c",
-      "title": "Cnn, Trump pronto ad allentare sanzioni all'Iran con progressi concreti sul nucleare",
-      "description": "E' quanto riferito all'emittente da un funzionario della Casa Bianca",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/28/cnn-trump-pronto-ad-allentare-sanzioni-alliran-con-progressi-concreti-sul_98b6e0a1-da94-44ad-8146-e8e4958db301.html",
-      "source": "ANSA",
-      "publishedAt": "2026-09-28T16:42:46Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/28/dac330bad09dfa0b65d12e9083c12ca7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -b216c198b000",
-      "title": "World News in Brief: Refugee funding, US migration policy triggers ‘cascade’ of rights violations, world forests report, restorative justice in Colombia",
-      "description": "Support for water and sanitation at the biggest camp in the world for Syrian refugees is under threat from a lack of funding – combined with the impact of climate change – the UN Children’s Fund, UNICEF, said on Monday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168467",
-      "source": "UN News",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/28-09-2026_UNICEF_Jordan_Syrian-refugees.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-3bdbb46e0ef1",
-      "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
-      "description": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups.",
-      "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
-      "source": "NPR World",
-      "publishedAt": "2026-09-28T10:51:25Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7328x4885+0+0/resize/7328x4885!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb2%2F7b%2F553da6064f5d93e8d213fccad9c2%2Fap26271348244108.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -144,37 +191,6 @@
       "tags": []
     },
     {
-      "id": "bbc-70b346dbdb24",
-      "title": "Inside Yemen's front-line city as Houthis battle for control",
-      "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
-      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-27T21:16:31Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03e/live/dca633d0-bab6-11f1-aa85-8f10bc212c53.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-f7656d113ba5",
-      "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
-      "description": "Waltz says Trump rejected Iran’s proposal to end war because they ‘were asking for everything up front’The Trump administration’s ambassador to the United Nations said the US rejected Iran’s proposal to end the ongoing war there because Iranian negotiators “were asking for everything up front”.Echoing comments by Donal…",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-27T16:28:05Z",
-      "image": "https://i.guim.co.uk/img/media/0bed143a1c10b4bad660d01ef03e690f7be9e5fd/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6c36f2a771469a016009d0de88c1c3b5",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-ee10be8a71fe",
       "title": "Russian and German FMs Meet for First Time Since Ukraine Invasion",
       "description": "Russia’s Foreign Ministry said that the ministers discussed bilateral relations and the war in Ukraine.",
@@ -186,21 +202,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-27a1300e8fc8",
-      "title": "Russia expected to intensify hybrid war on Europe",
-      "description": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
-      "url": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-26T15:39:00Z",
-      "image": "https://static.dw.com/image/79196302_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     }

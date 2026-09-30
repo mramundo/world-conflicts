@@ -1,21 +1,52 @@
 {
-  "updated": "2026-09-30T00:06:28Z",
+  "updated": "2026-09-30T06:21:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -bc38ee8f439d",
-      "title": "US troops fully withdraw from Baghdad base after two decades",
-      "description": "US Army soldiers have fully withdrawn from the US base in Baghdad.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T20:00:31Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790711986.jpg?resize=1920%2C1080&amp;quality=80",
+      "id": "the-84b58240bd00",
+      "title": "Malaysia begins Myanmar repatriations despite warnings from UN and rights groups",
+      "description": "Kuala Lumpur plans to send a total of 5,000 Myanmar nationals back to the war-torn country despite persecution concerns Malaysia began sending back about 1,500 Myanmar nationals on Tuesday, the government confirmed, as it launched a scheme that rights groups say may endanger migrants and asylum seekers by returning the…",
+      "url": "https://www.theguardian.com/world/2026/sep/30/malaysia-begins-myanmar-repatriations-despite-warnings-from-un-and-rights-groups",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-30T06:05:11Z",
+      "image": "https://i.guim.co.uk/img/media/a93c82db4125798e016c925c1e00bec751d2ce64/213_0_2218_1774/master/2218.jpg?width=140&quality=85&auto=format&fit=max&s=22a3a2c9c18a69ae456698ccf5b1bdec",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-bf016d4a9f92",
+      "title": "Live: Several people killed as Russia launches new round of strikes on Kyiv",
+      "description": "At least three people, including a child, have died after Russia launched another round of strikes on Kyiv and its surrounding regions overnight to Wednesday, officials said. Several people were also wounded in the attacks. In Poland, two airports, in Lublin and Rzeszow, were briefly shut over “military aviation activi…",
+      "url": "https://www.france24.com/en/europe/20260930-live-several-people-killed-as-russia-launches-new-round-of-strikes-on-kyiv",
+      "source": "France24",
+      "publishedAt": "2026-09-30T05:35:15Z",
+      "image": "https://s.france24.com/media/display/05499916-bc8e-11f1-8dc9-177f79e345bf/w:1024/p:16x9/000-C9QP39E.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -9c6d0a507495",
+      "title": "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
+      "description": "Qatar&#039;s top diplomat says Israel has undermined Doha&#039;s efforts to broker a ceasefire in Gaza from &#039;day one&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-29T23:49:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-21T150152Z_455887200_RC2EYLA0D2PL_RTRMADP_3_IRAN-CRISIS-SWISS-MEETING-1787796288.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,37 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-8129e621ec4e",
-      "title": "Over 100 settlers attack Occupied West Bank village, clash with Israeli forces",
-      "description": "More than 100 Israeli settlers attacked a village in the north of the occupied West Bank early Tuesday, wounding three members of Israel's security forces and burning two Palestinian homes, authorities and residents said. The attack occurred while the military was attempting to accompany a Palestinian family back to th…",
-      "url": "https://www.france24.com/en/video/20260929-over-100-settlers-attack-occupied-west-bank-village-clash-with-israeli-forces",
-      "source": "France24",
-      "publishedAt": "2026-09-29T14:38:06Z",
-      "image": "https://s.france24.com/media/display/dab256aa-bc12-11f1-be86-177f79e345bf/w:1024/p:16x9/EN-20260929-161527-161934-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-6f004bb8a0e5",
-      "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
-      "description": "European and Nato leaders express support for Estonia after August attack on manufacturer in TallinnEurope live – latest updatesEuropean and Nato leaders have expressed full support for Estonia and Ukraine after the Baltic state said an August arson attack on a drone manufacturer supplying Kyiv was an act of sabotage c…",
-      "url": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-29T14:20:39Z",
-      "image": "https://i.guim.co.uk/img/media/5a010263b29032daec0fa967166cc0c5ecb5c0b9/1101_0_6190_4952/master/6190.jpg?width=140&quality=85&auto=format&fit=max&s=cd9050a65085844f88f1d7317d015ad6",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

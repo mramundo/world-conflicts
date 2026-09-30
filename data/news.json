@@ -1,9 +1,24 @@
 {
-  "updated": "2026-09-29T20:29:45Z",
+  "updated": "2026-09-30T00:06:28Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -bc38ee8f439d",
+      "title": "US troops fully withdraw from Baghdad base after two decades",
+      "description": "US Army soldiers have fully withdrawn from the US base in Baghdad.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-29T20:00:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790711986.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "le -cbe048afecc8",
       "title": "'Factory of targets' and 'collateral damage': Israeli soldiers describe Gaza methods",
@@ -35,19 +50,18 @@
       "tags": []
     },
     {
-      "id": "al -e4c01b2e20f5",
-      "title": "Why has Putin added 15,000 new soldiers to Russia’s army?",
-      "description": "The move marks the fourth military expansion this year as Russia&#039;s war in Ukraine seemingly stalls.",
-      "url": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-29T14:46:53Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26258655072293-1790684565.jpg?resize=1920%2C1440",
+      "id": "fra-8129e621ec4e",
+      "title": "Over 100 settlers attack Occupied West Bank village, clash with Israeli forces",
+      "description": "More than 100 Israeli settlers attacked a village in the north of the occupied West Bank early Tuesday, wounding three members of Israel's security forces and burning two Palestinian homes, authorities and residents said. The attack occurred while the military was attempting to accompany a Palestinian family back to th…",
+      "url": "https://www.france24.com/en/video/20260929-over-100-settlers-attack-occupied-west-bank-village-clash-with-israeli-forces",
+      "source": "France24",
+      "publishedAt": "2026-09-29T14:38:06Z",
+      "image": "https://s.france24.com/media/display/dab256aa-bc12-11f1-be86-177f79e345bf/w:1024/p:16x9/EN-20260929-161527-161934-CS.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -80,22 +94,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-b3431e39bd7f",
-      "title": "'Putin's goal is to prolong his power in Russia': Journalist Roman Badanin",
-      "description": "A journalist who has spent more than 20 years investigating Russian leader Vladimir Putin and who is recognised as perhaps Russia's finest investigative journalist has told FRANCE 24 that Putin's aim with the war in Ukraine is simply to prolong his power inside Russia. Roman Badanin has just published a book, \"Le Tsar …",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260929-putin-s-goal-is-to-prolong-his-power-in-russia-journalist-roman-badanin",
-      "source": "France24",
-      "publishedAt": "2026-09-29T12:46:30Z",
-      "image": "https://s.france24.com/media/display/722a12e0-bc02-11f1-833b-555a0aff87a4/w:1024/p:16x9/capture-3182824896abbb0e349c629-06537141.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     },
     {

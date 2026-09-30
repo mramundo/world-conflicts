@@ -1,36 +1,53 @@
 {
-  "updated": "2026-09-30T13:23:27Z",
+  "updated": "2026-09-30T18:52:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "the-a7d768dd51af",
-      "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
-      "description": "Chief of defence of the Dutch armed forces, Gen Onno Eichelsheim, says Europe urgently needs to learn lessons from UkraineMeanwhile, Ukraine’s total war costs will reach $155bn this year and ⁠the government is ​struggling to close a $27bn funding gap to ensure it can still conduct combat operations at the start of 2027…",
-      "url": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-30T13:09:26Z",
-      "image": "https://i.guim.co.uk/img/media/45398104dea14793129a35a633a60c2cb97118d1/290_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=2aa55540d8a5f1e8f130ffb3616cba88",
+      "id": "al -3bd0cbec35f1",
+      "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
+      "description": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T17:55:59Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2017-12-19T134853Z_428447843_RC1BD7140C50_RTRMADP_3_GLOBAL-POY-MYANMAR-ROHINGYA-1783407685.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "al -cc5219ce8023",
-      "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
-      "description": "At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.",
-      "url": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T12:49:04Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AA-20260930-42610428-42610409-ISRAELI_ATTACKS_ON_GAZA_CONTINUE-1790772924.jpg?resize=1920%2C1440",
+      "id": "le -730ef39d7927",
+      "title": "What we know about the attempted hijacking of a Flydubai flight to Tel Aviv",
+      "description": "A flight from Dubai to Tel Aviv made an emergency landing in Saudi Arabia after one of the pilots stabbed the other. Israeli authorities have not ruled out the possibility of a terrorist attack or a suicide attempt.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/09/30/what-we-know-about-the-attempted-hijacking-of-a-flydubai-flight-to-tel-aviv_6758116_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-09-30T17:01:28Z",
+      "image": "https://img.lemde.fr/2026/09/30/394/0/4722/2361/644/322/60/0/a19c6f1_ftp-1-gggpyjgt8jg1-2026-09-30t142117z-678887592-rc2qtnazazh1-rtrmadp-3-israel-gulf-flight.JPG",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-335a25dda007",
+      "title": "Israeli forces overwhelmed by violent settlers in ‘terrorist attack’ on Palestinian family",
+      "description": "Settler violence in West Bank makes everyday life ‘untenable’ for Palestinians, says ICRC after assault on family trying to return home in JaludThe International Committee of the Red Cross (ICRC) has said Israeli settler violence in the West Bank has made everyday life for Palestinians “untenable”, as a mob attack on P…",
+      "url": "https://www.theguardian.com/world/2026/sep/30/israeli-settler-violence-west-bank-attack-jalud-palestinians-icrc",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-30T14:54:06Z",
+      "image": "https://i.guim.co.uk/img/media/935cf427fdeee555a2c6999116210279f36ba295/971_0_4855_3884/master/4855.jpg?width=140&quality=85&auto=format&fit=max&s=a15e16e6169e68738a587325a8c547b7",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -40,7 +57,7 @@
       "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
       "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-09-30T12:42:34Z",
+      "publishedAt": "2026-09-30T14:53:02Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg",
       "categories": [
         "conflict"
@@ -52,7 +69,7 @@
     {
       "id": "un -cb19be17e14d",
       "title": "Malaysia: UN agency urges safeguards after refugees returned to Myanmar",
-      "description": "The UN refugee agency, UNHCHR, has voiced concern over Malaysia’s decision to return 1,476 people to Myanmar amid an ongoing civil war and a dire human rights and humanitarian situation.",
+      "description": "The UN refugee agency, UNHCR, has voiced concern over Malaysia’s decision to return 1,476 people to Myanmar amid an ongoing civil war and a dire human rights and humanitarian situation.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168491",
       "source": "UN News",
       "publishedAt": "2026-09-30T12:00:00Z",
@@ -66,25 +83,26 @@
       "tags": []
     },
     {
-      "id": "fra-a00ccdc596aa",
-      "title": "Was Netanyahu warned of October 7 Hamas attacks?",
-      "description": "Benjamin Netanyahu travelled secretly to the United Arab Emirates over the weekend, Israeli media has reported, to ask its leader to deny claims he had warned the Israeli prime minister about a looming Hamas threat ahead of the Palestinian militant group's Oct. 7, 2023 attack on southern Israel. Netanyahu himself has c…",
-      "url": "https://www.france24.com/en/video/20260930-was-netanyahu-warned-of-october-7-hamas-attacks",
+      "id": "fra-057510c3059a",
+      "title": "Why is the US withdrawing its troops from Iraq?",
+      "description": "A US-led coalition deployed in Iraq more than a decade ago to fight jihadists concluded its mission on Wednesday, a move celebrated by the country's leaders, but which some fear will embolden pro-Iran armed factions. France 24's Angela Diffley takes a look at the security challenges facing the country and why the US ha…",
+      "url": "https://www.france24.com/en/video/20260930-why-is-the-us-withdrawing-its-troops-from-iraq",
       "source": "France24",
-      "publishedAt": "2026-09-30T10:12:34Z",
-      "image": "https://s.france24.com/media/display/429de330-bcb1-11f1-859d-098db7fa8bc7/w:1024/p:16x9/EN-20260930-101334-101848-CS.jpg",
+      "publishedAt": "2026-09-30T11:18:55Z",
+      "image": "https://s.france24.com/media/display/10f2ba54-bcc0-11f1-a5c4-098db7fa8bc7/w:1024/p:16x9/EN-20260930-123506-123935-CS.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "deu-088ddd1f4642",
-      "title": "Eurovision seeks to expand brand despite frictions",
+      "id": "deu-b79869dc1945",
+      "title": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding",
       "description": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel's participation in the midst of its war on Gaza. It still aims to keep growing.",
-      "url": "https://www.dw.com/en/eurovision-seeks-to-expand-brand-despite-frictions/a-79401752?maca=en-rss-en-world-4025-rdf",
+      "url": "https://www.dw.com/en/ireland-will-boycott-eurovision-again-because-of-israel-s-participation-but-the-song-contest-is-still-expanding/a-79401752?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-09-30T09:18:00Z",
       "image": "https://static.dw.com/image/78342765_6.jpg",
@@ -103,21 +121,6 @@
       "source": "NPR World",
       "publishedAt": "2026-09-30T08:43:00Z",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2Fa4%2F804bc8ed418196634b31e74a5953%2Fgettyimages-2297156537.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -0b842575c3b5",
-      "title": "One in Russia, the other in Ukraine: The Moreau brothers, divided by war",
-      "description": "Thomas lives under Russian bombardment in Kyiv, where he represents French companies in the defense and security sectors. In Moscow, Xavier relays Vladimir Putin's propaganda. Despite being under EU sanctions, he ran in the French Sénat elections last weekend, but failed to win a seat.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/09/30/one-in-russia-the-other-in-ukraine-the-moreau-brothers-divided-by-war_6758090_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-09-30T02:00:13Z",
-      "image": "https://img.lemde.fr/2026/09/24/1319/0/2303/1151/644/322/60/0/6d97dc8_upload-1-prpsfeyseeye-moreau-def-cor.jpg",
       "categories": [
         "conflict"
       ],

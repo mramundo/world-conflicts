@@ -1,9 +1,24 @@
 {
-  "updated": "2026-09-30T22:50:15Z",
+  "updated": "2026-10-01T01:50:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "bbc-0073ff5f9ff9",
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-09-30T23:10:06Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c37/live/eac38c60-bce6-11f1-8ce2-417f8f7cb095.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "deu-223e43b873bb",
       "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
@@ -17,6 +32,22 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -3f23a5a8dbdc",
+      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+      "description": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.",
+      "url": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-09-30T19:43:47Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_2692-copy-1790774028.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -67,22 +98,6 @@
       "tags": []
     },
     {
-      "id": "al -3bd0cbec35f1",
-      "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
-      "description": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T17:55:59Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2017-12-19T134853Z_428447843_RC1BD7140C50_RTRMADP_3_GLOBAL-POY-MYANMAR-ROHINGYA-1783407685.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "le -730ef39d7927",
       "title": "What we know about the attempted hijacking of a Flydubai flight to Tel Aviv",
       "description": "A flight from Dubai to Tel Aviv made an emergency landing in Saudi Arabia after one of the pilots stabbed the other. Israeli authorities have not ruled out the possibility of a terrorist attack or a suicide attempt.",
@@ -96,21 +111,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-6687e8d439d2",
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-30T14:53:02Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,12 +1,57 @@
 {
-  "updated": "2026-10-01T01:50:27Z",
+  "updated": "2026-10-01T08:28:58Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
+      "id": "al -e65d520450e7",
+      "title": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza",
+      "description": "Coffins containing the remains of those killed will be carried in a funeral procession involving family members.",
+      "url": "https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-01T07:23:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2023-10-25T000000Z_764081463_RC2QZ3A17OLB_RTRMADP_3_ISRAEL-PALESTINIANS-1790828969.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-623d60856de7",
+      "title": "Israelis divided as vote that could oust Netanyahu only weeks away",
+      "description": "Some on streets of Jerusalem pledge their support to prime minister while others hope for changeOn the streets of Jerusalem, crowded with secular and ultra-Orthodox Jews, religious nationalists, settlers, Palestinians, and soldiers returning from deployments, uncertainty hangs over an election less than a month away th…",
+      "url": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-01T04:00:30Z",
+      "image": "https://i.guim.co.uk/img/media/d59ad38acab4f01f3d9cf25a97d543e1048d6844/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7084e14b1acdc806fc243ec6f2515c11",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-8a2aaa0ab9c1",
+      "title": "Russia launches major attack on Ukraine’s energy grid, causing power cuts",
+      "description": "Russia launched its heaviest combined assault on Ukraine’s energy infrastructure in months on Wednesday, killing seven people and triggering emergency power cuts in Kyiv and nearby regions. The strikes came as officials warned of a difficult winter amid Russian attacks on Ukraine’s power and heating infrastructure.",
+      "url": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts",
+      "source": "France24",
+      "publishedAt": "2026-10-01T02:21:15Z",
+      "image": "https://s.france24.com/media/display/01bc8c06-bd27-11f1-9426-ddce071186a9/w:1024/p:16x9/000-C9R88CQ.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-0073ff5f9ff9",
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -31,52 +76,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -3f23a5a8dbdc",
-      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
-      "description": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.",
-      "url": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-09-30T19:43:47Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_2692-copy-1790774028.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-c2f42edbd145",
-      "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
-      "description": "After contagion in the Arabian Peninsula, should the entire Horn of Africa fear a domino effect? Just as Donald Trump’s decision to invade Iran drew the Saudis back to Yemen: did threats over the Strait of Bab el-Mandeb light the fuse in Ethiopia, where last week, unresolved issues between the government and its Tigray…",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
-      "source": "France24",
-      "publishedAt": "2026-09-30T19:04:20Z",
-      "image": "https://s.france24.com/media/display/b4b4ab32-b81c-11f1-9a75-9d4ae5c4ba17/w:1024/p:16x9/2026-09-24T101012Z-919341318-RC2KPNA74E5F-RTRMADP-3-ETHIOPIA-SECURITY.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-335a25dda007",
-      "title": "Israeli forces overwhelmed by violent settlers in ‘terrorist attack’ on Palestinian family",
-      "description": "Settler violence in West Bank makes everyday life ‘untenable’ for Palestinians, says ICRC after assault on family trying to return home in JaludThe International Committee of the Red Cross (ICRC) has said Israeli settler violence in the West Bank has made everyday life for Palestinians “untenable”, as a mob attack on P…",
-      "url": "https://www.theguardian.com/world/2026/sep/30/israeli-settler-violence-west-bank-attack-jalud-palestinians-icrc",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-30T19:01:03Z",
-      "image": "https://i.guim.co.uk/img/media/935cf427fdeee555a2c6999116210279f36ba295/971_0_4855_3884/master/4855.jpg?width=140&quality=85&auto=format&fit=max&s=a15e16e6169e68738a587325a8c547b7",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

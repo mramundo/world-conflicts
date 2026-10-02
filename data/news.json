@@ -1,9 +1,56 @@
 {
-  "updated": "2026-10-02T01:21:58Z",
+  "updated": "2026-10-02T08:04:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "bbc-9755b951926c",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-02T08:01:10Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc3/live/316213c0-be23-11f1-bf88-854b5521eba9.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-ba06ea1e43e6",
+      "title": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
+      "description": "A diplomatic scandal has erupted over two North Korean prisoners of war, with South Korea demanding an apology from Ukraine. What's been the reaction in Kyiv?",
+      "url": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-02T04:40:00Z",
+      "image": "https://static.dw.com/image/79484698_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-6e8362abefe4",
+      "title": "Saudi-led coalition accuses Houthis of striking Medina power station",
+      "description": "Yemen’s Iran-backed Houthis struck an electricity distribution station supplying the Prophet’s Mosque in Saudi Arabia’s holy city of Medina, the Saudi-led coalition said Thursday, drawing condemnation across the Muslim world. The Houthis denied involvement in the drone attack, which came as fighting intensified between…",
+      "url": "https://www.france24.com/en/middle-east/20261002-saudi-led-coalition-houthis-striking-medina-power-station",
+      "source": "France24",
+      "publishedAt": "2026-10-02T02:39:43Z",
+      "image": "https://s.france24.com/media/display/a235065c-be05-11f1-ba6d-dd51fcab6130/w:1024/p:16x9/6c10a732163f47d451b1d307e66942a6e3b7a7a0.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "al -a4c33371b4b3",
       "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
@@ -16,21 +63,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-582b33d6186a",
-      "title": "US presses Europe to release 'immediately' diesel reserves as Trump threatens export ban",
-      "description": "The United States on Thursday urged European allies to release strategic diesel reserves immediately to curb prices driven higher by the US war on Iran. EU states will discuss a coordinated response on Friday, as Washington increases pressure following President Donald Trump's suggestion that he could ban US diesel exp…",
-      "url": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices",
-      "source": "France24",
-      "publishedAt": "2026-10-01T22:08:51Z",
-      "image": "https://s.france24.com/media/display/0321c574-b409-11f1-a939-9f514b90f153/w:1024/p:16x9/2026-09-17T093053Z-2036940640-RC2ZINAAJOGS-RTRMADP-3-EUROPE-ECONOMY-ENERGY.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -123,36 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-0073ff5f9ff9",
-      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-09-30T23:10:06Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c37/live/eac38c60-bce6-11f1-8ce2-417f8f7cb095.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-223e43b873bb",
-      "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
-      "description": "The Danish Refugee Council alleges that Israel is employing \"a policy of protracted displacement\" in Gaza. It says the so-called \"Yellow Line\" is creeping west toward the coast, preventing many from returning home.",
-      "url": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-09-30T22:10:00Z",
-      "image": "https://static.dw.com/image/79493435_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

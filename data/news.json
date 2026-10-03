@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T17:02:24Z",
+  "updated": "2026-10-03T20:43:46Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,57 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-hits-russia-shadow-fleet-in-1st-sanctions-since-putin-trip-to-disputed-isle",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-03T17:02:19Z",
+      "publishedAt": "2026-10-03T20:43:42Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F5%2F6%2F13276547-2-eng-GB%2Fecd9985d4984-4ad8f5a0.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-a3b12ab44301",
+      "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
+      "description": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
+      "url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-03T18:49:00Z",
+      "image": "https://static.dw.com/image/79406929_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-4cce6f2f2c70",
+      "title": "Houthis claim strike on oil facilty near Riyadh, accuse Saudi forces of pounding Yemen's capital",
+      "description": "Houthi rebels accused Saudi forces of launching 26 strikes on Sanaa on Saturday after loud explosions rocked the Yemeni capital. The Iran-backed group said it struck an oil facility south of Riyadh, where flames and a large plume of smoke were seen rising from a plant belonging to oil giant Aramco.",
+      "url": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
+      "source": "France24",
+      "publishedAt": "2026-10-03T14:31:30Z",
+      "image": "https://s.france24.com/media/display/84e4ed72-bf65-11f1-8c8d-13420ab900a2/w:1024/p:16x9/000-D26B6KC.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -2aabed518ceb",
+      "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+      "description": "Military, pro-government forces recapture airport in Tigray&#039;s capital as fighting also rages in Amhara and Afar regions.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-03T13:00:57Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abb5847-1790662727.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,37 +91,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -6f0b127a40d4",
-      "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-      "description": "Displaced Yemenis are fleeing again, as the Houthis capture the Red Sea coast.",
-      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-03T10:48:28Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Saeed-second-from-right-and-his-brother-Mohammed-center-pose-with-their-families-behind-a-pile-of-bags-containing-clothes-an-1791014284.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-afee9025d863",
-      "title": "Ethiopia's Tigray rebels abandon regional capital Mekelle as pro-government forces advance",
-      "description": "Rebels from the Tigray People's Liberation Front (TPLF) in Ethiopia were abandoning their regional capital of Mekkele in the north of the country on Saturday, according to local reports. The TPLF has been fighting against federal forces and pro-government militias since September 23 and launching attacks into neighbour…",
-      "url": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
-      "source": "France24",
-      "publishedAt": "2026-10-03T07:58:45Z",
-      "image": "https://s.france24.com/media/display/c5c37128-bf07-11f1-ba42-1ff0321dbbd3/w:1024/p:16x9/2026-09-24T101038Z-2032759567-RC2KPNA9407F-RTRMADP-3-ETHIOPIA-SECURITY.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -123,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-3d4e66a8e73e",
-      "title": "Growing fear of war in the Horn of Africa after Eritrea cuts ties with Ethiopia",
-      "description": "The Tigray conflict is no longer just a domestic issue. As Ethiopia, Eritrea and Egypt trade accusations, the African Union (AU) urges restraint. Is the Horn of Africa hurtling toward a wider regional crisis?",
-      "url": "https://www.dw.com/en/growing-fear-of-war-in-the-horn-of-africa-after-eritrea-cuts-ties-with-ethiopia/a-79513311?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-02T14:22:00Z",
-      "image": "https://static.dw.com/image/79419271_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

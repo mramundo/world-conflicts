@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T20:43:46Z",
+  "updated": "2026-10-03T23:34:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-hits-russia-shadow-fleet-in-1st-sanctions-since-putin-trip-to-disputed-isle",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-03T20:43:42Z",
+      "publishedAt": "2026-10-03T23:34:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F5%2F6%2F13276547-2-eng-GB%2Fecd9985d4984-4ad8f5a0.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b10f43bde051",
+      "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+      "description": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to &#039;end a genocide in Gaza&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-03T22:43:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/gettyimages-2278116976-594x594-1791066313.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -23cb74d7d629",
+      "title": "Israel targets top Hamas leader in deadly Gaza strike, killing five",
+      "description": "On Saturday, the Israeli military attempted to kill Ali al-Amoudi in a pre-dawn strike on an apartment building. The airstrike killed five people, four of them women; Israel is reviewing whether al-Amoudi was among the dead.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/03/israel-targets-top-hamas-leader-in-deadly-gaza-strike-killing-five_6758223_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-03T21:20:25Z",
+      "image": "https://img.lemde.fr/2026/10/03/399/0/4011/2005/644/322/60/0/d31f4fb_ftp-1-y1sdgty9vfec-2026-10-03t112641z-1064307066-rc2mvnaxdh54-rtrmadp-3-israel-palestinians-gaza.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,36 +76,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -2aabed518ceb",
-      "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
-      "description": "Military, pro-government forces recapture airport in Tigray&#039;s capital as fighting also rages in Amhara and Afar regions.",
-      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-03T13:00:57Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abb5847-1790662727.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-2903102cb335",
-      "title": "Badenoch returns to Conservative conference much stronger than a year ago",
-      "description": "Approval ratings for Tory leader and her party have crept up as she has asserted her style and authority but big challenges lie aheadA year ago, Tory MPs were braced for the prospect of yet another leadership battle to topple Kemi Badenoch as the party sunk to historic lows of 14-16% in the polls.At the time, the word …",
-      "url": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-03T13:00:01Z",
-      "image": "https://i.guim.co.uk/img/media/de92e7699b3b63761656c56b135d1467b6eedd16/559_0_4163_3329/master/4163.jpg?width=140&quality=85&auto=format&fit=max&s=168743fd5ae35be92f458c10f782adee",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -157,21 +157,6 @@
       "tags": []
     },
     {
-      "id": "le -3a942a327f02",
-      "title": "Military AI: France challenges US dominance over NATO's classified networks",
-      "description": "The Arcadia project, unveiled on September 29, aims to massively merge data from the French armed forces to boost their operational effectiveness. A fierce battle has begun against American companies Palantir and Anduril as part of efforts to modernize NATO's structures.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/01/military-ai-france-challenges-us-dominance-over-nato-s-classified-networks_6758154_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-01T20:59:55Z",
-      "image": "https://img.lemde.fr/2026/09/30/0/27/1332/666/644/322/60/0/5b962a6_upload-1-tstvfff72kfw-datacenter-commissariat-nume-rique-de-fense-forteresse-mont-vale-rien-2024-1.PNG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-6843bd98b331",
       "title": "Afghan Witnesses Say Children Among Victims Of Pakistani Air Strikes",
       "description": "Pakistani air strikes hit targets in Afghanistan's Kunar and Helmand provinces early on October 1. Pakistani authorities said they were targeting militants operating near the border, but Afghan witnesses said civilians were among the dead, including children. Pakistan accuses Afghanistan's Taliban leaders of harboring …",
@@ -195,6 +180,21 @@
       "source": "CS Monitor",
       "publishedAt": "2026-10-01T18:54:26Z",
       "image": "https://images.csmonitor.com/csm/2026/09/1002_OYEMENIRAN_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-a25ffb2cae48",
+      "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
+      "description": "Team behind documentary push back against IDF attempt to discredit its exposure of military systemsThe team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged acceptance of high numbers of civilian deaths, have revealed they spoke to more than 100 sources…",
+      "url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-01T17:45:09Z",
+      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/253_73_2515_2012/master/2515.jpg?width=140&quality=85&auto=format&fit=max&s=c1f889fb50412b98f8a39eb409809ea0",
       "categories": [
         "conflict"
       ],

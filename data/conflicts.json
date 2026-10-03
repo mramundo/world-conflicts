@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T06:08:44Z",
+  "updated": "2026-10-03T12:18:11Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-10-02T23:31:51Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-10-03",
       "wikipediaRevision": "2026-10-03T02:03:00Z",
-      "recentNewsCount": 5
+      "recentNewsCount": 4
     },
     {
       "id": "il-ps",
@@ -45,9 +45,9 @@
         "Asymmetric"
       ],
       "wikipediaPage": "Gaza_war",
-      "lastUpdate": "2026-10-01",
-      "wikipediaRevision": "2026-10-01T16:20:05Z",
-      "recentNewsCount": 1
+      "lastUpdate": "2026-10-03",
+      "wikipediaRevision": "2026-10-03T10:05:21Z",
+      "recentNewsCount": 0
     },
     {
       "id": "sd-war",
@@ -68,7 +68,7 @@
       ],
       "wikipediaPage": "Sudanese_civil_war_(2023%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "mm-civ",
@@ -89,7 +89,7 @@
       ],
       "wikipediaPage": "Myanmar_civil_war_(2021%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "ye-war",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-09-18",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-09-18T21:14:17Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sahel",
@@ -290,9 +290,9 @@
         "Terrorism"
       ],
       "wikipediaPage": "Republican_insurgency_in_Afghanistan",
-      "lastUpdate": "2026-09-27",
+      "lastUpdate": "2026-10-03",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-09-27T14:07:11Z",
+      "wikipediaRevision": "2026-10-03T09:12:53Z",
       "recentNewsCount": 0
     },
     {
@@ -338,7 +338,7 @@
       "wikipediaPage": "War_in_Amhara",
       "lastUpdate": "2026-10-02",
       "wikipediaRevision": "2026-10-02T08:02:50Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "co-fgc",
@@ -405,7 +405,7 @@
       "lastUpdate": "2026-10-02",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-10-02T20:58:44Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "red-sea",
@@ -428,7 +428,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-09-23",
       "wikipediaRevision": "2026-09-23T15:40:55Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "wb-isr",
@@ -449,7 +449,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     }
   ]
 }

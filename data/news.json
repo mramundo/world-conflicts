@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T12:18:02Z",
+  "updated": "2026-10-03T17:02:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-hits-russia-shadow-fleet-in-1st-sanctions-since-putin-trip-to-disputed-isle",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-03T12:17:59Z",
+      "publishedAt": "2026-10-03T17:02:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F5%2F6%2F13276547-2-eng-GB%2Fecd9985d4984-4ad8f5a0.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,28 @@
       "tags": []
     },
     {
-      "id": "ans-a42e067e48e2",
-      "title": "Nuovo appello di Mosca a diplomatici e stranieri, 'lasciate Kiev'",
-      "description": "Kiev avrà bisogno fino a 70 miliardi extra nel 2027 per la guerra. Drone viola lo spazio aereo lituano, rientrata l'allerta alla popolazione",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/nuovo-appello-di-mosca-a-diplomatici-e-stranieri-lasciate-kiev_56200a97-785e-4e6d-b43a-d0b4c6b6621e.html",
+      "id": "the-2903102cb335",
+      "title": "Badenoch returns to Conservative conference much stronger than a year ago",
+      "description": "Approval ratings for Tory leader and her party have crept up as she has asserted her style and authority but big challenges lie aheadA year ago, Tory MPs were braced for the prospect of yet another leadership battle to topple Kemi Badenoch as the party sunk to historic lows of 14-16% in the polls.At the time, the word …",
+      "url": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-03T13:00:01Z",
+      "image": "https://i.guim.co.uk/img/media/de92e7699b3b63761656c56b135d1467b6eedd16/559_0_4163_3329/master/4163.jpg?width=140&quality=85&auto=format&fit=max&s=168743fd5ae35be92f458c10f782adee",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-7c641d8fe378",
+      "title": "L'Ucraina avrà bisogno fino a 70 miliardi extra nel 2027 per la guerra",
+      "description": "Il conflitto pesa più del previsto. Ma resta il nodo delle riforme per avere i fondi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/lucraina-avra-bisogno-fino-a-70-miliardi-extra-nel-2027-per-la-guerra_0915615b-7255-4e13-b466-0bca3f71f524.html",
       "source": "ANSA",
-      "publishedAt": "2026-10-03T10:52:44Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/2/7ab1d3001c34ccd8e4e2407a175515d9.jpg",
+      "publishedAt": "2026-10-03T12:32:29Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/3/a899804c74446f866c753b5f466494b2.jpg",
       "categories": [
         "conflict"
       ],
@@ -81,21 +96,6 @@
       "tags": []
     },
     {
-      "id": "the-70f2a3c6121d",
-      "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – as it happened",
-      "description": "This live blog is now closed.Sign up for the Breaking News US emailSend us your questions on how the Iran war will affect US voters in the midtermsAnd as we bring you the latest on how the jobs report stands to impact voter sentiment ahead of the November midterms, my colleagues have done all the hard work in mapping o…",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-03T01:56:33Z",
-      "image": "https://i.guim.co.uk/img/media/e91428186be6e54fa9b9c471486be6a4402a4390/320_0_4299_3441/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=8d3abd04c8050ae39cc7458901b7ea25",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-9755b951926c",
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
       "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
@@ -127,6 +127,21 @@
       "tags": []
     },
     {
+      "id": "deu-3d4e66a8e73e",
+      "title": "Growing fear of war in the Horn of Africa after Eritrea cuts ties with Ethiopia",
+      "description": "The Tigray conflict is no longer just a domestic issue. As Ethiopia, Eritrea and Egypt trade accusations, the African Union (AU) urges restraint. Is the Horn of Africa hurtling toward a wider regional crisis?",
+      "url": "https://www.dw.com/en/growing-fear-of-war-in-the-horn-of-africa-after-eritrea-cuts-ties-with-ethiopia/a-79513311?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-02T14:22:00Z",
+      "image": "https://static.dw.com/image/79419271_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "un -a219dfc41aeb",
       "title": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
       "description": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
@@ -143,22 +158,6 @@
       "tags": []
     },
     {
-      "id": "deu-ba06ea1e43e6",
-      "title": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
-      "description": "A diplomatic scandal has erupted over two North Korean prisoners of war, with South Korea demanding an apology from Ukraine. What's been the reaction in Kyiv?",
-      "url": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-02T04:40:00Z",
-      "image": "https://static.dw.com/image/79484698_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -3a942a327f02",
       "title": "Military AI: France challenges US dominance over NATO's classified networks",
       "description": "The Arcadia project, unveiled on September 29, aims to massively merge data from the French armed forces to boost their operational effectiveness. A fierce battle has begun against American companies Palantir and Anduril as part of efforts to modernize NATO's structures.",
@@ -171,6 +170,22 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-6843bd98b331",
+      "title": "Afghan Witnesses Say Children Among Victims Of Pakistani Air Strikes",
+      "description": "Pakistani air strikes hit targets in Afghanistan's Kunar and Helmand provinces early on October 1. Pakistani authorities said they were targeting militants operating near the border, but Afghan witnesses said civilians were among the dead, including children. Pakistan accuses Afghanistan's Taliban leaders of harboring …",
+      "url": "https://www.rferl.org/a/afghanistan-pakistani-air-strikes-civilians/33868592.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-01T20:03:49Z",
+      "image": "https://gdb.rferl.org/490315ab-008b-4ee7-e4ea-08df13a87301_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -201,23 +216,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-37380a546b36",
-      "title": "Ukraine Delivers Food By Drone As Russian-Occupied Oleshky Faces Starvation",
-      "description": "Oleshky, a Ukrainian city occupied by Russian forces 9 kilometers from Kherson, is on the brink of a humanitarian catastrophe. Since the occupation and the subsequent bombing of the Kakhovka Hydroelectric Power Station in 2023, the city has been without electricity, gas, or drinking water. Now, Kyiv says locals are sta…",
-      "url": "https://www.rferl.org/a/ukraine-delivers-food-by-drone-as-russian-occupied-oleshky-faces-starvation/33867231.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-09-30T18:43:46Z",
-      "image": "https://gdb.rferl.org/1c6c4d98-809e-4491-e48e-08df13a87301_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     }
   ]

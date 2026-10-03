@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T20:26:22Z",
+  "updated": "2026-10-03T00:13:25Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-hits-russia-shadow-fleet-in-1st-sanctions-since-putin-trip-to-disputed-isle",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-02T20:26:19Z",
+      "publishedAt": "2026-10-03T00:13:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F5%2F6%2F13276547-2-eng-GB%2Fecd9985d4984-4ad8f5a0.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,32 @@
       "tags": []
     },
     {
-      "id": "the-70f2a3c6121d",
-      "title": "White House claims tepid jobs report is proof that Trump’s ‘reindustrialization agenda is working’ – US politics live",
-      "description": "Spokesperson touts manufacturing and factory jobs as top Democrats slam ‘Trump’s failing economic agenda’Sign up for the Breaking News US emailSend us your questions on how the Iran war will affect US voters in the midtermsAnd as we bring you the latest on how the jobs report stands to impact voter sentiment ahead of t…",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-02T20:02:12Z",
-      "image": "https://i.guim.co.uk/img/media/05ca2193011a0441e5a59c5f284e83d2cb465be5/547_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=baab1b740ee42d60bdc280cb4d810966",
+      "id": "al -2a19ba1cac4c",
+      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+      "description": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-03T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260929__C9PK8JE__v1__HighRes__YemenSaudiIranUsIsraelWar-1790980806.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-44c54c07513f",
+      "title": "US sanctions three individuals and two charities over alleged Hamas financing",
+      "description": "The justice and treasury departments said they sent $2m to Hamas through charities and cryptocurrency, while six people were arrested across the US and FranceThe Trump administration on Friday unveiled sanctions against three individuals allegedly related to the Islamist militant group Hamas and against two charities b…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/02/us-sanctions-hamas-financing-network",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-02T22:24:45Z",
+      "image": "https://i.guim.co.uk/img/media/346d34939c4e2abe6eb9ca569c6de126d8e514c4/175_0_3361_2689/master/3361.jpg?width=140&quality=85&auto=format&fit=max&s=70054a2054a7dbf6e23df1df0ef8873b",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -93,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -dab9579c6244",
-      "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
-      "description": "Closure of bridges struck by drones in Ukrainian capital causes traffic chaos.",
-      "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-02T12:47:30Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-02T091639Z_1466282396_RC2VUNAALQOE_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-BRIDGES-1790935313.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

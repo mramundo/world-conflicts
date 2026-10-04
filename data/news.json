@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T10:59:04Z",
+  "updated": "2026-10-04T15:45:11Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-hits-russia-shadow-fleet-in-1st-sanctions-since-putin-trip-to-disputed-isle",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-04T10:59:01Z",
+      "publishedAt": "2026-10-04T15:45:08Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F5%2F6%2F13276547-2-eng-GB%2Fecd9985d4984-4ad8f5a0.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -21,12 +21,43 @@
     },
     {
       "id": "the-46b2b9c32992",
-      "title": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live",
-      "description": "German chancellor tours city with president Zelenskyy after Moscow strikes city’s North Bridge this morning amid his arrivalGermany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.8 billion) since the war began, along with equipment and weapons. Zelenskyy thanked Merz for visiting the Ukrainia…",
+      "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
+      "description": "At least 5,000 people, mainly teenagers, have been arrested while dozens of people, including students and teachers, have been injuredGermany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.8 billion) since the war began, along with equipment and weapons. Zelenskyy thanked Merz for visiting th…",
       "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-10-04T10:45:50Z",
-      "image": "https://i.guim.co.uk/img/media/c35620d2be2fd773dd7b35bec2afb6eb575e856c/0_1210_3066_2452/master/3066.jpg?width=140&quality=85&auto=format&fit=max&s=d1168a29cbff77cd0227a7fc4797535d",
+      "publishedAt": "2026-10-04T14:35:31Z",
+      "image": "https://i.guim.co.uk/img/media/492d44ad34e677cfa238bab5d6f1df6e245b6a75/0_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=818433e4404ba057290808c6d93df130",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -83f143eafd74",
+      "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
+      "description": "Fighting escalates in Taiz governorate as Yemen&#039;s government and Houthis battle for control of key strategic locations.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-04T13:31:15Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260925__C9E87YJ__v1__HighRes__YemenSaudiIranUsIsraelWar-1791108038.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-1e6f9b0cf491",
+      "title": "Israel prepares to mark October 7",
+      "description": "An Israeli strike on a civilian vehicle in Gaza on Sunday killed one Palestinian and wounded at least 11 others. Israel’s military said it was targeting a Hamas militant. Palestinians have reported a surge in Israeli fire and airstrikes across Gaza over the past month, with more than 75,000 people killed and much of th…",
+      "url": "https://www.france24.com/en/israel-prepares-to-mark-october-7",
+      "source": "France24",
+      "publishedAt": "2026-10-04T10:59:38Z",
+      "image": "https://s.france24.com/media/display/9482b6e4-bfe0-11f1-9696-13e372f41e70/w:1024/p:16x9/EN-20261004-120715-121646-CS.jpg",
       "categories": [
         "conflict"
       ],
@@ -50,17 +81,17 @@
       "tags": []
     },
     {
-      "id": "al -dd7fd294be37",
-      "title": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
-      "description": "Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-04T04:09:13Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/wide-thummb-yemen-0310-1791086914.png?resize=1920%2C1080&amp;quality=80",
+      "id": "ans-cdcad13bc49e",
+      "title": "Nuovi raid tra Houthi e sauditi. Riunione segreta a Camp David",
+      "description": "Raid Idf su Gaza City, 5 morti. Vance riunisce i vertici Usa sulle mosse in Medio Oriente",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/03/nuovi-raid-tra-houthi-e-sauditi.-riunione-segreta-a-camp-david_eee90014-2dfd-406c-bd3f-983a6694294c.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-04T03:56:55Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/31/382969264296eeb11cbfaa1f79ca87b3.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -71,28 +102,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-10-03T23:30:06Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f83/live/482f4430-c006-11f1-babe-4199b0e7ccea.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -23cb74d7d629",
-      "title": "Israel targets top Hamas leader in deadly Gaza strike, killing five",
-      "description": "On Saturday, the Israeli military attempted to kill Ali al-Amoudi in a pre-dawn strike on an apartment building. The airstrike killed five people, four of them women; Israel is reviewing whether al-Amoudi was among the dead.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/03/israel-targets-top-hamas-leader-in-deadly-gaza-strike-killing-five_6758223_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-03T21:20:25Z",
-      "image": "https://img.lemde.fr/2026/10/03/399/0/4011/2005/644/322/60/0/d31f4fb_ftp-1-y1sdgty9vfec-2026-10-03t112641z-1064307066-rc2mvnaxdh54-rtrmadp-3-israel-palestinians-gaza.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -111,28 +127,28 @@
       "tags": []
     },
     {
-      "id": "fra-4cce6f2f2c70",
-      "title": "Houthis claim strike on oil facilty near Riyadh, accuse Saudi forces of pounding Yemen's capital",
-      "description": "Houthi rebels accused Saudi forces of launching 26 strikes on Sanaa on Saturday after loud explosions rocked the Yemeni capital. The Iran-backed group said it struck an oil facility south of Riyadh, where flames and a large plume of smoke were seen rising from a plant belonging to oil giant Aramco.",
-      "url": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
-      "source": "France24",
-      "publishedAt": "2026-10-03T14:31:30Z",
-      "image": "https://s.france24.com/media/display/84e4ed72-bf65-11f1-8c8d-13420ab900a2/w:1024/p:16x9/000-D26B6KC.jpg",
+      "id": "the-286a412ac39f",
+      "title": "Ukraine Will Hit Russian Refineries in Response to Moscow's ‘New Doctrine’ of Airstrikes",
+      "description": "Zelensky says Russia's shift represents Putin's desire to appear strong at a time when his military is losing ground in a key frontline region.",
+      "url": "https://www.themoscowtimes.com/2026/10/03/ukraine-will-hit-russian-refineries-in-response-to-moscows-new-doctrine-of-airstrikes-a93864",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-10-03T18:01:54Z",
+      "image": "https://static.themoscowtimes.com/image/og/78/93864__781fdfbb1a9ce6a1145e4a77fff2bbac.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "ans-7c641d8fe378",
-      "title": "L'Ucraina avrà bisogno fino a 70 miliardi extra nel 2027 per la guerra",
-      "description": "Il conflitto pesa più del previsto. Ma resta il nodo delle riforme per avere i fondi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/lucraina-avra-bisogno-fino-a-70-miliardi-extra-nel-2027-per-la-guerra_0915615b-7255-4e13-b466-0bca3f71f524.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-03T12:32:29Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/3/a899804c74446f866c753b5f466494b2.jpg",
+      "id": "le -feba44f77c7c",
+      "title": "Anastasiia Yasagashvili, the Ukrainian collaborator who betrayed her family to the Russians",
+      "description": "Sentenced to 15 years in prison for high treason, Anastasiia Yasagashvili collaborated with Russian forces after her village was occupied, before becoming a double agent. The investigative case file she provided to Le Monde reveals the journey of a young woman who had lost her way, for whom the war became a playground …",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/03/anastasiia-yasagashvili-the-ukrainian-collaborator-who-betrayed-her-family-to-the-russians_6758211_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-03T09:30:02Z",
+      "image": "https://img.lemde.fr/2026/09/22/221/0/7008/3504/644/322/60/0/cb4714d_upload-1-b9hmie8hyt2j-dsc07055-1.JPG",
       "categories": [
         "conflict"
       ],
@@ -199,21 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-973a6fdb9d97",
-      "title": "Russian Orthodox Church Denies That Troops Lost Medieval Warrior Prince’s Relics in Ukraine",
-      "description": "Pro-war Telegram channels reported that Russian forces may have lost the relics during a withdrawal in Ukraine’s Donetsk region.",
-      "url": "https://www.themoscowtimes.com/2026/10/01/russian-orthodox-church-denies-that-troops-lost-medieval-warrior-princes-relics-in-ukraine-a93845",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-10-01T14:01:10Z",
-      "image": "https://static.themoscowtimes.com/image/og/74/93845__745f9f075e82823e2d530b6ae672e1a7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     }

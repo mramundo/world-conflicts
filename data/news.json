@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T04:51:30Z",
+  "updated": "2026-10-04T10:59:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,38 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-hits-russia-shadow-fleet-in-1st-sanctions-since-putin-trip-to-disputed-isle",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-04T04:51:26Z",
+      "publishedAt": "2026-10-04T10:59:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F5%2F6%2F13276547-2-eng-GB%2Fecd9985d4984-4ad8f5a0.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-46b2b9c32992",
+      "title": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live",
+      "description": "German chancellor tours city with president Zelenskyy after Moscow strikes city’s North Bridge this morning amid his arrivalGermany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.8 billion) since the war began, along with equipment and weapons. Zelenskyy thanked Merz for visiting the Ukrainia…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-04T10:45:50Z",
+      "image": "https://i.guim.co.uk/img/media/c35620d2be2fd773dd7b35bec2afb6eb575e856c/0_1210_3066_2452/master/3066.jpg?width=140&quality=85&auto=format&fit=max&s=d1168a29cbff77cd0227a7fc4797535d",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-65fbf2be63fc",
+      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+      "description": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+      "source": "NPR World",
+      "publishedAt": "2026-10-04T10:00:00Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x3000+0+0/resize/4800x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F6f%2F09b190a0450caf4225fc0a616abb%2Fukraine-fox1.jpg",
       "categories": [
         "conflict"
       ],
@@ -32,6 +62,22 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-b233ab73f0d8",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-03T23:30:06Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -110,37 +156,6 @@
       "tags": []
     },
     {
-      "id": "bbc-9755b951926c",
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-02T16:08:25Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc3/live/316213c0-be23-11f1-bf88-854b5521eba9.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-f8bda13bade4",
-      "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
-      "description": "NAZA is an acronym for nezek agavi, Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.",
-      "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
-      "source": "NPR World",
-      "publishedAt": "2026-10-02T14:37:27Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3569x2006+0+86/resize/3569x2006!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2Fb9%2Ffc602b504c2492145b2d4bd9c99d%2Fnaza-still-credit-naza-the-guardian.tiff",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -a219dfc41aeb",
       "title": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
       "description": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
@@ -180,21 +195,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-10-01T18:54:26Z",
       "image": "https://images.csmonitor.com/csm/2026/09/1002_OYEMENIRAN_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-a25ffb2cae48",
-      "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
-      "description": "Team behind documentary push back against IDF attempt to discredit its exposure of military systemsThe team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged acceptance of high numbers of civilian deaths, have revealed they spoke to more than 100 sources…",
-      "url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-01T17:45:09Z",
-      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/253_73_2515_2012/master/2515.jpg?width=140&quality=85&auto=format&fit=max&s=c1f889fb50412b98f8a39eb409809ea0",
       "categories": [
         "conflict"
       ],

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T19:17:36Z",
+  "updated": "2026-10-04T22:51:22Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,29 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-hits-russia-shadow-fleet-in-1st-sanctions-since-putin-trip-to-disputed-isle",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-04T19:17:33Z",
+      "publishedAt": "2026-10-04T22:51:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F5%2F6%2F13276547-2-eng-GB%2Fecd9985d4984-4ad8f5a0.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -84fee034b7b7",
+      "title": "Why does the US want to deport Salah Sarsour?",
+      "description": "A US judge has ruled a prominent Palestinian rights advocate can be deported under a controversial, cold-war era law.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-04T15:36:10Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791128156.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -35,13 +51,13 @@
       "tags": []
     },
     {
-      "id": "al -83f143eafd74",
-      "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
-      "description": "Fighting escalates in Taiz governorate as Yemen&#039;s government and Houthis battle for control of key strategic locations.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-04T13:31:15Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260925__C9E87YJ__v1__HighRes__YemenSaudiIranUsIsraelWar-1791108038.jpg?resize=1920%2C1440",
+      "id": "rfe-398c5fd099eb",
+      "title": "Dodging Drones: An 'Apocalyptic' Journey On The Ukrainian Front Lines",
+      "description": "RFE/RL joined Ukrainian soldiers on a dangerous journey toward Druzhkivka in eastern Ukraine, where Russian drones make roads nearly impassable. Around 2,000 civilians reportedly remain in the city as Russian attacks intensify.",
+      "url": "https://www.rferl.org/a/druzhkivka-under-fire-the-dangerous-road-into-a-ukrainian-city/33868521.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-04T12:31:22Z",
+      "image": "https://gdb.rferl.org/bb4709b7-8368-4bb1-658b-08df13a87200_tv_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
@@ -66,6 +82,21 @@
       "tags": []
     },
     {
+      "id": "le -3f29578cb866",
+      "title": "'It would have been easier to have lost a leg': A former soldier's internal war with PTSD",
+      "description": "The senior corporal took part in France's overseas operations, notably in Afghanistan and Mali. Since the end of his career in 2016, he has suffered repeated outbursts of anger, panic attacks and nightmares. After years of denial, the French military is beginning to recognize the scale of this psychological wound, whic…",
+      "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/10/04/it-would-have-been-easier-to-have-lost-a-leg-a-former-soldier-s-internal-war-with-ptsd_6758234_117.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-04T10:30:10Z",
+      "image": "https://img.lemde.fr/2026/09/18/234/0/1206/603/644/322/60/0/aacabed_ftp-1-7ryoi8opoc8k-444305-3499217.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "npr-65fbf2be63fc",
       "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
       "description": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
@@ -77,21 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-cdcad13bc49e",
-      "title": "Nuovi raid tra Houthi e sauditi. Riunione segreta a Camp David",
-      "description": "Raid Idf su Gaza City, 5 morti. Vance riunisce i vertici Usa sulle mosse in Medio Oriente",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/03/nuovi-raid-tra-houthi-e-sauditi.-riunione-segreta-a-camp-david_eee90014-2dfd-406c-bd3f-983a6694294c.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-04T03:56:55Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/31/382969264296eeb11cbfaa1f79ca87b3.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -142,21 +158,6 @@
       "tags": []
     },
     {
-      "id": "le -feba44f77c7c",
-      "title": "Anastasiia Yasagashvili, the Ukrainian collaborator who betrayed her family to the Russians",
-      "description": "Sentenced to 15 years in prison for high treason, Anastasiia Yasagashvili collaborated with Russian forces after her village was occupied, before becoming a double agent. The investigative case file she provided to Le Monde reveals the journey of a young woman who had lost her way, for whom the war became a playground …",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/03/anastasiia-yasagashvili-the-ukrainian-collaborator-who-betrayed-her-family-to-the-russians_6758211_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-03T09:30:02Z",
-      "image": "https://img.lemde.fr/2026/09/22/221/0/7008/3504/644/322/60/0/cb4714d_upload-1-b9hmie8hyt2j-dsc07055-1.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-05e19c505df5",
       "title": "Russian Drill Simulates Incursion, ‘Security Zone’ in Tsentr-2026 Games",
       "description": "Russian forces practiced transitioning to an offensive and creating a “security zone” inside the territory of a neighboring state during the strategic Tsentr-2026 exercises in the Central Asian direction, according to Kremlin reports. Analysts noted Kazakhstan fits the profile of the simulated adversary as over 47,000 …",
@@ -200,22 +201,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-6843bd98b331",
-      "title": "Afghan Witnesses Say Children Among Victims Of Pakistani Air Strikes",
-      "description": "Pakistani air strikes hit targets in Afghanistan's Kunar and Helmand provinces early on October 1. Pakistani authorities said they were targeting militants operating near the border, but Afghan witnesses said civilians were among the dead, including children. Pakistan accuses Afghanistan's Taliban leaders of harboring …",
-      "url": "https://www.rferl.org/a/afghanistan-pakistani-air-strikes-civilians/33868592.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-01T20:03:49Z",
-      "image": "https://gdb.rferl.org/490315ab-008b-4ee7-e4ea-08df13a87301_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     }
   ]

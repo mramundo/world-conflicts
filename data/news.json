@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T15:45:11Z",
+  "updated": "2026-10-04T19:17:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-hits-russia-shadow-fleet-in-1st-sanctions-since-putin-trip-to-disputed-isle",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-04T15:45:08Z",
+      "publishedAt": "2026-10-04T19:17:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F5%2F6%2F13276547-2-eng-GB%2Fecd9985d4984-4ad8f5a0.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -97,7 +97,7 @@
     },
     {
       "id": "bbc-b233ab73f0d8",
-      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "title": "Why Canada is wargaming a (long shot) US invasion",
       "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
       "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -172,6 +172,21 @@
       "tags": []
     },
     {
+      "id": "cs -d1b604a077ab",
+      "title": "In Gaza, farmers rescue roots buried under rubble to grow fruit again",
+      "description": "Gazan fig and date farmers are replanting crops from roots that survived years of Israeli bombing.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/1002/gaza-rebuilding-ceasefire-farming-figs-grapes-sheikh-ijlin?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-10-02T18:36:31Z",
+      "image": "https://images.csmonitor.com/csm/2026/09/0922_OGAZAFIGS_lede_2.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "un -a219dfc41aeb",
       "title": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
       "description": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
@@ -201,21 +216,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -a76d0b30b847",
-      "title": "Houthi militia now leads Iran’s ‘Axis.’ But how much can Tehran count on it?",
-      "description": "Iranian officials and pundits laud the militia group’s gains as their own. At the same time, some media coverage appears designed to convince the Houthis to be better team players.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/1001/iran-axis-alliance-yemen-houthis-autonomy?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-10-01T18:54:26Z",
-      "image": "https://images.csmonitor.com/csm/2026/09/1002_OYEMENIRAN_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     }
   ]

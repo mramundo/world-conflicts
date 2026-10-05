@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-05T08:34:25Z",
+  "updated": "2026-10-05T18:03:48Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-hits-russia-shadow-fleet-in-1st-sanctions-since-putin-trip-to-disputed-isle",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-05T08:34:21Z",
+      "publishedAt": "2026-10-05T18:03:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F5%2F6%2F13276547-2-eng-GB%2Fecd9985d4984-4ad8f5a0.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,33 +20,124 @@
       "tags": []
     },
     {
-      "id": "fra-480b03ee1205",
-      "title": "Yemen launches more than 1,000 strikes in bid to retake territory lost to Houthi rebels",
-      "description": "The Yemeni military announced on Monday that it will launch a broad set of strikes against Iran-backed Houthi targets in an attempt to retake lost territory. The Houthis launched an offensive in September, which killed hundreds of combatants on both sides, according to UN figures, and has since become the most active f…",
-      "url": "https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory",
-      "source": "France24",
-      "publishedAt": "2026-10-05T08:12:54Z",
-      "image": "https://s.france24.com/media/display/3df66fda-c091-11f1-a1a7-578a4b968fd6/w:1024/p:16x9/AP26265728988880.jpg",
+      "id": "bbc-fe13e899d716",
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "description": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-05T15:17:23Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/545c/live/9d4a7fd0-c0cd-11f1-a64c-550be9e3c66b.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -e4c5ec6e1cbf",
-      "title": "Yemen gov’t forces commence major combat operation against Houthis",
-      "description": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-05T03:11:03Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/WIDE-THUMB-YEMEN-LATEST-0410-1791169809.png?resize=1920%2C1080&amp;quality=80",
+      "id": "le -c99f8d350971",
+      "title": "Constant atmosphere of war is gripping Kyiv residents: 'The enemy is destroying the city'",
+      "description": "Since Russian strikes intensified at the end of August, daily life in the Ukrainian capital has been marked by air raid alerts and bombings, upending the lives of residents, who, for now, are refusing to resign themselves to a new exodus.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/05/constant-atmosphere-of-war-is-gripping-kyiv-residents-the-enemy-is-destroying-the-city_6758266_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-05T15:11:49Z",
+      "image": "https://img.lemde.fr/2026/10/04/160/0/4300/2150/644/322/60/0/df6b36c_upload-1-pnkpg1zovs3y-kiev-ambiance-vnguyenhoang-15.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-92e77ddc5b60",
+      "title": "Yemen government forces announce offensive on Houthi-held territory",
+      "description": "The internationally recognised Yemeni government announced on Sunday the launch of an offensive ‌to recapture territory held by Houthi rebels, with President Rashad al-Alimi swearing to fight \"until the country is liberated from the grip of the terrorist militia\".",
+      "url": "https://www.france24.com/en/video/20261005-yemen-government-forces-announce-offensive-on-houthi-held-territory",
+      "source": "France24",
+      "publishedAt": "2026-10-05T14:59:46Z",
+      "image": "https://s.france24.com/media/display/07abbf54-c0cb-11f1-949b-69fad0a7cb9f/w:1024/p:16x9/EN-20261005-141904-142040-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1a6798d83a23",
+      "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
+      "description": "UN warns US boat strikes in the Caribbean counter-drug war may violate international law and human rights principles.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-05T14:58:02Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac3affe-1791209470.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-338198a46392",
+      "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
+      "description": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+      "source": "NPR World",
+      "publishedAt": "2026-10-05T12:33:20Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fb3%2Fac2906f348dbafe598d23a182540%2Fkill-zone-1-ap26256289085734.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-bb34e8132077",
+      "title": "Netanyahu, 'il regime iraniano è destinato a sparire'",
+      "description": "'Nessun governo di Hamas a Gaza'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/netanyahu-il-regime-iraniano-e-destinato-a-sparire_1f982a57-d3ba-40af-bd84-1102c71dfad1.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-05T12:06:15Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/5/a3fc6558cc9c52e69d7475d129b0af68.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -5b55594fa84e",
+      "title": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan",
+      "description": "The World Food Programme (WFP) has strongly condemned a deadly airstrike on two clearly marked aid trucks in South Kordofan, Sudan, this past weekend.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168519",
+      "source": "UN News",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/01-07-2026-WHO-Sudan.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-2162633d0fdb",
+      "title": "Ukrainian Singer Returns Home From US To Perform For Ukrainian Soldiers Near Front Line",
+      "description": "After studying at Berklee and building a career in New York, Ukrainian singer Valeriia Vovk returned home to perform for troops, including near the front. She says simply being there, talking to soldiers and singing for them, has great value.",
+      "url": "https://www.rferl.org/a/ukrainian-singer-returns-home-from-us-to-perform-for-ukrainian-soldiers/33870626.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-05T11:57:07Z",
+      "image": "https://gdb.rferl.org/7f85d07a-db55-41ed-72f5-08df13a869ed_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -65,79 +156,17 @@
       "tags": []
     },
     {
-      "id": "rfe-398c5fd099eb",
-      "title": "Dodging Drones: An 'Apocalyptic' Journey On The Ukrainian Front Lines",
-      "description": "RFE/RL joined Ukrainian soldiers on a dangerous journey toward Druzhkivka in eastern Ukraine, where Russian drones make roads nearly impassable. Around 2,000 civilians reportedly remain in the city as Russian attacks intensify.",
-      "url": "https://www.rferl.org/a/druzhkivka-under-fire-the-dangerous-road-into-a-ukrainian-city/33868521.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-04T12:31:22Z",
-      "image": "https://gdb.rferl.org/bb4709b7-8368-4bb1-658b-08df13a87200_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -3f29578cb866",
-      "title": "'It would have been easier to have lost a leg': A former soldier's internal war with PTSD",
-      "description": "Jérôme, a senior corporal, took part in France's overseas operations, notably in Afghanistan and Mali. Since the end of his career in 2016, he has suffered repeated outbursts of anger, panic attacks and nightmares. After years of denial, the French military is beginning to recognize the scale of this psychological woun…",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/10/04/it-would-have-been-easier-to-have-lost-a-leg-a-former-soldier-s-internal-war-with-ptsd_6758234_117.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-04T10:30:05Z",
-      "image": "https://img.lemde.fr/2026/09/18/234/0/1206/603/644/322/60/0/aacabed_ftp-1-7ryoi8opoc8k-444305-3499217.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-65fbf2be63fc",
-      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-      "description": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-      "source": "NPR World",
-      "publishedAt": "2026-10-04T10:00:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x3000+0+0/resize/4800x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F6f%2F09b190a0450caf4225fc0a616abb%2Fukraine-fox1.jpg",
+      "id": "deu-ab6fb2e2f2d9",
+      "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+      "description": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
+      "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-04T03:48:00Z",
+      "image": "https://static.dw.com/image/79467112_6.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-b233ab73f0d8",
-      "title": "Why Canada is wargaming a (long shot) US invasion",
-      "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-03T23:30:06Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f83/live/482f4430-c006-11f1-babe-4199b0e7ccea.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-a3b12ab44301",
-      "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
-      "description": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
-      "url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-03T18:49:00Z",
-      "image": "https://static.dw.com/image/79406929_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -183,22 +212,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -a219dfc41aeb",
-      "title": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
-      "description": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168506",
-      "source": "UN News",
-      "publishedAt": "2026-10-02T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/02-10-2026_UNHCR_Ethiopia_RefugeeEducation.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     }

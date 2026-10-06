@@ -1,69 +1,100 @@
 {
-  "updated": "2026-10-06T14:50:23Z",
+  "updated": "2026-10-06T20:01:55Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "fra-5a829bc470c1",
-      "title": "Ethiopia 'fears Tigray conflict could get out of control'",
-      "description": "Airstrikes and artillery fire rocked northern Ethiopia's Tigray region overnight into Monday, aid sources said, in clashes between federal government and rebel forces that have raised fears of wider fighting. France 24's Philip Turle says that the Ethiopian government is pushing into Tigray territory amid fears the con…",
-      "url": "https://www.france24.com/en/video/20261006-ethiopia-fears-tigray-conflict-could-get-out-of-control",
-      "source": "France24",
-      "publishedAt": "2026-10-06T14:11:00Z",
-      "image": "https://s.france24.com/media/display/c34eba92-c18c-11f1-b19c-0f96b136895a/w:1024/p:16x9/EN-20261006-143631-143939-CS.jpg",
+      "id": "nik-de0e9d6fa226",
+      "title": "Japan's Marubeni, Sumitomo Forestry help combat Indonesian forest fires",
+      "description": "",
+      "url": "https://asia.nikkei.com/spotlight/environment/japan-s-marubeni-sumitomo-forestry-help-combat-indonesian-forest-fires",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-10-06T20:01:53Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F6%2F2%2F5%2F13285268-2-eng-GB%2F35d107afda87-photo_SXM2026092800014921.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "deu-29c9c564ff15",
-      "title": "Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric",
-      "description": "Ethiopia's Prime Minister Abiy Ahmed is consolidating power, but he must contend with a regional alliance opposing him and a Tigray conflict that could spill over into Eritrea.",
-      "url": "https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-world-4025-rdf",
+      "id": "cs -98ca8911a340",
+      "title": "United in anti-US sentiment, Iran and Russia forge solidifying partnership",
+      "description": "Deepening ties between Iran and Russia are paying off for both powers, especially on the battlefield.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/1006/iran-russia-military-technology-partnership?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-10-06T18:27:27Z",
+      "image": "https://images.csmonitor.com/csm/2026/10/1006_OIRANRUSSIA_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-e26c244a1754",
+      "title": "EU seeks ways to make expansion more palatable to members",
+      "description": "The European Commission has put forward ideas it hopes will both ease the EU expansion process and allay concerns among existing members. Several countries, not least war-torn Ukraine, are among the candidates.",
+      "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
-      "publishedAt": "2026-10-06T13:32:00Z",
-      "image": "https://static.dw.com/image/79554493_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-82350a7a2bb4",
-      "title": "‘Deranged’ and ‘dangerous’ Trump calls for Iran to strike US cities amid historic ratings low | First Thing",
-      "description": "California’s leaders attack president after he suggests Iran could ‘take out’ Los Angeles or San Diego. Plus an auction of some of the most famous props in movie historyDon’t already get First Thing in your inbox? Sign up hereGood morning. Donald Trump has suggested Iran could “take out” Los Angeles and San Diego, in c…",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/first-thing-donald-trump-iran-strikes-us-cities",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-06T12:29:42Z",
-      "image": "https://i.guim.co.uk/img/media/cba04eaa98b626f8bd260ccf50c7295afd19267e/624_0_6215_4975/master/6215.jpg?width=140&quality=85&auto=format&fit=max&s=3f4aca62e04aa97e2000b08f188a8f20",
+      "publishedAt": "2026-10-06T18:02:00Z",
+      "image": "https://static.dw.com/image/79508988_6.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -ea0b95a835f1",
-      "title": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
-      "description": "Western media under scrutiny for promoting Israeli narrative rather than standing up for vulnerable journalists in Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-06T11:47:03Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-1978427240-1791280769.jpg?resize=1920%2C1440",
+      "id": "the-c331f4aaf953",
+      "title": "Will the Iran war cost Trump in the US midterm elections? Your questions answered",
+      "description": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? Guardian political and foreign correspondents answered your questionsSign up for the Stakes newsletter for more midterms coverageKafkasDog asks: As it’s increasingly clear that Trump is not mentally fit, and that a…",
+      "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-06T17:30:12Z",
+      "image": "https://i.guim.co.uk/img/media/44efb0f2966e10a44d1d9629807a8e84a0397b12/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a5a06c453f44b82874aeab62ca29e6a5",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 9,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -a0da0fc0e572",
+      "title": "What would it take for the Yemen offensive to succeed?",
+      "description": "Territorial gains alone will not be enough to change the trajectory of the war.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/6/what-would-it-take-for-the-yemen-offensive-to-succeed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-06T16:46:06Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac50dab2555-1791298987_c0ed8b-1791305136.jpg?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-1054e0328d33",
+      "title": "'We were naive' about Hamas, Israeli ex-hostage Shoshan Haran says",
+      "description": "In an interview with FRANCE 24, Israeli former hostage Shoshan Haran said \"we were naive\" about Hamas before the October 7, 2023 attack on her kibbutz. Held in Gaza for 50 days, she recalled refusing to \"show weakness\" to her captors. She also called the accusations of genocide against Israel \"a lie\" and shared her lat…",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261006-we-were-naive-about-hamas-israeli-ex-hostage-shoshan-haran-says",
+      "source": "France24",
+      "publishedAt": "2026-10-06T15:01:53Z",
+      "image": "https://s.france24.com/media/display/f7cb8caa-c0bf-11f1-ac40-1ff0321dbbd3/w:1024/p:16x9/MONTAGE-SHOSHAN-HARAN.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -123,21 +154,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-338198a46392",
-      "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
-      "description": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
-      "url": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
-      "source": "NPR World",
-      "publishedAt": "2026-10-05T12:33:20Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fb3%2Fac2906f348dbafe598d23a182540%2Fkill-zone-1-ap26256289085734.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T00:38:56Z",
+  "updated": "2026-10-06T07:18:05Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-10-02T23:31:51Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-10-04",
       "wikipediaRevision": "2026-10-04T12:21:01Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 2
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-10-05",
       "wikipediaRevision": "2026-10-05T21:41:08Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "sd-war",
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 0
     },
     {
       "id": "sy-war",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-09-18",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-09-18T21:14:17Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sahel",
@@ -247,8 +247,8 @@
         "Crime war"
       ],
       "wikipediaPage": "Mexican_drug_war",
-      "lastUpdate": "2026-10-05",
-      "wikipediaRevision": "2026-10-05T22:30:17Z",
+      "lastUpdate": "2026-10-06",
+      "wikipediaRevision": "2026-10-06T04:14:24Z",
       "recentNewsCount": 0
     },
     {
@@ -428,7 +428,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-10-04",
       "wikipediaRevision": "2026-10-04T22:38:20Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 0
     },
     {
       "id": "wb-isr",
@@ -449,7 +449,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-07T06:56:30Z",
+  "updated": "2026-10-07T14:20:45Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/environment/japan-s-marubeni-sumitomo-forestry-help-combat-indonesian-forest-fires",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-07T06:56:27Z",
+      "publishedAt": "2026-10-07T14:20:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F6%2F2%2F5%2F13285268-2-eng-GB%2F35d107afda87-photo_SXM2026092800014921.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,18 +20,80 @@
       "tags": []
     },
     {
-      "id": "al -af91b2fe15d3",
-      "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
-      "description": "Russia’s Defence Ministry says its forces carried out a &#039;massive strike&#039; on Kyiv and other Ukrainian regions.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-07T06:19:26Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-07T051447Z_1155130084_RC21YNAC4VSS_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1791350546.jpg?resize=1920%2C1440",
+      "id": "the-0e4192328379",
+      "title": "Israel marks third anniversary of 7 October Hamas attacks | First Thing",
+      "description": "Site of the Nova music festival near Re’im one of the locations where grieving relatives have gathered. Plus, the unlikely legal tussle over a ‘brain rot’ memeDon’t already get First Thing in your inbox? Sign up hereGood morning. Israel is holding ceremonies and gatherings to mark the third anniversary of the 7 October…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/first-thing-israel-marks-third-anniversary-7-october-hamas-attacks",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-07T11:53:44Z",
+      "image": "https://i.guim.co.uk/img/media/a5fc2e03387f0027bbfe107e82b0d8d72565b497/517_0_6199_4962/master/6199.jpg?width=140&quality=85&auto=format&fit=max&s=1676925d931e83290b2fc41f90a79188",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 12,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-3a5d9a362d57",
+      "title": "Oil Tanker Hit By Naval Drones Near Sochi, Sparking Massive Fire On Black Sea",
+      "description": "A Liberian-flagged oil tanker caught fire off the Russian resort city of Sochi after an apparent drone attack, Russian authorities said on October 6. The 23 crew members, all Indian, were rescued. The Ukrainian monitoring site BlackSeaNews identified the vessel as part of Russia’s so-called shadow fleet, which is used …",
+      "url": "https://www.rferl.org/a/oil-tanker-hit-by-naval-drone-near-sochi-sparking-massive-fire-on-black-sea/33872002.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-07T10:32:24Z",
+      "image": "https://gdb.rferl.org/763fbd6d-ef9b-45ab-4949-08df13aec0bb_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "cs -4bf2ad7eeb02",
+      "title": "After 3 years of war, looking for calm in a murky Gaza swimming pool",
+      "description": "Before Israel’s invasion of Gaza on Oct. 7, 2023, Ghada Abdulfattah loved to swim at her local pool. Now, she is tentatively returning to the water.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/1007/Gaza-swimming-lessons-ceasefire-life?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-10-07T09:00:17Z",
+      "image": "https://images.csmonitor.com/csm/2026/10/1006_OGAZASWIMMING_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -3846f5055230",
+      "title": "Israel, three years after October 7: A nation's traumas and blind spots",
+      "description": "Amid an election campaign, Israel is commemorating the victims of the Hamas terrorist attack. Since the tragedy, the country has pursued an endless war, driven by a desire for revenge, without questioning the failures that led to the disaster.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/07/israel-three-years-after-october-7-a-nation-s-traumas-and-blind-spots_6758345_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-07T09:00:06Z",
+      "image": "https://img.lemde.fr/2026/10/05/720/0/8640/4320/644/322/60/0/a892d08_ftp-1-vh9wup4f3pku-8ba30acd179b437ab5dc4370bc427e58-0-6c661c3816b0444aa71f81f81386323b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -d82540befb08",
+      "title": "What does a year-long ceasefire in Gaza look like?",
+      "description": "Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-07T08:55:12Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/BTN_Thumbnail_Landscape_V07-1791363279.png?resize=1920%2C1008&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -66,21 +128,6 @@
       "tags": []
     },
     {
-      "id": "fra-89b7a19aefd2",
-      "title": "At least two killed in fire caused by 'massive strikes' on Kyiv",
-      "description": "At least two people were killed in a fire in Kyiv after what President Volodymyr Zelensky described as\"massive strikes\" on the Ukrainian capital on Wednesday. Ukraine has come under increased attack in recent weeks as Russian attacks have targeted energy infrastructure and rail and road transport.",
-      "url": "https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv",
-      "source": "France24",
-      "publishedAt": "2026-10-07T05:56:19Z",
-      "image": "https://s.france24.com/media/display/8bc7294e-c211-11f1-8aec-ff8cff4603f0/w:1024/p:16x9/2026-10-07T053758Z-164245437-RC22YNA4P69K-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-a6842562217f",
       "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
       "description": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
@@ -103,21 +150,6 @@
       "source": "ANSA",
       "publishedAt": "2026-10-06T22:02:05Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/15/65a0a61963b9e54ddc73c48374399c69.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -98ca8911a340",
-      "title": "United in anti-US sentiment, Iran and Russia forge solidifying partnership",
-      "description": "Deepening ties between Iran and Russia are paying off for both powers, especially on the battlefield.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/1006/iran-russia-military-technology-partnership?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-10-06T18:27:27Z",
-      "image": "https://images.csmonitor.com/csm/2026/10/1006_OIRANRUSSIA_lede.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
@@ -157,36 +189,6 @@
       "tags": []
     },
     {
-      "id": "le -fcb8e0da6cce",
-      "title": "Three years after October 7: Despite pain, two former Hamas hostages promote message of peace",
-      "description": "Among the 251 Israelis taken captive by Hamas on October 7, 2023, Aviva and Keith Siegel chose to speak publicly about the abuse they suffered. While Prime Minister Benjamin Netanyahu has claimed the release of hostages as an achievement in his election campaign, the couple in their 60s has continued to oppose the war.",
-      "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/10/06/three-years-after-october-7-despite-pain-two-former-hamas-hostages-promote-message-of-peace_6758284_117.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-06T02:00:09Z",
-      "image": "https://img.lemde.fr/2026/09/28/225/0/1500/750/644/322/60/0/5ce6edf_ftp-1-6gvpodu4rz3f-445523-3509310.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-3fd55062614f",
-      "title": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
-      "description": "Government offensive launched under air cover by Saudi military coalition aims to retake all Houthi-held territoryForces of the Saudi-led coalition fighting in Yemen have recaptured several key areas around Bab al-Mandab strait from Iran-backed Houthi rebels, Yemeni officials said on Monday.The officials said forces al…",
-      "url": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-05T19:44:01Z",
-      "image": "https://i.guim.co.uk/img/media/b802933cfbf7aca2e0f944a27af29d25519a740d/370_0_3686_2950/master/3686.jpg?width=140&quality=85&auto=format&fit=max&s=23ac6061896f85f31eb4ee1a1401e08d",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -5b55594fa84e",
       "title": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan",
       "description": "The World Food Programme (WFP) has strongly condemned a deadly airstrike on two clearly marked aid trucks in South Kordofan, Sudan, this past weekend.",
@@ -199,22 +201,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-2162633d0fdb",
-      "title": "Ukrainian Singer Returns Home From US To Perform For Ukrainian Soldiers Near Front Line",
-      "description": "After studying at Berklee and building a career in New York, Ukrainian singer Valeriia Vovk returned home to perform for troops, including near the front. She says simply being there, talking to soldiers and singing for them, has great value.",
-      "url": "https://www.rferl.org/a/ukrainian-singer-returns-home-from-us-to-perform-for-ukrainian-soldiers/33870626.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-05T11:57:07Z",
-      "image": "https://gdb.rferl.org/7f85d07a-db55-41ed-72f5-08df13a869ed_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     }
   ]

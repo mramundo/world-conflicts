@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T00:46:29Z",
+  "updated": "2026-10-08T07:04:19Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,13 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/environment/japan-s-marubeni-sumitomo-forestry-help-combat-indonesian-forest-fires",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-08T00:46:26Z",
+      "publishedAt": "2026-10-08T07:04:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F6%2F2%2F5%2F13285268-2-eng-GB%2F35d107afda87-photo_SXM2026092800014921.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-8ac4f979d690",
+      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+      "description": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-08T03:32:35Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7a/live/b062fdf0-c2b6-11f1-babe-4199b0e7ccea.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -63bc0e88be2b",
+      "title": "Why is Guantanamo prison still open?",
+      "description": "Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-08T01:49:11Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791424140.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -61,36 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-515b2afcafd9",
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "description": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-07T20:27:03Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d466/live/028c9160-c28d-11f1-81d9-d568e8babc26.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -84066a038b6c",
-      "title": "Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare",
-      "description": "Eritrea dismisses allegation as Ethiopia&#039;s pretext for more war.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-07T18:43:47Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac67a9091e8-1791392400.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,9 +1,40 @@
 {
-  "updated": "2026-10-08T21:06:16Z",
+  "updated": "2026-10-09T01:47:54Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -75f23ee247b1",
+      "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
+      "description": "Tigray’s renewed war is testing Ethiopia’s already strained regional ties.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-09T00:08:33Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab627b8ba11-1790322616.jpg?resize=1920%2C1356",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -3a6b7e1ba518",
+      "title": "Pro-Iran groups behind foiled attack on Bank of America in Paris, FBI finds",
+      "description": "According to information the FBI shared with French authorities, an Iraqi man linked to pro-Iran groups is suspected of having orchestrated a recent wave of attacks in Europe targeting American and Jewish sites, including the March 28 attempted terrorist attack. He was arrested by US authorities in Turkey.",
+      "url": "https://www.lemonde.fr/en/france/article/2026/10/08/pro-iran-groups-behind-foiled-attack-on-bank-of-america-in-paris-fbi-finds_6758400_7.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-08T19:03:45Z",
+      "image": "https://img.lemde.fr/2026/10/08/1000/0/6000/3000/644/322/60/0/deecd8c_upload-1-w0q1mriflbkt-000-a62h4zw.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "fra-e3ad0edaa630",
       "title": "Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'",
@@ -16,21 +47,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -a6df39fea56b",
-      "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
-      "description": "At least 33 people were killed after a Russian strike hit two civilian buses in a city within the Donestsk region.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-08T17:07:18Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791479208.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -152,22 +168,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d71/live/8af61620-c233-11f1-a64c-550be9e3c66b.jpg",
       "categories": [
         "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -29368359e79d",
-      "title": "In Somalia, war cuts off aid for entire populations threatened by famine",
-      "description": "Violent clashes between rival government factions have further worsened the food crisis affecting nearly seven million Somalis. Fleeing drought and hunger, refugees continue to pour into camps where humanitarian organizations have a presence, as the Islamist group Al-Shabab has banned them from certain areas.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/08/war-cuts-off-entire-somalians-threatened-by-famine-from-humanitarian-aid_6758371_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-08T02:00:09Z",
-      "image": "https://img.lemde.fr/2026/10/05/23/0/3520/1760/644/322/60/0/a2d614d_upload-1-rni29f0elpzf-068-aa-09062025-2279751.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
       ],
       "relevanceScore": 11,
       "isAnalysis": false,

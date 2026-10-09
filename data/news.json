@@ -1,22 +1,37 @@
 {
-  "updated": "2026-10-09T01:47:54Z",
+  "updated": "2026-10-09T08:36:23Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -75f23ee247b1",
-      "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
-      "description": "Tigray’s renewed war is testing Ethiopia’s already strained regional ties.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
+      "id": "nik-19e98e577652",
+      "title": "Taliban face civil war as China's Afghanistan-Pakistan mediation fails",
+      "description": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/afghanistan-turmoil/taliban-face-civil-war-as-china-s-afghanistan-pakistan-mediation-fails",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-10-09T08:36:20Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F0%2F5%2F13295024-3-eng-GB%2F877ee8196e50-1re.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4a502054ff2a",
+      "title": "How October 7 changed Lebanon and Hezbollah’s political reality",
+      "description": "Analysts say Hezbollah&#039;s decision on October 8 to join a &#039;war of support&#039; for Gaza changed Lebanon&#039;s political reality.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-09T00:08:33Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab627b8ba11-1790322616.jpg?resize=1920%2C1356",
+      "publishedAt": "2026-10-09T05:52:49Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab9aecc9b35-1790553804.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "isAnalysis": true,
       "tags": []
     },
@@ -51,6 +66,21 @@
       "tags": []
     },
     {
+      "id": "the-f25d5f4d7300",
+      "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+      "description": "Government forces’ attack raises risk of internal conflict in Ethiopia that could trigger regional war Eritrean troops who crossed into Ethiopia’s Tigray region have come under drone attack from government forces, raising the risk that renewed internal conflict in Ethiopia could trigger an all-out regional war between …",
+      "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-08T16:11:32Z",
+      "image": "https://i.guim.co.uk/img/media/f7c272706a6817166fefebedc2838a834bf21ffd/647_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=d6b6513cc3e2a4d642983422ab695203",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-ddc93aa1f0b7",
       "title": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond",
       "description": "The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.",
@@ -79,21 +109,6 @@
         "humanitarian"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-39692cd67e3b",
-      "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-      "description": "Zelenskyy says Kremlin deliberately targeted ‘ordinary public transport stop’ in Kramatorsk, with 18 woundedA Russian missile strike on a bus in the eastern city of Kramatorsk has killed at least 30 people, officials have said, in one of the worst attacks by Moscow on Ukrainian civilians this year.The regional prosecut…",
-      "url": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-08T14:00:05Z",
-      "image": "https://i.guim.co.uk/img/media/f6cb4a9eaf657f6399da688570ffe6304244c31f/340_18_2529_2023/master/2529.jpg?width=140&quality=85&auto=format&fit=max&s=6724e97a2f416215423fc1de10178be3",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

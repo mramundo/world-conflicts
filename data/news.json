@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:21:26Z",
+  "updated": "2026-10-10T18:16:16Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/trump-sanctions-will-not-break-the-icc-court-s-special-adviser-declares",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-10T13:21:21Z",
+      "publishedAt": "2026-10-10T18:16:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F3%2F5%2F2%2F13302536-1-eng-GB%2F017399ce8d29-photo_SXM2026101000000573.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,68 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -3163051779b8",
+      "title": "Zelensky blasts Trump-Putin diesel deal as Russian strikes kill 16",
+      "description": "Zelensky said Russia was expressing its 'thanks' with the attack on a residential building in Zaporizhzhia.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/10/zelensky-blasts-trump-putin-diesel-deal-as-russian-strikes-kill-16_6758464_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-10T17:12:26Z",
+      "image": "https://img.lemde.fr/2026/10/10/618/0/3926/1963/644/322/60/0/61796f3_ftp-1-bja1nue0luvk-2026-10-10t133048z-720981221-rc290oanjz1s-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-dfb6feab6a76",
+      "title": "Russian attack on Ukrainian city kills 15, a day after Trump eases diesel sanctions on Moscow",
+      "description": "Fifteen people, including three children, were killed in a Russian attack on the southern Ukrainian city of Zaporizhzhia on Saturday, a day after US President Donald Trump announced a deal to lift sanctions on Russian diesel, in a major setback for Kyiv. Our correspondent Gulliver Cragg tells us more.",
+      "url": "https://www.france24.com/en/video/20261010-russian-attack-on-ukrainian-city-kills-15-a-day-after-trump-eases-diesel-sanctions-on-moscow",
+      "source": "France24",
+      "publishedAt": "2026-10-10T15:39:23Z",
+      "image": "https://s.france24.com/media/display/8e5600e2-c4b2-11f1-9e1c-29a2e29ae696/w:1024/p:16x9/EN-20261010-130824-131303-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-57fdd6ba4cad",
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-10T14:49:32Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a17b/live/c6c5e2c0-c4b8-11f1-a64c-550be9e3c66b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -f54d6af072fe",
+      "title": "Why is the US sanctioning the International Criminal Court?",
+      "description": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T14:19:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2292621652-1788482517.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -36,39 +98,8 @@
       "tags": []
     },
     {
-      "id": "al -e9357441f3eb",
-      "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
-      "description": "At least 1,481 Palestinians killed in Israeli attacks since last year&#039;s &#039;ceasefire&#039;, Gaza&#039;s Health Ministry says.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T12:40:57Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6aca2ad5-1791634133.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -ff6759452b45",
-      "title": "US announces ICC sanctions and issues ultimatum to member states",
-      "description": "After threatening to dismantle the International Criminal Court, the US announced Friday that it intends to impose sanctions on it to stop it from operating. Washington is seeking the cancellation of arrest warrants for crimes against humanity against Israel's Benjamin Netanyahu and Yoav Gallant.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/10/us-announces-icc-sanctions-and-issues-ultimatum-to-member-states_6758453_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-10T10:26:16Z",
-      "image": "https://img.lemde.fr/2026/10/09/875/0/5250/2625/644/322/60/0/99a1c5f_ftp-1-gyamqqq8jf64-5307615-01-06.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-d5c1cd5f0467",
-      "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
+      "title": "Photos: What a year of ceasefire in Gaza looks like",
       "description": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
       "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
       "source": "NPR World",
@@ -94,36 +125,6 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-2b3762f9568b",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-10T04:38:20Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c49/live/850032c0-c470-11f1-94f2-dbc7ff6db92b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-8e57eaa24909",
-      "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
-      "description": "US President Donald Trump said Friday that Russia had agreed to immediately supply more than 300,000 tonnes of diesel to US and global markets in an effort to cut fuel prices before November's midterm elections. The move marks a stunning change of policy after the US and its allies hit Russia with waves of sanctions ov…",
-      "url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
-      "source": "France24",
-      "publishedAt": "2026-10-09T20:00:24Z",
-      "image": "https://s.france24.com/media/display/12b624b2-c417-11f1-bda1-e362370cce2e/w:1024/p:16x9/000-C4EQ663-1.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

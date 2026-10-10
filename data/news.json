@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-10T18:16:16Z",
+  "updated": "2026-10-10T22:17:04Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/trump-sanctions-will-not-break-the-icc-court-s-special-adviser-declares",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-10T18:16:11Z",
+      "publishedAt": "2026-10-10T22:17:00Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F3%2F5%2F2%2F13302536-1-eng-GB%2F017399ce8d29-photo_SXM2026101000000573.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,13 +21,30 @@
       "tags": []
     },
     {
-      "id": "le -3163051779b8",
-      "title": "Zelensky blasts Trump-Putin diesel deal as Russian strikes kill 16",
-      "description": "Zelensky said Russia was expressing its 'thanks' with the attack on a residential building in Zaporizhzhia.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/10/zelensky-blasts-trump-putin-diesel-deal-as-russian-strikes-kill-16_6758464_4.html",
+      "id": "al -763b99995c9c",
+      "title": "Why is the Trump administration trying to dismantle the ICC?",
+      "description": "The US has imposed sweeping new sanctions on the International Criminal Court.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-10T19:59:18Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791656991.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -1e0bb5e3ef37",
+      "title": "Bayeux awards war correspondent Palestinian Mahmoud Abu Hamda photography prize",
+      "description": "The Washington Post, NPR and CNN won the top prizes in the print, radio and television categories for reports from Ukraine, Gaza and the West Bank respectively.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/10/bayeux-war-correspondent-awards-palestinian-mahmoud-abu-hamda-photography-prize_6758466_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-10T17:12:26Z",
-      "image": "https://img.lemde.fr/2026/10/10/618/0/3926/1963/644/322/60/0/61796f3_ftp-1-bja1nue0luvk-2026-10-10t133048z-720981221-rc290oanjz1s-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.JPG",
+      "publishedAt": "2026-10-10T19:11:51Z",
+      "image": "https://img.lemde.fr/2026/10/10/239/0/7524/3762/644/322/60/0/adcdf79_ftp-1-2ge7s4m0wv5v-5318508-01-06.jpg",
       "categories": [
         "conflict"
       ],
@@ -63,23 +80,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f54d6af072fe",
-      "title": "Why is the US sanctioning the International Criminal Court?",
-      "description": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-10T14:19:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2292621652-1788482517.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -197,21 +197,6 @@
       "source": "The Moscow Times",
       "publishedAt": "2026-10-08T09:46:00Z",
       "image": "https://static.themoscowtimes.com/image/og/4c/93919__4c4e984b0ed4a66e411d2ecdffb0433a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -0383438d24c7",
-      "title": "In Ukraine, holding on to childhood in a time of war",
-      "description": "As war in Ukraine continues into its fifth year, some children have only known war. The Monitor revisits three young families striving to live full lives amid Russia’s military invasion.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/1007/ukraine-russia-war-putin-children-invasion?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-10-07T20:35:48Z",
-      "image": "https://images.csmonitor.com/csm/2026/09/ZOUKRAINECHILDREN_STAIRS.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T00:32:38Z",
+  "updated": "2026-10-10T06:46:03Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-10-08T12:04:49Z",
   "items": [
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 0
     },
     {
       "id": "sy-war",
@@ -134,7 +134,7 @@
       "lastUpdate": "2026-09-25",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-09-25T13:50:07Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "cd-east",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 2
     },
     {
       "id": "et-am",
@@ -402,9 +402,9 @@
         "Interstate"
       ],
       "wikipediaPage": "Insurgency_in_Jammu_and_Kashmir",
-      "lastUpdate": "2026-10-02",
+      "lastUpdate": "2026-10-10",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-10-02T20:58:44Z",
+      "wikipediaRevision": "2026-10-10T06:34:34Z",
       "recentNewsCount": 0
     },
     {
@@ -428,7 +428,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-10-04",
       "wikipediaRevision": "2026-10-04T22:38:20Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 0
     },
     {
       "id": "wb-isr",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T19:59:40Z",
+  "updated": "2026-10-11T23:35:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,13 +10,44 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/trump-sanctions-will-not-break-the-icc-court-s-special-adviser-declares",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-11T19:59:37Z",
+      "publishedAt": "2026-10-11T23:35:44Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F3%2F5%2F2%2F13302536-1-eng-GB%2F017399ce8d29-photo_SXM2026101000000573.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-b988e937dd6f",
+      "title": "Zelenskyy Says Russian Strikes Continue Amid Trump Cease-Fire Call; Moscow Mum",
+      "description": "Ukrainian President Volodymyr Zelenskyy accused Russia of striking an energy plant after US leader Donald Trump's surprise announcement of an “energy cease-fire,” while Moscow remained silent on any suggestion of a truce.",
+      "url": "https://www.rferl.org/a/zelenskyy-energy-ceasefire-trump-ukraine-russia/33874639.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-11T22:01:35Z",
+      "image": "https://gdb.rferl.org/3a0f43fd-781c-4e3c-a46c-81fb803606b8_cx3_cy0_cw96_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-551382d9bff4",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "description": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-11T21:36:40Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -113,17 +144,17 @@
       "tags": []
     },
     {
-      "id": "bbc-a81bcb82f0c3",
-      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
-      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-10T22:13:08Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6204/live/aaaf6ea0-c21d-11f1-b7d8-6f930589c871.jpg",
+      "id": "npr-dcc48233c883",
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "description": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "source": "NPR World",
+      "publishedAt": "2026-10-10T21:32:53Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/989x1523+0+0/resize/989x1523!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2Fc5%2F97fb91ff49f1a3ed412d58b43f28%2Fap26282625542805.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -143,21 +174,6 @@
       "tags": []
     },
     {
-      "id": "npr-d5c1cd5f0467",
-      "title": "Photos: What a year of ceasefire in Gaza looks like",
-      "description": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
-      "source": "NPR World",
-      "publishedAt": "2026-10-10T09:00:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5d%2Fa4%2Fda87682f4b4e963a85f1dd2f71b2%2Fgaza-04.JPEG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-94e1151a5367",
       "title": "Easing Diesel Sanctions Shows Weakness to Putin, Sybiha Says",
       "description": "Foreign Minister Andrii Sybiha warned on Friday, Oct. 9, that easing sanctions on Russian diesel will not calm global energy markets or bring peace to Ukraine, arguing that Vladimir Putin interprets such steps as Western weakness. Sybiha stated that only an energy ceasefire – which Kyiv is ready to adopt if Moscow is c…",
@@ -171,22 +187,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-5ea2a8297d3f",
-      "title": "Trump Makes Deal With Putin On Diesel Exports. Ukraine Calls It A 'Gift'",
-      "description": "US President Donald Trump said he reached an agreement with President Vladimir Putin to temporarily ease sanctions on Russian diesel exports, a move Ukraine immediately criticized as a \"gift\" to the Kremlin.",
-      "url": "https://www.rferl.org/a/trump-deal-putin-diesel-exports-ukraine/33873828.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-09T23:03:17Z",
-      "image": "https://gdb.rferl.org/0a6f812b-f54c-480e-8589-8f25b48abe2f_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     },
     {

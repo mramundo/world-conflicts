@@ -1,33 +1,62 @@
 {
-  "updated": "2026-10-12T04:55:35Z",
+  "updated": "2026-10-12T12:52:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-85f60ea090c5",
-      "title": "Trump sanctions will not break the ICC, court's special adviser declares",
+      "id": "nik-da7f2ea02ad8",
+      "title": "Trump's Russia-Ukraine truce claim comes as India urges peace",
       "description": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/trump-sanctions-will-not-break-the-icc-court-s-special-adviser-declares",
+      "url": "https://asia.nikkei.com/politics/ukraine-war/trump-s-russia-ukraine-truce-claim-comes-as-india-urges-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-12T04:55:30Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F3%2F5%2F2%2F13302536-1-eng-GB%2F017399ce8d29-photo_SXM2026101000000573.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-10-12T12:52:07Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F8%2F4%2F13304843-1-eng-GB%2F65a3728be596-2026-09-18T140838Z_381384836_RC2ZTCARS57T_RTRMADP_3_UKRAINE-CRISIS-USA-SANCTIONS-INDIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -68d10e97df90",
-      "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
-      "description": "Ethiopian government forces entered Adigrat in northern Tigray after rebel fighters withdrew.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+      "id": "fra-4571f38e11c7",
+      "title": "Russian continues to strike Ukraine despite Trump's announcement of an 'energy ceasefire'",
+      "description": "Russia attacks multiple power plants in Ukraine including in Kharkiv and the capital Kiev. The strikes were reported despite claims from US President Donald Trump that a so-called “energy ceasefire” is in place. Moscow has yet to comment on any potential deal while Ukrainian President Zelensky said the announcement cam…",
+      "url": "https://www.france24.com/en/video/20261012-russian-continues-to-strike-ukraine-despite-trump-s-announcement-of-an-energy-ceasefire",
+      "source": "France24",
+      "publishedAt": "2026-10-12T12:12:51Z",
+      "image": "https://s.france24.com/media/display/3ea4eb00-c631-11f1-9820-77317c09f325/w:1024/p:16x9/EN-20261012-120148-120910-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -537b4b62ab7c",
+      "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
+      "description": "Trump&#039;s energy truce sparks criticism over aiding Russia&#039;s war finances amid diesel shortages and rising consumer costs.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-12T04:00:56Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791777522.jpg?resize=1920%2C1080&amp;quality=80",
+      "publishedAt": "2026-10-12T11:30:54Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2018-11-17T074708Z_2129680327_RC1B417C8C30_RTRMADP_3_RUSSIA-OIL-REFINING-1710476750.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-1f4902268a66",
+      "title": "Russia Plans Rehab Centers for Ukraine War Amputees",
+      "description": "Russian officials are reporting growing demand for prosthetic limbs and rehabilitation among soldiers returning from Ukraine.",
+      "url": "https://www.themoscowtimes.com/2026/10/12/russia-plans-rehab-centers-for-ukraine-war-amputees-a93947",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-10-12T10:00:38Z",
+      "image": "https://static.themoscowtimes.com/image/og/7b/93947__7b35360b244e5441b29f4b0483bd1701.jpg",
       "categories": [
         "conflict"
       ],
@@ -36,33 +65,48 @@
       "tags": []
     },
     {
+      "id": "npr-6c99ff2bdf59",
+      "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+      "description": "President Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his statement.",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+      "source": "NPR World",
+      "publishedAt": "2026-10-12T06:41:57Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2F11%2F6f63730a4865a4db5d7781b1ddb6%2Fap26284505371633.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-b988e937dd6f",
-      "title": "Zelenskyy Says Russian Strikes Continue Amid Trump Cease-Fire Call; Moscow Mum",
+      "title": "Zelenskyy Says Ukraine Will Stop Refinery Attacks If Russia Halts Energy Strikes",
       "description": "Ukrainian President Volodymyr Zelenskyy accused Russia of striking an energy plant after US leader Donald Trump's surprise announcement of an “energy cease-fire,” while Moscow remained silent on any suggestion of a truce.",
       "url": "https://www.rferl.org/a/zelenskyy-energy-ceasefire-trump-ukraine-russia/33874639.html",
       "source": "RFE/RL",
       "publishedAt": "2026-10-11T22:01:35Z",
-      "image": "https://gdb.rferl.org/57b250f6-00d2-4105-6775-08df13a87200_w800_h450.jpg",
+      "image": "https://gdb.rferl.org/09c984dd-5e29-458a-974e-4aecf51becbd_cx2_cy2_cw92_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 11,
       "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "bbc-551382d9bff4",
-      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-      "description": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "id": "bbc-64af34442eac",
+      "title": "Watch: What's behind Trump's energy ceasefire claim?",
+      "description": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-10-11T21:36:40Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-11T20:55:02Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d5/live/bfca61a0-c5b5-11f1-ad08-b9eb6b599088.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,21 +141,6 @@
       "tags": []
     },
     {
-      "id": "fra-19a73ee8a776",
-      "title": "Strike on Riyadh: What options for the Saudi-led coalition?",
-      "description": "Saturday's attack, the deadliest on Saudi soil in more than a decade, marked a sharp escalation in the Yemen war. Riyadh backs the internationally recognised government against the Houthis, who captured swathes of the Red Sea coastline in a lightning offensive last month. The Saudi-led coalition has vowed a firm respon…",
-      "url": "https://www.france24.com/en/video/20261011-strike-on-riyadh-what-options-for-the-saudi-led-coalition",
-      "source": "France24",
-      "publishedAt": "2026-10-11T14:39:27Z",
-      "image": "https://s.france24.com/media/display/e10ae9f8-c573-11f1-b6f9-53993c5f1f18/w:1024/p:16x9/EN-20261011-130408-131443-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -a473edf3ea04",
       "title": "Saudi Arabia weighs response after Houthi attack on Riyadh, deadliest in a decade",
       "description": "A missile attack on the Saudi capital's international airport, launched from Houthi-controlled territory in Yemen, killed at least 12 people and injured 309 on Saturday, including a French national.",
@@ -129,7 +158,7 @@
     {
       "id": "the-adbc6606e5d1",
       "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
-      "description": "US president’s plan to park the wars in Iran and Yemen, while blaming Ukraine for diesel prices, looks unsustainableMiddle East crisis live - latest updatesThe reckless missile attack on King Khalid international airport in Riyadh on Saturday did not just export the death and misery inside Yemen to Saudi Arabia, it als…",
+      "description": "US president’s plan to park the wars in Iran and Yemen, while blaming Ukraine for diesel prices, looks unsustainableThe reckless missile attack on King Khalid international airport in Riyadh on Saturday did not just export the death and misery inside Yemen to Saudi Arabia, it also left Donald Trump forced to reconsider…",
       "url": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
       "source": "The Guardian",
       "publishedAt": "2026-10-11T13:23:02Z",
@@ -143,32 +172,17 @@
       "tags": []
     },
     {
-      "id": "npr-dcc48233c883",
-      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-      "description": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
-      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
-      "source": "NPR World",
-      "publishedAt": "2026-10-10T21:32:53Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/989x1523+0+0/resize/989x1523!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2Fc5%2F97fb91ff49f1a3ed412d58b43f28%2Fap26282625542805.jpg",
+      "id": "un -84b8ecadcc6d",
+      "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
+      "description": "UN Secretary-General António Guterres has condemned a Houthi missile attack on Riyadh’s main airport that Saudi authorities say killed 12 people and wounded more than 300.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168572",
+      "source": "UN News",
+      "publishedAt": "2026-10-11T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/06-11-2020_Riyadh_Saudi_Arabia_unsplash.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-2a9259067a75",
-      "title": "Russian Attack on Ukrainian City Kills 20, a Day After Trump Eases Diesel Sanctions on Moscow",
-      "description": "The Ukrainian President offered some of his sharpest criticism of Donald Trump after this week's third mass-casualty Russian attack.",
-      "url": "https://www.themoscowtimes.com/2026/10/10/russian-attack-on-ukrainian-city-kills-20-a-day-after-trump-eases-diesel-sanctions-on-moscow-a93941",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-10-10T17:26:05Z",
-      "image": "https://static.themoscowtimes.com/image/og/c6/93941__c6bc593c79df94f43ffed8fce7a43c0c.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -200,21 +214,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -3ceab244be5d",
-      "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
-      "description": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric. Most of the casualties were women and girls.&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
-      "source": "UN News",
-      "publishedAt": "2026-10-09T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/11-09-2025-IOM-Sudan-WaterProject.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     }

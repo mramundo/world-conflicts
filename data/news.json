@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:52:10Z",
+  "updated": "2026-10-12T21:37:06Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/trump-s-russia-ukraine-truce-claim-comes-as-india-urges-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-12T12:52:07Z",
+      "publishedAt": "2026-10-12T21:37:02Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F8%2F4%2F13304843-1-eng-GB%2F65a3728be596-2026-09-18T140838Z_381384836_RC2ZTCARS57T_RTRMADP_3_UKRAINE-CRISIS-USA-SANCTIONS-INDIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,29 @@
       "tags": []
     },
     {
-      "id": "fra-4571f38e11c7",
-      "title": "Russian continues to strike Ukraine despite Trump's announcement of an 'energy ceasefire'",
-      "description": "Russia attacks multiple power plants in Ukraine including in Kharkiv and the capital Kiev. The strikes were reported despite claims from US President Donald Trump that a so-called “energy ceasefire” is in place. Moscow has yet to comment on any potential deal while Ukrainian President Zelensky said the announcement cam…",
-      "url": "https://www.france24.com/en/video/20261012-russian-continues-to-strike-ukraine-despite-trump-s-announcement-of-an-energy-ceasefire",
-      "source": "France24",
-      "publishedAt": "2026-10-12T12:12:51Z",
-      "image": "https://s.france24.com/media/display/3ea4eb00-c631-11f1-9820-77317c09f325/w:1024/p:16x9/EN-20261012-120148-120910-CS.jpg",
+      "id": "bbc-b7a10f869037",
+      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-12T20:17:37Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6601/live/5861b070-c670-11f1-8c1b-356b863d8549.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -eda9c37d8058",
+      "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
+      "description": "Israeli strike on tent in Gaza’s Khan Younis kills three",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-12T20:06:04Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791835546.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict"
       ],
@@ -35,18 +51,52 @@
       "tags": []
     },
     {
-      "id": "al -537b4b62ab7c",
-      "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
-      "description": "Trump&#039;s energy truce sparks criticism over aiding Russia&#039;s war finances amid diesel shortages and rising consumer costs.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-12T11:30:54Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2018-11-17T074708Z_2129680327_RC1B417C8C30_RTRMADP_3_RUSSIA-OIL-REFINING-1710476750.jpg?resize=1920%2C1440",
+      "id": "fra-df06a837dc2b",
+      "title": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
+      "description": "How exposed is Saudi Arabia? Just as Iran’s retaliation to Donald Trump’s war suddenly exposed the vulnerability of neighboring Gulf states…how much is Riyadh reeling from the escalation with Yemen’s Tehran-backed Houthis? We’ll assess the physical and material damage from strikes on airports and oil facilities as well…",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
+      "source": "France24",
+      "publishedAt": "2026-10-12T18:33:12Z",
+      "image": "https://s.france24.com/media/display/c294b8ba-c5ae-11f1-9976-77317c09f325/w:1024/p:16x9/2026-10-11T133451Z-158209492-RC211OAHP5D3-RTRMADP-3-IRAN-CRISIS-SAUDI-AIRPORT.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
+      "relevanceScore": 13,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -e1f172ee7cb9",
+      "title": "Why the Trump-Putin fuel agreement benefits Russia",
+      "description": "As the sanctions regime on Russian oil crumbles and pressure on Ukraine mounts, the announcement of an energy ceasefire between Moscow and Kyiv faces obstacles due to Russian demands.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/12/why-the-trump-putin-fuel-agreement-benefits-russia_6758525_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-12T18:00:07Z",
+      "image": "https://img.lemde.fr/2026/10/09/225/0/3208/1604/644/322/60/0/a923300_ftp-1-hcywbgg2mfkj-25c0dbf44bf04da0bc27304222d6c875-0-0a5750170bc34b558671e0080b46cb2f.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-2d91869171b7",
+      "title": "Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?",
+      "description": "Seoul and Kyiv are trading accusations after the transfer of two North Korean POWs to South Korea. The South insists the move was to be kept secret as it seeks to avoid antagonizing Pyongyang.",
+      "url": "https://www.dw.com/en/can-south-korea-and-ukraine-resolve-their-diplomatic-spat-over-north-korean-pows/a-79641352?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-12T13:10:00Z",
+      "image": "https://static.dw.com/image/79403749_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -66,16 +116,31 @@
     },
     {
       "id": "npr-6c99ff2bdf59",
-      "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
-      "description": "President Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his statement.",
+      "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
+      "description": "Trump said he had brokered a cease-fire to protect energy infrastructure in Russia and Ukraine. But Ukrainian officials say bombs kept falling overnight on gas facilities, wounding 33 people.",
       "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
       "source": "NPR World",
       "publishedAt": "2026-10-12T06:41:57Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2F11%2F6f63730a4865a4db5d7781b1ddb6%2Fap26284505371633.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F94%2F4255cf7b412e923699942bef0ba0%2Fap26284505553761.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-059c75bd34ab",
+      "title": "Kallas, 'bene le tregua energetica ma la Russia la deve rispettare'",
+      "description": "'Dovremmo esercitare pressioni su Mosca affinché cessi la guerra'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/kallas-bene-le-tregua-energetica-ma-la-russia-la-deve-rispettare_913b7852-5b18-4aaa-8c15-245e839871e9.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-12T06:36:15Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/12/7a66da416be06c89b6e36d7354dd46bc.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -96,36 +161,6 @@
       "tags": []
     },
     {
-      "id": "bbc-64af34442eac",
-      "title": "Watch: What's behind Trump's energy ceasefire claim?",
-      "description": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
-      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-11T20:55:02Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d5/live/bfca61a0-c5b5-11f1-ad08-b9eb6b599088.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-92a8e952ee45",
-      "title": "Von der Leyen, 'pieno sostegno a Zelensky, guerra in una fase più cupa'",
-      "description": "'Appoggio alla richiesta di cessate il fuoco, Russia in stallo sul campo'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/von-der-leyen-pieno-sostegno-a-zelensky-guerra-in-una-fase-piu_bac9f0f8-75e2-49e9-bea6-6e67762f2b20.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-11T17:07:48Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/bbdc509c8b37518bce05a44019c041de.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -513ca2cce09f",
       "title": "Houthis, Saudis exchange strikes on airports as Mideast conflict intensifies",
       "description": "The Iran-backed Houthis in Yemen accuse Saudi Arabia of striking the rebel-held airport in Sanaa. This accusation comes amid escalating clashes between the Houthis and Saudi-backed forces.",
@@ -133,21 +168,6 @@
       "source": "CS Monitor",
       "publishedAt": "2026-10-11T14:51:46Z",
       "image": "https://images.csmonitor.com/csm/2026/10/1220475_1_1011-airports_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -a473edf3ea04",
-      "title": "Saudi Arabia weighs response after Houthi attack on Riyadh, deadliest in a decade",
-      "description": "A missile attack on the Saudi capital's international airport, launched from Houthi-controlled territory in Yemen, killed at least 12 people and injured 309 on Saturday, including a French national.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/11/saudi-arabia-weighs-response-after-deadliest-houthi-attack-on-riyadh-in-a-decade_6758480_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-11T13:24:53Z",
-      "image": "https://img.lemde.fr/2026/09/22/500/0/6000/3000/644/322/60/0/48dd4c5_ftp-1-ycfbp06uea16-1c33a16633914a519332039dc309da24-0-355d5d9f59594a1abdd71479f2739dc3.jpg",
       "categories": [
         "conflict"
       ],
@@ -199,21 +219,6 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-b4285eb65411",
-      "title": "Eritrean troops in Ethiopia raise fears of a regional war",
-      "description": "Ethiopia and Eritrea are trading blame for confrontations in Tigray amid international calls for restraint. Their respective allies have the potential to catapult the conflict into a regional war.",
-      "url": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-09T15:20:00Z",
-      "image": "https://static.dw.com/image/79616802_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

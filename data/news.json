@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-11T23:35:47Z",
+  "updated": "2026-10-12T04:55:35Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/trump-sanctions-will-not-break-the-icc-court-s-special-adviser-declares",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-11T23:35:44Z",
+      "publishedAt": "2026-10-12T04:55:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F3%2F5%2F2%2F13302536-1-eng-GB%2F017399ce8d29-photo_SXM2026101000000573.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,13 +21,28 @@
       "tags": []
     },
     {
+      "id": "al -68d10e97df90",
+      "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
+      "description": "Ethiopian government forces entered Adigrat in northern Tigray after rebel fighters withdrew.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-12T04:00:56Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791777522.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-b988e937dd6f",
       "title": "Zelenskyy Says Russian Strikes Continue Amid Trump Cease-Fire Call; Moscow Mum",
       "description": "Ukrainian President Volodymyr Zelenskyy accused Russia of striking an energy plant after US leader Donald Trump's surprise announcement of an “energy cease-fire,” while Moscow remained silent on any suggestion of a truce.",
       "url": "https://www.rferl.org/a/zelenskyy-energy-ceasefire-trump-ukraine-russia/33874639.html",
       "source": "RFE/RL",
       "publishedAt": "2026-10-11T22:01:35Z",
-      "image": "https://gdb.rferl.org/3a0f43fd-781c-4e3c-a46c-81fb803606b8_cx3_cy0_cw96_w800_h450.jpg",
+      "image": "https://gdb.rferl.org/57b250f6-00d2-4105-6775-08df13a87200_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
@@ -39,7 +54,7 @@
     {
       "id": "bbc-551382d9bff4",
       "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-      "description": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+      "description": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
       "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-10-11T21:36:40Z",
@@ -49,22 +64,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -63252f697870",
-      "title": "Is the Yemen war entering a new phase?",
-      "description": "Saudi Arabia has accused Yemen’s Houthis of killing 12 people and injuring 300 in Saturday&#039;s attack on King Khalid Inter",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-11T17:30:55Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791739847.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -201,6 +200,21 @@
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -3ceab244be5d",
+      "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+      "description": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric. Most of the casualties were women and girls.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+      "source": "UN News",
+      "publishedAt": "2026-10-09T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/11-09-2025-IOM-Sudan-WaterProject.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T21:37:06Z",
+  "updated": "2026-10-13T02:53:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/ukraine-war/trump-s-russia-ukraine-truce-claim-comes-as-india-urges-peace",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-12T21:37:02Z",
+      "publishedAt": "2026-10-13T02:53:25Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F8%2F4%2F13304843-1-eng-GB%2F65a3728be596-2026-09-18T140838Z_381384836_RC2ZTCARS57T_RTRMADP_3_UKRAINE-CRISIS-USA-SANCTIONS-INDIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -161,6 +161,21 @@
       "tags": []
     },
     {
+      "id": "the-930efb8254ec",
+      "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
+      "description": "This live blog is now closed. You can read our latest full report here:Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities saySome more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant message, the United Arab Emirates has issued…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-11T18:03:22Z",
+      "image": "https://i.guim.co.uk/img/media/85db3bfcd6d1dc107fbf4a8abeb1f7c4057fcae2/496_0_4341_3474/master/4341.jpg?width=140&quality=85&auto=format&fit=max&s=84521c8b2979ed443a4b77deeee9d943",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "cs -513ca2cce09f",
       "title": "Houthis, Saudis exchange strikes on airports as Mideast conflict intensifies",
       "description": "The Iran-backed Houthis in Yemen accuse Saudi Arabia of striking the rebel-held airport in Sanaa. This accusation comes amid escalating clashes between the Houthis and Saudi-backed forces.",
@@ -172,22 +187,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-adbc6606e5d1",
-      "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
-      "description": "US president’s plan to park the wars in Iran and Yemen, while blaming Ukraine for diesel prices, looks unsustainableThe reckless missile attack on King Khalid international airport in Riyadh on Saturday did not just export the death and misery inside Yemen to Saudi Arabia, it also left Donald Trump forced to reconsider…",
-      "url": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-11T13:23:02Z",
-      "image": "https://i.guim.co.uk/img/media/3fa3fead4c571639ecfb6049105c9fe918328884/598_0_5975_4780/master/5975.jpg?width=140&quality=85&auto=format&fit=max&s=72c18c69deaab4f28083d3009be2b3d9",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 13,
       "isAnalysis": false,
       "tags": []
     },

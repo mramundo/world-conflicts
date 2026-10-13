@@ -1,22 +1,131 @@
 {
-  "updated": "2026-10-13T10:15:07Z",
+  "updated": "2026-10-13T18:01:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-da7f2ea02ad8",
-      "title": "Trump's Russia-Ukraine truce claim comes as India urges peace",
+      "id": "nik-b0bc617e612f",
+      "title": "Japan looks for off-ramp from Trump's ICC feud before US sanctions kick in",
       "description": "",
-      "url": "https://asia.nikkei.com/politics/ukraine-war/trump-s-russia-ukraine-truce-claim-comes-as-india-urges-peace",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-looks-for-off-ramp-from-trump-s-icc-feud-before-us-sanctions-kick-in",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-13T10:15:02Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F4%2F8%2F4%2F13304843-1-eng-GB%2F65a3728be596-2026-09-18T140838Z_381384836_RC2ZTCARS57T_RTRMADP_3_UKRAINE-CRISIS-USA-SANCTIONS-INDIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-10-13T18:01:09Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F8%2F1%2F13311813-2-eng-GB%2Fce5e0505094d-93f4361a-2278-441f-ba7c-2861ef370fbb.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-1d7bf81ab30e",
+      "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
+      "description": "Ukrainian president’s comments on ‘particularly vile’ strikes come after US threatened to halt intelligence sharingUkraine received no early warning from its partners about a Russian ballistic missile strike on Kyiv in which five missiles hit civilian infrastructure, Volodymyr Zelenskyy said on Tuesday.The Ukrainian pr…",
+      "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-13T17:17:13Z",
+      "image": "https://i.guim.co.uk/img/media/0bdf9ed7b96dc65009d999f39b3c6db73527da07/532_0_4808_3848/master/4808.jpg?width=140&quality=85&auto=format&fit=max&s=5f8a681e5385f4dd16ec7eb015810fe0",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-49437d9e65e6",
+      "title": "Saudi Arabia's military struggle against Houthi attacks",
+      "description": "Houthi attacks on airports and energy facilities are putting Saudi Arabia under pressure. Could a Saudi-led international military offensive succeed against the Iran-aligned Houthi militia in Yemen?",
+      "url": "https://www.dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-13T16:11:00Z",
+      "image": "https://static.dw.com/image/79652618_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-df624ef087a0",
+      "title": "Trump, 'condividiamo intelligence con l'Ucraina, lavoriamo per fine guerra'",
+      "description": "Lo ha detto dopo indiscrezioni su possibilità che la sospendessero",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/13/trump-condividiamo-intelligence-con-lucraina-lavoriamo-per-fine-guerra_571e98fa-5a55-4413-8bcd-e2ba690f4c2f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-13T15:46:09Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/12/27af83f9e349f003e61ff184bfe7fbe1.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -9853dcf9cc85",
+      "title": "French navy intercepts oil tanker south of La Réunion suspected of being part of Russia's shadow fleet",
+      "description": "Footage released by the French Armed Forces shows French Navy personnel intercepting a vessel 'suspected of sailing under a false flag' south of La Réunion, a French overseas department in the Indian Ocean.",
+      "url": "https://www.lemonde.fr/en/videos/video/2026/10/13/french-navy-intercepts-oil-tanker-south-of-la-reunion-suspected-of-being-part-of-russia-s-shadow-fleet_6758563_108.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-13T15:24:17Z",
+      "image": "https://img.lemde.fr/2026/10/13/133/0/1600/800/644/322/60/0/a76de1b_upload-1-fqdpkx6hikkm-huc2ewnwkae6c3c.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-7f6d59c9d0f9",
+      "title": "Oil facility near Yemen capital Sanaa hit by Saudi Arabia, Houthis say",
+      "description": "Houthi media reported an ​attack ‌by Saudi Arabia on ⁠the ‌Yemen Oil Company ⁠in Sanaa on Tuesday, which came ‌shortly after the ‌Saudi-led coalition ​ordered the evacuation of the ​facility ​ahead of ​a military ​operation. The Iran-backed rebels had warned that they would target Riyadh's airport and other sites in th…",
+      "url": "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say",
+      "source": "France24",
+      "publishedAt": "2026-10-13T14:53:39Z",
+      "image": "https://s.france24.com/media/display/09974fea-c710-11f1-8feb-e362370cce2e/w:1024/p:16x9/2026-10-04T160923Z-192328429-RC2AWNASBLFE-RTRMADP-3-IRAN-CRISIS-YEMEN.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a91b1bef4ad7",
+      "title": "Palestinians dream of returning home after Israel raids West Bank camps",
+      "description": "Palestinians have been displaced from their homes in Tulkarem refugee camp and dream of returning home.",
+      "url": "https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-13T14:02:25Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/A-photo-of-Tulkarm-Camp-taken-from-Fuad-Abu-Salams-apartment-which-overlooks-the-camp-from-there-he-looks-out-at-his-destroyed-home-every-day-Photo-by-Raghad-Salameh-1791892530.jpeg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "rfe-0cfd257f112c",
+      "title": "Russia Pounds Ukraine In Overnight Missile And Drone Attacks",
+      "description": "Russia launched overnight missile and drone attacks across Ukraine, striking Kyiv, Kharkiv, and other regions. At least four people were killed in Kharkiv. The attacks came amid a US-proposed energy cease-fire that Moscow has not confirmed.",
+      "url": "https://www.rferl.org/a/russia-pounds-ukraine-in-overnight-missile-and-drone-attacks/33875763.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-13T11:35:45Z",
+      "image": "https://gdb.rferl.org/0b09e023-0302-4cf7-4a66-08df13aec0bb_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -36,22 +145,6 @@
       "tags": []
     },
     {
-      "id": "al -3d0977fbc07c",
-      "title": "The escalation in Yemen is a turning point",
-      "description": "The risk of a region-wide war is increasing, but if cooler heads prevail, a peaceful arrangement can still be reached.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-13T08:42:55Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-07T181027Z_177303484_RC2BXNA1NJSY_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-SYRIA-1791653796.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "bbc-532349d2019f",
       "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
       "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
@@ -67,54 +160,6 @@
       "tags": []
     },
     {
-      "id": "fra-99b86bef6901",
-      "title": "Russia says Europe bought $320 billion in hydrocarbons since 2022",
-      "description": "Russia said on Monday that European Union countries had bought $320.7 billion worth of its energy resources since 2022, despite sanctions over the war in Ukraine. The figure fuelled tensions as European officials criticised a US deal to import Russian diesel, while Stockholm called for the bloc to use frozen Russian as…",
-      "url": "https://www.france24.com/en/europe/20261013-russia-says-europe-bought-320-billion-in-hydrocarbons-since-2022",
-      "source": "France24",
-      "publishedAt": "2026-10-13T03:10:12Z",
-      "image": "https://s.france24.com/media/display/af462b9c-c6a6-11f1-aa6d-e362370cce2e/w:1024/p:16x9/1a5bd83c4347c7ff92f5c51031b917a553b7d6de.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -e1f172ee7cb9",
-      "title": "Why the Trump-Putin fuel agreement benefits Russia",
-      "description": "As the sanctions regime on Russian oil crumbles and pressure on Ukraine mounts, the announcement of an energy ceasefire between Moscow and Kyiv faces obstacles due to Russian demands.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/12/why-the-trump-putin-fuel-agreement-benefits-russia_6758525_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-12T18:00:04Z",
-      "image": "https://img.lemde.fr/2026/10/09/225/0/3208/1604/644/322/60/0/a923300_ftp-1-hcywbgg2mfkj-25c0dbf44bf04da0bc27304222d6c875-0-0a5750170bc34b558671e0080b46cb2f.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-2d91869171b7",
-      "title": "Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?",
-      "description": "Seoul and Kyiv are trading accusations after the transfer of two North Korean POWs to South Korea. The South insists the move was to be kept secret as it seeks to avoid antagonizing Pyongyang.",
-      "url": "https://www.dw.com/en/can-south-korea-and-ukraine-resolve-their-diplomatic-spat-over-north-korean-pows/a-79641352?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-12T13:10:00Z",
-      "image": "https://static.dw.com/image/79403749_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "the-1f4902268a66",
       "title": "Russia Plans Rehab Centers for Ukraine War Amputees",
       "description": "Russian officials are reporting growing demand for prosthetic limbs and rehabilitation among soldiers returning from Ukraine.",
@@ -126,52 +171,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-95eaa0dab2ed",
-      "title": "Zelensky, se la Russia non rispetta la tregua energetica noi reagiremo",
-      "description": "'E' evidente che Putin non legge Truth'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/zelensky-se-la-russia-non-rispetta-la-tregua-energetica-noi-reagiremo_bd353593-979e-47b3-a331-366b0d49f728.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-12T08:47:54Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/12/9c591b5fb9ec92fa156b6c1671863712.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-b988e937dd6f",
-      "title": "Zelenskyy Says Ukraine Will Stop Refinery Attacks If Russia Halts Energy Strikes",
-      "description": "Ukrainian President Volodymyr Zelenskyy accused Russia of striking an energy plant after US leader Donald Trump's surprise announcement of an “energy cease-fire,” while Moscow remained silent on any suggestion of a truce.",
-      "url": "https://www.rferl.org/a/zelenskyy-energy-ceasefire-trump-ukraine-russia/33874639.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-11T22:01:35Z",
-      "image": "https://gdb.rferl.org/09c984dd-5e29-458a-974e-4aecf51becbd_cx2_cy2_cw92_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-930efb8254ec",
-      "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
-      "description": "This live blog is now closed. You can read our latest full report here:Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities saySome more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant message, the United Arab Emirates has issued…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-11T18:03:22Z",
-      "image": "https://i.guim.co.uk/img/media/85db3bfcd6d1dc107fbf4a8abeb1f7c4057fcae2/496_0_4341_3474/master/4341.jpg?width=140&quality=85&auto=format&fit=max&s=84521c8b2979ed443a4b77deeee9d943",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },

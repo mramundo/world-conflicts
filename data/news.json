@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-14T03:59:47Z",
+  "updated": "2026-10-14T09:26:30Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-looks-for-off-ramp-from-trump-s-icc-feud-before-us-sanctions-kick-in",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-14T03:59:42Z",
+      "publishedAt": "2026-10-14T09:26:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F8%2F1%2F13311813-2-eng-GB%2Fce5e0505094d-93f4361a-2278-441f-ba7c-2861ef370fbb.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,62 +21,77 @@
       "tags": []
     },
     {
-      "id": "le -850b67f54203",
-      "title": "Emmanuel Macron and Chad's Mahamat Idriss Déby revive military cooperation",
-      "description": "After the rift caused by the expulsion of French troops from Chad, the two heads of state have grown closer over the past year. The French military is even quietly regaining a foothold in its historic stronghold.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/14/emmanuel-macron-and-chad-s-mahamat-idriss-deby-revive-military-cooperation_6758583_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-14T01:48:40Z",
-      "image": "https://img.lemde.fr/2026/10/13/326/0/7664/3832/644/322/60/0/96e344e_ftp-1-7sicukwehqn7-5341772-01-06.jpg",
+      "id": "the-d00e06133cad",
+      "title": "Ukraine Says SpaceX Limits Starlink Operations, Disrupting Military",
+      "description": "Starlink has been the lifeblood of Ukrainian battlefield communications since Russia's full-scale invasion in 2022.",
+      "url": "https://www.themoscowtimes.com/2026/10/14/ukraine-says-spacex-limits-starlink-operations-disrupting-military-a93970",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-10-14T09:17:29Z",
+      "image": "https://static.themoscowtimes.com/image/og/e3/93970__e32dd4040adc82402a875287966350e7.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -371e809edf2a",
-      "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
-      "description": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-14T00:45:16Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6acea8b9cb942-1791928505.jpg?resize=1920%2C1440",
+      "id": "the-e7415c964eef",
+      "title": "Russian attacks on Ukraine leave 600,000 without power as Zelenskyy says Moscow ‘disrespecting’ US – Europe live",
+      "description": "Zelenskyy says Russia attacked ‘infrastructure covered by the ceasefire announced by the American president’Ukrainian soldiers have access to Starlink satellite internet restrictedin BerlinA Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the most brazen acts of sabotage in postwar Europ…",
+      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-14T08:43:50Z",
+      "image": "https://i.guim.co.uk/img/media/3635e9a89739096bcac6b91d39acfc80ccf1e88f/850_330_4496_3597/master/4496.jpg?width=140&quality=85&auto=format&fit=max&s=54cec62fcb7fc43a7982242e2171100b",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-6b23da984474",
-      "title": "Kyiv power plant hit by Russian missile without warning from allies",
-      "description": "Ukraine's President Volodymyr Zelensky said Tuesday that a Russian ballistic missile struck a Kyiv power plant without advance warning from Western allies, killing at least two people and wounding around 20. The attack came days after US President Donald Trump announced an energy ceasefire between Moscow and Kyiv, rais…",
-      "url": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies",
-      "source": "France24",
-      "publishedAt": "2026-10-14T00:41:22Z",
-      "image": "https://s.france24.com/media/display/c6b4a660-c75e-11f1-98ab-77317c09f325/w:1024/p:16x9/AP26286839487353.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-85402c0ce5b4",
-      "title": "Media, 'Netanyahu ha parlato con Trump di riprendere guerra contro l'Iran'",
-      "description": "Lo riferisce Channel 12",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/13/media-netanyahu-ha-parlato-con-trump-di-riprendere-guerra-contro-liran_732073a7-b49a-4e59-beb7-b31e3b835b35.html",
+      "id": "ans-32531caee94b",
+      "title": "Zelensky, 'attacco russo deliberata mancanza di rispetto per gli Usa'",
+      "description": "'Hanno colpito proprio infrastrutture tutelate dal cessate il fuoco annunciato da Trump'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/14/zelensky-attacco-russo-deliberata-mancanza-di-rispetto-per-gli-usa_b1fdc6ab-4b6a-4595-8e88-74aa51a6a559.html",
       "source": "ANSA",
-      "publishedAt": "2026-10-13T18:11:27Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/5/d2637df0aba1ab2035e86198aab55950.jpg",
+      "publishedAt": "2026-10-14T07:41:55Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/23/441655599f9e8331dc894cf05d7ed2ed.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -86c5f436db9c",
+      "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
+      "description": "Volodymyr Zelenskyy says Ukraine&#039;s partners failed to warn of Russian ballistic missile attack on Kyiv.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-14T07:08:32Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T205659Z_1994095009_RC2K2OABDOLX_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1791963217.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -3ed133336683",
+      "title": "Russian strikes on Ukraine energy sites leave 600,000 without power, says Zelensky",
+      "description": "Ukrainian President Volodymyr Zelensky said a Russian ballistic missile strike had 'targeted' Ukraine's energy infrastructure, despite a purported 'energy ceasefire' announced by Trump.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/14/russian-energy-strikes-leave-600-000-people-without-power-says-zelensky_6758587_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-14T06:50:32Z",
+      "image": "https://img.lemde.fr/2026/10/13/458/0/5500/2750/644/322/60/0/6f2cbd0_ftp-1-zatcuymr4gpx-2026-10-13t215115z-1110268469-rc2l2oaj3f27-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -141,36 +156,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-dac222794fca",
-      "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-      "description": "Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defencesWhy are the Houthis attacking Saudi airports and how are the missiles getting through?Saudi Arabia has been forced to suspend all flights to and from its main international airport in Riyadh until next S…",
-      "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-12T15:42:37Z",
-      "image": "https://i.guim.co.uk/img/media/7fcd37fb677a69337367a2284f5b7abed9be13fc/13_0_809_647/master/809.jpg?width=140&quality=85&auto=format&fit=max&s=f963018b8df2854d30f8133965fbd29f",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-1f4902268a66",
-      "title": "Russia Plans Rehab Centers for Ukraine War Amputees",
-      "description": "Russian officials are reporting growing demand for prosthetic limbs and rehabilitation among soldiers returning from Ukraine.",
-      "url": "https://www.themoscowtimes.com/2026/10/12/russia-plans-rehab-centers-for-ukraine-war-amputees-a93947",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-10-12T10:00:38Z",
-      "image": "https://static.themoscowtimes.com/image/og/7b/93947__7b35360b244e5441b29f4b0483bd1701.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

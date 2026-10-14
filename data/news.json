@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-14T09:26:30Z",
+  "updated": "2026-10-14T14:55:32Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-looks-for-off-ramp-from-trump-s-icc-feud-before-us-sanctions-kick-in",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-14T09:26:26Z",
+      "publishedAt": "2026-10-14T14:55:26Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F8%2F1%2F13311813-2-eng-GB%2Fce5e0505094d-93f4361a-2278-441f-ba7c-2861ef370fbb.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,12 +21,88 @@
       "tags": []
     },
     {
-      "id": "the-d00e06133cad",
-      "title": "Ukraine Says SpaceX Limits Starlink Operations, Disrupting Military",
+      "id": "fra-349170d68642",
+      "title": "Ukraine accuses SpaceX of crippling military missions as ties with US worsen",
+      "description": "Ukraine accused Elon Musk's SpaceX on Wednesday of limiting Starlink services, crippling its drones, as Russian missiles knocked out power stations in attacks President Volodymyr Zelensky called \"ostentatious disrespect\" to Donald Trump. Kyiv's relationship with Washington has taken a sharp turn for the worse since US …",
+      "url": "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen",
+      "source": "France24",
+      "publishedAt": "2026-10-14T13:57:22Z",
+      "image": "https://s.france24.com/media/display/775fbc9c-c7ce-11f1-aa9c-3774aeac812a/w:1024/p:16x9/EN-20261014-140439-140826-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-0fb3f21c9fa8",
+      "title": "Escaped Russian POW Reportedly Shoots 5 Ukrainian Troops Dead Near Kharkiv",
+      "description": "A gunman killed five soldiers from Ukraine’s 72nd Mechanized Brigade in a residential house near Kharkiv on Oct. 13. The brigade said people believed to be Russian citizens may be involved, while investigators are considering several theories, including an escaped Russian captive and a Russian sabotage group. Officials…",
+      "url": "https://www.kyivpost.com/post/87054",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-10-14T13:54:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/02/04/1b333fe4d0d05029d4a5878e8d9ac492.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4478915e52f0",
+      "title": "Two scenarios for the Yemen war",
+      "description": "What comes next is either a retreat for the Houthis or a war of attrition.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-14T13:50:28Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acabd86d672-1791671686.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-191e7f6ed1f6",
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-14T13:11:17Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-4ed1add9ee2c",
+      "title": "L'Ue eroga a Kiev una nuova tranche da 2,8 miliardi in aiuti militari",
+      "description": "Per droni, difesa aerea, missili, radar, sistemi di guerra elettronica e munizioni",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/14/lue-eroga-a-kiev-una-nuova-tranche-da-28-miliardi-in-aiuti-militari_9906da12-864f-4d59-b2a4-9dcab329d6f6.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-14T12:15:49Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/14/489cb0f80b63ef42780b2dc9e97ee2b4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-ba068a2b28b9",
+      "title": "Ukraine Accuses SpaceX of Crippling Drone Missions as Ties With U.S. Worsen",
       "description": "Starlink has been the lifeblood of Ukrainian battlefield communications since Russia's full-scale invasion in 2022.",
-      "url": "https://www.themoscowtimes.com/2026/10/14/ukraine-says-spacex-limits-starlink-operations-disrupting-military-a93970",
+      "url": "https://www.themoscowtimes.com/2026/10/14/ukraine-accuses-spacex-of-crippling-drone-missions-as-ties-with-us-worsen-a93970",
       "source": "The Moscow Times",
-      "publishedAt": "2026-10-14T09:17:29Z",
+      "publishedAt": "2026-10-14T09:17:00Z",
       "image": "https://static.themoscowtimes.com/image/og/e3/93970__e32dd4040adc82402a875287966350e7.jpg",
       "categories": [
         "conflict"
@@ -36,62 +112,32 @@
       "tags": []
     },
     {
-      "id": "the-e7415c964eef",
-      "title": "Russian attacks on Ukraine leave 600,000 without power as Zelenskyy says Moscow ‘disrespecting’ US – Europe live",
-      "description": "Zelenskyy says Russia attacked ‘infrastructure covered by the ceasefire announced by the American president’Ukrainian soldiers have access to Starlink satellite internet restrictedin BerlinA Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the most brazen acts of sabotage in postwar Europ…",
-      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-14T08:43:50Z",
-      "image": "https://i.guim.co.uk/img/media/3635e9a89739096bcac6b91d39acfc80ccf1e88f/850_330_4496_3597/master/4496.jpg?width=140&quality=85&auto=format&fit=max&s=54cec62fcb7fc43a7982242e2171100b",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-32531caee94b",
-      "title": "Zelensky, 'attacco russo deliberata mancanza di rispetto per gli Usa'",
-      "description": "'Hanno colpito proprio infrastrutture tutelate dal cessate il fuoco annunciato da Trump'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/14/zelensky-attacco-russo-deliberata-mancanza-di-rispetto-per-gli-usa_b1fdc6ab-4b6a-4595-8e88-74aa51a6a559.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-14T07:41:55Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/23/441655599f9e8331dc894cf05d7ed2ed.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -86c5f436db9c",
-      "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
-      "description": "Volodymyr Zelenskyy says Ukraine&#039;s partners failed to warn of Russian ballistic missile attack on Kyiv.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-14T07:08:32Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T205659Z_1994095009_RC2K2OABDOLX_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1791963217.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -3ed133336683",
-      "title": "Russian strikes on Ukraine energy sites leave 600,000 without power, says Zelensky",
-      "description": "Ukrainian President Volodymyr Zelensky said a Russian ballistic missile strike had 'targeted' Ukraine's energy infrastructure, despite a purported 'energy ceasefire' announced by Trump.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/14/russian-energy-strikes-leave-600-000-people-without-power-says-zelensky_6758587_4.html",
+      "id": "le -850b67f54203",
+      "title": "France and Chad revive military cooperation",
+      "description": "After the rift caused by the expulsion of French troops from Chad, presidents Emmanuel Macron and Mahamat Idriss Déby have rebuilt ties over the past year. The French military is quietly regaining a foothold in its historic stronghold.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/14/emmanuel-macron-and-chad-s-mahamat-idriss-deby-revive-military-cooperation_6758583_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-14T06:50:32Z",
-      "image": "https://img.lemde.fr/2026/10/13/458/0/5500/2750/644/322/60/0/6f2cbd0_ftp-1-zatcuymr4gpx-2026-10-13t215115z-1110268469-rc2l2oaj3f27-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "publishedAt": "2026-10-14T01:48:37Z",
+      "image": "https://img.lemde.fr/2026/10/13/326/0/7664/3832/644/322/60/0/96e344e_ftp-1-7sicukwehqn7-5341772-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -4a08e89951b6",
+      "title": "As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates",
+      "description": "Weekend attacks by Yemen’s Houthi militia have largely cut Saudi Arabia off from the world. The normally cautious kingdom is accepting defensive assistance from its allies as it intensifies strikes against the Houthis.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/1013/saudi-security-houthi-airport-attacks-iran-yemen?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-10-13T22:16:44Z",
+      "image": "https://images.csmonitor.com/csm/2026/10/1013_OSAUDI_MOURNERS.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,19 +157,19 @@
       "tags": []
     },
     {
-      "id": "bbc-e30f04b59ac1",
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-      "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-13T13:27:31Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f908/live/67b69200-c708-11f1-bc2e-018d645d8d21.png",
+      "id": "un -bf88b22aac0c",
+      "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
+      "description": "Yemen’s southwestern city of Taiz is facing a “devastating” humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168589",
+      "source": "UN News",
+      "publishedAt": "2026-10-13T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026-WHO-Yemen-cholera.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict",
-        "analysis"
+        "humanitarian"
       ],
       "relevanceScore": 5,
-      "isAnalysis": true,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -159,48 +205,17 @@
       "tags": []
     },
     {
-      "id": "cs -513ca2cce09f",
-      "title": "Houthis, Saudis exchange strikes on airports as Mideast conflict intensifies",
-      "description": "The Iran-backed Houthis in Yemen accuse Saudi Arabia of striking the rebel-held airport in Sanaa. This accusation comes amid escalating clashes between the Houthis and Saudi-backed forces.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/1011/houthis-saudi-arabia-yemen-airport-attack-iran?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-10-11T14:51:46Z",
-      "image": "https://images.csmonitor.com/csm/2026/10/1220475_1_1011-airports_standard.jpg?alias=standard_900x600",
+      "id": "the-dac222794fca",
+      "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+      "description": "Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defencesWhy are the Houthis attacking Saudi airports and how are the missiles getting through?Saudi Arabia has been forced to suspend all flights to and from its main international airport in Riyadh until next S…",
+      "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-12T15:42:37Z",
+      "image": "https://i.guim.co.uk/img/media/7fcd37fb677a69337367a2284f5b7abed9be13fc/13_0_809_647/master/809.jpg?width=140&quality=85&auto=format&fit=max&s=f963018b8df2854d30f8133965fbd29f",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-2bbfb191444c",
-      "title": "Trump Declares Energy Ceasefire Between Ukraine and Russia",
-      "description": "US President Donald Trump announced an immediate energy ceasefire between Russia and Ukraine on Sunday, Oct. 11, saying that both parties agreed to halt attacks on energy infrastructure. The announcement follows days of diplomatic friction over US diesel sanctions waivers, Ukrainian refinery strikes, and President Volo…",
-      "url": "https://www.kyivpost.com/post/86743",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-10-11T14:28:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/10/11/b4c1dcbe3f5b9a45d023c9f065fae8a7.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -84b8ecadcc6d",
-      "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
-      "description": "UN Secretary-General António Guterres has condemned a Houthi missile attack on Riyadh’s main airport that Saudi authorities say killed 12 people and wounded more than 300.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168572",
-      "source": "UN News",
-      "publishedAt": "2026-10-11T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/06-11-2020_Riyadh_Saudi_Arabia_unsplash.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

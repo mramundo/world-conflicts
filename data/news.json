@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-14T19:13:18Z",
+  "updated": "2026-10-14T23:01:32Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,60 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-looks-for-off-ramp-from-trump-s-icc-feud-before-us-sanctions-kick-in",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-14T19:13:12Z",
+      "publishedAt": "2026-10-14T23:01:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F8%2F1%2F13311813-2-eng-GB%2Fce5e0505094d-93f4361a-2278-441f-ba7c-2861ef370fbb.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-ff4c841e83bf",
+      "title": "Why Zelensky's meeting with Burnham matters",
+      "description": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
+      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-14T20:41:03Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/069c/live/567fb8d0-c817-11f1-a64c-550be9e3c66b.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -ec0f6dc52915",
+      "title": "US lifts sanctions on Venezuela’s top legislator",
+      "description": "Jorge Rodriguez has been removed from OFAC&#039;s sanctions list in latest US push for oil control and bilateral diplomacy.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-14T19:53:03Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acfb99e-1791998366.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-df8c255bbb4a",
+      "title": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
+      "description": "Restrictions reported by Ukraine on its use of the US satellite internet system Starlink have exposed Kyiv's reliance on the technology for both offensive and defensive operations in its fight against Russia'a invasion, analysts and observers say. Speaking with FRANCE 24's Mark Owen, David Galbreath Professor of War an…",
+      "url": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres",
+      "source": "France24",
+      "publishedAt": "2026-10-14T19:49:17Z",
+      "image": "https://s.france24.com/media/display/7652471c-c804-11f1-ac63-6313a763b466/w:1024/p:16x9/EN-20261014-210507-211251-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,48 +113,17 @@
       "tags": []
     },
     {
-      "id": "fra-88a3c3bb6857",
-      "title": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
-      "description": "Yemen's Houthi rebels said Wednesday they had targeted facilities belonging to Saudi oil giant Aramco after officials in Riyadh reported a strike on a building in an area housing the energy giant's headquarters. The Iran-back militia also claimed missile strikes on the capital Riyadh and vowed to continue attacking Sau…",
-      "url": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
-      "source": "France24",
-      "publishedAt": "2026-10-14T16:21:53Z",
-      "image": "https://s.france24.com/media/display/84e4ed72-bf65-11f1-8c8d-13420ab900a2/w:1024/p:16x9/000-D26B6KC.jpg",
+      "id": "npr-e877a5cc587a",
+      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+      "description": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
+      "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
+      "source": "NPR World",
+      "publishedAt": "2026-10-14T11:38:51Z",
+      "image": "undefined",
       "categories": [
         "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -048ad41484e4",
-      "title": "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
-      "description": "Almost one million people cut off from food aid as health infrastructure overwhelmed by war-wounded.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-14T15:06:18Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acf87cf-1791985615.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-191e7f6ed1f6",
-      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-14T13:11:17Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/d48bf4b0-c7c6-11f1-9a39-31b474234113.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -123,6 +139,21 @@
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -3ed133336683",
+      "title": "Ukraine accuses US of aiding Russia by withholding missile warnings of strikes on Kyiv",
+      "description": "Ukrainian President Volodymyr Zelensky called on Elon Musk to restore Starlink, which Kyiv says has been slowed down. The US tech billionaire said any disruption was the responsibility of the US government, not his SpaceX company. 'Any limits on speed or usage are decided by the US military and ultimately POTUS,' he sa…",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/14/russian-energy-strikes-leave-600-000-people-without-power-says-zelensky_6758587_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-14T06:50:32Z",
+      "image": "https://img.lemde.fr/2026/10/13/458/0/5500/2750/644/322/60/0/6f2cbd0_ftp-1-zatcuymr4gpx-2026-10-13t215115z-1110268469-rc2l2oaj3f27-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -185,22 +216,6 @@
         "analysis"
       ],
       "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-2fbd2470940e",
-      "title": "How NATO plans to combat potential attacks on the alliance from Russia",
-      "description": "NPR's Steve Inskeep speaks with former U.S. Assistant Secretary for European Affairs Dan Hamilton about NATO's detailed plans to counter any possible Russian attack on the alliance.",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5998721/how-nato-plans-to-combat-potential-attacks-on-the-alliance-from-russia",
-      "source": "NPR World",
-      "publishedAt": "2026-10-13T08:44:14Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5998721",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     }

@@ -1,22 +1,36 @@
 {
-  "updated": "2026-10-14T23:01:32Z",
+  "updated": "2026-10-15T03:41:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-b0bc617e612f",
-      "title": "Japan looks for off-ramp from Trump's ICC feud before US sanctions kick in",
+      "id": "nik-ebf341822401",
+      "title": "Grab, Foodpanda heat up grocery delivery war in Singapore",
       "description": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/japan-looks-for-off-ramp-from-trump-s-icc-feud-before-us-sanctions-kick-in",
+      "url": "https://asia.nikkei.com/business/food-beverage/grab-foodpanda-heat-up-grocery-delivery-war-in-singapore",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-14T23:01:29Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F8%2F1%2F13311813-2-eng-GB%2Fce5e0505094d-93f4361a-2278-441f-ba7c-2861ef370fbb.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-10-15T03:41:57Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F8%2F1%2F13311847-2-eng-GB%2F5fabf319f089-photo_SXM2026101200005111.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -9ca8405ecea0",
+      "title": "North Korea tests two submarine-launched missiles, state media reports",
+      "description": "The tests showcase North Korea&#039;s war deterrent capabilities in the region, KCNA says.",
+      "url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-15T03:23:49Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad01c58e25e-1792023640.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -34,22 +48,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -ec0f6dc52915",
-      "title": "US lifts sanctions on Venezuela’s top legislator",
-      "description": "Jorge Rodriguez has been removed from OFAC&#039;s sanctions list in latest US push for oil control and bilateral diplomacy.",
-      "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-14T19:53:03Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acfb99e-1791998366.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

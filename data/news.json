@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T15:18:42Z",
+  "updated": "2026-10-16T19:25:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/asian-countries-should-consider-sanctions-on-the-houthis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-16T15:18:38Z",
+      "publishedAt": "2026-10-16T19:24:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F0%2F13310188-2-eng-GB%2Ff9ba4def17bd-2026-10-07T102441Z_1724716559_RC26YNAMXXDU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,32 +21,49 @@
       "tags": []
     },
     {
-      "id": "un -342aca54a829",
-      "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-      "description": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
-      "source": "UN News",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/05-10-2026_Gaza_World_Teacher_Day_%201.jpg/image560x340cropped.jpg",
+      "id": "al -e472aba22906",
+      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+      "description": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-16T18:21:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad26a473d2e9-1792174663.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-3a452ab7903a",
+      "title": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
+      "description": "Ukrainian President Volodymyr Zelensky on Friday urged European leaders to maintain their support for Kyiv and warned against easing sanctions on Russia. Speaking to reporters at the European summit in Brussels, Zelensky said that ending the war remained Ukraine’s priority but accused Russian President Vladimir Putin o…",
+      "url": "https://www.france24.com/en/video/20261016-replay-ukraine-s-zelensky-holds-presser-in-brussels",
+      "source": "France24",
+      "publishedAt": "2026-10-16T15:36:16Z",
+      "image": "https://s.france24.com/media/display/b9ec9ed2-c971-11f1-b1b5-638c1c1f5fd6/w:1024/p:16x9/EN-20261016-133038-135651-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -20a0fb9611bf",
-      "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-      "description": "Countries along NATO’s eastern flank growing increasingly concerned about the risk of escalation of the war in Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-16T10:56:20Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-20T042816Z_888155140_RC2QMNA71VDJ_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-1792058411.jpg?resize=1920%2C1440",
+      "id": "un -3ffb8a112ce2",
+      "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+      "description": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the weapons flows fuelling t…",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168612",
+      "source": "UN News",
+      "publishedAt": "2026-10-16T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -67,7 +84,7 @@
     },
     {
       "id": "rfe-f9ce22140cd7",
-      "title": "Zelenskyy Says US Diesel Deal Will Put Money \"Straight Into Putin’s Pocket\"",
+      "title": "Zelenskyy Says US Diesel Deal Will Put Money 'Straight Into Putin's Pocket'",
       "description": "Ukrainian President Volodymyr Zelenskyy said that his Russian counterpart, Vladimir Putin, has no interest in peace talks and criticized a US deal with Moscow on diesel exports, saying it will hand more money to Moscow to fund its war against his country.",
       "url": "https://www.rferl.org/a/us-senators-probe-starlink-zelenskyy-eu-summit/33877820.html",
       "source": "RFE/RL",
@@ -97,38 +114,6 @@
       "tags": []
     },
     {
-      "id": "fra-a445a0e0f1fd",
-      "title": "US considers hitting Iran with 'Mother of All Bombs'",
-      "description": "The United States is considering using its biggest non-nuclear bomb against Iran if President Donald Trump should decide to renew combat in the war that has hit a deadlock, CNN reported Thursday. Diplomatic efforts to end the conflict, which erupted with US-Israeli strikes on Iran in February, have been at an impasse s…",
-      "url": "https://www.france24.com/en/video/20261016-us-considers-hitting-iran-with-mother-of-all-bombs",
-      "source": "France24",
-      "publishedAt": "2026-10-16T09:27:05Z",
-      "image": "https://s.france24.com/media/display/b30d089c-c942-11f1-bce4-d1d2c32ebb87/w:1024/p:16x9/EN-20261016-100640-101218-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-ee3eec845236",
-      "title": "How Putin may react to the rift between the U.S. and Ukraine",
-      "description": "Journalist and Russia analyst Julia Ioffe lays out how Vladimir Putin might be trying to exploit the current divide between the U.S. and Ukraine over striking Russian oil refineries.",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6003665/how-putin-may-react-to-the-rift-between-the-u-s-and-ukraine",
-      "source": "NPR World",
-      "publishedAt": "2026-10-16T08:50:29Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6003665",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "deu-0812f928a341",
       "title": "Starlink: How Elon Musk's company influences geopolitics",
       "description": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
@@ -155,6 +140,21 @@
         "conflict"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-9519e54357f0",
+      "title": "Three years on, Israel still bars foreign journalists from entering Gaza",
+      "description": "More than a year into a declared ceasefire in Gaza — and three years into the war — Israel still hasn't allowed foreign media independent access to Gaza.",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6000378/three-years-on-israel-still-bars-foreign-journalists-from-entering-gaza",
+      "source": "NPR World",
+      "publishedAt": "2026-10-15T21:01:50Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6000378",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

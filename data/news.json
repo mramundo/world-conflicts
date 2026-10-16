@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T10:56:48Z",
+  "updated": "2026-10-16T15:18:42Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/asian-countries-should-consider-sanctions-on-the-houthis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-16T10:56:43Z",
+      "publishedAt": "2026-10-16T15:18:38Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F0%2F13310188-2-eng-GB%2Ff9ba4def17bd-2026-10-07T102441Z_1724716559_RC26YNAMXXDU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,36 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "un -342aca54a829",
+      "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+      "description": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+      "source": "UN News",
+      "publishedAt": "2026-10-16T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/05-10-2026_Gaza_World_Teacher_Day_%201.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -20a0fb9611bf",
+      "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
+      "description": "Countries along NATO’s eastern flank growing increasingly concerned about the risk of escalation of the war in Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-16T10:56:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-20T042816Z_888155140_RC2QMNA71VDJ_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-1792058411.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -32,6 +62,37 @@
         "conflict"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-f9ce22140cd7",
+      "title": "Zelenskyy Says US Diesel Deal Will Put Money \"Straight Into Putin’s Pocket\"",
+      "description": "Ukrainian President Volodymyr Zelenskyy said that his Russian counterpart, Vladimir Putin, has no interest in peace talks and criticized a US deal with Moscow on diesel exports, saying it will hand more money to Moscow to fund its war against his country.",
+      "url": "https://www.rferl.org/a/us-senators-probe-starlink-zelenskyy-eu-summit/33877820.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-16T09:42:58Z",
+      "image": "https://gdb.rferl.org/d084528b-2136-4827-9ee6-85616994cf0b_cx0_cy2_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -9f486de206fe",
+      "title": "Zelensky resumes strikes on Russian refineries, Trump brands them 'a disgrace'",
+      "description": "The end of the truce called for by the US president marks an escalation in tensions between Zelensky and Trump, following a deal between Washington and Moscow on the delivery of Russian diesel fuel.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/16/zelensky-resumes-strikes-on-russian-refineries-trump-brands-them-a-disgrace_6758672_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-16T09:35:38Z",
+      "image": "https://img.lemde.fr/2026/10/07/1000/0/6000/3000/644/322/60/0/d429871_ftp-1-5efu8qc6rlg8-2026-10-07t145925z-1886848509-rc26yna1bdl4-rtrmadp-3-ukraine-crisis-south-frontline.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -68,33 +129,17 @@
       "tags": []
     },
     {
-      "id": "al -94dbef661b7b",
-      "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
-      "description": "One man wanders Gaza in search of somewhere to sleep, having lost his family in an Israeli strike.",
-      "url": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-16T05:55:23Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/873A3642-copy-1791276123.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -0cef6e2c6721",
-      "title": "Three children, one teacher killed in Oregon elementary school shooting",
-      "description": "Police said the suspect was a 16-year-old who was shot dead by an armed bystander.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/16/three-children-one-teacher-killed-in-oregon-elementary-school-shooting_6758666_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-16T05:15:38Z",
-      "image": "https://img.lemde.fr/2026/10/16/469/0/1283/641/644/322/60/0/20ce6c6_ftp-1-o2rz9yhwxmtu-2026-10-16t020246z-96086344-rc2z3oalj6ou-rtrmadp-3-oregon-shooting.JPG",
+      "id": "deu-0812f928a341",
+      "title": "Starlink: How Elon Musk's company influences geopolitics",
+      "description": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
+      "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-16T05:51:00Z",
+      "image": "https://static.dw.com/image/77720105_6.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -145,22 +190,6 @@
       "tags": []
     },
     {
-      "id": "deu-9ed8ec420a28",
-      "title": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
-      "description": "US President Trump's diesel deal with Russia has alarmed Ukraine and its allies. What is he hoping to achieve at home, and what does the deal mean for Kyiv and Moscow?",
-      "url": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-14T17:55:00Z",
-      "image": "https://static.dw.com/image/79636152_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "the-ba068a2b28b9",
       "title": "Ukraine Accuses SpaceX of Crippling Drone Missions as Ties With U.S. Worsen",
       "description": "Starlink has been the lifeblood of Ukrainian battlefield communications since Russia's full-scale invasion in 2022.",
@@ -188,38 +217,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -bf88b22aac0c",
-      "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
-      "description": "Yemen’s southwestern city of Taiz is facing a “devastating” humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168589",
-      "source": "UN News",
-      "publishedAt": "2026-10-13T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026-WHO-Yemen-cholera.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-0cfd257f112c",
-      "title": "Russia Pounds Ukraine In Overnight Missile And Drone Attacks",
-      "description": "Russia launched overnight missile and drone attacks across Ukraine, striking Kyiv, Kharkiv, and other regions. At least four people were killed in Kharkiv. The attacks came amid a US-proposed energy cease-fire that Moscow has not confirmed.",
-      "url": "https://www.rferl.org/a/russia-pounds-ukraine-in-overnight-missile-and-drone-attacks/33875763.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-13T11:35:45Z",
-      "image": "https://gdb.rferl.org/0b09e023-0302-4cf7-4a66-08df13aec0bb_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
       "tags": []
     }
   ]

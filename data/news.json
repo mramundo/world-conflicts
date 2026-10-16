@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:16:37Z",
+  "updated": "2026-10-16T05:34:21Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/policy-asia/north-korea-s-pact-with-russia-built-to-outlast-ukraine-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-16T00:16:33Z",
+      "publishedAt": "2026-10-16T05:34:16Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F2%2F6%2F13316287-1-eng-GB%2Fb559204b5dad-2026-04-27T031248Z_577434372_RC2BXKA1NKYD_RTRMADP_3_NORTHKOREA-RUSSIA-MEMORIAL.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,28 @@
       "tags": []
     },
     {
-      "id": "the-7a3afc26dea5",
-      "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
-      "description": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineriesThe White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrast…",
-      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "id": "the-c53f14d4ab93",
+      "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
+      "description": "Maeen Abdulmalik Saeed says Iran-backed militia’s use of drones represents ‘new era of radical terrorism’The future of western security is being fought out in the mountains and hills surrounding the south-western Yemeni city of Taiz, the country’s former prime minster has said.Maeen Abdulmalik Saeed, now an adviser to …",
+      "url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
       "source": "The Guardian",
-      "publishedAt": "2026-10-15T23:57:20Z",
-      "image": "https://i.guim.co.uk/img/media/0859cf99ca689403c3543c139d63683eaa747f5c/292_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=11663876b56431fa0b2ac260feb4cd97",
+      "publishedAt": "2026-10-16T04:00:50Z",
+      "image": "https://i.guim.co.uk/img/media/a44aafe26a8cef8164c2968995cf20359ae24dd8/476_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4233e9e4fc04203f6423c778cfae9c18",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -1d96462ec514",
+      "title": "Trump calls renewed Ukraine attacks on Russian refineries 'a disgrace'",
+      "description": "In an interview with Newsmax on Thursday, Donald Trump discussed the war in Ukraine and weighed in on Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky. 'I think they actually both would like to see it end,' Trump said. 'But I think I find Zelensky to be more difficult to deal with than Putin.…",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/16/trump-calls-renewed-ukraine-attacks-on-russian-refineries-a-disgrace_6758661_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-16T02:38:29Z",
+      "image": "https://img.lemde.fr/2026/10/15/695/0/6500/3250/644/322/60/0/8d66331_ftp-1-qh5psu0uwix9-2026-10-15t171814z-1585934006-rc2t3oahmwel-rtrmadp-3-usa-trump.JPG",
       "categories": [
         "conflict"
       ],
@@ -35,17 +50,17 @@
       "tags": []
     },
     {
-      "id": "al -47efad001609",
-      "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
-      "description": "Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+      "id": "al -a0d6097fe9c1",
+      "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+      "description": "ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens a military still bombing civilians.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-15T16:50:42Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad1005c-1792082012.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-16T01:34:47Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-08T020751Z_22596828_RC2OYNAMA7HM_RTRMADP_3_MALAYSIA-MYANMAR-1792058776.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -108,22 +123,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -b8e10c2fc10f",
-      "title": "'Who can still believe Donald Trump? Certainly not Ukrainians, probably not Russians, and especially not Europeans'",
-      "description": "The latest about-face by the US president toward Moscow shows Europe that it must once again take the lead in seeking to end the war in Ukraine, writes Le Monde columnist Sylvie Kauffmann.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/10/15/who-can-still-believe-donald-trump-certainly-not-ukrainians-probably-not-russians-and-especially-not-europeans_6758630_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-15T09:31:27Z",
-      "image": "https://img.lemde.fr/2026/10/15/0/0/2451/1225/644/322/60/0/3a91b0c_ftp-1-t2s6bi0cdx7o-9e19aae392f44591bc9a26d9690fac71-0-9f7b49fb448c41a5a770a17e783ddc37.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

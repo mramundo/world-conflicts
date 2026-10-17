@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T11:27:50Z",
+  "updated": "2026-10-17T15:10:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/asian-countries-should-consider-sanctions-on-the-houthis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-17T11:27:45Z",
+      "publishedAt": "2026-10-17T15:10:46Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F0%2F13310188-2-eng-GB%2Ff9ba4def17bd-2026-10-07T102441Z_1724716559_RC26YNAMXXDU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,62 @@
       "tags": []
     },
     {
-      "id": "ans-f05ec6c1272d",
-      "title": "Zelensky, 'allentamento sanzioni Usa premiano e incoraggiano Putin'",
-      "description": "Mosca vuole lasciare l'Ucraina in blackout alla vigilia dell'inverno",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/17/zelensky-allentamento-sanzioni-usa-premiano-e-incoraggiano-putin_8c2a5686-8f0d-425d-bd98-1a1cd4b5257b.html",
+      "id": "kyi-e6036c286d85",
+      "title": "Ukraine Strikes Russian Drone Plant, Missile Brigade Depot",
+      "description": "The General Staff of the Armed Forces of Ukraine confirmed precision strikes against the Roboavia drone development and production plant in Russia’s Rostov region and a missile brigade logistics depot in the Bryansk region. The Oct. 16 strike on Roboavia’s facility near Khutor Lenina aims to disrupt Russian UAV assembl…",
+      "url": "https://www.kyivpost.com/post/87387",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-10-17T13:46:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/02/08/097bf7e12c708b3ffd2d3da2a9d8f581.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-3f56e751765b",
+      "title": "Zelensky: 'L'allentamento delle sanzioni Usa premiano e incoraggiano Putin'",
+      "description": "'Mosca punta a un blackout in Ucraina prima dell'inverno'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/trump-sospende-sanzioni-e-dazi-alla-russia-sullexport_c94c6910-154f-4071-9bce-b30372b93263.html",
       "source": "ANSA",
-      "publishedAt": "2026-10-17T09:35:05Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/4e8474c8fd207bd4cfcef8823c52b025.jpg",
+      "publishedAt": "2026-10-17T13:21:03Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2025/8/16/719b56a0ca50bc9d016c9e356dfb0a52.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-4927dc620d15",
+      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+      "description": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
+      "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-17T11:34:00Z",
+      "image": "https://static.dw.com/image/79686826_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -1246c2c5440a",
+      "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
+      "description": "Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala&#039;s busy livestock market.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-17T09:44:47Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/03/AP25085733336699-1743075401.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -63,37 +108,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e46fe393da38",
-      "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-      "description": "Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-17T06:41:34Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad19542-1792120130.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-f07f65a4e8fe",
-      "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
-      "description": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
-      "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-17T06:04:00Z",
-      "image": "https://static.dw.com/image/79675080_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -201,21 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-ab151edb92af",
-      "title": "Saving Lives on the Front Line: Kyiv Post’s Jason Smart Hits €1M Milestone",
-      "description": "Organized alongside security analyst Sergej Sumlenny, the campaign drew 8,585 global contributors to supply frontline combat units with tailored drones, and critical medical gear to help Ukraine’s Army defeat Russia.",
-      "url": "https://www.kyivpost.com/videos/87059",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-10-14T19:00:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/10/14/935ebc914421c7f505c3ffa53dc67e30.png?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     }

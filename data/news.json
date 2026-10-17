@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T01:09:18Z",
+  "updated": "2026-10-17T06:42:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/asian-countries-should-consider-sanctions-on-the-houthis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-17T01:09:10Z",
+      "publishedAt": "2026-10-17T06:42:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F0%2F13310188-2-eng-GB%2Ff9ba4def17bd-2026-10-07T102441Z_1724716559_RC26YNAMXXDU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,22 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -a82e02a8a5c0",
+      "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
+      "description": "Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-17T01:37:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792200849.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -51,19 +67,18 @@
       "tags": []
     },
     {
-      "id": "al -e472aba22906",
-      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-      "description": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
-      "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-16T18:21:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad26a473d2e9-1792174663.jpg?resize=1920%2C1440",
+      "id": "bbc-acc3dc264d52",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-16T16:00:30Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 5,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -171,22 +186,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-1938d0f50d7c",
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-15T11:25:19Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce9/live/0d443230-c809-11f1-aff0-65f8bbf884f7.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

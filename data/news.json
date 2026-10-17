@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T06:42:15Z",
+  "updated": "2026-10-17T11:27:50Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/asian-countries-should-consider-sanctions-on-the-houthis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-17T06:42:07Z",
+      "publishedAt": "2026-10-17T11:27:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F0%2F13310188-2-eng-GB%2Ff9ba4def17bd-2026-10-07T102441Z_1724716559_RC26YNAMXXDU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,33 +21,94 @@
       "tags": []
     },
     {
-      "id": "al -a82e02a8a5c0",
-      "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
-      "description": "Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-17T01:37:07Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792200849.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -5956036d38f1",
-      "title": "War in Ukraine: Europe stands united behind Kyiv but must revisit how to finance its support",
-      "description": "Invited to the European leaders' summit in Brussels on Friday, Volodymyr Zelensky, weakened by what he called the 'betrayal' of Donald Trump, asked his allies for an additional €70 billion in aid for the year 2027.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/17/war-in-ukraine-europe-stands-united-behind-kyiv-but-must-revisit-how-to-finance-its-support_6758692_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-16T23:25:58Z",
-      "image": "https://img.lemde.fr/2026/10/16/303/0/5622/2811/644/322/60/0/ddfbdae_ftp-1-mpgiyn0y32qd-45c657de157b475da56c1dd141a818a5-0-364d44b581644338bba3ebfc309ba964.jpg",
+      "id": "ans-f05ec6c1272d",
+      "title": "Zelensky, 'allentamento sanzioni Usa premiano e incoraggiano Putin'",
+      "description": "Mosca vuole lasciare l'Ucraina in blackout alla vigilia dell'inverno",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/17/zelensky-allentamento-sanzioni-usa-premiano-e-incoraggiano-putin_8c2a5686-8f0d-425d-bd98-1a1cd4b5257b.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-17T09:35:05Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/4e8474c8fd207bd4cfcef8823c52b025.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-32eca5835dd1",
+      "title": "Trump waives new Russia sanctions as Ukraine ties slump",
+      "description": "President Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia's energy revenues, marking a new low in Washington's ties with war-torn Ukraine. Our correspondent Gulliver Cragg tells us more.",
+      "url": "https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump",
+      "source": "France24",
+      "publishedAt": "2026-10-17T09:23:52Z",
+      "image": "https://s.france24.com/media/display/3c383e2c-ca04-11f1-b3f4-d1d2c32ebb87/w:1024/p:16x9/EN-20261017-100356-100540-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-7b26304572e8",
+      "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
+      "description": "Families have been scattered, fathers separated from their children, and couples unable to reunite and marryWijdan Abu Matar, 43, was forced to leave Gaza in November 2023 with her eight children for medical treatment, while her injured husband, Hatem, remained behind.Wijdan and her family were living in the Nuseirat r…",
+      "url": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-17T07:00:24Z",
+      "image": "https://i.guim.co.uk/img/media/fc8d5b8d08dd38d9e35656f2c2773931a98c396a/247_0_4525_3620/master/4525.jpg?width=140&quality=85&auto=format&fit=max&s=6946ce9689769c522c5f24656580da38",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e46fe393da38",
+      "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
+      "description": "Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-17T06:41:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad19542-1792120130.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-f07f65a4e8fe",
+      "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+      "description": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
+      "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-17T06:04:00Z",
+      "image": "https://static.dw.com/image/79675080_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -54ae305bba93",
+      "title": "Iran denies Saudi accusation of involvement in Houthi attacks",
+      "description": "Since Yemen's civil war flared back to life in July, the pro-Iran Houthis have repeatedly struck Saudi targets including Red Sea tankers, oil facilities and Riyadh's international airport, where 13 people were killed in a single attack last week.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/17/iran-denies-saudi-accusation-of-involvement-in-houthi-attacks_6758694_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-17T01:41:03Z",
+      "image": "https://img.lemde.fr/2026/10/16/714/0/2333/1166/644/322/60/0/c734902_ftp-1-3kkeuzwkcjgq-5367209-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -82,21 +143,6 @@
       "tags": []
     },
     {
-      "id": "fra-3a452ab7903a",
-      "title": "REPLAY: Ukraine's Zelensky holds presser in Brussels",
-      "description": "Ukrainian President Volodymyr Zelensky on Friday urged European leaders to maintain their support for Kyiv and warned against easing sanctions on Russia. Speaking to reporters at the European summit in Brussels, Zelensky said that ending the war remained Ukraine’s priority but accused Russian President Vladimir Putin o…",
-      "url": "https://www.france24.com/en/video/20261016-replay-ukraine-s-zelensky-holds-presser-in-brussels",
-      "source": "France24",
-      "publishedAt": "2026-10-16T15:36:16Z",
-      "image": "https://s.france24.com/media/display/b9ec9ed2-c971-11f1-b1b5-638c1c1f5fd6/w:1024/p:16x9/EN-20261016-133038-135651-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -3ffb8a112ce2",
       "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
       "description": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the weapons flows fuelling t…",
@@ -113,17 +159,17 @@
       "tags": []
     },
     {
-      "id": "ans-21b6d08f8553",
-      "title": "Costa a Zelensky, 'il sostegno dell'Europa a Kiev più forte che mai'",
-      "description": "'Non è questo il momento di allentare le sanzioni contro la Russia'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/16/costa-a-zelensky-il-sostegno-delleuropa-a-kiev-piu-forte-che-mai_a9aad7b0-1c59-4022-bff7-8f45adb55c33.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-16T10:00:32Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/f26ab9e8f236444a32e59c8213be6532.jpg",
+      "id": "the-be60abdbabf5",
+      "title": "Kremlin ‘Fully Agrees’ With Trump’s Zelensky Criticism",
+      "description": "Putin continues to demand that Kyiv cede full control of the Donetsk region as a prerequisite for any ceasefire agreement, a condition Ukraine rejects.",
+      "url": "https://www.themoscowtimes.com/2026/10/16/kremlin-fully-agrees-with-trumps-zelensky-criticism-a94000",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-10-16T11:14:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/e8/94000__e8ce86d7f9eed768776f6263f9c65107.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -141,36 +187,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-0812f928a341",
-      "title": "Starlink: How Elon Musk's company influences geopolitics",
-      "description": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
-      "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-16T05:51:00Z",
-      "image": "https://static.dw.com/image/77720105_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-c53f14d4ab93",
-      "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
-      "description": "Maeen Abdulmalik Saeed says Iran-backed militia’s use of drones represents ‘new era of radical terrorism’Food and fuel run low as besieged Yemeni city braces for Houthi breakthroughThe future of western security is being fought out in the mountains and hills surrounding the south-western Yemeni city of Taiz, the countr…",
-      "url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-16T04:00:50Z",
-      "image": "https://i.guim.co.uk/img/media/a44aafe26a8cef8164c2968995cf20359ae24dd8/476_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4233e9e4fc04203f6423c778cfae9c18",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -200,21 +216,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-ba068a2b28b9",
-      "title": "Ukraine Accuses SpaceX of Crippling Drone Missions as Ties With U.S. Worsen",
-      "description": "Starlink has been the lifeblood of Ukrainian battlefield communications since Russia's full-scale invasion in 2022.",
-      "url": "https://www.themoscowtimes.com/2026/10/14/ukraine-accuses-spacex-of-crippling-drone-missions-as-ties-with-us-worsen-a93970",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-10-14T09:17:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/e3/93970__e32dd4040adc82402a875287966350e7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

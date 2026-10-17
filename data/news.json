@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T18:15:18Z",
+  "updated": "2026-10-17T21:18:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/asian-countries-should-consider-sanctions-on-the-houthis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-17T18:15:14Z",
+      "publishedAt": "2026-10-17T21:18:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F0%2F13310188-2-eng-GB%2Ff9ba4def17bd-2026-10-07T102441Z_1724716559_RC26YNAMXXDU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,13 +21,13 @@
       "tags": []
     },
     {
-      "id": "ans-3f56e751765b",
-      "title": "Trump congela le sanzioni a Putin. Esulta la Russia, l'ira di Zelensky",
-      "description": "Lo stop al Graham Act. Mosca: 'Una svolta storica', Kiev: 'Si premia l'aggressore'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/trump-sospende-sanzioni-e-dazi-alla-russia-sullexport_c94c6910-154f-4071-9bce-b30372b93263.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-17T18:05:48Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2025/8/16/719b56a0ca50bc9d016c9e356dfb0a52.jpg",
+      "id": "bbc-471ee3079028",
+      "title": "Anti-government protesters battle with police in Albania",
+      "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-17T20:53:00Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg",
       "categories": [
         "conflict"
       ],
@@ -36,19 +36,34 @@
       "tags": []
     },
     {
-      "id": "al -498fa49355c8",
-      "title": "Why are Latin American countries building closer ties with Israel?",
-      "description": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+      "id": "al -0c3190b68e91",
+      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+      "description": "US support at risk as Trump-Zelenskyy relations nosedive.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-17T16:54:44Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9ef5f80f-1788802552.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-17T19:03:49Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792261027.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-3f56e751765b",
+      "title": "Trump congela le sanzioni a Putin. Esulta la Russia, l'ira di Zelensky",
+      "description": "Lo stop al Graham Act. Mosca: 'Una svolta storica', Kiev: 'Si premia l'aggressore'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/trump-sospende-sanzioni-e-dazi-alla-russia-sullexport_c94c6910-154f-4071-9bce-b30372b93263.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-17T18:40:09Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2025/8/16/719b56a0ca50bc9d016c9e356dfb0a52.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -138,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-acc3dc264d52",
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-16T16:00:30Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

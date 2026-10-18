@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:07:56Z",
+  "updated": "2026-10-18T20:15:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,8 +10,24 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/asian-countries-should-consider-sanctions-on-the-houthis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-18T17:07:54Z",
+      "publishedAt": "2026-10-18T20:15:30Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F0%2F13310188-2-eng-GB%2Ff9ba4def17bd-2026-10-07T102441Z_1724716559_RC26YNAMXXDU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -c31aa89be2f7",
+      "title": "Why the US is holding secret talks with Myanmar’s military ruler",
+      "description": "Why is the Trump administration holding secret talks with Myanmar&#039;s military ruler, accused of genocide?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-18T18:22:11Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792347693.jpg?resize=1856%2C1080&amp;quality=80",
       "categories": [
         "conflict",
         "analysis"
@@ -51,6 +67,21 @@
       "tags": []
     },
     {
+      "id": "the-45797f6cff4d",
+      "title": "Air Force officer killed in rappelling accident before UTSA’s game against Navy",
+      "description": "Officer fell from rafters during pregame display Man treated on field before being taken to hospitalAn Air Force officer has died after he fell from the rafters of the Alamodome before the University of Texas at San Antonio’s home game against Navy on Saturday.The officer, who has not been named, was taking part in an …",
+      "url": "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-18T14:03:54Z",
+      "image": "https://i.guim.co.uk/img/media/84eb76d4dd7f4b893b08ad6ad76f4f7e6706258b/842_0_6240_4990/master/6240.jpg?width=140&quality=85&auto=format&fit=max&s=d9f49b263aa5ae21a33e7dd4e8b90344",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -554e1b781b5b",
       "title": "Ukraine sets Saint Petersburg refinery ablaze in large-scale drone attack",
       "description": "Kyiv says its retaliatory strikes are fair retribution for years of Russia's offensive and destruction of its energy infrastructure",
@@ -58,21 +89,6 @@
       "source": "Le Monde (EN)",
       "publishedAt": "2026-10-18T13:21:47Z",
       "image": "https://img.lemde.fr/2026/10/18/115/0/3818/1909/644/322/60/0/a658630_ftp-1-z2xga9lsvxbj-2026-10-18t123136z-327748081-rc2o5oawutgh-rtrmadp-3-ukraine-crisis-russia-drone.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -76efcc951954",
-      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-      "description": "Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T10:34:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261018__D3M74UK__v1__HighRes__RussiaUkraineConflict-1792313964.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -137,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-7b26304572e8",
-      "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
-      "description": "Families have been scattered, fathers separated from their children, and couples unable to reunite and marryWijdan Abu Matar, 43, was forced to leave Gaza in November 2023 with her eight children for medical treatment, while her injured husband, Hatem, remained behind.Wijdan and her family were living in the Nuseirat r…",
-      "url": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-17T07:00:24Z",
-      "image": "https://i.guim.co.uk/img/media/fc8d5b8d08dd38d9e35656f2c2773931a98c396a/247_0_4525_3620/master/4525.jpg?width=140&quality=85&auto=format&fit=max&s=6946ce9689769c522c5f24656580da38",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },

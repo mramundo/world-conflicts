@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T08:39:50Z",
+  "updated": "2026-10-18T13:03:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/opinion/asian-countries-should-consider-sanctions-on-the-houthis",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-18T08:39:46Z",
+      "publishedAt": "2026-10-18T13:03:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F0%2F13310188-2-eng-GB%2Ff9ba4def17bd-2026-10-07T102441Z_1724716559_RC26YNAMXXDU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,47 +21,77 @@
       "tags": []
     },
     {
-      "id": "bbc-fad65068fd88",
-      "title": "Church makes sainthood case for 'WW1 hero' priest",
-      "description": "Fr Willie Doyle was killed during World War One while trying to help injured and dying soldiers.",
-      "url": "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-18T05:15:53Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9889/live/84cf90b0-ca61-11f1-8a78-59dd7000461f.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -72759304e5c9",
-      "title": "At least 19 dead in stampede at Kolkata Hindu festival",
-      "description": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-18T04:21:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792296376.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-16d05cde6cdc",
-      "title": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
-      "description": "\"Mothers of Kherson\" has opened at Poland's National Opera. The performance was co-produced with New York's Metropolitan Opera and created in close association with Save Ukraine, a group helping to bring back Ukrainian children who remain in Russia. More than four years after Russia's invasion of Ukraine, the opera aim…",
-      "url": "https://www.france24.com/en/video/20261017-ukraine-war-mothers-of-kherson-opera-opens-in-poland",
+      "id": "fra-68568bec36c1",
+      "title": "Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze",
+      "description": "A large-scale Ukrainian drone attack on Russia's second-largest city Saint Petersburg killed at least one person and hospitalised another five on Sunday. The attack – which also sparked fires at an oil refinery and depot – comes as Kyiv accused Russia of violating Washington's \"energy ceasefire\" dozens of times.",
+      "url": "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack",
       "source": "France24",
-      "publishedAt": "2026-10-17T15:57:33Z",
-      "image": "https://s.france24.com/media/display/5f500ace-ca41-11f1-8347-6313a763b466/w:1024/p:16x9/EN-20261017-170858-171041-CS.jpg",
+      "publishedAt": "2026-10-18T12:03:23Z",
+      "image": "https://s.france24.com/media/display/c0e82312-cae0-11f1-8a5c-6313a763b466/w:1024/p:16x9/08624102e36095dfc5692eadfc7780474a0d2bb4.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-13481defb80a",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-18T11:57:49Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -76efcc951954",
+      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+      "description": "Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-18T10:34:09Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261018__D3M74UK__v1__HighRes__RussiaUkraineConflict-1792313964.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-3d8979394da3",
+      "title": "Zelensky: Russia Hit Energy Grid 76 Times Since Ceasefire Call",
+      "description": "President Volodymyr Zelensky has announced that Russian forces carried out 76 targeted strikes against Ukrainian energy and oil-and-gas infrastructure since US President Donald Trump declared an “energy ceasefire” a week ago. Overnight strikes damaged substations across the Odesa, Khmelnytskyi, Vinnytsia and Zhytomyr r…",
+      "url": "https://www.kyivpost.com/post/87414",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-10-18T09:37:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/10/18/6774a90098e0fdf29353b781e0242719.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-5e15dcf4f7eb",
+      "title": "Nyt, la proposta Usa all'Europa, 'comprate più gas dalla Russia'",
+      "description": "Illustrata da Kushner e Witkoff nell'ambito del piano di pace sulla guerra in Ucraina",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/17/nyt-la-proposta-usa-alleuropa-comprate-piu-gas-dalla-russia_a4d2fb38-7407-4ce1-8522-b161d15f765b.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-17T21:35:41Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/7/9/a933d02a7664c2cab64881f08cc4baa8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,21 +111,6 @@
       "tags": []
     },
     {
-      "id": "kyi-e6036c286d85",
-      "title": "Ukraine Strikes Russian Drone Plant, Missile Brigade Depot",
-      "description": "The General Staff of the Armed Forces of Ukraine confirmed precision strikes against the Roboavia drone development and production plant in Russia’s Rostov region and a missile brigade logistics depot in the Bryansk region. The Oct. 16 strike on Roboavia’s facility near Khutor Lenina aims to disrupt Russian UAV assembl…",
-      "url": "https://www.kyivpost.com/post/87387",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-10-17T13:46:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/02/08/097bf7e12c708b3ffd2d3da2a9d8f581.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-4927dc620d15",
       "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
       "description": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
@@ -103,21 +118,6 @@
       "source": "Deutsche Welle",
       "publishedAt": "2026-10-17T11:34:00Z",
       "image": "https://static.dw.com/image/79686826_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-f05ec6c1272d",
-      "title": "Zelensky, 'allentamento sanzioni Usa premiano e incoraggiano Putin'",
-      "description": "Mosca vuole lasciare l'Ucraina in blackout alla vigilia dell'inverno",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/17/zelensky-allentamento-sanzioni-usa-premiano-e-incoraggiano-putin_8c2a5686-8f0d-425d-bd98-1a1cd4b5257b.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-17T09:35:05Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/4e8474c8fd207bd4cfcef8823c52b025.jpg",
       "categories": [
         "conflict"
       ],

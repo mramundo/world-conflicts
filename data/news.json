@@ -1,9 +1,100 @@
 {
-  "updated": "2026-10-19T19:06:17Z",
+  "updated": "2026-10-19T23:24:43Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "nik-e176745c3e2e",
+      "title": "Japan-US drills place advanced missile launchers on front line with China",
+      "description": "",
+      "url": "https://asia.nikkei.com/politics/defense/japan-us-drills-place-advanced-missile-launchers-on-front-line-with-china",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-10-19T23:24:40Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F8%2F6%2F13336856-1-eng-GB%2F2fcef858918b-20261019N-NMESIS-anti-ship-missiles.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4e0bc42f2008",
+      "title": "Children among six killed in Russian drone strike on Ukraine park",
+      "description": "Children among six killed in Russian drone strike on Ukraine park",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-19T23:12:42Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ukarine-park-horizontal-thumb-1792451517.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -585471ad359c",
+      "title": "Footage of violence from French protests goes viral on social media",
+      "description": "Looting and clashes on Saturday were widely filmed and shared, with some even live-streamed, particularly on TikTok.",
+      "url": "https://www.lemonde.fr/en/politics/article/2026/10/19/footage-of-violence-from-french-protests-goes-viral-on-social-media_6759171_5.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-19T21:25:40Z",
+      "image": "https://img.lemde.fr/2026/10/19/139/0/1078/539/644/322/60/0/5258052_upload-1-0oi5axf6stkw-17tiktok.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-d7144f84d686",
+      "title": "US Church on frontline of battle against drug known as 'tranq'",
+      "description": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+      "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-19T21:05:54Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483d/live/f2db5f30-cbdd-11f1-9a39-31b474234113.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-1a475bb2ba5e",
+      "title": "Il Papa sente Zelensky, 'lavorare a una tregua per Oleshky'",
+      "description": "Trump scarica ancora il leader ucraino. Raid russo su un parco giochi. Putin: summit con Trump-Xi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/il-papa-sente-zelensky-lavorare-a-una-tregua-per-oleshky_44913f21-692e-4441-9d14-d30a800c9163.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-19T20:45:57Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/19/843ac946e2f1211da993d38590671a8d.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-9388a966378c",
+      "title": "Funeral Held For Five Children From One Ukrainian Family Killed In Russian Strike In July",
+      "description": "Mourners gathered in Radushne in Ukraine's Dnipropetrovsk Region on October 19 at a funeral ceremony for five children from the same family who were killed in an air strike on July 30. Their burial was delayed as investigators used DNA analysis to identify the victims. Five other members of the Voronov family had alrea…",
+      "url": "https://www.rferl.org/a/ukraine-family-children-killed-air-strike-radushne/33879683.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-19T20:18:16Z",
+      "image": "https://gdb.rferl.org/56fad062-e2e5-42d6-4bb3-08df13aec0bb_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "fra-949c533a8101",
       "title": "Zelensky says Starshield speed limits slowing down frontline response",
@@ -36,37 +127,6 @@
       "tags": []
     },
     {
-      "id": "al -68221f52a770",
-      "title": "Search under way for four soldiers missing after gang attack in Haiti",
-      "description": "The UN Security Council holds a meeting on Haiti; the attack on UN-backed forces is expected to dominate the discussions.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-19T16:40:01Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad61ca02b83-1792416928.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-713f2e047f06",
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "description": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-19T16:20:51Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-8763170ed0ab",
       "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
       "description": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
@@ -84,32 +144,18 @@
       "tags": []
     },
     {
-      "id": "le -a3fdd38e9928",
-      "title": "Who is Abdul Malik al-Houthi, the reclusive Houthi leader shaped by war?",
-      "description": "At the head of the movement that bears his name, the mysterious Abdul Malik al-Houthi combines religious, political and military authority, without ever appearing in public.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/19/who-is-abdul-malik-al-houthi-the-reclusive-houthi-leader-shaped-by-war_6758804_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-19T14:31:13Z",
-      "image": "https://img.lemde.fr/2026/10/12/412/0/4947/2473/644/322/60/0/be42738_ftp-1-um5n7u1q9pna-5331100-01-06.jpg",
+      "id": "un -20bf405903b2",
+      "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+      "description": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to protect Palestinian f…",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+      "source": "UN News",
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/21-10-2025-PARC-olive-harvest-03.jpg/image560x340cropped.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-a5e520f894ec",
-      "title": "Sale a 50 il numero delle vittime nel raid Houthi contro campo militare Yemen",
-      "description": "Ribelli hanno lanciato missili balistici",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/19/sale-a-50-il-numero-delle-vittime-nel-raid-houthi-contro-campo-militare_3bafa7af-5497-4134-8d0a-95c7b0131d65.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-19T12:57:47Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/10/18af0f63128a9693942a3a4337fc8b50.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -144,6 +190,21 @@
       "tags": []
     },
     {
+      "id": "cs -91f4a24fc667",
+      "title": "French police arrest 1,800 after violent clashes and looting mar protests",
+      "description": "Demonstrators denounced rising living costs and poor school conditions. Authorities said masked groups set fires and attacked public buildings in several cities.",
+      "url": "https://www.csmonitor.com/World/2026/1018/france-protests-arrests?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-10-18T12:54:10Z",
+      "image": "https://images.csmonitor.com/csm/2026/10/1220778_1_france.jpeg_standard.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-3d8979394da3",
       "title": "Zelensky: Russia Hit Energy Grid 76 Times Since Ceasefire Call",
       "description": "President Volodymyr Zelensky has announced that Russian forces carried out 76 targeted strikes against Ukrainian energy and oil-and-gas infrastructure since US President Donald Trump declared an “energy ceasefire” a week ago. Overnight strikes damaged substations across the Odesa, Khmelnytskyi, Vinnytsia and Zhytomyr r…",
@@ -155,52 +216,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -ed6a186ca338",
-      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-      "description": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-      "source": "UN News",
-      "publishedAt": "2026-10-17T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-db3be83403fc",
-      "title": "Trump Waives Graham Act Sanctions On Russia Before They Take Effect",
-      "description": "US President Donald Trump has waived nearly all substantive sanctions, tariffs, and restrictions included in a bipartisan law aimed at pressuring Russia to end its war against Ukraine, prompting sharp criticism from Ukraine advocates and US lawmakers from both parties.",
-      "url": "https://www.rferl.org/a/trump-waives-graham-act-sanctions-on-russia/33878335.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-17T07:33:35Z",
-      "image": "https://gdb.rferl.org/5b32fe71-af7f-4c89-bb04-5cebebf97c4a_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -2309c1ddf071",
-      "title": "A broken peace deal is reigniting war in Ethiopia’s Tigray region",
-      "description": "Issues left unresolved in the peace agreement that ended fighting in Ethiopia’s Tigray region in 2022 are pushing the area once again toward war.",
-      "url": "https://www.csmonitor.com/World/Africa/2026/1016/ethiopia-tigray-mekelle-war-caretaker-administration?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-10-16T20:00:11Z",
-      "image": "https://images.csmonitor.com/csm/2026/10/1016_OETHIOPIACONFLICT_LEDE.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

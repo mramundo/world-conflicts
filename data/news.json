@@ -1,37 +1,115 @@
 {
-  "updated": "2026-10-19T12:28:36Z",
+  "updated": "2026-10-19T19:06:17Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -12f3e06a63f2",
-      "title": "How a grass fire at a Canadian military base killed four soldiers",
-      "description": "Cause of grass fire remains unknown as PM Carney calls it one of the worst peacetime tragedies for Canadian military.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-19T09:12:31Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad5cd888509-1792396680.jpg?resize=1920%2C1331",
+      "id": "fra-949c533a8101",
+      "title": "Zelensky says Starshield speed limits slowing down frontline response",
+      "description": "Speed limits on a US military grade satellite system are hindering Ukrainian forces' ability to coordinate drone strikes against Russian forces, President Volodymyr Zelensky said on Monday. Zelensky said frontline units had reported that the Starshield equipment \"stops functioning at speeds of 130-160 kilometres (80-10…",
+      "url": "https://www.france24.com/en/zelensky-says-starshield-speed-limits-slowing-down-frontline-response",
+      "source": "France24",
+      "publishedAt": "2026-10-19T18:45:57Z",
+      "image": "https://s.france24.com/media/display/5b2ff02a-cbeb-11f1-aa78-2d1c143cdef3/w:1024/p:16x9/EN-20261019-201534-202025-CS.jpg",
       "categories": [
         "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-ba686d1e7cf4",
+      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+      "description": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government security forces, making it the largest single loss of life since the country’s civi…",
+      "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-19T17:15:23Z",
+      "image": "https://i.guim.co.uk/img/media/44bec58d0d4cb4eaba65d281103bb5d9e4a39dd6/47_0_3212_2571/master/3212.jpg?width=140&quality=85&auto=format&fit=max&s=fe8ae50d263858ba5e84accb2a3c14b1",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -68221f52a770",
+      "title": "Search under way for four soldiers missing after gang attack in Haiti",
+      "description": "The UN Security Council holds a meeting on Haiti; the attack on UN-backed forces is expected to dominate the discussions.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-19T16:40:01Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad61ca02b83-1792416928.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-713f2e047f06",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "description": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-19T16:20:51Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-8763170ed0ab",
+      "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
+      "description": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
+      "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-19T15:07:00Z",
+      "image": "https://static.dw.com/image/79590595_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 8,
       "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "the-6af66fd74ce0",
-      "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
-      "description": "Ukrainian president accuses Washington of ‘denial of reality’ in ongoing row with Trump over apparent support for MoscowUkraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said, reviving concerns that Washington is withholding intelligence i…",
-      "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-19T09:03:55Z",
-      "image": "https://i.guim.co.uk/img/media/f0efe124ad4a75f1612be6e5eeb68f07d1ec3a34/629_0_4178_3342/master/4178.jpg?width=140&quality=85&auto=format&fit=max&s=329288f69496154dd455c7fd38620087",
+      "id": "le -a3fdd38e9928",
+      "title": "Who is Abdul Malik al-Houthi, the reclusive Houthi leader shaped by war?",
+      "description": "At the head of the movement that bears his name, the mysterious Abdul Malik al-Houthi combines religious, political and military authority, without ever appearing in public.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/19/who-is-abdul-malik-al-houthi-the-reclusive-houthi-leader-shaped-by-war_6758804_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-19T14:31:13Z",
+      "image": "https://img.lemde.fr/2026/10/12/412/0/4947/2473/644/322/60/0/be42738_ftp-1-um5n7u1q9pna-5331100-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-a5e520f894ec",
+      "title": "Sale a 50 il numero delle vittime nel raid Houthi contro campo militare Yemen",
+      "description": "Ribelli hanno lanciato missili balistici",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/19/sale-a-50-il-numero-delle-vittime-nel-raid-houthi-contro-campo-militare_3bafa7af-5497-4134-8d0a-95c7b0131d65.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-19T12:57:47Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/10/18af0f63128a9693942a3a4337fc8b50.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,51 +129,6 @@
       "tags": []
     },
     {
-      "id": "fra-51df9cd41c08",
-      "title": "Russia pounds Kyiv as Rubio urges Ukraine's Zelensky to 'focus' on ending the war",
-      "description": "Russia on Monday said it carried out a \"massive strike\" on targets in Kyiv and its region as US Secretary of State Marco Rubio denied that Washington had paused intelligence sharing with Ukraine and urged its president Volodymyr Zelensky to focus on ending the war.",
-      "url": "https://www.france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine",
-      "source": "France24",
-      "publishedAt": "2026-10-19T06:00:06Z",
-      "image": "https://s.france24.com/media/display/bf71a96e-cb7f-11f1-8810-6313a763b466/w:1024/p:16x9/2026-10-18T235422Z-1304641961-RC2X5OA93ZJS-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-dbaffab862f4",
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-19T00:06:25Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-f51a7ecb9db8",
-      "title": "Trump accusa Zelensky, 'non vuole la fine della guerra'",
-      "description": "'Prende di mira le raffinerie diesel in Russia sapendo che i raid danneggiano i mercati'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/trump-accusa-zelensky-non-vuole-la-fine-della-guerra_65fa0f90-d675-4d8a-8b9e-fb363ba75d1a.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-18T21:05:07Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/2a1567a936dd4d94549a78eda8897374.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "npr-843e458e4e91",
       "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
       "description": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
@@ -107,21 +140,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -0cb2d45e953c",
-      "title": "'A tsunami of Jewish terrorism': Settler violence in occupied West Bank conceals ethnic cleansing",
-      "description": "Ahead of Israel's upcoming October 27 parliamentary elections, several NGOs describe the methods settlers use to drive Palestinians from their land and the obstacles they place in the way of local olive harvests.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/18/a-tsunami-of-jewish-terrorism-settler-violence-in-occupied-west-bank-conceals-ethnic-cleansing_6758736_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-18T17:35:35Z",
-      "image": "https://img.lemde.fr/2026/10/17/480/0/5760/2880/644/322/60/0/362ec4e_upload-1-enks9wlzyrdk-lgeai-wb-17oct2026-34.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -152,21 +170,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-4927dc620d15",
-      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-      "description": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
-      "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-17T11:34:00Z",
-      "image": "https://static.dw.com/image/79686826_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,37 +1,82 @@
 {
-  "updated": "2026-10-19T05:50:46Z",
+  "updated": "2026-10-19T12:28:36Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-4dddd1d3497e",
-      "title": "Asian countries should consider sanctions on the Houthis",
-      "description": "",
-      "url": "https://asia.nikkei.com/opinion/asian-countries-should-consider-sanctions-on-the-houthis",
-      "source": "Nikkei Asia",
-      "publishedAt": "2026-10-19T05:50:42Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F0%2F13310188-2-eng-GB%2Ff9ba4def17bd-2026-10-07T102441Z_1724716559_RC26YNAMXXDU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1-.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "id": "al -12f3e06a63f2",
+      "title": "How a grass fire at a Canadian military base killed four soldiers",
+      "description": "Cause of grass fire remains unknown as PM Carney calls it one of the worst peacetime tragedies for Canadian military.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-19T09:12:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad5cd888509-1792396680.jpg?resize=1920%2C1331",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "al -d32f143c8a8f",
-      "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-      "description": "The air strike, one of Ukraine&#039;s largest in the war, comes amid rising tensions between Kyiv and Washington.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-19T02:10:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261018__D3M74UK__v1__HighRes__RussiaUkraineConflict-1792313964.jpg?resize=1920%2C1440",
+      "id": "the-6af66fd74ce0",
+      "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+      "description": "Ukrainian president accuses Washington of ‘denial of reality’ in ongoing row with Trump over apparent support for MoscowUkraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said, reviving concerns that Washington is withholding intelligence i…",
+      "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-19T09:03:55Z",
+      "image": "https://i.guim.co.uk/img/media/f0efe124ad4a75f1612be6e5eeb68f07d1ec3a34/629_0_4178_3342/master/4178.jpg?width=140&quality=85&auto=format&fit=max&s=329288f69496154dd455c7fd38620087",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-958b60029bb1",
+      "title": "Russia and Ukraine Should Focus on Peace Talks, Rubio Says",
+      "description": "Rubio also appeared to confirm reports that the U.S., Russia and China are in talks to hold a summit of leaders to discuss ending the war.",
+      "url": "https://www.themoscowtimes.com/2026/10/19/russia-and-ukraine-should-focus-on-peace-talks-rubio-says-a94016",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-10-19T08:16:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/2b/94016__2bab68d139a5a6a7628aeffc5479f179.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-51df9cd41c08",
+      "title": "Russia pounds Kyiv as Rubio urges Ukraine's Zelensky to 'focus' on ending the war",
+      "description": "Russia on Monday said it carried out a \"massive strike\" on targets in Kyiv and its region as US Secretary of State Marco Rubio denied that Washington had paused intelligence sharing with Ukraine and urged its president Volodymyr Zelensky to focus on ending the war.",
+      "url": "https://www.france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-10-19T06:00:06Z",
+      "image": "https://s.france24.com/media/display/bf71a96e-cb7f-11f1-8810-6313a763b466/w:1024/p:16x9/2026-10-18T235422Z-1304641961-RC2X5OA93ZJS-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-dbaffab862f4",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-19T00:06:25Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,62 +111,17 @@
       "tags": []
     },
     {
-      "id": "the-8ede70574916",
-      "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
-      "description": "New video footage of Israeli settler assault on European delegation as Netanyahu attempts to raise doubtHours after Israeli militants attacked a delegation of European diplomats, French clerics and a visiting mayor in the occupied West Bank, Israel’s leader, Benjamin Netanyahu, responded by questioning the delegation’s…",
-      "url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-18T18:39:23Z",
-      "image": "https://i.guim.co.uk/img/media/1c174181e57743e65dae5fd70dca0124f5d5888d/0_151_3500_2802/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=2a505948063202179dea282e4a84383a",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-b581bc994d04",
-      "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
-      "description": "US President Donald Trump on Sunday endorsed Prime Minister Benjamin Netanyahu ahead of Israel's October 27 elections. It was not clear what impact the endorsement would have on voters, since many Israelis have expressed disappointment with Trump over the outcome of the Iran war and the US president's ceasefire proposa…",
-      "url": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
-      "source": "France24",
-      "publishedAt": "2026-10-18T16:25:00Z",
-      "image": "https://s.france24.com/media/display/7c3ce8c8-cb0e-11f1-946e-6313a763b466/w:1024/p:16x9/2026-10-18T155301Z-1509213277-RC2KQIA83EQP-RTRMADP-3-ISRAEL-ELECTION-TRUMP.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-13481defb80a",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-18T15:46:10Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -8f7b8b73cc93",
-      "title": "Fire at military base 'one of the worst tragedies' for the Canadian Armed Forces",
-      "description": "Four soldiers were killed and dozens injured after a fire broke out on Saturday at Canadian Forces Base Wainwright military base in western Alberta province.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/18/serious-incident-at-canada-base-causes-deaths-sparks-fire_6758726_4.html",
+      "id": "le -0cb2d45e953c",
+      "title": "'A tsunami of Jewish terrorism': Settler violence in occupied West Bank conceals ethnic cleansing",
+      "description": "Ahead of Israel's upcoming October 27 parliamentary elections, several NGOs describe the methods settlers use to drive Palestinians from their land and the obstacles they place in the way of local olive harvests.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/18/a-tsunami-of-jewish-terrorism-settler-violence-in-occupied-west-bank-conceals-ethnic-cleansing_6758736_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-18T10:40:27Z",
-      "image": "https://img.lemde.fr/2026/10/18/226/0/8256/4128/644/322/60/0/44f9068_ftp-1-4ugqs0ivyckj-4c1739018727487894b81a490f3f4bc0-0-4e6201504d90481e8da12c7ad3d07b3e.jpg",
+      "publishedAt": "2026-10-18T17:35:35Z",
+      "image": "https://img.lemde.fr/2026/10/17/480/0/5760/2880/644/322/60/0/362ec4e_upload-1-enks9wlzyrdk-lgeai-wb-17oct2026-34.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -141,6 +141,21 @@
       "tags": []
     },
     {
+      "id": "un -ed6a186ca338",
+      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+      "description": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
+      "source": "UN News",
+      "publishedAt": "2026-10-17T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-4927dc620d15",
       "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
       "description": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
@@ -156,6 +171,22 @@
       "tags": []
     },
     {
+      "id": "rfe-db3be83403fc",
+      "title": "Trump Waives Graham Act Sanctions On Russia Before They Take Effect",
+      "description": "US President Donald Trump has waived nearly all substantive sanctions, tariffs, and restrictions included in a bipartisan law aimed at pressuring Russia to end its war against Ukraine, prompting sharp criticism from Ukraine advocates and US lawmakers from both parties.",
+      "url": "https://www.rferl.org/a/trump-waives-graham-act-sanctions-on-russia/33878335.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-17T07:33:35Z",
+      "image": "https://gdb.rferl.org/5b32fe71-af7f-4c89-bb04-5cebebf97c4a_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "cs -2309c1ddf071",
       "title": "A broken peace deal is reigniting war in Ethiopia’s Tigray region",
       "description": "Issues left unresolved in the peace agreement that ended fighting in Ethiopia’s Tigray region in 2022 are pushing the area once again toward war.",
@@ -168,53 +199,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -3ffb8a112ce2",
-      "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-      "description": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the weapons flows fuelling t…",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168612",
-      "source": "UN News",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-be60abdbabf5",
-      "title": "Kremlin ‘Fully Agrees’ With Trump’s Zelensky Criticism",
-      "description": "Putin continues to demand that Kyiv cede full control of the Donetsk region as a prerequisite for any ceasefire agreement, a condition Ukraine rejects.",
-      "url": "https://www.themoscowtimes.com/2026/10/16/kremlin-fully-agrees-with-trumps-zelensky-criticism-a94000",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-10-16T11:14:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/e8/94000__e8ce86d7f9eed768776f6263f9c65107.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-f9ce22140cd7",
-      "title": "Zelenskyy Says US Diesel Deal Will Put Money 'Straight Into Putin's Pocket'",
-      "description": "Ukrainian President Volodymyr Zelenskyy said that his Russian counterpart, Vladimir Putin, has no interest in peace talks and criticized a US deal with Moscow on diesel exports, saying it will hand more money to Moscow to fund its war against his country.",
-      "url": "https://www.rferl.org/a/us-senators-probe-starlink-zelenskyy-eu-summit/33877820.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-16T09:42:58Z",
-      "image": "https://gdb.rferl.org/d084528b-2136-4827-9ee6-85616994cf0b_cx0_cy2_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     }
   ]

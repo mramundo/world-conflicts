@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:00:13Z",
+  "updated": "2026-10-20T22:14:25Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/australian-police-apprehend-suspect-after-car-attack-on-parliamentarian",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-20T19:00:08Z",
+      "publishedAt": "2026-10-20T22:14:21Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F0%2F0%2F8%2F13338000-1-eng-GB%2F51977c0d486f-2026-10-19T123351Z_1416569010_RC2B6OARG47V_RTRMADP_3_AUSTRALIA-HAINES-a.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,34 +20,48 @@
       "tags": []
     },
     {
-      "id": "al -49b4e8a1e1ed",
-      "title": "Can a humanitarian crisis in Gaza be averted?",
-      "description": "The World Food Programme says it is forced to cut aid for thousands in the enclave.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
+      "id": "al -68221c160ee2",
+      "title": "Why the war on Iran could backfire on US regime-change goals",
+      "description": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T18:45:23Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261007__D2DK9KK__v5__HighRes__PalestinianIsraelConflictGazaHunger-1791786136.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-20T20:23:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792527825.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
         "conflict",
-        "humanitarian",
         "analysis"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "fra-d2c72c48b16c",
-      "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
-      "description": "At least 153 people have been killed in a drone strike on a market in the disputed Abyei region, where a fire at a nearby fuel depot continued to burn on Tuesday. Local officials blamed Sudan’s military for Monday’s attack, which also left dozens injured.",
-      "url": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
+      "id": "fra-29f1535a445d",
+      "title": "Italy sends troops, toughens security laws after Milan clashes",
+      "description": "Italy on Tuesday approved the deployment of 500 troops to Milan after violent clashes as fuel price protests hit pasta production and food deliveries in southern Italy. A cabinet meeting on Tuesday also approved a series of security measures, including making the detention of minors easier and introducing the crime of …",
+      "url": "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes",
       "source": "France24",
-      "publishedAt": "2026-10-20T16:24:47Z",
-      "image": "https://s.france24.com/media/display/06f56856-cc9e-11f1-acba-638c1c1f5fd6/w:1024/p:16x9/AP071212050372.jpg",
+      "publishedAt": "2026-10-20T20:09:52Z",
+      "image": "https://s.france24.com/media/display/2dc62256-cc88-11f1-ad46-4dd8ac2cf3bf/w:1024/p:16x9/000-D3L672D.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-f3fc2a107444",
+      "title": "Trump, 'la Russia vuole accordo, Zelensky deve voler mettere fine alla guerra'",
+      "description": "'Vogliamo che faccia un accordo'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/20/trump-la-russia-vuole-accordo-zelensky-deve-voler-mettere-fine-alla_c13a305a-e5e8-4758-8fe0-7733b59637ab.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-20T19:21:49Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2025/3/19/3c9f786b79de5fa3033e1a08cc0c264e.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -108,21 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-1a475bb2ba5e",
-      "title": "Il Papa sente Zelensky, 'lavorare a una tregua per Oleshky'",
-      "description": "Trump scarica ancora il leader ucraino. Raid russo su un parco giochi. Putin: summit con Trump-Xi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/il-papa-sente-zelensky-lavorare-a-una-tregua-per-oleshky_44913f21-692e-4441-9d14-d30a800c9163.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-19T20:45:57Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/19/843ac946e2f1211da993d38590671a8d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

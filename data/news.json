@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T22:14:25Z",
+  "updated": "2026-10-21T01:22:31Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/australian-police-apprehend-suspect-after-car-attack-on-parliamentarian",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-20T22:14:21Z",
+      "publishedAt": "2026-10-21T01:22:27Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F0%2F0%2F8%2F13338000-1-eng-GB%2F51977c0d486f-2026-10-19T123351Z_1416569010_RC2B6OARG47V_RTRMADP_3_AUSTRALIA-HAINES-a.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,33 @@
       "tags": []
     },
     {
-      "id": "al -68221c160ee2",
-      "title": "Why the war on Iran could backfire on US regime-change goals",
-      "description": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+      "id": "al -3c19cd940bc9",
+      "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
+      "description": "Rubio tells US media that reaching a peace deal with Tehran is extremely difficult while Hormuz attacks continue.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-20T20:23:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792527825.jpg?resize=1920%2C1080&amp;quality=80",
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260618__B7HW7UM__v1__HighRes__IranUsIsraelWarTransportHormuz-1792534509.jpg?resize=1920%2C1440",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": true,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -390fb85c56f0",
+      "title": "Burkina Faso junta reinstates death penalty",
+      "description": "Ruled by a military junta since a 2022 coup, Burkina Faso last carried out an execution recorded in 1988, according to Amnesty International, which had urged the country not to bring back capital punishment. Junta leader Captain Ibrahim Traoré announced plans last year to reinstate it.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/21/burkina-faso-junta-reinstates-death-penalty_6760525_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-20T23:46:37Z",
+      "image": "https://img.lemde.fr/2026/10/20/663/0/7962/3981/644/322/60/0/78161f2_upload-1-jyznv0w5623b-78161f2-upload-1-ezngw1vzd0jj-000-468c99v.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -92,21 +106,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -27682deef0d9",
-      "title": "Italy, Spain, Belgium, Portugal: Social unrest spreads across Europe amid soaring energy prices and a housing crisis",
-      "description": "France is not the only country where the cost of living is driving people into the streets. Images of protests, some violent, are multiplying across Europe. Italians have been called to a general strike on November 20, while similar actions are planned for November 11 in Spain and Portugal.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/20/italy-spain-belgium-portugal-social-unrest-spreads-across-europe-amid-soaring-energy-prices-and-a-housing-crisis_6759435_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-20T04:15:08Z",
-      "image": "https://img.lemde.fr/2026/10/17/85/0/1024/512/644/322/60/0/e69281a_ftp-1-m1zajatifpuw-afp-d3lk2m4-1024.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

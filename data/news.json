@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T18:27:47Z",
+  "updated": "2026-10-21T22:10:42Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/china-s-oppo-pushes-premium-smartphones-to-combat-component-crunch",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-21T18:27:43Z",
+      "publishedAt": "2026-10-21T22:10:40Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F4%2F3%2F13343437-1-eng-GB%2Fc2d67e1fd2a5-Find-X10-Pro-Max-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -21,17 +21,77 @@
     },
     {
       "id": "bbc-020c23c2780c",
-      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "description": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "description": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
       "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-10-21T17:42:34Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-21T21:27:41Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-58fea97a0d5e",
+      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+      "description": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’US politics live – latest updatesVladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fre…",
+      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-21T21:23:37Z",
+      "image": "https://i.guim.co.uk/img/media/3b6f9d48538efe71034a096db4868d7da488b502/460_0_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=77d8b605192fb8d8f410f5e70f9ab666",
       "categories": [
         "conflict",
         "humanitarian"
       ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-abf54616d95f",
+      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "description": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
+      "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-21T19:32:00Z",
+      "image": "https://static.dw.com/image/78582192_6.jpg",
+      "categories": [
+        "conflict"
+      ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-b25066b9c131",
+      "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
+      "description": "The death toll from a drone strike Monday on a market in an area disputed between Sudan and South Sudan has risen to 153 and is likely even higher, a local official told AFP on Wednesday. Authorities in Abyei district said the strike on the Amiet market involved the use of multiple munitions and was carried out by the …",
+      "url": "https://www.france24.com/en/neither-the-sudanese-military-nor-the-rsf-take-any-acknowledgement-of-human-life-in-this-war",
+      "source": "France24",
+      "publishedAt": "2026-10-21T19:28:21Z",
+      "image": "https://s.france24.com/media/display/303326fa-cd83-11f1-989f-4da0d2c6855d/w:1024/p:16x9/EN-20261021-203844-205016-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -48fe9b9849f9",
+      "title": "Yemen holds mass funeral for 75 recruits killed in Houthi strike",
+      "description": "A mass funeral has been held in southern Yemen for 75 recruits killed in a Houthi missile strike on a training camp.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-21T18:29:38Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792607361.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -48,54 +108,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-58fea97a0d5e",
-      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-      "description": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’US politics live – latest updatesVladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fre…",
-      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-21T15:24:58Z",
-      "image": "https://i.guim.co.uk/img/media/3b6f9d48538efe71034a096db4868d7da488b502/460_0_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=77d8b605192fb8d8f410f5e70f9ab666",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-7fb08565766d",
-      "title": "Zelensky proposes freezing front with Russia as first step to peace talks",
-      "description": "President Volodymyr Zelensky on Wednesday called for the front line in Russia's war against to Ukraine to be frozen along current lines as a first step toward peace talks. His comments came as US special envoy Steve Witkoff met with Russia's President Vladimir Putin in Saint Petersburg.",
-      "url": "https://www.france24.com/en/europe/20261021-zelensky-proposes-freezing-front-with-russia-first-step-peace-talks",
-      "source": "France24",
-      "publishedAt": "2026-10-21T14:46:44Z",
-      "image": "https://s.france24.com/media/display/a7697144-cd55-11f1-9b9e-19980254bb31/w:1024/p:16x9/AP26293621831385.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -fe7004385f5b",
-      "title": "How war in Lebanon has cost young people with autism and ADHD",
-      "description": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.",
-      "url": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T13:32:57Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Alex-Durie-photos-Lebanon-Autism-20-1792403808.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -159,21 +171,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-085df90913ae",
-      "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
-      "description": "The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom.",
-      "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-21T01:23:00Z",
-      "image": "https://static.dw.com/image/79718490_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T01:22:31Z",
+  "updated": "2026-10-21T07:13:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/australian-police-apprehend-suspect-after-car-attack-on-parliamentarian",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-21T01:22:27Z",
+      "publishedAt": "2026-10-21T07:13:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F0%2F0%2F8%2F13338000-1-eng-GB%2F51977c0d486f-2026-10-19T123351Z_1416569010_RC2B6OARG47V_RTRMADP_3_AUSTRALIA-HAINES-a.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,17 +20,48 @@
       "tags": []
     },
     {
-      "id": "al -3c19cd940bc9",
-      "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
-      "description": "Rubio tells US media that reaching a peace deal with Tehran is extremely difficult while Hormuz attacks continue.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
+      "id": "fra-8bbf1ec4be2d",
+      "title": "US envoy Witkoff to meet Putin in Russia after 'positive' talks with Zelensky",
+      "description": "US special envoy Steve Witkoff will meet Russian President Vladimir Putin in Saint Petersburg Wednesday after talks with Ukrainian President Volodymyr Zelensky in Oslo. US news outlet Axios reported that Witkoff would be presenting Putin with an updated peace proposal on ending the war in Ukraine.",
+      "url": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky",
+      "source": "France24",
+      "publishedAt": "2026-10-21T04:29:24Z",
+      "image": "https://s.france24.com/media/display/5463ca0c-cca7-11f1-814d-638c1c1f5fd6/w:1024/p:16x9/31bdd19fa110cb757a94dd840be5173cf40070f6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -a52d8cf9065a",
+      "title": "Italy approves sweeping security measures in response to protests",
+      "description": "Italy&#039;s government approves sending 500 troops to Milan after clashes and protests.",
+      "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-21T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260618__B7HW7UM__v1__HighRes__IranUsIsraelWarTransportHormuz-1792534509.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-21T04:13:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad8222bb7f8-1792549419.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-085df90913ae",
+      "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+      "description": "The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom.",
+      "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-21T01:23:00Z",
+      "image": "https://static.dw.com/image/79718490_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -46,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-29f1535a445d",
-      "title": "Italy sends troops, toughens security laws after Milan clashes",
-      "description": "Italy on Tuesday approved the deployment of 500 troops to Milan after violent clashes as fuel price protests hit pasta production and food deliveries in southern Italy. A cabinet meeting on Tuesday also approved a series of security measures, including making the detention of minors easier and introducing the crime of …",
-      "url": "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes",
-      "source": "France24",
-      "publishedAt": "2026-10-20T20:09:52Z",
-      "image": "https://s.france24.com/media/display/2dc62256-cc88-11f1-ad46-4dd8ac2cf3bf/w:1024/p:16x9/000-D3L672D.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -153,23 +169,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-8763170ed0ab",
-      "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
-      "description": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
-      "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-19T15:07:00Z",
-      "image": "https://static.dw.com/image/79590595_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     },
     {

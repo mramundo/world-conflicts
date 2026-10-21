@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T07:13:58Z",
+  "updated": "2026-10-21T13:33:28Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-10-14T22:19:41Z",
   "items": [
@@ -22,8 +22,8 @@
         "Interstate conflict"
       ],
       "wikipediaPage": "Russo-Ukrainian_War",
-      "lastUpdate": "2026-10-20",
-      "wikipediaRevision": "2026-10-20T12:14:45Z",
+      "lastUpdate": "2026-10-21",
+      "wikipediaRevision": "2026-10-21T10:09:33Z",
       "recentNewsCount": 6
     },
     {
@@ -45,9 +45,9 @@
         "Asymmetric"
       ],
       "wikipediaPage": "Gaza_war",
-      "lastUpdate": "2026-10-20",
-      "wikipediaRevision": "2026-10-20T02:12:13Z",
-      "recentNewsCount": 1
+      "lastUpdate": "2026-10-21",
+      "wikipediaRevision": "2026-10-21T13:31:34Z",
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "sy-war",
@@ -181,7 +181,7 @@
       ],
       "wikipediaPage": "Jihadist_insurgency_in_the_Sahel",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "so-als",
@@ -428,7 +428,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-10-04",
       "wikipediaRevision": "2026-10-04T22:38:20Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 1
     },
     {
       "id": "wb-isr",
@@ -449,7 +449,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     }
   ]
 }

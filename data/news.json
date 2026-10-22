@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:19:38Z",
+  "updated": "2026-10-22T07:15:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/technology/china-s-oppo-pushes-premium-smartphones-to-combat-component-crunch",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-22T01:19:35Z",
+      "publishedAt": "2026-10-22T07:15:17Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F4%2F3%2F13343437-1-eng-GB%2Fc2d67e1fd2a5-Find-X10-Pro-Max-f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,27 +20,43 @@
       "tags": []
     },
     {
-      "id": "al -6f2bb2e75b6b",
-      "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
-      "description": "Iran&#039;s IRGC threatens to invade any country that attacks it under a new &#039;offensive and asymmetrical&#039; doctrine.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+      "id": "al -cb1282e4dee4",
+      "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+      "description": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-22T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26294467880245-1792623830.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-22T05:36:33Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad981987e7f-1792639384.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-58fea97a0d5e",
+      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+      "description": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukr…",
+      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-22T01:16:20Z",
+      "image": "https://i.guim.co.uk/img/media/3b6f9d48538efe71034a096db4868d7da488b502/460_0_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=77d8b605192fb8d8f410f5e70f9ab666",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "le -18c222eb9c92",
-      "title": "War in Ukraine: Bolstered by Donald Trump's support, Vladimir Putin refuses to back down",
-      "description": "Received by the Russian president near Saint Petersburg on Wednesday, Steve Witkoff, Donald Trump's envoy, praised the Russian leader, highlighting his 'humanitarian' profile. Nevertheless, he left without securing any concessions from his host, who dismissed any idea of a truce with Kyiv.",
+      "title": "War in Ukraine: Bolstered by Trump's support, Putin refuses to back down",
+      "description": "Received by the Russian president near Saint Petersburg on Wednesday, Steve Witkoff, Donald Trump's envoy, praised the Russian leader, highlighting his 'humanitarian' profile. He left without securing any concessions from his host, who dismissed any idea of a truce with Kyiv.",
       "url": "https://www.lemonde.fr/en/international/article/2026/10/22/war-in-ukraine-bolstered-by-donald-trump-s-support-vladimir-putin-refuses-to-back-down_6761086_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-21T23:54:59Z",
+      "publishedAt": "2026-10-21T23:54:56Z",
       "image": "https://img.lemde.fr/2026/10/21/0/0/4487/2243/644/322/60/0/20dc4fc_ftp-1-niattlokmzev-d07c917c76644fbca518f81f0150e33f-0-bbd01f44e6374c8792c7d096035e9d02.jpg",
       "categories": [
         "conflict",
@@ -60,22 +76,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg",
       "categories": [
         "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-58fea97a0d5e",
-      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-      "description": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukr…",
-      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-21T21:23:37Z",
-      "image": "https://i.guim.co.uk/img/media/3b6f9d48538efe71034a096db4868d7da488b502/460_0_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=77d8b605192fb8d8f410f5e70f9ab666",
-      "categories": [
-        "conflict",
-        "humanitarian"
       ],
       "relevanceScore": 8,
       "isAnalysis": false,

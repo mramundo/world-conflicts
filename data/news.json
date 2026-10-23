@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T01:18:14Z",
+  "updated": "2026-10-23T07:07:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/pakistan-trails-india-bangladesh-nepal-in-battle-against-hunger",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-23T01:18:11Z",
+      "publishedAt": "2026-10-23T07:07:16Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F7%2F7%2F13347749-3-eng-GB%2Fe0875d6a8e7a-2025-08-30T152334Z_1773668596_RC2MHGA4G36C_RTRMADP_3_ASIA-WEATHER-SOUTHASIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-feec98bedb1e",
+      "title": "Friday briefing: How a leaderless student group is challenging power in Serbia",
+      "description": "In today’s newsletter: ​Born from the fury surrounding the deadly Novi Sad station collapse, Serbia’s Student List has taken its protests all the way to the elections in an unprecedented grassroots campaignGood morning. As waves of youth-led protests swell across Europe, prompted by the cost of living, unaffordable hou…",
+      "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T05:43:19Z",
+      "image": "https://i.guim.co.uk/img/media/537dcea6d2aeacd5eb2b3bafbbcc034af1de7cd7/583_0_5833_4667/master/5833.jpg?width=140&quality=85&auto=format&fit=max&s=fdf85539be786ddf30f23ff2bcf7c5d4",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ae1637aae470",
+      "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+      "description": "Karachi&#039;s last two African elephants remain in captivity. Their sisters are already dead. Will they survive?",
+      "url": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-23T04:27:55Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/VIER-PFOTEN_2026-10-13_00234-1792664877.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-ef3835611c59",
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "description": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+      "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-22T23:16:20Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0791/live/d5705ef0-ce21-11f1-906e-e3128518d85d.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,65 +82,33 @@
       "tags": []
     },
     {
-      "id": "al -a04027369e36",
-      "title": "Can Pakistan save the last two of its four captive African elephants?",
-      "description": "Of four elephants brought to Pakistan in 2009, two have died. Now, two others are ill, raising welfare concerns.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/10-22-karachi-captive-elephants-sv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-22T21:19:47Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792703812.jpg?resize=1618%2C1080&amp;quality=80",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "le -bd12de8f394a",
-      "title": "Putin says Russia ready for talks, but Zelensky says fresh strikes show 'no change' in Kremlin position",
-      "description": "The Russian leader told a reporter from state TV on Thursday: 'The goal of these discussions will be to address the issue of ensuring security for both Ukraine and Russia... within the framework of a final agreement, not after some kind of short pause in fighting.'",
+      "title": "Zelensky says fresh strikes show 'no change' in Kremlin position",
+      "description": "Putin told a reporter from state TV on Thursday that any trilateral talks would focus on the security arrangements of a final peace deal and not a 'short' truce.",
       "url": "https://www.lemonde.fr/en/international/article/2026/10/22/putin-says-russia-ready-for-talks-on-plans-for-final-ukraine-deal_6761845_4.html",
       "source": "Le Monde (EN)",
       "publishedAt": "2026-10-22T20:11:11Z",
-      "image": "https://img.lemde.fr/2026/10/22/179/0/3682/1841/644/322/60/0/49807c7_ftp-1-um033mu4xnt2-2026-10-22t192121z-1485514791-rc2i8oagf185-rtrmadp-3-russia-putin.JPG",
+      "image": "https://img.lemde.fr/2026/10/22/458/0/5501/2750/644/322/60/0/9b828ea_ftp-1-wlo55kbpe9uu-5409217-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "the-5e76ea468337",
-      "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-      "description": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peaceRussia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just hours after Vladimir Putin said he had agreed to resume trilateral negotiat…",
-      "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-22T15:46:56Z",
-      "image": "https://i.guim.co.uk/img/media/369ecb74e3157beaae2c4399ccb4727967eafd28/206_83_6682_5346/master/6682.jpg?width=140&quality=85&auto=format&fit=max&s=4fafe0975e079a14a178bee9e4adbafb",
+      "id": "fra-91f5a61cdf0e",
+      "title": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
+      "description": "Russia’s latest attacks on Ukraine show there has been “no real change” in Moscow’s attitude towards the war, Ukrainian President Volodymyr Zelensky said Thursday. The deadly strikes came just hours after Russian President Vladimir Putin told US envoy Steve Witkoff his country was ready to resume trilateral talks with …",
+      "url": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says",
+      "source": "France24",
+      "publishedAt": "2026-10-22T16:43:59Z",
+      "image": "https://s.france24.com/media/display/2ea45b56-c7f7-11f1-a634-d1d2c32ebb87/w:1024/p:16x9/000-D3AQ7YY.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-795c911280f0",
-      "title": "Russia agrees to resume trilateral peace talks on Ukraine war",
-      "description": "A US envoy met Putin in Saint Petersburg on Wednesday after the Kremlin agreed to resume peace talks with Ukraine and the United States. Details by FRANCE 24's correspondent Gulliver Cragg.",
-      "url": "https://www.france24.com/en/russia-agrees-to-resume-trilateral-peace-talks-on-ukraine-war",
-      "source": "France24",
-      "publishedAt": "2026-10-22T14:19:27Z",
-      "image": "https://s.france24.com/media/display/6eda9058-cd3f-11f1-84de-8bea73bbe173/w:1024/p:16x9/2026-10-21T102625Z-722811654-RC2M7OATXY8O-RTRMADP-3-UKRAINE-CRISIS-PUTIN-WITKOFF.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,21 +125,6 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-020c23c2780c",
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-21T21:27:41Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abac/live/5ed152f0-cd8f-11f1-b1e7-39558e114359.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

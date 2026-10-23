@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T07:07:29Z",
+  "updated": "2026-10-23T13:10:23Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-10-14T22:19:41Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-10-21",
       "wikipediaRevision": "2026-10-21T10:09:33Z",
-      "recentNewsCount": 6
+      "recentNewsCount": 5
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-10-22",
       "wikipediaRevision": "2026-10-22T08:54:35Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 3
     },
     {
       "id": "sd-war",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 4
     },
     {
       "id": "et-am",
@@ -402,9 +402,9 @@
         "Interstate"
       ],
       "wikipediaPage": "Insurgency_in_Jammu_and_Kashmir",
-      "lastUpdate": "2026-10-22",
+      "lastUpdate": "2026-10-23",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-10-22T16:55:30Z",
+      "wikipediaRevision": "2026-10-23T09:20:08Z",
       "recentNewsCount": 1
     },
     {
@@ -449,7 +449,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 3
     }
   ]
 }

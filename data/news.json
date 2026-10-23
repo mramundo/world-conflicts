@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-23T07:07:20Z",
+  "updated": "2026-10-23T13:10:13Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/pakistan-trails-india-bangladesh-nepal-in-battle-against-hunger",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-23T07:07:16Z",
+      "publishedAt": "2026-10-23T13:10:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F7%2F7%2F13347749-3-eng-GB%2Fe0875d6a8e7a-2025-08-30T152334Z_1773668596_RC2MHGA4G36C_RTRMADP_3_ASIA-WEATHER-SOUTHASIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,28 +20,73 @@
       "tags": []
     },
     {
-      "id": "the-feec98bedb1e",
-      "title": "Friday briefing: How a leaderless student group is challenging power in Serbia",
-      "description": "In today’s newsletter: ​Born from the fury surrounding the deadly Novi Sad station collapse, Serbia’s Student List has taken its protests all the way to the elections in an unprecedented grassroots campaignGood morning. As waves of youth-led protests swell across Europe, prompted by the cost of living, unaffordable hou…",
-      "url": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-23T05:43:19Z",
-      "image": "https://i.guim.co.uk/img/media/537dcea6d2aeacd5eb2b3bafbbcc034af1de7cd7/583_0_5833_4667/master/5833.jpg?width=140&quality=85&auto=format&fit=max&s=fdf85539be786ddf30f23ff2bcf7c5d4",
+      "id": "fra-9ecef35ab16b",
+      "title": "War in the Middle East: Israel launches West Bank operations",
+      "description": "Palestinian militants wounded five Israelis in an attack on Friday before being killed in a shootout with soldiers, leading Prime Minister Benjamin Netanyahu to order a lockdown in the occupied West Bank days before Israeli elections. Details by Kethevane Gorjestani, FRANCE 24's International Affairs Editor.",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
+      "source": "France24",
+      "publishedAt": "2026-10-23T12:57:54Z",
+      "image": "https://s.france24.com/media/display/32b120c6-cee1-11f1-b519-5b4a75578ebb/w:1024/p:16x9/capture-e918f89d.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -ae1637aae470",
-      "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
-      "description": "Karachi&#039;s last two African elephants remain in captivity. Their sisters are already dead. Will they survive?",
-      "url": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+      "id": "bbc-7718246191f0",
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "description": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-23T12:48:52Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a095/live/c39c9a30-cec7-11f1-b9e0-e5f0da03dc7f.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-88f66b1458dc",
+      "title": "Idf, morti due soldati feriti nell'attentato a Hebron",
+      "description": "Si tratta del sergente maggiore Ron Yonatan Roytman e del sergente Yuval Shai Svilem",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/23/idf-morti-due-soldati-feriti-nellattentato-a-hebron_729291c4-9c08-4f4b-9617-0c4f5a6f891e.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-23T12:30:42Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/23/a8d7b576b93a5a0b1fcb538f23dc25df.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-cb9eec62df6f",
+      "title": "Ukraine troops report ongoing problems with Starlink satellite network",
+      "description": "Communications system still faces speed restrictions despite Trump claim that Musk had resumed full serviceTrump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row?Ukrainian forces continue to report widespread disruptions to the Starlink satellite network, despite Donald Trump’s claim that Elon Musk had …",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T12:09:08Z",
+      "image": "https://i.guim.co.uk/img/media/6ade47ec3b65c241b2a22d322f48272bacecb6f6/576_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=f0a602859e537620ebce9a816e7d4302",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e8b82648c5eb",
+      "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+      "description": "Latest smartphones are finding their way into Iran despite sanctions and trade restrictions, but many can&#039;t afford them.",
+      "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T04:27:55Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/VIER-PFOTEN_2026-10-13_00234-1792664877.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-23T09:56:28Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/signal-2026-10-22-15-07-42-317-1792715793.jpg?resize=1200%2C630",
       "categories": [
         "conflict",
         "analysis"
@@ -51,17 +96,32 @@
       "tags": []
     },
     {
-      "id": "bbc-ef3835611c59",
-      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-      "description": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
-      "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-22T23:16:20Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0791/live/d5705ef0-ce21-11f1-906e-e3128518d85d.png",
+      "id": "the-71e445ff2f7a",
+      "title": "Putin Says Renewed Peace Talks Must Focus on Security for Russia, Ukraine and Europe Overall",
+      "description": "The president said that Russia remains intent on resolving the conflict once and for all rather than agreeing to a short-lived ceasefire with Kyiv.",
+      "url": "https://www.themoscowtimes.com/2026/10/23/putin-says-renewed-peace-talks-must-focus-on-security-for-russia-ukraine-and-europe-overall-a94061",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-10-23T08:16:40Z",
+      "image": "https://static.themoscowtimes.com/image/og/3b/94061__3be743ae0128edf4e3eab9b589d62ac4.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -75e6df887724",
+      "title": "Mélenchon wants to erase France's debt. What are the precedents for that?",
+      "description": "While the radical decision has already happened in France's history, it has only ever been implemented at times of war or revolution, and after lengthy negotiations with creditors.",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/10/23/melenchon-wants-to-erase-france-s-debt-what-are-the-precedents-for-that_6762043_19.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-23T03:00:07Z",
+      "image": "https://img.lemde.fr/2026/10/14/355/0/5782/2891/644/322/60/0/3c85acf_ftp-1-nmacrco3zcdp-2026-10-14t111247z-1799641280-rc2y2oa7sbrg-rtrmadp-3-france-politics.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -79,37 +139,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -bd12de8f394a",
-      "title": "Zelensky says fresh strikes show 'no change' in Kremlin position",
-      "description": "Putin told a reporter from state TV on Thursday that any trilateral talks would focus on the security arrangements of a final peace deal and not a 'short' truce.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/22/putin-says-russia-ready-for-talks-on-plans-for-final-ukraine-deal_6761845_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-22T20:11:11Z",
-      "image": "https://img.lemde.fr/2026/10/22/458/0/5501/2750/644/322/60/0/9b828ea_ftp-1-wlo55kbpe9uu-5409217-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-91f5a61cdf0e",
-      "title": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
-      "description": "Russia’s latest attacks on Ukraine show there has been “no real change” in Moscow’s attitude towards the war, Ukrainian President Volodymyr Zelensky said Thursday. The deadly strikes came just hours after Russian President Vladimir Putin told US envoy Steve Witkoff his country was ready to resume trilateral talks with …",
-      "url": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says",
-      "source": "France24",
-      "publishedAt": "2026-10-22T16:43:59Z",
-      "image": "https://s.france24.com/media/display/2ea45b56-c7f7-11f1-a634-d1d2c32ebb87/w:1024/p:16x9/000-D3AQ7YY.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -136,21 +165,6 @@
       "source": "Deutsche Welle",
       "publishedAt": "2026-10-21T19:32:00Z",
       "image": "https://static.dw.com/image/78582192_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-0d2cf515a979",
-      "title": "Putin Releases American Jailed in Russia, Agrees to Trilateral Peace Talks as Witkoff Visits",
-      "description": "The Kremlin said that renewed peace negotiations with the United States and Ukraine could take place in Abu Dhabi as early as next month.",
-      "url": "https://www.themoscowtimes.com/2026/10/21/putin-releases-american-jailed-in-russia-after-us-envoy-arrives-for-ukraine-talks-a94037",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-10-21T13:00:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/ca/94037__ca300f8f45970f319ed220978aadc955.jpg",
       "categories": [
         "conflict"
       ],

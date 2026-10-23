@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T18:09:19Z",
+  "updated": "2026-10-23T21:54:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,57 @@
       "description": "",
       "url": "https://asia.nikkei.com/economy/pakistan-trails-india-bangladesh-nepal-in-battle-against-hunger",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-10-23T18:09:15Z",
+      "publishedAt": "2026-10-23T21:54:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F7%2F7%2F13347749-3-eng-GB%2Fe0875d6a8e7a-2025-08-30T152334Z_1773668596_RC2MHGA4G36C_RTRMADP_3_ASIA-WEATHER-SOUTHASIA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -9bec440d3a67",
+      "title": "Russia and Ukraine agree to truce in Oleshky",
+      "description": "Moscow and Kyiv both said they would observe a ceasefire from Tuesday in the city in the southern Kherson region, which has been occupied by Russia since its 2022 invasion. US First Lady Melania Trump said in a surprise announcement Friday she had brokered the truce in Oleshky, where citizens are trapped and running ou…",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/23/russia-and-ukraine-agree-to-truce-in-oleshky_6762538_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-23T21:43:46Z",
+      "image": "https://img.lemde.fr/2026/10/08/148/0/5351/2675/644/322/60/0/2327929_ftp-1-kww9fqzhltu5-2026-10-08t060039z-1663895973-rc2rxnar97i3-rtrmadp-3-ukraine-crisis-oleshky.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e5219638d4ca",
+      "title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
+      "description": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia&#039;s Tigray capital.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-23T19:55:44Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac67aaa7fc7-1791392426.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-bd46ccebae6f",
+      "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+      "description": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked people on the ground what life is like.",
+      "url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-23T19:08:00Z",
+      "image": "https://static.dw.com/image/79723936_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -32,6 +77,22 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-878ff2d04850",
+      "title": "How Israeli settlers wearing keffiyehs are attacking West Bank olive groves",
+      "description": "The olive harvest officially began in the West Bank on October 15, 2026, and it has coincided with an uptick in violence towards Palestinians carried out by both Israeli settlers and soldiers. Meanwhile, the settlers and soldiers have been using social media to promote an aesthetic, Instagram-friendly and nationalistic…",
+      "url": "https://www.france24.com/en/middle-east/20261023-how-israeli-settlers-wearing-keffiyehs-are-attacking-west-bank-olive-groves",
+      "source": "France24",
+      "publishedAt": "2026-10-23T17:21:00Z",
+      "image": "https://s.france24.com/media/display/20c2ffac-c986-11f1-8f58-2d1c143cdef3/w:1024/p:16x9/olive-cover.png",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -81,32 +142,17 @@
       "tags": []
     },
     {
-      "id": "al -ef1bd5200877",
-      "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-      "description": "White House says &#039;localised&#039; ceasefire to take effect, as Russia and Ukraine say timing being determined.",
-      "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-23T13:39:06Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6adb61bd-1792762301.jpg?resize=1920%2C1440",
+      "id": "un -2d7e1bb5b5b6",
+      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+      "description": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+      "source": "UN News",
+      "publishedAt": "2026-10-23T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-07-2025-UNICEF-West-Bank-01.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-9ecef35ab16b",
-      "title": "War in the Middle East: Israel launches West Bank operations",
-      "description": "Palestinian militants wounded five Israelis in an attack on Friday before being killed in a shootout with soldiers, leading Prime Minister Benjamin Netanyahu to order a lockdown in the occupied West Bank days before Israeli elections. Details by Kethevane Gorjestani, FRANCE 24's International Affairs Editor.",
-      "url": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
-      "source": "France24",
-      "publishedAt": "2026-10-23T12:57:54Z",
-      "image": "https://s.france24.com/media/display/32b120c6-cee1-11f1-b519-5b4a75578ebb/w:1024/p:16x9/capture-e918f89d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -122,21 +168,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -75e6df887724",
-      "title": "Mélenchon wants to erase France's debt. What are the precedents for that?",
-      "description": "While the radical decision has already happened in France's history, it has only ever been implemented at times of war or revolution, and after lengthy negotiations with creditors.",
-      "url": "https://www.lemonde.fr/en/economy/article/2026/10/23/melenchon-wants-to-erase-france-s-debt-what-are-the-precedents-for-that_6762043_19.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-23T03:00:07Z",
-      "image": "https://img.lemde.fr/2026/10/14/355/0/5782/2891/644/322/60/0/3c85acf_ftp-1-nmacrco3zcdp-2026-10-14t111247z-1799641280-rc2y2oa7sbrg-rtrmadp-3-france-politics.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -157,22 +188,6 @@
       "tags": []
     },
     {
-      "id": "deu-95568b74f760",
-      "title": "Ukraine: Life near the front line in Sloviansk",
-      "description": "As Russian continues to attack Sloviansk in eastern Ukraine, thousands of residents refuse to leave or struggle to find a way out. For many, poverty, family ties and beloved pets make evacuation painfully difficult.",
-      "url": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-22T11:44:00Z",
-      "image": "https://static.dw.com/image/79680190_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-64c0d423a482",
       "title": "Putin the Humanist? 10 Ways Russia Has Shown Its ‘Humanity’ in Ukraine",
       "description": "US envoy Steve Witkoff called Vladimir Putin a “humanist.” The record of Russia’s war against Ukraine includes the killings in Bucha, the bombing of Mariupol’s theater and maternity hospital, the transfer of Ukrainian children to Russia, torture of prisoners of war – and a baby killed in a stroller in a Russian drone s…",
@@ -185,22 +200,6 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -5e05acb179c0",
-      "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
-      "description": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168638",
-      "source": "UN News",
-      "publishedAt": "2026-10-21T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     }

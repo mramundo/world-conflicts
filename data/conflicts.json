@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T18:09:30Z",
+  "updated": "2026-10-23T21:54:39Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-10-23T18:04:31Z",
   "items": [
@@ -68,7 +68,7 @@
       ],
       "wikipediaPage": "Sudanese_civil_war_(2023%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "mm-civ",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-10-21",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-10-21T19:07:08Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sahel",
@@ -338,7 +338,7 @@
       "wikipediaPage": "War_in_Amhara",
       "lastUpdate": "2026-10-02",
       "wikipediaRevision": "2026-10-02T08:02:50Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "co-fgc",
@@ -449,7 +449,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 5
     }
   ]
 }

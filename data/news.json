@@ -1,9 +1,56 @@
 {
-  "updated": "2026-10-24T20:27:43Z",
+  "updated": "2026-10-24T22:57:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -b5e8121a445c",
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "description": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-24T22:28:37Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/07/2023-05-16T204100Z_1454706077_RC2WZ0ATGSU9_RTRMADP_3_USA-DEBT-1721708842.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -a34df03c1b63",
+      "title": "'Donald Trump goes further than the eccentric scientist from 'Honey, I Shrunk the Kids.' He is shrinking America'",
+      "description": "The US president's decision to assist Vladimir Putin in his war against Ukraine – most notably with the diesel fuel deal – marks the latest chapter in his ongoing campaign to dismantle America's superpower status, analyzes Le Monde columnist Alain Frachon.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/10/25/donald-trump-goes-further-than-the-eccentric-scientist-from-honey-i-shrunk-the-kids-he-is-shrinking-america_6763429_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-24T22:26:18Z",
+      "image": "https://img.lemde.fr/2026/10/21/191/0/3345/1672/644/322/60/0/b8f9637_ftp-1-bnlhj6bpj5fg-634a33dd2c6e45a9a343c41228da6bd6-0-79295c86cda54c94af713371981889e5.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-1136d3534873",
+      "title": "Trump, 'faremo affari con Russia e Ucraina una volta finita la guerra'",
+      "description": "'Vogliamo tornare ad una situazione normale'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/24/trump-faremo-affari-con-russia-e-ucraina-una-volta-finita-la-guerra_0f62e13f-f3b2-4772-95c1-4697e1b987ef.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-24T21:00:52Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/23/8841fd7dcc74f8f0d44c6d2ff1be5ef3.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "fra-b93548b6584f",
       "title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
@@ -35,36 +82,6 @@
       "tags": []
     },
     {
-      "id": "le -8e12ce95ae1d",
-      "title": "Israeli forces displace hundreds of Hebron families after deadly attack",
-      "description": "Israeli Prime Minister Benjamin Netanyahu said he was planning an operation on a scale not seen since Israel first occupied the West Bank in 1967, after Palestinian militants killed two Israeli soldiers on Friday at a checkpoint.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/24/israeli-forces-displace-hundreds-of-hebron-families-after-deadly-attack_6763264_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-24T16:17:08Z",
-      "image": "https://img.lemde.fr/2026/10/24/684/0/8192/4096/644/322/60/0/9a4cbcf_ftp-1-iclkdof3vopu-5424128-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -e1399cf88b62",
-      "title": "Netanyahu floats Crypto to bypass sanctions",
-      "description": "Netanyahu floats Crypto to bypass sanctions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-24T13:27:11Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792848424.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-77413990dbda",
       "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
       "description": "PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpointIsraeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in collective punishment for a militant attack on an army checkpoint outside the West Bank city, local Palestinian authorities …",
@@ -80,17 +97,17 @@
       "tags": []
     },
     {
-      "id": "ans-617cba4c882c",
-      "title": "Kiev: Starlink è stabile e ha ripreso le operazioni a velocità di 400km/h",
-      "description": "Scatta la tregua umanitaria ad Oleshky, 'merito di Melania'. Il Papa si era speso per la città allo stremo",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/24/kiev-starlink-e-stabile-e-ha-ripreso-le-operazioni-a-velocita-400kmh_7390536b-7182-49ea-b68f-2faba023bbb2.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-24T10:43:16Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/24/55adcf5728f167e7d103958f98cb1502.jpg",
+      "id": "un -3dc7471b1a1d",
+      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+      "description": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+      "source": "UN News",
+      "publishedAt": "2026-10-24T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -116,7 +133,7 @@
       "url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-10-23T19:08:00Z",
-      "image": "https://static.dw.com/image/79723936_6.jpg",
+      "image": null,
       "categories": [
         "conflict"
       ],
@@ -138,21 +155,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -2d7e1bb5b5b6",
-      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-      "description": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
-      "source": "UN News",
-      "publishedAt": "2026-10-23T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-07-2025-UNICEF-West-Bank-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {

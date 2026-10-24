@@ -1,9 +1,24 @@
 {
-  "updated": "2026-10-24T17:55:51Z",
+  "updated": "2026-10-24T20:27:43Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "fra-b93548b6584f",
+      "title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+      "description": "Thousands marched against Prime Minister Benjamin Netanyahu's government in Tel Aviv on Saturday – just three days before Israel's general election – demanding accountability for the failure to prevent a Hamas-led attack on October 7, 2023, that led to the war in Gaza.",
+      "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
+      "source": "France24",
+      "publishedAt": "2026-10-24T18:21:55Z",
+      "image": "https://s.france24.com/media/display/234bdf36-cfd6-11f1-80cc-bdb9616e85cf/w:1024/p:16x9/000-D4BH8JA.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "cs -a960f06d357c",
       "title": "Police and protesters clash in Paris as demonstrations break out across Europe",
@@ -16,21 +31,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-64f7defd22cd",
-      "title": "Israel begins demolitions in West Bank",
-      "description": "The Palestinian Authority has called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. The head of Hebron's municipality said an additional 1,300 ma…",
-      "url": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank",
-      "source": "France24",
-      "publishedAt": "2026-10-24T17:13:56Z",
-      "image": "https://s.france24.com/media/display/c6d1d9fc-cfbe-11f1-b89b-5b4a75578ebb/w:1024/p:16x9/EN-20261024-161247-161339-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -95,6 +95,21 @@
       "tags": []
     },
     {
+      "id": "bbc-d7c780964626",
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "description": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-23T19:42:08Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-bd46ccebae6f",
       "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
       "description": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked people on the ground what life is like.",
@@ -106,21 +121,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-7718246191f0",
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-23T15:37:07Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

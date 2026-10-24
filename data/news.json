@@ -1,21 +1,51 @@
 {
-  "updated": "2026-10-24T14:18:55Z",
+  "updated": "2026-10-24T17:55:51Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "fra-a0356421da8e",
-      "title": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
+      "id": "cs -a960f06d357c",
+      "title": "Police and protesters clash in Paris as demonstrations break out across Europe",
+      "description": "Demonstrations rocked many European cities Saturday, from Milan to Madrid. The protests encompass a broad range of issues, from education to housing.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/1024/Police-and-protesters-clash-in-Paris-as-demonstrations-break-out-across-Europe?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-10-24T17:23:31Z",
+      "image": "https://images.csmonitor.com/csm/2026/10/1221167_1_PROTEST_standard.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-64f7defd22cd",
+      "title": "Israel begins demolitions in West Bank",
       "description": "The Palestinian Authority has called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. The head of Hebron's municipality said an additional 1,300 ma…",
-      "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
+      "url": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank",
       "source": "France24",
-      "publishedAt": "2026-10-24T13:50:12Z",
-      "image": "https://s.france24.com/media/display/84746cf6-cfae-11f1-89ae-bba4eee3dc72/w:1024/p:16x9/000-D4AX3EF.jpg",
+      "publishedAt": "2026-10-24T17:13:56Z",
+      "image": "https://s.france24.com/media/display/c6d1d9fc-cfbe-11f1-b89b-5b4a75578ebb/w:1024/p:16x9/EN-20261024-161247-161339-CS.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -8e12ce95ae1d",
+      "title": "Israeli forces displace hundreds of Hebron families after deadly attack",
+      "description": "Israeli Prime Minister Benjamin Netanyahu said he was planning an operation on a scale not seen since Israel first occupied the West Bank in 1967, after Palestinian militants killed two Israeli soldiers on Friday at a checkpoint.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/24/israeli-forces-displace-hundreds-of-hebron-families-after-deadly-attack_6763264_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-24T16:17:08Z",
+      "image": "https://img.lemde.fr/2026/10/24/684/0/8192/4096/644/322/60/0/9a4cbcf_ftp-1-iclkdof3vopu-5424128-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },

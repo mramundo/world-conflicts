@@ -1,9 +1,24 @@
 {
-  "updated": "2026-10-25T21:30:57Z",
+  "updated": "2026-10-25T23:54:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -e1f51c701452",
+      "title": "Israeli air strike on Gaza City university kills three people",
+      "description": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-25T18:12:13Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792951909.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "ans-bfab20dfc750",
       "title": "Anp, '2.670 palestinesi sfollati dalle proprie case dall'Idf a Hebron'",
@@ -31,21 +46,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -c96546db1a20",
-      "title": "Eight killed in Gaza as Israel targets university campus and other sites",
-      "description": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-25T15:40:25Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ade14a0bbfe-1792939168.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

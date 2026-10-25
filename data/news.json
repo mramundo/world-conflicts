@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-25T10:59:47Z",
+  "updated": "2026-10-25T14:55:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -8f590579daf4",
+      "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
+      "description": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
+      "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-25T13:46:51Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/WA_1792089112416-1792568917.jpeg?resize=1200%2C675",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "bbc-f5e114da160a",
       "title": "El Salvador president says bodies found in Haiti are not those of hostages",
@@ -17,22 +33,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -05b4c17e4daf",
-      "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-      "description": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-25T07:59:38Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP6304240291-1792772527.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -84,7 +84,7 @@
     {
       "id": "fra-b93548b6584f",
       "title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
-      "description": "Thousands marched against Prime Minister Benjamin Netanyahu's government in Tel Aviv on Saturday – just three days before Israel's general election – demanding accountability for the failure to prevent a Hamas-led attack on October 7, 2023, that led to the war in Gaza.",
+      "description": "Thousands marched against Prime Minister Benjamin Netanyahu's government in Tel Aviv on Saturday – just three days before Israel's general election – demanding accountability for the failure to prevent a Hamas-led attack on October 7, 2023, which led to the war in Gaza.",
       "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
       "source": "France24",
       "publishedAt": "2026-10-24T18:21:55Z",

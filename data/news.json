@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:14:17Z",
+  "updated": "2026-10-25T21:30:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -20,8 +20,23 @@
       "tags": []
     },
     {
+      "id": "npr-874917b14fe9",
+      "title": "Israelis have changed. Will they change their leadership?",
+      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "source": "NPR World",
+      "publishedAt": "2026-10-25T16:00:00Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5007x3338+0+0/resize/5007x3338!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Ffa%2F7b23b0984f658a11dcb117c174a6%2Fgettyimages-2300594386.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "al -c96546db1a20",
-      "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+      "title": "Eight killed in Gaza as Israel targets university campus and other sites",
       "description": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
       "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
       "source": "Al Jazeera",
@@ -61,6 +76,21 @@
         "conflict"
       ],
       "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-de065293fd68",
+      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
+      "description": "Low voter turnout has triggered a run-off for the Bulgarian presidency. The vote was colored by strong divisions over Russia's war in Ukraine, and Sofia's relations with the Kremlin.",
+      "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-10-25T07:19:00Z",
+      "image": "https://static.dw.com/image/79756582_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -126,21 +156,6 @@
       "tags": []
     },
     {
-      "id": "npr-40b769a71c9a",
-      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-      "description": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
-      "url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "source": "NPR World",
-      "publishedAt": "2026-10-24T07:04:13Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2463x1383+0+0/resize/2463x1383!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2Ff2%2Fbed4f4df43b197d5bb5247c6c0e3%2Fap26296551585852.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "kyi-ef82899053f8",
       "title": "Zelensky Ready to Freeze Front Line to Halt War, Rejects Land Cession",
       "description": "President Volodymyr Zelensky announced that Ukraine is prepared to freeze combat operations along existing front lines to bring an immediate halt to the war, while firmly rejecting territorial concessions and vowing never to recognize occupied lands as Russian sovereign territory. Clarifying that Russian forces current…",
@@ -152,21 +167,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-bd46ccebae6f",
-      "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
-      "description": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked people on the ground what life is like.",
-      "url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-23T19:08:00Z",
-      "image": "https://static.dw.com/image/79723936_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

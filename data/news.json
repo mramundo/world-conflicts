@@ -1,9 +1,39 @@
 {
-  "updated": "2026-10-26T16:36:41Z",
+  "updated": "2026-10-26T21:26:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -1f47b8f8e7ad",
+      "title": "Britain sanctions Sudanese commanders over weaponised rape",
+      "description": "Commanders from the Rapid Support Forces (RSF) and Sudanese Armed Forces face travel and asset freezes.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-26T17:32:46Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6adf61a4-1793024420.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-d1857281bdb5",
+      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "description": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-26T16:31:09Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea02/live/3f6f54a0-d147-11f1-9eb5-811878e0f07d.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "deu-1b37813cef7c",
       "title": "Why Ukraine may be involved in Mali's conflict",
@@ -21,21 +51,6 @@
       "tags": []
     },
     {
-      "id": "bbc-43a04bab186b",
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "description": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-26T14:27:32Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b16/live/de274990-d133-11f1-be77-d1864d279cb0.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "fra-96e8f81e39e5",
       "title": "Will Netanyahu's security promise win him this election?",
       "description": "Since the beginning of his political career, Benjamin Netanyahu, Israel's longest-serving prime minister, has campaigned on a promise that he is the only one who will keep the Jewish state safe. As Israelis head to the polls for their first election since the October7 Hamas attacks and the start of the war in Gaza, Net…",
@@ -49,21 +64,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -d59fc7e1559c",
-      "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-      "description": "The death toll in Israel&#039;s genocidal war on Gaza climbs to 74,555, including 1,559 killed since &#039;ceasefire&#039; last year.",
-      "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-26T12:17:02Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adf24ba3f21-1793008826.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -113,6 +113,21 @@
       "tags": []
     },
     {
+      "id": "le -768166889424",
+      "title": "Bulgaria heads to presidential runoff after low turnout",
+      "description": "In the first round of the presidential election on October 25, Iliana Iotova received 34.7% of the vote, just under three points ahead of her opponent Andrey Gyurov. The disappointing result for the outgoing president was largely due to inflation and growing concerns over the impact of the war between Russia and Ukrain…",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/26/bulgaria-heads-to-presidential-runoff-after-low-turnout_6764452_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-26T10:02:04Z",
+      "image": "https://img.lemde.fr/2026/10/26/377/0/4529/2264/644/322/60/0/fda717b_ftp-1-ygt9sw55wekm-22748a4e3f334d3081ab17e6948f5d12-0-a5da0b6b1a1d485bbbf2e3357abd0cb2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "npr-56a7e27836c6",
       "title": "Russia says it will open humanitarian corridor to Ukrainian town",
       "description": "Russia says it will open a humanitarian corridor to the occupied Ukrainian town of Oleshky, where people have been eating weeds and pickles to survive while trapped by minefields, shelling and drones.",
@@ -158,22 +173,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -a34df03c1b63",
-      "title": "'Donald Trump goes further than the eccentric scientist from 'Honey, I Shrunk the Kids.' He is shrinking America'",
-      "description": "The US president's decision to assist Vladimir Putin in his war against Ukraine – most notably with the diesel fuel deal – marks the latest chapter in his ongoing campaign to dismantle America's superpower status, analyzes Le Monde columnist Alain Frachon.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/10/25/donald-trump-goes-further-than-the-eccentric-scientist-from-honey-i-shrunk-the-kids-he-is-shrinking-america_6763429_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-24T22:26:18Z",
-      "image": "https://img.lemde.fr/2026/10/21/191/0/3345/1672/644/322/60/0/b8f9637_ftp-1-bnlhj6bpj5fg-634a33dd2c6e45a9a343c41228da6bd6-0-79295c86cda54c94af713371981889e5.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     },
     {

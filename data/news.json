@@ -1,21 +1,37 @@
 {
-  "updated": "2026-10-26T03:46:27Z",
+  "updated": "2026-10-26T09:51:57Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -64088e786994",
-      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-      "description": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+      "id": "al -bcda5d5d0e24",
+      "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
+      "description": "After years of war, displacement and restrictions, Gazans ask whether Israel’s election will affect their future.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-26T00:02:55Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-23.53.09-1792972505.png?resize=1200%2C675",
+      "publishedAt": "2026-10-26T08:43:39Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_0176-copy-1-1792939766.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-56a7e27836c6",
+      "title": "Russia says it will open humanitarian corridor to Ukrainian town",
+      "description": "Russia says it will open a humanitarian corridor to the occupied Ukrainian town of Oleshky, where people have been eating weeds and pickles to survive while trapped by minefields, shelling and drones.",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
+      "source": "NPR World",
+      "publishedAt": "2026-10-26T08:42:00Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6014540",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -42,21 +58,6 @@
       "source": "France24",
       "publishedAt": "2026-10-25T16:25:12Z",
       "image": "https://s.france24.com/media/display/f03eb826-d088-11f1-ae10-4b25c96ec90e/w:1024/p:16x9/OBAMA-EN.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-874917b14fe9",
-      "title": "Israelis have changed. Will they change their leadership?",
-      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
-      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-      "source": "NPR World",
-      "publishedAt": "2026-10-25T16:00:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5007x3338+0+0/resize/5007x3338!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Ffa%2F7b23b0984f658a11dcb117c174a6%2Fgettyimages-2300594386.jpg",
       "categories": [
         "conflict"
       ],
@@ -156,6 +157,22 @@
       "tags": []
     },
     {
+      "id": "the-e0838b9d0132",
+      "title": "Russia, Ukraine Agree on Ceasefire in Embattled Oleshky, Plan New Peace Talks Next Month",
+      "description": "The pause in fighting will allow for the delivery of humanitarian aid and facilitate civilian evacuations from the town, the White House said.",
+      "url": "https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-10-24T06:13:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/fb/94069__fb6e1c3d99508226efb95aded5dfb58c.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-ef82899053f8",
       "title": "Zelensky Ready to Freeze Front Line to Halt War, Rejects Land Cession",
       "description": "President Volodymyr Zelensky announced that Ukraine is prepared to freeze combat operations along existing front lines to bring an immediate halt to the war, while firmly rejecting territorial concessions and vowing never to recognize occupied lands as Russian sovereign territory. Clarifying that Russian forces current…",
@@ -184,21 +201,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-71e445ff2f7a",
-      "title": "Putin Says Renewed Peace Talks Must Focus on Security for Russia, Ukraine and Europe Overall",
-      "description": "The president said that Russia remains intent on resolving the conflict once and for all rather than agreeing to a short-lived ceasefire with Kyiv.",
-      "url": "https://www.themoscowtimes.com/2026/10/23/putin-says-renewed-peace-talks-must-focus-on-security-for-russia-ukraine-and-europe-overall-a94061",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-10-23T08:16:40Z",
-      "image": "https://static.themoscowtimes.com/image/og/3b/94061__3be743ae0128edf4e3eab9b589d62ac4.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     }
   ]

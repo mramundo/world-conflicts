@@ -1,23 +1,86 @@
 {
-  "updated": "2026-10-27T14:06:23Z",
+  "updated": "2026-10-27T19:53:36Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -0506d41bf24c",
-      "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
-      "description": "Russia struck Kyiv multiple times on Monday night, hours before a humanitarian ceasefire in Oleshky took effect.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T13:34:07Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793108038.jpg?resize=1734%2C1080&amp;quality=80",
+      "id": "the-bbcf7b2c06c7",
+      "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
+      "description": "Frontline near Russian-occupied city in southern Ukraine quiet for first time in years ahead of planned evacuationA local ceasefire in a southern Ukrainian city under Russian occupation appeared to be holding on Tuesday, with both sides ceasing drone attacks ahead of an apparent evacuation of about 2,000 trapped and de…",
+      "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-27T17:43:02Z",
+      "image": "https://i.guim.co.uk/img/media/4a7e69582a0f73261c44fb0b1afe74d2f9175797/1163_0_7097_5681/master/7097.jpg?width=140&quality=85&auto=format&fit=max&s=4c0bfcdecca8d7f5ca070b4350f9bc12",
       "categories": [
         "conflict",
         "humanitarian"
       ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -df03ec4a3dfe",
+      "title": "Yemen's Houthis claim attacks on Saudi oil refinery and defense ministry",
+      "description": "Earlier on Tuesday, a Houthi official said the Egyptian parliament's decision to authorize defensive military support for Saudi Arabia amounted to a declaration of war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/27/yemen-s-houthis-claim-attacks-on-saudi-oil-refinery-and-defense-ministry_6765418_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-27T16:59:54Z",
+      "image": "https://img.lemde.fr/2026/10/26/350/0/4200/2100/644/322/60/0/c816bae_ftp-1-vb3bqluvtfkh-5443854-01-06.jpg",
+      "categories": [
+        "conflict"
+      ],
       "relevanceScore": 5,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-860828cb96c7",
+      "title": "'Get Killed Or Starve': Life Under Russian Occupation In Oleshky",
+      "description": "Residents fleeing Russian-occupied Oleshky describe hunger, soaring food prices, and threats from Russian soldiers. Cut off from supplies, civilians risk mines and drone attacks to escape. Now, a proposed cease-fire could open a humanitarian corridor for those still trapped in the Ukrainian city.",
+      "url": "https://www.rferl.org/a/get-killed-or-starve-life-under-russian-occupation-in-oleshky/33885344.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-27T15:27:34Z",
+      "image": "https://gdb.rferl.org/8975dce1-844a-45ed-77e8-08df13a869ed_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-19ebc5f0e94e",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "description": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-27T15:13:24Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c559df3b8543",
+      "title": "Sudan’s war steals children’s future with school closures and displacement",
+      "description": "The conflict in Sudan has left millions of children without education, as they work to help their families.",
+      "url": "https://www.aljazeera.com/features/2026/10/27/sudans-war-steals-childrens-futures-with-school-closures-and-displacement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-27T14:45:41Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_3278-1793081355.jpeg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -36,33 +99,18 @@
       "tags": []
     },
     {
-      "id": "bbc-19ebc5f0e94e",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "description": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-27T11:53:57Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-75de2eef677f",
-      "title": "Chad hosts hundreds of thousands of Sudanese refugees as regional humanitarian crisis extends",
-      "description": "Sudan’s war is spilling over into Chad. A drone strike killed at least four people last week in the border town of Bamina, and hundreds of thousands of Sudanese refugees have crossed over in search of safety. Many of those who survived the massacre in El Fasher are still deeply traumatised. FRANCE 24's correspondent Ha…",
-      "url": "https://www.france24.com/en/video/20261027-chad-hosts-hundreds-of-thousands-of-sudanese-refugees-as-regional-humanitarian-crisis-extends",
+      "id": "fra-e829f8e833eb",
+      "title": "Localised Russia-Ukraine ceasefire starts in Ukrainian town facing starvation",
+      "description": "A localised ceasefire between Ukraine and Russia took effect early Tuesday (October 27) ahead of a humanitarian mission led by US first lady Melania Trump, as missile attacks resumed in Kyiv. FRANCE 24's correspondent in Kyiv, Emmanuelle Chaze, has more.",
+      "url": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation",
       "source": "France24",
-      "publishedAt": "2026-10-27T11:13:55Z",
-      "image": "https://s.france24.com/media/display/b861376e-d1ee-11f1-b904-bdb9616e85cf/w:1024/p:16x9/capture-4e39aeb0.jpg",
+      "publishedAt": "2026-10-27T12:34:42Z",
+      "image": "https://s.france24.com/media/display/eda218e8-d1a4-11f1-9062-bdb9616e85cf/w:1024/p:16x9/37d1dc6b018faa3403f2a1f253bd0bc47e1a1ebe.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -94,53 +142,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -aa33da3467bd",
-      "title": "West Bank: In Hebron, behind Israeli army barricades, a bitter sense of 'collective punishment'",
-      "description": "After an attack that killed two Israeli soldiers on October 23, the Israeli army sealed off several neighborhoods in the occupied West Bank city and forcibly displaced more than 2,000 Palestinians.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/27/west-bank-in-hebron-behind-israeli-army-barricades-a-bitter-sense-of-collective-punishment_6765112_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-27T01:16:46Z",
-      "image": "https://img.lemde.fr/2026/10/26/632/0/5760/2880/644/322/60/0/70b92d2_upload-1-lrtakjnrdnzj-lgeai-hebron-34.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-440b81e62880",
-      "title": "Russian Strikes Hit Kyiv As Oleshky Cease-Fire Takes Effect",
-      "description": "The US-negotiated cease-fire aimed at allowing humanitarian aid into the southern Ukrainian city of Oleshky took effect in the early hours of October 27, shortly after Russian air attacks struck Kyiv, hitting a university dormitory and other civilian sites and killing at least one person.",
-      "url": "https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-27T00:54:00Z",
-      "image": "https://gdb.rferl.org/82fc7e99-345e-407a-6aac-08df13a87200_cx0_cy0_cw99_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-f85225e6ef5d",
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "description": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of th…",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-26T15:07:23Z",
-      "image": "https://i.guim.co.uk/img/media/c671810cd05b5ef573941d3edd85008c82d9bedf/687_437_3773_3019/master/3773.jpg?width=140&quality=85&auto=format&fit=max&s=af957effb5d8061ca35d33abdce49bd9",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

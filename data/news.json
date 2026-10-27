@@ -1,9 +1,87 @@
 {
-  "updated": "2026-10-27T01:15:15Z",
+  "updated": "2026-10-27T07:27:10Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -98ebb6ca13ef",
+      "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+      "description": "Israel sealed the West Bank, emptied parts of Hebron and tightened the squeeze on Gaza as its election campaign closed.",
+      "url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-27T06:28:13Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adfb62d79fb-1793046061.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-e736d8f21903",
+      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+      "description": "A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv.",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
+      "source": "NPR World",
+      "publishedAt": "2026-10-27T05:26:58Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3228x2152+0+0/resize/3228x2152!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2Fc5%2Ff2474865439294dcfc51ebea89a5%2Fap26287677889466.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-19ebc5f0e94e",
+      "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
+      "description": "The ceasefire is meant to allow aid deliveries and the evacuation of civilians.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-27T02:58:48Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -aa33da3467bd",
+      "title": "West Bank: In Hebron, behind Israeli army barricades, a bitter sense of 'collective punishment'",
+      "description": "After an attack that killed two Israeli soldiers on October 23, the Israeli army sealed off several neighborhoods in the occupied West Bank city and forcibly displaced more than 2,000 Palestinians.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/27/west-bank-in-hebron-behind-israeli-army-barricades-a-bitter-sense-of-collective-punishment_6765112_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-27T01:16:49Z",
+      "image": "https://img.lemde.fr/2026/10/26/632/0/5760/2880/644/322/60/0/70b92d2_upload-1-lrtakjnrdnzj-lgeai-hebron-34.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-440b81e62880",
+      "title": "Cease-Fire Takes Effect Near Oleshky As Russian Strikes Hit Kyiv",
+      "description": "Russian air attacks struck Kyiv late on October 26, hitting a university dormitory and other civilian sites, leaving at least one dead, as President Volodymyr Zelenskyy called on Ukraine's partners to provide the \"proper tools\" for the country to defend itself.",
+      "url": "https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-27T00:54:00Z",
+      "image": "https://gdb.rferl.org/731ce53c-9f78-4cce-4c78-08df13aec0bb_cx0_cy0_cw99_w800_h450.png",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "fra-34fc65e85cd0",
       "title": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
@@ -16,36 +94,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -8d3bd2c75ff2",
-      "title": "Zelenskyy says peace talks with Russia, US to restart",
-      "description": "Zelenskyy says peace talks with Russia, US to restart",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-26T17:58:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/zelenskyy-horizontal-thumb-1793037440.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-d1857281bdb5",
-      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-      "description": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-26T16:31:09Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea02/live/3f6f54a0-d147-11f1-9eb5-811878e0f07d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -124,54 +172,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -768166889424",
-      "title": "Bulgaria heads to presidential runoff after low turnout",
-      "description": "In the first round of the presidential election on October 25, Iliana Iotova received 34.7% of the vote, just under three points ahead of her opponent Andrey Gyurov. The disappointing result for the outgoing president was largely due to inflation and growing concerns over the impact of the war between Russia and Ukrain…",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/26/bulgaria-heads-to-presidential-runoff-after-low-turnout_6764452_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-26T10:02:04Z",
-      "image": "https://img.lemde.fr/2026/10/26/377/0/4529/2264/644/322/60/0/fda717b_ftp-1-ygt9sw55wekm-22748a4e3f334d3081ab17e6948f5d12-0-a5da0b6b1a1d485bbbf2e3357abd0cb2.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-56a7e27836c6",
-      "title": "Russia says it will open humanitarian corridor to Ukrainian town",
-      "description": "Russia says it will open a humanitarian corridor to the occupied Ukrainian town of Oleshky, where people have been eating weeds and pickles to survive while trapped by minefields, shelling and drones.",
-      "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
-      "source": "NPR World",
-      "publishedAt": "2026-10-26T08:42:00Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6014540",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-ce2c97790434",
-      "title": "'Destroyed': Relentless Russian Strikes Drive Civilians From Ukraine's Kramatorsk",
-      "description": "As Russian forces intensify attacks on Ukraine’s Donetsk region, evacuations are accelerating in Kramatorsk, a key city still held by Kyiv. As Moscow seeks to seize all of the Donetsk region, Ukraine has issued a mandatory evacuation order for families with children in Kramatorsk and Slovyansk.",
-      "url": "https://www.rferl.org/a/relentless-russian-strikes-drive-civilians-from-ukraine-s-kramatorsk/33883080.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-25T08:24:41Z",
-      "image": "https://gdb.rferl.org/aab9f32f-3bd8-48fe-e941-08df13afe2a0_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
       "tags": []
     },
     {

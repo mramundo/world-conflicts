@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T01:15:26Z",
+  "updated": "2026-10-27T07:27:18Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-10-24T23:09:42Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-10-27",
       "wikipediaRevision": "2026-10-27T00:30:25Z",
-      "recentNewsCount": 7
+      "recentNewsCount": 6
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-10-26",
       "wikipediaRevision": "2026-10-26T05:28:41Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "et-am",
@@ -338,7 +338,7 @@
       "wikipediaPage": "War_in_Amhara",
       "lastUpdate": "2026-10-02",
       "wikipediaRevision": "2026-10-02T08:02:50Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "co-fgc",
@@ -449,7 +449,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 3
     }
   ]
 }

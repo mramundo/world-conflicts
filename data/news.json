@@ -1,9 +1,39 @@
 {
-  "updated": "2026-10-27T19:53:36Z",
+  "updated": "2026-10-27T23:35:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -db2d0b0d604a",
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "description": "Iranian president&#039;s words came at summit for gas exporting countries in Russia.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-27T22:29:31Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-27T170532Z_718250560_RC2SBOA79AUS_RTRMADP_3_RUSSIA-ENERGY-SUMMIT-BILATS-IRAN-1793139031.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-4ce40386cade",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-27T22:11:08Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "the-bbcf7b2c06c7",
       "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
@@ -36,6 +66,21 @@
       "tags": []
     },
     {
+      "id": "fra-97ec09684c42",
+      "title": "Israelis vote in a tense election: What's at stake?",
+      "description": "Israelis were voting Tuesday (October 27) in a tense national election widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership since the Hamas-led Oct. 7, 2023, attack on Israel and the wars that have since shaken the Middle East.",
+      "url": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
+      "source": "France24",
+      "publishedAt": "2026-10-27T16:59:06Z",
+      "image": "https://s.france24.com/media/display/6e9752f2-d226-11f1-b354-bf69a9ce9852/w:1024/p:16x9/EN-20261027-163137-163342-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-860828cb96c7",
       "title": "'Get Killed Or Starve': Life Under Russian Occupation In Oleshky",
       "description": "Residents fleeing Russian-occupied Oleshky describe hunger, soaring food prices, and threats from Russian soldiers. Cut off from supplies, civilians risk mines and drone attacks to escape. Now, a proposed cease-fire could open a humanitarian corridor for those still trapped in the Ukrainian city.",
@@ -49,37 +94,6 @@
         "analysis"
       ],
       "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-19ebc5f0e94e",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "description": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-27T15:13:24Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -c559df3b8543",
-      "title": "Sudan’s war steals children’s future with school closures and displacement",
-      "description": "The conflict in Sudan has left millions of children without education, as they work to help their families.",
-      "url": "https://www.aljazeera.com/features/2026/10/27/sudans-war-steals-childrens-futures-with-school-closures-and-displacement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T14:45:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_3278-1793081355.jpeg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },
@@ -99,18 +113,18 @@
       "tags": []
     },
     {
-      "id": "fra-e829f8e833eb",
-      "title": "Localised Russia-Ukraine ceasefire starts in Ukrainian town facing starvation",
-      "description": "A localised ceasefire between Ukraine and Russia took effect early Tuesday (October 27) ahead of a humanitarian mission led by US first lady Melania Trump, as missile attacks resumed in Kyiv. FRANCE 24's correspondent in Kyiv, Emmanuelle Chaze, has more.",
-      "url": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation",
-      "source": "France24",
-      "publishedAt": "2026-10-27T12:34:42Z",
-      "image": "https://s.france24.com/media/display/eda218e8-d1a4-11f1-9062-bdb9616e85cf/w:1024/p:16x9/37d1dc6b018faa3403f2a1f253bd0bc47e1a1ebe.jpg",
+      "id": "un -f70d104c63ab",
+      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+      "description": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+      "source": "UN News",
+      "publishedAt": "2026-10-27T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/27-10-2026-UNHCR-Ukraine-01.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -173,21 +187,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -ce87bcf1c893",
-      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
-      "description": "Top human rights experts investigating Russia’s full-scale invasion of Ukraine&nbsp;said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168670",
-      "source": "UN News",
-      "publishedAt": "2026-10-26T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-10-2025_OCHA_Ukraine.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

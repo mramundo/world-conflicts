@@ -1,21 +1,36 @@
 {
-  "updated": "2026-10-26T21:26:56Z",
+  "updated": "2026-10-27T01:15:15Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -1f47b8f8e7ad",
-      "title": "Britain sanctions Sudanese commanders over weaponised rape",
-      "description": "Commanders from the Rapid Support Forces (RSF) and Sudanese Armed Forces face travel and asset freezes.",
-      "url": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-26T17:32:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6adf61a4-1793024420.jpg?resize=1920%2C1440",
+      "id": "fra-34fc65e85cd0",
+      "title": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
+      "description": "The United Nations on Monday raised \"ethnic cleansing\" concerns following Israel's operation to displace by force more than 3,000 Palestinians from their homes in Hebron in the West Bank after two Palestinian gunmen killed two Israeli soldiers at a checkpoint near the city on Friday. UN rights chief Volker Turk said in…",
+      "url": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron",
+      "source": "France24",
+      "publishedAt": "2026-10-26T17:59:03Z",
+      "image": "https://s.france24.com/media/display/2f768b06-d163-11f1-8123-4d317af013fd/w:1024/p:16x9/AP26297362966211.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8d3bd2c75ff2",
+      "title": "Zelenskyy says peace talks with Russia, US to restart",
+      "description": "Zelenskyy says peace talks with Russia, US to restart",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-26T17:58:14Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/zelenskyy-horizontal-thumb-1793037440.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,6 +50,21 @@
       "tags": []
     },
     {
+      "id": "the-f85225e6ef5d",
+      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "description": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of th…",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-26T15:07:23Z",
+      "image": "https://i.guim.co.uk/img/media/c671810cd05b5ef573941d3edd85008c82d9bedf/687_437_3773_3019/master/3773.jpg?width=140&quality=85&auto=format&fit=max&s=af957effb5d8061ca35d33abdce49bd9",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "deu-1b37813cef7c",
       "title": "Why Ukraine may be involved in Mali's conflict",
       "description": "Allegations that Ukrainian specialists are supporting Tuareg rebels in Mali highlight Kyiv's effort to challenge Russian influence far beyond the battlefield in Europe.",
@@ -47,22 +77,6 @@
         "analysis"
       ],
       "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-96e8f81e39e5",
-      "title": "Will Netanyahu's security promise win him this election?",
-      "description": "Since the beginning of his political career, Benjamin Netanyahu, Israel's longest-serving prime minister, has campaigned on a promise that he is the only one who will keep the Jewish state safe. As Israelis head to the polls for their first election since the October7 Hamas attacks and the start of the war in Gaza, Net…",
-      "url": "https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election",
-      "source": "France24",
-      "publishedAt": "2026-10-26T13:52:32Z",
-      "image": "https://s.france24.com/media/display/08eb65f0-ceb2-11f1-8538-4b25c96ec90e/w:1024/p:16x9/Netanyahu-cover.png",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     },
@@ -158,21 +172,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-77413990dbda",
-      "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-      "description": "PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpointIsraeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in collective punishment for a militant attack on an army checkpoint outside the West Bank city, local Palestinian authorities …",
-      "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-25T06:24:46Z",
-      "image": "https://i.guim.co.uk/img/media/070c0491a86f1916db6f7b08a147bb7b4fa7f848/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a86c608091eb431b74e2f8468e8760a5",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
       "tags": []
     },
     {

@@ -1,21 +1,83 @@
 {
-  "updated": "2026-10-27T07:27:10Z",
+  "updated": "2026-10-27T14:06:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -98ebb6ca13ef",
-      "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
-      "description": "Israel sealed the West Bank, emptied parts of Hebron and tightened the squeeze on Gaza as its election campaign closed.",
-      "url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
+      "id": "al -0506d41bf24c",
+      "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
+      "description": "Russia struck Kyiv multiple times on Monday night, hours before a humanitarian ceasefire in Oleshky took effect.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-27T06:28:13Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adfb62d79fb-1793046061.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-27T13:34:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793108038.jpg?resize=1734%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-a5c20fa7daba",
+      "title": "Kiev, 'la tregua a Oleshky durerà fino alle 23 di domenica'",
+      "description": "\"Ogni sforzo di de-escalation di questo tipo avvicina la pace tanto attesa in Ucraina\"",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/27/kiev-la-tregua-a-oleshky-durera-fino-alle-23-di-domenica_dccae31d-c8a4-45bb-82e8-7632c55fa22c.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-27T12:57:10Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/24/ff15276d1e7d74ad8471f2a55c604043.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-19ebc5f0e94e",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "description": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-27T11:53:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-75de2eef677f",
+      "title": "Chad hosts hundreds of thousands of Sudanese refugees as regional humanitarian crisis extends",
+      "description": "Sudan’s war is spilling over into Chad. A drone strike killed at least four people last week in the border town of Bamina, and hundreds of thousands of Sudanese refugees have crossed over in search of safety. Many of those who survived the massacre in El Fasher are still deeply traumatised. FRANCE 24's correspondent Ha…",
+      "url": "https://www.france24.com/en/video/20261027-chad-hosts-hundreds-of-thousands-of-sudanese-refugees-as-regional-humanitarian-crisis-extends",
+      "source": "France24",
+      "publishedAt": "2026-10-27T11:13:55Z",
+      "image": "https://s.france24.com/media/display/b861376e-d1ee-11f1-b904-bdb9616e85cf/w:1024/p:16x9/capture-4e39aeb0.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -b24878302049",
+      "title": "Israelis abroad flock home for ‘most important election we’ve ever had’",
+      "description": "Democracy. The Hamas attack. Wars in Gaza, Lebanon, and Iran. Netanyahu’s long tenure. For Israelis returning home to vote, the list of momentous issues is long.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/1027/israeli-expat-voters-netanyahu-democracy-gaza-iran?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-10-27T09:00:11Z",
+      "image": "https://images.csmonitor.com/csm/2026/10/1026_OISRAELVOTERS_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,28 +98,12 @@
       "tags": []
     },
     {
-      "id": "bbc-19ebc5f0e94e",
-      "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
-      "description": "The ceasefire is meant to allow aid deliveries and the evacuation of civilians.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-27T02:58:48Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "le -aa33da3467bd",
       "title": "West Bank: In Hebron, behind Israeli army barricades, a bitter sense of 'collective punishment'",
       "description": "After an attack that killed two Israeli soldiers on October 23, the Israeli army sealed off several neighborhoods in the occupied West Bank city and forcibly displaced more than 2,000 Palestinians.",
       "url": "https://www.lemonde.fr/en/international/article/2026/10/27/west-bank-in-hebron-behind-israeli-army-barricades-a-bitter-sense-of-collective-punishment_6765112_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-27T01:16:49Z",
+      "publishedAt": "2026-10-27T01:16:46Z",
       "image": "https://img.lemde.fr/2026/10/26/632/0/5760/2880/644/322/60/0/70b92d2_upload-1-lrtakjnrdnzj-lgeai-hebron-34.jpg",
       "categories": [
         "conflict"
@@ -68,33 +114,19 @@
     },
     {
       "id": "rfe-440b81e62880",
-      "title": "Cease-Fire Takes Effect Near Oleshky As Russian Strikes Hit Kyiv",
-      "description": "Russian air attacks struck Kyiv late on October 26, hitting a university dormitory and other civilian sites, leaving at least one dead, as President Volodymyr Zelenskyy called on Ukraine's partners to provide the \"proper tools\" for the country to defend itself.",
+      "title": "Russian Strikes Hit Kyiv As Oleshky Cease-Fire Takes Effect",
+      "description": "The US-negotiated cease-fire aimed at allowing humanitarian aid into the southern Ukrainian city of Oleshky took effect in the early hours of October 27, shortly after Russian air attacks struck Kyiv, hitting a university dormitory and other civilian sites and killing at least one person.",
       "url": "https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html",
       "source": "RFE/RL",
       "publishedAt": "2026-10-27T00:54:00Z",
-      "image": "https://gdb.rferl.org/731ce53c-9f78-4cce-4c78-08df13aec0bb_cx0_cy0_cw99_w800_h450.png",
+      "image": "https://gdb.rferl.org/82fc7e99-345e-407a-6aac-08df13a87200_cx0_cy0_cw99_w800_h450.jpg",
       "categories": [
         "conflict",
+        "humanitarian",
         "analysis"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-34fc65e85cd0",
-      "title": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
-      "description": "The United Nations on Monday raised \"ethnic cleansing\" concerns following Israel's operation to displace by force more than 3,000 Palestinians from their homes in Hebron in the West Bank after two Palestinian gunmen killed two Israeli soldiers at a checkpoint near the city on Friday. UN rights chief Volker Turk said in…",
-      "url": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron",
-      "source": "France24",
-      "publishedAt": "2026-10-26T17:59:03Z",
-      "image": "https://s.france24.com/media/display/2f768b06-d163-11f1-8123-4d317af013fd/w:1024/p:16x9/AP26297362966211.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -144,17 +176,17 @@
       "tags": []
     },
     {
-      "id": "ans-64d07272f244",
-      "title": "Cremlino, 'tregua a Oleshky può essere precedente per altre iniziative'",
-      "description": "'Soprattutto con l'intervento dei negoziatori americani e di Melania Trump'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/26/cremlino-tregua-a-oleshky-puo-essere-precedente-per-altre-iniziative_07e2e48e-f4a0-4752-8067-067b3b9fa6fc.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-26T11:26:12Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/23/d3f383f69a8650e0b7af2b7fa275cfa3.jpg",
+      "id": "un -ce87bcf1c893",
+      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+      "description": "Top human rights experts investigating Russia’s full-scale invasion of Ukraine&nbsp;said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+      "source": "UN News",
+      "publishedAt": "2026-10-26T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-10-2025_OCHA_Ukraine.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -171,36 +203,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -a960f06d357c",
-      "title": "Police and protesters clash in Paris as demonstrations break out across Europe",
-      "description": "Demonstrations rocked many European cities Saturday, from Milan to Madrid. The protests encompass a broad range of issues, from education to housing.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/1024/Police-and-protesters-clash-in-Paris-as-demonstrations-break-out-across-Europe?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-10-24T17:23:31Z",
-      "image": "https://images.csmonitor.com/csm/2026/10/1221167_1_PROTEST_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -3dc7471b1a1d",
-      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
-      "description": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-      "source": "UN News",
-      "publishedAt": "2026-10-24T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     }

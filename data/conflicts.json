@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:36:04Z",
+  "updated": "2026-10-28T04:37:58Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-10-24T23:09:42Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-10-27",
       "wikipediaRevision": "2026-10-27T00:30:25Z",
-      "recentNewsCount": 8
+      "recentNewsCount": 7
     },
     {
       "id": "il-ps",
@@ -45,9 +45,8 @@
         "Asymmetric"
       ],
       "wikipediaPage": "Gaza_war",
-      "lastUpdate": "2026-10-27",
-      "wikipediaRevision": "2026-10-27T22:43:55Z",
-      "recentNewsCount": 1
+      "lastUpdate": "2026-04-21",
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -147,7 +146,7 @@
       "lng": 29.22,
       "intensity": "high",
       "startYear": 2012,
-      "casualties": 11873,
+      "casualties": 40000,
       "displaced": 7000000,
       "description": "M23 offensive in North Kivu with support — denounced by the UN — from Rwanda. Goma under pressure.",
       "tags": [
@@ -155,9 +154,7 @@
         "Armed groups"
       ],
       "wikipediaPage": "Kivu_conflict",
-      "lastUpdate": "2026-10-26",
-      "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-10-26T18:17:34Z",
+      "lastUpdate": "2026-04-21",
       "recentNewsCount": 0
     },
     {
@@ -225,8 +222,7 @@
         "Jihadism"
       ],
       "wikipediaPage": "Boko_Haram_insurgency",
-      "lastUpdate": "2026-10-25",
-      "wikipediaRevision": "2026-10-25T16:31:37Z",
+      "lastUpdate": "2026-04-21",
       "recentNewsCount": 0
     },
     {
@@ -336,8 +332,8 @@
         "Civil war"
       ],
       "wikipediaPage": "War_in_Amhara",
-      "lastUpdate": "2026-10-02",
-      "wikipediaRevision": "2026-10-02T08:02:50Z",
+      "lastUpdate": "2026-10-28",
+      "wikipediaRevision": "2026-10-28T04:14:09Z",
       "recentNewsCount": 0
     },
     {
@@ -394,7 +390,7 @@
       "lng": 74.8,
       "intensity": "low",
       "startYear": 1947,
-      "casualties": 20000,
+      "casualties": 70000,
       "displaced": 200000,
       "description": "Periodic tensions along the Line of Control and sporadic attacks in Indian-administered Kashmir.",
       "tags": [
@@ -402,9 +398,7 @@
         "Interstate"
       ],
       "wikipediaPage": "Insurgency_in_Jammu_and_Kashmir",
-      "lastUpdate": "2026-10-24",
-      "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-10-24T06:01:56Z",
+      "lastUpdate": "2026-04-21",
       "recentNewsCount": 0
     },
     {
@@ -449,7 +443,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     }
   ]
 }

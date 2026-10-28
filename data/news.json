@@ -1,21 +1,66 @@
 {
-  "updated": "2026-10-28T04:37:28Z",
+  "updated": "2026-10-28T11:04:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -dd96394efbe7",
-      "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
-      "description": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
-      "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-28T00:43:02Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-27T222710Z_760116720_RC2WBOAP3S9S_RTRMADP_3_ISRAEL-ELECTION-1793144789.jpg?resize=1920%2C1440",
+      "id": "fra-aaa86d817521",
+      "title": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
+      "description": "A local ceasefire in the Russian-occupied southern Ukrainian city of Oleshky held through its first day and night, despite continued fighting between Moscow and Kyiv elsewhere. The truce, which began on Tuesday in the devastated city, is expected to remain in place until Sunday. Emerald Maxwell reports.",
+      "url": "https://www.france24.com/en/video/20261028-ukraine-ceasefire-holds-for-its-first-30-hours-in-occupied-oleshky",
+      "source": "France24",
+      "publishedAt": "2026-10-28T10:46:51Z",
+      "image": "https://s.france24.com/media/display/34c0ad2c-d2b6-11f1-b05f-75c7729144f1/w:1024/p:16x9/EN-20261028-101958-102153-CS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-a0836c3558e3",
+      "title": "At least 10 dead in crash between 2 trains in Spain",
+      "description": "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 10 people on Wednesday in central Spain, authorities said.",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+      "source": "NPR World",
+      "publishedAt": "2026-10-28T10:09:46Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5040x3360+0+0/resize/5040x3360!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2Fae%2F21c98d8f464684fa3f1424c9ba8c%2Fap26301350180722.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -fd78ae3ec637",
+      "title": "Ahead of EU-Canada summit, European leaders clash over terminology",
+      "description": "European Commission President Ursula von der Leyen's offer of EU associate member status to Canada has angered both Paris and Berlin. Canadian Prime Minister Mark Carney faces criticism over the proposal at home.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/28/ahead-of-eu-canada-summit-european-leaders-clash-over-terminology_6765839_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-28T09:59:18Z",
+      "image": "https://img.lemde.fr/2026/10/27/637/0/8256/4128/644/322/60/0/b5fcd82_upload-1-czcviu6b2dyo-000-c8fk6g7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -b002d5dbb857",
+      "title": "Elderly women and children survive Russian attack on Kharkiv",
+      "description": "A Russian drone attack in Ukraine&#039;s Kharkiv late Tuesday forced elderly women and children to evacuate their homes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-28T07:35:20Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793172865.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,36 +92,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -df03ec4a3dfe",
-      "title": "Yemen's Houthis claim attacks on Saudi oil refinery and defense ministry",
-      "description": "Earlier on Tuesday, a Houthi official said the Egyptian parliament's decision to authorize defensive military support for Saudi Arabia amounted to a declaration of war.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/27/yemen-s-houthis-claim-attacks-on-saudi-oil-refinery-and-defense-ministry_6765418_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-27T16:59:54Z",
-      "image": "https://img.lemde.fr/2026/10/26/350/0/4200/2100/644/322/60/0/c816bae_ftp-1-vb3bqluvtfkh-5443854-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-97ec09684c42",
-      "title": "Israelis vote in a tense election: What's at stake?",
-      "description": "Israelis were voting Tuesday (October 27) in a tense national election widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership since the Hamas-led Oct. 7, 2023, attack on Israel and the wars that have since shaken the Middle East.",
-      "url": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
-      "source": "France24",
-      "publishedAt": "2026-10-27T16:59:06Z",
-      "image": "https://s.france24.com/media/display/6e9752f2-d226-11f1-b354-bf69a9ce9852/w:1024/p:16x9/EN-20261027-163137-163342-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -140,22 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-e736d8f21903",
-      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
-      "description": "A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv.",
-      "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
-      "source": "NPR World",
-      "publishedAt": "2026-10-27T05:26:58Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3228x2152+0+0/resize/3228x2152!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2Fc5%2Ff2474865439294dcfc51ebea89a5%2Fap26287677889466.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

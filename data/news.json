@@ -1,32 +1,93 @@
 {
-  "updated": "2026-10-28T11:04:13Z",
+  "updated": "2026-10-28T18:01:00Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "fra-aaa86d817521",
-      "title": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
-      "description": "A local ceasefire in the Russian-occupied southern Ukrainian city of Oleshky held through its first day and night, despite continued fighting between Moscow and Kyiv elsewhere. The truce, which began on Tuesday in the devastated city, is expected to remain in place until Sunday. Emerald Maxwell reports.",
-      "url": "https://www.france24.com/en/video/20261028-ukraine-ceasefire-holds-for-its-first-30-hours-in-occupied-oleshky",
-      "source": "France24",
-      "publishedAt": "2026-10-28T10:46:51Z",
-      "image": "https://s.france24.com/media/display/34c0ad2c-d2b6-11f1-b05f-75c7729144f1/w:1024/p:16x9/EN-20261028-101958-102153-CS.jpg",
+      "id": "cs -4d4629cabde4",
+      "title": "After three years of civil war, Sudan faces the threat of inflation",
+      "description": "Since May, the Sudanese pound has lost more than half of its value, pushing up food prices and putting more pressure on overstretched aid groups.",
+      "url": "https://www.csmonitor.com/World/Africa/2026/1028/sudan-war-gold-hunger-famine-emergency-response-rooms?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-10-28T17:09:25Z",
+      "image": "https://images.csmonitor.com/csm/2026/10/1221293_3_1028%20OKHARTOUM%20lede.jpg_standard.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -759409f0897f",
+      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
+      "description": "Soaring food prices and shrinking incomes force families in Sudan&#039;s capital to borrow money and skip meals.",
+      "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-28T17:09:05Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/20261023_162906-1793203030.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
       "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -845db17e459d",
+      "title": "French lawyers wage battle with government over curfews imposed after protests",
+      "description": "Lawyers, academics, NGOs and ordinary citizens have mounted a legal offensive to challenge the measures imposed by the government after the protest and looting on October 17.",
+      "url": "https://www.lemonde.fr/en/france/article/2026/10/28/french-lawyers-wage-battle-with-government-over-curfews-imposed-after-protests_6766003_7.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-28T13:40:51Z",
+      "image": "https://img.lemde.fr/2026/10/21/0/0/4500/2250/644/322/60/0/1e56eb6_upload-1-pwqnrniykf7o-02-20102026-dscf4338-couvre-feu-paris-carrot.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-ab6e6c94d622",
+      "title": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
+      "description": "There ​have been ​no breaches of the US-brokered local ceasefire ​around ‌the ⁠Russian-occupied town of Oleshky ‌in southern Ukraine during its first 30 hours, ​Ukraine's human rights ‌ombudsman Dmytro Lubinets said on ‌Wednesday. A ceasefire has ​been agreed until November 1 to ​allow residents of ​the frontline ​town…",
+      "url": "https://www.france24.com/en/video/20261028-ukraine-melania-trump-brokered-local-ceasefire-holds-for-second-day",
+      "source": "France24",
+      "publishedAt": "2026-10-28T12:42:31Z",
+      "image": "https://s.france24.com/media/display/f06a6ef4-d2cb-11f1-9aeb-a7bbbeea0b20/w:1024/p:16x9/mini-38.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-e2e824800171",
+      "title": "Ue, 'telefonata Stubb-Store iniziativa bilaterale, messaggio sia unito'",
+      "description": "'Ribadiamo impegno a porre fine alla guerra, ma anche a raggiungere una pace giusta'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/28/ue-telefonata-stubb-store-iniziativa-bilaterale-messaggio-sia-unito_7eef095a-d01c-4de4-932a-ee4543fe906c.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-28T12:23:00Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/7fbb17cf95f84c03597378fc9013839b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "npr-a0836c3558e3",
-      "title": "At least 10 dead in crash between 2 trains in Spain",
-      "description": "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 10 people on Wednesday in central Spain, authorities said.",
+      "title": "Dozens are dead in a high-speed train crash in Spain",
+      "description": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
       "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
       "source": "NPR World",
       "publishedAt": "2026-10-28T10:09:46Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5040x3360+0+0/resize/5040x3360!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2Fae%2F21c98d8f464684fa3f1424c9ba8c%2Fap26301350180722.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1241+0+0/resize/2000x1241!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F8a%2F417aad664031913c1335e9797e08%2Fap26301360905635.jpg",
       "categories": [
         "conflict"
       ],
@@ -35,32 +96,17 @@
       "tags": []
     },
     {
-      "id": "le -fd78ae3ec637",
-      "title": "Ahead of EU-Canada summit, European leaders clash over terminology",
-      "description": "European Commission President Ursula von der Leyen's offer of EU associate member status to Canada has angered both Paris and Berlin. Canadian Prime Minister Mark Carney faces criticism over the proposal at home.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/28/ahead-of-eu-canada-summit-european-leaders-clash-over-terminology_6765839_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-28T09:59:18Z",
-      "image": "https://img.lemde.fr/2026/10/27/637/0/8256/4128/644/322/60/0/b5fcd82_upload-1-czcviu6b2dyo-000-c8fk6g7.jpg",
+      "id": "the-93600541ed20",
+      "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+      "description": "Talks are aimed at reopening strait of Hormuz and lifting sanctions on Iran, and for Houthis to withdraw in YemenA multipronged peace deal to reopen the strait of Hormuz within four days of sanctions being lifted and for the Houthis to withdraw substantial forces inside Yemen are at the heart of Gulf states’ plans to a…",
+      "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-28T05:00:55Z",
+      "image": "https://i.guim.co.uk/img/media/7696200dce7254abdadd923a886adbbcc098804a/11_17_4694_3755/master/4694.jpg?width=140&quality=85&auto=format&fit=max&s=cfebc41dd9a7f62e6ae7dcf0d812e508",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -b002d5dbb857",
-      "title": "Elderly women and children survive Russian attack on Kharkiv",
-      "description": "A Russian drone attack in Ukraine&#039;s Kharkiv late Tuesday forced elderly women and children to evacuate their homes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-28T07:35:20Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793172865.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,22 +122,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-bbcf7b2c06c7",
-      "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-      "description": "Frontline near Russian-occupied city in southern Ukraine quiet for first time in years ahead of planned evacuationA local ceasefire in a southern Ukrainian city under Russian occupation appeared to be holding on Tuesday, with both sides ceasing drone attacks ahead of an apparent evacuation of about 2,000 trapped and de…",
-      "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-27T17:43:02Z",
-      "image": "https://i.guim.co.uk/img/media/4a7e69582a0f73261c44fb0b1afe74d2f9175797/1163_0_7097_5681/master/7097.jpg?width=140&quality=85&auto=format&fit=max&s=4c0bfcdecca8d7f5ca070b4350f9bc12",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -113,21 +143,6 @@
       "tags": []
     },
     {
-      "id": "ans-a5c20fa7daba",
-      "title": "Kiev, 'la tregua a Oleshky durerà fino alle 23 di domenica'",
-      "description": "\"Ogni sforzo di de-escalation di questo tipo avvicina la pace tanto attesa in Ucraina\"",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/27/kiev-la-tregua-a-oleshky-durera-fino-alle-23-di-domenica_dccae31d-c8a4-45bb-82e8-7632c55fa22c.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-27T12:57:10Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/24/ff15276d1e7d74ad8471f2a55c604043.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -f70d104c63ab",
       "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
       "description": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
@@ -140,21 +155,6 @@
         "humanitarian"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -b24878302049",
-      "title": "Israelis abroad flock home for ‘most important election we’ve ever had’",
-      "description": "Democracy. The Hamas attack. Wars in Gaza, Lebanon, and Iran. Netanyahu’s long tenure. For Israelis returning home to vote, the list of momentous issues is long.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/1027/israeli-expat-voters-netanyahu-democracy-gaza-iran?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-10-27T09:00:11Z",
-      "image": "https://images.csmonitor.com/csm/2026/10/1026_OISRAELVOTERS_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

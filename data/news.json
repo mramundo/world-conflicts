@@ -1,9 +1,39 @@
 {
-  "updated": "2026-10-29T16:42:12Z",
+  "updated": "2026-10-29T21:36:46Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "cs -b36c3424a2e5",
+      "title": "Ukraine peace momentum builds, but Russia sticks to its guns",
+      "description": "The United States may be pushing a peace plan for Ukraine and Russia, but neither country seems interested in discussing it – especially Russia.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/1029/russia-ukraine-war-peace-talks-trump-china-zelenskyy?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-10-29T19:33:15Z",
+      "image": "https://images.csmonitor.com/csm/2026/10/1029_OMOREPEACE_LEDE.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -693b6c6a2f54",
+      "title": "At least 14 people killed in attack on Ukraine train station",
+      "description": "A Russian drone strike killed at least 14 people at Dnipro’s main railway station in central Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-29T18:03:21Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793296995.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "le -d34cea5d500f",
       "title": "Behind Trump's shift towards Russia, the lucrative business promises of Kirill Dmitriev, Putin's dealmaker",
@@ -36,17 +66,17 @@
       "tags": []
     },
     {
-      "id": "al -4e2b19219e54",
-      "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
-      "description": "Gaza&#039;s Health Ministry says dozens died awaiting treatment abroad as Israeli attacks continue despite a &#039;ceasefire&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-29T15:12:36Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-28T091725Z_607119900_RC28COA6DR1M_RTRMADP_3_ISRAEL-ELECTION-GAZA-REACTIONS-1793277698.jpg?resize=1920%2C1440",
+      "id": "un -b06e115d93ff",
+      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+      "description": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+      "source": "UN News",
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-04-2025-UNICEF-Sudan-10.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -134,7 +164,7 @@
       "url": "https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html",
       "source": "RFE/RL",
       "publishedAt": "2026-10-29T01:17:39Z",
-      "image": "https://gdb.rferl.org/a917df8b-53bd-4c16-48b6-08df13a884cb_cx1_cy9_cw98_w800_h450.jpg",
+      "image": "https://gdb.rferl.org/6d2f9ac8-72e0-4191-874b-47e83bfd878f_cx0_cy2_cw0_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
@@ -144,49 +174,18 @@
       "tags": []
     },
     {
-      "id": "cs -4d4629cabde4",
-      "title": "After three years of civil war, Sudan faces the threat of inflation",
-      "description": "Since May, the Sudanese pound has lost more than half of its value, pushing up food prices and putting more pressure on overstretched aid groups.",
-      "url": "https://www.csmonitor.com/World/Africa/2026/1028/sudan-war-gold-hunger-famine-emergency-response-rooms?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-10-28T17:09:25Z",
-      "image": "https://images.csmonitor.com/csm/2026/10/1221293_3_1028%20OKHARTOUM%20lede.jpg_standard.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-896382a40615",
-      "title": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
-      "description": "A new Israeli government is unlikely to bring big changes on Palestinian statehood and troops in Lebanon and Syria, experts say. Some small positives may be possible though.",
-      "url": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-world-4025-rdf",
+      "id": "deu-0ba0353f4c0c",
+      "title": "Evacuation from Oleshky: How are preparations going?",
+      "description": "A lawyer with the Save Ukraine Foundation, Myroslava Kharchenko, told DW about what has been happening in Russian-occupied Oleshky since a temporary ceasefire brokered by Melania Trump took effect.",
+      "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
-      "publishedAt": "2026-10-28T16:03:00Z",
-      "image": "https://static.dw.com/image/79781929_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -f70d104c63ab",
-      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
-      "description": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
-      "source": "UN News",
-      "publishedAt": "2026-10-27T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/27-10-2026-UNHCR-Ukraine-01.jpg/image560x340cropped.jpg",
+      "publishedAt": "2026-10-28T17:04:00Z",
+      "image": "https://static.dw.com/image/79771347_6.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,9 +1,103 @@
 {
-  "updated": "2026-10-29T02:17:03Z",
+  "updated": "2026-10-29T09:32:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "npr-ab8e49c47e0b",
+      "title": "How AI drones are influencing the course of the Ukraine war",
+      "description": "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.",
+      "url": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+      "source": "NPR World",
+      "publishedAt": "2026-10-29T09:02:00Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7405x4939+0+0/resize/7405x4939!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F48%2F5d01825b44dab72b81f4d1cdcad4%2Fnpr-droneukraine001.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -2256853c677f",
+      "title": "How to stop the US-Israel war on Iran",
+      "description": "Arab states must reject Israeli hegemony and build a regional security framework independent of Washington.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-29T07:54:51Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae2f179-1793257849.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-6f5b6aa91116",
+      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "description": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-29T06:24:56Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846b/live/2e1cb430-d355-11f1-a772-cb496d11fa15.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-dbdc60b5eb7e",
+      "title": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
+      "description": "Bereaved families have urged the publisher of Call of Duty: Modern Warfare 4 to remove a clip from the game that shows a figure performing CPR and bodies lying in the streetBereaved families in South Korea have demanded that the makers of Call of Duty remove harrowing footage of the deadly 2022 Seoul crowd crush from t…",
+      "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-29T04:41:41Z",
+      "image": "https://i.guim.co.uk/img/media/17b8ac69d70b8775f615a9c1f75cf0e22bc392e2/278_0_4751_3803/master/4751.jpg?width=140&quality=85&auto=format&fit=max&s=75d33eb22f0d5ff0444e41dbd63b9cf6",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -76d99f25747b",
+      "title": "Arab countries' limited expectations of Israel",
+      "description": "Benjamin Netanyahu and Gadi Eisenkot, the two main candidates in the October 27 elections, do not differ in their views on Israel's role in the Near and Middle East. The war against Iran, which the overwhelming majority of Arab states opposed, further established Israel as a source of regional destabilization.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/10/29/arab-countries-limited-expectations-of-israel_6766630_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-29T04:31:04Z",
+      "image": "https://img.lemde.fr/2026/10/24/1331/0/5995/2997/644/322/60/0/f188d27_upload-1-5b1cr7ekxzki-ll-rishon-lezion-50.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-bae13e80bc4e",
+      "title": "Zelensky: No Energy Ceasefire With Russia, but Oleshky Truce Brings Hope",
+      "description": "On Wednesday, President Volodymyr Zelensky said the proposed energy ceasefire between Ukraine and Russia never took effect because Moscow continued striking Ukrainian energy infrastructure. However, he welcomed initial progress under a separate US-brokered humanitarian truce in Russian-occupied Oleshky, saying even a f…",
+      "url": "https://www.kyivpost.com/post/88489",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-10-29T04:04:45Z",
+      "image": "https://static.kyivpost.com/storage/2026/10/29/6181042a70fb59c8327bb86f1283aafe.jfif?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "rfe-81b49d19c815",
       "title": "Oleshky Truce Enters Third Day As Humanitarian Hopes Collide With Russia Deportation Fears",
@@ -52,22 +146,6 @@
       "tags": []
     },
     {
-      "id": "al -759409f0897f",
-      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-      "description": "Soaring food prices and shrinking incomes force families in Sudan&#039;s capital to borrow money and skip meals.",
-      "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-28T17:09:05Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/20261023_162906-1793203030.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "deu-896382a40615",
       "title": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
       "description": "A new Israeli government is unlikely to bring big changes on controversial topics like Palestinian statehood and Israeli troops in Lebanon and Syria, experts say. Some small positives may be possible though.",
@@ -84,21 +162,6 @@
       "tags": []
     },
     {
-      "id": "le -845db17e459d",
-      "title": "French lawyers wage battle with government over curfews imposed after protests",
-      "description": "Lawyers, academics, NGOs and ordinary citizens have mounted a legal offensive to challenge the measures imposed by the government after the protest and looting on October 17.",
-      "url": "https://www.lemonde.fr/en/france/article/2026/10/28/french-lawyers-wage-battle-with-government-over-curfews-imposed-after-protests_6766003_7.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-28T13:40:51Z",
-      "image": "https://img.lemde.fr/2026/10/21/0/0/4500/2250/644/322/60/0/1e56eb6_upload-1-pwqnrniykf7o-02-20102026-dscf4338-couvre-feu-paris-carrot.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-e2e824800171",
       "title": "Ue, 'telefonata Stubb-Store iniziativa bilaterale, messaggio sia unito'",
       "description": "'Ribadiamo impegno a porre fine alla guerra, ma anche a raggiungere una pace giusta'",
@@ -110,36 +173,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-a0836c3558e3",
-      "title": "Dozens are dead in a high-speed train crash in Spain",
-      "description": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-      "source": "NPR World",
-      "publishedAt": "2026-10-28T10:09:46Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1241+0+0/resize/2000x1241!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F8a%2F417aad664031913c1335e9797e08%2Fap26301360905635.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-4ce40386cade",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "description": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-27T22:11:08Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -160,21 +193,6 @@
       "tags": []
     },
     {
-      "id": "the-f85225e6ef5d",
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "description": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of th…",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-26T15:07:23Z",
-      "image": "https://i.guim.co.uk/img/media/c671810cd05b5ef573941d3edd85008c82d9bedf/687_437_3773_3019/master/3773.jpg?width=140&quality=85&auto=format&fit=max&s=af957effb5d8061ca35d33abdce49bd9",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-f40ea676bac8",
       "title": "‘Still Just a Child’: The Russian Teenagers Fighting and Dying in Ukraine",
       "description": "A growing number of Russian soldiers who were still schoolchildren when the full-scale invasion of Ukraine began are being killed in the war.",
@@ -186,22 +204,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-0d9fa74ed57d",
-      "title": "Russia Says Ukraine Peace Talks Won’t Slow War, Open to Local Truces",
-      "description": "Russia says upcoming US-brokered peace talks will not slow its war against Ukraine but signals openness to local humanitarian truces. The Kremlin’s stance comes as a ceasefire is planned for Russian-occupied Oleshky to allow aid deliveries and civilian evacuations.",
-      "url": "https://www.kyivpost.com/post/88183",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-10-26T11:11:03Z",
-      "image": "https://static.kyivpost.com/storage/2026/08/29/ad363fa3fd2ada7aa271a395beb230b4.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     }

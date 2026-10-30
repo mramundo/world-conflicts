@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-29T21:36:46Z",
+  "updated": "2026-10-30T01:39:44Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -5834ee5b8bf9",
+      "title": "What does bourbon have to do with the US midterms?",
+      "description": "The US-Canada trade war is hurting Kentucky’s bourbon industry, which generates billions of dollars annually.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-30T00:08:50Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-00.03.15-1793318776.png?resize=1200%2C675",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "cs -b36c3424a2e5",
       "title": "Ukraine peace momentum builds, but Russia sticks to its guns",
@@ -16,21 +32,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -693b6c6a2f54",
-      "title": "At least 14 people killed in attack on Ukraine train station",
-      "description": "A Russian drone strike killed at least 14 people at Dnipro’s main railway station in central Ukraine.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-29T18:03:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793296995.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,38 +1,84 @@
 {
-  "updated": "2026-10-30T08:14:03Z",
+  "updated": "2026-10-30T15:39:53Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -29101399e919",
-      "title": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
-      "description": "Our analysis exposes the heavy humanitarian and economic toll of the military siege suffocating Palestinians in Hebron.",
-      "url": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T07:07:36Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae0af2d-1793109805_857109-1793340295.jpg?resize=1200%2C630&amp;quality=80",
+      "id": "le -0ad6baa02d16",
+      "title": "In Ukraine, humanitarian mission in occupied Oleshky hides growing fear of Russian military operation",
+      "description": "Some 2,000 residents of this Ukrainian city occupied since 2022 are set to be evacuated on Friday under a US-brokered truce. Many fear Russia will exploit the operation for propaganda.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/30/in-ukraine-humanitarian-mission-in-occupied-oleshky-hides-growing-fear-of-russian-military-operation_6767463_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-10-30T13:14:57Z",
+      "image": "https://img.lemde.fr/2026/10/27/1440/0/8640/4320/644/322/60/0/a426870_ftp-1-81ranxmafhse-f2e167d6c0ee458eb6890781d6957caa-0-f277c11f645c4a9ab3a1649530bb1640.jpg",
       "categories": [
         "conflict",
-        "humanitarian",
-        "analysis"
+        "humanitarian"
       ],
       "relevanceScore": 7,
-      "isAnalysis": true,
+      "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "the-31bb82931ece",
-      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-      "description": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSFMembers of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab …",
-      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "id": "fra-7d720cd5348d",
+      "title": "At least 60 Christians killed in Ethiopia amid rising religious violence",
+      "description": "At least 60 Christians have been killed in Ethiopia in what the Orthodox Church has declared as religious violence. It is still unclear who was behind the attack, with rebels and local government blaming each other. Around 20 houses have been burned down, as FRANCE 24's correspondent Tom Canetti reports.",
+      "url": "https://www.france24.com/en/video/20261030-at-least-60-christians-killed-in-ethiopia-amid-rising-religious-violence",
+      "source": "France24",
+      "publishedAt": "2026-10-30T11:01:16Z",
+      "image": "https://s.france24.com/media/display/5b965392-d44c-11f1-9c71-1beafce15fea/w:1024/p:16x9/capture-46bebd36.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4b42e4588e88",
+      "title": "Aid convoy enters besieged Ukrainian town Oleshky",
+      "description": "Moscow and Kyiv have so far observed the six-day truce as evacuations from Oleshky get under way.",
+      "url": "https://www.aljazeera.com/news/2026/10/30/aid-convoy-enters-besieged-ukrainian-town-oleshky?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-30T10:45:15Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae4579a-1793349530.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-23850c9487bf",
+      "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
+      "description": "Oxygen, food and water supplies running low and massacres taking place, says Nabil ShamsanThe Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege.Nabil Shamsan said massacres were t…",
+      "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
       "source": "The Guardian",
-      "publishedAt": "2026-10-30T05:00:45Z",
-      "image": "https://i.guim.co.uk/img/media/1a207f81e70f26c6fb300fd2353ecaa161bc7714/0_0_2895_2317/master/2895.jpg?width=140&quality=85&auto=format&fit=max&s=4b30b227f8f2e941aab03d70ddbb2708",
+      "publishedAt": "2026-10-30T09:00:50Z",
+      "image": "https://i.guim.co.uk/img/media/cc1ad0844969a931ba1ce1ff5e13a75aeccd862f/409_0_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=d432d7effedef22fb1d31dec1a2b4f11",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-b57ea55be475",
+      "title": "Aid Deliveries and Evacuations in Oleshky Begin After Demining Operation Wraps Up",
+      "description": "Ukrainian and Russian officials said a humanitarian convoy is ready to depart for the besieged town in occupied southern Ukraine.",
+      "url": "https://www.themoscowtimes.com/2026/10/30/aid-deliveries-and-evacuations-in-oleshky-begin-after-demining-operation-wraps-up-a94131",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-10-30T08:49:37Z",
+      "image": "https://static.themoscowtimes.com/image/og/81/94131__819c46cd9742d2ed5cd2a9a5e4060375.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,33 +98,17 @@
       "tags": []
     },
     {
-      "id": "le -d34cea5d500f",
-      "title": "Behind Trump's shift towards Russia, the lucrative business promises of Kirill Dmitriev, Putin's dealmaker",
-      "description": "Kirill Dmitriev has been working to persuade the White House that peace in Ukraine must first come through commercial deals. Le Monde outlines two months that saw the new Russian-American partnership transform into an alliance against Kyiv, from Miami to Moscow.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/29/behind-trump-s-shift-towards-russia-the-lucrative-business-promises-of-kirill-dmitriev-putin-s-dealmaker_6766894_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-29T16:31:44Z",
-      "image": "https://img.lemde.fr/2026/10/26/97/0/5042/2521/644/322/60/0/b5d9b24_upload-1-kelatxi2tolp-2026-09-05t182036z-10760307-rc26dnaw5760-rtrmadp-3-ukraine-crisis-russia-usa-1.JPG",
+      "id": "bbc-d4f72b2bef19",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-29T14:17:35Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9946/live/591e3810-d3b5-11f1-a701-fddedf244c16.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-a3167c4b039c",
-      "title": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
-      "description": "A humanitarian aid mission is set to enter the Ukrainian town of Oleshky, a Ukrainian official said on Thuirsday, as a localised truce between Kyiv and Moscow, brokered by US first lady Melania Trump, held for a third day. Some 2,000 residents in the Russian occupied city have been cut off from essential supplies amid …",
-      "url": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day",
-      "source": "France24",
-      "publishedAt": "2026-10-29T16:19:14Z",
-      "image": "https://s.france24.com/media/display/7b09de12-d3af-11f1-b2c2-d18c5759e759/w:1024/p:16x9/000-D4RQ9NR.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -94,36 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-0ab69da85ac6",
-      "title": "Russian Military Intercepts Record 1.2K Ukrainian Drones Overnight",
-      "description": "Authorities in Ukraine, meanwhile, said a Russian drone attack killed at least 14 people on a train platform in the southeastern part of the country.",
-      "url": "https://www.themoscowtimes.com/2026/10/29/russian-military-intercepts-record-12k-ukrainian-drones-overnight-a94117",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-10-29T11:41:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/18/94117__18127f180f794f67e7cd415702226399.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-274115908bff",
-      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-      "description": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-29T11:25:16Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b44/live/af8c7ae0-d35b-11f1-bf17-db0635e21017.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -173,22 +173,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-0ba0353f4c0c",
-      "title": "Evacuation from Oleshky: How are preparations going?",
-      "description": "A lawyer with the Save Ukraine Foundation, Myroslava Kharchenko, told DW about what has been happening in Russian-occupied Oleshky since a temporary ceasefire brokered by Melania Trump took effect.",
-      "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-10-28T17:04:00Z",
-      "image": "https://static.dw.com/image/79771347_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     }
   ]

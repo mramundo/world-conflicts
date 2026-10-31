@@ -1,9 +1,25 @@
 {
-  "updated": "2026-10-31T00:30:06Z",
+  "updated": "2026-10-31T06:44:19Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 10,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -dd178e3791ef",
+      "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
+      "description": "Rising fatalities in Yemen’s conflict deepen the burden on families of fighters, both emotionally and financially.",
+      "url": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-10-31T05:48:25Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae4fc0e-1793391630.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "bbc-936d143ebe9e",
       "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
@@ -18,21 +34,6 @@
       ],
       "relevanceScore": 7,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -be2ee032966f",
-      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-      "description": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods",
-      "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-30T18:35:44Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae4d74fd5c5-1793382223.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -61,22 +62,6 @@
       "image": "https://s.france24.com/media/display/81da96d8-d480-11f1-9832-d18c5759e759/w:1024/p:16x9/EN-20261030-170554-170749-CS.jpg",
       "categories": [
         "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -0ad6baa02d16",
-      "title": "In Ukraine, humanitarian mission in occupied Oleshky hides growing fear of Russian military operation",
-      "description": "Some 2,000 residents of this Ukrainian city occupied since 2022 are set to be evacuated on Friday under a US-brokered truce. Many fear Russia will exploit the operation for propaganda.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/30/in-ukraine-humanitarian-mission-in-occupied-oleshky-hides-growing-fear-of-russian-military-operation_6767463_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-30T13:14:57Z",
-      "image": "https://img.lemde.fr/2026/10/27/1440/0/8640/4320/644/322/60/0/a426870_ftp-1-81ranxmafhse-f2e167d6c0ee458eb6890781d6957caa-0-f277c11f645c4a9ab3a1649530bb1640.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,

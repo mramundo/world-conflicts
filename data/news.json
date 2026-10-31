@@ -1,23 +1,53 @@
 {
-  "updated": "2026-10-31T06:44:19Z",
+  "updated": "2026-10-31T13:24:52Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 10,
+  "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "al -dd178e3791ef",
-      "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
-      "description": "Rising fatalities in Yemen’s conflict deepen the burden on families of fighters, both emotionally and financially.",
-      "url": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+      "id": "al -54b8d1ada225",
+      "title": "On the Norway-Russia border, the Sámi people face a growing divide",
+      "description": "As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.",
+      "url": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-10-31T05:48:25Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae4fc0e-1793391630.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-31T12:58:28Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/russia-2-1793450350.jpg?resize=1620%2C1080&amp;quality=80",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-4a8497d3fcc9",
+      "title": "Mosca, 'Kiev ha violato la tregua a Oleshky, attacco su un'auto civile'",
+      "description": "'Due persone sono rimaste ferite'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/mosca-kiev-ha-violato-la-tregua-a-oleshky-attacco-su-unauto-civile_687d6254-4e3e-44ba-b8d4-68e6926eba6e.html",
+      "source": "ANSA",
+      "publishedAt": "2026-10-31T11:51:48Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/30/a6fd89cf1f95b540543bcad46fd02204.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-1db29ea8e01a",
+      "title": "Russian War Casualties Up to 2.1 Million – The Economist",
+      "description": "A study published by The Economist estimates Russian military casualties at between 1.4 million and 2.1 million killed and wounded, with fatalities ranging from 374,000 to 770,000. In comparison, tracking site UALosses records 116,000 Ukrainian soldiers killed and 106,000 missing. The study notes that Ukrainian forces …",
+      "url": "https://www.kyivpost.com/post/88746",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-10-31T10:35:00Z",
+      "image": "https://static.kyivpost.com/storage/2025/10/10/e0d55bcff2ba1fa5f50cf138b3ee262e.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -37,29 +67,29 @@
       "tags": []
     },
     {
-      "id": "the-0d7f1a26ac67",
-      "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-      "description": "Humanitarian convoy brings food and medicine to Russian-held city where people have suffered severe shortagesPeople living in the besieged Russian-held city of Oleshky in southern Ukraine were evacuated on Friday as part of a joint relief operation, the first of its kind in four years and eight months of war.The city, …",
-      "url": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-30T17:13:48Z",
-      "image": "https://i.guim.co.uk/img/media/b7a932cd6937397f03f57724d0cb13fc21ea7cae/167_0_1667_1334/master/1667.jpg?width=140&quality=85&auto=format&fit=max&s=5a12e995dfc49763939be2026d583408",
+      "id": "fra-38d37832b865",
+      "title": "Residents leave Russian-occupied Oleshky in evacuation operation",
+      "description": "Residents evacuated from the Russian-occupied Ukrainian town of Oleshky have left for Russia's Anapa city with a Ukrainian delegation, senior official David Arakhamia said Friday. They are expected to fly to Belarus before returning to Ukraine by bus, during a rare ceasefire brokered by the United States.",
+      "url": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
+      "source": "France24",
+      "publishedAt": "2026-10-30T21:46:29Z",
+      "image": "https://s.france24.com/media/display/bebeee6e-d4a8-11f1-b250-1beafce15fea/w:1024/p:16x9/000-D4WV4NU.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-b23de19da4ca",
-      "title": "Stranded locals use rare truce to leave Moscow-occupied town in Ukraine",
-      "description": "Some residents of Oleshky, a Russian-occupied town in southern Ukraine ravaged by food and medicine shortages, left on Friday during a rare ceasefire brokered by the United States – due to end on Sunday evening. Ukrainian and Russian officials visited the town together on Friday, delivering aid and marshalling those wh…",
-      "url": "https://www.france24.com/en/video/20261030-stranded-locals-use-rare-truce-to-leave-moscow-occupied-town-in-ukraine",
-      "source": "France24",
-      "publishedAt": "2026-10-30T16:44:11Z",
-      "image": "https://s.france24.com/media/display/81da96d8-d480-11f1-9832-d18c5759e759/w:1024/p:16x9/EN-20261030-170554-170749-CS.jpg",
+      "id": "the-23850c9487bf",
+      "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
+      "description": "Oxygen, food and water supplies running low and massacres taking place, says Nabil ShamsanThe Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege.Nabil Shamsan said massacres were t…",
+      "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-30T09:00:50Z",
+      "image": "https://i.guim.co.uk/img/media/cc1ad0844969a931ba1ce1ff5e13a75aeccd862f/409_0_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=d432d7effedef22fb1d31dec1a2b4f11",
       "categories": [
         "conflict"
       ],
@@ -127,22 +157,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-bae13e80bc4e",
-      "title": "Zelensky: No Energy Ceasefire With Russia, but Oleshky Truce Brings Hope",
-      "description": "On Wednesday, President Volodymyr Zelensky said the proposed energy ceasefire between Ukraine and Russia never took effect because Moscow continued striking Ukrainian energy infrastructure. However, he welcomed initial progress under a separate US-brokered humanitarian truce in Russian-occupied Oleshky, saying even a f…",
-      "url": "https://www.kyivpost.com/post/88489",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-10-29T04:04:45Z",
-      "image": "https://static.kyivpost.com/storage/2026/10/29/6181042a70fb59c8327bb86f1283aafe.jfif?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     },
     {

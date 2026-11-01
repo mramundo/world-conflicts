@@ -1,9 +1,71 @@
 {
-  "updated": "2026-11-01T01:57:01Z",
+  "updated": "2026-11-01T08:59:36Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "nik-20bb8102d2ff",
+      "title": "Pakistan refineries report 1,860% jump in profit amid war windfall",
+      "description": "",
+      "url": "https://asia.nikkei.com/business/energy/pakistan-refineries-report-1-860-jump-in-profit-amid-war-windfall2",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-11-01T08:59:33Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F6%2F0%2F4%2F13384066-2-eng-GB%2F288af65a9871-2026-03-18T144331Z_598600547_RC2S6KA5JUB5_RTRMADP_3_IRAN-CRISIS-OIL-PAKISTAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-9eca068b5f44",
+      "title": "Melania Trump Hails Oleshky Rescue as Hope for Peace",
+      "description": "US First Lady Melania Trump commended the humanitarian evacuation of trapped civilians from Russian-occupied Oleshky on Saturday, Oct. 31, characterizing the mission as proof that humanity can rise above war and build lasting peace for future generations. President Volodymyr Zelensky publicly thanked Melania Trump, not…",
+      "url": "https://www.kyivpost.com/post/88776",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-01T07:58:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/01/d13cc7465b44791fe6310415179865ec.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -f90aa69ea0fd",
+      "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
+      "description": "From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families&#039; hopes of return.",
+      "url": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-01T07:34:55Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/INTERACTIVE-Black-X-1793273079.png?resize=1200%2C630",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -1c55cd9a96cb",
+      "title": "Maria Vorontsova, Vladimir Putin's daughter, leads fight against aging",
+      "description": "While Russia wages war in Ukraine at a staggering cost in human lives, the Russian leader is pouring substantial funds into scientific research on longevity. This project is overseen by his eldest daughter, a prominent endocrinologist.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/01/maria-vorontsova-vladimir-putin-s-daughter-leads-fight-against-aging_6768577_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-01T03:07:41Z",
+      "image": "https://img.lemde.fr/2026/10/22/0/0/1851/925/644/322/60/0/0f1cb9a_upload-1-6e2rybbcyhll-000-b6687c8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "the-f80701f178a4",
       "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
@@ -16,21 +78,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -d45a2073311f",
-      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-      "description": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
-      "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-10-31T17:49:23Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae613d18df9-1793463249.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,21 +98,6 @@
       "tags": []
     },
     {
-      "id": "le -296b7b5cf2b5",
-      "title": "After the Trappes terrorist attack, a community hopes that France will wake up to the far-right threat",
-      "description": "Emotion ran high during the memorial ceremony held on Friday in Trappes, one week after a racist terrorist attack left one person dead and seven others wounded. The town's left-wing mayor was joined by left-wing political leaders, while leaders from the rest of the political spectrum did not come.",
-      "url": "https://www.lemonde.fr/en/france/article/2026/10/31/after-the-trappes-terrorist-attack-a-community-hopes-that-france-will-wake-up-to-the-far-right-threat_6768181_7.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-10-31T14:20:22Z",
-      "image": "https://img.lemde.fr/2026/10/31/668/24/5035/2518/644/322/60/0/bb2182d_upload-1-2g1agiirwwzt-32-rassemblement-trappes-hleuqeux-dsc0529.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "ans-d4656e0de481",
       "title": "Kiev, 'rispettiamo la tregua a Oleshky, Mosca tenta di screditarci'",
       "description": "'Dai russi provocazioni'",
@@ -78,22 +110,6 @@
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-5ffe970d2be1",
-      "title": "Russia’s War Against Ukraine Violates Natural Law",
-      "description": "Russia’s invasion of Ukraine is not only illegal under international law but also a violation of natural law, the universal moral principles that underpin rights such as life, liberty, and self-determination. As international institutions struggle to stop the war and enforce accountability, Ukraine’s resistance increas…",
-      "url": "https://www.kyivpost.com/opinion/88648",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-10-31T14:11:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/08/17/81cbca9f251b494bd69be5028f11e0e8.png?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

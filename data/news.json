@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T15:56:30Z",
+  "updated": "2026-11-01T20:22:59Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/pakistan-refineries-report-1-860-jump-in-profit-amid-war-windfall2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-01T15:56:27Z",
+      "publishedAt": "2026-11-01T20:22:56Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F6%2F0%2F4%2F13384066-2-eng-GB%2F288af65a9871-2026-03-18T144331Z_598600547_RC2S6KA5JUB5_RTRMADP_3_IRAN-CRISIS-OIL-PAKISTAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,35 +20,80 @@
       "tags": []
     },
     {
-      "id": "fra-5582d8ffe6b8",
-      "title": "Oleshky residents return to Ukraine",
-      "description": "Residents evacuated from Russian-occupied Oleshky have reached Ukrainian-held territory following a rare local truce. They described years of isolation, food shortages and regular shelling, with some saying they were forced to eat grass and dogs to survive. Seized by Russian forces in the early days of the 2022 invasio…",
-      "url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine",
-      "source": "France24",
-      "publishedAt": "2026-11-01T14:56:05Z",
-      "image": "https://s.france24.com/media/display/e35562ea-d5fb-11f1-b3a1-bf1914cabd52/w:1024/p:16x9/EN-20261101-140341-140954-CS.jpg",
+      "id": "le -394020e15a44",
+      "title": "Longest truce of Ukraine war, in Oleshky, set to end",
+      "description": "The pause in fighting enabled a humanitarian mission to the Russian-occupied city located in the eastern Kherson region.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/01/longest-truce-of-ukraine-war-in-oleshky-set-to-end_6769006_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-01T19:10:25Z",
+      "image": "https://img.lemde.fr/2026/11/01/653/0/7835/3917/644/322/60/0/ad3618f_ftp-1-bjwsolbgsqb6-ad23d216454348c4b2e5c9ea6e5ef389-1-7290b2bf207c4af8ba75bbbfe9a333d8.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -f525b2df6010",
-      "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
-      "description": "Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-01T14:26:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2022/08/AP22077694003464.jpg?resize=1920%2C1440",
+      "id": "fra-4d026ea3df4a",
+      "title": "Oleshky: Evacuations during first humanitarian truce of war end",
+      "description": "A successful evacuation. Residents of the city of Oleshky who had requested to be evacuated were reunited with their loved ones in Ukraine on Saturday, October 31. The city, located on the front line and under Russian occupation, is facing a humanitarian crisis, with civilians lacking even the most basic necessities. A…",
+      "url": "https://www.france24.com/en/oleshky-evacuations-during-first-humanitarian-truce-of-war-end",
+      "source": "France24",
+      "publishedAt": "2026-11-01T17:44:51Z",
+      "image": "https://s.france24.com/media/display/41a1e774-d606-11f1-9ff5-a575454bc579/w:1024/p:16x9/EN-20261101-150645-150857-CS.jpg",
       "categories": [
         "conflict",
-        "analysis"
+        "humanitarian"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -43faee369704",
+      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+      "description": "Hebron&#039;s economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-01T17:30:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Israeli-military-vehicles-close-the-main-streets-inside-Hebron.-Photo-by-Sari-Jaradat-1793027581.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-51a3c02dbc88",
+      "title": "Zelensky, 'sono pronto a incontrare Putin in Turchia'",
+      "description": "Media, focus sul cessate il fuoco lungo la linea del fronte e il rispetto degli accordi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/zelensky-sono-pronto-a-incontrare-putin-in-turchia_e38af278-858a-401f-b271-d12e06ea5154.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-01T17:22:57Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/4828e21a49b2d351ace0886f7528ea58.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-96a242f04e8e",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-01T17:06:32Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": true,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -68,63 +113,17 @@
       "tags": []
     },
     {
-      "id": "the-10ce8c4d364a",
-      "title": "Spirit of 1676: remembering the Native American cataclysm of King Philip’s war",
-      "description": "The conflict that tore through New England 350 years ago was the bloodiest per capita in colonial or US historyMassachusetts is proud of its ties to the American Revolution. From Paul Revere’s Ride to the siege of Boston, the past year-plus has been devoted to celebrating 250 years of US independence. Yet during this t…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/king-philips-war-anniversary-native-american",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-01T13:00:13Z",
-      "image": "https://i.guim.co.uk/img/media/ddf015b5996dac0d3343d1f558d3b79c1c2e370b/1088_424_2669_2136/master/2669.jpg?width=140&quality=85&auto=format&fit=max&s=349c5b6d8685dd3f35ce6669e404ae2d",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-7f400792d98c",
-      "title": "Esercito Iran, 'prossima guerra potrà essere più lunga, Trump non ne detterà i tempi'",
-      "description": "Portavoce, 'la geografia del conflitto non si limiterà all'Asia occidentale'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/esercito-iran-prossima-guerra-potra-essere-piu-lunga-trump-non_d79c5d20-7d77-4e5c-904b-cbffca079c6f.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-01T12:09:19Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/31/935cd82f7d9cb03b8101c696ab081fdb.jpg",
+      "id": "cs -87252963c844",
+      "title": "As their doubts about US grow, Gulf Arabs turn to middle powers for security",
+      "description": "The Iran war has exposed Gulf Arab states’ vulnerabilities, including through their reliance on a U.S. whose priorities are diverging from their own.",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/1030/persian-gulf-arabs-security-alliances-europe-asia?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-10-30T20:57:59Z",
+      "image": "https://images.csmonitor.com/csm/2026/10/1030_OGULFALLIANCE_lede.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -1c55cd9a96cb",
-      "title": "Maria Vorontsova, Vladimir Putin's daughter, leads fight against aging",
-      "description": "While Russia wages war in Ukraine at a staggering cost in human lives, the Russian leader is pouring substantial funds into scientific research on longevity. This project is overseen by his eldest daughter, a prominent endocrinologist.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/01/maria-vorontsova-vladimir-putin-s-daughter-leads-fight-against-aging_6768577_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-01T03:07:41Z",
-      "image": "https://img.lemde.fr/2026/10/22/0/0/1851/925/644/322/60/0/0f1cb9a_upload-1-6e2rybbcyhll-000-b6687c8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-896568e9efb4",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-31T16:55:47Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f47/live/8e8b6090-d568-11f1-910b-9bd7c745c627.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -136,6 +135,21 @@
       "source": "UN News",
       "publishedAt": "2026-10-30T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-23850c9487bf",
+      "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
+      "description": "Oxygen, food and water supplies running low and massacres taking place, says Nabil ShamsanThe Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege.Nabil Shamsan said massacres were t…",
+      "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-30T09:00:50Z",
+      "image": "https://i.guim.co.uk/img/media/cc1ad0844969a931ba1ce1ff5e13a75aeccd862f/409_0_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=d432d7effedef22fb1d31dec1a2b4f11",
       "categories": [
         "conflict"
       ],
@@ -160,33 +174,19 @@
       "tags": []
     },
     {
-      "id": "cs -b36c3424a2e5",
-      "title": "Ukraine peace momentum builds, but Russia sticks to its guns",
-      "description": "The United States may be pushing a peace plan for Ukraine and Russia, but neither country seems interested in discussing it – especially Russia.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/1029/russia-ukraine-war-peace-talks-trump-china-zelenskyy?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-10-29T19:33:15Z",
-      "image": "https://images.csmonitor.com/csm/2026/10/1029_OMOREPEACE_LEDE.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-c3582e6175dd",
-      "title": "The US Once Called It 'A Slush Fund For Putin.' Now Washington May Lift Sanctions On It",
-      "description": "Amid the swirl of efforts to end to the Ukraine war and normalize US-Russian ties, one idea under consideration: lifting sanctions on a massive Russian investment fund, whose chief is the Kremlin’s main go-between with White House negotiators. What is the Russian Direct Investment Fund anyway?",
-      "url": "https://www.rferl.org/a/russia-rdif-investment-dmitriev-ukraine-negotiations/33886754.html",
+      "id": "rfe-94b618ac5bcb",
+      "title": "Evacuation From Oleshky Completed As Buses Head To Ukraine, Russia",
+      "description": "Moscow and Kyiv say the evacuation of residents from the Russian-occupied Ukrainian city of Oleshky was completed \"without incident,\" as buses filled with civilians left the area for the first time in more than four years under a US-brokered truce that is set to remain in effect until November 1.",
+      "url": "https://www.rferl.org/a/ukraine-russia-oleshky-evacuation-melania-trump/33887157.html",
       "source": "RFE/RL",
-      "publishedAt": "2026-10-29T17:45:31Z",
-      "image": "https://gdb.rferl.org/9328435A-7CA8-4912-A16F-2101F8913E3E_cx0_cy2_cw0_w800_h450.jpg",
+      "publishedAt": "2026-10-30T06:30:17Z",
+      "image": "https://gdb.rferl.org/c50599d3-9b46-4fcf-493b-08df13a884cb_w800_h450.jpg",
       "categories": [
         "conflict",
+        "humanitarian",
         "analysis"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     }

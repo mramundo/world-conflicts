@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T22:17:28Z",
+  "updated": "2026-11-01T01:57:01Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 11,
   "feedsTotal": 15,
@@ -31,6 +31,22 @@
         "conflict"
       ],
       "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-896568e9efb4",
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
+      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-10-31T16:55:47Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f47/live/8e8b6090-d568-11f1-910b-9bd7c745c627.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,22 +113,6 @@
       "tags": []
     },
     {
-      "id": "bbc-936d143ebe9e",
-      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-      "description": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
-      "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-10-30T23:19:17Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc6f/live/ee8a8a40-d4b2-11f1-88a4-835788f4f80e.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "the-b57ea55be475",
       "title": "Aid Deliveries and Evacuations in Oleshky Begin After Demining Operation Wraps Up",
       "description": "Ukrainian and Russian officials said a humanitarian convoy is ready to depart for the besieged town in occupied southern Ukraine.",
@@ -144,6 +144,22 @@
       "tags": []
     },
     {
+      "id": "rfe-c3582e6175dd",
+      "title": "The US Once Called It 'A Slush Fund For Putin.' Now Washington May Lift Sanctions On It",
+      "description": "Amid the swirl of efforts to end to the Ukraine war and normalize US-Russian ties, one idea under consideration: lifting sanctions on a massive Russian investment fund, whose chief is the Kremlin’s main go-between with White House negotiators. What is the Russian Direct Investment Fund anyway?",
+      "url": "https://www.rferl.org/a/russia-rdif-investment-dmitriev-ukraine-negotiations/33886754.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-10-29T17:45:31Z",
+      "image": "https://gdb.rferl.org/9328435A-7CA8-4912-A16F-2101F8913E3E_cx0_cy2_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
       "id": "un -b06e115d93ff",
       "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
       "description": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
@@ -156,22 +172,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-81b49d19c815",
-      "title": "Russian Drone Attack Kills 14 In Dnipro As Oleshky Truce Enters Third Day",
-      "description": "A Russian attack on Ukraine's eastern city of Dnipro killed at least 14 people and injured more than 10 others, according to Ukrainian officials, as a fragile cease-fire around Russian-occupied Oleshky entered its third day on October 29.",
-      "url": "https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-29T01:17:39Z",
-      "image": "https://gdb.rferl.org/6d2f9ac8-72e0-4191-874b-47e83bfd878f_cx0_cy2_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
       "tags": []
     }
   ]

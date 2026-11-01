@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T08:59:36Z",
+  "updated": "2026-11-01T15:56:30Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 12,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/energy/pakistan-refineries-report-1-860-jump-in-profit-amid-war-windfall2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-01T08:59:33Z",
+      "publishedAt": "2026-11-01T15:56:27Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F6%2F0%2F4%2F13384066-2-eng-GB%2F288af65a9871-2026-03-18T144331Z_598600547_RC2S6KA5JUB5_RTRMADP_3_IRAN-CRISIS-OIL-PAKISTAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,13 @@
       "tags": []
     },
     {
-      "id": "kyi-9eca068b5f44",
-      "title": "Melania Trump Hails Oleshky Rescue as Hope for Peace",
-      "description": "US First Lady Melania Trump commended the humanitarian evacuation of trapped civilians from Russian-occupied Oleshky on Saturday, Oct. 31, characterizing the mission as proof that humanity can rise above war and build lasting peace for future generations. President Volodymyr Zelensky publicly thanked Melania Trump, not…",
-      "url": "https://www.kyivpost.com/post/88776",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-01T07:58:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/11/01/d13cc7465b44791fe6310415179865ec.jpg?w=640&q=90&f=jpg",
+      "id": "fra-5582d8ffe6b8",
+      "title": "Oleshky residents return to Ukraine",
+      "description": "Residents evacuated from Russian-occupied Oleshky have reached Ukrainian-held territory following a rare local truce. They described years of isolation, food shortages and regular shelling, with some saying they were forced to eat grass and dogs to survive. Seized by Russian forces in the early days of the 2022 invasio…",
+      "url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-11-01T14:56:05Z",
+      "image": "https://s.france24.com/media/display/e35562ea-d5fb-11f1-b3a1-bf1914cabd52/w:1024/p:16x9/EN-20261101-140341-140954-CS.jpg",
       "categories": [
         "conflict",
         "humanitarian"
@@ -36,19 +36,65 @@
       "tags": []
     },
     {
-      "id": "al -f90aa69ea0fd",
-      "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
-      "description": "From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families&#039; hopes of return.",
-      "url": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
+      "id": "al -f525b2df6010",
+      "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
+      "description": "Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-01T07:34:55Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/INTERACTIVE-Black-X-1793273079.png?resize=1200%2C630",
+      "publishedAt": "2026-11-01T14:26:43Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2022/08/AP22077694003464.jpg?resize=1920%2C1440",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "kyi-480616fb54cc",
+      "title": "Ukraine Liberated 96 Sq Km in October, Inflicted Record Losses",
+      "description": "Ukrainian Defense Forces liberated 96.2 square kilometers of sovereign territory in October – surpassing Russian territorial advances by 10.4 square kilometers – while inflicting a record 54,400 casualties on the Russian military, President Volodymyr Zelensky announced on Sunday, Nov. 1. Calling the milestone the highe…",
+      "url": "https://www.kyivpost.com/post/88801",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-01T13:12:00Z",
+      "image": "https://static.kyivpost.com/storage/2025/08/31/70175ea7c950d332bce70d41b05d474e.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-10ce8c4d364a",
+      "title": "Spirit of 1676: remembering the Native American cataclysm of King Philip’s war",
+      "description": "The conflict that tore through New England 350 years ago was the bloodiest per capita in colonial or US historyMassachusetts is proud of its ties to the American Revolution. From Paul Revere’s Ride to the siege of Boston, the past year-plus has been devoted to celebrating 250 years of US independence. Yet during this t…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/king-philips-war-anniversary-native-american",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-01T13:00:13Z",
+      "image": "https://i.guim.co.uk/img/media/ddf015b5996dac0d3343d1f558d3b79c1c2e370b/1088_424_2669_2136/master/2669.jpg?width=140&quality=85&auto=format&fit=max&s=349c5b6d8685dd3f35ce6669e404ae2d",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-7f400792d98c",
+      "title": "Esercito Iran, 'prossima guerra potrà essere più lunga, Trump non ne detterà i tempi'",
+      "description": "Portavoce, 'la geografia del conflitto non si limiterà all'Asia occidentale'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/esercito-iran-prossima-guerra-potra-essere-piu-lunga-trump-non_d79c5d20-7d77-4e5c-904b-cbffca079c6f.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-01T12:09:19Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/31/935cd82f7d9cb03b8101c696ab081fdb.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -63,21 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-f80701f178a4",
-      "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
-      "description": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied cityEvacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday.The major rescue operation began on Friday and was carried out under t…",
-      "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-31T19:17:22Z",
-      "image": "https://i.guim.co.uk/img/media/d01eca2e3bd5425fbe339ec6bf3d96bf17aa6ec0/622_0_6959_5567/master/6959.jpg?width=140&quality=85&auto=format&fit=max&s=34c3a159dd53d931dd197179281141dd",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -98,33 +129,17 @@
       "tags": []
     },
     {
-      "id": "ans-d4656e0de481",
-      "title": "Kiev, 'rispettiamo la tregua a Oleshky, Mosca tenta di screditarci'",
-      "description": "'Dai russi provocazioni'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/kiev-rispettiamo-la-tregua-a-oleshky-mosca-tenta-di-screditarci_370e348c-9d42-43ee-8cdb-78aed21703a4.html",
-      "source": "ANSA",
-      "publishedAt": "2026-10-31T14:12:24Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/31/c39e4feed590838d2ef9d2b6d952d374.jpg",
+      "id": "un -7eb60cb784d1",
+      "title": "Yemen war makes reaching assistance too dangerous for many",
+      "description": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "source": "UN News",
+      "publishedAt": "2026-10-30T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-d4ccf45294f2",
-      "title": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
-      "description": "Evacuees from Oleshky crossed into Ukrainian-held territory Saturday in a major rescue operation after travelling through Belarus during a rare truce brokered by US First Lady Melania Trump. The city of Oleshky has been under Russian occupation since 2022 and was caught in intense fighting that left residents starving …",
-      "url": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine",
-      "source": "France24",
-      "publishedAt": "2026-10-31T12:45:49Z",
-      "image": "https://s.france24.com/media/display/bff7a79c-d53b-11f1-8be7-a575454bc579/w:1024/p:16x9/AP26304492932574.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -173,21 +188,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -b06e115d93ff",
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "description": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-      "source": "UN News",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-04-2025-UNICEF-Sudan-10.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
       "tags": []
     }
   ]

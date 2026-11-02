@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-02T07:24:37Z",
+  "updated": "2026-11-02T17:57:16Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,153 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-refugees-fill-labor-gaps-in-thailand-as-cambodians-return-home",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-02T07:24:33Z",
+      "publishedAt": "2026-11-02T17:57:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F2%2F0%2F13370207-2-eng-GB%2F4a8a2762cf6b-photo_SXM2026092900005652.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-21a34d091e7a",
+      "title": "Iran engages US in 'intensive' negotiations to avert fresh war outbreak",
+      "description": "Tehran on Monday said that the country was holding \"intensive\" indirect talks with Washington to avoid a fresh round of US attacks on Iran ahead of the US midterm elections this week. Foreign ministry spokesperson Esmaeil Baghaei shared Iranian plans to reopen blockaded energy corridor, the Strait of Hormuz, if the US …",
+      "url": "https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak",
+      "source": "France24",
+      "publishedAt": "2026-11-02T17:42:22Z",
+      "image": "https://s.france24.com/media/display/18a41438-d6dc-11f1-b1cd-1beafce15fea/w:1024/p:16x9/2026-10-17T081002Z-2072440926-RC2W4OA50VW1-RTRMADP-3-IRAQ-CONFERENCE-OIC.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-980e6d03c6de",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-02T17:33:19Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-cc0d6d4d3c64",
+      "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
+      "description": "Supermarkets across Europe have experienced temperature-control meddlingThe fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson, just hours after the end of a ceasefire during which hundreds of people were evacuated from the nearby Kremlin-controlled town of Oleshky.Kherso…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-02T16:17:14Z",
+      "image": "https://i.guim.co.uk/img/media/1eb86fc3157f5c5e5a6dbe2db10ca0c83a7e5a71/752_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=128090dc78674166fed7203e2f156bbf",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -519b9812c45f",
+      "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
+      "description": "Renewed fighting between rebels from northern Tigray and ​the government in Addis Ababa has shattered 2022 peace deal.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-02T16:03:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/IMG-20260121-WA0011-1769018484.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-e43601b1ce42",
+      "title": "What might Trump have planned for Iran following the midterm election?",
+      "description": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace.",
+      "url": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-02T15:41:00Z",
+      "image": "https://static.dw.com/image/79828848_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-34237267695e",
+      "title": "Oleshky Ceasefire and Aid Operation End Without Any Violations, Lantratova Says",
+      "description": "Moscow called the humanitarian operation in Oleshky a success, praising the “level of coordination achieved among participants from all sides.”",
+      "url": "https://www.themoscowtimes.com/2026/11/02/oleshky-ceasefire-and-aid-operation-end-without-any-violations-lantratova-says-a94152",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-02T12:31:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/72/94152__7268f78c347127af3f3fb7dcdc812036.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -0ccea4178893",
+      "title": "Evacuated Ukrainians from Oleshky: 'We don't know where to go, but one thing is certain: We will survive'",
+      "description": "During a six-day ceasefire between Moscow and Kyiv, around 700 people managed to leave Oleshky, which has been occupied by Russian forces for four years and is located right on the front lines. The abandoned population was suffering from severe shortages of food and medicine.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/02/evacuated-ukrainians-from-oleshky-we-don-t-know-where-to-go-but-one-thing-is-certain-we-will-survive_6769438_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-02T11:00:00Z",
+      "image": "https://img.lemde.fr/2026/10/31/589/0/7066/3533/644/322/60/0/c20c3a1_ftp-1-zyc2zfpygms4-afp-d4zy4ke.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-2c775af06445",
+      "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+      "description": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
+      "source": "NPR World",
+      "publishedAt": "2026-11-02T09:42:11Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6022261",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-577026e928c6",
+      "title": "Melania Trump Says 800 People Evacuated from Oleshky as Russia Uses Truce to Regroup",
+      "description": "Nearly 800 people were evacuated from Russian-occupied Oleshky during a humanitarian mission, according to US First Lady Melania Trump. After the truce ended on Nov. 1, Ukraine’s General Staff said Russian forces had used the pause to rotate troops, strengthen positions, expand anti-drone protection and bring in ammuni…",
+      "url": "https://www.kyivpost.com/post/88862",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-02T09:35:08Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/02/7eb67630290017c3eea51156c916da0b.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 13,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,79 +176,17 @@
       "tags": []
     },
     {
-      "id": "le -f8de6aef066e",
-      "title": "Cyberattacks hit Russia and Ukraine after truce ends",
-      "description": "Starting in Ukraine and followed hours later by similar incidents reported in Russia, the cyberattacks came as the longest truce of the war, limited to Ukraine’s Kherson region, ended on Sunday. According to Kyiv, Russia refused an offer to extend it.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/02/ukraine-s-air-force-says-its-air-raid-alert-system-suffers-hostile-interference_6769204_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-01T23:09:27Z",
-      "image": "https://img.lemde.fr/2025/04/16/112/0/3493/1746/644/322/60/0/53957e1_ftp-import-images-1-rryiopwbk1gq-2025-04-16t084417z-1618635447-rc2kydas9lw9-rtrmadp-3-ukraine-crisis-air-defence.JPG",
+      "id": "un -2dc6cde8910e",
+      "title": "Breaking the silence in Mexico’s barracks",
+      "description": "In Mexico’s armed forces, an order from a superior is meant to be obeyed without question. For many women in uniform, investigative journalist Zorayda Gallegos found, that can include an order to step into an officer’s bedroom.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168715",
+      "source": "UN News",
+      "publishedAt": "2026-11-01T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -9edc0868d52c",
-      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-      "description": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-01T22:15:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae7ab5a84eb-1793567578.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-4d026ea3df4a",
-      "title": "Oleshky: Evacuations during first humanitarian truce of war end",
-      "description": "A successful evacuation. Residents of the city of Oleshky who had requested to be evacuated were reunited with their loved ones in Ukraine on Saturday, October 31. The city, located on the front line and under Russian occupation, is facing a humanitarian crisis, with civilians lacking even the most basic necessities. A…",
-      "url": "https://www.france24.com/en/oleshky-evacuations-during-first-humanitarian-truce-of-war-end",
-      "source": "France24",
-      "publishedAt": "2026-11-01T17:44:51Z",
-      "image": "https://s.france24.com/media/display/41a1e774-d606-11f1-9ff5-a575454bc579/w:1024/p:16x9/EN-20261101-150645-150857-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-96a242f04e8e",
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-01T17:06:32Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-480616fb54cc",
-      "title": "Ukraine Liberated 96 Sq Km in October, Inflicted Record Losses",
-      "description": "Ukrainian Defense Forces liberated 96.2 square kilometers of sovereign territory in October – surpassing Russian territorial advances by 10.4 square kilometers – while inflicting a record 54,400 casualties on the Russian military, President Volodymyr Zelensky announced on Sunday, Nov. 1. Calling the milestone the highe…",
-      "url": "https://www.kyivpost.com/post/88801",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-01T13:12:00Z",
-      "image": "https://static.kyivpost.com/storage/2025/08/31/70175ea7c950d332bce70d41b05d474e.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 13,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -139,52 +218,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -7eb60cb784d1",
-      "title": "Yemen war makes reaching assistance too dangerous for many",
-      "description": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-      "source": "UN News",
-      "publishedAt": "2026-10-30T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-23850c9487bf",
-      "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
-      "description": "Oxygen, food and water supplies running low and massacres taking place, says Nabil ShamsanThe Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long siege.Nabil Shamsan said massacres were t…",
-      "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-30T09:00:50Z",
-      "image": "https://i.guim.co.uk/img/media/cc1ad0844969a931ba1ce1ff5e13a75aeccd862f/409_0_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=d432d7effedef22fb1d31dec1a2b4f11",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-b57ea55be475",
-      "title": "Aid Deliveries and Evacuations in Oleshky Begin After Demining Operation Wraps Up",
-      "description": "Ukrainian and Russian officials said a humanitarian convoy is ready to depart for the besieged town in occupied southern Ukraine.",
-      "url": "https://www.themoscowtimes.com/2026/10/30/aid-deliveries-and-evacuations-in-oleshky-begin-after-demining-operation-wraps-up-a94131",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-10-30T08:49:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/81/94131__819c46cd9742d2ed5cd2a9a5e4060375.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     }

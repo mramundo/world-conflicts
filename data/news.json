@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-01T20:22:59Z",
+  "updated": "2026-11-02T00:23:27Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-20bb8102d2ff",
-      "title": "Pakistan refineries report 1,860% jump in profit amid war windfall",
+      "id": "nik-d9ad7bf03196",
+      "title": "Chinese Communist Party taps big data surveillance to combat corruption",
       "description": "",
-      "url": "https://asia.nikkei.com/business/energy/pakistan-refineries-report-1-860-jump-in-profit-amid-war-windfall2",
+      "url": "https://asia.nikkei.com/politics/chinese-communist-party-taps-big-data-surveillance-to-combat-corruption",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-01T20:22:56Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F6%2F0%2F4%2F13384066-2-eng-GB%2F288af65a9871-2026-03-18T144331Z_598600547_RC2S6KA5JUB5_RTRMADP_3_IRAN-CRISIS-OIL-PAKISTAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-11-02T00:23:25Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F1%2F0%2F7%2F13387015-2-eng-GB%2Fba750179f2da-photo_SXM2026110100005857.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
@@ -20,18 +20,47 @@
       "tags": []
     },
     {
-      "id": "le -394020e15a44",
-      "title": "Longest truce of Ukraine war, in Oleshky, set to end",
-      "description": "The pause in fighting enabled a humanitarian mission to the Russian-occupied city located in the eastern Kherson region.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/01/longest-truce-of-ukraine-war-in-oleshky-set-to-end_6769006_4.html",
+      "id": "le -f8de6aef066e",
+      "title": "Ukraine's air raid alert system suffers 'hostile interference,' air force says",
+      "description": "The announcement came minutes after the end of the truce between Moscow and Kyiv in the eastern region of Kherson. The localized ceasefire, which started on Tuesday, October 26, was the longest of the war.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/02/ukraine-s-air-force-says-its-air-raid-alert-system-suffers-hostile-interference_6769204_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-01T19:10:25Z",
-      "image": "https://img.lemde.fr/2026/11/01/653/0/7835/3917/644/322/60/0/ad3618f_ftp-1-bjwsolbgsqb6-ad23d216454348c4b2e5c9ea6e5ef389-1-7290b2bf207c4af8ba75bbbfe9a333d8.jpg",
+      "publishedAt": "2026-11-01T23:09:27Z",
+      "image": "https://img.lemde.fr/2025/04/16/112/0/3493/1746/644/322/60/0/53957e1_ftp-import-images-1-rryiopwbk1gq-2025-04-16t084417z-1618635447-rc2kydas9lw9-rtrmadp-3-ukraine-crisis-air-defence.JPG",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-5c1a12d656f9",
+      "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+      "description": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "source": "NPR World",
+      "publishedAt": "2026-11-01T22:19:13Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6023237",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -9edc0868d52c",
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "description": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-01T22:15:14Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae7ab5a84eb-1793567578.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -48,21 +77,6 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -43faee369704",
-      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-      "description": "Hebron&#039;s economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-01T17:30:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Israeli-military-vehicles-close-the-main-streets-inside-Hebron.-Photo-by-Sari-Jaradat-1793027581.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

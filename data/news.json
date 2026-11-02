@@ -1,28 +1,43 @@
 {
-  "updated": "2026-11-02T00:23:27Z",
+  "updated": "2026-11-02T07:24:37Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-d9ad7bf03196",
-      "title": "Chinese Communist Party taps big data surveillance to combat corruption",
+      "id": "nik-431b6d9c9f1b",
+      "title": "Myanmar refugees fill labor gaps in Thailand as Cambodians return home",
       "description": "",
-      "url": "https://asia.nikkei.com/politics/chinese-communist-party-taps-big-data-surveillance-to-combat-corruption",
+      "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-refugees-fill-labor-gaps-in-thailand-as-cambodians-return-home",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-02T00:23:25Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F1%2F0%2F7%2F13387015-2-eng-GB%2Fba750179f2da-photo_SXM2026110100005857.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-11-02T07:24:33Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F2%2F0%2F13370207-2-eng-GB%2F4a8a2762cf6b-photo_SXM2026092900005652.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-8379a60e2d82",
+      "title": "'Gli Usa premono per il ripristino delle vendite di gas russo in Ue attraverso l'Ucraina'",
+      "description": "Wsj, per una tregua energetica. Operazione tramite intermediario per aggirare sanzioni",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/gli-usa-premono-per-il-ripristino-delle-vendite-di-gas-russo-in-ue-attraverso_31e8a0c8-cc4c-4e69-a0ea-4a3dc942392b.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-02T07:06:28Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2025/1/14/b93d6cfbb35928778266f553fa2dfad1.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "le -f8de6aef066e",
-      "title": "Ukraine's air raid alert system suffers 'hostile interference,' air force says",
-      "description": "The announcement came minutes after the end of the truce between Moscow and Kyiv in the eastern region of Kherson. The localized ceasefire, which started on Tuesday, October 26, was the longest of the war.",
+      "title": "Cyberattacks hit Russia and Ukraine after truce ends",
+      "description": "Starting in Ukraine and followed hours later by similar incidents reported in Russia, the cyberattacks came as the longest truce of the war, limited to Ukraine’s Kherson region, ended on Sunday. According to Kyiv, Russia refused an offer to extend it.",
       "url": "https://www.lemonde.fr/en/international/article/2026/11/02/ukraine-s-air-force-says-its-air-raid-alert-system-suffers-hostile-interference_6769204_4.html",
       "source": "Le Monde (EN)",
       "publishedAt": "2026-11-01T23:09:27Z",
@@ -30,22 +45,7 @@
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-5c1a12d656f9",
-      "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
-      "description": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
-      "source": "NPR World",
-      "publishedAt": "2026-11-01T22:19:13Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6023237",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,21 +81,6 @@
       "tags": []
     },
     {
-      "id": "ans-51a3c02dbc88",
-      "title": "Zelensky, 'sono pronto a incontrare Putin in Turchia'",
-      "description": "Media, focus sul cessate il fuoco lungo la linea del fronte e il rispetto degli accordi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/zelensky-sono-pronto-a-incontrare-putin-in-turchia_e38af278-858a-401f-b271-d12e06ea5154.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-01T17:22:57Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/4828e21a49b2d351ace0886f7528ea58.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-96a242f04e8e",
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
       "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
@@ -124,6 +109,22 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-2b84dac6fbc6",
+      "title": "Moscow Reports Drone Attack On Nizhny Novgorod As Russian Strikes Cut Power In Ukraine",
+      "description": "Moscow and Kyiv traded strikes on November 1, with dozens of drones reportedly destroyed over Russia's Nizhny Novgorod region and energy infrastructure hit in four Ukrainian regions, leaving hundreds of thousands without power.",
+      "url": "https://www.rferl.org/a/russia-ukraine-war-drone-nizhny-novgorod-power/33888277.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-11-01T11:20:00Z",
+      "image": "https://gdb.rferl.org/6bace978-f16c-40b6-eb22-08df13afe2a0_cx0_cy43_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -185,23 +186,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-94b618ac5bcb",
-      "title": "Evacuation From Oleshky Completed As Buses Head To Ukraine, Russia",
-      "description": "Moscow and Kyiv say the evacuation of residents from the Russian-occupied Ukrainian city of Oleshky was completed \"without incident,\" as buses filled with civilians left the area for the first time in more than four years under a US-brokered truce that is set to remain in effect until November 1.",
-      "url": "https://www.rferl.org/a/ukraine-russia-oleshky-evacuation-melania-trump/33887157.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-10-30T06:30:17Z",
-      "image": "https://gdb.rferl.org/c50599d3-9b46-4fcf-493b-08df13a884cb_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
       "tags": []
     }
   ]

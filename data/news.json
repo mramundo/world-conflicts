@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T00:50:35Z",
+  "updated": "2026-11-03T07:40:29Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-refugees-fill-labor-gaps-in-thailand-as-cambodians-return-home",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-03T00:50:32Z",
+      "publishedAt": "2026-11-03T07:40:27Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F2%2F0%2F13370207-2-eng-GB%2F4a8a2762cf6b-photo_SXM2026092900005652.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -86d7efb15b41",
+      "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
+      "description": "Nearly 1,600 Palestinians have been killed in Gaza since a US-brokered &#039;ceasefire&#039; took effect in October last year.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-03T05:02:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26306522921458-1793674211.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-8eb8876b84d0",
+      "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+      "description": "Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalateRussia on Monday bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 26 ​people, Ukrainian president Volodymyr Zelenskyy and the country’s emergency services said.Eme…",
+      "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-03T01:13:52Z",
+      "image": "https://i.guim.co.uk/img/media/436bce2007dc08d0bcfdb3fe1f57b9790f46f3a1/213_0_3774_3019/master/3774.jpg?width=140&quality=85&auto=format&fit=max&s=3f8efb8327129f011f6c0a3cb6ed0f5a",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -35,32 +65,18 @@
       "tags": []
     },
     {
-      "id": "fra-d1d98fc2aafa",
-      "title": "Trump promised 'no more wars'. His foreign policy tells another story",
-      "description": "Donald Trump promised an “America First” foreign policy and pledged to keep the US out of foreign wars. But since returning to the White House, his administration has been deeply involved in conflicts around the world. From the war in Ukraine and threats to Greenland and Canada, to the US intervention in Venezuela, Tru…",
-      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story",
+      "id": "fra-f271a634c7d9",
+      "title": "Russia again pummels Ukraine after rare pause in fighting in Kherson",
+      "description": "Intense fighting between Russia and Ukraine again picked up after a rare ceasefire allowed for a humanitarian mission to reach the war-torn, Russian-occupied city of Oleshky in the southern Kherson region. While Russia accused Kyiv of sending hundreds of drones toward Moscow overnight into Tuesday, Kyiv said Russia had…",
+      "url": "https://www.france24.com/en/europe/20261102-russia-pummels-ukraine-again-after-rare-pause-in-fighting-in-kherson",
       "source": "France24",
-      "publishedAt": "2026-11-02T21:34:10Z",
-      "image": "https://s.france24.com/media/display/67eb27a2-d6fa-11f1-8418-a575454bc579/w:1024/p:16x9/capture-1a252fd9.jpg",
+      "publishedAt": "2026-11-02T18:53:49Z",
+      "image": "https://s.france24.com/media/display/bd2acd8c-d6ee-11f1-8073-1beafce15fea/w:1024/p:16x9/00a4fa45277e01eb86e800974ef7e00d7a64002b.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -195b281056db",
-      "title": "Russian bombing of Ukrainian aid centre kills 26 people",
-      "description": "Ukraine&#039;s president calls attack further proof that Russia does not want any ‌kind of de-escalation or real justice.",
-      "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-02T18:23:02Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26295629644025-1793644448.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,22 +92,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-cc0d6d4d3c64",
-      "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
-      "description": "Supermarkets across Europe have experienced temperature-control meddlingThe fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson, just hours after the end of a ceasefire during which hundreds of people were evacuated from the nearby Kremlin-controlled town of Oleshky.Kherso…",
-      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-02T16:17:14Z",
-      "image": "https://i.guim.co.uk/img/media/1eb86fc3157f5c5e5a6dbe2db10ca0c83a7e5a71/752_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=128090dc78674166fed7203e2f156bbf",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -176,17 +176,17 @@
       "tags": []
     },
     {
-      "id": "ans-8379a60e2d82",
-      "title": "'Gli Usa premono per il ripristino delle vendite di gas russo in Ue attraverso l'Ucraina'",
-      "description": "Wsj, per una tregua energetica. Operazione tramite intermediario per aggirare sanzioni",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/gli-usa-premono-per-il-ripristino-delle-vendite-di-gas-russo-in-ue-attraverso_31e8a0c8-cc4c-4e69-a0ea-4a3dc942392b.html",
+      "id": "ans-292dde6872b3",
+      "title": "Idf, conclusa operazione antiterrorismo a Hebron dopo l'attentato del 23 ottobre",
+      "description": "Nell'attacco sono morti due soldati e tre sono rimasti feriti",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/idf-conclusa-operazione-antiterrorismo-a-hebron-dopo-lattentato-del-23-ottobre_19de59f7-166a-4546-af2b-2bc90f2ee588.html",
       "source": "ANSA",
-      "publishedAt": "2026-11-02T07:06:28Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2025/1/14/b93d6cfbb35928778266f553fa2dfad1.jpg",
+      "publishedAt": "2026-11-02T09:19:21Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/25/e0fd00a9cfbb9614aaa97031de452120.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-03T15:56:13Z",
+  "updated": "2026-11-03T21:37:26Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,8 +10,53 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-refugees-fill-labor-gaps-in-thailand-as-cambodians-return-home",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-03T15:56:10Z",
+      "publishedAt": "2026-11-03T21:37:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F2%2F0%2F13370207-2-eng-GB%2F4a8a2762cf6b-photo_SXM2026092900005652.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -2ced5e1da444",
+      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+      "description": "Ukraine is investigating clashes between protesters and authorities at a military dormitory near Kyiv.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-03T20:54:44Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793739271.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-f6556b124ad9",
+      "title": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
+      "description": "Ukrainian President Volodymyr Zelensky last week heralded the success of Operation Veles, during which Kyiv sent troops deep into a disused gas pipeline in the Kupiansk region to confront Russian troops. These underground tactics, which Russian forces have been using for more than two years to slip past Ukrainian lines…",
+      "url": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield",
+      "source": "France24",
+      "publishedAt": "2026-11-03T16:52:13Z",
+      "image": "https://s.france24.com/media/display/4d3ed6c0-d6db-11f1-8e9a-a575454bc579/w:1024/p:16x9/pipeline-ukr.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-cd2ab2488c56",
+      "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+      "description": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+      "source": "NPR World",
+      "publishedAt": "2026-11-03T15:54:39Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2Ff0%2F0adc6b7e4d569f8d03e0096fc60b%2Funtitled-1350936.jpg",
       "categories": [
         "conflict"
       ],
@@ -97,52 +142,6 @@
       "tags": []
     },
     {
-      "id": "fra-fa4c26fbe870",
-      "title": "Uganda withdraws its troops from Somalia as fight against rebels persists",
-      "description": "Kampala announced on Monday it had begun pulling its troops out of Somalia. Uganda was the first country to send deployments to help Mogadishu when the African Union set up an international military mission in 2007 to battle al-Shabab extremist rebels. But what is prompting Kampala to withdraw its troops now, as the ba…",
-      "url": "https://www.france24.com/en/video/20261103-uganda-withdraws-its-troops-from-somalia-as-fight-against-rebels-persists",
-      "source": "France24",
-      "publishedAt": "2026-11-03T11:50:18Z",
-      "image": "https://s.france24.com/media/display/afe44278-d77c-11f1-bdcf-d18c5759e759/w:1024/p:16x9/capture-0fbd1c25.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-586cced2deb2",
-      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-      "description": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
-      "source": "NPR World",
-      "publishedAt": "2026-11-03T11:01:14Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/2000x1333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F00%2Fe7174a5c406193d73990b753ec8d%2Fap26307327730564.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -46aadf3e164d",
-      "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
-      "description": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-03T10:40:34Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6ae99970da-1793694064.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-8fc5bebb69bf",
       "title": "At Least 31 Killed in Russian Bomb Attack in Zaporizhzhia",
       "description": "Ukrainian officials said Russia bombed a school being used as an aid distribution point in a village in the village of Komyshuvakha.",
@@ -154,21 +153,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -029b8228d734",
-      "title": "In Poland, the 'Coalition of the Willing' holds first large-scale military exercise",
-      "description": "The Koalicja exercise is set to take place in Nowa Deba, in southeastern Poland, from November 9 to 22. Nearly 2,800 soldiers, mostly French, are expected to be deployed to test the alliance's ability to mobilize in the event of a ceasefire in Ukraine.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/03/in-poland-coalition-of-the-willing-holds-first-large-scale-military-exercise_6769567_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-02T23:09:15Z",
-      "image": "https://img.lemde.fr/2026/11/02/364/0/6569/3284/644/322/60/0/a1aef16_upload-1-c7zfjyraf68b-000-b4uq2bz.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

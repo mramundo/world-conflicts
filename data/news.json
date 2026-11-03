@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T07:40:29Z",
+  "updated": "2026-11-03T15:56:13Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-refugees-fill-labor-gaps-in-thailand-as-cambodians-return-home",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-03T07:40:27Z",
+      "publishedAt": "2026-11-03T15:56:10Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F2%2F0%2F13370207-2-eng-GB%2F4a8a2762cf6b-photo_SXM2026092900005652.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,13 @@
       "tags": []
     },
     {
-      "id": "al -86d7efb15b41",
-      "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
-      "description": "Nearly 1,600 Palestinians have been killed in Gaza since a US-brokered &#039;ceasefire&#039; took effect in October last year.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-03T05:02:34Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26306522921458-1793674211.jpg?resize=1920%2C1440",
+      "id": "deu-b9b11c5e6c17",
+      "title": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
+      "description": "Fighting between Iran-backed Houthi rebels and Yemeni government forces has intensified around the city of Taiz. Residents face growing shortages of food, water and medical supplies as thousands flee their homes.",
+      "url": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-03T14:18:00Z",
+      "image": "https://static.dw.com/image/79827773_6.jpg",
       "categories": [
         "conflict"
       ],
@@ -36,16 +36,124 @@
     },
     {
       "id": "the-8eb8876b84d0",
-      "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
-      "description": "Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalateRussia on Monday bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 26 ​people, Ukrainian president Volodymyr Zelenskyy and the country’s emergency services said.Eme…",
+      "title": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
+      "description": "Other overnight strikes targeted power plants across Ukraine, damaged hospitals and wounded scores of peopleRussia has bombed a humanitarian hub in southern Ukraine, killing at least 31 people and leaving dozens missing, as part of a wave of strikes across the country.Other overnight Russian strikes targeted power plan…",
       "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
       "source": "The Guardian",
-      "publishedAt": "2026-11-03T01:13:52Z",
+      "publishedAt": "2026-11-03T12:25:07Z",
       "image": "https://i.guim.co.uk/img/media/436bce2007dc08d0bcfdb3fe1f57b9790f46f3a1/213_0_3774_3019/master/3774.jpg?width=140&quality=85&auto=format&fit=max&s=3f8efb8327129f011f6c0a3cb6ed0f5a",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-4a988c884b75",
+      "title": "In settimana riunione Nato-Usa-E3 a Bruxelles sull'Ucraina",
+      "description": "Si discuterà la strada da seguire per porre fine alla guerra in modo giusto e sostenibile",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/03/in-settimana-riunione-nato-usa-e3-a-bruxelles-sullucraina_8a70c890-2e00-435c-9025-9185003b4049.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-03T12:15:48Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2025/6/22/758a4698f132b215a83464660eb1d276.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -8c49739e0560",
+      "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+      "description": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+      "source": "UN News",
+      "publishedAt": "2026-11-03T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-11-2025_UNICEF_Ukraine-school-01.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-09a31d6c278d",
+      "title": "Ukrainian Crowd Clashes With Riot Police, Again Highlighting Recruitment Tactics, Military Morale",
+      "description": "A crowd clashed with police and National Guard troops in a Kyiv suburb amid allegations that men were being held and tortured in a private house. The incident highlights growing tensions over Ukraine’s controversial military recruitment practices as it strives to repel Russia’s full-scale invasion.",
+      "url": "https://www.rferl.org/a/ukraine-men-soldiers-recruitment-busification/33889589.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-11-03T11:51:57Z",
+      "image": "https://gdb.rferl.org/bc014dea-5206-4bb4-6c65-08df13a87200_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-fa4c26fbe870",
+      "title": "Uganda withdraws its troops from Somalia as fight against rebels persists",
+      "description": "Kampala announced on Monday it had begun pulling its troops out of Somalia. Uganda was the first country to send deployments to help Mogadishu when the African Union set up an international military mission in 2007 to battle al-Shabab extremist rebels. But what is prompting Kampala to withdraw its troops now, as the ba…",
+      "url": "https://www.france24.com/en/video/20261103-uganda-withdraws-its-troops-from-somalia-as-fight-against-rebels-persists",
+      "source": "France24",
+      "publishedAt": "2026-11-03T11:50:18Z",
+      "image": "https://s.france24.com/media/display/afe44278-d77c-11f1-bdcf-d18c5759e759/w:1024/p:16x9/capture-0fbd1c25.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-586cced2deb2",
+      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+      "description": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+      "source": "NPR World",
+      "publishedAt": "2026-11-03T11:01:14Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/2000x1333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F00%2Fe7174a5c406193d73990b753ec8d%2Fap26307327730564.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -46aadf3e164d",
+      "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+      "description": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-03T10:40:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6ae99970da-1793694064.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-8fc5bebb69bf",
+      "title": "At Least 31 Killed in Russian Bomb Attack in Zaporizhzhia",
+      "description": "Ukrainian officials said Russia bombed a school being used as an aid distribution point in a village in the village of Komyshuvakha.",
+      "url": "https://www.themoscowtimes.com/2026/11/03/at-least-31-killed-in-russian-bomb-attack-in-zaporizhzhia-a94161",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-03T09:06:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/fe/94161__fed47a84c2fef265946dc307f4221cd8.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -65,22 +173,6 @@
       "tags": []
     },
     {
-      "id": "fra-f271a634c7d9",
-      "title": "Russia again pummels Ukraine after rare pause in fighting in Kherson",
-      "description": "Intense fighting between Russia and Ukraine again picked up after a rare ceasefire allowed for a humanitarian mission to reach the war-torn, Russian-occupied city of Oleshky in the southern Kherson region. While Russia accused Kyiv of sending hundreds of drones toward Moscow overnight into Tuesday, Kyiv said Russia had…",
-      "url": "https://www.france24.com/en/europe/20261102-russia-pummels-ukraine-again-after-rare-pause-in-fighting-in-kherson",
-      "source": "France24",
-      "publishedAt": "2026-11-02T18:53:49Z",
-      "image": "https://s.france24.com/media/display/bd2acd8c-d6ee-11f1-8073-1beafce15fea/w:1024/p:16x9/00a4fa45277e01eb86e800974ef7e00d7a64002b.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "bbc-980e6d03c6de",
       "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
       "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
@@ -92,70 +184,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-e43601b1ce42",
-      "title": "What might Trump have planned for Iran following the midterm election?",
-      "description": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace.",
-      "url": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-02T15:41:00Z",
-      "image": "https://static.dw.com/image/79828848_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-34237267695e",
-      "title": "Oleshky Ceasefire and Aid Operation End Without Any Violations, Lantratova Says",
-      "description": "Moscow called the humanitarian operation in Oleshky a success, praising the “level of coordination achieved among participants from all sides.”",
-      "url": "https://www.themoscowtimes.com/2026/11/02/oleshky-ceasefire-and-aid-operation-end-without-any-violations-lantratova-says-a94152",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-11-02T12:31:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/72/94152__7268f78c347127af3f3fb7dcdc812036.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -c461de83b8fc",
-      "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
-      "description": "The humanitarian crisis in Yemen is worsening, particularly in the southwestern city of Taiz, which is being encircled by paramilitary Iran-backed Houthi forces.&nbsp;",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168723",
-      "source": "UN News",
-      "publishedAt": "2026-11-02T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/02-11-2026-UNOCHA-Afghanistan.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-2c775af06445",
-      "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
-      "description": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
-      "url": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
-      "source": "NPR World",
-      "publishedAt": "2026-11-02T09:42:11Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6022261",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -173,37 +201,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-292dde6872b3",
-      "title": "Idf, conclusa operazione antiterrorismo a Hebron dopo l'attentato del 23 ottobre",
-      "description": "Nell'attacco sono morti due soldati e tre sono rimasti feriti",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/02/idf-conclusa-operazione-antiterrorismo-a-hebron-dopo-lattentato-del-23-ottobre_19de59f7-166a-4546-af2b-2bc90f2ee588.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-02T09:19:21Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/25/e0fd00a9cfbb9614aaa97031de452120.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-2b84dac6fbc6",
-      "title": "Moscow Reports Drone Attack On Nizhny Novgorod As Russian Strikes Cut Power In Ukraine",
-      "description": "Moscow and Kyiv traded strikes on November 1, with dozens of drones reportedly destroyed over Russia's Nizhny Novgorod region and energy infrastructure hit in four Ukrainian regions, leaving hundreds of thousands without power.",
-      "url": "https://www.rferl.org/a/russia-ukraine-war-drone-nizhny-novgorod-power/33888277.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-11-01T11:20:00Z",
-      "image": "https://gdb.rferl.org/6bace978-f16c-40b6-eb22-08df13afe2a0_cx0_cy43_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
       "tags": []
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-03T21:37:26Z",
+  "updated": "2026-11-04T01:57:55Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-refugees-fill-labor-gaps-in-thailand-as-cambodians-return-home",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-03T21:37:22Z",
+      "publishedAt": "2026-11-04T01:57:52Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F2%2F0%2F13370207-2-eng-GB%2F4a8a2762cf6b-photo_SXM2026092900005652.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,45 @@
       "tags": []
     },
     {
-      "id": "al -2ced5e1da444",
-      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
-      "description": "Ukraine is investigating clashes between protesters and authorities at a military dormitory near Kyiv.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+      "id": "le -1fe9f45d6385",
+      "title": "In Ukraine, Russia intensifies strikes on civilian targets",
+      "description": "A bombing in Ukraine's Zaporizhzhia region on Monday struck a school that was also serving as a humanitarian aid distribution center that day, killing at least 33 people and leaving around 50 missing, according to the latest figures.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/04/in-ukraine-russia-intensifies-strikes-on-civilian-targets_6770887_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-04T00:08:23Z",
+      "image": "https://img.lemde.fr/2026/11/03/731/0/4538/2269/644/322/60/0/bea19da_ftp-1-9bmj8pixqlat-2026-11-03t095541z-2084568822-rc26goacsa02-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia-region.JPG",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-e794a0119d2d",
+      "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+      "description": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+      "source": "NPR World",
+      "publishedAt": "2026-11-03T22:25:15Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6012016",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8ba9d62f52ea",
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
+      "description": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-03T20:54:44Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793739271.jpg?resize=1920%2C1080&amp;quality=80",
+      "publishedAt": "2026-11-03T21:43:19Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793742180.jpg?resize=1316%2C1080&amp;quality=80",
       "categories": [
         "conflict"
       ],
@@ -50,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "npr-cd2ab2488c56",
-      "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-      "description": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
-      "source": "NPR World",
-      "publishedAt": "2026-11-03T15:54:39Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2Ff0%2F0adc6b7e4d569f8d03e0096fc60b%2Funtitled-1350936.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-b9b11c5e6c17",
       "title": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
       "description": "Fighting between Iran-backed Houthi rebels and Yemeni government forces has intensified around the city of Taiz. Residents face growing shortages of food, water and medical supplies as thousands flee their homes.",
@@ -76,22 +93,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-8eb8876b84d0",
-      "title": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
-      "description": "Other overnight strikes targeted power plants across Ukraine, damaged hospitals and wounded scores of peopleRussia has bombed a humanitarian hub in southern Ukraine, killing at least 31 people and leaving dozens missing, as part of a wave of strikes across the country.Other overnight Russian strikes targeted power plan…",
-      "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-03T12:25:07Z",
-      "image": "https://i.guim.co.uk/img/media/436bce2007dc08d0bcfdb3fe1f57b9790f46f3a1/213_0_3774_3019/master/3774.jpg?width=140&quality=85&auto=format&fit=max&s=3f8efb8327129f011f6c0a3cb6ed0f5a",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,13 +112,13 @@
       "tags": []
     },
     {
-      "id": "un -8c49739e0560",
-      "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-      "description": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+      "id": "un -8a4022d64ecf",
+      "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+      "description": "A school in Myanmar has been hit in an airstrike, with&nbsp;three children reported killed and five others injured, according to UN Children’s Fund&nbsp;UNICEF.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168729",
       "source": "UN News",
       "publishedAt": "2026-11-03T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-11-2025_UNICEF_Ukraine-school-01.jpg/image560x340cropped.jpg",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/03-11-2026-Adobe-Stock-Myanmar.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
@@ -184,6 +185,21 @@
         "humanitarian"
       ],
       "relevanceScore": 13,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-325bf9aefa6f",
+      "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+      "description": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilitiesDonald Trump’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with …",
+      "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-01T12:00:12Z",
+      "image": "https://i.guim.co.uk/img/media/2f8a0af67afa9f857d560117b8e1eced18fbc3ad/1801_315_3487_2790/master/3487.jpg?width=140&quality=85&auto=format&fit=max&s=0fed03aee66d9bdc808c3e0e1b05a1ed",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

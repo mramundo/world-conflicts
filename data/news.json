@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T11:57:56Z",
+  "updated": "2026-11-05T19:50:12Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/food-beverage/mcdonald-s-wages-war-on-kfc-in-japan-as-consumers-crave-chicken",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-05T11:57:53Z",
+      "publishedAt": "2026-11-05T19:50:07Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F4%2F2%2F13402422-2-eng-GB%2F5e114284d684-photo_SXM2026101600014770.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,28 +20,106 @@
       "tags": []
     },
     {
-      "id": "al -4d6c5216fce3",
-      "title": "Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?",
-      "description": "The US company is using Kyiv’s unique war data to train its controversial technologies.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-05T11:34:29Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6ae883948fdbf-1793622932.jpg?resize=1920%2C1440",
+      "id": "deu-2d44d25680ac",
+      "title": "Will US midterm election results spare Gulf states from further war?",
+      "description": "The US midterm results showed how unpopular Donald Trump's Iran war is. Now, Gulf countries, trapped for months in the middle of the war between the US and Iran, see reason for optimism.",
+      "url": "https://www.dw.com/en/will-us-midterm-election-results-spare-gulf-states-from-further-war/a-79868398?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-05T19:12:00Z",
+      "image": "https://static.dw.com/image/79863662_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-5a56f3812c17",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "description": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-05T19:08:08Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec63/live/102786c0-d946-11f1-b441-2b33b063138f.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-358c0c3c469b",
-      "title": "Dozens dead and missing after Russian strike on Ukrainian aid centre",
-      "description": "The death toll from a Russian bombing of an aid distribution point in Ukraine's southeastern Zaporizhzhia region on Monday has risen to 42, with dozens still missing, officials said, in one of the deadliest strikes on civilians this year. The attack came a day ​after a brief ‌US-brokered local ceasefire expired and les…",
-      "url": "https://www.france24.com/en/video/20261105-dozens-dead-and-missing-after-russian-strike-on-ukrainian-aid-centre",
+      "id": "fra-d95025b640a8",
+      "title": "Myanmar: Civilians under fire from military junta",
+      "description": "More than five years after the military coup, the junta launched a new offensive in September to retake Rakhine State, intensifying airstrikes against civilians and employing double-tap strikes",
+      "url": "https://www.france24.com/en/asia-pacific/20261105-myanmar-civilians-under-fire-from-military-junta",
       "source": "France24",
-      "publishedAt": "2026-11-05T10:34:55Z",
-      "image": "https://s.france24.com/media/display/d4b64d1c-d902-11f1-ab39-1beafce15fea/w:1024/p:16x9/EN-20261105-102214-102402-CS.jpg",
+      "publishedAt": "2026-11-05T17:58:28Z",
+      "image": "https://s.france24.com/media/display/1d99418a-d870-11f1-bc85-695cb59fade5/w:1024/p:16x9/Arakan-army-bridge.png",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-923a908cb5c3",
+      "title": "Kremlin Envoy Dmitriev Presents Melania Trump With Painting in Recognition of Oleshky Ceasefire",
+      "description": "Russian President Vladimir Putin’s economic envoy Kirill Dmitriev presented US First Lady Melania Trump with a child’s painting during the meeting at the White House on Thursday, Nov. 5, thanking her for her role in brokering the Oleshky ceasefire. At the same event, which brought Russian and Ukrainian officials togeth…",
+      "url": "https://www.kyivpost.com/post/89267",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-05T17:32:36Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/05/1f3abe60ba5d7faa50f3ee8893c49716.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e3c035cd8142",
+      "title": "Burning rubbish chokes besieged Yemeni city of Taiz",
+      "description": "Taiz residents face health risks as waste accumulates amid sniper fire, forcing people to burn it in the streets.",
+      "url": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-05T14:17:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-31T132829Z_1935319213_RC2AEOA8N23O_RTRMADP_3_IRAN-CRISIS-YEMEN-TAIZ-1793870283.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "ans-cfb73b7e1ce6",
+      "title": "Los Angeles elegge una socialista come sindaco, Raman batte Bass",
+      "description": "La battaglia è stato uno scontro generazionale",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/los-angeles-elegge-una-socialista-come-sindaco-raman-batte-bass_78f801d7-4065-48b9-aefc-c16991830922.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-05T13:57:03Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/4/f7dbdee2e9a6b8b3b827605f69a22ec7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-97a61a9c26a1",
+      "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
+      "description": "Dismissals follow Houthi victories and pressure from southern Yemenis for more powerThe UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the Houthis in September and lift the four-week siege of Taiz, the country’s third largest city.A counte…",
+      "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-05T13:47:00Z",
+      "image": "https://i.guim.co.uk/img/media/383606daa4f240ded1f7ec8a1b158003c8d3e84d/238_0_2383_1906/master/2383.jpg?width=140&quality=85&auto=format&fit=max&s=a06c5b49973e0b8f3da54b566fad5532",
       "categories": [
         "conflict"
       ],
@@ -50,77 +128,17 @@
       "tags": []
     },
     {
-      "id": "ans-601e43f96e52",
-      "title": "Zelensky, spero che l'esito delle midterm significhi più aiuti a Kiev",
-      "description": "Presidente rompe silenzio su voto Usa, 'I Dem molto chiari nel sostegno all'Ucraina'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/zelensky-spero-che-lesito-delle-midterm-significhi-piu-aiuti-a-kiev_fecec247-fe83-4a18-b29e-c9290c18939a.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-05T09:32:15Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/3/5f8fddd21e1f19e37f8156d7985e950d.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -c656d5fe1382",
-      "title": "European banks wake up to scale of vulnerability after cyberattack on French bank",
-      "description": "Hackers managed to steal part of Crédit Mutuel Arkéa's equity capital in an unprecedented attack on European finance.",
-      "url": "https://www.lemonde.fr/en/economy/article/2026/11/05/european-banks-wake-up-to-scale-of-vulnerability-after-cyberattack-on-french-bank_6772537_19.html",
+      "id": "le -7f270aeb7dd9",
+      "title": "In Ukraine, a ceasefire gives Kherson residents a breath of fresh air: 'I fear that hell will return'",
+      "description": "For five days, the residents of the southern Ukrainian city experienced an almost unimaginable respite. Everyday activities became possible again, until a harsh return to reality the day after the truce ended.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/05/in-ukraine-a-ceasefire-gives-kherson-residents-a-breath-of-fresh-air-i-fear-that-hell-will-return_6772306_4.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-05T08:57:39Z",
-      "image": "https://img.lemde.fr/2026/11/04/58/0/5568/2784/644/322/60/0/ebcfa70_upload-1-erloatocttx1-000-1dz52y.jpg",
+      "publishedAt": "2026-11-05T00:08:58Z",
+      "image": "https://img.lemde.fr/2026/11/02/446/0/4300/2150/644/322/60/0/36ce5b7_upload-1-o1f3gohbkoqi-kherson-ceasefire-26.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-7bb8998eca36",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-04T22:48:43Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-8fa8c8ed8acd",
-      "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
-      "description": "Conservation officers say more than one bear may have been involved in attack on women near their homeSearch teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bea…",
-      "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-04T19:42:47Z",
-      "image": "https://i.guim.co.uk/img/media/65b4c4a1a9683a21b818d78b4c4f95490cb925a4/163_0_912_730/master/912.jpg?width=140&quality=85&auto=format&fit=max&s=0fcfa933816a7a0a37280599039e1728",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-1b94071d550c",
-      "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
-      "description": "Indonesian troops are being stationed in Jakarta amid wiretapping allegations implicating the president's chief of staff. Suspects are being accused of illegally tapping the president's phones.",
-      "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-04T12:52:00Z",
-      "image": "https://static.dw.com/image/79350322_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -138,22 +156,6 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-f7d01d9586b9",
-      "title": "Russia to Send Historian to Lead Abu Dhabi Peace Talks, Again",
-      "description": "Russia confirmed that it will join the trilateral meeting with the US and Ukraine in Abu Dhabi on Nov. 10-11, sending the same hawkish historian who led the delegation during summer 2025’s Istanbul talks. Ukraine previously accused the historian of threatening the Ukrainian delegation, while the Istanbul talks only res…",
-      "url": "https://www.kyivpost.com/analysis/89010",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-03T12:44:29Z",
-      "image": "https://static.kyivpost.com/storage/2026/11/03/9fa2a3be9a04c100e7d0fb1da2725d21.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

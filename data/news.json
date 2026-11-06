@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-06T07:45:05Z",
+  "updated": "2026-11-06T15:45:03Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-war-in-iran-leaves-sri-lanka-in-troubled-diplomatic-waters",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-06T07:45:01Z",
+      "publishedAt": "2026-11-06T15:45:00Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F8%2F8%2F13408827-1-eng-GB%2F32cd36ef1595-2026-03-22T033200Z_73828148_RC2YYJAWPVB6_RTRMADP_3_IRAN-CRISIS-SHIP-SRI-LANKA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,23 +21,85 @@
       "tags": []
     },
     {
-      "id": "al -e5717fc7abd4",
-      "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
-      "description": "Call comes as Iraq&#039;s top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-06T05:00:47Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aed4b6d1b84-1793936237.jpg?resize=1920%2C1440",
+      "id": "deu-4d9d7ee4e89a",
+      "title": "Iranians face looming war threat with no reliable info",
+      "description": "Ordinary people living in Iran have little idea of the course of the war and peace talks on the global stage. With few sources of information, they are forced to navigate conflicting rumors and fears of a nuclear attack.",
+      "url": "https://www.dw.com/en/iranians-face-looming-war-threat-with-no-reliable-info/a-79875438?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-06T12:56:00Z",
+      "image": "https://static.dw.com/image/79304836_6.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-84c007891ea8",
+      "title": "Death toll rises to 50 in Russian attack on aid distribution ‌point in Ukraine",
+      "description": "The death toll from Russia's bombing of an aid ​distribution ‌point in ⁠Ukraine's southeastern Zaporizhzhia region on Monday ‌has risen to 50, Kyiv's Emergency Service said on Friday, making it ​one of the deadliest strikes ‌on civilians this year.",
+      "url": "https://www.france24.com/en/europe/20261106-death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in-ukraine",
+      "source": "France24",
+      "publishedAt": "2026-11-06T10:15:12Z",
+      "image": "https://s.france24.com/media/display/46ae0b50-d9c9-11f1-b001-d18c5759e759/w:1024/p:16x9/2026-11-02T212716Z-2040630324-RC2QFOAUAPVF-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-3186630c981b",
+      "title": "Trump Meets Privately With Putin Envoy After White House Event Marking Oleshky Ceasefire",
+      "description": "The U.S. president did not disclose what he discussed with envoy Kirill Dmitriev, but he predicted a deal to end the war in Ukraine could emerge soon.",
+      "url": "https://www.themoscowtimes.com/2026/11/06/trump-meets-privately-with-putin-envoy-after-white-house-event-marking-oleshky-ceasefire-a94188",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-06T08:36:08Z",
+      "image": "https://static.themoscowtimes.com/image/og/f0/94188__f06019333b818ce46f2722dabaf24107.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8c04ada61803",
+      "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
+      "description": "Captain Ajay Pant was in international waters when his allegedly &#039;shadow&#039; tanker was captured by British soldiers.",
+      "url": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-06T08:32:57Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/PHOTO-2026-11-04-00-19-44-2-1793949474.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-5a56f3812c17",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "description": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-06T07:56:19Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "kyi-43218f89e383",
-      "title": "Ukraine Could Hold Wartime Elections if US Brokers Winter Ceasefire With Russia, Zelensky Says",
+      "title": "Ukraine to Hold Elections if US Brokers Winter Ceasefire With Russia",
       "description": "President Volodymyr Zelensky revealed that he asked Washington to negotiate a winter ceasefire with Russia that could protect Ukraine’s energy supplies and create conditions for presidential elections. In a German television interview, he said voting under martial law would be unfair to soldiers on the front lines, ref…",
       "url": "https://www.kyivpost.com/post/89288",
       "source": "Kyiv Post",
@@ -47,21 +109,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -505a58465287",
-      "title": "Melania hosts Russia and Ukraine at the White House as Trump touts 'big agreement'",
-      "description": "The unprecedented meeting between Russian and Ukrainian officials hoped to build on a six-day truce in the Ukrainian city of Oleshky. Ukrainian Volodymyr Zelensky awarded Melania a national honor for her role in brokering the ceasefire, which a Ukrainian official presented to her at the White House.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/06/melania-hosts-russia-and-ukraine-as-trump-touts-big-agreement_6773131_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-06T00:11:26Z",
-      "image": "https://img.lemde.fr/2026/11/05/411/0/5900/2950/644/322/60/0/40a8a9b_ftp-1-5oysbn0mipl8-2026-11-05t164616z-39894398-rc2shoargdnx-rtrmadp-3-ukraine-crisis-melaniatrump.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,51 +128,6 @@
       "tags": []
     },
     {
-      "id": "deu-c4b757428d11",
-      "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
-      "description": "The US midterm results showed how unpopular Donald Trump's Iran war is. Now, Gulf countries, trapped for months in the middle of the war between the US and Iran, see reason for optimism.",
-      "url": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-05T19:12:00Z",
-      "image": "https://static.dw.com/image/79863662_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-5a56f3812c17",
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "description": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-05T19:08:08Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-d95025b640a8",
-      "title": "Myanmar: Civilians under fire from military junta",
-      "description": "More than five years after the military coup, the junta launched a new offensive in September to retake Rakhine State, intensifying airstrikes against civilians and employing double-tap strikes",
-      "url": "https://www.france24.com/en/asia-pacific/20261105-myanmar-civilians-under-fire-from-military-junta",
-      "source": "France24",
-      "publishedAt": "2026-11-05T17:58:28Z",
-      "image": "https://s.france24.com/media/display/1d99418a-d870-11f1-bc85-695cb59fade5/w:1024/p:16x9/Arakan-army-bridge.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-97a61a9c26a1",
       "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
       "description": "Dismissals follow Houthi victories and pressure from southern Yemenis for more powerThe UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the Houthis in September and lift the four-week siege of Taiz, the country’s third largest city.A counte…",
@@ -141,65 +143,35 @@
       "tags": []
     },
     {
-      "id": "npr-e794a0119d2d",
-      "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
-      "description": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
-      "url": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
-      "source": "NPR World",
-      "publishedAt": "2026-11-03T22:25:15Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6012016",
+      "id": "un -dc0eb08d9730",
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "description": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025, increasing children’s risk of exposure to disease outbreaks, malnutrition and violence.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "source": "UN News",
+      "publishedAt": "2026-11-05T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/13-07-2026_UNNews_Water_Gaza_03.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "un -8a4022d64ecf",
-      "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-      "description": "A school in Myanmar has been hit in an airstrike, with&nbsp;three children reported killed and five others injured, according to UN Children’s Fund&nbsp;UNICEF.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168729",
-      "source": "UN News",
-      "publishedAt": "2026-11-03T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/03-11-2026-Adobe-Stock-Myanmar.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-09a31d6c278d",
-      "title": "Ukrainian Crowd Clashes With Riot Police, Again Highlighting Recruitment Tactics, Military Morale",
-      "description": "A crowd clashed with police and National Guard troops in a Kyiv suburb amid allegations that men were being held and tortured in a private house. The incident highlights growing tensions over Ukraine’s controversial military recruitment practices as it strives to repel Russia’s full-scale invasion.",
-      "url": "https://www.rferl.org/a/ukraine-men-soldiers-recruitment-busification/33889589.html",
+      "id": "rfe-b2d4b581d4a7",
+      "title": "Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks",
+      "description": "US first lady Melania Trump will host Russian and Ukrainian representatives at the White House on November 5 for a meeting following a localized cease-fire in Ukraine's southern Kherson region, as a new round of US-mediated peace talks is set to take place next week.",
+      "url": "https://www.rferl.org/a/ukraine-russia-oleshky-melania-trump-talks/33889941.html",
       "source": "RFE/RL",
-      "publishedAt": "2026-11-03T11:51:57Z",
-      "image": "https://gdb.rferl.org/bc014dea-5206-4bb4-6c65-08df13a87200_tv_w800_h450.jpg",
+      "publishedAt": "2026-11-03T21:18:10Z",
+      "image": "https://gdb.rferl.org/63be4226-bba4-414e-eb1a-08df13afe2a0_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 14,
+      "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-8fc5bebb69bf",
-      "title": "At Least 31 Killed in Russian Bomb Attack in Zaporizhzhia",
-      "description": "Ukrainian officials said Russia bombed a school being used as an aid distribution point in a village in the village of Komyshuvakha.",
-      "url": "https://www.themoscowtimes.com/2026/11/03/at-least-31-killed-in-russian-bomb-attack-in-zaporizhzhia-a94161",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-11-03T09:06:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/fe/94161__fed47a84c2fef265946dc307f4221cd8.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
       "tags": []
     }
   ]

@@ -1,21 +1,52 @@
 {
-  "updated": "2026-11-06T00:52:04Z",
+  "updated": "2026-11-06T07:45:05Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-c963cdf3e5ae",
-      "title": "McDonald's wages war on KFC in Japan as consumers crave chicken",
+      "id": "nik-b57b46c8331e",
+      "title": "US war in Iran leaves Sri Lanka in troubled diplomatic waters",
       "description": "",
-      "url": "https://asia.nikkei.com/business/food-beverage/mcdonald-s-wages-war-on-kfc-in-japan-as-consumers-crave-chicken",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-war-in-iran-leaves-sri-lanka-in-troubled-diplomatic-waters",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-06T00:52:01Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F4%2F2%2F13402422-2-eng-GB%2F5e114284d684-photo_SXM2026101600014770.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-11-06T07:45:01Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F8%2F8%2F13408827-1-eng-GB%2F32cd36ef1595-2026-03-22T033200Z_73828148_RC2YYJAWPVB6_RTRMADP_3_IRAN-CRISIS-SHIP-SRI-LANKA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -e5717fc7abd4",
+      "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+      "description": "Call comes as Iraq&#039;s top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-06T05:00:47Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aed4b6d1b84-1793936237.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-43218f89e383",
+      "title": "Ukraine Could Hold Wartime Elections if US Brokers Winter Ceasefire With Russia, Zelensky Says",
+      "description": "President Volodymyr Zelensky revealed that he asked Washington to negotiate a winter ceasefire with Russia that could protect Ukraine’s energy supplies and create conditions for presidential elections. In a German television interview, he said voting under martial law would be unfair to soldiers on the front lines, ref…",
+      "url": "https://www.kyivpost.com/post/89288",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-06T02:34:25Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/06/82e2086c52d174b40740a1a363e2d9b3.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -42,21 +73,6 @@
       "source": "ANSA",
       "publishedAt": "2026-11-05T21:08:19Z",
       "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/3/96b225f6f8d6e4d54e3b75dbffb061c5.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f7db50156a2c",
-      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-      "description": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-05T20:43:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-20.37.21-1793911153.png?resize=1200%2C675",
       "categories": [
         "conflict"
       ],
@@ -104,22 +120,6 @@
       "image": "https://s.france24.com/media/display/1d99418a-d870-11f1-bc85-695cb59fade5/w:1024/p:16x9/Arakan-army-bridge.png",
       "categories": [
         "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-923a908cb5c3",
-      "title": "Kremlin Envoy Dmitriev Presents Melania Trump With Painting in Recognition of Oleshky Ceasefire",
-      "description": "Russian President Vladimir Putin’s economic envoy Kirill Dmitriev presented US First Lady Melania Trump with a child’s painting during the meeting at the White House on Thursday, Nov. 5, thanking her for her role in brokering the Oleshky ceasefire. At the same event, which brought Russian and Ukrainian officials togeth…",
-      "url": "https://www.kyivpost.com/post/89267",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-05T17:32:36Z",
-      "image": "https://static.kyivpost.com/storage/2026/11/05/1f3abe60ba5d7faa50f3ee8893c49716.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
       ],
       "relevanceScore": 10,
       "isAnalysis": false,

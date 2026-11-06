@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:50:12Z",
+  "updated": "2026-11-06T00:52:04Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/food-beverage/mcdonald-s-wages-war-on-kfc-in-japan-as-consumers-crave-chicken",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-05T19:50:07Z",
+      "publishedAt": "2026-11-06T00:52:01Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F4%2F2%2F13402422-2-eng-GB%2F5e114284d684-photo_SXM2026101600014770.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,19 +20,63 @@
       "tags": []
     },
     {
-      "id": "deu-2d44d25680ac",
-      "title": "Will US midterm election results spare Gulf states from further war?",
+      "id": "le -505a58465287",
+      "title": "Melania hosts Russia and Ukraine at the White House as Trump touts 'big agreement'",
+      "description": "The unprecedented meeting between Russian and Ukrainian officials hoped to build on a six-day truce in the Ukrainian city of Oleshky. Ukrainian Volodymyr Zelensky awarded Melania a national honor for her role in brokering the ceasefire, which a Ukrainian official presented to her at the White House.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/06/melania-hosts-russia-and-ukraine-as-trump-touts-big-agreement_6773131_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-06T00:11:26Z",
+      "image": "https://img.lemde.fr/2026/11/05/411/0/5900/2950/644/322/60/0/40a8a9b_ftp-1-5oysbn0mipl8-2026-11-05t164616z-39894398-rc2shoargdnx-rtrmadp-3-ukraine-crisis-melaniatrump.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-2ddd169c1abf",
+      "title": "Zelensky, 'possiamo prendere in considerazione le elezioni online'",
+      "description": "'Ma ciò è molto difficile durante una guerra'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/zelensky-possiamo-prendere-in-considerazione-le-elezioni-online_a48a5da9-e085-4ed6-93fe-14060c7411d1.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-05T21:08:19Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/3/96b225f6f8d6e4d54e3b75dbffb061c5.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -f7db50156a2c",
+      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "description": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-05T20:43:46Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-20.37.21-1793911153.png?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-c4b757428d11",
+      "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
       "description": "The US midterm results showed how unpopular Donald Trump's Iran war is. Now, Gulf countries, trapped for months in the middle of the war between the US and Iran, see reason for optimism.",
-      "url": "https://www.dw.com/en/will-us-midterm-election-results-spare-gulf-states-from-further-war/a-79868398?maca=en-rss-en-world-4025-rdf",
+      "url": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-11-05T19:12:00Z",
       "image": "https://static.dw.com/image/79863662_6.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
+      "relevanceScore": 3,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -42,7 +86,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "publishedAt": "2026-11-05T19:08:08Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec63/live/102786c0-d946-11f1-b441-2b33b063138f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg",
       "categories": [
         "conflict"
       ],
@@ -82,37 +126,6 @@
       "tags": []
     },
     {
-      "id": "al -e3c035cd8142",
-      "title": "Burning rubbish chokes besieged Yemeni city of Taiz",
-      "description": "Taiz residents face health risks as waste accumulates amid sniper fire, forcing people to burn it in the streets.",
-      "url": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-05T14:17:34Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-31T132829Z_1935319213_RC2AEOA8N23O_RTRMADP_3_IRAN-CRISIS-YEMEN-TAIZ-1793870283.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-cfb73b7e1ce6",
-      "title": "Los Angeles elegge una socialista come sindaco, Raman batte Bass",
-      "description": "La battaglia è stato uno scontro generazionale",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/los-angeles-elegge-una-socialista-come-sindaco-raman-batte-bass_78f801d7-4065-48b9-aefc-c16991830922.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-05T13:57:03Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/4/f7dbdee2e9a6b8b3b827605f69a22ec7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-97a61a9c26a1",
       "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
       "description": "Dismissals follow Houthi victories and pressure from southern Yemenis for more powerThe UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the Houthis in September and lift the four-week siege of Taiz, the country’s third largest city.A counte…",
@@ -124,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -7f270aeb7dd9",
-      "title": "In Ukraine, a ceasefire gives Kherson residents a breath of fresh air: 'I fear that hell will return'",
-      "description": "For five days, the residents of the southern Ukrainian city experienced an almost unimaginable respite. Everyday activities became possible again, until a harsh return to reality the day after the truce ended.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/05/in-ukraine-a-ceasefire-gives-kherson-residents-a-breath-of-fresh-air-i-fear-that-hell-will-return_6772306_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-05T00:08:58Z",
-      "image": "https://img.lemde.fr/2026/11/02/446/0/4300/2150/644/322/60/0/36ce5b7_upload-1-o1f3gohbkoqi-kherson-ceasefire-26.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

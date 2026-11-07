@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-07T01:42:08Z",
+  "updated": "2026-11-07T08:28:58Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-war-in-iran-leaves-sri-lanka-in-troubled-diplomatic-waters",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-07T01:42:06Z",
+      "publishedAt": "2026-11-07T08:28:54Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F8%2F8%2F13408827-1-eng-GB%2F32cd36ef1595-2026-03-22T033200Z_73828148_RC2YYJAWPVB6_RTRMADP_3_IRAN-CRISIS-SHIP-SRI-LANKA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,13 +21,59 @@
       "tags": []
     },
     {
-      "id": "al -b763a4725b59",
-      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-      "description": "Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "id": "ans-eed525713040",
+      "title": "L'Iran: 'Esercito più forte dall'inizio della guerra'. Attacco 'rapido' Usa all'isola di Qeshm",
+      "description": "Trump: 'Piccolo raid di pochi minuti'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/liran-esercito-piu-forte-dallinizio-della-guerra.-attacco-rapido-usa_d3eb6266-aaec-4271-9d11-336fd196698b.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-07T06:53:55Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/6/a0b1f1f2bc834d133e08181f913c6905.jpeg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -d16055133bfa",
+      "title": "How the Iran war helped Democrats win the midterms",
+      "description": "Tehran brought the costs of war into American homes, fuelling the backlash against Trump&#039;s party.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AA-20261103-42953182-42953164-GIANT_POSTER_AGAINST_US_AND_ISRAEL_HUNG_IN_TEHRAN-1794004328.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-07T06:26:58Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-03T100259Z_171465959_RC20HNA39P07_RTRMADP_3_IRAN-CRISIS-AIRCRAFT-CARRIER-1794032751.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -b5f4da42ac51",
+      "title": "US-Russia diesel deal touted by Trump falters",
+      "description": "Several Russian ships carrying diesel intended for the US market abruptly changed course in recent days while at sea. Fearing reputational risks and sanctions, American companies have become reluctant to purchase it.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/07/us-russia-diesel-deal-touted-by-trump-falters_6774022_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-07T03:11:38Z",
+      "image": "https://img.lemde.fr/2026/10/23/456/0/5472/2736/644/322/60/0/04f2f25_ftp-1-wggme47mmnwl-2026-10-23t145021z-390419433-rc2f47arwow1-rtrmadp-3-russia-diesel-exports.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-1129afa74846",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-06T23:24:15Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
       "categories": [
         "conflict"
       ],
@@ -81,21 +127,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-1dbcb0594af8",
-      "title": "Two dead after bus crashes in France, officials say",
-      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-06T15:33:52Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {

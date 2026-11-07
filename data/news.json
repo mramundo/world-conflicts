@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:58:12Z",
+  "updated": "2026-11-07T23:34:37Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,13 +10,28 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-war-in-iran-leaves-sri-lanka-in-troubled-diplomatic-waters",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-07T19:58:08Z",
+      "publishedAt": "2026-11-07T23:34:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F8%2F8%2F13408827-1-eng-GB%2F32cd36ef1595-2026-03-22T033200Z_73828148_RC2YYJAWPVB6_RTRMADP_3_IRAN-CRISIS-SHIP-SRI-LANKA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -3ec4150b8fd4",
+      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "description": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-07T20:10:38Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794082208.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -66,15 +81,16 @@
       "tags": []
     },
     {
-      "id": "al -93c9406c2b39",
-      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-      "description": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-07T13:24:41Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Img-3-Volodymyr-1794035357.jpg?resize=1920%2C1440",
+      "id": "the-395b7d483495",
+      "title": "Court rules against Home Office in asylum seeker kidnapping case",
+      "description": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in LibyaThe court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims.The ruling means that many people who have been …",
+      "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-07T13:00:11Z",
+      "image": "https://i.guim.co.uk/img/media/ba6b66a9237796408a3d132a0a8ce3e5749ed595/542_7_3957_3166/master/3957.jpg?width=140&quality=85&auto=format&fit=max&s=5f753c6febd18fcebb8421ebd0de0ddb",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
       "relevanceScore": 7,
       "isAnalysis": false,
@@ -181,21 +197,6 @@
       "source": "Kyiv Post",
       "publishedAt": "2026-11-06T02:34:25Z",
       "image": "https://static.kyivpost.com/storage/2026/11/06/82e2086c52d174b40740a1a363e2d9b3.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-97a61a9c26a1",
-      "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
-      "description": "Dismissals follow Houthi victories and pressure from southern Yemenis for more powerThe UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the Houthis in September and lift the four-week siege of Taiz, the country’s third largest city.A counte…",
-      "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-05T13:47:00Z",
-      "image": "https://i.guim.co.uk/img/media/383606daa4f240ded1f7ec8a1b158003c8d3e84d/238_0_2383_1906/master/2383.jpg?width=140&quality=85&auto=format&fit=max&s=a06c5b49973e0b8f3da54b566fad5532",
       "categories": [
         "conflict"
       ],

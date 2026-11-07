@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-07T15:30:14Z",
+  "updated": "2026-11-07T19:58:12Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,43 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-war-in-iran-leaves-sri-lanka-in-troubled-diplomatic-waters",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-07T15:30:09Z",
+      "publishedAt": "2026-11-07T19:58:08Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F8%2F8%2F13408827-1-eng-GB%2F32cd36ef1595-2026-03-22T033200Z_73828148_RC2YYJAWPVB6_RTRMADP_3_IRAN-CRISIS-SHIP-SRI-LANKA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -55b5a89b204c",
+      "title": "Ukrainian war orphans' long road to healing: 'We don't talk to him about his parents' death. We wait for him to ask questions'",
+      "description": "Thousands of Ukrainian children, whose parents were killed in the war, have been cared for in public orphanages with a post-Soviet structure, by foster families, or by non-profit organizations that have tried to heal their psychological wounds.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/07/ukrainian-war-orphans-long-road-to-healing-we-don-t-talk-to-him-about-his-parents-death-we-wait-for-him-to-ask-questions_6774517_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-07T19:00:03Z",
+      "image": "https://img.lemde.fr/2026/10/15/495/0/4000/2000/644/322/60/0/df84f91_upload-1-h7xbrkcwlikg-raf-ukr-orphelins-007.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-b3534df0c874",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-07T17:09:24Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,34 +66,32 @@
       "tags": []
     },
     {
-      "id": "al -b7e1981b4884",
-      "title": "Sudan war and climate change see parents struggle to feed their children",
-      "description": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
-      "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+      "id": "al -93c9406c2b39",
+      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+      "description": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
+      "url": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-07T10:36:32Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/GettyImages-2221760288-1776674432.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-1129afa74846",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-06T23:24:15Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
+      "publishedAt": "2026-11-07T13:24:41Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Img-3-Volodymyr-1794035357.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-78cf16109511",
+      "title": "Yemen: 30 dead in strikes on Taiz market",
+      "description": "At least 30 people have reportedly been killed in an attack on a market in Yemen’s Taiz province, with Houthi rebels blaming Saudi airstrikes. Government forces and local authorities have disputed the claim, instead accusing the Houthis of indiscriminate fire. The province has witnessed intense clashes in recent weeks …",
+      "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
+      "source": "France24",
+      "publishedAt": "2026-11-07T09:37:16Z",
+      "image": "https://s.france24.com/media/display/9da14e8a-da8d-11f1-9c90-bf1914cabd52/w:1024/p:16x9/EN-20261107-090700-090851-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -100,17 +128,17 @@
       "tags": []
     },
     {
-      "id": "deu-15bef426e99d",
-      "title": "For people in Iran, a constant threat of war and dearth of information",
-      "description": "Most people in Iran have little idea of the course of the US-led war and peace talks on the global stage. With few sources of information, the population must navigate conflicting rumors and fears of a nuclear attack.",
-      "url": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-world-4025-rdf",
+      "id": "deu-d03d6293c14b",
+      "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
+      "description": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
+      "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
-      "publishedAt": "2026-11-06T12:56:00Z",
-      "image": "https://static.dw.com/image/79304836_6.jpg",
+      "publishedAt": "2026-11-06T14:00:00Z",
+      "image": "https://static.dw.com/image/75314141_6.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

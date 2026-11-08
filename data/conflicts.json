@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-08T11:51:32Z",
+  "updated": "2026-11-08T17:44:40Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-11-05T15:16:02Z",
+  "wikipediaListRevision": "2026-11-08T14:29:34Z",
   "items": [
     {
       "id": "ru-ua",
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-11-05",
       "wikipediaRevision": "2026-11-05T01:06:25Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 5
     },
     {
       "id": "il-ps",
@@ -46,7 +46,7 @@
       ],
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-11-08",
-      "wikipediaRevision": "2026-11-08T05:22:44Z",
+      "wikipediaRevision": "2026-11-08T14:31:24Z",
       "recentNewsCount": 0
     },
     {
@@ -111,7 +111,7 @@
       ],
       "wikipediaPage": "Yemeni_civil_war_(2014%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 1
     },
     {
       "id": "sy-war",
@@ -131,9 +131,9 @@
         "Post-transition"
       ],
       "wikipediaPage": "Syrian_civil_war",
-      "lastUpdate": "2026-11-07",
+      "lastUpdate": "2026-11-08",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-11-07T22:30:40Z",
+      "wikipediaRevision": "2026-11-08T15:22:29Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 2
     },
     {
       "id": "et-am",
@@ -428,7 +428,7 @@
       "wikipediaPage": "Red_Sea_crisis",
       "lastUpdate": "2026-10-04",
       "wikipediaRevision": "2026-10-04T22:38:20Z",
-      "recentNewsCount": 3
+      "recentNewsCount": 1
     },
     {
       "id": "wb-isr",

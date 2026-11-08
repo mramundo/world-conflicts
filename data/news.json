@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T17:44:30Z",
+  "updated": "2026-11-08T21:48:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-war-in-iran-leaves-sri-lanka-in-troubled-diplomatic-waters",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-08T17:44:26Z",
+      "publishedAt": "2026-11-08T21:48:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F8%2F8%2F13408827-1-eng-GB%2F32cd36ef1595-2026-03-22T033200Z_73828148_RC2YYJAWPVB6_RTRMADP_3_IRAN-CRISIS-SHIP-SRI-LANKA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,32 @@
       "tags": []
     },
     {
-      "id": "ans-7dfbad29902e",
-      "title": "Tajani, guerra ibrida colpisce sistema democratico, serve segnale forte G7",
-      "description": "",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/tajani-guerra-ibrida-colpisce-sistema-democratico-serve-segnale-forte-g7_d8b8fcb3-820a-4cf6-b3f3-f47cf34255d7.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-08T16:33:14Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/6/0278f60309d598f74af5d96b9bcd40b5.jpg",
+      "id": "al -cb8470831358",
+      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "description": "President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.",
+      "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-08T20:13:39Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae6036c4b0ab-1793459052.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-7a502057d006",
+      "title": "Aiea, ripristinata l'alimentazione elettrica alla centrale nucleare di Zaporizhzhia",
+      "description": "'Dopo blackout per causa ancora ignota'. 27esimo incidente dall'inizio della guerra",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/aiea-ripristinata-lalimentazione-elettrica-alla-centrale-nucleare-di-zaporizhzhia_d87fdf46-0849-4263-b4b8-c3804ae78874.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-08T19:35:27Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2024/9/4/e77110fc5a85a035584af3115af540e4.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,17 +67,18 @@
       "tags": []
     },
     {
-      "id": "al -78e746cd2202",
-      "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-      "description": "&#039;Terrorism&#039; investigation launched after government officials say suspect likely influenced by far-right ideology.",
-      "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-08T12:40:12Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261108__D6TX243__v1__HighRes__PolandShootingCrime-1794141846.jpg?resize=1920%2C1440",
+      "id": "le -6edf6d6ad23e",
+      "title": "Europe will be represented at US-mediated Ukraine talks in Abu Dhabi",
+      "description": "French Foreign Minister Jean-Noël Barrot said Europe will be represented in scheduled talks on Tuesday and Wednesday aimed at ending the war in Ukraine.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/08/europe-will-be-represented-at-us-mediated-ukraine-talks-in-abu-dhabi_6774979_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-08T13:12:08Z",
+      "image": "https://img.lemde.fr/2026/11/07/504/0/6048/3024/644/322/60/0/d21ec67_ftp-1-esnez8q75pi8-5531312-01-06.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,21 +94,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -55b5a89b204c",
-      "title": "Ukrainian war orphans' long road to healing: 'We don't talk to him about his parents' death. We wait for him to ask questions'",
-      "description": "Thousands of Ukrainian children, whose parents were killed in the war, have been cared for in public orphanages with a post-Soviet structure, by foster families, or by non-profit organizations that have tried to heal their psychological wounds.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/07/ukrainian-war-orphans-long-road-to-healing-we-don-t-talk-to-him-about-his-parents-death-we-wait-for-him-to-ask-questions_6774517_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-07T19:00:03Z",
-      "image": "https://img.lemde.fr/2026/10/15/495/0/4000/2000/644/322/60/0/df84f91_upload-1-h7xbrkcwlikg-raf-ukr-orphelins-007.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

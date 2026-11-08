@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T05:00:01Z",
+  "updated": "2026-11-08T11:51:24Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,11 +10,41 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-war-in-iran-leaves-sri-lanka-in-troubled-diplomatic-waters",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-08T04:59:57Z",
+      "publishedAt": "2026-11-08T11:51:22Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F8%2F8%2F13408827-1-eng-GB%2F32cd36ef1595-2026-03-22T033200Z_73828148_RC2YYJAWPVB6_RTRMADP_3_IRAN-CRISIS-SHIP-SRI-LANKA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c6008c18da39",
+      "title": "After rebel offensive, efforts to push them back appear to have stalled",
+      "description": "Saudi air power so far hasn&#039;t been enough for Yemen&#039;s government, and civilians are increasingly stuck in the middle",
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-08T10:28:08Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ThumbnailProject-Force-Wide-1794133620.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-682a9e6d201b",
+      "title": "Middle East live: Riyadh's financial district targeted following deadly Saudi strikes in Yemen",
+      "description": "Riyadh’s Aramco Tower was damaged by falling debris on Sunday after the Saudi-led coalition fighting Yemen’s Houthi rebels intercepted two ballistic missiles headed for the capital’s financial district. The attack comes a day after Saudi ​air strikes killed at least 33 people near Sanaa. Follow our liveblog for the lat…",
+      "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
+      "source": "France24",
+      "publishedAt": "2026-11-08T09:47:36Z",
+      "image": "https://s.france24.com/media/display/0e783f10-db4c-11f1-abfd-a575454bc579/w:1024/p:16x9/7f554331a6cdd64418e7973b0fb73c45bab02694.jpg",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
@@ -32,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -3ec4150b8fd4",
-      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-      "description": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-07T20:10:38Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794082208.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,33 +96,33 @@
       "tags": []
     },
     {
-      "id": "the-395b7d483495",
-      "title": "Court rules against Home Office in asylum seeker kidnapping case",
-      "description": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in LibyaThe court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims.The ruling means that many people who have been …",
-      "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+      "id": "deu-5093aacf1f39",
+      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "description": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
+      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-07T09:21:00Z",
+      "image": "https://static.dw.com/image/79883626_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-8acdf42e10a9",
+      "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+      "description": "The president’s announcement comes days after an earlier attack on Iran was made public, and as diplomatic efforts to end the conflict have acceleratedDonald Trump has said the US military on Friday carried out a new round of limited strikes on Iran, targeting an air defence system, describing the action as “minor.”Ira…",
+      "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
       "source": "The Guardian",
-      "publishedAt": "2026-11-07T13:00:11Z",
-      "image": "https://i.guim.co.uk/img/media/ba6b66a9237796408a3d132a0a8ce3e5749ed595/542_7_3957_3166/master/3957.jpg?width=140&quality=85&auto=format&fit=max&s=5f753c6febd18fcebb8421ebd0de0ddb",
+      "publishedAt": "2026-11-07T03:07:01Z",
+      "image": "https://i.guim.co.uk/img/media/25f4aae3e6af6bcaedf563ee3e0b174bd7a2de94/466_0_4645_3718/master/4645.jpg?width=140&quality=85&auto=format&fit=max&s=43a5ac1a97cd0bf0f1ee113a55feaeea",
       "categories": [
         "conflict",
         "humanitarian"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-78cf16109511",
-      "title": "Yemen: 30 dead in strikes on Taiz market",
-      "description": "At least 30 people have reportedly been killed in an attack on a market in Yemen’s Taiz province, with Houthi rebels blaming Saudi airstrikes. Government forces and local authorities have disputed the claim, instead accusing the Houthis of indiscriminate fire. The province has witnessed intense clashes in recent weeks …",
-      "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
-      "source": "France24",
-      "publishedAt": "2026-11-07T09:37:16Z",
-      "image": "https://s.france24.com/media/display/9da14e8a-da8d-11f1-9c90-bf1914cabd52/w:1024/p:16x9/EN-20261107-090700-090851-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -140,21 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-d03d6293c14b",
-      "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
-      "description": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
-      "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-06T14:00:00Z",
-      "image": "https://static.dw.com/image/75314141_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },

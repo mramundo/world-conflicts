@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-09T09:20:42Z",
+  "updated": "2026-11-09T20:30:12Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/business/fisheries/iran-war-and-ambiguous-fuel-pricing-squeeze-indian-fishermen",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-09T09:20:40Z",
+      "publishedAt": "2026-11-09T20:30:09Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F9%2F8%2F13408958-2-eng-GB%2F9ee3d52f9809-DSC01775.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,43 +20,90 @@
       "tags": []
     },
     {
-      "id": "fra-f74b5ea06ddd",
-      "title": "'We call it war-life balance': Daryna's daily struggle to live, survive in wartime Ukraine",
-      "description": "Daryna, 25, entered adulthood in a country at war. Since Russia’s full-scale invasion, her days have been shaped by air raid alerts, power outages and nights spent sheltering in the subway. Despite the uncertainty that shadows every day, she is determined to preserve a semblance of normal life in Kyiv. FRANCE 24 met a …",
-      "url": "https://www.france24.com/en/europe/20261109-we-call-it-war-life-balance-daryna-s-daily-struggle-to-live-survive-in-wartime-ukraine",
+      "id": "al -70d067f37c96",
+      "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+      "description": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-09T19:56:45Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/afp_69a081ca4b09-1772126666.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-40682cb77b54",
+      "title": "Komyshuvakha, Mariupol Theater Strikes To Serve as War Crimes Evidence",
+      "description": "Speaking during a UN Security Council meeting on Monday, Nov. 9, Ukraine’s Ambassador to the UN Andrii Melynk said Russia’s bombing of a school in Komyshuvakha and its 2022 strike on the Mariupol Drama Theater will be used as war crimes evidence against those who planned, ordered and carried out the attacks. In additio…",
+      "url": "https://www.kyivpost.com/post/89606",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-09T19:54:30Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/09/c6017e9deab4ba2d4e9d34dbcac98648.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-719bb566ef54",
+      "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+      "description": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across EuropeIranian hackers like to send a message.In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same ye…",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-09T19:40:45Z",
+      "image": "https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=2fcee9639e9c08f65c05bf3be321dc9f",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-ed1c71a21e19",
+      "title": "'Life in Gaza simply miserable': Amid flooding, lack of aid, conditions 'worsen' for Palestinians",
+      "description": "Erin Ogunkeye is pleased to welcome Shaina Low, Communication Adviser for the Norwegian Refugee Council (NRC). Thirteen months into what she describes as a \"so-called ceasefire,\" the humanitarian crisis in Gaza continues to deepen, exposing the profound gap between diplomatic commitments and the lived realities of Pale…",
+      "url": "https://www.france24.com/en/life-in-gaza-simply-miserable-amid-flooding-lack-of-aid-conditions-worsen-for-palestinians",
       "source": "France24",
-      "publishedAt": "2026-11-09T09:10:50Z",
-      "image": "https://s.france24.com/media/display/2684a786-d8fb-11f1-b43f-bf1914cabd52/w:1024/p:16x9/vlcsnap-2026-11-04-17h06m33s709.png",
+      "publishedAt": "2026-11-09T17:26:51Z",
+      "image": "https://s.france24.com/media/display/e3d3edca-dc60-11f1-8648-695cb59fade5/w:1024/p:16x9/EN-20261109-160607-161526-CS.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 11,
+      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "le -66eb7a40516f",
-      "title": "Krakow shooting suspect dies, says Polish police",
-      "description": "The alleged perpetrator of a deadly weekend shooting spree in Krakow has died, Polish police said on Monday, two days after he was critically wounded in a shootout with officers.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/09/krakow-shooting-suspect-dies-says-polish-police_6775639_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-09T08:41:25Z",
-      "image": "https://img.lemde.fr/2026/11/09/924/0/6000/3000/644/322/60/0/33623e8_ftp-1-vpzsvcezjmzv-2026-11-09t081519z-683499853-rc27koadk4yd-rtrmadp-3-poland-shooting.JPG",
+      "id": "the-c4a6e427f11b",
+      "title": "Zaporizhzhia Nuclear Plant Worker Killed in Drone Attack, IAEA Says",
+      "description": "An employee of the nearby Zaporizhzhia thermal power plant, a conventional fossil-fuel power station, was also killed by a drone on Monday, the IAEA said.",
+      "url": "https://www.themoscowtimes.com/2026/11/09/zaporizhzhia-nuclear-plant-worker-killed-in-drone-attack-iaea-says-a94213",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-09T16:05:03Z",
+      "image": "https://static.themoscowtimes.com/image/og/46/94213__46ce48cb92241f67263cdd34c939d4bf.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "ans-130d28354bdb",
-      "title": "Rubio, 'progressi sull'infrastruttura di sicurezza dopo la guerra in Ucraina'",
-      "description": "Ulteriori passi in avanti potrebbero verificarsi nei colloqui previsti ad Abu Dhabi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/rubio-progressi-sullinfrastruttura-di-sicurezza-dopo-la-guerra-in-ucraina_e62c1207-80dd-4433-9353-4ce466847947.html",
+      "id": "ans-05a6c1b70c72",
+      "title": "Von der Leyen, 'tema della sicurezza europea solo dopo cessate il fuoco in Ucraina'",
+      "description": "'E andrà discusso in formato appropriato con alleati di Nato e Ue'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/von-der-leyen-tema-della-sicurezza-europea-solo-dopo-cessate_5769f634-2049-41b2-bcfc-d814cdd8b00b.html",
       "source": "ANSA",
-      "publishedAt": "2026-11-09T08:37:57Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/6/e75741fd70741e969086c26e785ea63d.jpg",
+      "publishedAt": "2026-11-09T15:28:23Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/4/25f48eb91db0b6d79d3eb8d34f47fc75.jpg",
       "categories": [
         "conflict"
       ],
@@ -65,17 +112,48 @@
       "tags": []
     },
     {
-      "id": "al -597a3b496bcb",
-      "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
-      "description": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T07:07:26Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260907__C7JU7ZQ__v1__HighRes__IranUsIsraelWar-1794137200.jpg?resize=1920%2C1440",
+      "id": "le -8efb1c7c11ae",
+      "title": "The closure of 'Novaya Gazeta,' the end of a beacon for the 'other Russia'",
+      "description": "The newspaper founded by Nobel Peace Prize laureate Dmitry Muratov ceases to exist on Monday, November 9. Under Kremlin pressure, its journalists had managed to keep the paper afloat since the outset of the war in Ukraine in 2022.",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/09/the-closure-of-novaya-gazeta-the-end-of-a-beacon-for-the-other-russia_6775903_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-09T14:00:13Z",
+      "image": "https://img.lemde.fr/2026/11/06/654/0/7849/3924/644/322/60/0/1a62cf9_upload-1-y5xtcdmfaa2p-000-d2dv9zc.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "un -26f12835f322",
+      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+      "description": "The Security Council is meeting in New York on Ukraine. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply. The meeting comes on the eve of US-backed talks due to take place in Abu Dhabi. Follow our live meeting coverage below.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+      "source": "UN News",
+      "publishedAt": "2026-11-09T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-UNICEF-Ukraine-01.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-160d26aeef61",
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "description": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-09T10:41:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c7/live/fc845070-dc20-11f1-a701-fddedf244c16.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -95,82 +173,6 @@
       "tags": []
     },
     {
-      "id": "kyi-44f5c371d072",
-      "title": "Russia Suffers Record 16,130 Weekly Casualties, General Staff Says",
-      "description": "The General Staff of the Armed Forces of Ukraine has announced that Russian invading forces suffered a record 16,130 casualties between Nov. 1 and Nov. 7, marking the highest weekly loss rate since the start of the full-scale invasion in February 2022. The attrition rate averaged over 2,300 soldiers daily – the equival…",
-      "url": "https://www.kyivpost.com/post/89480",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-08T14:07:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/11/08/e18867b5c2ec5b5ae1b8cc53f487987e.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-5e7bb226ba94",
-      "title": "Official Data Shows 450,000 Russians Killed in War, Death Rate Accelerating – Rosstat Leaks",
-      "description": "The war in Ukraine has become the fourth most common cause of death in Russia since 2022, according to official statistics released by hackers.",
-      "url": "https://www.themoscowtimes.com/2026/11/08/official-data-shows-450000-russians-killed-in-war-death-rate-accelerating-leaks-a94200",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-11-07T23:32:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/fb/94200__fbf3fab978ca5d2014956ebba231f161.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-395b7d483495",
-      "title": "Court rules against Home Office in asylum seeker kidnapping case",
-      "description": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in LibyaThe court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims.The ruling means that many people who have been …",
-      "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-07T13:00:11Z",
-      "image": "https://i.guim.co.uk/img/media/ba6b66a9237796408a3d132a0a8ce3e5749ed595/542_7_3957_3166/master/3957.jpg?width=140&quality=85&auto=format&fit=max&s=5f753c6febd18fcebb8421ebd0de0ddb",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-5093aacf1f39",
-      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
-      "description": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
-      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-07T09:21:00Z",
-      "image": "https://static.dw.com/image/79883626_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-1129afa74846",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-06T23:24:15Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-4614fed92358",
       "title": "Ukraine Hopes Oleshky Can Serve As Model For Wider Truce, Delegation Says In DC",
       "description": "Ukraine hopes a temporary cease-fire that enabled humanitarian aid deliveries and civilian evacuations from the Russian-occupied city of Oleshky could serve as a model for wider de-escalation efforts, Ukrainian officials said on November 6.",
@@ -185,36 +187,6 @@
       ],
       "relevanceScore": 11,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -86a87f8612ac",
-      "title": "In southern Lebanon, caught between war and peace",
-      "description": "Despite a ceasefire deal reached earlier this year, the Israeli military still occupies a large swath of southern Lebanon.",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/1106/lebanon-israel-war-naqoura-hezbollah-unifil?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-11-06T19:17:16Z",
-      "image": "https://images.csmonitor.com/csm/2026/11/ZONAQUORA_LEDE_soldier.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -a62193ec19db",
-      "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-      "description": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Republic of the Congo, according to local sources&nbsp;cited by the UN aid coordination office (OCHA).",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168757",
-      "source": "UN News",
-      "publishedAt": "2026-11-06T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2025-UNICEF-DR-Congo-01.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     }
   ]

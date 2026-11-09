@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-08T21:48:49Z",
+  "updated": "2026-11-09T01:29:50Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-war-in-iran-leaves-sri-lanka-in-troubled-diplomatic-waters",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-08T21:48:45Z",
+      "publishedAt": "2026-11-09T01:29:45Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F8%2F8%2F13408827-1-eng-GB%2F32cd36ef1595-2026-03-22T033200Z_73828148_RC2YYJAWPVB6_RTRMADP_3_IRAN-CRISIS-SHIP-SRI-LANKA.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,13 +21,13 @@
       "tags": []
     },
     {
-      "id": "al -cb8470831358",
-      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-      "description": "President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.",
-      "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "id": "al -1dd415ded767",
+      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+      "description": "More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-08T20:13:39Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae6036c4b0ab-1793459052.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-09T00:00:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261108__D6TR9DC__v1__HighRes__IranWeatherDailyLife-1794183698.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -36,17 +36,32 @@
       "tags": []
     },
     {
-      "id": "ans-7a502057d006",
-      "title": "Aiea, ripristinata l'alimentazione elettrica alla centrale nucleare di Zaporizhzhia",
-      "description": "'Dopo blackout per causa ancora ignota'. 27esimo incidente dall'inizio della guerra",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/aiea-ripristinata-lalimentazione-elettrica-alla-centrale-nucleare-di-zaporizhzhia_d87fdf46-0849-4263-b4b8-c3804ae78874.html",
+      "id": "ans-130d28354bdb",
+      "title": "Rubio, 'progressi sull'infrastruttura di sicurezza dopo la guerra in Ucraina'",
+      "description": "Ulteriori passi in avanti potrebbero verificarsi nei colloqui previsti ad Abu Dhabi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/rubio-progressi-sullinfrastruttura-di-sicurezza-dopo-la-guerra-in-ucraina_e62c1207-80dd-4433-9353-4ce466847947.html",
       "source": "ANSA",
-      "publishedAt": "2026-11-08T19:35:27Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2024/9/4/e77110fc5a85a035584af3115af540e4.jpg",
+      "publishedAt": "2026-11-08T23:12:00Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/6/e75741fd70741e969086c26e785ea63d.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-726014e34080",
+      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+      "description": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+      "source": "NPR World",
+      "publishedAt": "2026-11-08T22:04:13Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6030670",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -83,21 +98,6 @@
       "tags": []
     },
     {
-      "id": "bbc-b3534df0c874",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-08T04:03:12Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-395b7d483495",
       "title": "Court rules against Home Office in asylum seeker kidnapping case",
       "description": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in LibyaThe court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims.The ruling means that many people who have been …",
@@ -125,6 +125,21 @@
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-1129afa74846",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-06T23:24:15Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },

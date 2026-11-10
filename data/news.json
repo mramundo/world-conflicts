@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T03:16:24Z",
+  "updated": "2026-11-10T12:16:14Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/india-forms-commando-units-for-close-combat-along-china-border",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-10T03:16:20Z",
+      "publishedAt": "2026-11-10T12:16:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F5%2F8%2F9%2F13419850-1-eng-GB%2F0c55edcb83d9-2026-02-21T153207Z_1727387167_RC2CQJAJ150P_RTRMADP_3_INDIA-CRPF.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,23 +20,146 @@
       "tags": []
     },
     {
-      "id": "al -a04fd7adeba6",
-      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
-      "description": "Zelenskyy claims Russia &#039;suffering record losses&#039; as Trump says US seeing &#039;strong inclination&#039; to end war in Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-10T02:45:14Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af26ebf-1794272959.jpg?resize=1920%2C1440",
+      "id": "fra-2c0f3e61a0ec",
+      "title": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
+      "description": "Three-way talks between Russia, Ukraine and the United States opened Tuesday in the United Arab Emirates, as Washington made a renewed push to end the war that followed Moscow's invasion of its neighbour nearly five years ago. As these two days of talks in Abu Dhabi get underway, the negotiators that each country has c…",
+      "url": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
+      "source": "France24",
+      "publishedAt": "2026-11-10T11:45:29Z",
+      "image": "https://s.france24.com/media/display/ebe437c2-dcfb-11f1-bf82-695cb59fade5/w:1024/p:16x9/EN-20261110-120140-120634-CS.jpg",
       "categories": [
         "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-799d3791f46a",
+      "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+      "description": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and EuropeEurope live – latest updatesUS officials have said they are seeking a “final end” to the war between Russia and Ukraine, beginning with trilateral talks in Abu Dhabi on Tuesday, the first s…",
+      "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-10T11:23:34Z",
+      "image": "https://i.guim.co.uk/img/media/83dc5bf0e0260881e9cd595c706a20cd0b0a8604/761_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=c7b5181f4b6713c17b9829e20be81363",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -b3db0f2551ca",
+      "title": "Expectations low as US gives Ukraine peace talks another try",
+      "description": "Although a new round of U.S.-led talks are getting underway to end the war in Ukraine, observers say that prospects for resolution remain unlikely.",
+      "url": "https://www.csmonitor.com/USA/Foreign-Policy/2026/1110/ukraine-peace-talks-us-russia-abu-dhabi-uae-donetsk?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-11-10T10:00:23Z",
+      "image": "https://images.csmonitor.com/csm/2026/11/1110_OUKRAINEPEACE_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-375c2c22806b",
+      "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
+      "description": "President Trump's top envoy is in Abu Dhabi with negotiators from Russia and Ukraine to resume peace talks.",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
+      "source": "NPR World",
+      "publishedAt": "2026-11-10T09:38:34Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6034616",
+      "categories": [
+        "conflict",
+        "humanitarian"
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
     {
+      "id": "bbc-b017595f99ca",
+      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "description": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+      "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-10T08:39:05Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1460/live/8ec95eb0-dce1-11f1-a8e1-e3454837ffc6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-0d6e22317f15",
+      "title": "Russia and Ukraine Begin New Round of U.S.-Mediated Peace Talks in Abu Dhabi",
+      "description": "Delegates from Russia and Ukraine last met in February, though negotiations were paused following the outbreak of the U.S.-Israel war against Iran.",
+      "url": "https://www.themoscowtimes.com/2026/11/10/russia-and-ukraine-begin-new-round-of-us-mediated-peace-talks-in-abu-dhabi-a94216",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-10T08:35:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/5f/94216__5fff84383a30541c85e7606b0ec48b36.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -f89056e944b2",
+      "title": "France vows tough response to freezer cyberattack blamed on Iran",
+      "description": "French Foreign Minister Jean-Noël Barrot said Paris ruled out 'nothing' in response to the first such large-scale cyber sabotage on French territory. He added that Iran's ambassador would be summoned and European-level sanctions would be sought.",
+      "url": "https://www.lemonde.fr/en/france/article/2026/11/10/france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran_6776728_7.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-10T08:14:09Z",
+      "image": "https://img.lemde.fr/2026/10/29/371/0/3887/1943/644/322/60/0/160c03c_ftp-1-sumqtrzqf1kz-2026-10-29t100207z-516781066-rc282oauzcll-rtrmadp-3-usa-military-freezers.JPG",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-fcd02295cc3f",
+      "title": "Promised a Job in Moscow, Forced to Fight in Ukraine",
+      "description": "They left Bangladesh hoping for a better life. Some were promised construction jobs in Russia. Others were offered opportunities to study. Instead, they found themselves on the front lines of Russia’s war against Ukraine. At least 20 Bangladeshi nationals have died fighting for Russian forces. Most were not trained sol…",
+      "url": "https://www.rferl.org/a/russia-recruiting-foreign-fighters-scheme/33892476.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-11-10T07:45:03Z",
+      "image": "https://gdb.rferl.org/da0c5ce4-cec2-43b7-2be6-08df3eea91f6_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -df306a5985c9",
+      "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
+      "description": "Drone strike disrupts electricity supply in Iraq&#039;s semi-autonomous Kurdish region, renewing concerns about armed groups.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-10T06:22:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-09T040202Z_1147072794_RC23KOA7BB6Y_RTRMADP_3_IRAN-CRISIS-IRAQ-KHOR-MOR-1-1794301916.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "kyi-d13cf19be522",
-      "title": "Trump Hails Abu Dhabi Peace Talks, Brushes Off Question on Putin Ignoring Ceasefire Demands",
+      "title": "Trump Hails Peace Talks, Brushes Off Putin Ignoring Ceasefire Demands",
       "description": "US President Donald Trump expressed optimism about negotiations between Ukraine and Russia in Abu Dhabi, saying both sides appeared increasingly willing to end the war. However, during a surprise White House press conference, he dismissed a reporter’s question about Russian President Vladimir Putin repeatedly ignoring …",
       "url": "https://www.kyivpost.com/post/89616",
       "source": "Kyiv Post",
@@ -46,21 +169,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-c32ad64abc81",
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "description": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
-      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-10T00:08:28Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -76,83 +184,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -d68049ba9894",
-      "title": "Ukraine war: 400,000 Russian deaths, the toll Vladimir Putin tried to hide",
-      "description": "Belarusian and Ukrainian hackers managed to infiltrate the computers of Rosstat, Russia's official statistics agency. The figures they uncovered, published by Bloomberg, are based on death certificates linked to the 'special military operation' – the official Russian term for the war in Ukraine. The tally underreports …",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/10/the-death-toll-putin-has-tried-to-hide-nearly-400-000-russians-killed-in-the-ukraine-war_6776332_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-09T23:27:03Z",
-      "image": "https://img.lemde.fr/2026/11/09/1181/597/3994/1997/644/322/60/0/42ca6c4_upload-1-asi8g7koph3d-2025-09-12t121350z-1412449370-rc28qga4p9gt-rtrmadp-3-ukraine-crisis-russia-monument.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-c4a15de1ee79",
-      "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
-      "description": "Negotiators from Ukraine, Russia and the United States are set to meet in the capital of the United Arab Emirates (UAE) on Tuesday for a new round of talks aimed at ending nearly five years of full-scale war triggered by Moscow's invasion of its neighbour. Security guarantees for the warring sides are set to top the ag…",
-      "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
-      "source": "France24",
-      "publishedAt": "2026-11-09T21:46:23Z",
-      "image": "https://s.france24.com/media/display/8e77aaca-dc82-11f1-9693-a575454bc579/w:1024/p:16x9/2026-11-05T090059Z-1254041086-RC26DNA29012-RTRMADP-3-UKRAINE-CRISIS-USA-RUSSIA.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "cs -340979733cec",
-      "title": "US midterms open door to Iran diplomacy. Can a deal be struck?",
-      "description": "Intermediaries seeking to capitalize on the anti-war sentiment evident in the U.S. midterms are pushing for a deal to end the Iran war. Could an emboldened Iran or impatient U.S. reignite the conflict?",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/1109/iran-war-diplomacy-trump-qatar-midterms?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-11-09T21:38:55Z",
-      "image": "https://images.csmonitor.com/csm/2026/11/1109_OQATARIRAN_lede.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-719bb566ef54",
-      "title": "Cyber-attack on French supermarket freezers has geopolitical context",
-      "description": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across EuropeIranian hackers like to send a message.In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same ye…",
-      "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-09T19:40:45Z",
-      "image": "https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=2fcee9639e9c08f65c05bf3be321dc9f",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-c4a6e427f11b",
-      "title": "Zaporizhzhia Nuclear Plant Worker Killed in Drone Attack, IAEA Says",
-      "description": "An employee of the nearby Zaporizhzhia thermal power plant, a conventional fossil-fuel power station, was also killed by a drone on Monday, the IAEA said.",
-      "url": "https://www.themoscowtimes.com/2026/11/09/zaporizhzhia-nuclear-plant-worker-killed-in-drone-attack-iaea-says-a94213",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-11-09T16:05:03Z",
-      "image": "https://static.themoscowtimes.com/image/og/46/94213__46ce48cb92241f67263cdd34c939d4bf.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -183,37 +214,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-10c4c8ebe09e",
-      "title": "Ukrainian Drone Strike Sets Russia's Second-Largest Oil Refinery Ablaze",
-      "description": "A Ukrainian drone attack sparked a fire at Russia's second-largest oil refinery in Kirishi, near St. Petersburg, on November 9, according to Leningrad regional Governor Aleksandr Drozdenko. The governor said the fire had been contained and that a woman was killed by falling drone debris. The refinery, which processes u…",
-      "url": "https://www.rferl.org/a/rusian-refinery-hit-by-ukraine-drones/33893740.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-11-09T10:25:30Z",
-      "image": "https://gdb.rferl.org/c1fc750a-5c77-41b4-4abc-08df13a884cb_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "npr-726014e34080",
-      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
-      "description": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
-      "source": "NPR World",
-      "publishedAt": "2026-11-08T22:04:13Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6030670",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     }

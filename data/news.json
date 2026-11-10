@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-09T20:30:12Z",
+  "updated": "2026-11-10T03:16:24Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-ad62df36f4e5",
-      "title": "Iran war and ambiguous fuel pricing squeeze Indian fishermen",
+      "id": "nik-240b5d5e48a1",
+      "title": "India forms commando units for close combat along China border",
       "description": "",
-      "url": "https://asia.nikkei.com/business/fisheries/iran-war-and-ambiguous-fuel-pricing-squeeze-indian-fishermen",
+      "url": "https://asia.nikkei.com/politics/defense/india-forms-commando-units-for-close-combat-along-china-border",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-09T20:30:09Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F9%2F8%2F13408958-2-eng-GB%2F9ee3d52f9809-DSC01775.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-11-10T03:16:20Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F5%2F8%2F9%2F13419850-1-eng-GB%2F0c55edcb83d9-2026-02-21T153207Z_1727387167_RC2CQJAJ150P_RTRMADP_3_INDIA-CRPF.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
@@ -20,13 +20,73 @@
       "tags": []
     },
     {
-      "id": "al -70d067f37c96",
-      "title": "South Africa detains foreigners suspected of heading to join Russian forces",
-      "description": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+      "id": "al -a04fd7adeba6",
+      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+      "description": "Zelenskyy claims Russia &#039;suffering record losses&#039; as Trump says US seeing &#039;strong inclination&#039; to end war in Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-09T19:56:45Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/afp_69a081ca4b09-1772126666.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-10T02:45:14Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af26ebf-1794272959.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-d13cf19be522",
+      "title": "Trump Hails Abu Dhabi Peace Talks, Brushes Off Question on Putin Ignoring Ceasefire Demands",
+      "description": "US President Donald Trump expressed optimism about negotiations between Ukraine and Russia in Abu Dhabi, saying both sides appeared increasingly willing to end the war. However, during a surprise White House press conference, he dismissed a reporter’s question about Russian President Vladimir Putin repeatedly ignoring …",
+      "url": "https://www.kyivpost.com/post/89616",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-10T01:59:01Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/10/59ed9be378c83cbd0e34f3fa05d143a0.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-c32ad64abc81",
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "description": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-10T00:08:28Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-a42178199a19",
+      "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+      "description": "Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.",
+      "url": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-09T23:46:00Z",
+      "image": "https://static.dw.com/image/79644123_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -d68049ba9894",
+      "title": "Ukraine war: 400,000 Russian deaths, the toll Vladimir Putin tried to hide",
+      "description": "Belarusian and Ukrainian hackers managed to infiltrate the computers of Rosstat, Russia's official statistics agency. The figures they uncovered, published by Bloomberg, are based on death certificates linked to the 'special military operation' – the official Russian term for the war in Ukraine. The tally underreports …",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/10/the-death-toll-putin-has-tried-to-hide-nearly-400-000-russians-killed-in-the-ukraine-war_6776332_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-09T23:27:03Z",
+      "image": "https://img.lemde.fr/2026/11/09/1181/597/3994/1997/644/322/60/0/42ca6c4_upload-1-asi8g7koph3d-2025-09-12t121350z-1412449370-rc28qga4p9gt-rtrmadp-3-ukraine-crisis-russia-monument.JPG",
       "categories": [
         "conflict"
       ],
@@ -35,18 +95,34 @@
       "tags": []
     },
     {
-      "id": "kyi-40682cb77b54",
-      "title": "Komyshuvakha, Mariupol Theater Strikes To Serve as War Crimes Evidence",
-      "description": "Speaking during a UN Security Council meeting on Monday, Nov. 9, Ukraine’s Ambassador to the UN Andrii Melynk said Russia’s bombing of a school in Komyshuvakha and its 2022 strike on the Mariupol Drama Theater will be used as war crimes evidence against those who planned, ordered and carried out the attacks. In additio…",
-      "url": "https://www.kyivpost.com/post/89606",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-09T19:54:30Z",
-      "image": "https://static.kyivpost.com/storage/2026/11/09/c6017e9deab4ba2d4e9d34dbcac98648.jpg?w=640&q=90&f=jpg",
+      "id": "fra-c4a15de1ee79",
+      "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
+      "description": "Negotiators from Ukraine, Russia and the United States are set to meet in the capital of the United Arab Emirates (UAE) on Tuesday for a new round of talks aimed at ending nearly five years of full-scale war triggered by Moscow's invasion of its neighbour. Security guarantees for the warring sides are set to top the ag…",
+      "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
+      "source": "France24",
+      "publishedAt": "2026-11-09T21:46:23Z",
+      "image": "https://s.france24.com/media/display/8e77aaca-dc82-11f1-9693-a575454bc579/w:1024/p:16x9/2026-11-05T090059Z-1254041086-RC26DNA29012-RTRMADP-3-UKRAINE-CRISIS-USA-RUSSIA.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "cs -340979733cec",
+      "title": "US midterms open door to Iran diplomacy. Can a deal be struck?",
+      "description": "Intermediaries seeking to capitalize on the anti-war sentiment evident in the U.S. midterms are pushing for a deal to end the Iran war. Could an emboldened Iran or impatient U.S. reignite the conflict?",
+      "url": "https://www.csmonitor.com/World/Middle-East/2026/1109/iran-war-diplomacy-trump-qatar-midterms?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-11-09T21:38:55Z",
+      "image": "https://images.csmonitor.com/csm/2026/11/1109_OQATARIRAN_lede.jpg?alias=standard_900x600",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 12,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -62,22 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-ed1c71a21e19",
-      "title": "'Life in Gaza simply miserable': Amid flooding, lack of aid, conditions 'worsen' for Palestinians",
-      "description": "Erin Ogunkeye is pleased to welcome Shaina Low, Communication Adviser for the Norwegian Refugee Council (NRC). Thirteen months into what she describes as a \"so-called ceasefire,\" the humanitarian crisis in Gaza continues to deepen, exposing the profound gap between diplomatic commitments and the lived realities of Pale…",
-      "url": "https://www.france24.com/en/life-in-gaza-simply-miserable-amid-flooding-lack-of-aid-conditions-worsen-for-palestinians",
-      "source": "France24",
-      "publishedAt": "2026-11-09T17:26:51Z",
-      "image": "https://s.france24.com/media/display/e3d3edca-dc60-11f1-8648-695cb59fade5/w:1024/p:16x9/EN-20261109-160607-161526-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -112,25 +172,9 @@
       "tags": []
     },
     {
-      "id": "le -8efb1c7c11ae",
-      "title": "The closure of 'Novaya Gazeta,' the end of a beacon for the 'other Russia'",
-      "description": "The newspaper founded by Nobel Peace Prize laureate Dmitry Muratov ceases to exist on Monday, November 9. Under Kremlin pressure, its journalists had managed to keep the paper afloat since the outset of the war in Ukraine in 2022.",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/09/the-closure-of-novaya-gazeta-the-end-of-a-beacon-for-the-other-russia_6775903_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-09T14:00:13Z",
-      "image": "https://img.lemde.fr/2026/11/06/654/0/7849/3924/644/322/60/0/1a62cf9_upload-1-y5xtcdmfaa2p-000-d2dv9zc.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "un -26f12835f322",
       "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
-      "description": "The Security Council is meeting in New York on Ukraine. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply. The meeting comes on the eve of US-backed talks due to take place in Abu Dhabi. Follow our live meeting coverage below.",
+      "description": "The Security Council met in New York on Ukraine Monday. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply. The meeting comes on the eve of US-backed talks due to take place in Abu Dhabi. Follow our live meeting coverage below.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168761",
       "source": "UN News",
       "publishedAt": "2026-11-09T12:00:00Z",
@@ -143,18 +187,19 @@
       "tags": []
     },
     {
-      "id": "bbc-160d26aeef61",
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "description": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-09T10:41:57Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c7/live/fc845070-dc20-11f1-a701-fddedf244c16.jpg",
+      "id": "rfe-10c4c8ebe09e",
+      "title": "Ukrainian Drone Strike Sets Russia's Second-Largest Oil Refinery Ablaze",
+      "description": "A Ukrainian drone attack sparked a fire at Russia's second-largest oil refinery in Kirishi, near St. Petersburg, on November 9, according to Leningrad regional Governor Aleksandr Drozdenko. The governor said the fire had been contained and that a woman was killed by falling drone debris. The refinery, which processes u…",
+      "url": "https://www.rferl.org/a/rusian-refinery-hit-by-ukraine-drones/33893740.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-11-09T10:25:30Z",
+      "image": "https://gdb.rferl.org/c1fc750a-5c77-41b4-4abc-08df13a884cb_tv_w800_h450.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
+      "relevanceScore": 9,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -170,23 +215,6 @@
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-4614fed92358",
-      "title": "Ukraine Hopes Oleshky Can Serve As Model For Wider Truce, Delegation Says In DC",
-      "description": "Ukraine hopes a temporary cease-fire that enabled humanitarian aid deliveries and civilian evacuations from the Russian-occupied city of Oleshky could serve as a model for wider de-escalation efforts, Ukrainian officials said on November 6.",
-      "url": "https://www.rferl.org/a/ukraine-oleshky-lubinets-melania-trump-ceasefire/33892549.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-11-06T21:15:45Z",
-      "image": "https://gdb.rferl.org/d03d23c4-09d3-4e61-b249-430987158610_cx0_cy2_cw97_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
       "tags": []
     }
   ]

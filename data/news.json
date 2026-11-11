@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:18:42Z",
+  "updated": "2026-11-11T01:05:22Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,42 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/india-forms-commando-units-for-close-combat-along-china-border",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-10T20:18:40Z",
+      "publishedAt": "2026-11-11T01:05:18Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F5%2F8%2F9%2F13419850-1-eng-GB%2F0c55edcb83d9-2026-02-21T153207Z_1727387167_RC2CQJAJ150P_RTRMADP_3_INDIA-CRPF.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -f19028c7366b",
+      "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+      "description": "Relations between Moscow and Chisinau have worsened since Russia&#039;s full-scale invasion of Ukraine in 2022.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-10T22:41:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251202__86U23WE__v1__MidRes__RussiaUkraineConflictUs-1764818605.jpg?resize=1200%2C630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-6c22ff3622d0",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-10T21:21:55Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,21 +82,6 @@
       "tags": []
     },
     {
-      "id": "bbc-6c22ff3622d0",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-10T17:29:36Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-bf15bf06a44a",
       "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
       "description": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrow as Zelenskyy says humanitarian issues were discussedUS officials seek ‘final end’ to Russia-Ukraine war as talks beginThe EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a spate of…",
@@ -83,17 +98,18 @@
       "tags": []
     },
     {
-      "id": "al -9f595a95456e",
-      "title": "Father, child among eight Palestinians killed in Israeli attacks on Gaza",
-      "description": "Israel has killed more than 1,600 people in Gaza since last year&#039;s &#039;ceasefire&#039;, the enclave&#039;s Health Ministry says.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-10T15:49:36Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af33128b29b3-1794322728.jpg?resize=1920%2C1440",
+      "id": "fra-0cc1b01e9ec6",
+      "title": "G7 talks in Paris try to tackle global crises with uncertainty high over US approach",
+      "description": "Top diplomats from the Group of Seven industrialized democracies gathered in Paris on Monday with clear differences on global crises and questions about how U.S. President Donald Trump will approach foreign policy after his Republican Party’s heavy losses in the midterm elections. Whether on the Russia-Ukraine war, Ira…",
+      "url": "https://www.france24.com/en/video/20261110-g7-talks-in-paris-try-to-tackle-global-crises-with-uncertainty-high-over-us-approach",
+      "source": "France24",
+      "publishedAt": "2026-11-10T16:12:17Z",
+      "image": "https://s.france24.com/media/display/2145c3ae-dd1f-11f1-8441-695cb59fade5/w:1024/p:16x9/EN-20261110-150226-150751-CS.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -125,21 +141,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-2c0f3e61a0ec",
-      "title": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
-      "description": "Three-way talks between Russia, Ukraine and the United States opened Tuesday in the United Arab Emirates, as Washington made a renewed push to end the war that followed Moscow's invasion of its neighbour nearly five years ago. As these two days of talks in Abu Dhabi get underway, the negotiators that each country has c…",
-      "url": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
-      "source": "France24",
-      "publishedAt": "2026-11-10T11:45:29Z",
-      "image": "https://s.france24.com/media/display/ebe437c2-dcfb-11f1-bf82-695cb59fade5/w:1024/p:16x9/EN-20261110-120140-120634-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T01:05:22Z",
+  "updated": "2026-11-11T08:58:41Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/india-forms-commando-units-for-close-combat-along-china-border",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-11T01:05:18Z",
+      "publishedAt": "2026-11-11T08:58:37Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F5%2F8%2F9%2F13419850-1-eng-GB%2F0c55edcb83d9-2026-02-21T153207Z_1727387167_RC2CQJAJ150P_RTRMADP_3_INDIA-CRPF.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,28 +20,59 @@
       "tags": []
     },
     {
-      "id": "al -f19028c7366b",
-      "title": "Russia expels Moldovan diplomat in tit-for-tat move",
-      "description": "Relations between Moscow and Chisinau have worsened since Russia&#039;s full-scale invasion of Ukraine in 2022.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-10T22:41:07Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251202__86U23WE__v1__MidRes__RussiaUkraineConflictUs-1764818605.jpg?resize=1200%2C630",
+      "id": "the-adef82c37668",
+      "title": "Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live",
+      "description": "Ukraine president welcomes a change in message from US mediators ahead of day two of trilateral talks with Russia and US in Abu DhabiUS officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue … and just like that, the second day of the Abu Dhabi talks has just got under way, according to to…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-11T08:44:46Z",
+      "image": "https://i.guim.co.uk/img/media/b47f5b5a8987f90d8391829d14e309dddde388a1/320_0_3195_2556/master/3195.jpg?width=140&quality=85&auto=format&fit=max&s=acae4844f6171b647547d91c900186bd",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "bbc-6c22ff3622d0",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "id": "al -753a39da89f0",
+      "title": "How are Pakistan’s imports from India growing again despite tensions?",
+      "description": "Formally, they&#039;re not trading at all. But Pakistan&#039;s imports from India are back to pre-war levels. Is a thaw next?",
+      "url": "https://www.aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-11T08:30:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2011-11-04T120000Z_117058039_GM1E7B41J7D01_RTRMADP_3_PAKISTAN-INDIA-TRADE-1794314842.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -4ef033006bfb",
+      "title": "From Verdun to Kyiv, a century of war medicine for repairing disfigured soldiers",
+      "description": "The disfigured faces and amputated bodies of soldiers wounded in Ukraine are a stark reminder of the countless men mutilated in World War I. To treat the unprecedented injuries inflicted on the soldiers by shells, doctors improvised using rudimentary tools and the skilled hands of a handful of pioneering physicians.",
+      "url": "https://www.lemonde.fr/en/history/article/2026/11/11/from-verdun-to-kyiv-a-century-of-war-medicine-for-repairing-disfigured-soldiers_6777454_157.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-11T04:00:00Z",
+      "image": "https://img.lemde.fr/2026/11/06/443/0/2953/1476/644/322/60/0/4135536_upload-1-qhlmlrmjvpyw-2026-10-13-heg-gueules-cassees-0049.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-9a43c86cef7e",
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "description": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-11-10T21:21:55Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-11T02:47:59Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/3f67c570-dd7a-11f1-ad5a-4712ee7e64fd.png",
       "categories": [
         "conflict"
       ],
@@ -50,18 +81,17 @@
       "tags": []
     },
     {
-      "id": "le -47aafd157b7f",
-      "title": "The grain war between Ukraine and Russia",
-      "description": "Since the start of the war in Ukraine, maritime blockades, looting and attacks on cargo ships have multiplied. Russia has turned grain into a tool of diplomatic pressure. The battle has disrupted supply chains and undermined global food security.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/10/the-grain-war-between-ukraine-and-russia_6777058_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-10T19:00:09Z",
-      "image": "https://img.lemde.fr/2026/11/05/493/0/5255/2627/644/322/60/0/8434874_upload-1-1kaoztlltdnm-2025-07-09t170812z-1590360850-rc2vifan72m6-rtrmadp-3-ukraine-crisis-grain.JPG",
+      "id": "fra-0237c9981122",
+      "title": "Haiti's PM praises Bukele after Salvadoran troops help destroy gang headquarters",
+      "description": "Haitian Prime Minister Alix Didier Fils-Aimé praised Salvadoran President Nayib Bukele on Tuesday after Salvadoran troops aided in the destruction a suspected gang leader’s home near Port-au-Prince. Bukele’s deployment of more than 2,000 soldiers following four Salvadoran troops’ disappearance has raised concerns over …",
+      "url": "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters",
+      "source": "France24",
+      "publishedAt": "2026-11-11T01:41:43Z",
+      "image": "https://s.france24.com/media/display/f6b96226-dd6e-11f1-8550-f71d22e7fea9/w:1024/p:16x9/AP26304751949491.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -78,38 +108,6 @@
         "humanitarian"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-bf15bf06a44a",
-      "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
-      "description": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrow as Zelenskyy says humanitarian issues were discussedUS officials seek ‘final end’ to Russia-Ukraine war as talks beginThe EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a spate of…",
-      "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-10T17:05:05Z",
-      "image": "https://i.guim.co.uk/img/media/774a5dca29c43ddae2d2e6ed0635d0a715d82ac7/1079_0_6831_5465/master/6831.jpg?width=140&quality=85&auto=format&fit=max&s=e1904a594d92d353ff19e93d910d9cb6",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-0cc1b01e9ec6",
-      "title": "G7 talks in Paris try to tackle global crises with uncertainty high over US approach",
-      "description": "Top diplomats from the Group of Seven industrialized democracies gathered in Paris on Monday with clear differences on global crises and questions about how U.S. President Donald Trump will approach foreign policy after his Republican Party’s heavy losses in the midterm elections. Whether on the Russia-Ukraine war, Ira…",
-      "url": "https://www.france24.com/en/video/20261110-g7-talks-in-paris-try-to-tackle-global-crises-with-uncertainty-high-over-us-approach",
-      "source": "France24",
-      "publishedAt": "2026-11-10T16:12:17Z",
-      "image": "https://s.france24.com/media/display/2145c3ae-dd1f-11f1-8441-695cb59fade5/w:1024/p:16x9/EN-20261110-150226-150751-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },

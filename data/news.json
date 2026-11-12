@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-11T17:01:39Z",
+  "updated": "2026-11-12T00:12:23Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/india-forms-commando-units-for-close-combat-along-china-border",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-11T17:01:36Z",
+      "publishedAt": "2026-11-12T00:12:19Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F5%2F8%2F9%2F13419850-1-eng-GB%2F0c55edcb83d9-2026-02-21T153207Z_1727387167_RC2CQJAJ150P_RTRMADP_3_INDIA-CRPF.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,43 +20,57 @@
       "tags": []
     },
     {
-      "id": "al -56a7ce14571d",
-      "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
-      "description": "The government is defiant and planning for the worst, but a US siege is expected to make most Iranians poorer.",
-      "url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-11T15:40:17Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af467940c-1794402196.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-92d201c11859",
-      "title": "Exclusive: EU's Kallas says US 'can't negotiate on our behalf' on lifting Russia sanctions",
-      "description": "In an exclusive interview with FRANCE 24, the EU's top diplomat Kaja Kallas discusses the war in Ukraine, the situation in the Middle East and a possible change in US President Donald Trump's foreign policy following the US midterm elections. The former Estonian prime minister, who is now the European Union's High Repr…",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261111-exclusive-eu-s-kallas-says-us-can-t-negotiate-on-our-behalf-on-lifting-russia-sanctions",
+      "id": "fra-cdd0a525b9bc",
+      "title": "Russia and Ukraine agree to major prisoner swap as peace talks end",
+      "description": "Kyiv and Moscow on Wednesday agreed to a large-scale prisoner exchange as the final day of peace talks in Abu Dhabi came to an end, though neither side gave a concrete figure. US envoys Steve Witkoff and Jared Kushner will meet separately with Russian President Vladimir Putin and his Ukrainian counterpart Volodymyr Zel…",
+      "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
       "source": "France24",
-      "publishedAt": "2026-11-11T15:15:40Z",
-      "image": "https://s.france24.com/media/display/f35d22fe-dd08-11f1-828d-5f54d898a954/w:1024/p:16x9/PHOTO-KAJA-KALLAS.png",
+      "publishedAt": "2026-11-11T21:46:12Z",
+      "image": "https://s.france24.com/media/display/ac4aeb04-de15-11f1-876f-3f371022a770/w:1024/p:16x9/2026-11-11T121539Z-1035325634-RC2OLOA6XBUN-RTRMADP-3-UKRAINE-CRISIS-TALKS.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -bf2ebd214a82",
+      "title": "Gaza goalkeeper killed in Israeli attack",
+      "description": "Palestinian footballer Mahmoud Abdel-Malek was killed in an Israeli strike days after the Thousand Martyrs Cup.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-11T20:44:34Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794429857.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-24e0fbaf8e21",
+      "title": "Wsj, 'Vance valuta colloqui faccia a faccia con il falco iraniano Rezaei'",
+      "description": "'L'obiettivo è porre fine a una guerra considerata un peso per i repubblicani'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/11/wsj-vance-valuta-colloqui-faccia-a-faccia-con-il-falco-iraniano-rezaei_277bf23c-fbbb-4f2b-a496-f8a9fcfdaa9c.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-11T19:48:45Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/135bc832ac4b0c08cea578e2eaafcc16.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
     {
       "id": "le -f6478b1a4e4e",
-      "title": "Armistice Day: Macron presides over commemoration ceremony for the last time",
-      "description": "In the morning, French President Emmanuel Macron took part in the traditional wreath-laying ceremony, a tribute to the Unknown Soldier and rekindled the flame beneath the Arc de Triomphe. A commemoration was also held for soldiers who died for France in 2026.",
+      "title": "Macron presides over Armistice Day commemorations for last time",
+      "description": "The French President took part in the traditional wreath-laying ceremony, a tribute to the Unknown Soldier and rekindled the flame beneath the Arc de Triomphe. A commemoration was also held for soldiers who died for France in 2026.",
       "url": "https://www.lemonde.fr/en/politics/article/2026/11/11/armistice-day-macron-presides-over-commemoration-ceremony-for-the-last-time_6777785_5.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-11T14:12:14Z",
+      "publishedAt": "2026-11-11T14:12:12Z",
       "image": "https://img.lemde.fr/2026/11/11/106/0/2048/1024/644/322/60/0/5692e4b_upload-1-0gbzw7qmjzf2-nz82512.jpg",
       "categories": [
         "conflict"
@@ -67,7 +81,7 @@
     },
     {
       "id": "npr-16acc59220e3",
-      "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
+      "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
       "description": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
       "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
       "source": "NPR World",

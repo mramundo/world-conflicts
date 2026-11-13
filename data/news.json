@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T23:18:10Z",
+  "updated": "2026-11-13T05:37:18Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,12 +10,58 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/society/crime/meta-chat-app-line-help-taiwan-combat-online-fraud",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-12T23:18:05Z",
+      "publishedAt": "2026-11-13T05:37:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F0%2F6%2F0%2F13440602-2-eng-GB%2F9a35b2428205-2026-09-22T054715Z_1276623788_RC23ONABW44T_RTRMADP_3_USA-CHINA-TAIWAN.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -9b4e43af3f13",
+      "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
+      "description": "Funding cuts and Israel&#039;s war have left Palestinians in Lebanon in increasingly dire circumstances.",
+      "url": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-13T04:51:56Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2023/11/342F7GC-highres-1699396426.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -fb52c5f14728",
+      "title": "US envoys say Europeans will be included in upcoming Ukraine peace talks",
+      "description": "Europe has been demanding a seat at the negotiating table for several months, but Moscow has not yet formally agreed. Jared Kushner and Steve Witkoff, Donald Trump's special envoys, left Moscow on Thursday with very little new information on the negotiations between Russia and Ukraine.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/13/us-envoys-say-europeans-will-be-included-in-upcoming-ukraine-peace-talks_6779500_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-13T04:28:43Z",
+      "image": "https://img.lemde.fr/2026/11/12/456/0/5456/2728/644/322/60/0/75e98c2_ftp-1-s58tkz1vvrxe-2026-11-12t161350z-92863598-rc2gmoaa5yyl-rtrmadp-3-europe-community-burnham.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-bf2b4d1c9aa2",
+      "title": "Europe to Join Next Ukraine Peace Talks Following US-Putin Meeting",
+      "description": "European representatives will participate in the next round of Ukraine-Russia peace negotiations, President Volodymyr Zelensky and US envoys Jared Kushner and Steve Witkoff said Thursday, Nov. 12, following talks with Vladimir Putin in Moscow. Zelensky said the agenda would include ceasefires and de-escalation measures…",
+      "url": "https://www.kyivpost.com/post/89972",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-13T00:42:21Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/13/361b804f648d04c2c7935c4f31609c4e.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -32,37 +78,6 @@
         "humanitarian"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -235130676e9e",
-      "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-      "description": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-12T20:12:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af6151d6657e-1794512157.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -03ddb4435299",
-      "title": "Finland and Norway move to bar Russian athletes from competing on their soil",
-      "description": "The Finnish foreign ministry said allowing Russian athletes to enter its territory, notably when it hosts the World Figure Skating Championships in March 2027, would 'be a threat to Finland's international relations.' Hours later, Norway announced a ban affecting Russian and Belarusian professionals for as long as the …",
-      "url": "https://www.lemonde.fr/en/sports/article/2026/11/12/finland-blocks-visas-for-russian-athletes-ahead-of-world-figure-skating-championships_6778974_9.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-12T19:37:13Z",
-      "image": "https://img.lemde.fr/2026/11/12/943/0/6239/3119/644/322/60/0/7f881b2_upload-1-gwtm2y58ux12-000-d3pu9cq.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -143,17 +158,17 @@
       "tags": []
     },
     {
-      "id": "un -304879f3b6f1",
-      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-      "description": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
+      "id": "un -df288b099f8e",
+      "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+      "description": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
       "source": "UN News",
       "publishedAt": "2026-11-12T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNOCHA-Haiti-03.jpg/image560x340cropped.jpg",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/07-11-2026-UNNews-Gaza-Winer-Building.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -169,21 +184,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-0c134120ca9a",
-      "title": "RAND Scenario: Putin Dies in 3 Months, Russia Attacks NATO by 2030 in Hypothetical War Plan",
-      "description": "RAND outlines a hypothetical chain of events in which Putin’s death leads to a new Russian leadership, a frozen war in Ukraine and escalating hybrid attacks against NATO. By 2030, Moscow launches an incursion into Estonia, triggering a wider war with the alliance. The scenario ends in 2031 with a ceasefire, Russian for…",
-      "url": "https://www.kyivpost.com/post/89903",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-12T10:52:26Z",
-      "image": "https://static.kyivpost.com/storage/2026/09/13/661043733aac6480cf846a609ddcd5f2.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

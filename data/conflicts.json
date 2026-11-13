@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-13T14:07:10Z",
+  "updated": "2026-11-13T21:14:42Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-11-13T14:05:37Z",
+  "wikipediaListRevision": "2026-11-13T15:24:09Z",
   "items": [
     {
       "id": "ru-ua",
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-11-11",
       "wikipediaRevision": "2026-11-11T22:57:33Z",
-      "recentNewsCount": 6
+      "recentNewsCount": 4
     },
     {
       "id": "il-ps",
@@ -45,9 +45,9 @@
         "Asymmetric"
       ],
       "wikipediaPage": "Gaza_war",
-      "lastUpdate": "2026-11-11",
-      "wikipediaRevision": "2026-11-11T13:03:58Z",
-      "recentNewsCount": 3
+      "lastUpdate": "2026-11-13",
+      "wikipediaRevision": "2026-11-13T20:24:39Z",
+      "recentNewsCount": 1
     },
     {
       "id": "sd-war",
@@ -89,7 +89,7 @@
       ],
       "wikipediaPage": "Myanmar_civil_war_(2021%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "ye-war",
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-10-31",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-10-31T20:25:31Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "sahel",
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 6
+      "recentNewsCount": 4
     },
     {
       "id": "et-am",
@@ -449,7 +449,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 3
+      "recentNewsCount": 1
     }
   ]
 }

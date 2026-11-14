@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T15:38:03Z",
+  "updated": "2026-11-14T20:29:23Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/how-trump-might-be-tempted-to-orchestrate-an-end-to-the-korean-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-14T15:38:00Z",
+      "publishedAt": "2026-11-14T20:29:20Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F9%2F3%2F9%2F13419394-1-eng-GB%2Fcf3dd237a543-illust_SXM2026110400002959-2-t.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,12 +21,27 @@
       "tags": []
     },
     {
+      "id": "al -8ded58a7f4bd",
+      "title": "Deadly car bomb blast kills two near Syria’s capital",
+      "description": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria&#039;s capital Damascus.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-14T19:46:36Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794685590.jpg?resize=1918%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "bbc-1476d670af2a",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-11-14T15:15:57Z",
+      "publishedAt": "2026-11-14T19:21:10Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
       "categories": [
         "conflict"
@@ -36,17 +51,17 @@
       "tags": []
     },
     {
-      "id": "al -855ba49d7369",
-      "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-      "description": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-14T12:57:36Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af8433adf-1794655034.jpg?resize=1920%2C1440",
+      "id": "ans-b38a22782302",
+      "title": "Zelensky, 'ad Abu Dhabi emerso che Putin non vuole il cessate il fuoco'",
+      "description": "Il presidente ucraino riassume i colloqui di Abu Dhabi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-ad-abu-dhabi-emerso-che-putin-non-vuole-il-cessate-il-fuoco_bf34b3cb-1c7d-4af3-97c0-c1aa36b7cb35.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-14T15:36:30Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/5f3fafe0ca99b010d8eab83d835d688c.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -63,21 +78,6 @@
         "humanitarian"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-f651fcf79edd",
-      "title": "Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, modello è Patto Varsavia'",
-      "description": "Il documento,'si allontani da Polonia e Baltici, mappa Guerra Fredda garantiva equilibrio'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_7ee54d9d-98f9-41de-a1b8-76355b53a939.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-14T12:17:44Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/12/146989c5bf6c3a6afb0e27c32de75a0e.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

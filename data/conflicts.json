@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-14T02:00:10Z",
+  "updated": "2026-11-14T08:53:45Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
-  "wikipediaListRevision": "2026-11-13T15:24:09Z",
+  "wikipediaListRevision": "2026-11-14T07:16:21Z",
   "items": [
     {
       "id": "ru-ua",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-11-13",
       "wikipediaRevision": "2026-11-13T20:24:39Z",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -449,7 +449,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     }
   ]
 }

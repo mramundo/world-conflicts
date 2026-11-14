@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:53:45Z",
+  "updated": "2026-11-14T15:38:14Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-11-14T07:16:21Z",
   "items": [
@@ -24,7 +24,7 @@
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-11-11",
       "wikipediaRevision": "2026-11-11T22:57:33Z",
-      "recentNewsCount": 4
+      "recentNewsCount": 7
     },
     {
       "id": "il-ps",
@@ -47,7 +47,7 @@
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-11-13",
       "wikipediaRevision": "2026-11-13T20:24:39Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 0
     },
     {
       "id": "sd-war",
@@ -68,7 +68,7 @@
       ],
       "wikipediaPage": "Sudanese_civil_war_(2023%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "mm-civ",
@@ -89,7 +89,7 @@
       ],
       "wikipediaPage": "Myanmar_civil_war_(2021%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "ye-war",
@@ -290,9 +290,9 @@
         "Terrorism"
       ],
       "wikipediaPage": "Republican_insurgency_in_Afghanistan",
-      "lastUpdate": "2026-10-25",
+      "lastUpdate": "2026-11-14",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-10-25T20:05:03Z",
+      "wikipediaRevision": "2026-11-14T09:16:44Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 1
     },
     {
       "id": "et-am",
@@ -338,7 +338,7 @@
       "wikipediaPage": "War_in_Amhara",
       "lastUpdate": "2026-11-13",
       "wikipediaRevision": "2026-11-13T01:54:25Z",
-      "recentNewsCount": 0
+      "recentNewsCount": 1
     },
     {
       "id": "co-fgc",
@@ -449,7 +449,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 2
+      "recentNewsCount": 0
     }
   ]
 }

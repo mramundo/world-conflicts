@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:52:11Z",
+  "updated": "2026-11-16T00:49:02Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/spotlight/comment/how-trump-might-be-tempted-to-orchestrate-an-end-to-the-korean-war",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-15T20:52:08Z",
+      "publishedAt": "2026-11-16T00:48:59Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F9%2F3%2F9%2F13419394-1-eng-GB%2Fcf3dd237a543-illust_SXM2026110400002959-2-t.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,32 @@
       "tags": []
     },
     {
-      "id": "al -5b6c76598929",
-      "title": "Who can force Israel to implement Gaza ceasefire deal?",
-      "description": "Storms batter Palestinian territory as Israel restricts entry of aid.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+      "id": "al -90c74670e565",
+      "title": "Iran war live: Tehran warns it may strike first before another US attack",
+      "description": "Yemeni army says it is &#039;repositioning&#039; troops away from the Bab al-Mandeb strait and other key coastal areas.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-15T20:37:43Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794772684.jpg?resize=1920%2C1080&amp;quality=80",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afa3cfe-1794784510.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -6e0ea6775b89",
+      "title": "'The Sun of Ukraine Rises Over the Donbas': Book pays tribute to French photojournalist Antoni Lallican killed in Ukraine",
+      "description": "The book, published on November 12, documents the advance of Russian forces and the final moments in the lives of Ukrainian villages that are now destroyed or under occupation.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/15/the-sun-of-ukraine-rises-over-the-donbas-book-pays-tribute-to-french-photojournalist-antoni-lallican-killed-in-ukraine_6781678_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-15T21:19:23Z",
+      "image": "https://img.lemde.fr/2026/11/10/590/0/4724/2362/644/322/60/0/58dcad3_upload-1-9h303rsjaxib-antoni-lallican-donbas-057.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -47,21 +62,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -e4f4382091a1",
-      "title": "UNRWA, facing possible closure, keeps low profile and prepares drastic cuts",
-      "description": "The UN agency for Palestinian refugees, which the Trump administration and Israel want to shut down, is preparing to make cuts to stabilize its finances, at a time when the international community neglects any form of political resolution to the Palestinian issue.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/15/unrwa-facing-possible-closure-keeps-low-profile-and-prepares-drastic-cuts_6781447_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-15T15:12:04Z",
-      "image": "https://img.lemde.fr/2026/01/20/1170/0/8192/4096/644/322/60/0/c676a31_ftp-1-zubs7a3neqc0-5932352-01-06.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },

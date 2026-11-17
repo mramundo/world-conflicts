@@ -1,82 +1,84 @@
 {
-  "updated": "2026-11-16T18:03:14Z",
+  "updated": "2026-11-17T02:20:25Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-9ed50a39b9ae",
-      "title": "How Trump might be tempted to orchestrate an 'end to the Korean War'",
+      "id": "nik-52e8473ffd3d",
+      "title": "Singapore's One Championship aims to revive combat sports in Japan",
       "description": "",
-      "url": "https://asia.nikkei.com/spotlight/comment/how-trump-might-be-tempted-to-orchestrate-an-end-to-the-korean-war",
+      "url": "https://asia.nikkei.com/spotlight/sports/singapore-s-one-championship-aims-to-revive-combat-sports-in-japan2",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-16T18:03:10Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F9%2F3%2F9%2F13419394-1-eng-GB%2Fcf3dd237a543-illust_SXM2026110400002959-2-t.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-11-17T02:20:22Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F6%2F2%2F4%2F13434269-1-eng-GB%2F9ac7838fae71-1058b785-1e13-4288-b3f8-19e100f72c70.jfif?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-ac2689718079",
+      "title": "Should Ukraine trade Donbas for NATO membership?",
+      "description": "President Volodymyr Zelensky asserting that the United States has asked him about a straight-up swap Russia gets the Donbas, the rest of Ukraine gets NATO membership, a guarantee against Moscow later having a second go and annexing the entire country. Whether or not the offer’s real, serious or that either side would a…",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261116-should-ukraine-trade-donbas-for-nato-membership",
+      "source": "France24",
+      "publishedAt": "2026-11-16T20:27:06Z",
+      "image": "https://s.france24.com/media/display/5dbb5ee6-e1ef-11f1-8f0e-f71d22e7fea9/w:1024/p:16x9/Anglais-2026-11-16T18-54-18-039Z.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 9,
       "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "al -1cbeb891f819",
-      "title": "Iran braces for natural gas shortages during winter energy imbalance",
-      "description": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
-      "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
+      "id": "al -b620fa8af71b",
+      "title": "What will Europe do next in Ukraine?",
+      "description": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-16T16:58:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb20d010cdd-1794842832.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-16T20:12:21Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-3a910931f160",
+      "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+      "description": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait and pulled back forces from parts of Marib…",
+      "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-16T19:04:07Z",
+      "image": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=2beb9c59f77d4a48f505b75c6220edf0",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "le -b7a99994afb7",
-      "title": "French troops are now operating in Ukraine",
-      "description": "Small contingents of French military personnel are carrying out rotations in Ukraine to provide training and repair military equipment, a source close to the matter confirmed to Le Monde, following a report by RFI.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/16/french-troops-are-now-operating-in-ukraine_6782174_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-16T16:22:29Z",
-      "image": "https://img.lemde.fr/2026/11/06/1032/0/6192/3096/644/322/60/0/c9e5a36_ftp-1-9qvshz2cjmsq-97dec7c374304621be28c1ccf6e6e9e9-0-06b5af51bb0c47cb988e42153f3c9803.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-ba70cd666726",
-      "title": "Kremlin Aide Denies Russia Agreed to Include Europe in Ukraine Peace Talks",
-      "description": "\"A great deal would have to be done before that could be agreed,\" Kremlin aide Yury Ushakov said.",
-      "url": "https://www.themoscowtimes.com/2026/11/16/kremlin-aide-denies-russia-agreed-to-include-europe-in-ukraine-peace-talks-a94279",
+      "id": "the-f59ca6647d8f",
+      "title": "Russia Warns U.K. Over G20 Presidency After London Says Putin Won't Come to Its Summit",
+      "description": "Russia remains a member of the G20 despite Western efforts to isolate it over its war in Ukraine.",
+      "url": "https://www.themoscowtimes.com/2026/11/16/russia-warns-uk-over-g20-presidency-after-london-says-putin-wont-come-to-its-summit-a94280",
       "source": "The Moscow Times",
-      "publishedAt": "2026-11-16T16:18:29Z",
-      "image": "https://static.themoscowtimes.com/image/og/df/94279__dfd44931d2eacb683ac8be4bf80fc115.jpg",
+      "publishedAt": "2026-11-16T18:04:40Z",
+      "image": "https://static.themoscowtimes.com/image/og/ee/94280__eefc0415e94e4c1eea4c8bac5c178d76.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-1575b9736150",
-      "title": "French troops in Ukraine 'wouldn't be a surprise'",
-      "description": "French soldiers have been operating in Ukraine for several months, training Ukrainian troops and helping maintain military equipment, France 24's sister radio network Radio France Internationale (RFI) reported on Monday. While the deployment has not been confirmed, such a mission would not come as a surprise to many in…",
-      "url": "https://www.france24.com/en/video/20261116-french-troops-in-ukraine-wouldn-t-be-a-surprise",
-      "source": "France24",
-      "publishedAt": "2026-11-16T15:49:56Z",
-      "image": "https://s.france24.com/media/display/d2585b3c-e1d1-11f1-8438-5f54d898a954/w:1024/p:16x9/EN-20261116-150424-150818-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,17 +113,17 @@
       "tags": []
     },
     {
-      "id": "the-2b743f026fc3",
-      "title": "Iran launches drone attacks against US military base in Bahrain",
-      "description": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation.Blasts sounded over the Gulf nation o…",
-      "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-15T18:03:56Z",
-      "image": "https://i.guim.co.uk/img/media/90f87dd962175485473368db89ae4da6cfcd0981/425_0_4577_3662/master/4577.jpg?width=140&quality=85&auto=format&fit=max&s=a186d5c5f515b7ca0b75c2c9875cf564",
+      "id": "le -6cba76ad8793",
+      "title": "After Ukraine hits key Crimea bridge in 1,300-drone overnight barrage, Russia strikes Kyiv",
+      "description": "Russian strikes hit two major bridges in Kyiv late Monday, shortly after Ukraine's air force warned of incoming missiles. Ukraine earlier struck a bridge linking annexed Crimea to Russia, disrupting traffic on the key passageway, then hitting it a second day in a row.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/16/ukraine-hits-key-crimea-bridge-in-1-300-drone-barrage_6782010_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-16T09:10:05Z",
+      "image": "https://img.lemde.fr/2026/11/16/261/0/5076/2538/644/322/60/0/915e956_ftp-1-wmp7vo3blqew-5590218-01-06.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -184,21 +186,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-92fe297395e2",
-      "title": "What's Trump's strategy now with Iran? To keep things as they are",
-      "description": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
-      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-      "source": "NPR World",
-      "publishedAt": "2026-11-13T19:02:04Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/3377x1900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F75%2Ff4%2Fdda272054cc49d1d325e1fb89080%2F0eb9a283-2aff-4d96-b972-8f285cd219b7.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     }

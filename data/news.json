@@ -1,21 +1,115 @@
 {
-  "updated": "2026-11-17T11:33:36Z",
+  "updated": "2026-11-17T20:34:53Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 10,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-52e8473ffd3d",
-      "title": "Singapore's One Championship aims to revive combat sports in Japan",
-      "description": "",
-      "url": "https://asia.nikkei.com/spotlight/sports/singapore-s-one-championship-aims-to-revive-combat-sports-in-japan2",
-      "source": "Nikkei Asia",
-      "publishedAt": "2026-11-17T11:33:31Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F6%2F2%2F4%2F13434269-1-eng-GB%2F9ac7838fae71-1058b785-1e13-4288-b3f8-19e100f72c70.jfif?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "id": "the-9c55fa8f16bf",
+      "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+      "description": "With the SpaceX satellite system faltering, Ukraine’s military launched a surprise, multi-pronged attack to take down vital bridge to CrimeaAt 10pm on Monday evening a Ukrainian soldier scrawled a message on a kamikaze drone. It said simply: “The bridge is fucked.” He then added: “We will stand and Moscow will fall.” I…",
+      "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-17T17:30:40Z",
+      "image": "https://i.guim.co.uk/img/media/a4611f99a54be31a3aa99444b5865a3d82fb7c0b/669_335_2043_1634/master/2043.jpg?width=140&quality=85&auto=format&fit=max&s=954017efde37f92d5a79b156b7e5fa06",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-edd6f5b7f222",
+      "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
+      "description": "As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Ethiopia, Eritrea and Sudan, the Horn of Africa faces uncertain times ahead.",
+      "url": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-17T15:43:00Z",
+      "image": "https://static.dw.com/image/63464055_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-1fc541486538",
+      "title": "How the attack on Crimean Bridge unfolded",
+      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-17T15:38:10Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "fra-caaebf18a66e",
+      "title": "Estonia closes its border with Russia but can it keep Moscow out?",
+      "description": "Estonia announced this weekend it would close its border with Russia, after blaming its eastern neighbour of attempting to sabotage one of its drone factories. But at a time when the internet has become one of Russia’s most potent weapons to wage hybrid warfare, does closing the border even matter?",
+      "url": "https://www.france24.com/en/europe/20261117-estonia-closes-its-border-with-russia-but-can-it-keep-moscow-out",
+      "source": "France24",
+      "publishedAt": "2026-11-17T15:28:26Z",
+      "image": "https://s.france24.com/media/display/638675fe-e1d1-11f1-97ac-5f54d898a954/w:1024/p:16x9/russie-estonie-frontiere.png",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-b05010f7b59b",
+      "title": "Missing Pro-War Blogger May Face Treason Charges Over Oleshky Evacuation Post",
+      "description": "Vladimir Romanov had suggested that the optics of the U.S.-brokered ceasefire and evacuation effort in Oleshky were unfavorable for Russia.",
+      "url": "https://www.themoscowtimes.com/2026/11/17/missing-pro-war-blogger-may-face-treason-charges-over-oleshky-evacuation-post-a94283",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-17T12:55:13Z",
+      "image": "https://static.themoscowtimes.com/image/og/ac/94283__acfda0b948b9c85eccabd53ecf2c5a2f.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-16011b232e6a",
+      "title": "Lavrov, la presenza di forze europee in Ucraina sarebbe come un coinvolgimento diretto",
+      "description": "'L'Europa ha bisogno di un cessate il fuoco'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/17/lavrov-la-presenza-di-forze-europee-in-ucraina-sarebbe-come-un-coinvolgimento-diretto_6cd86986-4577-4b8f-a1e1-6c45d7e96905.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-17T12:21:41Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/17/0cbdd243ec66120611eab7675c29211a.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -23bd047111d3",
+      "title": "Russia calls French troops presence in Ukraine a 'direct participation in war'",
+      "description": "Russian Foreign Minister Sergey Lavrov on Tuesday said a message had been issued to Paris. The deputy French defense minister said it was 'absurd' to claim the soldiers were there to fight.",
+      "url": "https://www.lemonde.fr/en/france/article/2026/11/17/russia-calls-french-troops-presence-in-ukraine-a-direct-participation-in-war_6782809_7.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-17T11:53:16Z",
+      "image": "https://img.lemde.fr/2026/11/16/254/0/4870/2435/644/322/60/0/e165735_ftp-1-42c1pufkiv0d-5593276-01-06.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -36,96 +130,6 @@
       "tags": []
     },
     {
-      "id": "fra-125d6a4de07d",
-      "title": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
-      "description": "A third American aircraft carrier has arrived in the Middle East, US Central Command said in a social media post Monday, making a dramatic show of military might as President Donald Trump keeps his options open for next steps in the Iran war. It comes as Tehran said Sunday that its forces carried out a drone attack on …",
-      "url": "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain",
-      "source": "France24",
-      "publishedAt": "2026-11-17T10:46:27Z",
-      "image": "https://s.france24.com/media/display/9752e8aa-e270-11f1-b650-5f54d898a954/w:1024/p:16x9/EN-20261117-103832-104029-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-4b88ce23b69e",
-      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "description": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-17T10:45:55Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-2a25e8c6bdfa",
-      "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-      "description": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’Europe live – follow latestUkraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zelenskyy hailed as an “unprecedented” milita…",
-      "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-17T10:30:22Z",
-      "image": "https://i.guim.co.uk/img/media/35449468721afd6dae92903e99a8fbed51d602e4/0_12_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=1c51731e27855a4e635195bb9d420463",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-3ed305e1ffb4",
-      "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
-      "description": "Ukraine's forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day. Moscow's forces, meanwhile, fired ballistic missiles and drones at Kyiv.",
-      "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-      "source": "NPR World",
-      "publishedAt": "2026-11-17T09:50:45Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5159x3439+0+0/resize/5159x3439!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F74%2F39dd43ac4231836e0610c7161cfb%2Fap26320380275705.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-c218cb589a00",
-      "title": "Ukraine Strikes Crimean Bridge for Second Day as Russia Pounds Kyiv Bridges",
-      "description": "Tuesday’s closure on the bridge came less than a day after traffic resumed following a drone attack that shut the crossing for more than 16 hours.",
-      "url": "https://www.themoscowtimes.com/2026/11/17/ukraine-strikes-crimean-bridge-for-second-day-as-russia-pounds-kyiv-bridges-a94281",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-11-17T08:31:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/26/94281__26c4d4810a7b23f888e3711f7860ab26.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -6c7e7d956e31",
-      "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-      "description": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-17T08:12:06Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc02983f38-1794900632.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-be91e01fab2a",
       "title": "From Russia's Infamous Gold-Mining Region, A Ready Supply Of Men For Ukraine War",
       "description": "Before he signed up to fight in Ukraine, Denis Dmitriyev served time for robbing another gold-mining laborer in Kolyma. He is one of at least 20 men from the legendarily harsh Russian gold-mining region in war who have been killed in the war. Nearly all were convicted criminals or chronic debtors.",
@@ -139,51 +143,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -b7a99994afb7",
-      "title": "French troops are now operating in Ukraine",
-      "description": "Small contingents of French military personnel are carrying out rotations in Ukraine to provide training and repair military equipment, a source close to the matter confirmed to Le Monde, following a report by RFI.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/16/french-troops-are-now-operating-in-ukraine_6782174_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-16T16:22:29Z",
-      "image": "https://img.lemde.fr/2026/11/06/1032/0/6192/3096/644/322/60/0/c9e5a36_ftp-1-9qvshz2cjmsq-97dec7c374304621be28c1ccf6e6e9e9-0-06b5af51bb0c47cb988e42153f3c9803.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-e9a89507380a",
-      "title": "Trump, 'Putin sta facendo marcia indietro'",
-      "description": "'Penso che voglia vedere la guerra finire'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/trump-putin-sta-facendo-marcia-indietro_fff7a7b9-1d73-40f9-a191-e077c335556a.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-16T14:52:26Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/81cc0d5aed41ec963ec81d8f7b65e082.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-b61240156cae",
-      "title": "ASEAN offers Myanmar's sidelined leaders a path back to summits, but says restrictions will stay until there is meaningful progress on its peace plan",
-      "description": "Southeast Asian leaders have agreed to engage Myanmar in stages after years of excluding its leaders from high-level meetings. The bloc says Myanmar could regain full representation if it makes progress on a peace plan.",
-      "url": "https://www.dw.com/en/asean-offers-myanmar-s-sidelined-leaders-a-path-back-to-summits-but-says-restrictions-will-stay-until-there-is-meaningful-progress-on-its-peace-plan/a-79951878?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-15T12:26:00Z",
-      "image": "https://static.dw.com/image/79950747_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

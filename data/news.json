@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T11:16:35Z",
+  "updated": "2026-11-18T20:07:44Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,12 +10,104 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/godzilla-director-yamazaki-brings-hiroshima-atomic-bombing-to-screen",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-18T11:16:31Z",
+      "publishedAt": "2026-11-18T20:07:41Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F8%2F6%2F13446856-2-eng-GB%2Fc25fb3152144-photo_SXM2026102800016710.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-fc6e6a6230eb",
+      "title": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
+      "description": "A Ukrainian drone and missile strike on Monday night brought down a stretch of the bridge linking the annexed Crimean Peninsula to Russia, potentially crippling a route long used by Moscow to move men and materiel into Crimea and the southern front. Here’s why Kyiv keeps testing its strength against an infrastructure p…",
+      "url": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
+      "source": "France24",
+      "publishedAt": "2026-11-18T18:17:34Z",
+      "image": "https://s.france24.com/media/display/6b1cf78a-e374-11f1-ae39-1ba7ddfab527/w:1024/p:16x9/2026-11-17T132708Z-373589621-RC2PPOA5FXQR-RTRMADP-3-UKRAINE-CRISIS-ATTACK-CRIMEA-SBU.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-40b5659e8a61",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-18T17:00:04Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -48dc592f6430",
+      "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
+      "description": "Many Palestinians started to flee refugee camps as the Israeli offensive got underway.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-18T14:39:09Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26321398288943-1795025782.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-f7c34df723c2",
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
+      "description": "The ICJ is set to decide whether Myanmar's military operations in Rakhine State a decade ago were carried out with the intent to destroy the country's Rohingya minority, in whole or in part.",
+      "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-18T14:27:00Z",
+      "image": "https://static.dw.com/image/77575573_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-776b8c829947",
+      "title": "Xi and Putin Blast Western 'Protectionism,' Sanctions as Trump Lands in China",
+      "description": "The three men are due to meet on Thursday and potentially discuss Russia's war with Ukraine and the U.S. war in Iran, as well as other flashpoints.",
+      "url": "https://www.themoscowtimes.com/2026/11/18/xi-and-putin-blast-western-protectionism-sanctions-as-trump-lands-in-china-a94292",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-18T14:21:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/a7/94292__a79c355de9d3e65e23d1a763625fdade.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -3bd694259d88",
+      "title": "Dozens more children killed in Yemen amid escalating hostilities",
+      "description": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+      "source": "UN News",
+      "publishedAt": "2026-11-18T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/22-09-2026_UNICEF_Yemen.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -37,7 +129,7 @@
     {
       "id": "npr-36a1fb555f5f",
       "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
-      "description": "Russian President Vladimir Putin will meet Wednesday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
+      "description": "Russian President Vladimir Putin will meet Thursday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
       "url": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
       "source": "NPR World",
       "publishedAt": "2026-11-18T09:43:28Z",
@@ -46,38 +138,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7f602e2f6454",
-      "title": "‘We want to go back’: Rohingya refugees pin hopes on ICJ genocide verdict",
-      "description": "After almost a decade in exile, they&#039;re hoping the ICJ rules in their favour. But will that help them get back home?",
-      "url": "https://www.aljazeera.com/features/2026/11/18/we-want-to-go-back-rohingya-refugees-pin-hopes-on-icj-genocide-verdict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-18T08:55:40Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_2443-1794991213.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-776b8c829947",
-      "title": "Xi and Putin Blast Western 'Protectionism,' Sanctions as Trump Lands in China",
-      "description": "The three men are due to meet on Thursday and potentially discuss Russia's war with Ukraine and the U.S. war in Iran, as well as other flashpoints.",
-      "url": "https://www.themoscowtimes.com/2026/11/18/xi-and-putin-blast-western-protectionism-sanctions-as-trump-lands-in-china-a94292",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-11-18T08:02:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/a7/94292__a79c355de9d3e65e23d1a763625fdade.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -97,81 +157,19 @@
       "tags": []
     },
     {
-      "id": "fra-5dacdb624a84",
-      "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
-      "description": "Thousands of Haitians took to the streets on Tuesday to urge El Salvador's President Nayib Bukele to keep fighting gangs, as his troops bolster security forces in the Caribbean nation. But experts warn that growing public support could turn to anger without a long-term plan to tackle violence and strengthen Haiti's pol…",
-      "url": "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
-      "source": "France24",
-      "publishedAt": "2026-11-18T02:42:21Z",
-      "image": "https://s.france24.com/media/display/5f68d9ac-e2f4-11f1-88c9-c5c0357b2a0c/w:1024/p:16x9/AP26321814589361.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "rfe-4a84112d8969",
       "title": "Pentagon Official Says Ukraine War Likely To Last Through Winter, Despite Mediation Efforts",
       "description": "A top Pentagon official told NATO allies that Moscow is likely to continue its war efforts in Ukraine at least through the winter months, despite Washington's attempts to secure a cease-fire and peace deal between Russia and Ukraine.",
       "url": "https://www.rferl.org/a/pentagon-colby-ukraine-russia-pistorius-ceasefire-talks/33900531.html",
       "source": "RFE/RL",
       "publishedAt": "2026-11-17T21:42:25Z",
-      "image": "https://gdb.rferl.org/4cdc2832-6eaf-4c51-b6c7-d266ba89db70_cx0_cy5_cw0_w800_h450.jpg",
+      "image": "https://gdb.rferl.org/bfdabac6-1c28-432e-831d-5b2ea569e694_cx0_cy7_cw0_w800_h450.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "deu-edd6f5b7f222",
-      "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
-      "description": "As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Ethiopia, Eritrea and Sudan, the Horn of Africa faces uncertain times ahead.",
-      "url": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-17T15:43:00Z",
-      "image": "https://static.dw.com/image/63464055_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-1fc541486538",
-      "title": "How the attack on Crimean Bridge unfolded",
-      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-17T15:38:10Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -23bd047111d3",
-      "title": "Russia calls French troops presence in Ukraine a 'direct participation in war'",
-      "description": "Russian Foreign Minister Sergey Lavrov on Tuesday said a message had been issued to Paris. The deputy French defense minister said it was 'absurd' to claim the soldiers were there to fight.",
-      "url": "https://www.lemonde.fr/en/france/article/2026/11/17/russia-calls-french-troops-presence-in-ukraine-a-direct-participation-in-war_6782809_7.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-17T11:53:16Z",
-      "image": "https://img.lemde.fr/2026/11/16/254/0/4870/2435/644/322/60/0/e165735_ftp-1-42c1pufkiv0d-5593276-01-06.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -187,22 +185,6 @@
         "humanitarian"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -7847f1dc76db",
-      "title": "First Person: Managing risk on Ukraine’s frontline",
-      "description": "Humanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks of operating in a conflict zone, according to the top UN official in Ukraine.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168807",
-      "source": "UN News",
-      "publishedAt": "2026-11-15T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-01-2025-UNOCHA-Ukraine-03.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     }

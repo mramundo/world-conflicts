@@ -1,9 +1,55 @@
 {
-  "updated": "2026-11-17T20:34:53Z",
+  "updated": "2026-11-18T02:45:53Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 10,
+  "feedsOk": 11,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "fra-5dacdb624a84",
+      "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
+      "description": "Thousands of Haitians took to the streets on Tuesday to urge El Salvador's President Nayib Bukele to keep fighting gangs, as his troops bolster security forces in the Caribbean nation. But experts warn that growing public support could turn to anger without a long-term plan to tackle violence and strengthen Haiti's pol…",
+      "url": "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
+      "source": "France24",
+      "publishedAt": "2026-11-18T02:42:21Z",
+      "image": "https://s.france24.com/media/display/5f68d9ac-e2f4-11f1-88c9-c5c0357b2a0c/w:1024/p:16x9/AP26321814589361.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c9ade3318038",
+      "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+      "description": "El Salvador&#039;s security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-17T23:09:00Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc71bd7d1d-1794929085.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-4a84112d8969",
+      "title": "Pentagon Official Says Ukraine War Likely To Last Through Winter, Despite Mediation Efforts",
+      "description": "A top Pentagon official told NATO allies that Moscow is likely to continue its war efforts in Ukraine at least through the winter months, despite Washington's attempts to secure a cease-fire and peace deal between Russia and Ukraine.",
+      "url": "https://www.rferl.org/a/pentagon-colby-ukraine-russia-pistorius-ceasefire-talks/33900531.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-11-17T21:42:25Z",
+      "image": "https://gdb.rferl.org/4cdc2832-6eaf-4c51-b6c7-d266ba89db70_cx0_cy5_cw0_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 13,
+      "isAnalysis": true,
+      "tags": []
+    },
     {
       "id": "the-9c55fa8f16bf",
       "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
@@ -49,21 +95,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-caaebf18a66e",
-      "title": "Estonia closes its border with Russia but can it keep Moscow out?",
-      "description": "Estonia announced this weekend it would close its border with Russia, after blaming its eastern neighbour of attempting to sabotage one of its drone factories. But at a time when the internet has become one of Russia’s most potent weapons to wage hybrid warfare, does closing the border even matter?",
-      "url": "https://www.france24.com/en/europe/20261117-estonia-closes-its-border-with-russia-but-can-it-keep-moscow-out",
-      "source": "France24",
-      "publishedAt": "2026-11-17T15:28:26Z",
-      "image": "https://s.france24.com/media/display/638675fe-e1d1-11f1-97ac-5f54d898a954/w:1024/p:16x9/russie-estonie-frontiere.png",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -127,22 +158,6 @@
       ],
       "relevanceScore": 12,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-be91e01fab2a",
-      "title": "From Russia's Infamous Gold-Mining Region, A Ready Supply Of Men For Ukraine War",
-      "description": "Before he signed up to fight in Ukraine, Denis Dmitriyev served time for robbing another gold-mining laborer in Kolyma. He is one of at least 20 men from the legendarily harsh Russian gold-mining region in war who have been killed in the war. Nearly all were convicted criminals or chronic debtors.",
-      "url": "https://www.rferl.org/a/russia-war-casualties-gold-manpower-ukraine/33899795.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-11-17T08:02:43Z",
-      "image": "https://gdb.rferl.org/5157470b-63fb-44c5-696b-08df13a87200_cx0_cy4_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": true,
       "tags": []
     },
     {

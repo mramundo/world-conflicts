@@ -1,9 +1,101 @@
 {
-  "updated": "2026-11-18T02:45:53Z",
+  "updated": "2026-11-18T11:16:35Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 11,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "nik-f98206fd02d0",
+      "title": "Godzilla director Yamazaki brings Hiroshima atomic bombing to screen",
+      "description": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/godzilla-director-yamazaki-brings-hiroshima-atomic-bombing-to-screen",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-11-18T11:16:31Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F8%2F6%2F13446856-2-eng-GB%2Fc25fb3152144-photo_SXM2026102800016710.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-2299cba1527c",
+      "title": "Carney, sanzioni contro Mosca aumenteranno finché durerà la guerra in Ucraina",
+      "description": "Premier Canada: 'Se avrò occasione di incontrare Putin sarò chiaro sulla nostra posizione'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/carney-sanzioni-contro-mosca-aumenteranno-finche-durera-la-guerra-in-ucraina_2f665a17-d6df-4441-9e4a-dc12ae8efb73.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-18T10:08:08Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/18/9ff6ae8c216a7447bf53b438fce4338b.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-36a1fb555f5f",
+      "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
+      "description": "Russian President Vladimir Putin will meet Wednesday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
+      "source": "NPR World",
+      "publishedAt": "2026-11-18T09:43:28Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6044242",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -7f602e2f6454",
+      "title": "‘We want to go back’: Rohingya refugees pin hopes on ICJ genocide verdict",
+      "description": "After almost a decade in exile, they&#039;re hoping the ICJ rules in their favour. But will that help them get back home?",
+      "url": "https://www.aljazeera.com/features/2026/11/18/we-want-to-go-back-rohingya-refugees-pin-hopes-on-icj-genocide-verdict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-18T08:55:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_2443-1794991213.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-776b8c829947",
+      "title": "Xi and Putin Blast Western 'Protectionism,' Sanctions as Trump Lands in China",
+      "description": "The three men are due to meet on Thursday and potentially discuss Russia's war with Ukraine and the U.S. war in Iran, as well as other flashpoints.",
+      "url": "https://www.themoscowtimes.com/2026/11/18/xi-and-putin-blast-western-protectionism-sanctions-as-trump-lands-in-china-a94292",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-18T08:02:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/a7/94292__a79c355de9d3e65e23d1a763625fdade.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-359045f8c4cf",
+      "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
+      "description": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa programGet our daily political email, free app or daily news podcastOne Nation has vowed to cut Australia’s refugee intake by 90% and scrap the permanent parent visa program under its latest hardline pl…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-18T05:11:31Z",
+      "image": "https://i.guim.co.uk/img/media/16091bd9c923d35459b46f7f811208abd0842535/424_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=314d54effab3dc3320b3d1700b05efd4",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "fra-5dacdb624a84",
       "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
@@ -12,21 +104,6 @@
       "source": "France24",
       "publishedAt": "2026-11-18T02:42:21Z",
       "image": "https://s.france24.com/media/display/5f68d9ac-e2f4-11f1-88c9-c5c0357b2a0c/w:1024/p:16x9/AP26321814589361.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -c9ade3318038",
-      "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
-      "description": "El Salvador&#039;s security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-17T23:09:00Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc71bd7d1d-1794929085.jpg?resize=1920%2C1440",
       "categories": [
         "conflict"
       ],
@@ -47,22 +124,6 @@
         "analysis"
       ],
       "relevanceScore": 13,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-9c55fa8f16bf",
-      "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
-      "description": "With the SpaceX satellite system faltering, Ukraine’s military launched a surprise, multi-pronged attack to take down vital bridge to CrimeaAt 10pm on Monday evening a Ukrainian soldier scrawled a message on a kamikaze drone. It said simply: “The bridge is fucked.” He then added: “We will stand and Moscow will fall.” I…",
-      "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-17T17:30:40Z",
-      "image": "https://i.guim.co.uk/img/media/a4611f99a54be31a3aa99444b5865a3d82fb7c0b/669_335_2043_1634/master/2043.jpg?width=140&quality=85&auto=format&fit=max&s=954017efde37f92d5a79b156b7e5fa06",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": true,
       "tags": []
     },
@@ -95,37 +156,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-b05010f7b59b",
-      "title": "Missing Pro-War Blogger May Face Treason Charges Over Oleshky Evacuation Post",
-      "description": "Vladimir Romanov had suggested that the optics of the U.S.-brokered ceasefire and evacuation effort in Oleshky were unfavorable for Russia.",
-      "url": "https://www.themoscowtimes.com/2026/11/17/missing-pro-war-blogger-may-face-treason-charges-over-oleshky-evacuation-post-a94283",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-11-17T12:55:13Z",
-      "image": "https://static.themoscowtimes.com/image/og/ac/94283__acfda0b948b9c85eccabd53ecf2c5a2f.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-16011b232e6a",
-      "title": "Lavrov, la presenza di forze europee in Ucraina sarebbe come un coinvolgimento diretto",
-      "description": "'L'Europa ha bisogno di un cessate il fuoco'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/17/lavrov-la-presenza-di-forze-europee-in-ucraina-sarebbe-come-un-coinvolgimento-diretto_6cd86986-4577-4b8f-a1e1-6c45d7e96905.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-17T12:21:41Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/17/0cbdd243ec66120611eab7675c29211a.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {

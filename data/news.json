@@ -1,32 +1,33 @@
 {
-  "updated": "2026-11-19T11:15:27Z",
+  "updated": "2026-11-19T20:07:47Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-a4114100aa31",
-      "title": "Xi, Trump, Putin put nuclear arms, Ukraine war on table at historic summit",
+      "id": "nik-c169657cd4a2",
+      "title": "Myanmar committed genocide against Rohingya, ICJ rules in landmark verdict",
       "description": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-trump-putin-put-nuclear-arms-ukraine-war-on-table-at-historic-summit",
+      "url": "https://asia.nikkei.com/politics/international-relations/myanmar-committed-genocide-against-rohingya-icj-rules-in-landmark-verdict",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-19T11:15:26Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F7%2F9%2F3%2F13463977-7-eng-GB%2F907ec4f474af-2026-11-19T100937Z_339339031_RC2YQOA100JV_RTRMADP_3_APEC-SUMMIT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-11-19T20:07:45Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F4%2F5%2F13465465-1-eng-GB%2Fa291660f411d-2026-11-19T090255Z_1094509062_RC2WQOAKC6US_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "the-d6d5a75fc790",
-      "title": "Myanmar committed acts of genocide against Rohingya minority, world’s top court rules",
-      "description": "Governments around world have been awaiting ICJ judgment, seen as critical test for dealing with most serious of all state crimesMyanmar committed acts of genocide against its Rohingya minority during “clearance operations” nearly a decade ago, the world’s highest court has ruled.The judgment from the international cou…",
-      "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+      "id": "the-26035da73ae0",
+      "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+      "description": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the worldThere were tears in the halls of The Hague in the Netherlands and an eruption of applause in the refugee camps of Bangladesh as the scattered communities of Rohingya watched the UN’s top court ru…",
+      "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
       "source": "The Guardian",
-      "publishedAt": "2026-11-19T11:08:44Z",
-      "image": "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=140&quality=85&auto=format&fit=max&s=dd0fed01b92f1c8ac94e55192bc965d1",
+      "publishedAt": "2026-11-19T16:15:52Z",
+      "image": "https://i.guim.co.uk/img/media/4e0b4c5c18a104b80eb856eb0e127b220dae2103/219_0_3448_2758/master/3448.jpg?width=140&quality=85&auto=format&fit=max&s=5ed800299799e0f85c0522c5daefd9d0",
       "categories": [
         "conflict",
         "humanitarian"
@@ -36,94 +37,108 @@
       "tags": []
     },
     {
-      "id": "le -2f5029b91fb8",
-      "title": "Trump, Putin and Xi hold first-ever trilateral talks",
-      "description": "The leaders concluded their discussions, which were expected to address topics ranging from nuclear weapons to the war in Ukraine, after more than an hour.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/19/trump-putin-and-xi-hold-first-ever-trilateral-talks_6784252_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-19T10:24:27Z",
-      "image": "https://img.lemde.fr/2026/11/19/0/0/3964/1982/644/322/60/0/f2d1e23_ftp-1-3anglpcv0uar-d7cef7047f7f43949ca4ca0d7d917886-0-93c90e99eb944976986ba8c279339184.jpg",
+      "id": "fra-9c1c603b8d8f",
+      "title": "ICJ ruling on Myanmar genocide: ‘Historic victory for Rohingya, landmark for international justice’",
+      "description": "Erin Ogunkeye welcomes Reed Brody, Member of the International Commission of Jurists, Human Rights Lawyer and veteran war crimes prosecutor. The International Court of Justice's ruling on Myanmar marks, according to Brody, \"a historic victory for the Rohingya, but also a landmark for international justice.\" He explains…",
+      "url": "https://www.france24.com/en/icj-ruling-on-myanmar-genocide-historic-victory-for-rohingya-landmark-for-international-justice",
+      "source": "France24",
+      "publishedAt": "2026-11-19T15:54:42Z",
+      "image": "https://s.france24.com/media/display/96bb2d4a-e42c-11f1-8790-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-150421-151554-CS.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -8fa88520efca",
-      "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
-      "description": "Israeli soldiers describe the psychological toll of the genocide in Gaza, yet many express no remorse.",
-      "url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
+      "id": "al -f2a006663dd8",
+      "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
+      "description": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
+      "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-19T07:51:03Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_7408-1793189803.png?resize=1920%2C1080&amp;quality=80",
+      "publishedAt": "2026-11-19T13:54:10Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1795096333.jpg?resize=1920%2C1080&amp;quality=80",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-1bbf36689e76",
-      "title": "Gaza: Israel launched new offensive on Nuseirat",
-      "description": "Israeli tanks have moved east of the Nuseirat refugee camp in central Gaza, with witnesses reporting heavy shelling, gunfire and airstrikes as the Israeli military says it has launched an operation in a Hamas-controlled area. Strikes killed at least three people on Wednesday, and displaced families are fleeing again, s…",
-      "url": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat",
-      "source": "France24",
-      "publishedAt": "2026-11-19T07:50:10Z",
-      "image": "https://s.france24.com/media/display/7cb17a8e-e3ec-11f1-8605-7908c4e1a3c7/w:1024/p:16x9/EN-20261119-061552-061743-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "bbc-40b5659e8a61",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-18T17:00:04Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
+      "id": "le -6e1db066339b",
+      "title": "Myanmar guilty of genocide against Rohingya, top UN court rules",
+      "description": "It is the first time the International Court of Justice has ruled that a state committed genocide in its 80-year history.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/19/icj-rules-that-myanmar-committed-genocide-against-rohingya-muslims_6784320_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-19T12:32:52Z",
+      "image": "https://img.lemde.fr/2026/11/19/187/0/5262/2631/644/322/60/0/1d6fc3f_ftp-1-w2etnkkgk6mk-2026-11-19t091224z-1527449319-rc2xqoa1b9gy-rtrmadp-3-myanmar-rohingya-world-court.JPG",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "ans-e897ef4b3ddc",
-      "title": "Idf lancia attacco nel centro di Gaza, avviso di sfollare",
-      "description": "Prima volta dal cessate il fuoco. Media Striscia riferiscono di tank nell'area centrale",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/18/idf-lancia-attacco-nel-centro-di-gaza-avviso-di-sfollare_c19b4b12-871f-44b9-9564-1951f7757ef4.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-18T15:56:29Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/18/60ebf60e5ab07971fa19ff83ed4e7fd8.jpg",
+      "id": "npr-aeff9386d011",
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "description": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+      "source": "NPR World",
+      "publishedAt": "2026-11-19T12:29:41Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7626x5084+0+0/resize/7626x5084!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F3b%2F65170ca542b4b8f2a8692418a464%2Fgettyimages-2305284448.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "deu-f7c34df723c2",
-      "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
-      "description": "The ICJ is set to decide whether Myanmar's military operations in Rakhine State a decade ago were carried out with the intent to destroy the country's Rohingya minority, in whole or in part.",
-      "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf",
+      "id": "deu-036f155d9099",
+      "title": "Myanmar committed genocide against Rohingya, top UN court rules",
+      "description": "The International Court of Justice has upheld large parts of a genocide case against Myanmar linked to the 2017 conflict with its Rohingya minority. It called for it to pay reparations and let refugees return safely.",
+      "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
-      "publishedAt": "2026-11-18T14:27:00Z",
-      "image": "https://static.dw.com/image/77575573_6.jpg",
+      "publishedAt": "2026-11-19T11:39:00Z",
+      "image": "https://static.dw.com/image/79988751_6.jpg",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 5,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-03129b6c2f0b",
+      "title": "Trump, 'con Putin lunga discussione sulla guerra, spero voglia la fine'",
+      "description": "'Non consentiremo all'Iran di avere un'arma nucleare'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/trump-con-putin-lunga-discussione-sulla-guerra-spero-voglia-la-fine_1e114882-1817-4478-b6f7-8442f258c9e8.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-19T08:48:22Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/18/3a5415c8468aa526031b019085387f5d.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-c73c048e2de0",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-18T17:00:40Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16fe/live/c4ae1b30-e405-11f1-a094-5fdc692f3e33.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },
@@ -158,17 +173,17 @@
       "tags": []
     },
     {
-      "id": "npr-cc65b3599b80",
-      "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-      "description": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-      "source": "NPR World",
-      "publishedAt": "2026-11-18T11:00:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2Fef%2Fd82de5a44adaa655033d34b2db6a%2Ffarflungpostcard-en-berlin.jpg",
+      "id": "kyi-a1336d008b07",
+      "title": "Ukraine Charges Russian Vice Admiral Over Kyiv Strike That Killed 13",
+      "description": "Ukraine has charged Russian Vice Admiral Arkady Romanov in absentia with war crimes over a July 2024 missile attack on a Kyiv residential building that killed 13 civilians, including five children. Investigators say he organized the strike on orders from Black Sea Fleet commander Admiral Sergei Pinchuk.",
+      "url": "https://www.kyivpost.com/post/90418",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-18T02:53:21Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/18/54f8e843a7d5a9a751e0de95238cb525.jpg?w=640&q=90&f=jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -186,22 +201,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "kyi-712f2c692e6a",
-      "title": "Russia Rejects Black Sea Ceasefire Without Full Peace Deal, Turkey Says",
-      "description": "Russia is unwilling to agree to a temporary ceasefire in the Black Sea without a comprehensive peace deal with Ukraine, Turkish Foreign Minister Hakan Fidan said. He identified the dispute over Donbas – which Russia wants Ukraine to surrender – as the main obstacle to ending the war. The remarks come as Washington push…",
-      "url": "https://www.kyivpost.com/post/90346",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-17T10:47:26Z",
-      "image": "https://static.kyivpost.com/storage/2026/03/12/1b75b17ea17e56dc884155bb66e0084d.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
       "tags": []
     }
   ]

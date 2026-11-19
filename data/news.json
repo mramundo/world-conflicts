@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T20:07:44Z",
+  "updated": "2026-11-19T02:20:36Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,13 +10,45 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/godzilla-director-yamazaki-brings-hiroshima-atomic-bombing-to-screen",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-18T20:07:41Z",
+      "publishedAt": "2026-11-19T02:20:32Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F8%2F6%2F13446856-2-eng-GB%2Fc25fb3152144-photo_SXM2026102800016710.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 3,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -99041a0f9260",
+      "title": "ICJ to deliver highly anticipated ruling on Rohingya genocide question",
+      "description": "The ICJ is set to announce on Thursday, November 19, whether Myanmar committed genocide against the Muslim minority. The decision is expected to clarify the legal definition of genocide, while US attempts to intimidate the Court's judges continue to mount.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/19/icj-to-deliver-highly-anticipated-ruling-on-rohingya-genocide-question_6783856_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-18T23:25:38Z",
+      "image": "https://img.lemde.fr/2025/10/22/267/0/5661/2830/644/322/60/0/0241d8f_ftp-import-images-1-l8wll82tiskj-5233489-01-06.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ee161c60c827",
+      "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+      "description": "Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-18T20:38:06Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe04c1c782-1795032257.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -47,21 +79,6 @@
         "conflict"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -48dc592f6430",
-      "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
-      "description": "Many Palestinians started to flee refugee camps as the Israeli offensive got underway.",
-      "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-18T14:39:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26321398288943-1795025782.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -127,6 +144,22 @@
       "tags": []
     },
     {
+      "id": "the-a9cefeb13011",
+      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+      "description": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government commi…",
+      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-18T09:58:28Z",
+      "image": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=140&quality=85&auto=format&fit=max&s=47f1524f7013cb8ff259c8847b637917",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "npr-36a1fb555f5f",
       "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
       "description": "Russian President Vladimir Putin will meet Thursday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
@@ -138,21 +171,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-359045f8c4cf",
-      "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
-      "description": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa programGet our daily political email, free app or daily news podcastOne Nation has vowed to cut Australia’s refugee intake by 90% and scrap the permanent parent visa program under its latest hardline pl…",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-18T05:11:31Z",
-      "image": "https://i.guim.co.uk/img/media/16091bd9c923d35459b46f7f811208abd0842535/424_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=314d54effab3dc3320b3d1700b05efd4",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },

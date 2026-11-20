@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T20:07:47Z",
+  "updated": "2026-11-20T02:03:36Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/myanmar-committed-genocide-against-rohingya-icj-rules-in-landmark-verdict",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-19T20:07:45Z",
+      "publishedAt": "2026-11-20T02:03:25Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F4%2F5%2F13465465-1-eng-GB%2Fa291660f411d-2026-11-19T090255Z_1094509062_RC2WQOAKC6US_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -18,6 +18,83 @@
       ],
       "relevanceScore": 5,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "bbc-eca3e57c2438",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "description": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-20T00:13:21Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -b88feeb8ee62",
+      "title": "US open to NATO-style security guarantees for Ukraine, Kushner says",
+      "description": "The US envoy's remarks came after Kyiv's allies gathered for a 'Coalition of the Willing' summit in Berlin, with President Volodymyr Zelensky. German Chancellor Friedrich Merz said that he expects new peace talks will 'take place soon', with Europe set to have a seat at the table alongside the US, Russia and Ukraine.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/19/europe-expects-to-join-new-ukraine-peace-talks-soon-says-german-chancellor_6784813_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-19T22:36:26Z",
+      "image": "https://img.lemde.fr/2026/11/19/491/0/5900/2950/644/322/60/0/aa8ca2c_ftp-1-plfto8a28eoo-2026-11-19t170157z-1696728472-rc24roaprt0g-rtrmadp-3-ukraine-crisis-germany.JPG",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -bd487c8bf7a3",
+      "title": "Step toward accountability: Top UN court finds Myanmar guilty of Rohingya genocide",
+      "description": "Rohingya refugees around the world welcomed the ruling, which comes after a yearslong legal battle and decades of persecution in western Myanmar.",
+      "url": "https://www.csmonitor.com/World/Asia-South-Central/2026/1119/rohingya-myanmar-genocide-ruling-un-court?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-11-19T22:35:14Z",
+      "image": "https://images.csmonitor.com/csm/2026/11/1119_OMYNAMAR_LEDE_line.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-8a3271186d8c",
+      "title": "Major anti-gang offensive in Haiti kills 34 suspected gang members",
+      "description": "Haitian security forces launched a major offensive on Thursday to retake Martissant, a strategic corridor linking Port-au-Prince with the country's western and southern regions that gangs have controlled for five years. Police said at least 34 suspected gang members were killed in clashes involving a private security t…",
+      "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
+      "source": "France24",
+      "publishedAt": "2026-11-19T22:31:25Z",
+      "image": "https://s.france24.com/media/display/181d54d6-e1f7-11f1-a490-f71d22e7fea9/w:1024/p:16x9/2026-11-12T233346Z-695546907-RC24MOACBCCE-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -8c56fdbe2f6d",
+      "title": "What does the Myanmar genocide ruling mean for the Rohingya?",
+      "description": "Rohingya refugees in Bangladesh cheered an International Court of Justice finding that Myanmar committed genocide.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-19T20:26:09Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795119930.jpg?resize=1620%2C1080&amp;quality=80",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -33,52 +110,6 @@
         "humanitarian"
       ],
       "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-9c1c603b8d8f",
-      "title": "ICJ ruling on Myanmar genocide: ‘Historic victory for Rohingya, landmark for international justice’",
-      "description": "Erin Ogunkeye welcomes Reed Brody, Member of the International Commission of Jurists, Human Rights Lawyer and veteran war crimes prosecutor. The International Court of Justice's ruling on Myanmar marks, according to Brody, \"a historic victory for the Rohingya, but also a landmark for international justice.\" He explains…",
-      "url": "https://www.france24.com/en/icj-ruling-on-myanmar-genocide-historic-victory-for-rohingya-landmark-for-international-justice",
-      "source": "France24",
-      "publishedAt": "2026-11-19T15:54:42Z",
-      "image": "https://s.france24.com/media/display/96bb2d4a-e42c-11f1-8790-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-150421-151554-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -f2a006663dd8",
-      "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-      "description": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
-      "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-19T13:54:10Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1795096333.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -6e1db066339b",
-      "title": "Myanmar guilty of genocide against Rohingya, top UN court rules",
-      "description": "It is the first time the International Court of Justice has ruled that a state committed genocide in its 80-year history.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/19/icj-rules-that-myanmar-committed-genocide-against-rohingya-muslims_6784320_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-19T12:32:52Z",
-      "image": "https://img.lemde.fr/2026/11/19/187/0/5262/2631/644/322/60/0/1d6fc3f_ftp-1-w2etnkkgk6mk-2026-11-19t091224z-1527449319-rc2xqoa1b9gy-rtrmadp-3-myanmar-rohingya-world-court.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -104,7 +135,7 @@
       "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-11-19T11:39:00Z",
-      "image": "https://static.dw.com/image/79988751_6.jpg",
+      "image": null,
       "categories": [
         "conflict"
       ],
@@ -124,21 +155,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-c73c048e2de0",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-18T17:00:40Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16fe/live/c4ae1b30-e405-11f1-a094-5fdc692f3e33.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

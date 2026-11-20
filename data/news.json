@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T11:00:02Z",
+  "updated": "2026-11-20T19:02:56Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/myanmar-committed-genocide-against-rohingya-icj-rules-in-landmark-verdict",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-20T10:59:58Z",
+      "publishedAt": "2026-11-20T19:02:51Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F4%2F5%2F13465465-1-eng-GB%2Fa291660f411d-2026-11-19T090255Z_1094509062_RC2WQOAKC6US_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,62 @@
       "tags": []
     },
     {
-      "id": "bbc-f451b9b779d9",
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "description": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-20T10:20:08Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg",
+      "id": "al -804f7cffd0cc",
+      "title": "Poland condemns Russian ‘provocation’ after airspace violations",
+      "description": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-20T15:18:26Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0057c1ee50-1795184577.jpg?resize=1800%2C1013",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-5cb09b8a8cc2",
+      "title": "Russia pummels Ukraine with massive strikes, missile hits Poland",
+      "description": "Moscow pounded Ukraine with massive strikes Friday, with Kyiv saying at least six people were killed in the capital, and neighbouring Poland reporting two Russian missiles likely landed in the south-east corner of the NATO country, accusing Moscow of a \"provocation.\" Hours earlier, Russia's Vladimir Putin vowed a \"pain…",
+      "url": "https://www.france24.com/en/video/20261120-russia-pummels-ukraine-with-massive-strikes-missile-hits-poland",
+      "source": "France24",
+      "publishedAt": "2026-11-20T14:36:48Z",
+      "image": "https://s.france24.com/media/display/eee66c42-e4ee-11f1-9776-13439ca2fe89/w:1024/p:16x9/EN-20261120-150718-151143-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-ea9b12f37be3",
+      "title": "Rutte, 'incidente in Polonia pericoloso, frutto della guerra in Ucraina'",
+      "description": "'Gravi violazioni dello spazio aereo, in risposta sono stati mobilitati jet della Nato'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/rutte-incidente-in-polonia-pericoloso-frutto-della-guerra-in-ucraina_43a4c552-01ba-48a4-8e36-84a69a50675c.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-20T12:30:29Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/19/7b082bc372e370e019c3cec6de99c3e2.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -9249850e48d7",
+      "title": "Massive Russian strikes kill at least eight in Ukraine, missile lands in Poland",
+      "description": "Six people died in Kyiv and two others in Lviv hours after Russian President Vladimir Putin vowed a 'painful' response to Ukraine's earlier bombing of the Crimea bridge. Authorities in Poland confirmed at least one missile had landed in the country, which is currently hosting NATO exercises.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/20/russian-strikes-on-kyiv-kill-at-least-six_6785275_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-20T10:12:47Z",
+      "image": "https://img.lemde.fr/2026/11/20/594/0/4176/2088/644/322/60/0/84144a8_ftp-1-f8rlkuw295ap-2026-11-20t085951z-960207166-rc2kroa7fzcs-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -52,49 +97,17 @@
       "tags": []
     },
     {
-      "id": "al -3bcfa52a6aed",
-      "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
-      "description": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
-      "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-20T05:36:21Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff2e7321a9-1795108467.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-e2a02a6cbb84",
-      "title": "'Trump agli europei, Putin vuole la fine della guerra'",
-      "description": "Lo riporta Axios",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/trump-agli-europei-putin-vuole-la-fine-della-guerra_fad02026-ed79-4ad6-a2a0-59790fcd1a0c.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-20T02:12:14Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/19/ed8a515fda8830f693399cc1c0611444.jpg",
+      "id": "bbc-42a972871329",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-20T00:50:24Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -c70b97c8e038",
-      "title": "Historic ICJ ruling finds Myanmar guilty of genocide against Rohingya",
-      "description": "The UN's judicial body ruled that the country committed six violations of the 1948 Genocide Convention. This marks the first time in history that a state has been convicted for the 'crime of crimes.' Some 10,000 Rohingya, a Muslim minority, were massacred by the Myanmar military, and their villages were destroyed. The …",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/20/rohingya-historic-international-court-of-justice-ruling-finds-myanmar-guilty-of-genocide_6784846_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-19T23:46:18Z",
-      "image": "https://img.lemde.fr/2026/11/19/0/0/7626/3813/644/322/60/0/e78c0f2_ftp-1-mohnaftftii0-afp-d7yn7we.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -114,17 +127,18 @@
       "tags": []
     },
     {
-      "id": "fra-8a3271186d8c",
-      "title": "Armed forces in Haiti kill at least 34 gang members to regain control of key corridor",
-      "description": "Haitian security forces launched a major offensive on Thursday to retake Martissant, a strategic corridor linking Port-au-Prince with the country's western and southern regions that gangs have controlled for five years. Police said at least 34 suspected gang members were killed in clashes involving a private security t…",
-      "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
-      "source": "France24",
-      "publishedAt": "2026-11-19T22:31:25Z",
-      "image": "https://s.france24.com/media/display/181d54d6-e1f7-11f1-a490-f71d22e7fea9/w:1024/p:16x9/2026-11-12T233346Z-695546907-RC24MOACBCCE-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg",
+      "id": "deu-2f50068d9d55",
+      "title": "Putin proposes second humanitarian ceasefire — is it a trap?",
+      "description": "Russian President Putin has suggested evacuating civilians from the embattled Ukrainian city of Kostiantynivka. But experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
+      "url": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-19T20:53:00Z",
+      "image": "https://static.dw.com/image/79943213_6.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 10,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -156,21 +170,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-036f155d9099",
-      "title": "Myanmar committed genocide against Rohingya, top UN court rules",
-      "description": "The International Court of Justice has upheld large parts of a genocide case against Myanmar linked to the 2017 conflict with its Rohingya minority. It called for it to pay reparations and let refugees return safely.",
-      "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-19T11:39:00Z",
-      "image": "https://static.dw.com/image/79988751_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
       "isAnalysis": false,
       "tags": []
     },

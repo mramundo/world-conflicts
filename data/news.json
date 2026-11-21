@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T09:20:02Z",
+  "updated": "2026-11-21T17:09:32Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/myanmar-committed-genocide-against-rohingya-icj-rules-in-landmark-verdict",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-21T09:20:00Z",
+      "publishedAt": "2026-11-21T17:09:29Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F4%2F5%2F13465465-1-eng-GB%2Fa291660f411d-2026-11-19T090255Z_1094509062_RC2WQOAKC6US_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,20 +21,93 @@
       "tags": []
     },
     {
-      "id": "al -350d1192a441",
-      "title": "Can mediation succeed in a war-torn world? | Episode 1",
-      "description": "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.",
-      "url": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-21T07:38:38Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795246644.jpg?resize=1920%2C1080&amp;quality=80",
+      "id": "ans-ce79d2caab2d",
+      "title": "Pezeshkian, 'siamo impegnati in una guerra economica silenziosa'",
+      "description": "'E' più difficile di un conflitto a colpi di missili'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/pezeshkian-siamo-impegnati-in-una-guerra-economica-silenziosa_ba08f792-6b23-47f7-bb99-294c2a18a582.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-21T16:34:36Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/10/27/57bcdb4f91e40cd5e7eea86f935d4455.jpg",
       "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-cbeed7399dad",
+      "title": "Russia strikes Zelenskyy's hometown, killing 2",
+      "description": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-occupied Crimea.",
+      "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-21T14:44:00Z",
+      "image": "https://static.dw.com/image/80009123_6.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -4e40fafe602b",
+      "title": "Italian ex-police chief accused in killing of judge found dead in apparent suicide",
+      "description": "Gianni De Gennaro was placed under investigation last week by prosecutors in Sicily for alleged obstruction of justice linked to the investigation into the July 19, 1992, bombing in Palermo that killed anti-Mafia magistrate Paolo Borsellino and five members of his security detail.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/21/italian-ex-police-chief-accused-in-killing-of-judge-found-dead-in-apparent-suicide_6786166_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-21T13:49:43Z",
+      "image": "https://img.lemde.fr/2026/11/21/355/0/3500/1750/644/322/60/0/b3666b5_ftp-1-2c8962r80kil-2026-11-21t104209z-30619825-rc2asoaxgo4d-rtrmadp-3-italy-mafia.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -196d1d3ecda7",
+      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+      "description": "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-21T12:29:49Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b018e5c201e-1795264092.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-2b93e4fb8190",
+      "title": "From Crimea to Kyiv, Bridges Become Targets in Russia’s War on Ukraine",
+      "description": "Ukraine’s destruction of the Crimean Bridge’s road span and Russia’s strikes on Kyiv’s bridges mark the latest stages of each side’s war strategy.",
+      "url": "https://www.themoscowtimes.com/2026/11/21/from-crimea-to-kyiv-bridges-become-targets-in-russias-war-on-ukraine-a94335",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-21T09:57:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/65/94335__65fd584b1e19f75d1bb84ea4bed64230.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-7c91a091915c",
+      "title": "Houthis launch strikes on Saudi Arabia",
+      "description": "Iran-backed Houthi rebels in Yemen continue to exchange strikes with the Saudi-led coalition. The coalition said it intercepted and destroyed three ballistic missiles fired towards Riyadh early on Saturday. It marks the second Houthi attack on the Saudi capital in recent days, following Saudi-led strikes on Houthi targ…",
+      "url": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
+      "source": "France24",
+      "publishedAt": "2026-11-21T09:49:44Z",
+      "image": "https://s.france24.com/media/display/778980c6-e58e-11f1-b8cd-ebb478925cf0/w:1024/p:16x9/EN-20261121-091902-092039-CS-01.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
       "tags": []
     },
     {
@@ -64,21 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-34077692cb3e",
-      "title": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
-      "description": "Yemen's Houthi rebels launched strikes on Riyadh on Saturday after Saudi-led coalition air raids on Yemen, escalating a months-long surge in cross-border attacks.",
-      "url": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation",
-      "source": "France24",
-      "publishedAt": "2026-11-20T18:36:15Z",
-      "image": "https://s.france24.com/media/display/43dab966-e511-11f1-b7af-1bac47ab2f5d/w:1024/p:16x9/44975f13e4cedc724dc3005a9fa1d30c73841d8b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -115,21 +173,6 @@
       "tags": []
     },
     {
-      "id": "ans-ea9b12f37be3",
-      "title": "Rutte, 'incidente in Polonia pericoloso, frutto della guerra in Ucraina'",
-      "description": "'Gravi violazioni dello spazio aereo, in risposta sono stati mobilitati jet della Nato'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/rutte-incidente-in-polonia-pericoloso-frutto-della-guerra-in-ucraina_43a4c552-01ba-48a4-8e36-84a69a50675c.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-20T12:30:29Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/19/7b082bc372e370e019c3cec6de99c3e2.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -9b9ee78ddf96",
       "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
       "description": "A day after the UN’s highest court&nbsp;found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement into action.",
@@ -141,21 +184,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -9249850e48d7",
-      "title": "Massive Russian strikes kill at least 11 in Ukraine, missile lands in Poland",
-      "description": "At least seven people died in Kyiv, two in Lviv and two others in Kryvyi Rih, hours after Russian President Vladimir Putin vowed a 'painful' response to Ukraine's earlier bombing of the Crimea bridge. Authorities in Poland confirmed at least one missile had landed in the country, which is currently hosting NATO exercis…",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/20/russian-strikes-on-kyiv-kill-at-least-six_6785275_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-20T10:12:47Z",
-      "image": "https://img.lemde.fr/2026/11/20/594/0/4176/2088/644/322/60/0/84144a8_ftp-1-f8rlkuw295ap-2026-11-20t085951z-960207166-rc2kroa7fzcs-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -175,22 +203,6 @@
       "tags": []
     },
     {
-      "id": "deu-2f50068d9d55",
-      "title": "Putin proposes second humanitarian ceasefire — is it a trap?",
-      "description": "Russian President Putin has suggested evacuating civilians from the embattled Ukrainian city of Kostiantynivka. But experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
-      "url": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-19T20:53:00Z",
-      "image": "https://static.dw.com/image/79943213_6.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-26035da73ae0",
       "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
       "description": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the worldThere were tears in the halls of The Hague in the Netherlands and an eruption of applause in the refugee camps of Bangladesh as the scattered communities of Rohingya watched the UN’s top court ru…",
@@ -201,21 +213,6 @@
       "categories": [
         "conflict",
         "humanitarian"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-776b8c829947",
-      "title": "Xi and Putin Blast Western 'Protectionism,' Sanctions as Trump Lands in China",
-      "description": "The three men are due to meet on Thursday and potentially discuss Russia's war with Ukraine and the U.S. war in Iran, as well as other flashpoints.",
-      "url": "https://www.themoscowtimes.com/2026/11/18/xi-and-putin-blast-western-protectionism-sanctions-as-trump-lands-in-china-a94292",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-11-18T14:21:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/a7/94292__a79c355de9d3e65e23d1a763625fdade.jpg",
-      "categories": [
-        "conflict"
       ],
       "relevanceScore": 8,
       "isAnalysis": false,

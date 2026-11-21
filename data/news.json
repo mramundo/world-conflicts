@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:02:56Z",
+  "updated": "2026-11-21T01:08:27Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/myanmar-committed-genocide-against-rohingya-icj-rules-in-landmark-verdict",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-20T19:02:51Z",
+      "publishedAt": "2026-11-21T01:08:24Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F4%2F5%2F13465465-1-eng-GB%2Fa291660f411d-2026-11-19T090255Z_1094509062_RC2WQOAKC6US_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,18 +21,80 @@
       "tags": []
     },
     {
-      "id": "al -804f7cffd0cc",
-      "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-      "description": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-20T15:18:26Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0057c1ee50-1795184577.jpg?resize=1800%2C1013",
+      "id": "npr-3d4928456c2e",
+      "title": "Another day of survival for a family in Ukraine",
+      "description": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+      "source": "NPR World",
+      "publishedAt": "2026-11-20T21:32:31Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6042206",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 7,
+      "relevanceScore": 5,
       "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-2b721ad99a5b",
+      "title": "Russian Strike on Kryvyi Rih Wounds 42, Kills 7-Year-Old and Paramedic",
+      "description": "A Russian ballistic missile strike on central Kryvyi Rih, a city in Ukraine’s Dnipropetrovsk region, on Friday evening, Nov. 20, killed a 7-year-old boy and a 20-year-old paramedic and injured 42 people, including four children, local officials said. Twenty-seven of the injured are in serious condition. Russia struck t…",
+      "url": "https://www.kyivpost.com/post/90770",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-20T21:09:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/20/4fa2e23b3d8427e2073a6c21b9bce99b.jpg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -ca7b21a1b795",
+      "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+      "description": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-20T20:59:04Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00aef5d23d-1795206901.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-36451c359f47",
+      "title": "At Least 9 Killed In Russian Attacks On Ukraine, Kyiv Bridges Damaged",
+      "description": "At least nine people were killed and 28 injured on November 20 in an overnight Russian drone and ballistic missile attack on Ukraine. In Kyiv, damaged bridges have been partially closed to traffic, forcing residents to cross the Dnieper River on foot. Strikes also hit other regions.",
+      "url": "https://www.rferl.org/a/at-least-9-killed-in-russian-attacks-on-ukraine-kyiv-bridges-damaged/33902696.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-11-20T15:22:39Z",
+      "image": "https://gdb.rferl.org/2b4f6170-49ae-4190-2ed9-08df407f9921_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-3fcc04ba00f0",
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-20T15:14:01Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": true,
       "tags": []
     },
     {
@@ -66,9 +128,24 @@
       "tags": []
     },
     {
+      "id": "un -9b9ee78ddf96",
+      "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+      "description": "A day after the UN’s highest court&nbsp;found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement into action.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
+      "source": "UN News",
+      "publishedAt": "2026-11-20T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_Rahman_Rohingya_visit.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "le -9249850e48d7",
-      "title": "Massive Russian strikes kill at least eight in Ukraine, missile lands in Poland",
-      "description": "Six people died in Kyiv and two others in Lviv hours after Russian President Vladimir Putin vowed a 'painful' response to Ukraine's earlier bombing of the Crimea bridge. Authorities in Poland confirmed at least one missile had landed in the country, which is currently hosting NATO exercises.",
+      "title": "Massive Russian strikes kill at least 11 in Ukraine, missile lands in Poland",
+      "description": "At least seven people died in Kyiv, two in Lviv and two others in Kryvyi Rih, hours after Russian President Vladimir Putin vowed a 'painful' response to Ukraine's earlier bombing of the Crimea bridge. Authorities in Poland confirmed at least one missile had landed in the country, which is currently hosting NATO exercis…",
       "url": "https://www.lemonde.fr/en/international/article/2026/11/20/russian-strikes-on-kyiv-kill-at-least-six_6785275_4.html",
       "source": "Le Monde (EN)",
       "publishedAt": "2026-11-20T10:12:47Z",
@@ -77,37 +154,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-c00b02fc58bf",
-      "title": "Putin Gets Trump’s Handshake and Support, but No ‘Yalta-2’",
-      "description": "Pro-Kremlin commentators billed the Shenzhen summit as a “new Yalta.” Its declaration left Ukraine unmentioned. On the flight home, Trump reportedly told European allies that Putin was serious about peace talks, hours after the Russian leader publicly rejected a ceasefire.",
-      "url": "https://www.kyivpost.com/analysis/90684",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-20T09:01:38Z",
-      "image": "https://static.kyivpost.com/storage/2026/11/20/de92b6f6f292dbe89a4c8dea913939da.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-42a972871329",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-20T00:50:24Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -159,21 +205,6 @@
       "tags": []
     },
     {
-      "id": "npr-aeff9386d011",
-      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-      "description": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
-      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-      "source": "NPR World",
-      "publishedAt": "2026-11-19T12:29:41Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7626x5084+0+0/resize/7626x5084!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F3b%2F65170ca542b4b8f2a8692418a464%2Fgettyimages-2305284448.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-776b8c829947",
       "title": "Xi and Putin Blast Western 'Protectionism,' Sanctions as Trump Lands in China",
       "description": "The three men are due to meet on Thursday and potentially discuss Russia's war with Ukraine and the U.S. war in Iran, as well as other flashpoints.",
@@ -186,37 +217,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -3bd694259d88",
-      "title": "Dozens more children killed in Yemen amid escalating hostilities",
-      "description": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168830",
-      "source": "UN News",
-      "publishedAt": "2026-11-18T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/22-09-2026_UNICEF_Yemen.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-4a84112d8969",
-      "title": "Pentagon Official Says Ukraine War Likely To Last Through Winter, Despite Mediation Efforts",
-      "description": "A top Pentagon official told NATO allies that Moscow is likely to continue its war efforts in Ukraine at least through the winter months, despite Washington's attempts to secure a cease-fire and peace deal between Russia and Ukraine.",
-      "url": "https://www.rferl.org/a/pentagon-colby-ukraine-russia-pistorius-ceasefire-talks/33900531.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-11-17T21:42:25Z",
-      "image": "https://gdb.rferl.org/bfdabac6-1c28-432e-831d-5b2ea569e694_cx0_cy7_cw0_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
       "tags": []
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-22T10:50:46Z",
+  "updated": "2026-11-22T18:17:15Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-weighs-early-funding-to-icc-before-us-sanctions-cutoff",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-22T10:50:43Z",
+      "publishedAt": "2026-11-22T18:17:12Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F1%2F9%2F3%2F13473915-1-eng-GB%2Ff55ea48fc21d-photo_SXM2026111500008402-1-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,18 +21,94 @@
       "tags": []
     },
     {
-      "id": "al -444029da750d",
-      "title": "Restored wells bring life back to Hebron’s occupied Old City",
-      "description": "Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.",
-      "url": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-22T09:33:16Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/163A6934-1795336739.jpg?resize=1920%2C1440",
+      "id": "bbc-86c4e817690b",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-22T17:18:26Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -4830ed91dcaa",
+      "title": "Castel Group, the discreet beer and wine empire, is rocked by a power struggle",
+      "description": "A bitter battle for control is shaking the beverage giant. The spiritual and financial legacy of its charismatic founder, Pierre Castel, who has just turned 100 and is France's 11th-richest person, is a stake.",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/11/22/castel-group-the-discreet-beer-and-wine-empire-is-rocked-by-a-power-struggle_6786760_19.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-22T17:00:02Z",
+      "image": "https://img.lemde.fr/2026/11/20/310/0/2625/1312/644/322/60/0/4f5c077_upload-1-wly4lqpugvxj-gettyimages-2187492495.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-969b3e367a9a",
+      "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+      "description": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaAn explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said.There was no immediate claim of responsi…",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-22T16:55:49Z",
+      "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-c7e65698b6ac",
+      "title": "Libya’s Eastern Government Suspects Drone Attack Caused Explosion on Russian Ship",
+      "description": "The government stressed that Libya was not a party to the war between Russia and Ukraine, saying its relations with friendly countries were a sovereign matter.",
+      "url": "https://www.themoscowtimes.com/2026/11/22/libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port-a94344",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-22T15:23:00Z",
+      "image": "https://static.themoscowtimes.com/image/og/95/94344__95a61eda951a64e08194431a3706e1b7.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-889fd7628c88",
+      "title": "Israel investigates West Bank fires",
+      "description": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks local activists say were carried out by Israeli settlers. Around eight vehicles were reportedly torched and racist slogans sprayed on walls, p…",
+      "url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
+      "source": "France24",
+      "publishedAt": "2026-11-22T13:47:04Z",
+      "image": "https://s.france24.com/media/display/f8b8c1ac-e679-11f1-8017-1bac47ab2f5d/w:1024/p:16x9/EN-20261122-140613-140959-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -fe31e32e43a9",
+      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+      "description": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
+      "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-22T13:15:40Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A1199-copy-1795348763.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": true,
       "tags": []
     },
@@ -63,66 +139,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-7184f6b94649",
-      "title": "Mexico captures drug cartel boss ‘El Chapo Isidro’ after deadly firefight",
-      "description": "Mexico's military forces captured ​one of the most wanted suspected drug lords, Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" the military announced on Saturday, after a deadly firefight that killed seven suspected attackers and four soldiers. Flores, one of the FBI’s 10 most wanted fugitives, was flown to Mex…",
-      "url": "https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight",
-      "source": "France24",
-      "publishedAt": "2026-11-21T15:00:15Z",
-      "image": "https://s.france24.com/media/display/7ea4cdf8-e5d8-11f1-9d8c-1bac47ab2f5d/w:1024/p:16x9/5ae7a51b5a446d41d7c0ce84900d19b70a41bb55.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -4e40fafe602b",
-      "title": "Italian ex-police chief accused in killing of judge found dead in apparent suicide",
-      "description": "Gianni De Gennaro was placed under investigation last week by prosecutors in Sicily for alleged obstruction of justice linked to the investigation into the July 19, 1992, bombing in Palermo that killed anti-Mafia magistrate Paolo Borsellino and five members of his security detail.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/21/italian-ex-police-chief-accused-in-killing-of-judge-found-dead-in-apparent-suicide_6786166_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-21T13:49:43Z",
-      "image": "https://img.lemde.fr/2026/11/21/355/0/3500/1750/644/322/60/0/b3666b5_ftp-1-2c8962r80kil-2026-11-21t104209z-30619825-rc2asoaxgo4d-rtrmadp-3-italy-mafia.JPG",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-2b93e4fb8190",
-      "title": "From Crimea to Kyiv, Bridges Become Targets in Russia’s War on Ukraine",
-      "description": "Ukraine’s destruction of the Crimean Bridge’s road span and Russia’s strikes on Kyiv’s bridges mark the latest stages of each side’s war strategy.",
-      "url": "https://www.themoscowtimes.com/2026/11/21/from-crimea-to-kyiv-bridges-become-targets-in-russias-war-on-ukraine-a94335",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-11-21T09:57:00Z",
-      "image": "https://static.themoscowtimes.com/image/og/65/94335__65fd584b1e19f75d1bb84ea4bed64230.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "npr-3d4928456c2e",
-      "title": "Another day of survival for a family in Ukraine",
-      "description": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
-      "source": "NPR World",
-      "publishedAt": "2026-11-20T21:32:31Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6042206",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -158,22 +174,6 @@
       "tags": []
     },
     {
-      "id": "bbc-3fcc04ba00f0",
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
-      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-20T15:14:01Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "un -9b9ee78ddf96",
       "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
       "description": "A day after the UN’s highest court&nbsp;found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement into action.",
@@ -200,22 +200,6 @@
         "conflict"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-26035da73ae0",
-      "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
-      "description": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the worldThere were tears in the halls of The Hague in the Netherlands and an eruption of applause in the refugee camps of Bangladesh as the scattered communities of Rohingya watched the UN’s top court ru…",
-      "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-19T16:15:52Z",
-      "image": "https://i.guim.co.uk/img/media/4e0b4c5c18a104b80eb856eb0e127b220dae2103/219_0_3448_2758/master/3448.jpg?width=140&quality=85&auto=format&fit=max&s=5ed800299799e0f85c0522c5daefd9d0",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     }

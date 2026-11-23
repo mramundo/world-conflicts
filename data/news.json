@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T18:17:15Z",
+  "updated": "2026-11-23T00:01:20Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,11 +10,86 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-weighs-early-funding-to-icc-before-us-sanctions-cutoff",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-22T18:17:12Z",
+      "publishedAt": "2026-11-23T00:01:17Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F1%2F9%2F3%2F13473915-1-eng-GB%2Ff55ea48fc21d-photo_SXM2026111500008402-1-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -2e584870657d",
+      "title": "'The weight of past defeats deters Saudi Arabia's allies from intervening in Yemen'",
+      "description": "Saudi Arabia is struggling to rally Turkey and Egypt, and even Syria, against the Houthi forces. 'Revisiting this centuries-old history helps dispel the strategic myopia that would see the Houthis as mere proxies of the Iranian regime,' explains Jean-Pierre Filiu.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/23/the-weight-of-past-defeats-deters-saudi-arabia-s-allies-from-intervening-in-yemen_6786925_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-22T23:58:37Z",
+      "image": "https://img.lemde.fr/2026/11/11/0/0/6000/3000/644/322/60/0/49367df_ftp-1-uzfae3xn1aba-2026-11-11t095733z-751343288-rc2jloa2aaxt-rtrmadp-3-iran-crisis-yemen-funeral.JPG",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-4e7af9af598a",
+      "title": "Ukraine war spilling into NATO territory",
+      "description": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+      "source": "NPR World",
+      "publishedAt": "2026-11-22T22:40:22Z",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050236",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "the-969b3e367a9a",
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "description": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaA Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.…",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-22T21:33:44Z",
+      "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-ab359041e8da",
+      "title": "La cena del Thanksgiving costerà cara, il tacchino è aumentato del 10%",
+      "description": "Si tratta del primo incremento dal 2022. Responsabile la guerra in Iran",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/22/la-cena-del-thanksgiving-costera-cara-il-tacchino-e-aumentato-del-10_71a3b4f5-1a7f-4642-84ce-1f48197c23d1.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-22T20:02:16Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2024/11/25/8ad29deafe44a4edf814094226f98bd0.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -dff33020a464",
+      "title": "Civilians killed in RSF drone strikes in Sudan",
+      "description": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-22T18:12:07Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795371105.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
@@ -32,36 +107,6 @@
         "conflict"
       ],
       "relevanceScore": 5,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -4830ed91dcaa",
-      "title": "Castel Group, the discreet beer and wine empire, is rocked by a power struggle",
-      "description": "A bitter battle for control is shaking the beverage giant. The spiritual and financial legacy of its charismatic founder, Pierre Castel, who has just turned 100 and is France's 11th-richest person, is a stake.",
-      "url": "https://www.lemonde.fr/en/economy/article/2026/11/22/castel-group-the-discreet-beer-and-wine-empire-is-rocked-by-a-power-struggle_6786760_19.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-22T17:00:02Z",
-      "image": "https://img.lemde.fr/2026/11/20/310/0/2625/1312/644/322/60/0/4f5c077_upload-1-wly4lqpugvxj-gettyimages-2187492495.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-969b3e367a9a",
-      "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
-      "description": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaAn explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said.There was no immediate claim of responsi…",
-      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-22T16:55:49Z",
-      "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -92,38 +137,6 @@
         "conflict"
       ],
       "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -fe31e32e43a9",
-      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-      "description": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
-      "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-22T13:15:40Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A1199-copy-1795348763.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-11d6a403fece",
-      "title": "Zelensky ringrazia Melania Trump per il cessate il fuoco di Oleshky",
-      "description": "Il presidente ucraino poi elenca i luoghi da evacuare",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/zelensky-ringrazia-melania-trump-per-il-cessate-il-fuoco-di-oleshky_f790af89-7d0f-48fb-907a-c82009f09395.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-21T23:04:38Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/5/70e2d929bff8e875d875f5a944fd40eb.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -181,21 +194,6 @@
       "source": "UN News",
       "publishedAt": "2026-11-20T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_Rahman_Rohingya_visit.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -bd487c8bf7a3",
-      "title": "Step toward accountability: Top UN court finds Myanmar guilty of Rohingya genocide",
-      "description": "Rohingya refugees around the world welcomed the ruling, which comes after a yearslong legal battle and decades of persecution in western Myanmar.",
-      "url": "https://www.csmonitor.com/World/Asia-South-Central/2026/1119/rohingya-myanmar-genocide-ruling-un-court?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-11-19T22:35:14Z",
-      "image": "https://images.csmonitor.com/csm/2026/11/1119_OMYNAMAR_LEDE_line.jpg?alias=standard_900x600",
       "categories": [
         "conflict"
       ],

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T08:40:25Z",
+  "updated": "2026-11-23T20:56:35Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-weighs-early-funding-to-icc-before-us-sanctions-cutoff",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-23T08:40:22Z",
+      "publishedAt": "2026-11-23T20:56:33Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F1%2F9%2F3%2F13473915-1-eng-GB%2Ff55ea48fc21d-photo_SXM2026111500008402-1-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,92 +21,140 @@
       "tags": []
     },
     {
-      "id": "ans-973d6a720c85",
-      "title": "Nave militare russa colpita a Bengasi, 'sono stati gli ucraini'",
-      "description": "La guerra arriva nel Mediterraneo. Centrato su un condominio a nord di Kiev, è strage",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/nave-militare-russa-colpita-a-bengasi-sono-stati-gli-ucraini-_957fd3f3-aa7b-4ed5-b2d5-03500486cfde.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-23T06:44:39Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/22/5c1f9cb53333e77ea367dfce4fe8abbe.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -42f3dcde7248",
-      "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
-      "description": "Physicians for Human Rights Israel says medics face &#039;dangerous escalation&#039; in violence from soldiers and settlers.",
-      "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-23T05:38:01Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2283862197-1-1795412914.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-b0eaad06d055",
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "description": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "id": "bbc-e8b12cc5b998",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-11-23T05:33:17Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
+      "publishedAt": "2026-11-23T20:48:35Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
       "categories": [
-        "conflict"
+        "conflict",
+        "analysis"
       ],
       "relevanceScore": 10,
-      "isAnalysis": false,
+      "isAnalysis": true,
       "tags": []
     },
     {
-      "id": "le -2e584870657d",
-      "title": "'The weight of past defeats deters Saudi Arabia's allies from intervening in Yemen'",
-      "description": "Saudi Arabia is struggling to rally Turkey, Egypt and even Syria, to fight against the Houthi forces. 'Revisiting this centuries-old history helps dispel the strategic myopia that would see the Houthis as mere proxies of the Iranian regime,' writes historian Jean-Pierre Filiu.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/23/the-weight-of-past-defeats-deters-saudi-arabia-s-allies-from-intervening-in-yemen_6786925_4.html",
+      "id": "fra-435658bc0d87",
+      "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
+      "description": "Talk about spillover. In the Libyan port of Benghazi, Ukraine claiming responsibility for the sinkings first of a Russian warship and then a cargo vessel. That’s on top of the sanctioned ship struck in the Baltic Sea that’s since strayed into Finland’s waters. Legitimate targets?",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
+      "source": "France24",
+      "publishedAt": "2026-11-23T19:41:45Z",
+      "image": "https://s.france24.com/media/display/dd313f6c-e76f-11f1-85b8-e56ab3dc0809/w:1024/p:16x9/2026-11-23T102302Z-464352545-RC2MTOAS4A1W-RTRMADP-3-UKRAINE-CRISIS.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "rfe-d23641c7c663",
+      "title": "More than 700,000 Russian Soldiers Killed in Ukraine War, New Analysis Finds",
+      "description": "More than 700,000 Russian soldiers have been killed during the nearly-five-year-old war on Ukraine, according to a new analysis, a staggering figure that highlights Moscow's intent on conquering Ukrainian territory -- and Ukraine's intent on inflicting mass casualties. The tally, released November 23, was compiled in a…",
+      "url": "https://www.rferl.org/a/russia-ukraine-war-casualty-estimate-killed/33904373.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-11-23T19:14:07Z",
+      "image": "https://gdb.rferl.org/504d4d45-3795-4d14-817b-08decad17715_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "le -85997e3ab570",
+      "title": "Attacks on two Russian ships in Libyan waters mark new turn in Ukraine war",
+      "description": "Ukrainian President Volodymyr Zelensky claimed seven naval drones carried out two attacks off the coast of Benghazi. The attack on Russian vessels transporting weaponry demonstrates Kyiv's capacity to strike Moscow's interests wherever they might be.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/11/23/attacks-on-two-russian-ships-in-libyan-waters-mark-new-turn-in-ukraine-war_6787337_124.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-22T23:58:35Z",
-      "image": "https://img.lemde.fr/2026/11/11/0/0/6000/3000/644/322/60/0/49367df_ftp-1-uzfae3xn1aba-2026-11-11t095733z-751343288-rc2jloa2aaxt-rtrmadp-3-iran-crisis-yemen-funeral.JPG",
+      "publishedAt": "2026-11-23T17:26:35Z",
+      "image": "https://img.lemde.fr/2026/11/23/965/0/5981/2990/644/322/60/0/34c8905_ftp-1-0voe7ylwju1n-afp-d8c49t3.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "npr-4e7af9af598a",
-      "title": "Ukraine war spilling into NATO territory",
-      "description": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+      "id": "the-77ece0992320",
+      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
+      "description": "European Commission president Ursula von der Leyen sets out 22nd package of sanctionsTurning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine.“It helps Ukraine to defend itself today, but it also strengthens Ukraine’s hands in any futur…",
+      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-23T16:42:56Z",
+      "image": "https://i.guim.co.uk/img/media/4c509a9f9850f0d11a9c0ed02922a5b31f2ff85f/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a9e288abb70ca807887f49b794811d54",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c5b3bdbceb53",
+      "title": "Gaza mourns UNRWA worker killed in Israeli strike",
+      "description": "Palestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while on duty",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-23T16:35:28Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795451721.jpg?resize=1920%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -67d17308d9ce",
+      "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+      "description": "As winter sets in, the Security Council is holding a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water. It will also look at how strikes on Black Sea shipping threaten grain supplies to import-dependent countries far from the war’s fro…",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168859",
+      "source": "UN News",
+      "publishedAt": "2026-11-23T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-UNHCR-Ukraine-winter.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "npr-a133c870a360",
+      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+      "description": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
       "source": "NPR World",
-      "publishedAt": "2026-11-22T22:40:22Z",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050236",
+      "publishedAt": "2026-11-23T10:16:33Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2F30%2Fd4914bc74ad997c95d4e79039c90%2Fap26327310507060.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-a09139486226",
+      "title": "Media ucraini, droni contro nave russa lanciati da base nell'ovest della Libia",
+      "description": "Rbc Ukraine cita un rapporto dell'Institute for the Study of War (Isw)",
+      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/media-ucraini-droni-contro-nave-russa-lanciati-da-base-nellovest-della_de9489d7-71fe-4465-9ff2-a2a6f202b329.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-23T09:22:43Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/22/d7074adf53879f227a35ede7955e6a61.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-969b3e367a9a",
-      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-      "description": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaA Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.…",
-      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-22T21:33:44Z",
-      "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
@@ -122,21 +170,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-889fd7628c88",
-      "title": "Israel investigates West Bank fires",
-      "description": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks local activists say were carried out by Israeli settlers. Around eight vehicles were reportedly torched and racist slogans sprayed on walls, p…",
-      "url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
-      "source": "France24",
-      "publishedAt": "2026-11-22T13:47:04Z",
-      "image": "https://s.france24.com/media/display/f8b8c1ac-e679-11f1-8017-1bac47ab2f5d/w:1024/p:16x9/EN-20261122-140613-140959-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -167,37 +200,6 @@
         "conflict"
       ],
       "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "rfe-36451c359f47",
-      "title": "At Least 9 Killed In Russian Attacks On Ukraine, Kyiv Bridges Damaged",
-      "description": "At least nine people were killed and 28 injured on November 20 in an overnight Russian drone and ballistic missile attack on Ukraine. In Kyiv, damaged bridges have been partially closed to traffic, forcing residents to cross the Dnieper River on foot. Strikes also hit other regions.",
-      "url": "https://www.rferl.org/a/at-least-9-killed-in-russian-attacks-on-ukraine-kyiv-bridges-damaged/33902696.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-11-20T15:22:39Z",
-      "image": "https://gdb.rferl.org/2b4f6170-49ae-4190-2ed9-08df407f9921_tv_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -9b9ee78ddf96",
-      "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
-      "description": "A day after the UN’s highest court&nbsp;found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement into action.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
-      "source": "UN News",
-      "publishedAt": "2026-11-20T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_Rahman_Rohingya_visit.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     }

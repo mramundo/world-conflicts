@@ -1,53 +1,98 @@
 {
-  "updated": "2026-11-24T05:11:38Z",
+  "updated": "2026-11-24T17:07:45Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-417d6b648ad1",
-      "title": "Japan weighs early funding to ICC before US sanctions cutoff",
+      "id": "nik-57ebf4c61a58",
+      "title": "Huang's Nvidia return sets up clash with China hawks in Congress",
       "description": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/japan-weighs-early-funding-to-icc-before-us-sanctions-cutoff",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/huang-s-nvidia-return-sets-up-clash-with-china-hawks-in-congress",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-24T05:11:34Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F1%2F9%2F3%2F13473915-1-eng-GB%2Ff55ea48fc21d-photo_SXM2026111500008402-1-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -951b78ea51b5",
-      "title": "Drone attack on police base in Colombia injures three, including infant",
-      "description": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
-      "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-23T23:49:37Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b04bf9609ed-1795473302.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-24T17:07:40Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F1%2F1%2F13481149-1-eng-GB%2F119935332a77-b1.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-5853e5346043",
-      "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
-      "description": "14 from Europe, Africa and Oceania have acknowledged a landmark ruling by the International Court of Justice that Myanmar committed genocide against its Rohingya minority, calling on the country to comply with its obligations under international law. The United Kingdom separately announced sanctions against five senior…",
-      "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+      "id": "fra-4fb99a7dd65c",
+      "title": "Leaked data suggests 500,000 Russian soldiers killed since start of Ukraine invasion",
+      "description": "More than 500,000 Russian soldiers have been killed in the war with Ukraine, according to an estimate by a number of media organisations. The figures are based on a huge dataset that was hacked from Russia’s state statistics agency Rosstat by Belarusian activist group Cyber Partisans and a Ukrainian hacker group, Silen…",
+      "url": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
       "source": "France24",
-      "publishedAt": "2026-11-23T23:10:22Z",
-      "image": "https://s.france24.com/media/display/6d2efc7c-e4c7-11f1-b999-13439ca2fe89/w:1024/p:16x9/2026-11-19T101513Z-1144479296-RC2WQOADW602-RTRMADP-3-MYANMAR-ROHINGYA-WORLD-COURT.jpg",
+      "publishedAt": "2026-11-24T15:53:03Z",
+      "image": "https://s.france24.com/media/display/c10d4f8e-e81d-11f1-82e4-81da3ab2acbb/w:1024/p:16x9/EN-20261124-160120-160737-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-c1de046ca2ce",
+      "title": "Presidente Colombia, attentato in provincia Meta opera di gruppo dissidenti ex-Farc",
+      "description": "'Ci attaccano perchè li stiamo affrontando, nessuna marcia indietro contro il terrorismo'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/24/presidente-colombia-attentato-in-provincia-meta-opera-di-gruppo-dissidenti-ex-farc_10577f9c-ade2-48ff-8416-74845240da4a.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-24T15:49:44Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/24/acfdee7f4909e97ba982d5f9c1f85c73.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -7dfd72916188",
+      "title": "Israeli air strike kills senior Hamas security official in Gaza",
+      "description": "Naim Abu Nahl, 50, was killed in a crowded area while four others, including a Palestinian woman, were wounded.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-24T13:55:11Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b058bb878cb-1795525560.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-b1d62f69a2ca",
+      "title": "Is North Korea holding back on sending Russia more troops?",
+      "description": "A North Korean troop buildup Ukraine warned about months ago has yet to materialize, even as strategic cooperation continues. Analysts say Pyongyang is balancing its ties with Moscow and Beijing.",
+      "url": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-24T12:51:00Z",
+      "image": "https://static.dw.com/image/76947268_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "the-21d99b6d7920",
+      "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+      "description": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migrants and refugees back to Myanmar, despite acknowledging that many asylum seekers in the country had been victims of “atrocities” carried ​o…",
+      "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-24T05:54:14Z",
+      "image": "https://i.guim.co.uk/img/media/d6322487e65959fb8cbf133843b8295362b0ce38/0_0_3825_3061/master/3825.jpg?width=140&quality=85&auto=format&fit=max&s=2449c5f8eaadceba9e89b9521d583232",
       "categories": [
         "conflict",
         "humanitarian"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     },
@@ -84,8 +129,8 @@
     },
     {
       "id": "rfe-d23641c7c663",
-      "title": "More than 700,000 Russian Soldiers Killed in Ukraine War, New Analysis Finds",
-      "description": "More than 700,000 Russian soldiers have been killed during the nearly-five-year-old war on Ukraine, according to a new analysis, a staggering figure that highlights Moscow's intent on conquering Ukrainian territory -- and Ukraine's intent on inflicting mass casualties. The tally, released November 23, was compiled in a…",
+      "title": "More Than 700,000 Russian Soldiers Killed In Ukraine War, New Analysis Finds",
+      "description": "More than 700,000 Russian soldiers have been killed during the nearly-five-year-old war on Ukraine, according to a new analysis, a staggering figure that highlights Moscow's intent on conquering Ukrainian territory -- and Ukraine's intent on inflicting mass casualties.",
       "url": "https://www.rferl.org/a/russia-ukraine-war-casualty-estimate-killed/33904373.html",
       "source": "RFE/RL",
       "publishedAt": "2026-11-23T19:14:07Z",
@@ -94,7 +139,7 @@
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 14,
+      "relevanceScore": 13,
       "isAnalysis": true,
       "tags": []
     },
@@ -104,27 +149,12 @@
       "description": "Ukrainian President Volodymyr Zelensky claimed seven naval drones carried out two attacks off the coast of Benghazi. The attack on Russian vessels transporting weaponry demonstrates Kyiv's capacity to strike Moscow's interests wherever they might be.",
       "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/11/23/attacks-on-two-russian-ships-in-libyan-waters-mark-new-turn-in-ukraine-war_6787337_124.html",
       "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-23T17:26:35Z",
+      "publishedAt": "2026-11-23T17:26:32Z",
       "image": "https://img.lemde.fr/2026/11/23/965/0/5981/2990/644/322/60/0/34c8905_ftp-1-0voe7ylwju1n-afp-d8c49t3.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-77ece0992320",
-      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-      "description": "European Commission president Ursula von der Leyen sets out 22nd package of sanctionsTurning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine.“It helps Ukraine to defend itself today, but it also strengthens Ukraine’s hands in any futur…",
-      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-23T16:42:56Z",
-      "image": "https://i.guim.co.uk/img/media/4c509a9f9850f0d11a9c0ed02922a5b31f2ff85f/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a9e288abb70ca807887f49b794811d54",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -174,21 +204,6 @@
       "tags": []
     },
     {
-      "id": "ans-a09139486226",
-      "title": "Media ucraini, droni contro nave russa lanciati da base nell'ovest della Libia",
-      "description": "Rbc Ukraine cita un rapporto dell'Institute for the Study of War (Isw)",
-      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/media-ucraini-droni-contro-nave-russa-lanciati-da-base-nellovest-della_de9489d7-71fe-4465-9ff2-a2a6f202b329.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-23T09:22:43Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/22/d7074adf53879f227a35ede7955e6a61.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "the-c7e65698b6ac",
       "title": "Libya’s Eastern Government Suspects Drone Attack Caused Explosion on Russian Ship",
       "description": "The government stressed that Libya was not a party to the war between Russia and Ukraine, saying its relations with friendly countries were a sovereign matter.",
@@ -200,21 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-06106032bc37",
-      "title": "Russian helicopter suspected of violating Finnish airspace",
-      "description": "Finland's Defense Ministry thinks the incursion is linked to a drone strike earlier Saturday on a Russian cargo ship, which is on a US sanctions list.",
-      "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-21T17:08:00Z",
-      "image": "https://static.dw.com/image/74073702_6.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     }

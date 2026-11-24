@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-23T20:56:35Z",
+  "updated": "2026-11-24T05:11:38Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,11 +10,57 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-weighs-early-funding-to-icc-before-us-sanctions-cutoff",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-23T20:56:33Z",
+      "publishedAt": "2026-11-24T05:11:34Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F1%2F9%2F3%2F13473915-1-eng-GB%2Ff55ea48fc21d-photo_SXM2026111500008402-1-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -951b78ea51b5",
+      "title": "Drone attack on police base in Colombia injures three, including infant",
+      "description": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-23T23:49:37Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b04bf9609ed-1795473302.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-5853e5346043",
+      "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
+      "description": "14 from Europe, Africa and Oceania have acknowledged a landmark ruling by the International Court of Justice that Myanmar committed genocide against its Rohingya minority, calling on the country to comply with its obligations under international law. The United Kingdom separately announced sanctions against five senior…",
+      "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+      "source": "France24",
+      "publishedAt": "2026-11-23T23:10:22Z",
+      "image": "https://s.france24.com/media/display/6d2efc7c-e4c7-11f1-b999-13439ca2fe89/w:1024/p:16x9/2026-11-19T101513Z-1144479296-RC2WQOADW602-RTRMADP-3-MYANMAR-ROHINGYA-WORLD-COURT.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 8,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -c2c27a32710c",
+      "title": "First Eastern Europe, now Libya: The Ukraine war expands its reach",
+      "description": "More sophisticated military technology developed by Ukraine, and suspected Russian message-sending, are expanding the borders of the Ukraine war.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/1123/russia-ukraine-sea-drones-missiles-libya-poland?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-11-23T22:06:53Z",
+      "image": "https://images.csmonitor.com/csm/2026/11/1123_OUKRAINELATEST_russian_cargo_ship.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
@@ -33,22 +79,6 @@
         "analysis"
       ],
       "relevanceScore": 10,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-435658bc0d87",
-      "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
-      "description": "Talk about spillover. In the Libyan port of Benghazi, Ukraine claiming responsibility for the sinkings first of a Russian warship and then a cargo vessel. That’s on top of the sanctioned ship struck in the Baltic Sea that’s since strayed into Finland’s waters. Legitimate targets?",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
-      "source": "France24",
-      "publishedAt": "2026-11-23T19:41:45Z",
-      "image": "https://s.france24.com/media/display/dd313f6c-e76f-11f1-85b8-e56ab3dc0809/w:1024/p:16x9/2026-11-23T102302Z-464352545-RC2MTOAS4A1W-RTRMADP-3-UKRAINE-CRISIS.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": true,
       "tags": []
     },
@@ -99,32 +129,32 @@
       "tags": []
     },
     {
-      "id": "al -c5b3bdbceb53",
-      "title": "Gaza mourns UNRWA worker killed in Israeli strike",
-      "description": "Palestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while on duty",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-23T16:35:28Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795451721.jpg?resize=1920%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "un -67d17308d9ce",
-      "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
-      "description": "As winter sets in, the Security Council is holding a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water. It will also look at how strikes on Black Sea shipping threaten grain supplies to import-dependent countries far from the war’s fro…",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168859",
+      "id": "un -1a72f7bdfbc7",
+      "title": "Gaza war has undone 77 years of human development, UN warns",
+      "description": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
       "source": "UN News",
       "publishedAt": "2026-11-23T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-UNHCR-Ukraine-winter.jpg/image560x340cropped.jpg",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/30-10-2026-UNICEF-Gaza-05.jpg/image560x340cropped.jpg",
       "categories": [
         "conflict"
       ],
       "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "kyi-22db38aba6d7",
+      "title": "3 Killed in Russian Strike on Private Clinic in Zaporizhzhia",
+      "description": "Three people were killed in a Russian strike on a private clinic in Zaporizhzhia on Monday, while attacks across Ukraine caused further casualties and damage to civilian infrastructure.",
+      "url": "https://www.kyivpost.com/post/90922",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-23T11:53:02Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/23/059968754bd8c3aa0a386ab8617cc699.jpeg?w=640&q=90&f=jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
@@ -185,21 +215,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-2b721ad99a5b",
-      "title": "Russian Strike on Kryvyi Rih Wounds 58, Kills 7-Year-Old and Paramedic",
-      "description": "A Russian ballistic missile strike on central Kryvyi Rih, a city in Ukraine’s Dnipropetrovsk region, on Friday evening, Nov. 20, killed a 7-year-old boy and a 20-year-old paramedic and injured 58 people, including four children, local officials said. Twenty-eight of the injured are in serious condition. Russia struck t…",
-      "url": "https://www.kyivpost.com/post/90770",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-20T21:09:00Z",
-      "image": "https://static.kyivpost.com/storage/2026/11/20/4fa2e23b3d8427e2073a6c21b9bce99b.jpg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
       "isAnalysis": false,
       "tags": []
     }

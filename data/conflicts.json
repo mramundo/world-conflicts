@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T01:58:55Z",
+  "updated": "2026-11-25T11:07:35Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-11-25T00:24:19Z",
   "items": [
@@ -23,8 +23,8 @@
       ],
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-11-25",
-      "wikipediaRevision": "2026-11-25T00:29:40Z",
-      "recentNewsCount": 9
+      "wikipediaRevision": "2026-11-25T10:37:59Z",
+      "recentNewsCount": 8
     },
     {
       "id": "il-ps",
@@ -45,8 +45,8 @@
         "Asymmetric"
       ],
       "wikipediaPage": "Gaza_war",
-      "lastUpdate": "2026-11-24",
-      "wikipediaRevision": "2026-11-24T01:44:54Z",
+      "lastUpdate": "2026-11-25",
+      "wikipediaRevision": "2026-11-25T04:13:31Z",
       "recentNewsCount": 1
     },
     {
@@ -158,7 +158,7 @@
       "lastUpdate": "2026-11-24",
       "casualtiesSource": "wikipedia",
       "wikipediaRevision": "2026-11-24T23:14:54Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 3
     },
     {
       "id": "sahel",
@@ -360,7 +360,7 @@
       "wikipediaPage": "Colombian_conflict",
       "lastUpdate": "2026-11-24",
       "wikipediaRevision": "2026-11-24T22:26:09Z",
-      "recentNewsCount": 2
+      "recentNewsCount": 0
     },
     {
       "id": "ly-war",
@@ -381,7 +381,7 @@
       ],
       "wikipediaPage": "Libyan_crisis_(2011%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 4
+      "recentNewsCount": 3
     },
     {
       "id": "kashmir",
@@ -402,9 +402,9 @@
         "Interstate"
       ],
       "wikipediaPage": "Insurgency_in_Jammu_and_Kashmir",
-      "lastUpdate": "2026-11-23",
+      "lastUpdate": "2026-11-25",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-11-23T20:31:14Z",
+      "wikipediaRevision": "2026-11-25T03:56:04Z",
       "recentNewsCount": 0
     },
     {

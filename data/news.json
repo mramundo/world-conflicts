@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:07:27Z",
+  "updated": "2026-11-25T21:16:08Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/icc-judge-says-sanctions-overcompliance-aids-us-intimidation-against-court",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-25T11:07:24Z",
+      "publishedAt": "2026-11-25T21:16:06Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F8%2F1%2F5%2F13485182-1-eng-GB%2F9d0b8fdc8334-photo_SXM2026112100007635.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
@@ -21,17 +21,95 @@
       "tags": []
     },
     {
-      "id": "al -f4b82c67ab11",
-      "title": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
-      "description": "Khalifa Haftar’s Libyan National Army, which Russia backs, vowed retaliation for the death of its soldiers",
-      "url": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-25T09:58:02Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0696ca9bb9d-1795593930.jpg?resize=1920%2C1440",
+      "id": "the-51474f06b50a",
+      "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
+      "description": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre endsColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one man police described as a hostage-taker…",
+      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-25T20:20:23Z",
+      "image": "https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 8,
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "rfe-5972a16e3588",
+      "title": "‘We Became A Target’: Ukrainian Reporter On Being Hunted By Russian Drones",
+      "description": "RFE/RL war correspondent Maryan Kushnir describes how drone warfare has transformed Ukraine’s front line, the growing danger of Russian attacks on Kyiv, his own experience of surviving an attack, and the families searching for missing loved ones.",
+      "url": "https://www.rferl.org/a/ukrainian-reporter-on-being-hunted-by-russian-drones/33905817.html",
+      "source": "RFE/RL",
+      "publishedAt": "2026-11-25T16:54:27Z",
+      "image": "https://gdb.rferl.org/b65b0c5d-ea5f-40fa-1883-08df407f9918_tv_w800_h450.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 14,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "al -079d3c072cfe",
+      "title": "Colombian forces rescue all hostages after supermarket siege",
+      "description": "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-25T16:44:22Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795624952.jpg?resize=1625%2C1080&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-ffa724863311",
+      "title": "Kremlin declines comment on reports 700,000 Russian soldiers killed in Ukraine war",
+      "description": "Kremlin spokesman Dmitry Peskov on Wednesday declined to comment on reports in Russian and international news outlets that around 700,000 Russian soldiers have been killed in the Ukraine war so far. The reports were based on hacked data from Russia's official statistics agency. Peskov said only the defence ministry can…",
+      "url": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
+      "source": "France24",
+      "publishedAt": "2026-11-25T15:14:07Z",
+      "image": "https://s.france24.com/media/display/537505cc-e8de-11f1-8609-29d00e23de9a/w:1024/p:16x9/AP26308532895133.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 11,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "deu-9c36131a4095",
+      "title": "Why Indian nationals are still ending up in Russia's war on Ukraine",
+      "description": "Whether through deception or desperation, Indians continue to be drawn into Russia's war in Ukraine. What can New Delhi do to protect its citizens from ending up fighting in Ukraine?",
+      "url": "https://www.dw.com/en/why-indian-nationals-are-still-ending-up-in-russia-s-war-on-ukraine/a-80048537?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-25T13:17:00Z",
+      "image": "https://static.dw.com/image/69612381_6.jpg",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-e82871161895",
+      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+      "description": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+      "source": "NPR World",
+      "publishedAt": "2026-11-25T12:18:09Z",
+      "image": "undefined",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
@@ -51,13 +129,13 @@
       "tags": []
     },
     {
-      "id": "fra-4ca9b0144029",
-      "title": "Live: Two Libyan soldiers killed in Ukrainian attack on Russian vessels in Benghazi",
-      "description": "Two Libyan soldiers have died from injuries sustained in an attack, claimed by Ukraine, on Russian ships near Benghazi, a senior figure in the administration in eastern Libya said late on Tuesday. Members of the European Parliament will convene in Strasbourg on Wednesday to discuss \"Europe’s role and capacity to protec…",
-      "url": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi",
-      "source": "France24",
-      "publishedAt": "2026-11-25T03:46:51Z",
-      "image": "https://s.france24.com/media/display/dd313f6c-e76f-11f1-85b8-e56ab3dc0809/w:1024/p:16x9/2026-11-23T102302Z-464352545-RC2MTOAS4A1W-RTRMADP-3-UKRAINE-CRISIS.jpg",
+      "id": "kyi-7802cad86b6f",
+      "title": "Ukrainian Skaters Win Cheers at Skate America as War Shuts Rinks at Home",
+      "description": "Ukrainian figure skaters competing at Skate America in Everett, Washington, were greeted by fans waving Ukrainian flags. Ice dancers Iryna Pidgaina and Artem Koval, who left Ukraine after the 2022 invasion, said their results show support for their country. Skaters still training at home face air raid alerts and rinks …",
+      "url": "https://www.kyivpost.com/post/91069",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-11-25T06:30:00Z",
+      "image": "https://static.kyivpost.com/storage/2026/11/24/1b46d8f2f14a65f852d433b343e02026.png?w=640&q=90&f=jpg",
       "categories": [
         "conflict"
       ],
@@ -66,64 +144,32 @@
       "tags": []
     },
     {
-      "id": "le -53725044c2ce",
-      "title": "Hackers and media outlets expose what Kremlin tried to hide: At least 500,000 dead on Ukrainian front",
-      "description": "Since Russian troops invaded Ukraine in February 2022, Vladimir Putin has blocked the publication of casualty figures. However, hackers have breached the records of Rosstat, the Russian federal statistics agency, and exiled media outlets have thoroughly examined the data. The death toll could exceed 700,000 if missing …",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/24/hackers-and-media-outlets-expose-what-the-kremlin-tried-to-hide-at-least-500-000-dead-on-the-ukrainian-front_6787717_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-24T22:48:18Z",
-      "image": "https://img.lemde.fr/2026/11/24/500/0/4000/2000/644/322/60/0/1246bf5_upload-1-ubrjyv0vn0fs-075-ukrinform-aerialre241219-npg9k.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 12,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "bbc-828037c2e0af",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "id": "bbc-c2f1c9c14e1c",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "publishedAt": "2026-11-24T15:35:53Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-25T00:54:13Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 11,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "deu-b1d62f69a2ca",
-      "title": "Is North Korea holding back on sending Russia more troops?",
-      "description": "A North Korean troop buildup Ukraine warned about months ago has yet to materialize, even as strategic cooperation continues. Analysts say Pyongyang is balancing its ties with Moscow and Beijing.",
-      "url": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-24T12:51:00Z",
-      "image": "https://static.dw.com/image/76947268_6.jpg",
+      "id": "the-7a580d093b18",
+      "title": "Zelensky Confirms Ukraine Was Behind Drone Attack on Russian Cargo Ship in Gulf of Finland",
+      "description": "Volodymyr Zelensky said the cargo ship Sparta II and \"every vessel with a Russian flag\" are legitimate targets for Ukrainian strikes.",
+      "url": "https://www.themoscowtimes.com/2026/11/24/zelensky-confirms-ukraine-was-behind-drone-attack-on-russian-cargo-ship-in-gulf-a94364",
+      "source": "The Moscow Times",
+      "publishedAt": "2026-11-24T14:47:26Z",
+      "image": "https://static.themoscowtimes.com/image/og/34/94364__34cca4d1625d4c1a28a22e96a0ca95fd-062d5539.jpg",
       "categories": [
-        "conflict",
-        "analysis"
+        "conflict"
       ],
-      "relevanceScore": 7,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "the-21d99b6d7920",
-      "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
-      "description": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migrants and refugees back to Myanmar, despite acknowledging that many asylum seekers in the country had been victims of “atrocities” carried ​o…",
-      "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-24T05:54:14Z",
-      "image": "https://i.guim.co.uk/img/media/d6322487e65959fb8cbf133843b8295362b0ce38/0_0_3825_3061/master/3825.jpg?width=140&quality=85&auto=format&fit=max&s=2449c5f8eaadceba9e89b9521d583232",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 12,
+      "relevanceScore": 5,
       "isAnalysis": false,
       "tags": []
     },
@@ -143,22 +189,6 @@
       "tags": []
     },
     {
-      "id": "rfe-d23641c7c663",
-      "title": "More Than 700,000 Russian Soldiers Killed In Ukraine War, New Analysis Finds",
-      "description": "More than 700,000 Russian soldiers have been killed during the nearly-five-year-old war on Ukraine, according to a new analysis, a staggering figure that highlights Moscow's intent on conquering Ukrainian territory -- and Ukraine's intent on inflicting mass casualties.",
-      "url": "https://www.rferl.org/a/russia-ukraine-war-casualty-estimate-killed/33904373.html",
-      "source": "RFE/RL",
-      "publishedAt": "2026-11-23T19:14:07Z",
-      "image": "https://gdb.rferl.org/504d4d45-3795-4d14-817b-08decad17715_w800_h450.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 13,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "un -1a72f7bdfbc7",
       "title": "Gaza war has undone 77 years of human development, UN warns",
       "description": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
@@ -166,36 +196,6 @@
       "source": "UN News",
       "publishedAt": "2026-11-23T12:00:00Z",
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/30-10-2026-UNICEF-Gaza-05.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "kyi-22db38aba6d7",
-      "title": "3 Killed in Russian Strike on Private Clinic in Zaporizhzhia",
-      "description": "Three people were killed in a Russian strike on a private clinic in Zaporizhzhia on Monday, while attacks across Ukraine caused further casualties and damage to civilian infrastructure.",
-      "url": "https://www.kyivpost.com/post/90922",
-      "source": "Kyiv Post",
-      "publishedAt": "2026-11-23T11:53:02Z",
-      "image": "https://static.kyivpost.com/storage/2026/11/23/059968754bd8c3aa0a386ab8617cc699.jpeg?w=640&q=90&f=jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "the-c7e65698b6ac",
-      "title": "Libya’s Eastern Government Suspects Drone Attack Caused Explosion on Russian Ship",
-      "description": "The government stressed that Libya was not a party to the war between Russia and Ukraine, saying its relations with friendly countries were a sovereign matter.",
-      "url": "https://www.themoscowtimes.com/2026/11/22/libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port-a94344",
-      "source": "The Moscow Times",
-      "publishedAt": "2026-11-22T15:23:00Z",
-      "image": "https://www.themoscowtimes.com/image/og/95/94344__95a61eda951a64e08194431a3706e1b7-080fb572.jpg",
       "categories": [
         "conflict"
       ],

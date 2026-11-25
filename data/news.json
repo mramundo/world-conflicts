@@ -1,32 +1,63 @@
 {
-  "updated": "2026-11-24T17:07:45Z",
+  "updated": "2026-11-25T01:58:48Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-57ebf4c61a58",
-      "title": "Huang's Nvidia return sets up clash with China hawks in Congress",
+      "id": "nik-3a08cfe0a73b",
+      "title": "ICC judge says sanctions 'overcompliance' aids US intimidation against court",
       "description": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/huang-s-nvidia-return-sets-up-clash-with-china-hawks-in-congress",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/icc-judge-says-sanctions-overcompliance-aids-us-intimidation-against-court",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-24T17:07:40Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F4%2F1%2F1%2F13481149-1-eng-GB%2F119935332a77-b1.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-11-25T01:58:46Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F8%2F1%2F5%2F13485182-1-eng-GB%2F9d0b8fdc8334-photo_SXM2026112100007635.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
-        "conflict"
+        "conflict",
+        "humanitarian"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "fra-4fb99a7dd65c",
-      "title": "Leaked data suggests 500,000 Russian soldiers killed since start of Ukraine invasion",
-      "description": "More than 500,000 Russian soldiers have been killed in the war with Ukraine, according to an estimate by a number of media organisations. The figures are based on a huge dataset that was hacked from Russia’s state statistics agency Rosstat by Belarusian activist group Cyber Partisans and a Ukrainian hacker group, Silen…",
-      "url": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
+      "id": "le -53725044c2ce",
+      "title": "Hackers and media outlets expose what the Kremlin tried to hide: At least 500,000 dead on the Ukrainian front",
+      "description": "Since Russian troops invaded Ukraine in February 2022, Vladimir Putin has blocked the publication of casualty figures. However, hackers have breached the records of Rosstat, the Russian federal statistics agency, and exiled media outlets have thoroughly examined the data. The death toll could exceed 700,000 if missing …",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/24/hackers-and-media-outlets-expose-what-the-kremlin-tried-to-hide-at-least-500-000-dead-on-the-ukrainian-front_6787717_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-24T22:48:22Z",
+      "image": "https://img.lemde.fr/2026/11/24/500/0/4000/2000/644/322/60/0/1246bf5_upload-1-ubrjyv0vn0fs-075-ukrinform-aerialre241219-npg9k.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 12,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -c3c3df9289a3",
+      "title": "Colombian president blames ex-FARC rebels for car bomb blast",
+      "description": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-24T21:45:42Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05c84d4491-1795541069.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-2be3c14365ae",
+      "title": "Russian losses on Ukrainian front top 700,000 including missing",
+      "description": "New analysis of leaked Russian government data suggests more than 700,000 Russian soldiers have died in the war against Ukraine. Independent Russian media outlets have updated their estimates of Moscow's military casualties, including soldiers missing on the frontline, after Belarusian and Ukrainian hackers obtained fi…",
+      "url": "https://www.france24.com/en/russian-losses-on-ukrainian-front-top-700-000-including-missing",
       "source": "France24",
-      "publishedAt": "2026-11-24T15:53:03Z",
-      "image": "https://s.france24.com/media/display/c10d4f8e-e81d-11f1-82e4-81da3ab2acbb/w:1024/p:16x9/EN-20261124-160120-160737-CS.jpg",
+      "publishedAt": "2026-11-24T19:22:31Z",
+      "image": "https://s.france24.com/media/display/f196246a-e83a-11f1-93dd-81da3ab2acbb/w:1024/p:16x9/EN-20261124-200144-200306-CS.jpg",
       "categories": [
         "conflict"
       ],
@@ -46,21 +77,6 @@
         "conflict"
       ],
       "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -7dfd72916188",
-      "title": "Israeli air strike kills senior Hamas security official in Gaza",
-      "description": "Naim Abu Nahl, 50, was killed in a crowded area while four others, including a Palestinian woman, were wounded.",
-      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-24T13:55:11Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b058bb878cb-1795525560.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 8,
       "isAnalysis": false,
       "tags": []
     },
@@ -141,21 +157,6 @@
       ],
       "relevanceScore": 13,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "le -85997e3ab570",
-      "title": "Attacks on two Russian ships in Libyan waters mark new turn in Ukraine war",
-      "description": "Ukrainian President Volodymyr Zelensky claimed seven naval drones carried out two attacks off the coast of Benghazi. The attack on Russian vessels transporting weaponry demonstrates Kyiv's capacity to strike Moscow's interests wherever they might be.",
-      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/11/23/attacks-on-two-russian-ships-in-libyan-waters-mark-new-turn-in-ukraine-war_6787337_124.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-23T17:26:32Z",
-      "image": "https://img.lemde.fr/2026/11/23/965/0/5981/2990/644/322/60/0/34c8905_ftp-1-0voe7ylwju1n-afp-d8c49t3.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

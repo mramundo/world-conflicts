@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-25T21:16:08Z",
+  "updated": "2026-11-26T03:59:15Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 14,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,11 +10,41 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/icc-judge-says-sanctions-overcompliance-aids-us-intimidation-against-court",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-25T21:16:06Z",
+      "publishedAt": "2026-11-26T03:59:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F8%2F1%2F5%2F13485182-1-eng-GB%2F9d0b8fdc8334-photo_SXM2026112100007635.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -36d5af7e96a1",
+      "title": "Duran Duran guitarist Andy Taylor dies at 65",
+      "description": "The original guitarist of the new wave supergroup Duran Duran, Taylor died on Monday, November 23, after a long battle with prostate cancer.",
+      "url": "https://www.lemonde.fr/en/obituaries/article/2026/11/26/duran-duran-guitarist-andy-taylor-dies-at-65_6788740_15.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-26T02:37:58Z",
+      "image": "https://img.lemde.fr/2026/11/26/112/0/3000/1500/644/322/60/0/a0abc7b_upload-1-ztontqzzrb6o-a0abc7b-upload-1-mucbl66qqrdn-063-55826029ca125-andre-agassi.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -f4b2e4965e7a",
+      "title": "Two Syrian security personnel killed in ISIL suicide attack",
+      "description": "Syrian forces say the attack in northeastern Syria&#039;s city of Hasakah involved four assailants who were all killed.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-26T00:41:49Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795648332.jpg?resize=1920%2C1061&amp;quality=80",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
@@ -36,6 +66,21 @@
       "tags": []
     },
     {
+      "id": "fra-eb0a93722806",
+      "title": "Poland says will create no-fly zone at Ukraine border after repeated airspace violations",
+      "description": "Poland will soon create a no-fly zone near the Ukrainian border, a deputy defence minister announced on Wednesday, after several incursions into its airspace it blamed on Russia. Poland backs Ukraine as it fights off Russia's near five-year invasion and has repeatedly accused Moscow of seeking to target Kyiv's supporte…",
+      "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+      "source": "France24",
+      "publishedAt": "2026-11-25T19:22:43Z",
+      "image": "https://s.france24.com/media/display/008c6c02-e905-11f1-b02d-1991d4929b54/w:1024/p:16x9/EN-20261125-200844-201037-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
       "id": "rfe-5972a16e3588",
       "title": "‘We Became A Target’: Ukrainian Reporter On Being Hunted By Russian Drones",
       "description": "RFE/RL war correspondent Maryan Kushnir describes how drone warfare has transformed Ukraine’s front line, the growing danger of Russian attacks on Kyiv, his own experience of surviving an attack, and the families searching for missing loved ones.",
@@ -49,36 +94,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "al -079d3c072cfe",
-      "title": "Colombian forces rescue all hostages after supermarket siege",
-      "description": "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-25T16:44:22Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795624952.jpg?resize=1625%2C1080&amp;quality=80",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-ffa724863311",
-      "title": "Kremlin declines comment on reports 700,000 Russian soldiers killed in Ukraine war",
-      "description": "Kremlin spokesman Dmitry Peskov on Wednesday declined to comment on reports in Russian and international news outlets that around 700,000 Russian soldiers have been killed in the Ukraine war so far. The reports were based on hacked data from Russia's official statistics agency. Peskov said only the defence ministry can…",
-      "url": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
-      "source": "France24",
-      "publishedAt": "2026-11-25T15:14:07Z",
-      "image": "https://s.france24.com/media/display/537505cc-e8de-11f1-8609-29d00e23de9a/w:1024/p:16x9/AP26308532895133.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 11,
-      "isAnalysis": false,
       "tags": []
     },
     {

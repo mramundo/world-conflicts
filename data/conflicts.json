@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T13:45:20Z",
+  "updated": "2026-11-26T22:51:28Z",
   "source": "curated seed + live Wikipedia infobox scrape + news cross-reference",
   "wikipediaListRevision": "2026-11-25T00:24:19Z",
   "items": [
@@ -23,8 +23,8 @@
       ],
       "wikipediaPage": "Russo-Ukrainian_War",
       "lastUpdate": "2026-11-26",
-      "wikipediaRevision": "2026-11-26T11:14:56Z",
-      "recentNewsCount": 9
+      "wikipediaRevision": "2026-11-26T17:04:50Z",
+      "recentNewsCount": 5
     },
     {
       "id": "il-ps",
@@ -46,8 +46,8 @@
       ],
       "wikipediaPage": "Gaza_war",
       "lastUpdate": "2026-11-26",
-      "wikipediaRevision": "2026-11-26T10:13:58Z",
-      "recentNewsCount": 1
+      "wikipediaRevision": "2026-11-26T16:21:02Z",
+      "recentNewsCount": 2
     },
     {
       "id": "sd-war",
@@ -290,9 +290,9 @@
         "Terrorism"
       ],
       "wikipediaPage": "Republican_insurgency_in_Afghanistan",
-      "lastUpdate": "2026-11-24",
+      "lastUpdate": "2026-11-26",
       "casualtiesSource": "wikipedia",
-      "wikipediaRevision": "2026-11-24T19:50:06Z",
+      "wikipediaRevision": "2026-11-26T16:47:07Z",
       "recentNewsCount": 0
     },
     {
@@ -316,7 +316,7 @@
       ],
       "wikipediaPage": "Iran%E2%80%93Israel_proxy_conflict",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     },
     {
       "id": "et-am",
@@ -381,7 +381,7 @@
       ],
       "wikipediaPage": "Libyan_crisis_(2011%E2%80%93present)",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 0
     },
     {
       "id": "kashmir",
@@ -449,7 +449,7 @@
       ],
       "wikipediaPage": "2023%E2%80%93present_Israeli_invasion_of_the_West_Bank",
       "lastUpdate": "2026-04-21",
-      "recentNewsCount": 1
+      "recentNewsCount": 2
     }
   ]
 }

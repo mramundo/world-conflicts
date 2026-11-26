@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-26T13:45:12Z",
+  "updated": "2026-11-26T22:51:18Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 14,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,11 +10,89 @@
       "description": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/icc-judge-says-sanctions-overcompliance-aids-us-intimidation-against-court",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-26T13:45:08Z",
+      "publishedAt": "2026-11-26T22:51:14Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F8%2F1%2F5%2F13485182-1-eng-GB%2F9d0b8fdc8334-photo_SXM2026112100007635.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict",
         "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "ans-72ef63501665",
+      "title": "Kiev, 'non abbiamo alcuna intenzione di estendere la guerra alla Libia'",
+      "description": "'Le nostre azioni sono dirette esclusivamente contro obiettivi militari russi'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/26/kiev-non-abbiamo-alcuna-intenzione-di-estendere-la-guerra-alla-libia_2b91ab4b-461b-4453-940e-9468e5c0b6a3.html",
+      "source": "ANSA",
+      "publishedAt": "2026-11-26T20:48:44Z",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/22/e296eddd9b0057e0739788ad27ab8641.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-399a72f1d450",
+      "title": "Hamas weighs response after Israel kills 10 people in Gaza",
+      "description": "Five Israeli strikes and a shooting overnight and on Thursday killed 10 Palestinians across Gaza, according to officials at Shifa and Al-Aqsa Martyrs hospitals, where the casualties were taken. A strike on a residential apartment in Deir Al-Balah in central Gaza killed a man and his wife, the officials said. FRANCE 24'…",
+      "url": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
+      "source": "France24",
+      "publishedAt": "2026-11-26T20:35:23Z",
+      "image": "https://s.france24.com/media/display/4351c01e-e9d7-11f1-a478-f9cf020caef6/w:1024/p:16x9/EN-20261126-210731-211826-CS.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -2693087a6881",
+      "title": "EU leaders clash over push for bloc's budget before French election",
+      "description": "EU leaders argued over the bloc's 2028-2034 budget in Brussels on Thursday, with the EU Commission pushing for a December deal to avoid elections, in France and elsewhere, affecting the already tense negotiations.",
+      "url": "https://www.lemonde.fr/en/international/article/2026/11/26/eu-leaders-clash-over-push-for-bloc-s-budget-before-french-election_6789532_4.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-26T20:00:13Z",
+      "image": "https://img.lemde.fr/2026/11/26/5/0/3337/1668/644/322/60/0/dfc937d_ftp-1-p3t34yad4n9c-23a44c0bcea7440696700e775e99b24f-0-4cd58548fcd94e19811ae0819aab6c85.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -da65d8ebd966",
+      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+      "description": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-26T19:19:12Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af08bf56851-1794149365.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "humanitarian",
+        "analysis"
+      ],
+      "relevanceScore": 5,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "npr-f70baf0ffc8a",
+      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+      "description": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+      "source": "NPR World",
+      "publishedAt": "2026-11-26T13:47:09Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fce%2F2b1557be47b9bc08a682a6d8f98f%2Fap26329472681866.jpg",
+      "categories": [
+        "conflict"
       ],
       "relevanceScore": 4,
       "isAnalysis": false,
@@ -32,21 +110,6 @@
         "conflict"
       ],
       "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "ans-000fb83e87e2",
-      "title": "Meloni, 'la guerra non si deve allargare al Mediterraneo'",
-      "description": "'Dobbiamo essere molto chiari con gli amici ucraini e con i nostri partner'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/meloni-la-guerra-non-si-deve-allargare-al-mediterraneo_ce72fd5c-0ecf-42d8-a144-ee8fcb832cb3.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-26T11:15:58Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/26/5ad02161e4e4d84516d6c6ec14b08b67.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
       "isAnalysis": false,
       "tags": []
     },
@@ -81,24 +144,9 @@
       "tags": []
     },
     {
-      "id": "al -8c9e3c49e146",
-      "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
-      "description": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T10:02:09Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07dde5-1795677669.jpg?resize=1200%2C675",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "deu-7f5e18c1ef93",
       "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
-      "description": "SpaceX's US Starlink satellite system has played a key role in countering the Russian military in Ukraine, but now a Russian counterpart is under development. What could this mean for Ukraine in future?",
+      "description": "SpaceX's US Starlink satellite system has played a key role in countering the Russian military in Ukraine, but now a Russian counterpart is under development. What could this mean for Ukraine?",
       "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-11-26T05:45:00Z",
@@ -109,36 +157,6 @@
       ],
       "relevanceScore": 8,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "fra-9950813daa3f",
-      "title": "Live: EU leaders meet in Brussels amid division over Ukraine funding",
-      "description": "EU leaders are set to clash in Brussels on Thursday over a proposed €45 billion loan to fund Ukraine in 2027, with Germany pressing members to contribute and others seeking exemption. A day earlier, US President Donald Trump and NATO chief Mark Rutte urged Russia not to escalate its war with Ukraine after talks in Flor…",
-      "url": "https://www.france24.com/en/europe/20261126-live-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen",
-      "source": "France24",
-      "publishedAt": "2026-11-26T05:44:57Z",
-      "image": "https://s.france24.com/media/display/20873826-e981-11f1-ab3b-f9cf020caef6/w:1024/p:16x9/AP26330332730635.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -df503f3bc122",
-      "title": "War in Ukraine: Europeans ready to talk with Putin to advance vision for security architecture",
-      "description": "While they do not expect renewed dialogue with Moscow to bring peace in the short or medium term, European leaders do not want to let the United States negotiate Russia's relationships with NATO and the European Union without them.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/26/war-in-ukraine-europeans-ready-to-talk-to-vladimir-putin-to-advance-their-vision-for-europe-s-security-architecture_6788806_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-26T04:37:45Z",
-      "image": "https://img.lemde.fr/2026/11/19/0/0/7056/3528/644/322/60/0/416287a_ftp-1-o72zp5beoynf-afp-d7yy2df.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": false,
       "tags": []
     },
     {
@@ -174,22 +192,6 @@
       "tags": []
     },
     {
-      "id": "npr-e82871161895",
-      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-      "description": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
-      "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
-      "source": "NPR World",
-      "publishedAt": "2026-11-25T12:18:09Z",
-      "image": "undefined",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "un -ef4727089511",
       "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
       "description": "When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict. The Security Council o…",
@@ -201,21 +203,6 @@
         "conflict"
       ],
       "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "cs -c2c27a32710c",
-      "title": "First Eastern Europe, now Libya: The Ukraine war expands its reach",
-      "description": "More sophisticated military technology developed by Ukraine, and suspected Russian message-sending, are expanding the borders of the Ukraine war.",
-      "url": "https://www.csmonitor.com/World/Europe/2026/1123/russia-ukraine-sea-drones-missiles-libya-poland?icid=rss",
-      "source": "CS Monitor",
-      "publishedAt": "2026-11-23T22:06:53Z",
-      "image": "https://images.csmonitor.com/csm/2026/11/1123_OUKRAINELATEST_russian_cargo_ship.jpg?alias=standard_900x600",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
       "isAnalysis": false,
       "tags": []
     }

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-27T04:50:26Z",
+  "updated": "2026-11-27T14:46:15Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 12,
+  "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
@@ -10,7 +10,7 @@
       "description": "",
       "url": "https://asia.nikkei.com/politics/defense/us-deploys-f-15ex-jets-to-okinawa-in-fighter-drone-warfare-push",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-27T04:50:22Z",
+      "publishedAt": "2026-11-27T14:46:11Z",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F6%2F0%2F13490656-1-eng-GB%2Ff0a1a5a5d800-20261125N-F15EX-fighter.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
         "conflict"
@@ -20,13 +20,91 @@
       "tags": []
     },
     {
-      "id": "al -d0228671f3c2",
-      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
-      "description": "It remains unclear who carried out the attack on Niger&#039;s National Guard in Tillaberi, near the Mali border.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+      "id": "al -9119870f8b9e",
+      "title": "Why did Georgian police clash with Turkish football fans over Palestine?",
+      "description": "Georgia&#039;s Interior Ministry says 16 people were detained and three employees injured during clashes.",
+      "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-27T04:06:52Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a94293e-1788094782.jpg?resize=1200%2C675",
+      "publishedAt": "2026-11-27T13:32:55Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b096c4023577-1795779648.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "deu-87e111af2998",
+      "title": "Duterte's ICC trial: What is at stake for the Philippines?",
+      "description": "Former Philippine President Rodrigo Duterte faces trial in The Hague over his deadly war on drugs. The proceedings could also determine the political fortunes of one of the Philippines' most powerful dynasties.",
+      "url": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "publishedAt": "2026-11-27T13:23:00Z",
+      "image": "https://static.dw.com/image/79602176_6.jpg",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 4,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "un -2117cc9140c3",
+      "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+      "description": "Serious funding cuts are severely weakening protection for refugee and stateless women and girls and others at risk of gender-based violence (GBV), like Mariam, who survived a decade of captivity and rape at the hands of Boko Haram militia.&nbsp;",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+      "source": "UN News",
+      "publishedAt": "2026-11-27T12:00:00Z",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-11-2021_UN0126512_Nigeria.jpg/image560x340cropped.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "fra-0eafa25075e3",
+      "title": "Kuwait: Two Italians killed in drone attack",
+      "description": "A drone attack in Kuwait killed two Italian technicians working on an air defence system on Thursday, marking the first fatal strike in the Gulf state for months.",
+      "url": "https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack",
+      "source": "France24",
+      "publishedAt": "2026-11-27T11:45:48Z",
+      "image": "https://s.france24.com/media/display/4502e30e-ea52-11f1-ae75-77d069279b82/w:1024/p:16x9/EN-20261127-110542-110701-CS.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "cs -a2e0259b451e",
+      "title": "How the Iran war ripples unexpectedly out to rolling English farm country",
+      "description": "Home to a military airfield, this rural community has seen repeated disruptions due to threats arising from conflict in the Middle East.",
+      "url": "https://www.csmonitor.com/World/Europe/2026/1127/iran-war-fairford-england-farm-country?icid=rss",
+      "source": "CS Monitor",
+      "publishedAt": "2026-11-27T10:00:17Z",
+      "image": "https://images.csmonitor.com/csm/2026/11/ZOFAIRFORD_lede.jpg?alias=standard_900x600",
+      "categories": [
+        "conflict",
+        "analysis"
+      ],
+      "relevanceScore": 6,
+      "isAnalysis": true,
+      "tags": []
+    },
+    {
+      "id": "bbc-15078c8b6a4a",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-27T09:07:48Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
       "categories": [
         "conflict"
       ],
@@ -46,22 +124,6 @@
         "conflict"
       ],
       "relevanceScore": 4,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "fra-399a72f1d450",
-      "title": "Hamas weighs response after Israel kills 10 people in Gaza",
-      "description": "Five Israeli strikes and a shooting overnight and on Thursday killed 10 Palestinians across Gaza, according to officials at Shifa and Al-Aqsa Martyrs hospitals, where the casualties were taken. A strike on a residential apartment in Deir Al-Balah in central Gaza killed a man and his wife, the officials said. FRANCE 24'…",
-      "url": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
-      "source": "France24",
-      "publishedAt": "2026-11-26T20:35:23Z",
-      "image": "https://s.france24.com/media/display/4351c01e-e9d7-11f1-a478-f9cf020caef6/w:1024/p:16x9/EN-20261126-210731-211826-CS.jpg",
-      "categories": [
-        "conflict",
-        "humanitarian"
-      ],
-      "relevanceScore": 10,
       "isAnalysis": false,
       "tags": []
     },
@@ -111,37 +173,6 @@
       "tags": []
     },
     {
-      "id": "bbc-1fc85f46c817",
-      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-      "description": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-26T10:14:08Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "deu-7f5e18c1ef93",
-      "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
-      "description": "SpaceX's US Starlink satellite system has played a key role in countering the Russian military in Ukraine, but now a Russian counterpart is under development. What could this mean for Ukraine?",
-      "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "publishedAt": "2026-11-26T05:45:00Z",
-      "image": "https://static.dw.com/image/71856660_6.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 8,
-      "isAnalysis": true,
-      "tags": []
-    },
-    {
       "id": "kyi-9aa7e3054563",
       "title": "Kushner Admits Putin Is Not Interested in Ceasefire, Urges Zelensky to Respect Trump",
       "description": "Jared Kushner acknowledged that Vladimir Putin remains uninterested in a ceasefire while suggesting that Volodymyr Zelensky should engage with Donald Trump respectfully to secure US security guarantees. Trump’s envoy characterized Russia’s invasion of Ukraine as a “proxy war” and praised Putin as a “grandmaster of poli…",
@@ -171,21 +202,6 @@
       ],
       "relevanceScore": 14,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "un -ef4727089511",
-      "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
-      "description": "When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict. The Security Council o…",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
-      "source": "UN News",
-      "publishedAt": "2026-11-24T12:00:00Z",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026_UNISFA_Abyei_Pakistan_peacekeepers.jpg/image560x340cropped.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
       "tags": []
     }
   ]

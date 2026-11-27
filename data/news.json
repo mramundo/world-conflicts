@@ -1,44 +1,74 @@
 {
-  "updated": "2026-11-27T14:46:15Z",
+  "updated": "2026-11-27T23:15:49Z",
   "source": "Public RSS — international outlets (strict filter)",
   "feedsOk": 13,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-76663d783219",
-      "title": "US deploys F-15EX jets to Okinawa in fighter-drone warfare push",
-      "description": "",
-      "url": "https://asia.nikkei.com/politics/defense/us-deploys-f-15ex-jets-to-okinawa-in-fighter-drone-warfare-push",
-      "source": "Nikkei Asia",
-      "publishedAt": "2026-11-27T14:46:11Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F6%2F0%2F13490656-1-eng-GB%2Ff0a1a5a5d800-20261125N-F15EX-fighter.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "id": "fra-ca7308b64fa8",
+      "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+      "description": "⁠Ukraine ​made a Black Sea ceasefire offer ​to enable food exports and passed the details on to international allies, a senior Ukrainian official said Friday, adding that Kyiv was waiting for a response from Moscow. The announcement came a day after Russia attacked ​two foreign grain carriers near Ukraine's Black Sea p…",
+      "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
+      "source": "France24",
+      "publishedAt": "2026-11-27T21:09:12Z",
+      "image": "https://s.france24.com/media/display/62fe879a-ea9e-11f1-912c-174dac1c1bf0/w:1024/p:16x9/AP26200564414743.jpg",
       "categories": [
         "conflict"
       ],
-      "relevanceScore": 3,
+      "relevanceScore": 6,
       "isAnalysis": false,
       "tags": []
     },
     {
-      "id": "al -9119870f8b9e",
-      "title": "Why did Georgian police clash with Turkish football fans over Palestine?",
-      "description": "Georgia&#039;s Interior Ministry says 16 people were detained and three employees injured during clashes.",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
+      "id": "bbc-15078c8b6a4a",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "publishedAt": "2026-11-27T18:00:40Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -4f350440cb77",
+      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+      "description": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
       "source": "Al Jazeera",
-      "publishedAt": "2026-11-27T13:32:55Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b096c4023577-1795779648.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-27T17:13:46Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b099d3113c10-1795792177.jpg?resize=1920%2C1440",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -91ba9738bb02",
+      "title": "'Netanyahu is the key figure in the rift between Israel and American public opinion'",
+      "description": "Destruction of Gaza, wars in Iran, accelerated settlement expansion in the West Bank over the past 20 years… The Israeli prime minister is chiefly responsible for the decline in American support for Israel, despite having built his image on his close ties with the United States, a country where he was raised and educat…",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/27/netanyahu-is-the-key-figure-in-the-rift-between-israel-and-american-public-opinion_6789961_23.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-27T14:44:15Z",
+      "image": "https://img.lemde.fr/2026/10/28/93/0/5760/2880/644/322/60/0/89416a1_upload-1-gkicyvz04hb0-lgeai-qg-netanyahou-12.jpg",
       "categories": [
         "conflict",
         "analysis"
       ],
-      "relevanceScore": 9,
+      "relevanceScore": 6,
       "isAnalysis": true,
       "tags": []
     },
     {
       "id": "deu-87e111af2998",
       "title": "Duterte's ICC trial: What is at stake for the Philippines?",
-      "description": "Former Philippine President Rodrigo Duterte faces trial in The Hague over his deadly war on drugs. The proceedings could also determine the political fortunes of one of the Philippines' most powerful dynasties.",
+      "description": "Former Philippine President Rodrigo Duterte faces trial in The Hague over his deadly war on drugs. The proceedings could determine the political fortunes of a powerful dynasty. Victims' families hope to see justice.",
       "url": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "publishedAt": "2026-11-27T13:23:00Z",
@@ -67,21 +97,6 @@
       "tags": []
     },
     {
-      "id": "fra-0eafa25075e3",
-      "title": "Kuwait: Two Italians killed in drone attack",
-      "description": "A drone attack in Kuwait killed two Italian technicians working on an air defence system on Thursday, marking the first fatal strike in the Gulf state for months.",
-      "url": "https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack",
-      "source": "France24",
-      "publishedAt": "2026-11-27T11:45:48Z",
-      "image": "https://s.france24.com/media/display/4502e30e-ea52-11f1-ae75-77d069279b82/w:1024/p:16x9/EN-20261127-110542-110701-CS.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
       "id": "cs -a2e0259b451e",
       "title": "How the Iran war ripples unexpectedly out to rolling English farm country",
       "description": "Home to a military airfield, this rural community has seen repeated disruptions due to threats arising from conflict in the Middle East.",
@@ -95,21 +110,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "bbc-15078c8b6a4a",
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "publishedAt": "2026-11-27T09:07:48Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 9,
-      "isAnalysis": false,
       "tags": []
     },
     {

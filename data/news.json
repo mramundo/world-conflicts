@@ -1,22 +1,36 @@
 {
-  "updated": "2026-11-26T22:51:18Z",
+  "updated": "2026-11-27T04:50:26Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
     {
-      "id": "nik-3a08cfe0a73b",
-      "title": "ICC judge says sanctions 'overcompliance' aids US intimidation against court",
+      "id": "nik-76663d783219",
+      "title": "US deploys F-15EX jets to Okinawa in fighter-drone warfare push",
       "description": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/icc-judge-says-sanctions-overcompliance-aids-us-intimidation-against-court",
+      "url": "https://asia.nikkei.com/politics/defense/us-deploys-f-15ex-jets-to-okinawa-in-fighter-drone-warfare-push",
       "source": "Nikkei Asia",
-      "publishedAt": "2026-11-26T22:51:14Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F8%2F1%2F5%2F13485182-1-eng-GB%2F9d0b8fdc8334-photo_SXM2026112100007635.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+      "publishedAt": "2026-11-27T04:50:22Z",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F6%2F0%2F13490656-1-eng-GB%2Ff0a1a5a5d800-20261125N-F15EX-fighter.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "categories": [
-        "conflict",
-        "humanitarian"
+        "conflict"
       ],
-      "relevanceScore": 4,
+      "relevanceScore": 3,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "al -d0228671f3c2",
+      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+      "description": "It remains unclear who carried out the attack on Niger&#039;s National Guard in Tillaberi, near the Mali border.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-27T04:06:52Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a94293e-1788094782.jpg?resize=1200%2C675",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 9,
       "isAnalysis": false,
       "tags": []
     },
@@ -49,38 +63,6 @@
       ],
       "relevanceScore": 10,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -2693087a6881",
-      "title": "EU leaders clash over push for bloc's budget before French election",
-      "description": "EU leaders argued over the bloc's 2028-2034 budget in Brussels on Thursday, with the EU Commission pushing for a December deal to avoid elections, in France and elsewhere, affecting the already tense negotiations.",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/26/eu-leaders-clash-over-push-for-bloc-s-budget-before-french-election_6789532_4.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-26T20:00:13Z",
-      "image": "https://img.lemde.fr/2026/11/26/5/0/3337/1668/644/322/60/0/dfc937d_ftp-1-p3t34yad4n9c-23a44c0bcea7440696700e775e99b24f-0-4cd58548fcd94e19811ae0819aab6c85.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 3,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -da65d8ebd966",
-      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
-      "description": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-26T19:19:12Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af08bf56851-1794149365.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict",
-        "humanitarian",
-        "analysis"
-      ],
-      "relevanceScore": 5,
-      "isAnalysis": true,
       "tags": []
     },
     {

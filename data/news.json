@@ -1,9 +1,40 @@
 {
-  "updated": "2026-11-27T23:15:49Z",
+  "updated": "2026-11-28T06:49:48Z",
   "source": "Public RSS — international outlets (strict filter)",
-  "feedsOk": 13,
+  "feedsOk": 12,
   "feedsTotal": 15,
   "items": [
+    {
+      "id": "al -d4f62329faa8",
+      "title": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+      "description": "Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir&#039;s separatist movement.",
+      "url": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-11-28T04:30:16Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26322287443938-1795611123_697947-1795840147.jpg?resize=1200%2C630&amp;quality=80",
+      "categories": [
+        "conflict"
+      ],
+      "relevanceScore": 7,
+      "isAnalysis": false,
+      "tags": []
+    },
+    {
+      "id": "le -396c2e9966d3",
+      "title": "In the Democratic Republic of Congo, veteran rebel leader Thomas Lubanga launches a new offensive",
+      "description": "In 2012, Lubanga became the first person convicted by the International Criminal Court for recruiting child soldiers in 2002 and 2003. Now exiled in Uganda, he is heading an insurgent group that has been advancing toward Bunia since mid-November.",
+      "url": "https://www.lemonde.fr/en/le-monde-africa/article/2026/11/28/in-the-democratic-republic-of-congo-veteran-rebel-leader-thomas-lubanga-launches-a-new-offensive_6790390_124.html",
+      "source": "Le Monde (EN)",
+      "publishedAt": "2026-11-28T03:17:06Z",
+      "image": "https://img.lemde.fr/2026/10/27/148/0/3277/1638/644/322/60/0/94ebe97_upload-1-r7ltnha84qth-2025-07-16t130910z-488788284-rc2lnfawxvzf-rtrmadp-3-congo-security.JPG",
+      "categories": [
+        "conflict",
+        "humanitarian"
+      ],
+      "relevanceScore": 10,
+      "isAnalysis": false,
+      "tags": []
+    },
     {
       "id": "fra-ca7308b64fa8",
       "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
@@ -32,37 +63,6 @@
       ],
       "relevanceScore": 9,
       "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "al -4f350440cb77",
-      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
-      "description": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publishedAt": "2026-11-27T17:13:46Z",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b099d3113c10-1795792177.jpg?resize=1920%2C1440",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 7,
-      "isAnalysis": false,
-      "tags": []
-    },
-    {
-      "id": "le -91ba9738bb02",
-      "title": "'Netanyahu is the key figure in the rift between Israel and American public opinion'",
-      "description": "Destruction of Gaza, wars in Iran, accelerated settlement expansion in the West Bank over the past 20 years… The Israeli prime minister is chiefly responsible for the decline in American support for Israel, despite having built his image on his close ties with the United States, a country where he was raised and educat…",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/27/netanyahu-is-the-key-figure-in-the-rift-between-israel-and-american-public-opinion_6789961_23.html",
-      "source": "Le Monde (EN)",
-      "publishedAt": "2026-11-27T14:44:15Z",
-      "image": "https://img.lemde.fr/2026/10/28/93/0/5760/2880/644/322/60/0/89416a1_upload-1-gkicyvz04hb0-lgeai-qg-netanyahou-12.jpg",
-      "categories": [
-        "conflict",
-        "analysis"
-      ],
-      "relevanceScore": 6,
-      "isAnalysis": true,
       "tags": []
     },
     {
@@ -110,21 +110,6 @@
       ],
       "relevanceScore": 6,
       "isAnalysis": true,
-      "tags": []
-    },
-    {
-      "id": "ans-72ef63501665",
-      "title": "Kiev, 'non abbiamo alcuna intenzione di estendere la guerra alla Libia'",
-      "description": "'Le nostre azioni sono dirette esclusivamente contro obiettivi militari russi'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/26/kiev-non-abbiamo-alcuna-intenzione-di-estendere-la-guerra-alla-libia_2b91ab4b-461b-4453-940e-9468e5c0b6a3.html",
-      "source": "ANSA",
-      "publishedAt": "2026-11-26T20:48:44Z",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/11/22/e296eddd9b0057e0739788ad27ab8641.jpg",
-      "categories": [
-        "conflict"
-      ],
-      "relevanceScore": 4,
-      "isAnalysis": false,
       "tags": []
     },
     {
